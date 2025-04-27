@@ -1,0 +1,822 @@
+{
+  "FileInfo": {
+    "filename": "K4-00082-CL51562-CP61700-11-01-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4705",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "기타",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대학원졸"
+    },
+    "speaker2": {
+      "participantID": "4548",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00082"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "51562",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 요즘, 작은 일에도 기쁘다",
+        "나는 야구를 좋아한다",
+        "나는 블루베리를 싫어한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "61700",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 60대 이상이다.",
+        "나는 매일 초조하다",
+        "나는 발라드 음악을 자주 듣는다",
+        "나는 양식을 좋아한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "11-01",
+    "topicType": "여가와 오락>게임",
+    "topicTitle": "게임"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00082-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "안녕하세요 저는 50대 여성입니다",
+          "summary": "나는 50대 여성이다",
+          "date": "2022-11-20",
+          "time": "06:34:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "안녕하세요 저는 60대 여성입니다",
+          "summary": "나는 60대 여성이다",
+          "date": "2022-11-20",
+          "time": "07:18:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "좋아하는 스포츠 있으세요? 저는 야구를 좋아해요",
+          "summary": "나는 야구를 좋아한다",
+          "date": "2022-11-20",
+          "time": "11:35:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "전 동적인 운동보다는 음악감상을 좋아해요 특히 발라드음악을 자주 들어요 ",
+          "summary": "나는 음악 감상을 좋아한다 나는 발라드 음악을 자주 듣는다",
+          "date": "2022-11-20",
+          "time": "12:54:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "음악 감상을 좋아하시는군요 저는 요즘, 작은 일에도 쉽게 기뻐요 좋은 음악을 들어도 그래요",
+          "summary": "나는 요즘 작은 일에도 기뻐한다",
+          "date": "2022-11-20",
+          "time": "16:39:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "음악은 치유가 되죠 전 장성한 아이들이 결혼할 생각이 없어서 매일 초조한데 음악을 들으면 마음이 안정되더라고요 ",
+          "summary": "나는 장성한 아이들이 결혼할 생각이 없어서 초조하다 나는 음악을 들으면 마음이 안정된다",
+          "date": "2022-11-20",
+          "time": "16:44:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "그러시군요..전 달콤한 과일 먹으면 스트레스가 좀 날아가요 블루베리는 싫어하지만요",
+          "summary": "나는 달콤한 과일을 먹으면 스트레스가 풀린다. 나는 블루베리를 싫어한다.",
+          "date": "2022-11-20",
+          "time": "18:25:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "저도 좋아하는 음식을 먹으면 스트레스가 풀려요 전 양식을 좋아해 즐겨 먹어요 ",
+          "summary": "나는 좋아하는 음식을 먹으면 스트레스가 풀린다 나는 양식을 좋아해서 즐겨 먹는다",
+          "date": "2022-11-20",
+          "time": "18:27:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "양식 중에 어떤 종류 좋아하세요?",
+          "summary": "",
+          "date": "2022-11-20",
+          "time": "18:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "양식은 다 좋아하지만 그중 스파게티좋아해요",
+          "summary": "나는 스파게티를 좋아한다",
+          "date": "2022-11-20",
+          "time": "18:30:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "저도 스파게티를 좋아해요^^ 저는 크림소스파입니다",
+          "summary": "나는 크림 파스타를 좋아한다",
+          "date": "2022-11-20",
+          "time": "18:31:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "저랑 취향이 비슷하네요 저도 크림파스타를 더 좋아해요 ",
+          "summary": "나는 크림 파스타를 선호한다",
+          "date": "2022-11-20",
+          "time": "18:33:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "크림파스타에 와인 한잔이 가장 좋아하는 조합이에요 ㅎㅎ",
+          "summary": "나는 크림 파스타와 와인 한 잔의 조합을 좋아한다",
+          "date": "2022-11-20",
+          "time": "19:02:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "와~저도 그 조합으로 먹어볼께요 전 이만 나가볼께요 약속이 있어서요 ",
+          "summary": "",
+          "date": "2022-11-20",
+          "time": "19:04:19",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다",
+          "나는 야구를 좋아한다",
+          "나는 요즘 작은 일에도 기뻐한다",
+          "나는 달콤한 과일을 먹으면 스트레스가 풀린다. 나는 블루베리를 싫어한다.",
+          "나는 크림 파스타를 좋아한다",
+          "나는 크림 파스타와 와인 한 잔의 조합을 좋아한다"
+        ],
+        "speaker2": [
+          "나는 60대 여성이다",
+          "나는 음악 감상을 좋아한다",
+          "나는 발라드 음악을 자주 듣는다",
+          "나는 장성한 아이들이 결혼할 생각이 없어서 초조하다 나는 음악을 들으면 마음이 안정된다",
+          "나는 좋아하는 음식을 먹으면 스트레스가 풀린다 나는 양식을 좋아해서 즐겨 먹는다",
+          "나는 스파게티를 좋아한다",
+          "나는 크림 파스타를 선호한다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00082-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00082-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "벌써 3주가 지났네요 그동안 잘 지내셨어요?",
+          "summary": "",
+          "date": "2022-11-20",
+          "time": "19:10:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "3주가 지나군요 저는 잘 지내고 있어요",
+          "summary": "",
+          "date": "2022-11-20",
+          "time": "19:11:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "요즘 아이들이 게임을 많이 해서 걱정이에요",
+          "summary": "나는 아이들이 게임을 많이 해서 걱정이다",
+          "date": "2022-11-20",
+          "time": "19:12:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "그렇군요 많은 부모님들이 그것 때문에 고민하는 경우가 많더라구요",
+          "summary": "",
+          "date": "2022-11-20",
+          "time": "19:13:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "게임 하는 것 자체를 반대하지는 않는데, 갈수록 게임 시간이 늘어서 걱정이에요",
+          "summary": "나는 갈수록 아이들의 게임 시간이 늘어서 걱정이다",
+          "date": "2022-11-20",
+          "time": "19:14:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "그렇군요 아이들이 절제하는 것은 쉬운 것은 아닌거 같아요",
+          "summary": "",
+          "date": "2022-11-20",
+          "time": "19:15:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "절제를 가르치는 것이 제 역할이라고 생각하는데, 방법을 모르겠어서 답답해요",
+          "summary": "나는 아이들에게 절제를 가르치는 방법을 몰라 답답하다",
+          "date": "2022-11-20",
+          "time": "19:15:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "그러게요 자녀교육이 쉽지만은 않은 거 같아요",
+          "summary": "나는 자녀 교육이 쉽지 않다고 생각한다",
+          "date": "2022-11-20",
+          "time": "19:17:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "교육 목적으로 탭을 이용하고 있는데, 그러다보니 제한이 더 어렵네요 저는 게임을 거의 안해서 더 이해하기가 어려운가봐요",
+          "summary": "나는 게임을 거의 하지 않아 더 이해하기 어렵다",
+          "date": "2022-11-20",
+          "time": "19:18:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "저도 게임은 못 하는 편이라 이해도가 떨어지긴  해요 다행이 우리 아이들은 게임을 많이 하지 않아서 그런 걱정은 안한편이예요",
+          "summary": "나는 게임을 못하는 편이라 게임을 많이 하는 아이들에 대한 이해가 어렵다 나는 아이들이 게임을 많이 하지 않아서 걱정을 안 한 편이었다",
+          "date": "2022-11-20",
+          "time": "19:20:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "게임을 많이 안하는 자녀를 두셨다니 부럽습니다 ㅜㅜ",
+          "summary": "나는 게임을 하지 않는 자녀를 둔 것이 부럽다",
+          "date": "2022-11-20",
+          "time": "19:21:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "저희 아이들때보다 지금이 더 게임인구가 늘어서인거 아닐까요",
+          "summary": "",
+          "date": "2022-11-20",
+          "time": "19:23:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "스마트폰 사용이 더 본격화되어 그런 것 같아요 스마트폰이 게임 문제의 주범이라고 생각해요",
+          "summary": "나는 스마트폰이 게임 문제의 주범이라고 생각한다",
+          "date": "2022-11-20",
+          "time": "19:24:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "그러네요 너무 쉽게 노출되어있네요 시간이 이리 지났네요 볼일이 있어서 그만 나가 볼게요",
+          "summary": "",
+          "date": "2022-11-20",
+          "time": "19:26:00",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 아이들이 게임을 많이 해서 걱정이다",
+          "나는 갈수록 아이들의 게임 시간이 늘어서 걱정이다",
+          "나는 아이들에게 절제를 가르치는 방법을 몰라 답답하다",
+          "나는 게임을 거의 하지 않아 더 이해하기 어렵다",
+          "나는 게임을 하지 않는 자녀를 둔 것이 부럽다",
+          "나는 스마트폰이 게임 문제의 주범이라고 생각한다"
+        ],
+        "speaker2": [
+          "나는 자녀 교육이 쉽지 않다고 생각한다",
+          "나는 게임을 못하는 편이라 게임을 많이 하는 아이들에 대한 이해가 어렵다",
+          "나는 아이들이 게임을 많이 하지 않아서 걱정을 안 한 편이었다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다",
+          "나는 야구를 좋아한다",
+          "나는 요즘 작은 일에도 기뻐한다",
+          "나는 달콤한 과일을 먹으면 스트레스가 풀린다. 나는 블루베리를 싫어한다.",
+          "나는 크림 파스타를 좋아한다",
+          "나는 크림 파스타와 와인 한 잔의 조합을 좋아한다"
+        ],
+        "speaker2": [
+          "나는 60대 여성이다",
+          "나는 음악 감상을 좋아한다",
+          "나는 발라드 음악을 자주 듣는다",
+          "나는 장성한 아이들이 결혼할 생각이 없어서 초조하다 나는 음악을 들으면 마음이 안정된다",
+          "나는 좋아하는 음식을 먹으면 스트레스가 풀린다 나는 양식을 좋아해서 즐겨 먹는다",
+          "나는 스파게티를 좋아한다",
+          "나는 크림 파스타를 선호한다"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00082-2",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00082-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "시간이 참 빠르네요 벌써 5일이나 지났네요",
+          "summary": "",
+          "date": "2022-11-20",
+          "time": "21:25:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "벌써 5일이 지났군요 저는 잘 지냈어요",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "07:51:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "아이들 게임 때문에 계속 고민이에요 스마트폰으로 앉아서 하는 게임 말고 몸을 움직이면서 하는 게임을 사줄까 생각중이에요",
+          "summary": "나는 아이들이 몸을 움직이며 하는 게임을 사줄까 한다",
+          "date": "2022-11-21",
+          "time": "08:04:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "좋은 생각이네요 그런 게임도 있나요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "09:35:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "@브랜드명@에 활동해야하는 게임이 많다고 들었어요 ",
+          "summary": "나는 @브랜드명@에 활동하는 게임이 많다고 들었다",
+          "date": "2022-11-21",
+          "time": "10:34:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "저는 게임에는 문외한이라 처음 들어보네요",
+          "summary": "나는 게임에 문외한이다",
+          "date": "2022-11-21",
+          "time": "10:34:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "게임을 전혀 안하세요? 휴대폰 게임도요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "10:47:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "네~전 그런 쪽으로는 흥미가 없네요 여가시간에는 음악을 듣거나 영화를 보지 게임은 안해요",
+          "summary": "나는 게임에 흥미가 없다 나는 여가시간에는 음악을 듣거나 영화를 본다",
+          "date": "2022-11-21",
+          "time": "11:09:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "그러시군요 저는 가끔 휴대폰 게임을 하긴 해요^^",
+          "summary": "나는 가끔 휴대폰 게임을 한다",
+          "date": "2022-11-21",
+          "time": "11:41:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "전 가끔 여행중 리조트안에 있는 게임장에서는 해봤어요",
+          "summary": "나는 여행 중 리조트 안 게임장에서는 게임을 해본 적이 있다",
+          "date": "2022-11-21",
+          "time": "12:07:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "요즘은 복합게임장 같은 게 자주 보여요 영화관 있는 쇼핑몰에서 봤어요",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "13:15:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "네~그런 곳에서는 가족들과 같이 게임을 하면 즐겁더라고요",
+          "summary": "나는 리조트 내 게임장에서 가족들과 같이 게임을 하면 즐겁다",
+          "date": "2022-11-21",
+          "time": "13:29:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "저도 가족들과 함께 즐길 수 있는 게임은 좋아해요",
+          "summary": "나는 가족과 함께 즐길 수 있는 게임을 좋아한다",
+          "date": "2022-11-21",
+          "time": "13:47:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "그렇죠 전 이만 나가볼께요 약속이 있어서요 ",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "14:10:26",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 아이들이 몸을 움직이며 하는 게임을 사줄까 한다",
+          "나는 @브랜드명@에 활동하는 게임이 많다고 들었다",
+          "나는 가끔 휴대폰 게임을 한다",
+          "나는 가족과 함께 즐길 수 있는 게임을 좋아한다"
+        ],
+        "speaker2": [
+          "나는 게임에 문외한이다",
+          "나는 게임에 흥미가 없다 나는 여가시간에는 음악을 듣거나 영화를 본다",
+          "나는 여행 중 리조트 안 게임장에서는 게임을 해본 적이 있다",
+          "나는 리조트 내 게임장에서 가족들과 같이 게임을 하면 즐겁다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다",
+          "나는 야구를 좋아한다",
+          "나는 요즘 작은 일에도 기뻐한다",
+          "나는 달콤한 과일을 먹으면 스트레스가 풀린다. 나는 블루베리를 싫어한다.",
+          "나는 크림 파스타를 좋아한다",
+          "나는 크림 파스타와 와인 한 잔의 조합을 좋아한다",
+          "나는 아이들이 게임을 많이 해서 걱정이다",
+          "나는 갈수록 아이들의 게임 시간이 늘어서 걱정이다",
+          "나는 아이들에게 절제를 가르치는 방법을 몰라 답답하다",
+          "나는 게임을 거의 하지 않아 더 이해하기 어렵다",
+          "나는 게임을 하지 않는 자녀를 둔 것이 부럽다",
+          "나는 스마트폰이 게임 문제의 주범이라고 생각한다"
+        ],
+        "speaker2": [
+          "나는 60대 여성이다",
+          "나는 음악 감상을 좋아한다",
+          "나는 발라드 음악을 자주 듣는다",
+          "나는 장성한 아이들이 결혼할 생각이 없어서 초조하다 나는 음악을 들으면 마음이 안정된다",
+          "나는 좋아하는 음식을 먹으면 스트레스가 풀린다 나는 양식을 좋아해서 즐겨 먹는다",
+          "나는 스파게티를 좋아한다",
+          "나는 크림 파스타를 선호한다",
+          "나는 자녀 교육이 쉽지 않다고 생각한다",
+          "나는 게임을 못하는 편이라 게임을 많이 하는 아이들에 대한 이해가 어렵다",
+          "나는 아이들이 게임을 많이 하지 않아서 걱정을 안 한 편이었다"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00082-3",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "주"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00082-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "대화한지가 벌써 1주일 되었네요~",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "14:23:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "시간 빠르네요 벌써 1주일이 지났군요 ",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "14:25:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "저는 요즘 아이와 함께 포켓몬고 게임을 하고 있어요",
+          "summary": "나는 아이와 함께 포켓몬 게임을 한다",
+          "date": "2022-11-21",
+          "time": "14:28:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "그건 제 친구도 했던 게임이네요 ",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "14:35:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "ㅎㅎ 정말 롱런하는 게임이지요? 같이 돌아다니면서 아이를 조금 이해하게 된 것 같아요",
+          "summary": "나는 게임을 함께 하며 아이를 이해하게 되었다",
+          "date": "2022-11-21",
+          "time": "14:37:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "제 친구가 한거보면 온 가족이 할 수있는 게임인가봐요",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "14:41:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "돌아다니면서 길에 있는 포켓몬을 포획하는 게임이에요",
+          "summary": "나는 포켓몬을 포획하는 게임을 한다",
+          "date": "2022-11-21",
+          "time": "14:43:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "아 그렇군요 앉아서 하는 게임보다는 돌아다니면서 하니 괜찮겠네요",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "14:44:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "네 물론 '스몸비'(스마트폰좀비)가 되긴 하지만, 차 없는 곳에서만 하고 있어요",
+          "summary": "나는 스몸비가 되기도 하지만 차 없는 곳에서만 한다",
+          "date": "2022-11-21",
+          "time": "14:45:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "그래도 뭔가 저같이 게임에 문외한인 사람도 할 수있을것 같네요 ",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "14:46:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "네 아주 간단한 게임이거든요 물론 포켓몬을 융합하고 키우고 복잡하게 들어갈수도 있고요",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "14:46:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "저도 좀 게임에 관심을 가져봐야겠네요",
+          "summary": "나는 게임에 관심을 가져볼 예정이다",
+          "date": "2022-11-21",
+          "time": "14:48:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51562",
+          "participantID": "4705",
+          "utterance": "저는 자녀를 이해해주고 싶어서 시작해봤어요^^ ",
+          "summary": "나는 자녀를 이해하고 싶어 게임을 시작했다",
+          "date": "2022-11-21",
+          "time": "14:48:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61700",
+          "participantID": "4548",
+          "utterance": "좋은 엄마네요~게임도 함께 하면 사이도 더 좋아질거같아요 전 이만 나가볼께요 약속이 있어서요 ",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "14:50:25",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 아이와 함께 포켓몬 게임을 한다",
+          "나는 게임을 함께 하며 아이를 이해하게 되었다",
+          "나는 포켓몬을 포획하는 게임을 한다",
+          "나는 스몸비가 되기도 하지만 차 없는 곳에서만 한다",
+          "나는 자녀를 이해하고 싶어 게임을 시작했다"
+        ],
+        "speaker2": [
+          "나는 게임에 관심을 가져볼 예정이다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다",
+          "나는 야구를 좋아한다",
+          "나는 요즘 작은 일에도 기뻐한다",
+          "나는 달콤한 과일을 먹으면 스트레스가 풀린다. 나는 블루베리를 싫어한다.",
+          "나는 크림 파스타를 좋아한다",
+          "나는 크림 파스타와 와인 한 잔의 조합을 좋아한다",
+          "나는 아이들이 게임을 많이 해서 걱정이다",
+          "나는 갈수록 아이들의 게임 시간이 늘어서 걱정이다",
+          "나는 아이들에게 절제를 가르치는 방법을 몰라 답답하다",
+          "나는 게임을 거의 하지 않아 더 이해하기 어렵다",
+          "나는 게임을 하지 않는 자녀를 둔 것이 부럽다",
+          "나는 스마트폰이 게임 문제의 주범이라고 생각한다",
+          "나는 아이들이 몸을 움직이며 하는 게임을 사줄까 한다",
+          "나는 @브랜드명@에 활동하는 게임이 많다고 들었다",
+          "나는 가끔 휴대폰 게임을 한다",
+          "나는 가족과 함께 즐길 수 있는 게임을 좋아한다"
+        ],
+        "speaker2": [
+          "나는 60대 여성이다",
+          "나는 음악 감상을 좋아한다",
+          "나는 발라드 음악을 자주 듣는다",
+          "나는 장성한 아이들이 결혼할 생각이 없어서 초조하다 나는 음악을 들으면 마음이 안정된다",
+          "나는 좋아하는 음식을 먹으면 스트레스가 풀린다 나는 양식을 좋아해서 즐겨 먹는다",
+          "나는 스파게티를 좋아한다",
+          "나는 크림 파스타를 선호한다",
+          "나는 자녀 교육이 쉽지 않다고 생각한다",
+          "나는 게임을 못하는 편이라 게임을 많이 하는 아이들에 대한 이해가 어렵다",
+          "나는 아이들이 게임을 많이 하지 않아서 걱정을 안 한 편이었다",
+          "나는 게임에 문외한이다",
+          "나는 게임에 흥미가 없다 나는 여가시간에는 음악을 듣거나 영화를 본다",
+          "나는 여행 중 리조트 안 게임장에서는 게임을 해본 적이 있다",
+          "나는 리조트 내 게임장에서 가족들과 같이 게임을 하면 즐겁다"
+        ]
+      }
+    }
+  ]
+}

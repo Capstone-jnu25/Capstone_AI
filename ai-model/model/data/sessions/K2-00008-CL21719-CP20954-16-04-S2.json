@@ -1,0 +1,475 @@
+{
+  "FileInfo": {
+    "filename": "K2-00008-CL21719-CP20954-16-04-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "50526",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0276",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00008"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "21719",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 매우 꼼꼼하다.",
+        "나는 에너지자원이 부전공이다.",
+        "나는 장마철을 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "20954",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 종교 여행을 좋아한다.",
+        "나는 항공기 정비원이다.",
+        "나는 재즈 음악을 싫어한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "16-04",
+    "topicType": "미용과 건강>미용",
+    "topicTitle": "다이어트"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00008-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21719",
+          "participantID": "50526",
+          "utterance": "반갑습니다. 저는 20대 여자입니다.",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-09-19",
+          "time": "01:02:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20954",
+          "participantID": "0276",
+          "utterance": "반갑습니다. 저는 20대 남자입니다.",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-09-19",
+          "time": "01:03:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21719",
+          "participantID": "50526",
+          "utterance": "저는 에너지 자원이 부전공인 4학년 학생이에요. 무슨 일 하시나요?",
+          "summary": "나는 에너지 자원이 부전공인 4학년 학생이다.",
+          "date": "2022-09-19",
+          "time": "01:03:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20954",
+          "participantID": "0276",
+          "utterance": "저는 항공기 정비원 일을 합니다.4학년이면 취업 준비로 바쁘시겠어요?",
+          "summary": "나는 항공기 정비원이다.",
+          "date": "2022-09-19",
+          "time": "01:04:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21719",
+          "participantID": "50526",
+          "utterance": "네 맞아요. 정말 가슴이 답답해요. 늘 비행기와 함께 하겠네요?",
+          "summary": "나는 취업 때문에 가슴이 답답하다.",
+          "date": "2022-09-19",
+          "time": "01:05:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20954",
+          "participantID": "0276",
+          "utterance": "조급해 하지 마시고,취업 전에 즐기셔야 합니다. 비행기는 제 친구죠.ㅎ.",
+          "summary": "취업 전에 즐겨야 한다.",
+          "date": "2022-09-19",
+          "time": "01:05:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21719",
+          "participantID": "50526",
+          "utterance": "감사해요. 저는 성당에 다니고 있는데 종교 있으신가요?",
+          "summary": "나는 성당에 다니고 있다.",
+          "date": "2022-09-19",
+          "time": "01:06:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20954",
+          "participantID": "0276",
+          "utterance": "저는 교회에 다니고 있어요.어릴 적부터 부모님과 함께요.",
+          "summary": "나는 어릴 적부터 부모님과 교회에 다니고 있다.",
+          "date": "2022-09-19",
+          "time": "01:07:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21719",
+          "participantID": "50526",
+          "utterance": "그러시군요. 저는 성지 순례를 즐겨하는데 님은 어떠신가요?",
+          "summary": "나는 성지순례를 즐겨한다.",
+          "date": "2022-09-19",
+          "time": "01:07:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20954",
+          "participantID": "0276",
+          "utterance": "저도 종교여행을 좋아해요. 최근에 성지순례 어디로 다녀오셨어요?",
+          "summary": "나는 종교여행을 좋아한다.",
+          "date": "2022-09-19",
+          "time": "01:08:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21719",
+          "participantID": "50526",
+          "utterance": "네 통영으로 다녀왔어요. 저는 발라드 음악을 좋아하는데 어떤 음악을 즐겨 들으시나요?",
+          "summary": "나는 통영으로 성지 순례를 다녀왔고 발라드 음악을 좋아한다.",
+          "date": "2022-09-19",
+          "time": "01:09:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20954",
+          "participantID": "0276",
+          "utterance": "저는 팝송을 좋아하고 재즈음악은 싫어하는 편이에요.",
+          "summary": "나는 팝송을 좋아하고, 재즈음악은 싫어한다.",
+          "date": "2022-09-19",
+          "time": "01:10:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21719",
+          "participantID": "50526",
+          "utterance": "저는 @이름1@의 다행이다 를 좋아하는데 어떤 노래 좋아하시나요?",
+          "summary": "나는 @이름1@의 다행이다 노래를 좋아한다.",
+          "date": "2022-09-19",
+          "time": "01:10:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20954",
+          "participantID": "0276",
+          "utterance": "저는 Coldplay의 My Universe를 좋아해요.@이름2@이랑 같이 부른.",
+          "summary": "나는 Coldplay의 My Universe를 좋아한다.",
+          "date": "2022-09-19",
+          "time": "01:13:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21719",
+          "participantID": "50526",
+          "utterance": "그러시군요. 저는 성격이 매우 꼼꼼한 편이에요. 어떤 성격 갖고 계신가요? 오늘 대화 즐거웠어요.",
+          "summary": "나는 성격이 매우 꼼꼼하다.",
+          "date": "2022-09-19",
+          "time": "01:14:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20954",
+          "participantID": "0276",
+          "utterance": "저도 매우 꼼꼼한 편이에요. 다음에 또 봬요.",
+          "summary": "나는 매우 꼼꼼하다.",
+          "date": "2022-09-19",
+          "time": "01:15:31",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 에너지 자원이 부전공인 4학년 학생이다.",
+          "나는 취업 때문에 가슴이 답답하다.",
+          "나는 성당에 다니고 있다.",
+          "나는 성지순례를 즐겨한다.",
+          "나는 통영으로 성지 순례를 다녀왔고 발라드 음악을 좋아한다.",
+          "나는 @이름1@의 다행이다 노래를 좋아한다.",
+          "나는 성격이 매우 꼼꼼하다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 항공기 정비원이다.",
+          "취업 전에 즐겨야 한다.",
+          "나는 어릴 적부터 부모님과 교회에 다니고 있다.",
+          "나는 종교여행을 좋아한다.",
+          "나는 팝송을 좋아하고, 재즈음악은 싫어한다.",
+          "나는 Coldplay의 My Universe를 좋아한다.",
+          "나는 매우 꼼꼼하다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00008-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00008-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21719",
+          "participantID": "50526",
+          "utterance": "좋은 아침이네요. 주말 잘 보내고 계신가요? 저는 가을 옷을 꺼내 보니 곰팡이가 피어 있어요. 정말 장마철이 싫어요.",
+          "summary": "나는 가을 옷을 꺼내보니 곰팡이가 피어 있어 장마철이 정말 싫다.",
+          "date": "2022-09-19",
+          "time": "01:16:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20954",
+          "participantID": "0276",
+          "utterance": "장마철을 좋아하는 사람은 없을거예요.그럼 그옷은 어떻게 하셨나요?",
+          "summary": "장마철을 좋아하는 사람은 없다.",
+          "date": "2022-09-19",
+          "time": "01:17:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21719",
+          "participantID": "50526",
+          "utterance": "안타까운 건 여름 동안 살쪘는지 옷이 안 맞더라고요. 다이어트를 해야 될 것 같아요.",
+          "summary": "나는 여름 동안 살쪘는지 가을 옷들이 맞지 않아서 다이어트를 해야 할 것 같다.",
+          "date": "2022-09-19",
+          "time": "01:17:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20954",
+          "participantID": "0276",
+          "utterance": "다이어트는 건강하게 하셔야 하는건 아시죠?",
+          "summary": "",
+          "date": "2022-09-19",
+          "time": "01:18:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21719",
+          "participantID": "50526",
+          "utterance": "어떻게 하는게 건강한 다이어트가 될까요?",
+          "summary": "",
+          "date": "2022-09-19",
+          "time": "01:18:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20954",
+          "participantID": "0276",
+          "utterance": "가장 중요한건 유산소운동이죠.그리고 건강한 단백질과 야채위주의 식단요.",
+          "summary": "건강한 다이어트는 유산소 운동과 건강한 식단이다.",
+          "date": "2022-09-19",
+          "time": "01:19:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21719",
+          "participantID": "50526",
+          "utterance": "내일부터 당장 헬스를 해야겠네요. 운동은 하시나요?",
+          "summary": "나는 내일부터 당장 헬스를 할 것이다.",
+          "date": "2022-09-19",
+          "time": "01:20:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20954",
+          "participantID": "0276",
+          "utterance": "저는 아침마다 조깅과 줄넘기를 꾸준히 하고 있어요.헬스도 좋다고 봅니다.",
+          "summary": "나는 조깅과 줄넘기를 꾸준히 한다.",
+          "date": "2022-09-19",
+          "time": "01:21:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21719",
+          "participantID": "50526",
+          "utterance": "조언 감사드려요. 다이어트에 성공하면 술 한잔 살게요.",
+          "summary": "나는 다이어트에 성공하면 술 한잔을 사겠다.",
+          "date": "2022-09-19",
+          "time": "01:21:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20954",
+          "participantID": "0276",
+          "utterance": "별말씀을요.빨리 다이어트에 성공하시길 기도 할게요.",
+          "summary": "나는 다이어트에 성공할 길 빈다.",
+          "date": "2022-09-19",
+          "time": "01:23:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21719",
+          "participantID": "50526",
+          "utterance": "저는 숫자 1을 좋아하는데 어떤 숫자를 좋아하시나요?",
+          "summary": "나는 숫자 1을 좋아한다.",
+          "date": "2022-09-19",
+          "time": "01:23:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20954",
+          "participantID": "0276",
+          "utterance": "저는 촌스럽게 7을 좋아해요.@이름3@형의 백넘버 7을요.",
+          "summary": "나는 @이름3@ 형의 백넘버 숫자 7을 좋아한다.",
+          "date": "2022-09-19",
+          "time": "01:23:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21719",
+          "participantID": "50526",
+          "utterance": "축구를 좋아하시나 보네요. SNS 활동은 하시나요?",
+          "summary": "",
+          "date": "2022-09-19",
+          "time": "01:23:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20954",
+          "participantID": "0276",
+          "utterance": "축구 보는 걸 좋아하구요.직접 하려면 넘 힘들어서. @브랜드명1@그램을 하고 있어요.님께서는요?",
+          "summary": "나는 축구 보는 걸 좋아하고 @브랜드명1@그램을 한다.",
+          "date": "2022-09-19",
+          "time": "01:23:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21719",
+          "participantID": "50526",
+          "utterance": "저도 @브랜드명1@를 즐겨 해요. 오늘 대화 즐거웠어요. 다음에 또 봬요.",
+          "summary": "나는 @브랜드명1@를 즐겨한다.",
+          "date": "2022-09-19",
+          "time": "01:24:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20954",
+          "participantID": "0276",
+          "utterance": "@브랜드명1@ 서로 팔로우하죠.다이어트 화이팅입니다.다음에...",
+          "summary": "",
+          "date": "2022-09-19",
+          "time": "01:24:17",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 가을 옷을 꺼내보니 곰팡이가 피어 있어 장마철이 정말 싫다.",
+          "나는 여름 동안 살쪘는지 가을 옷들이 맞지 않아서 다이어트를 해야 할 것 같다.",
+          "나는 내일부터 당장 헬스를 할 것이다.",
+          "나는 다이어트에 성공하면 술 한잔을 사겠다.",
+          "나는 숫자 1을 좋아한다.",
+          "나는 @브랜드명1@를 즐겨한다."
+        ],
+        "speaker2": [
+          "장마철을 좋아하는 사람은 없다.",
+          "건강한 다이어트는 유산소 운동과 건강한 식단이다.",
+          "나는 조깅과 줄넘기를 꾸준히 한다.",
+          "나는 다이어트에 성공할 길 빈다.",
+          "나는 @이름3@ 형의 백넘버 숫자 7을 좋아한다.",
+          "나는 축구 보는 걸 좋아하고 @브랜드명1@그램을 한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 에너지 자원이 부전공인 4학년 학생이다.",
+          "나는 취업 때문에 가슴이 답답하다.",
+          "나는 성당에 다니고 있다.",
+          "나는 성지순례를 즐겨한다.",
+          "나는 통영으로 성지 순례를 다녀왔고 발라드 음악을 좋아한다.",
+          "나는 @이름1@의 다행이다 노래를 좋아한다.",
+          "나는 성격이 매우 꼼꼼하다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 항공기 정비원이다.",
+          "취업 전에 즐겨야 한다.",
+          "나는 어릴 적부터 부모님과 교회에 다니고 있다.",
+          "나는 종교여행을 좋아한다.",
+          "나는 팝송을 좋아하고, 재즈음악은 싫어한다.",
+          "나는 Coldplay의 My Universe를 좋아한다.",
+          "나는 매우 꼼꼼하다."
+        ]
+      }
+    }
+  ]
+}

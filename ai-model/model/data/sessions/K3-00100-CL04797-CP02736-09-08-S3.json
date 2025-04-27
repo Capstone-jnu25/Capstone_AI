@@ -1,0 +1,648 @@
+{
+  "FileInfo": {
+    "filename": "K3-00100-CL04797-CP02736-09-08-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0008",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "자영업",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0034",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00100"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "04797",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 연인이 없고 외롭다.",
+        "나는 요가를 자주 한다.",
+        "나는 힙합 음악을 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "02736",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 형제와 갈등이 있다.",
+        "나는 발라드 음악을 자주 듣는다.",
+        "나는 식물을 키우고 싶다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "09-08",
+    "topicType": "개인 및 관계>반려동물",
+    "topicTitle": "임시보호"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00100-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "안녕하세요~저는 50대 여자입니다! 반가워요!",
+          "summary": "나는 50대 여자이다.",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "안녕하세요 저는 30대 여자입니다!! 저도 반갑습니다!",
+          "summary": "나는 30대 여자이다.",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "반려동물 임시보호 같은거 아세요?",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "아니요 저는 그런건 잘 몰라요..",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "그냥 입양 받지 못한 동물 보호해주는 봉사활동 같은거에요.",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "아 그렇군요 동물보호소 뭐 그런가부네요.",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "제가 미혼에다가. 남자친구도 없다보니 꽤나 외로워서요..",
+          "summary": "나는 연인이 없고 외롭다.",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "아 그러시구나.. 이해합니다 그마음..",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "그래서 반려동물 임시보호 프로그램 봉사신청 할까봐요!",
+          "summary": "나는 반려동물 임시보호 프로그램 신청을 할까 한다.",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "아.. 혹시 뭐 따로 직업이나 하시는 일은 없으신거에요?",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "퇴직하고 집에만 있어가지구요. 개도 많이 좋아하고.",
+          "summary": "나는 퇴직을 하고 집에 있는다.",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "아!! 그럼 잘됬네요!! 그럼 그렇게 봉사신청하는게 딱이겠네요!!",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "그러니까요. 하는거라곤 요가밖에 없어요. 자주하긴하지만.",
+          "summary": "나는 요가를 자주 한다.",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "그래도 정말 건강하게 사시네요!",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "하하 감사합니다! 저 요가갈 시간이 다됐거든요! 갔다올께요~",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "알겠습니다 요가 잘하고 오세요~ 또 연락해요!",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 50대 여자이다.",
+          "나는 연인이 없고 외롭다.",
+          "나는 반려동물 임시보호 프로그램 신청을 할까 한다.",
+          "나는 퇴직을 하고 집에 있는다.",
+          "나는 요가를 자주 한다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00100-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00100-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "하@이름1@~ 뭐하고 계셨어요?",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "저는 노래듣고있었어요! 요가는 잘 다녀오셨어요?",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "네~ 잘 다녀왔어요. 음악은 뭐 듣고 계셨어요?",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "저는 발라드 음악을 자주 들어요~",
+          "summary": "나는 발라드 음악을 자주 듣는다.",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "발라드 좋아하시는군요. 저는 노래는 힙합 빼고는 다들어요. 힙합은 좀 불호.",
+          "summary": "나는 힙합 음악을 싫어한다.",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "아 그러세요? 저는 힙합 좋아하는데!! ㅎㅎ.",
+          "summary": "나는 힙합 음악을 좋아한다.",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "그러시구나. 그냥 음악다 좋아하시네요.",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "그러네요 딱히 취향이 없는것같아요 ㅋㅋ.",
+          "summary": "나는 딱히 취향이 없다.",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "저도 뭐 취향은 잘 없어요!! 배고프네요 식사 하셨어요?",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "아니요 아직 안먹었어요 슬슬 먹어야죠!",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "저도 아직 안먹었는데 ~ 이른 저녁 먹을까해요!!",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "그러게요 저도 오늘을 일찍부터 배가 고프네요.",
+          "summary": "나는 일찍부터 배가 고프다.",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "저녁이나 들고 오시죠!! 저녁은 그냥 건강하게 샐러드 먹을까봐요~",
+          "summary": "나는 저녁으로 샐러드를 먹을까 한다.",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "저는 집에있는 냉장고나 뒤적뒤적해서 밥이랑 먹어야겠어요.",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "하하.. 냉장고에 뭐 맛있는거 숨켜 두셨나보네~ 나중에 연락해요 그럼~",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "ㅋㅋㅋ아닙니다 그런건!! 네 알겠어요 나중에 연락해요!",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 힙합 음악을 싫어한다.",
+          "나는 저녁으로 샐러드를 먹을까 한다."
+        ],
+        "speaker2": [
+          "나는 발라드 음악을 자주 듣는다.",
+          "나는 힙합 음악을 좋아한다.",
+          "나는 딱히 취향이 없다.",
+          "나는 일찍부터 배가 고프다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여자이다.",
+          "나는 연인이 없고 외롭다.",
+          "나는 반려동물 임시보호 프로그램 신청을 할까 한다.",
+          "나는 퇴직을 하고 집에 있는다.",
+          "나는 요가를 자주 한다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00100-2",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00100-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "좋은아침 잘잤어요?ㅎㅎ 날씨좋네요.",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "그러게요 날씨가 좋네요! 잘 주무셨어요? 전 잘 잤어요.",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "네 잘잤어요 저도 !! 오늘 약속 있으세요?",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "저는 오늘 언니랑 단판 지으러 가야됩니다.",
+          "summary": "나는 오늘 언니랑 단판 지으러 간다.",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "단판이요? ㅎㅎ 무슨 뭐 일있으세요??",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "가족사라 자세히 말하기는 그런데 언니랑 갈등이있어서요.",
+          "summary": "나는 형제와 갈등이 있다.",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "싸우셨구나.. 궁금해 하진 않겠습니다!!",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "감사합니다 배려해주셔서~",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "그러면 갔다가 집에 그냥 오시는거에요??",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "갔다오면서 식물 살까 생각중입니다 식물을 키우고싶어서.",
+          "summary": "나는 식물을 키우고 싶다.",
+          "date": "2022-08-08",
+          "time": "16:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "식물 키우면 좋죠~ 저도 집에 좀 키우는데!! 정서에좋아요!",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "그렇다고 하더라고요! 그래서 저도 키우고싶어서 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "그러니까요 ㅎㅎ 막상 키우면 살짝 번거롭지만 좋긴해요.",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "ㅋㅋ그런가요? 그럼 저는 슬슬 나갈준비해볼게요.",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04797",
+          "participantID": "0008",
+          "utterance": "그러네요~ 뭐 언니와 싸우신거 잘풀고 오세요 !! 식물도 잘 보시구요 !!",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02736",
+          "participantID": "0034",
+          "utterance": "알겠습니다! 감사해요 걱정해주셔서! 또 연락해요~",
+          "summary": "",
+          "date": "2022-08-08",
+          "time": "16:34:36",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [],
+        "speaker2": [
+          "나는 오늘 언니랑 단판 지으러 간다.",
+          "나는 형제와 갈등이 있다.",
+          "나는 식물을 키우고 싶다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여자이다.",
+          "나는 연인이 없고 외롭다.",
+          "나는 반려동물 임시보호 프로그램 신청을 할까 한다.",
+          "나는 퇴직을 하고 집에 있는다.",
+          "나는 요가를 자주 한다.",
+          "나는 힙합 음악을 싫어한다.",
+          "나는 저녁으로 샐러드를 먹을까 한다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다.",
+          "나는 발라드 음악을 자주 듣는다.",
+          "나는 힙합 음악을 좋아한다.",
+          "나는 딱히 취향이 없다.",
+          "나는 일찍부터 배가 고프다."
+        ]
+      }
+    }
+  ]
+}

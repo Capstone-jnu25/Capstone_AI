@@ -1,0 +1,807 @@
+{
+  "FileInfo": {
+    "filename": "K4-00008-CL66130-CP95243-15-04-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "30758",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "31818",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "서비스직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00008"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "66130",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 추운 날씨를 좋아한다.",
+        "나는 혈액형이 B형이다.",
+        "나는 요즘, 매일 눈물이 난다.",
+        "나는 새벽에 일어난다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "95243",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 영어에 관심 없다.",
+        "나의 생일은 5월이다.",
+        "나는 다소 부지런하다.",
+        "나는 돈을 쓰는 것을 좋아한다.",
+        "나는 혈액형이 A형이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "15-04",
+    "topicType": "시사/사회>타국가이슈(해외)",
+    "topicTitle": "백신"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00008-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "안녕하세요~ 저는 20대 남자입니다! 즐겁게 대화 해 봐요~",
+          "summary": "나는 20대 남성이다.",
+          "date": "2022-11-18",
+          "time": "15:09:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "안녕하세요! 저는 50대 여자인데, 만나서 정말 반가워요!",
+          "summary": "나는 50대 여성이다.",
+          "date": "2022-11-18",
+          "time": "15:09:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "ㅋㅋ저는 요즘, 매일 눈물이 나고 있어서 참 힘든 기분입니다!ㅜㅜ.",
+          "summary": "나는 요즘, 매일 눈물이 난다.",
+          "date": "2022-11-18",
+          "time": "15:09:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "아하..ㅠ 속상하신 일이 있으신 걸까요? 슬픈 소식이네요..",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:09:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "제가 추운 날씨를 좋아해서 자주 외출하는데, 그래서 안구가 건조해서 그러네요 ㅜㅜ.",
+          "summary": "나는 추운 날씨를 좋아한다.",
+          "date": "2022-11-18",
+          "time": "15:09:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "그러시구나, 안구가 건조하면 많이 고생하더라고요 ㅠㅠ.",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:09:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "ㅋㅋ제가 B형이라 그런지 고집이 좀 세서 집으로 안 들어가고 바깥에 있을거에요!",
+          "summary": "나는 혈액형이 B형이다.",
+          "date": "2022-11-18",
+          "time": "15:10:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "아하 ㅋㅋㅋ 저도 다소 부지런해서 잠을 적게 자다보니 안구건조증이 있어 공감돼요ㅎㅎ..",
+          "summary": "나는 다소 부지런하다.",
+          "date": "2022-11-18",
+          "time": "15:10:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "ㅋㅋ정말이신가요?? 그쪽은 참 열심히 사시고 있으신 듯 합니다!",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:10:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "저는 혈액형이 A형인데, 그쪽과 비슷하게 고집도 쎄네요 ㅎㅎ 영어에 관심이 없어서, 끝까지 공부를 안 해요.",
+          "summary": "나는 영어에 관심 없다.",
+          "date": "2022-11-18",
+          "time": "15:11:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "ㅋㅋ 저도 학교에서 관심 없는 공부는 성적이 안 나와서 공감이 가네요!",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:11:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "ㅎㅎ.. 그래서 제가 생일인 5월만큼은 제게 도움되는 일들을 해보려 노력해야죠..!",
+          "summary": "나의 생일은 5월이다.",
+          "date": "2022-11-18",
+          "time": "15:11:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "오 ㅋㅋ 그러면 5월 한달은 참 알차게 보내실 것 같아요! 유익한 대화였어요~",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:12:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "응원해주셔서 정말 감사합니다, 덕분에 즐거운 시간 보내다갑니다!!",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:12:08",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 남성이다.",
+          "나는 요즘, 매일 눈물이 난다.",
+          "나는 추운 날씨를 좋아한다.",
+          "나는 혈액형이 B형이다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나는 다소 부지런하다.",
+          "나는 영어에 관심 없다.",
+          "나의 생일은 5월이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00008-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00008-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "3일이 길게 생각되네요, 할 게 없었어요 ㅎㅎ 그동안 뭐 하시고 있으셨던 건가요??",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:12:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "안녕하세요, 저는 어제 백신을 맞았는데 정신을 못 차리고 있습니다 ㅠㅠ.",
+          "summary": "나는 백신을 맞았다.",
+          "date": "2022-11-18",
+          "time": "15:12:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "ㅋㅋ저도 백신 맞고 아팠는데 그쪽도 그런 것 같군요 ㅜㅜ 참 안타까워요.",
+          "summary": "나는 백신을 맞았다.",
+          "date": "2022-11-18",
+          "time": "15:12:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "제가 면역력이 약해서 그런지 백신 맞으니 잠만 자네요 ㅠㅠ...",
+          "summary": "나는 면역력이 약하다.",
+          "date": "2022-11-18",
+          "time": "15:12:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "ㅋㅋ 그래요? 사실 저는 면역력이 좀 강한 편이라고 느끼기는 합니다.",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:12:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "오! 면역력이 강하게 되신 비결이 있으신 지 정말 궁금한데요?",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:12:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "제가 추운 날씨를 좋아해서 이런 겨울날 맨몸으로 자주 나가서 그래요!",
+          "summary": "나는 겨울에 자주 나간다.",
+          "date": "2022-11-18",
+          "time": "15:13:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "멋지다는 생각이 드네요 ㅎㅎ 20대의 패기가 잘 보이는 글이에요.",
+          "summary": "나는 상대가 멋지다.",
+          "date": "2022-11-18",
+          "time": "15:13:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "ㅋㅋ뭐 운동도 자주 하니까 그런 것 같습니다.. 그쪽은 운동 안 해요?",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:13:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "저는 운동은 요가밖에 안 하고 있습니다! 요가가 제게 맞네요.",
+          "summary": "나는 요가를 하고 있다.",
+          "date": "2022-11-18",
+          "time": "15:13:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "ㅜㅜ사실 저는 요가는 유연성이 좀 떨어져서 싫어하고 있기는 해요.",
+          "summary": "나는 요가를 싫어한다.",
+          "date": "2022-11-18",
+          "time": "15:13:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "유연성 운동을 좋아하는 편이라서 전 요가가 좋나봐요 ㅎㅎ.",
+          "summary": "나는 유연성 운동을 좋아한다.",
+          "date": "2022-11-18",
+          "time": "15:13:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "ㅎㅎ저는 그러면 이만 운동을 하러 가 @이름1@야겠습니다! 다음에 또 봐요!",
+          "summary": "나는 운동을 하러 갈 것이다.",
+          "date": "2022-11-18",
+          "time": "15:13:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "네 알겠습니다! 덕분에 즐거운 대화를 나눴어요, 또 봬요~",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:14:04",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 백신을 맞았다.",
+          "나는 겨울에 자주 나간다.",
+          "나는 요가를 싫어한다.",
+          "나는 운동을 하러 갈 것이다."
+        ],
+        "speaker2": [
+          "나는 백신을 맞았다.",
+          "나는 면역력이 약하다.",
+          "나는 상대가 멋지다.",
+          "나는 요가를 하고 있다.",
+          "나는 유연성 운동을 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남성이다.",
+          "나는 요즘, 매일 눈물이 난다.",
+          "나는 추운 날씨를 좋아한다.",
+          "나는 혈액형이 B형이다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나는 다소 부지런하다.",
+          "나는 영어에 관심 없다.",
+          "나의 생일은 5월이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00008-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00008-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "2일이 지나갔네요~ 저는 어제 그제 운동을 해서 그런지 근육이 당겨요 ㅜㅜ.",
+          "summary": "나는 운동을 했다.",
+          "date": "2022-11-18",
+          "time": "15:14:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "안녕하세요! 저는 그동안 즐겁게 보냈네요! 어떤 운동을 하셨나요?",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:14:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "헬스장에 가서 근력 운동을 했습니다! 멋진 몸매를 원하고 있어서요.",
+          "summary": "나는 헬스장에 갔었다.",
+          "date": "2022-11-18",
+          "time": "15:14:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "멋지네요, 저도 멋진 몸을 정말 원하고 있습니다 ㅎㅎ.",
+          "summary": "나는 멋진 몸을 원한다.",
+          "date": "2022-11-18",
+          "time": "15:14:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "ㅋㅋ 저는 이럴 때는 푹 쉬면서 좀 힐링을 해 보고 싶네요!",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:14:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "오! 어떤 것들을 하시면서 힐링을 취하시는지 궁금해요!",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:15:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "저는 보통 영화를 자주 보고 있네요! 그쪽은 영화 좋아하시나요??",
+          "summary": "나는 영화를 자주 본다.",
+          "date": "2022-11-18",
+          "time": "15:15:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "저도 정말 좋아하는 휴식 중에 하나네요, 영화 좋아합니다!",
+          "summary": "나는 영화를 좋아한다.",
+          "date": "2022-11-18",
+          "time": "15:15:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "ㅋㅋ어떤 종류의 영화를 좋아하시고 있으신건가요??",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:15:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "저는 액션영화를 좋아하는데, 액션 영화 좋아하시나요?",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:15:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "저는 멜로 영화를 좋아하는데 너무 감동적이라 눈물이 나네요 ㅜㅜ.",
+          "summary": "나는 멜로 영화 때문에 눈물이 난다.",
+          "date": "2022-11-18",
+          "time": "15:16:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "그러시구나 ㅎㅎ 멜로 영화도 분명 좋은 점이 엄청나게 많죠!",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:16:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "ㅋㅋ그러면 저는 보던 영화 마저 좀 보러 갈게요! 대화 재미있었습니다~",
+          "summary": "나는 영화를 보러 갈 것이다.",
+          "date": "2022-11-18",
+          "time": "15:16:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "알겠습니다, 오늘은 되게 감성적인 이야기를 나눴네요! 저도 이만 영화보러 갈게요!",
+          "summary": "나는 영화를 보러 간다.",
+          "date": "2022-11-18",
+          "time": "15:16:28",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 운동을 했다.",
+          "나는 헬스장에 갔었다.",
+          "나는 영화를 자주 본다.",
+          "나는 멜로 영화 때문에 눈물이 난다.",
+          "나는 영화를 보러 갈 것이다."
+        ],
+        "speaker2": [
+          "나는 멋진 몸을 원한다.",
+          "나는 영화를 좋아한다.",
+          "나는 영화를 보러 간다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남성이다.",
+          "나는 요즘, 매일 눈물이 난다.",
+          "나는 추운 날씨를 좋아한다.",
+          "나는 혈액형이 B형이다.",
+          "나는 백신을 맞았다.",
+          "나는 겨울에 자주 나간다.",
+          "나는 요가를 싫어한다.",
+          "나는 운동을 하러 갈 것이다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나는 다소 부지런하다.",
+          "나는 영어에 관심 없다.",
+          "나의 생일은 5월이다.",
+          "나는 백신을 맞았다.",
+          "나는 면역력이 약하다.",
+          "나는 상대가 멋지다.",
+          "나는 요가를 하고 있다.",
+          "나는 유연성 운동을 좋아한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00008-3",
+      "prevTimeInfo": {
+        "timeNum": "10",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00008-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "오랜 시간이 흘렀네요! 궁금해서 연락드렸습니다. 저는 영화를 보다 보니 시간이 참 빠르게 흘러가는 듯 해요.",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:16:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "안녕하세요! 벌써 10일이나 지났군요! 저는 요리를 시작했어요!",
+          "summary": "나는 요리를 시작했다.",
+          "date": "2022-11-18",
+          "time": "15:16:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "와 ㅋㅋ 저도 요리 좋아해요! 요리는 어떤 음식 만드셨던 건지 궁금합니다!",
+          "summary": "나는 요리를 좋아한다.",
+          "date": "2022-11-18",
+          "time": "15:17:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "제가 @이름2@이 모두 결혼을 해서 혼자사는데, 해먹을 요리가 없어서 비빔밥을 요리했네요!",
+          "summary": "나는 비빔밥을 요리했다.",
+          "date": "2022-11-18",
+          "time": "15:17:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "아하 ㅋㅋ 비빔밥은 만들기 쉽고 참 맛있죠! 저도 자주 해 먹고는 해요 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:17:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "그러시구나 ㅎㅎ 저는 양식도 좋아하는데, 그쪽은 양식 좋아하시나요?",
+          "summary": "나는 양식을 좋아한다.",
+          "date": "2022-11-18",
+          "time": "15:17:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "ㅜㅜ사실 저는 양식은 잘 안 먹게 되어서 피하고 있습니다 ㅜㅜ.",
+          "summary": "나는 양식을 안 먹는다.",
+          "date": "2022-11-18",
+          "time": "15:17:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "아하, 어떤 이유가 있으셔서 양식을 싫어하시는지 물어봐도 괜찮을까요?",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:18:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "제가 느끼한 음식만 먹으면 설사를 자주 해서 그렇습니다! ㅜㅜ 참 슬프네요.",
+          "summary": "나는 느끼한 음식을 먹으면 설사한다.",
+          "date": "2022-11-18",
+          "time": "15:18:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "그런 이유라면 충분히 이해가 되는 부분입니다, 많이 고생하셨을 거 같아요.",
+          "summary": "나는 상대가 충분히 이해된다.",
+          "date": "2022-11-18",
+          "time": "15:18:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "ㅜㅜ알아주신다니 참 기분이 좋네요! 제 친구들은 다 무시했었거든요 ㅜㅜ.",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:18:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "아하 ㅠㅠ 그럴 때 정말 속상한 기분이죠, 힘든 거 있으시면 다 말하세요!",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:18:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66130",
+          "participantID": "30758",
+          "utterance": "ㅎㅎ그러면 저는 이만 제가 좋아하는 한식을 좀 만들어 먹으러 갈게요!",
+          "summary": "나는 한식을 먹을 것이다.",
+          "date": "2022-11-18",
+          "time": "15:18:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95243",
+          "participantID": "31818",
+          "utterance": "네 알겠습니다, 즐거운 식사시간 보내시고 또 연락합시다~",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "15:18:55",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 요리를 좋아한다.",
+          "나는 양식을 안 먹는다.",
+          "나는 느끼한 음식을 먹으면 설사한다.",
+          "나는 한식을 먹을 것이다."
+        ],
+        "speaker2": [
+          "나는 요리를 시작했다.",
+          "나는 비빔밥을 요리했다.",
+          "나는 양식을 좋아한다.",
+          "나는 상대가 충분히 이해된다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남성이다.",
+          "나는 요즘, 매일 눈물이 난다.",
+          "나는 추운 날씨를 좋아한다.",
+          "나는 혈액형이 B형이다.",
+          "나는 백신을 맞았다.",
+          "나는 겨울에 자주 나간다.",
+          "나는 요가를 싫어한다.",
+          "나는 운동을 하러 갈 것이다.",
+          "나는 운동을 했다.",
+          "나는 헬스장에 갔었다.",
+          "나는 영화를 자주 본다.",
+          "나는 멜로 영화 때문에 눈물이 난다.",
+          "나는 영화를 보러 갈 것이다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나는 다소 부지런하다.",
+          "나는 영어에 관심 없다.",
+          "나의 생일은 5월이다.",
+          "나는 백신을 맞았다.",
+          "나는 면역력이 약하다.",
+          "나는 상대가 멋지다.",
+          "나는 요가를 하고 있다.",
+          "나는 유연성 운동을 좋아한다.",
+          "나는 멋진 몸을 원한다.",
+          "나는 영화를 좋아한다.",
+          "나는 영화를 보러 간다."
+        ]
+      }
+    }
+  ]
+}

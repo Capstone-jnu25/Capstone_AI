@@ -1,0 +1,605 @@
+{
+  "FileInfo": {
+    "filename": "K3-00076-CL21559-CP22667-16-04-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "50426",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "전문직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대학원졸"
+    },
+    "speaker2": {
+      "participantID": "3267",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00076"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "21559",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 종교가 없다",
+        "나는 해외 주식에 관심이 많다",
+        "나는 소설을 가끔 읽는다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22667",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 요즘, 종종 신이난다",
+        "나는 운전하는 것을 좋아한다",
+        "나는 눈 오는 날씨를 싫어한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "16-04",
+    "topicType": "미용과 건강>미용",
+    "topicTitle": "다이어트"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00076-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "안녕하세요 저는 20대 여성입니다!",
+          "summary": "나는 20대 여성이다",
+          "date": "2022-10-06",
+          "time": "00:17:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "안녕하세요 저는 20대 여성입니다",
+          "summary": "나는 20대 여성이다.",
+          "date": "2022-10-06",
+          "time": "09:25:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "반가워요~ 취미가 어떻게 되세요? 저는 책읽기를 좋아해요 소설을 가끔 읽거든요",
+          "summary": "나는 책 읽기를 좋아한다. 나는 소설을 가끔 읽는다.",
+          "date": "2022-10-06",
+          "time": "11:03:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "저는 운전하는 것을 좋아합니다. 그래서 드라이브를 즐겨요. 요즘 날씨가 독서랑 잘 어울리는 날씨네요",
+          "summary": "나는 운전하는 것을 좋아한다. 나는 드라이브하는 것을 즐긴다.",
+          "date": "2022-10-06",
+          "time": "11:12:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "오 그러면 주말에 드라이브를 가세요? 제친구들은 다 교회를 가던데 저는 종교가 없거든요 그래서 주말에는 혼자 있는거같아요",
+          "summary": "나는 주말에는 혼자 있다",
+          "date": "2022-10-06",
+          "time": "11:13:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "네 가을이 되서 그런지 드라이브 나가면 요즘은 종종 신이 나네요. 주말에 혼자시면 심심하시겠어요",
+          "summary": "나는 종종 신이 난다.",
+          "date": "2022-10-06",
+          "time": "11:41:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "네 가끔은요 근데 요즘 해외주식에 관심이 많거든요 그래서 공부하고 있어요!",
+          "summary": "나는 요즘 해외 주식에 관심이 있다. 나는 해외 주식 공부를 한다.",
+          "date": "2022-10-06",
+          "time": "12:16:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "대단하시네요 저는 그런쪽은 전혀 모르거든요",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "12:28:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "저도 그랬는데 공부하다보니 흥미가 생겼어요",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "14:33:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "날씨가 점점 추워져서 걱정이네여 저는 눈 오는 날씨를 싫어하거든요",
+          "summary": "나는 눈 오는 날씨를 싫어한다.",
+          "date": "2022-10-06",
+          "time": "15:51:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "아 왜요? 차가 막혀서 싫어하시나요?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "15:53:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "아무래도 차가 막히는 것도 있거 길도 미끄러워서 위험하니까요",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "15:56:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "아 그렇긴하죠 저도 차를 운전해서 다녀서 아무래도 눈이 내리면 무섭더라구요",
+          "summary": "나는 운전을 한다",
+          "date": "2022-10-06",
+          "time": "16:01:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "네 운전은 언제나 조심해야 하는 것 같아요 저는 약속이 있어서 나가봐야 겠어요",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:24:06",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다",
+          "나는 책 읽기를 좋아한다. 나는 소설을 가끔 읽는다.",
+          "나는 주말에는 혼자 있다",
+          "나는 요즘 해외 주식에 관심이 있다. 나는 해외 주식 공부를 한다.",
+          "나는 운전을 한다"
+        ],
+        "speaker2": [
+          "나는 20대 여성이다.",
+          "나는 운전하는 것을 좋아한다. 나는 드라이브하는 것을 즐긴다.",
+          "나는 종종 신이 난다.",
+          "나는 눈 오는 날씨를 싫어한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00076-1",
+      "prevTimeInfo": {
+        "timeNum": "8",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00076-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "안녕하세요! 벌써 시간이 8시간이나 흘렀네요~지금뭐하세요?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "18:16:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "아 저는 밥 먹고 왔어요 식사 하셨나요?",
+          "summary": "나는 밥을 먹고 왔다.",
+          "date": "2022-10-06",
+          "time": "18:45:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "저는 다이어트 때문에 굶었어요..",
+          "summary": "나는 다이어트 중이다",
+          "date": "2022-10-06",
+          "time": "19:23:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "굶으시면 어떡해요 그래도 식사는 하셔야죠 요즘은 다이어트용 대용식도 많이 나오던데요",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "19:37:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "그래도 하루에 한끼는 먹으려고 하고 있어요!",
+          "summary": "나는 하루에 한 끼를 먹으려 한다",
+          "date": "2022-10-06",
+          "time": "20:24:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "사람이.. 한끼만 먹고 어떻게 살죠?ㅎ 저는 예전에 다이어트 할 때 줄넘기 했었는데 효과가 좋더라구요 ",
+          "summary": "나는 예전에 다이어트할 때 줄넘기를 했었다.",
+          "date": "2022-10-06",
+          "time": "20:27:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "아 근데 줄넘기하면다리에 알이 생길까봐 걱정이에요",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "20:30:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "그건 어쩔 수 없는거 같아요 열심히 풀어줘도 안돼요 살 다 빼고 줄넘기 안하니까 알은 알아서 빠지더라구요",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "20:33:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "아 그러면 살이 다시 찌지는 않으셨나요?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "20:33:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "그렇죠 빼기 전 보다 더 쪘죠 원래 다이어트는 그런거죠",
+          "summary": "나는 다이어트한 후에 전보다 더 살이 쪘다.",
+          "date": "2022-10-06",
+          "time": "20:39:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "저는 미용몸무게까지 빼고싶어요..",
+          "summary": "나는 미용 몸무게까지 살을 빼고 싶다",
+          "date": "2022-10-06",
+          "time": "20:41:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "그럼 지금 몸무게에서 몇 키로나 빼셔야 되는 거예요?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "20:42:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "한 4-5키로 정도 빼면 될거같아요! 근데 몸무게가 더이상 안내려가서 스트레스에요",
+          "summary": "나는 몸무게가 내려가지 않아 스트레스다",
+          "date": "2022-10-06",
+          "time": "20:44:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "그 정도면 금방 빼실 수 있을거예요 힘내세요 식사도 잘 챙겨 드시구요 저는 일이 있어서 가봐야겠어요",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "20:45:57",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 다이어트 중이다",
+          "나는 하루에 한 끼를 먹으려 한다",
+          "나는 미용 몸무게까지 살을 빼고 싶다",
+          "나는 몸무게가 내려가지 않아 스트레스다"
+        ],
+        "speaker2": [
+          "나는 밥을 먹고 왔다.",
+          "나는 예전에 다이어트할 때 줄넘기를 했었다.",
+          "나는 다이어트한 후에 전보다 더 살이 쪘다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다",
+          "나는 책 읽기를 좋아한다. 나는 소설을 가끔 읽는다.",
+          "나는 주말에는 혼자 있다",
+          "나는 요즘 해외 주식에 관심이 있다. 나는 해외 주식 공부를 한다.",
+          "나는 운전을 한다"
+        ],
+        "speaker2": [
+          "나는 20대 여성이다.",
+          "나는 운전하는 것을 좋아한다. 나는 드라이브하는 것을 즐긴다.",
+          "나는 종종 신이 난다.",
+          "나는 눈 오는 날씨를 싫어한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00076-2",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "주"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00076-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "안녕하세요 벌써 5주나 지났어요 ! 시간이 참빠르네요 그동안 뭐하며 지내셨나요?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "20:57:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "잘 지내셨나요 저도 그동안 살 빼보려고 닭가슴살을 주문해서 먹어봤어요",
+          "summary": "나는 살 빼려고 닭가슴살을 주문해서 먹었다",
+          "date": "2022-10-06",
+          "time": "21:37:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "그러셨구나! 저는 드디어 제가 원하는 몸무게에 도달했어요!",
+          "summary": "나는 원하는 몸무게가 됐다",
+          "date": "2022-10-06",
+          "time": "21:45:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "축하드려요 성공하셨네요 그냥 식사만 조절하신거예요?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:02:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "식사 조절과 운동을 병행했어요!",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:03:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "그러셨구나 운동은 어떤 거 하셨어요? 저는 점핑 다이어트를 해보려고 트램폴린을 사 봤어요",
+          "summary": "나는 점핑 다이어트 응 하려고 트램펄린을 샀다",
+          "date": "2022-10-06",
+          "time": "22:09:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "아 점핑다이어트! 저도 다녀봤어요 정말신나고 좋았던 기억있네요 저는 복싱했어요!",
+          "summary": "나는 복싱을 했다",
+          "date": "2022-10-06",
+          "time": "22:10:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "복싱은 어떤가요? 저도 생각했었는데 왠지 다치진 않을까 싶어서 무섭더라구요",
+          "summary": "나는 복싱은 다칠까 봐 무섭다",
+          "date": "2022-10-06",
+          "time": "22:15:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "오 전혀요 스파링하지않는다면 다칠일은 전혀 없어요",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:16:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "그렇군요 저는 팔뚝살이 고민인데 복싱이 효과가 있을까요 아령 들고 운동은 하는데 더 두꺼워지는거 같아요",
+          "summary": "나는 팔뚝살이 고민이다",
+          "date": "2022-10-06",
+          "time": "22:21:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "살이라서 먹지 않는 이상 두꺼워지진않아요 오히려 사용하니까 칼로리가 소모되서 조금씩빠질거예요",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:23:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "그런가요 살은 안빠지고 거기에 근육이 붙으니까 두꺼워져요 꾸준히 하면 지방이 빠지겠죠?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:31:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21559",
+          "participantID": "50426",
+          "utterance": "살이 안빠지는데 근육 붙기란 쉽지않는데..아마 부으신게 아닐까요 다이어트 할때는 붓기관리가 정말중요하다고 하더라구요!저도 붓기정말신경많이썼어요",
+          "summary": "나는 붓기를 신경 썼다",
+          "date": "2022-10-06",
+          "time": "22:32:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22667",
+          "participantID": "3267",
+          "utterance": "그럴까요? 붓기관리도 한 번 알아봐야겠네요 저는 이만 자러 가야겠어요",
+          "summary": "나는 붓기 관리를 알아보려 한다",
+          "date": "2022-10-06",
+          "time": "22:36:39",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 원하는 몸무게가 됐다",
+          "나는 복싱을 했다",
+          "나는 붓기를 신경 썼다"
+        ],
+        "speaker2": [
+          "나는 살 빼려고 닭가슴살을 주문해서 먹었다",
+          "나는 점핑 다이어트 응 하려고 트램펄린을 샀다",
+          "나는 복싱은 다칠까 봐 무섭다",
+          "나는 팔뚝살이 고민이다",
+          "나는 붓기 관리를 알아보려 한다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다",
+          "나는 책 읽기를 좋아한다. 나는 소설을 가끔 읽는다.",
+          "나는 주말에는 혼자 있다",
+          "나는 요즘 해외 주식에 관심이 있다. 나는 해외 주식 공부를 한다.",
+          "나는 운전을 한다",
+          "나는 다이어트 중이다",
+          "나는 하루에 한 끼를 먹으려 한다",
+          "나는 미용 몸무게까지 살을 빼고 싶다",
+          "나는 몸무게가 내려가지 않아 스트레스다"
+        ],
+        "speaker2": [
+          "나는 20대 여성이다.",
+          "나는 운전하는 것을 좋아한다. 나는 드라이브하는 것을 즐긴다.",
+          "나는 종종 신이 난다.",
+          "나는 눈 오는 날씨를 싫어한다.",
+          "나는 밥을 먹고 왔다.",
+          "나는 예전에 다이어트할 때 줄넘기를 했었다.",
+          "나는 다이어트한 후에 전보다 더 살이 쪘다."
+        ]
+      }
+    }
+  ]
+}

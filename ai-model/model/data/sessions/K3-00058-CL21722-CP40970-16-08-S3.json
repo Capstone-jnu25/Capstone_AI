@@ -1,0 +1,604 @@
+{
+  "FileInfo": {
+    "filename": "K3-00058-CL21722-CP40970-16-08-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3131",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "3352",
+      "gender": "남성",
+      "age": "40대",
+      "occupation": "판매직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00058"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "21722",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 거주지는 고양이다",
+        "나는 인생에서 가장 설레던 때는 할아버지와의 추억을 회상할 때이다",
+        "나는 요가를 좋아한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "40970",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나의 종교는 개신교이다",
+        "나는 가족과 함께하는 시간이 많다",
+        "나는 동물에 관심 없다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "16-08",
+    "topicType": "미용과 건강>미용",
+    "topicTitle": "화장"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00058-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "안녕하세요 저는 20대 여성입니다. ",
+          "summary": "나는 20대 여성이다",
+          "date": "2022-10-25",
+          "time": "10:32:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "안녕하세요~ 저는 40대 남성입니다",
+          "summary": "나는 40대이다. \n나는 남자이다. ",
+          "date": "2022-10-25",
+          "time": "10:34:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "저는 요가 강사입니다. 저는 요가를 좋아합니다. 어디 사세요? ",
+          "summary": "나는 요가 강사다",
+          "date": "2022-10-25",
+          "time": "17:18:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "네~ 저는 서울에 살고 있어요~",
+          "summary": "나는 서울에 산다.",
+          "date": "2022-10-25",
+          "time": "18:16:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "저는 고양시에 살고 있어요. 가깝네요. ",
+          "summary": "나는 고양시에 산다",
+          "date": "2022-10-26",
+          "time": "09:46:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "그렇네요~ 저는 개신교라 주말 마다 가족들과 함께하는 시간이 많아요~",
+          "summary": "나는 개신교다.\n나는 주말마다 가족들과 함께하는 시간이 많다. ",
+          "date": "2022-10-26",
+          "time": "16:12:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "저는 할아버지와의 추억을 회상할 때가 인생에서 가장 설레던 때였던 것 같아요.",
+          "summary": "나는 할아버지와의 추억을 회상할 때가 가장 설레던 때다",
+          "date": "2022-10-26",
+          "time": "22:21:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "아~그러시구나 저는 할아버지가 어릴적에 돌아가셔서 아쉽습니다 ",
+          "summary": "나는 할아버지가 어릴 적 돌아가셨다.",
+          "date": "2022-10-27",
+          "time": "18:39:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "아고 많이 아쉽겠어요. 저도 할아버지가 돌아가시면 많이 슬플 것 같아요.",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "19:08:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "항상 어른들이 하시는 말씀이 있을때 잘하라시네요",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "19:19:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "네, 그런데 참.. 그게 잘 안되네요. 언제나 마음 한 켠에 죄송한 마음 뿐입니다. ",
+          "summary": "",
+          "date": "2022-10-28",
+          "time": "09:03:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "그러게요. 마음으로는 알겠는데 그게 잘안되네요~ 아이들이 동물원에 가자고 하는데 저는 좀 별로 여요~  제가 동물에 관심이 없거든요~ 그래서 다른 곳으로 유도 하려고 합니다~ㅎ",
+          "summary": "나는 동물원을 별로 안 좋아한다. 나는 동물에 관심이 없다.",
+          "date": "2022-10-28",
+          "time": "09:30:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "네 저는 일이 있어서 먼저 가볼게요",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "00:05:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "네 다음에 다시 연락 주세요 ",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "09:31:39",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다",
+          "나는 요가 강사다",
+          "나는 고양시에 산다",
+          "나는 할아버지와의 추억을 회상할 때가 가장 설레던 때다"
+        ],
+        "speaker2": [
+          "나는 40대이다. \n나는 남자이다. ",
+          "나는 서울에 산다.",
+          "나는 개신교다.\n나는 주말마다 가족들과 함께하는 시간이 많다. ",
+          "나는 할아버지가 어릴 적 돌아가셨다.",
+          "나는 동물원을 별로 안 좋아한다.",
+          "나는 동물에 관심이 없다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00058-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00058-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "하루만에 연락 드려요. 잘 지내셨어요? 오빠",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "23:50:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "안녕하세요 저는 잘 지내고 있어요 ",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "11:55:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "네 저는 어제 sns로 화장 전 후 비교 영상을 봤는데 정말 신기하고 재밌더라고요. ",
+          "summary": "화장 전후 사진을 봤는데 신기하고 재미있다",
+          "date": "2022-10-31",
+          "time": "06:12:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "네~화장전후 정말 많이 다른 분들이 있으신것 같아요",
+          "summary": "",
+          "date": "2022-10-31",
+          "time": "10:12:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "네 요즈음 외모 가꾸기에 관심이 많아져서 저도 화장을 예쁘게 잘 하고 싶더라고요. ",
+          "summary": "나는 화장을 잘하고 싶다",
+          "date": "2022-10-31",
+          "time": "17:19:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "네~화장기술이 워낙 발전하다보니 다들 따라기기가 힘들것 같아요 ",
+          "summary": "나는 화장 기술이 워낙 발전을 하다 보니 사람들이 다들 따라가기가 힘들 것 같다.",
+          "date": "2022-10-31",
+          "time": "19:30:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "네 보니까 눈도 엄청 커지고 코도 오똑해지더라고요.",
+          "summary": "",
+          "date": "2022-11-01",
+          "time": "09:14:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "그런데 제가 잘 몰라서 그런지 요즘은 거의 화장을 안 한것 같은 분들도 있더라구요",
+          "summary": "나는 내가 잘 모르는 건지 모르겠지만 요즈음 거의 화장을 안 한 것 같은 사람들도 종종 보인다.",
+          "date": "2022-11-01",
+          "time": "09:22:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "맞아요. 그런 화장 참 예쁜 것 같아요.",
+          "summary": "",
+          "date": "2022-11-01",
+          "time": "12:54:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "저는 그래서 그런지 여성분들이 화장 하신 건지 안하신 건지 잘 모르겟더라구요~ㅎㅎ",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "10:53:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "네 자연스러운 화장이 정말 예쁜 것 같아요.",
+          "summary": "자연스러운 화장이 이쁘다",
+          "date": "2022-11-02",
+          "time": "23:36:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "네~요즘은 다들 이쁘셔서 자연스럽게 하시는게 좋아 보여요",
+          "summary": "나는 요즈음 사람들이 예뻐서 자연스럽게 하는 것이 좋아 보인다.",
+          "date": "2022-11-03",
+          "time": "10:59:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "맞아요. 저는 일이 있어서 먼저 가 봐야겠어요! ",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "11:45:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "네~알겠습니다 다음에 다시 연락 주세요 ",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:21:21",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "화장 전후 사진을 봤는데 신기하고 재미있다",
+          "나는 화장을 잘하고 싶다",
+          "자연스러운 화장이 이쁘다"
+        ],
+        "speaker2": [
+          "나는 화장 기술이 워낙 발전을 하다 보니 사람들이 다들 따라가기가 힘들 것 같다.",
+          "나는 내가 잘 모르는 건지 모르겠지만 요즈음 거의 화장을 안 한 것 같은 사람들도 종종 보인다.",
+          "나는 요즈음 사람들이 예뻐서 자연스럽게 하는 것이 좋아 보인다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다",
+          "나는 요가 강사다",
+          "나는 고양시에 산다",
+          "나는 할아버지와의 추억을 회상할 때가 가장 설레던 때다"
+        ],
+        "speaker2": [
+          "나는 40대이다. \n나는 남자이다. ",
+          "나는 서울에 산다.",
+          "나는 개신교다.\n나는 주말마다 가족들과 함께하는 시간이 많다. ",
+          "나는 할아버지가 어릴 적 돌아가셨다.",
+          "나는 동물원을 별로 안 좋아한다.",
+          "나는 동물에 관심이 없다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00058-2",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "주"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00058-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "4주 만에 연락드려요. 잘 지내셨어요? ",
+          "summary": "",
+          "date": "2022-11-06",
+          "time": "15:49:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "안녕하세요 저는 잘 지내고 있어요 별일 없으셨는지요",
+          "summary": "",
+          "date": "2022-11-06",
+          "time": "17:12:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "네 이번에 화장품을 좀 샀어요. 저도 좀 예뻐지고 싶어서요. ",
+          "summary": "나는 화장품을 샀다",
+          "date": "2022-11-06",
+          "time": "21:47:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "요즘은 어떤 화장을 주로 하시나요~ 색조를 진하게 하시는 건가요?",
+          "summary": "",
+          "date": "2022-11-07",
+          "time": "15:42:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "저는 퍼스널컬러가 가을 웜톤이거든요. 거기에 맞춰서 립스틱을 샀어요.",
+          "summary": "나의 퍼스널 컬러는 웜톤이다",
+          "date": "2022-11-07",
+          "time": "19:00:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "그렇군요~ 요즘 퍼스널컬러들이 다 있다고 하는데 저는 없어요",
+          "summary": "나는 퍼스널 컬러가 없다.",
+          "date": "2022-11-08",
+          "time": "09:36:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "아 아직 안 해 보셔서 모르시는게 아닐까요. 저도 알고 나니까 화장품 사기 편하더라고요. ",
+          "summary": "",
+          "date": "2022-11-08",
+          "time": "14:39:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "네~ 저는 남자라서 그런지 화장품을 사지를 않다 보니~ 모르겠네요",
+          "summary": "",
+          "date": "2022-11-08",
+          "time": "15:36:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "네 화장하면 예뻐지고 기분 좋네요. ",
+          "summary": "나는 화장하면 기분이 좋다",
+          "date": "2022-11-08",
+          "time": "18:30:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "화장을 하고 예뻐지면 기분이 좋아 지는 것을 느껴보고 싶네요~ 할 수 가 없으니까 더 그런 것 같아요~ㅎㅎ",
+          "summary": "",
+          "date": "2022-11-08",
+          "time": "20:34:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "네 조금 더 예뻐진 저 자신을 보면 왠지 모를 자존감이 높아지는 기분이에요. ",
+          "summary": "나는 예뻐진 자신을 보면 자존감이 높아진다",
+          "date": "2022-11-08",
+          "time": "21:16:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "그도 그럴것이 남자들도 옷을 잘 차려입으면 자신감이 생기는것 같아요 ",
+          "summary": "나는 옷을 잘 차려입으면 자신감이 생긴다.",
+          "date": "2022-11-08",
+          "time": "21:28:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21722",
+          "participantID": "3131",
+          "utterance": "네 요즈음 남자 옷도 예쁜 옷 많더라고요. ",
+          "summary": "",
+          "date": "2022-11-08",
+          "time": "21:28:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40970",
+          "participantID": "3352",
+          "utterance": "네~약속이 있어서요 다음에 다시 연락 주세요 ",
+          "summary": "",
+          "date": "2022-11-08",
+          "time": "21:29:57",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 화장품을 샀다",
+          "나의 퍼스널 컬러는 웜톤이다",
+          "나는 화장하면 기분이 좋다",
+          "나는 예뻐진 자신을 보면 자존감이 높아진다"
+        ],
+        "speaker2": [
+          "나는 퍼스널 컬러가 없다.",
+          "나는 옷을 잘 차려입으면 자신감이 생긴다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다",
+          "나는 요가 강사다",
+          "나는 고양시에 산다",
+          "나는 할아버지와의 추억을 회상할 때가 가장 설레던 때다",
+          "화장 전후 사진을 봤는데 신기하고 재미있다",
+          "나는 화장을 잘하고 싶다",
+          "자연스러운 화장이 이쁘다"
+        ],
+        "speaker2": [
+          "나는 40대이다. \n나는 남자이다. ",
+          "나는 서울에 산다.",
+          "나는 개신교다.\n나는 주말마다 가족들과 함께하는 시간이 많다. ",
+          "나는 할아버지가 어릴 적 돌아가셨다.",
+          "나는 동물원을 별로 안 좋아한다.",
+          "나는 동물에 관심이 없다.",
+          "나는 화장 기술이 워낙 발전을 하다 보니 사람들이 다들 따라가기가 힘들 것 같다.",
+          "나는 내가 잘 모르는 건지 모르겠지만 요즈음 거의 화장을 안 한 것 같은 사람들도 종종 보인다.",
+          "나는 요즈음 사람들이 예뻐서 자연스럽게 하는 것이 좋아 보인다."
+        ]
+      }
+    }
+  ]
+}

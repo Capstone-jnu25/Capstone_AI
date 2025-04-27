@@ -1,0 +1,609 @@
+{
+  "FileInfo": {
+    "filename": "K3-00017-CL41494-CP30948-15-03-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4058",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "3965",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00017"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "41494",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나는 콜센터 상담원이다",
+        "나는 걷기를 가끔 한다",
+        "나는 TV 시사 프로그램을 자주 본다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "30948",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 도배공이다",
+        "나는 가끔 내 자신이 한심하다",
+        "나는 더운 날씨를 싫어한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "15-03",
+    "topicType": "시사/사회>타국가이슈(해외)",
+    "topicTitle": "바이러스"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00017-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "안녕하세요 저 40대 여성 콜센터 상담원입니다.",
+          "summary": "나는 40대 여성이고 콜센터 상담원이다",
+          "date": "2022-11-01",
+          "time": "09:35:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "안녕하세요 전 30대 남성입니다",
+          "summary": "나는 30대 남성이다.",
+          "date": "2022-11-01",
+          "time": "12:36:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "취미가 어떻게 되세요? 저는 가끔 걷거나 tv로 시사프로그램을 자주 봐요",
+          "summary": "나는 가끔 걷거나 tv시사프로그램을 자주 본다",
+          "date": "2022-11-01",
+          "time": "13:59:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "그러시군요 저는 영화 보는걸 좋아해요 저는 도배공으로 일하고 있습니다.",
+          "summary": "나는 영화 보는 것을 좋아한다. 나는 도배공이다.",
+          "date": "2022-11-02",
+          "time": "14:24:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "그러시구나 요즘 날씨가 선선해서 걷기에 좋은 것 같아요. 그래서 전 걷기를 가끔 해요",
+          "summary": "나는 가끔 걷기를 한다",
+          "date": "2022-11-02",
+          "time": "17:59:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "맞아요 요즘 날씨가 좋더라구요 저는 더운 날씨를 싫어해요ㅠ",
+          "summary": "나는 요즘 날씨가 좋다. 나는 더운 날씨를 싫어한다.",
+          "date": "2022-11-02",
+          "time": "18:00:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "맞아요 저도 더운건 너무 싫어요",
+          "summary": "나는 더운 건 너무 싫다",
+          "date": "2022-11-02",
+          "time": "18:02:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "그쵸 저는 성격이 좀 덤벙거리는 성격이라서 실수 할 때가 많아 가끔 제 자신이 한심하기도해요..",
+          "summary": "나는 성격이 좀 덤벙거려서 실수할 때가 많아 가끔 나 자신이 한심하다.\n",
+          "date": "2022-11-02",
+          "time": "18:18:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "그래도 본인이 알고 있는 단점이니 신경쓰면 덜 덤벙거릴수있으실거에요",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "18:22:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "그러겠죠 좋아하시는 취미 있으신가요?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "18:26:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "걷는걸 좋아해요. 요즘 날씨가 산책하기 딱 좋네요",
+          "summary": "나는 걷는 걸 좋아해서 요즘 날씨가 산책하기 딱 좋다",
+          "date": "2022-11-02",
+          "time": "18:30:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "그러니까요 여행도 그럼 좋아하시나요?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "18:36:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "네 해외여행도 자주 다니는데 코로나때문에 못 간지 꽤 됐네요",
+          "summary": "나는 해외여행도 자주 다니는데 코로나 때문에 못 간지 꽤 되었다",
+          "date": "2022-11-02",
+          "time": "18:58:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "저두요 저는 이제 저녁 먹으러 가보겠습니다. 담에 또 봬요! ",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "19:00:43",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이고 콜센터 상담원이다",
+          "나는 가끔 걷거나 tv시사프로그램을 자주 본다",
+          "나는 가끔 걷기를 한다",
+          "나는 더운 건 너무 싫다",
+          "나는 걷는 걸 좋아해서 요즘 날씨가 산책하기 딱 좋다",
+          "나는 해외여행도 자주 다니는데 코로나 때문에 못 간지 꽤 되었다"
+        ],
+        "speaker2": [
+          "나는 30대 남성이다.",
+          "나는 영화 보는 것을 좋아한다. 나는 도배공이다.",
+          "나는 요즘 날씨가 좋다. 나는 더운 날씨를 싫어한다.",
+          "나는 성격이 좀 덤벙거려서 실수할 때가 많아 가끔 나 자신이 한심하다.\n"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00017-1",
+      "prevTimeInfo": {
+        "timeNum": "26",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00017-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "26시간만이네요 잘 지내셨어요? 전 컨디션이 너무 안좋네요",
+          "summary": "나는 컨디션이 너무 안 좋다",
+          "date": "2022-11-02",
+          "time": "19:45:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "아이고 무슨일 있으신가요? 아프신가요?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "19:47:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "감기기운이있어서 병원갔더니 코로나라고 하더라구요",
+          "summary": "나는 감기 기운이 있어서 병원 갔더니 코로나라고 했다",
+          "date": "2022-11-02",
+          "time": "19:54:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "세상에 처음 걸리신거에요? 어때요 엄청 아프신가요?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "20:15:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "심하진 않는데 피곤하긴 하네요 혹시 코로나 걸리셨었어요?",
+          "summary": "나는 심하진 않는데 피곤하다",
+          "date": "2022-11-02",
+          "time": "20:28:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "아뇨 저는 아직 한번도 안 걸렸어요ㅠㅠ 근데 요즘 또 변이 바이러스라는 이야기도 있고 확진자도 많이 늘고 있어서 걱정이네요..",
+          "summary": "나는 코로나를 한 번도 안 걸렸다. 나는 코로나 변이 바이러스 때문에 걱정이다. 나는 확진자가 많이 늘고 있어서 걱정이다.",
+          "date": "2022-11-02",
+          "time": "20:33:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "맞아요 해외에는 아직도 많은 확진자가 나온다고 하더라구요",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "20:39:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "그러니까요 그래서 이번에 독감 주사를 꼭 맞아야한다고 하는데 맞으셨나요?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "21:05:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "네 독감주사 빨리 맞았는데 코로나가 걸리다니...",
+          "summary": "나는 독감주사를 빨리 맞았는데 코로나가 걸렸다",
+          "date": "2022-11-02",
+          "time": "21:16:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "진짜 속상하시겠어요.. 다들 보니까 휴유증도 장난 아니라고 그러더라구요.. ",
+          "summary": "나는 코로나 후유증이 장난 아니라고 들었다.",
+          "date": "2022-11-02",
+          "time": "21:23:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "저는 무적인줄알았는데 이제 걸려서 너무 당황스럽네요",
+          "summary": "나는 무적인 줄 알았는데 걸려서 너무 당황스럽다",
+          "date": "2022-11-02",
+          "time": "21:49:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "그러니까요 늦게 걸리는 사람도 있더라구요ㅠ 2번씩 걸리는 사람도 있구요..",
+          "summary": "나는 코로나가 늦게 걸리거나 2번씩 걸리는 사람이 있다고 들었다.",
+          "date": "2022-11-02",
+          "time": "22:03:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "맞아요 그런거보면 다행이라고 해야할까요...전 증상도 약해서 다행인것같아요",
+          "summary": "나는 그래도 증상이 약해서 다행인 것 같다",
+          "date": "2022-11-02",
+          "time": "22:06:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "그러니까요 몸 조리 잘하세요.. 다음에 또 봬요!",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "22:17:02",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 컨디션이 너무 안 좋다",
+          "나는 감기 기운이 있어서 병원 갔더니 코로나라고 했다",
+          "나는 심하진 않는데 피곤하다",
+          "나는 독감주사를 빨리 맞았는데 코로나가 걸렸다",
+          "나는 무적인 줄 알았는데 걸려서 너무 당황스럽다",
+          "나는 그래도 증상이 약해서 다행인 것 같다"
+        ],
+        "speaker2": [
+          "나는 코로나를 한 번도 안 걸렸다. 나는 코로나 변이 바이러스 때문에 걱정이다. 나는 확진자가 많이 늘고 있어서 걱정이다.",
+          "나는 코로나 후유증이 장난 아니라고 들었다.",
+          "나는 코로나가 늦게 걸리거나 2번씩 걸리는 사람이 있다고 들었다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이고 콜센터 상담원이다",
+          "나는 가끔 걷거나 tv시사프로그램을 자주 본다",
+          "나는 가끔 걷기를 한다",
+          "나는 더운 건 너무 싫다",
+          "나는 걷는 걸 좋아해서 요즘 날씨가 산책하기 딱 좋다",
+          "나는 해외여행도 자주 다니는데 코로나 때문에 못 간지 꽤 되었다"
+        ],
+        "speaker2": [
+          "나는 30대 남성이다.",
+          "나는 영화 보는 것을 좋아한다. 나는 도배공이다.",
+          "나는 요즘 날씨가 좋다. 나는 더운 날씨를 싫어한다.",
+          "나는 성격이 좀 덤벙거려서 실수할 때가 많아 가끔 나 자신이 한심하다.\n"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00017-2",
+      "prevTimeInfo": {
+        "timeNum": "9",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00017-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "안녕하세요 9일만이네요 잘 지내셨나요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "08:48:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "네 잘지내셨나요? 몸은 좀 어떠세요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:01:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "네 지금은 완치되어서 괜찮습니다",
+          "summary": "나는 지금은 완치되어서 괜찮다",
+          "date": "2022-11-03",
+          "time": "15:04:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "너무 다행이네요 감기도 자주 걸리시는 타입인가요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "15:23:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "원래는 자주 걸리는 타입이었는데 코로나 이후로 마스크를 써서 그런지 감기는 잘 안 걸리네요",
+          "summary": "나는 코로나 이후로 마스크를 써서 그런지 감기는 잘 안 걸린다",
+          "date": "2022-11-03",
+          "time": "15:25:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "다행이네요 저는 감기도 잘 안걸리는 타입이기도 했는데 마스크 때문에 저도 더 안걸리는것같아요 ",
+          "summary": "나는 감기에 잘 안 걸린다. 나는 마스크 때문에 감기에 더 안 걸리는 것 같다.",
+          "date": "2022-11-03",
+          "time": "16:09:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "요즘 해외에서는 돼지열병바이러스가 유행하고 있다네요",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "16:11:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "헐 그렇군요 우리나라까지 바이러스가 들어오지는 않겠죠?..",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "16:13:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "우리나라도 종종 돼지열병은 유행하더라구요",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "16:14:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "그렇군요.. 요즘 진짜 이런저런 바이러스가 많이 생겨서 걱정이네요..",
+          "summary": "나는 요즘 바이러스가 많이 생겨서 걱정이다.",
+          "date": "2022-11-03",
+          "time": "16:19:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "정말 인류멸망은 바이러스로 된다는게 실감이 났어요",
+          "summary": "나는 인류멸망은 바이러스로 된다는 게 실감이 났다",
+          "date": "2022-11-03",
+          "time": "16:20:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "그런이야기가 있었군요?ㅠㅠ 진짜 그렇게 되면 너무 최악의 상황이겠네요..",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "16:22:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "이번 코로나 보고 느꼈어요. 너무 무섭네요",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "16:23:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30948",
+          "participantID": "3965",
+          "utterance": "그러니까요.. 몸조리 잘하시고 다음에 또 연락해요! ",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "16:27:07",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 지금은 완치되어서 괜찮다",
+          "나는 코로나 이후로 마스크를 써서 그런지 감기는 잘 안 걸린다",
+          "나는 인류멸망은 바이러스로 된다는 게 실감이 났다"
+        ],
+        "speaker2": [
+          "나는 감기에 잘 안 걸린다. 나는 마스크 때문에 감기에 더 안 걸리는 것 같다.",
+          "나는 요즘 바이러스가 많이 생겨서 걱정이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이고 콜센터 상담원이다",
+          "나는 가끔 걷거나 tv시사프로그램을 자주 본다",
+          "나는 가끔 걷기를 한다",
+          "나는 더운 건 너무 싫다",
+          "나는 걷는 걸 좋아해서 요즘 날씨가 산책하기 딱 좋다",
+          "나는 해외여행도 자주 다니는데 코로나 때문에 못 간지 꽤 되었다",
+          "나는 컨디션이 너무 안 좋다",
+          "나는 감기 기운이 있어서 병원 갔더니 코로나라고 했다",
+          "나는 심하진 않는데 피곤하다",
+          "나는 독감주사를 빨리 맞았는데 코로나가 걸렸다",
+          "나는 무적인 줄 알았는데 걸려서 너무 당황스럽다",
+          "나는 그래도 증상이 약해서 다행인 것 같다"
+        ],
+        "speaker2": [
+          "나는 30대 남성이다.",
+          "나는 영화 보는 것을 좋아한다. 나는 도배공이다.",
+          "나는 요즘 날씨가 좋다. 나는 더운 날씨를 싫어한다.",
+          "나는 성격이 좀 덤벙거려서 실수할 때가 많아 가끔 나 자신이 한심하다.\n",
+          "나는 코로나를 한 번도 안 걸렸다. 나는 코로나 변이 바이러스 때문에 걱정이다. 나는 확진자가 많이 늘고 있어서 걱정이다.",
+          "나는 코로나 후유증이 장난 아니라고 들었다.",
+          "나는 코로나가 늦게 걸리거나 2번씩 걸리는 사람이 있다고 들었다."
+        ]
+      }
+    }
+  ]
+}

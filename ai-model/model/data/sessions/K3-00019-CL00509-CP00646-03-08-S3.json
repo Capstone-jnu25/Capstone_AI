@@ -1,0 +1,648 @@
+{
+  "FileInfo": {
+    "filename": "K3-00019-CL00509-CP00646-03-08-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0303",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0272",
+      "gender": "남성",
+      "age": "50대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00019"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "00509",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나는 봉사활동을 하는 게 괴롭다.",
+        "나는 배구를 좋아한다.",
+        "나는 김치찌개를 안 먹는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "00646",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 50대이다.",
+        "나는 청소하는 게 괴롭다.",
+        "나는 등산을 자주 한다.",
+        "나는 짠 음식을 즐겨 먹는다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "03-08",
+    "topicType": "교통",
+    "topicTitle": "이동수단"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00019-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "안녕하세요 40대 여자입니다.",
+          "summary": "나는 40대 여자이다.",
+          "date": "2022-08-30",
+          "time": "22:44:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "안녕하세요 50대 남자입니다.",
+          "summary": "나는 50대 남자이다.",
+          "date": "2022-08-30",
+          "time": "22:44:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "저희 회사좀 말려주세요~ 도대체 봉사활동시간은 왜 넣어서는 금요일 오후시간대만 봉사를 한다니까요!?",
+          "summary": "나의 회사는 금요일 오후 시간에 봉사를 한다.",
+          "date": "2022-08-30",
+          "time": "22:45:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "그래요?ㅋㅋ 그러면 금요일오후엔 시간도 잘갈거 같은데요..?",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:45:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "저는 회사에서 하는 봉사활동 하는게 너무 괴로워요 할거는 산더미인데.. 맨날 야근해요 그것때문에.",
+          "summary": "나는 봉사하는 게 괴롭다. 나는 맨날 야근한다.",
+          "date": "2022-08-30",
+          "time": "22:45:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "음 야근할 사람에게는 봉사활동을 안하게 하는게 맞는거긴 한데.. 저는 청소하는게 괴로워요 ㅋ.",
+          "summary": "나는 청소하는 게 괴롭다.",
+          "date": "2022-08-30",
+          "time": "22:46:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "청소하는게 백배 낫죠.. 근데 저희 괴로운게 하나씩있네요 ㅋㅋㅋ 맞는 부분이 있네요?ㅎ.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:46:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "그러게요? 그럼 혹시 좋아하는것이 통하면 저희 천생연분이라고 하죠.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:46:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "그래요? 선보는거 같네요 저는 등산 좋아해서 등산 좋아해요^^",
+          "summary": "나는 등산을 좋아한다.",
+          "date": "2022-08-30",
+          "time": "22:48:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "음 그건 반대네요 ㅋㅋ 저는 배구를 좋아하는데 혹시 배구 좋아해요?",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:49:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "배구 좋아해요! 이거는 맞네요 ^^ 재밌네요 취향 찾기 저는 그리고 짠음식을 즐겨먹어요.",
+          "summary": "나는 짠 음식을 즐겨먹는다.",
+          "date": "2022-08-30",
+          "time": "22:49:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "짠음식 안타깝게도 안좋아합니다.. 특히 짠 김치찌개를 안먹거든요...",
+          "summary": "나는 김치찌개를 안 먹는다.",
+          "date": "2022-08-30",
+          "time": "22:49:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "맛있는 김치찌개를 안드신다구요!? 인생의 재미를 잘 모르시네요.. 흑흑.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:50:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "김치찌개 말고도 맛있는 것은 많으니까요^^ 그래도 맞는것이 있어 기분이 좋네요~",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:51:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "김치찌개 생각하니까 갑자기 김치찌개가 먹고싶네요 마침 저녁시간이라 저 밥좀 먹고올게요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:51:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "그래요 제가 못먹는 김치찌개 맛있게 드시고 오세요~",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:51:36",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 여자이다.",
+          "나의 회사는 금요일 오후 시간에 봉사를 한다.",
+          "나는 봉사하는 게 괴롭다. 나는 맨날 야근한다.",
+          "나는 등산을 좋아한다.",
+          "나는 짠 음식을 즐겨먹는다."
+        ],
+        "speaker2": [
+          "나는 50대 남자이다.",
+          "나는 청소하는 게 괴롭다.",
+          "나는 김치찌개를 안 먹는다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00019-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00019-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "아 김치찌개를 만들다가 태워버려서 냄비 닦느라 2시간이나 지났네요...",
+          "summary": "나는 김치찌개를 만들다 냄비를 태웠다.",
+          "date": "2022-08-30",
+          "time": "22:52:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "그거 닦기 힘들텐데 고생하셨어요 그나저나 재료가 다 있었나봐요?",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:52:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "아~ 차타고 앞에 시장좀 다녀왔어요~ 빠르죠?",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:52:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "네진짜 빠르시네요 버스나 대중교통은 잘 이용 안하시나요?",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:53:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "저는 나이도 있고 소득도 좀 있으니 대중교통은 이용 안해요~",
+          "summary": "나는 대중교통을 이용하지 않는다.",
+          "date": "2022-08-30",
+          "time": "22:53:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "그말은 대중교통은 돈이 비교적없는 사람들이 탄다고 말씀하시는 것 같네요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:53:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "그뜻은 아닌데.. 솔직히 인식이 그렇지 않나요?.. 제가 나쁜게 아니라 다들 그렇게 생각할 거에요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:53:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "아니요.. 제가 보기엔 제가 더 소득이 많으데 차도 외제차고 근데 버스타요.",
+          "summary": "나는 버스를 탄다.",
+          "date": "2022-08-30",
+          "time": "22:54:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "이제 그런건 마실 나오시듯이 타시는거 아닐까 싶네요...",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:54:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "아뇨 저 출퇴근 항상 버스로합니다.. 그런 인식은 좋지않아요..",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:54:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "네.. 제가 실언을 한 것 같네요.. 죄송해요..",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:54:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "저한텐 죄송할 것은 없죠.. 그냥 이해를 넓게만 해주셧으면 해요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:55:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "넵 알겠어요.. 제가 지금 밥을먹었더니 식곤증이 와서 낮잠좀 자고 와도 될까요?",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:55:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "네네 그것은 인정하는 부분입니다 저도 밥먹고 최소 30분 소화시키고 자니까요^^",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:55:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "이해해 주셔서 감사합니다 좀만 자구올게요 아까는 죄송했어요~",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:55:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "자꾸 죄송하다고 하지 마세요..ㅎ 네 잘 주무세요~",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:56:03",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 김치찌개를 만들다 냄비를 태웠다.",
+          "나는 대중교통을 이용하지 않는다."
+        ],
+        "speaker2": [
+          "나는 버스를 탄다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여자이다.",
+          "나의 회사는 금요일 오후 시간에 봉사를 한다.",
+          "나는 봉사하는 게 괴롭다. 나는 맨날 야근한다.",
+          "나는 등산을 좋아한다.",
+          "나는 짠 음식을 즐겨먹는다."
+        ],
+        "speaker2": [
+          "나는 50대 남자이다.",
+          "나는 청소하는 게 괴롭다.",
+          "나는 김치찌개를 안 먹는다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00019-2",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00019-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "헉! 제가 조금만 잔다는걸 5시간이나 자버렸어요ㅜ 어쩌죠?",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:56:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "왜요? 무슨 중요한 일이 있었나봐요?",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:56:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "동네 친구들과 술모임을 갖기로 했었는데 저만 뺴고 다 모였다네요ㅜ.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:56:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "아이구 빨리 가보셔야 할것같은데... 얼른 차타고 이동하세요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:56:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "이미 늦은거 어쩔 수 없고 2차에 합류한다고 했으니 여유 있어요 ㅎ.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:57:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "그러면 이김에 여유 있을때 버스를 한번 타보시는게 어떠세요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:57:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "음 그럼오랜만에 버스를 한번 타봐야겟어요 근데 저희집이 시골이라 버스가 3시간에한번씩 온답니다...",
+          "summary": "나의 집은 시골이다.",
+          "date": "2022-08-30",
+          "time": "22:57:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "아 그런 곳에 사셧구나 그러면 당연히 자차로 이동수단이 주가 되는게 당연하죠 저는 서울살아서요.",
+          "summary": "나는 서울에 거주한다.",
+          "date": "2022-08-30",
+          "time": "22:58:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "서울은 대중교통이 편리해서 가능하지만 저희는 버스가 사실상 불가능하죠 ㅜㅜ.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:58:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "아까 미리 알았더라면 그렇게 말씀 하진 않았텐데 저도 한부분에 대해서 사과드리죠.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:58:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "아니에요 ㅎㅎ 되게 젠틀하시네요~ 제가 좋아하는 이상형이에요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:59:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "아 그런가요 또 가정이 있는데 그런 설레는 말 하시면 범죄입니다!",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "22:59:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "설레셨나요 그렇다면 자제할게요 ㅎㅎ 제가 곧잇으면 2차장소에 도착해서 제가 술먹고 연락드릴게요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "23:00:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "네네 잠도 주무셨겠다 술이 달겠어요 조금만드시고 일찍 들어가세요 !",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "23:00:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00509",
+          "participantID": "0303",
+          "utterance": "네네 감사해요~ 내일 더 재밌는 얘기 합시다 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "23:00:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00646",
+          "participantID": "0272",
+          "utterance": "넵 저는 먼저 자보러 가겠습니다 수고하세요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "23:01:02",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나의 집은 시골이다."
+        ],
+        "speaker2": [
+          "나는 서울에 거주한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여자이다.",
+          "나의 회사는 금요일 오후 시간에 봉사를 한다.",
+          "나는 봉사하는 게 괴롭다. 나는 맨날 야근한다.",
+          "나는 등산을 좋아한다.",
+          "나는 짠 음식을 즐겨먹는다.",
+          "나는 김치찌개를 만들다 냄비를 태웠다.",
+          "나는 대중교통을 이용하지 않는다."
+        ],
+        "speaker2": [
+          "나는 50대 남자이다.",
+          "나는 청소하는 게 괴롭다.",
+          "나는 김치찌개를 안 먹는다.",
+          "나는 버스를 탄다."
+        ]
+      }
+    }
+  ]
+}

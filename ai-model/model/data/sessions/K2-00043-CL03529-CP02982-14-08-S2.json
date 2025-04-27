@@ -1,0 +1,454 @@
+{
+  "FileInfo": {
+    "filename": "K2-00043-CL03529-CP02982-14-08-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "24168",
+      "gender": "남성",
+      "age": "40대",
+      "occupation": "자영업",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "25203",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00043"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "03529",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나의 거주지는 충청도이다.",
+        "나는 청소하는 게 짜증 난다.",
+        "나는 여름을 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "02982",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나의 아버지는 공무원이다.",
+        "나는 R&B 음악을 좋아한다.",
+        "나는 오보에를 배우고 있다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "14-08",
+    "topicType": "시사/사회>사회이슈(국내)",
+    "topicTitle": "출산율"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00043-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03529",
+          "participantID": "24168",
+          "utterance": "안녕하십니까! 날이 덥네요~저는 40대 남자입니다!!",
+          "summary": "나는 40대 남자이다.",
+          "date": "2022-09-01",
+          "time": "08:26:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02982",
+          "participantID": "25203",
+          "utterance": "하~이!! 반가워요! 저는 30대 여자입니다..",
+          "summary": "나는 30대 여자이다.",
+          "date": "2022-09-01",
+          "time": "08:26:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03529",
+          "participantID": "24168",
+          "utterance": "와.. 올해 제가 사는 대전은 진짜 너무 더운거 같네요..",
+          "summary": "나의 거주지는 충청도이다.",
+          "date": "2022-09-01",
+          "time": "08:26:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02982",
+          "participantID": "25203",
+          "utterance": "진짜..전국적으로 더운것같아요..너무 덥네요.",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:27:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03529",
+          "participantID": "24168",
+          "utterance": "그런가요.. 진짜 저는 여름이 너무 싫은거같아요.",
+          "summary": "나는 여름을 싫어한다.",
+          "date": "2022-09-01",
+          "time": "08:27:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02982",
+          "participantID": "25203",
+          "utterance": "그럴때는 느긋하게 음악이라도 들어보세요...",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:27:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03529",
+          "participantID": "24168",
+          "utterance": "무슨 음악 듣고 계세요? 진짜 너무 더워..",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:28:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02982",
+          "participantID": "25203",
+          "utterance": "저는 R&B음악을 좋아해서 듣고있어요!",
+          "summary": "나는 R&B 음악을 좋아한다.",
+          "date": "2022-09-01",
+          "time": "08:28:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03529",
+          "participantID": "24168",
+          "utterance": "음.. 들어 볼께요 ! 그나저나 그쪽은 뭐하고 있었어요?",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:28:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02982",
+          "participantID": "25203",
+          "utterance": "저는 오보에를 배우고있어서 레슨 준비중입니다!",
+          "summary": "나는 오보에를 배우고 있다.",
+          "date": "2022-09-01",
+          "time": "08:28:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03529",
+          "participantID": "24168",
+          "utterance": "오.. 저는 청소해야되는데.. 진짜 더워서 짜증나 죽겠네요.",
+          "summary": "나는 청소하는 게 짜증 난다.",
+          "date": "2022-09-01",
+          "time": "08:28:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02982",
+          "participantID": "25203",
+          "utterance": "저는 더운데도 에어컨도 안틀고 있어요ㅋㅋ.",
+          "summary": "나는 더운데 에어컨을 안 틀고 있다.",
+          "date": "2022-09-01",
+          "time": "08:29:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03529",
+          "participantID": "24168",
+          "utterance": "에어컨 안틀고 어떻게 이 더위를 버틸수있죠?",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:29:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02982",
+          "participantID": "25203",
+          "utterance": "저희 아버지가 공무원인데 완전 구두쇠에요..",
+          "summary": "나의 아버지는 공무원이다.",
+          "date": "2022-09-01",
+          "time": "08:29:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03529",
+          "participantID": "24168",
+          "utterance": "아하.. 할말이 없네요.. 여튼 저는 청소 하고 올께요 !",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:29:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02982",
+          "participantID": "25203",
+          "utterance": "알겠습니다...ㅋㅋ 그럼 청소 잘하시고오세요~",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:30:00",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다.",
+          "나의 거주지는 충청도이다.",
+          "나는 여름을 싫어한다.",
+          "나는 청소하는 게 짜증 난다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다.",
+          "나는 R&B 음악을 좋아한다.",
+          "나는 오보에를 배우고 있다.",
+          "나는 더운데 에어컨을 안 틀고 있다.",
+          "나의 아버지는 공무원이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00043-1",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00043-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03529",
+          "participantID": "24168",
+          "utterance": "잘지내고 계시죠?! 4일만이네요. 4일전에 오보에는 잘 배우고 오셨어요?",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:30:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02982",
+          "participantID": "25203",
+          "utterance": "네~좋은아침입니다! 4일맞네요!! 저는 당연히 잘 배우고 왔습니다!",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:30:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03529",
+          "participantID": "24168",
+          "utterance": "저도 청소 뭐 꾸역 꾸역 했네요.. 짜증나지만 하고나니 좋네요!",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:30:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02982",
+          "participantID": "25203",
+          "utterance": "잘하셨네요~그래도 그렇게 청소하면 개운하잖아요!",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:31:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03529",
+          "participantID": "24168",
+          "utterance": "그나저나 요즘 우리나라 출산율 장난 아니던데..",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:31:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02982",
+          "participantID": "25203",
+          "utterance": "그러니까요..우리나라 출산률이 너무 저조해요...",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:31:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03529",
+          "participantID": "24168",
+          "utterance": "그러니까요.. 저는 아이 낳을 생각이 없거든요.",
+          "summary": "나는 아이 낳을 생각이 없다.",
+          "date": "2022-09-01",
+          "time": "08:31:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02982",
+          "participantID": "25203",
+          "utterance": "아..그러시구나..! 저도 아이 낳을 생각은 없어서..",
+          "summary": "나는 아이 낳을 생각이 없다.",
+          "date": "2022-09-01",
+          "time": "08:32:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03529",
+          "participantID": "24168",
+          "utterance": "요즘 딩크족이 엄청 늘어 난다고 하네요.. 지금이순간에도요..",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:32:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02982",
+          "participantID": "25203",
+          "utterance": "그러니까요! 제 주변에도 거의다 딩크족들이에요.",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:32:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03529",
+          "participantID": "24168",
+          "utterance": "혹시 결혼은 하셨어요? 저는 했어요.",
+          "summary": "나는 결혼을 했다.",
+          "date": "2022-09-01",
+          "time": "08:32:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02982",
+          "participantID": "25203",
+          "utterance": "아니요~저는 아직 결혼을 안했습니다!",
+          "summary": "나는 결혼을 아직 안 했다.",
+          "date": "2022-09-01",
+          "time": "08:33:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03529",
+          "participantID": "24168",
+          "utterance": "결혼은 할 계획은 있으신가요..? 대답 안하셔도됩니다.",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:33:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02982",
+          "participantID": "25203",
+          "utterance": "하하..그냥 대답안할게요. 이부분에 대해서는!",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:33:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03529",
+          "participantID": "24168",
+          "utterance": "네넵 ㅎㅎ.. 저는 너무 더워서 샤워나 해야겠어요 !",
+          "summary": "나는 너무 더워서 샤워를 해야겠다.",
+          "date": "2022-09-01",
+          "time": "08:33:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02982",
+          "participantID": "25203",
+          "utterance": "알겠습니다~그럼 나중에 또 연락합시다!!",
+          "summary": "",
+          "date": "2022-09-01",
+          "time": "08:34:03",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 아이 낳을 생각이 없다.",
+          "나는 결혼을 했다.",
+          "나는 너무 더워서 샤워를 해야겠다."
+        ],
+        "speaker2": [
+          "나는 아이 낳을 생각이 없다.",
+          "나는 결혼을 아직 안 했다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다.",
+          "나의 거주지는 충청도이다.",
+          "나는 여름을 싫어한다.",
+          "나는 청소하는 게 짜증 난다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다.",
+          "나는 R&B 음악을 좋아한다.",
+          "나는 오보에를 배우고 있다.",
+          "나는 더운데 에어컨을 안 틀고 있다.",
+          "나의 아버지는 공무원이다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,788 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-004828-AP600054-WZ000001-01_04_10-S2.json",
+        "sessionLevel": "2"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0015",
+            "gender": "여성",
+            "age": "60대 이상",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "사회"
+        },
+        "speaker2": {
+            "participantID": "F0015",
+            "gender": "여성",
+            "age": "60대 이상",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "시각디자인"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "004828"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600054",
+            "personaFeatures": [
+                "나는 교육에 대한 공부를 하고 있다.",
+                "나는 스포츠 TV를 자주 본다",
+                "나는 갈비를 좋아한다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000001",
+            "personaFeatures": [
+                "나는 교육에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "01_04_10",
+        "largeCategory": "직업",
+        "mediumCategory": "교육",
+        "smallCategory": "기타"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004828-1",
+            "sessionKeywords": [
+                "교육 내에서의 *대전시립박물관*,*대전시립박물관*"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600054",
+                    "participantID": "E0015",
+                    "utterance": "내가 교육에 대한 공부를 하고 있는데 박물관에 대해서 알아?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 교육에 대한 공부를 하고 있다",
+                    "timestamp": 1695802401000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0015",
+                    "utterance": "안녕하세요! 물어보시면 답해드리겠습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695802439000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600054",
+                    "participantID": "E0015",
+                    "utterance": "대전시립박물관에 가려고 하는데 알려줄수 있어?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695802450000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0015",
+                    "utterance": "대전시립박물관(大田市立博物館)은 대전광역시 내의 문화유산의 수집과 보존, 전시 및 교육, 대전의 역사와 문화연구를 위하여 대전광역시청 산하에 설치된 박물관입니다",
+                    "context": {
+                        "query": "대전시립박물관",
+                        "contents": [
+                            {
+                                "documentID": "1078658",
+                                "documentTitle": "대전시립박물관",
+                                "content": [
+                                    "대전시립박물관(大田市立博物館)은 대전광역시 내의 문화유산의 수집과 보존, 전시 및 교육, 대전의 역사와 문화연구를 위하여 대전광역시청 산하에 설치된 박물관이다.",
+                                    "박물관장은 지방행정사무관이나 지방학예연구관으로 보한다.",
+                                    "조직.",
+                                    "대전시립박물관은 세 곳에 전시장을 가지고 있다.",
+                                    "유성구 상대동에 대전역사박물관이라고 불리던 본관이 있으며, 노은동에 대전선사박물관에서는 인근의 청동기 시대 이후 선사유적이 전시되어 있다.",
+                                    "구도심인 선화동의 옛 충청남도청 건물 1층에 대전근현대사전시관이 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "대전시립박물관(大田市立博物館)은 대전광역시 내의 문화유산의 수집과 보존, 전시 및 교육, 대전의 역사와 문화연구를 위하여 대전광역시청 산하에 설치된 박물관이다",
+                    "timestamp": 1695802866000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600054",
+                    "participantID": "E0015",
+                    "utterance": "대전시립박물관은 전시장이 여러개가 있나?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695803030000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0015",
+                    "utterance": "대전시립박물관은 세 곳에 전시장을 가지고 있습니다",
+                    "context": {
+                        "query": "대전시립박물관",
+                        "contents": [
+                            {
+                                "documentID": "1078658",
+                                "documentTitle": "대전시립박물관",
+                                "content": [
+                                    "대전시립박물관(大田市立博物館)은 대전광역시 내의 문화유산의 수집과 보존, 전시 및 교육, 대전의 역사와 문화연구를 위하여 대전광역시청 산하에 설치된 박물관이다.",
+                                    "박물관장은 지방행정사무관이나 지방학예연구관으로 보한다.",
+                                    "조직.",
+                                    "대전시립박물관은 세 곳에 전시장을 가지고 있다.",
+                                    "유성구 상대동에 대전역사박물관이라고 불리던 본관이 있으며, 노은동에 대전선사박물관에서는 인근의 청동기 시대 이후 선사유적이 전시되어 있다.",
+                                    "구도심인 선화동의 옛 충청남도청 건물 1층에 대전근현대사전시관이 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "대전시립박물관은 세 곳에 전시장을 가지고 있다",
+                    "timestamp": 1695803051000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600054",
+                    "participantID": "E0015",
+                    "utterance": "어떤 것들이 전시되어 있는지 알아?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695803114000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0015",
+                    "utterance": "유성구 상대동에 대전역사박물관이라고 불리던 본관이 있으며, 노은동에 대전선사박물관에서는 인근의 청동기 시대 이후 선사유적이 전시되어 있습니다",
+                    "context": {
+                        "query": "대전시립박물관",
+                        "contents": [
+                            {
+                                "documentID": "1078658",
+                                "documentTitle": "대전시립박물관",
+                                "content": [
+                                    "대전시립박물관(大田市立博物館)은 대전광역시 내의 문화유산의 수집과 보존, 전시 및 교육, 대전의 역사와 문화연구를 위하여 대전광역시청 산하에 설치된 박물관이다.",
+                                    "박물관장은 지방행정사무관이나 지방학예연구관으로 보한다.",
+                                    "조직.",
+                                    "대전시립박물관은 세 곳에 전시장을 가지고 있다.",
+                                    "유성구 상대동에 대전역사박물관이라고 불리던 본관이 있으며, 노은동에 대전선사박물관에서는 인근의 청동기 시대 이후 선사유적이 전시되어 있다.",
+                                    "구도심인 선화동의 옛 충청남도청 건물 1층에 대전근현대사전시관이 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false
+                        ]
+                    ],
+                    "summary": "유성구 상대동에 대전역사박물관이라고 불리던 본관이 있으며, 노은동에 대전선사박물관에서는 인근의 청동기 시대 이후 선사유적이 전시되어 있다",
+                    "timestamp": 1695803139000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600054",
+                    "participantID": "E0015",
+                    "utterance": "유적 말고 근현대 관련 전시물은 없나?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695803244000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0015",
+                    "utterance": "구도심인 선화동의 옛 충청남도청 건물 1층에 대전근현대사전시관이 있습니다",
+                    "context": {
+                        "query": "대전시립박물관",
+                        "contents": [
+                            {
+                                "documentID": "1078658",
+                                "documentTitle": "대전시립박물관",
+                                "content": [
+                                    "대전시립박물관(大田市立博物館)은 대전광역시 내의 문화유산의 수집과 보존, 전시 및 교육, 대전의 역사와 문화연구를 위하여 대전광역시청 산하에 설치된 박물관이다.",
+                                    "박물관장은 지방행정사무관이나 지방학예연구관으로 보한다.",
+                                    "조직.",
+                                    "대전시립박물관은 세 곳에 전시장을 가지고 있다.",
+                                    "유성구 상대동에 대전역사박물관이라고 불리던 본관이 있으며, 노은동에 대전선사박물관에서는 인근의 청동기 시대 이후 선사유적이 전시되어 있다.",
+                                    "구도심인 선화동의 옛 충청남도청 건물 1층에 대전근현대사전시관이 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true
+                        ]
+                    ],
+                    "summary": "구도심인 선화동의 옛 충청남도청 건물 1층에 대전근현대사전시관이 있다",
+                    "timestamp": 1695803262000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600054",
+                    "participantID": "E0015",
+                    "utterance": "볼것이 많을것 같은데 아이들이랑 같이 가면 도움이 될까?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695803291000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0015",
+                    "utterance": "박물관은 어린이,청소년들 교육에 도움이 됩니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695803317000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600054",
+                    "participantID": "E0015",
+                    "utterance": "아이들 방학 때 가보면 좋겠다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695803347000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0015",
+                    "utterance": "박물관 견학은 방학과제로 활용됩니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695803384000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 교육에 대한 공부를 하고 있다"
+                ],
+                "wizard": [
+                    "대전시립박물관(大田市立博物館)은 대전광역시 내의 문화유산의 수집과 보존, 전시 및 교육, 대전의 역사와 문화연구를 위하여 대전광역시청 산하에 설치된 박물관이다",
+                    "대전시립박물관은 세 곳에 전시장을 가지고 있다",
+                    "유성구 상대동에 대전역사박물관이라고 불리던 본관이 있으며, 노은동에 대전선사박물관에서는 인근의 청동기 시대 이후 선사유적이 전시되어 있다",
+                    "구도심인 선화동의 옛 충청남도청 건물 1층에 대전근현대사전시관이 있다"
+                ],
+                "dialogSummary": "질문자는 교육에 대한 공부를 하고 있어 대전시립박물관에 대해 질문하였고 챗봇은 대전시립박물관(大田市立博物館)은 대전광역시 내의 문화유산의 수집과 보존, 전시 및 교육, 대전의 역사와 문화연구를 위하여 대전광역시청 산하에 설치된 박물관입니다라고 대답하였고, 대전시립박물관은 세 곳에 전시장을 가지고 있습니다라고 대답하였다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "004828-1",
+            "prevTimeInfo": {
+                "timeNum": "4",
+                "timeUnit": "주"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004828-2",
+            "sessionKeywords": [
+                "교육 내에서의 *신풍초등학교 (경기)*,*신풍초등학교 (경기)*"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600054",
+                    "participantID": "E0015",
+                    "utterance": "벌써 4주가 지났네~ 그동안 우리 아이들과 조카들이 노느라고 바빴어",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696031458000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0015",
+                    "utterance": "아이들은 많이 놀면서 자라야 합니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696031484000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600054",
+                    "participantID": "E0015",
+                    "utterance": "우리 조카가 신풍초등학교에 다니는데 신풍초등학교에 대해서 알아?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696031566000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0015",
+                    "utterance": "신풍초등학교는 경기도 수원시 영통구 이의동에 있는 공립 초등학교입니다",
+                    "context": {
+                        "query": "신풍초등학교",
+                        "contents": [
+                            {
+                                "documentID": "1080400",
+                                "documentTitle": "신풍초등학교 (경기)",
+                                "content": [
+                                    "신풍초등학교는 경기도 수원시 영통구 이의동에 있는 공립 초등학교다.",
+                                    "논란.",
+                                    "본래 신풍초등학교 위치는 화성행궁의 부속건물이자 한양에서 화성유수부에 공무로 온 사람들이 머물던 곳이었던 객사 건물인 우화관(于華館)이 있었던 자리였다.",
+                                    "이 자리에 학교가 들어서 약 100여 년 동안 운영되었는데, 수원시에서 화성행궁 복원사업을 추진하면서 신풍초등학교의 위치 이전을 요구하였다.",
+                                    "이에 따라 학부모와 동문회, 그리고 시교육청의 갈등이 있었으나, 결국 우여곡절 끝에 신풍초등학교는 광교신도시로 이전이 확정되었다.",
+                                    "이 과정에서 기존 재학생 학부모와 동문회의 반발로 인해 구 교사는 2016년까지 분교장으로 남게 되었다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "신풍초등학교는 경기도 수원시 영통구 이의동에 있는 공립 초등학교이다",
+                    "timestamp": 1696031587000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600054",
+                    "participantID": "E0015",
+                    "utterance": "수원에 있으면 수원은 갈비가 유명한데?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696031703000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0015",
+                    "utterance": "수원은 유명한 갈비매장이 많이 모여 있는 지역입니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696031725000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600054",
+                    "participantID": "E0015",
+                    "utterance": "나는 갈비를 굉장히 좋아하거든",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 갈비를 좋아한다",
+                    "timestamp": 1696031753000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0015",
+                    "utterance": "갈비는 많은 사람들이 좋아하는 음식입니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696031799000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600054",
+                    "participantID": "E0015",
+                    "utterance": "갈비를 먹으면서 TV에서 스포츠 경기를 자주 봤거든",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 스포츠 TV를 자주 본다",
+                    "timestamp": 1696031940000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0015",
+                    "utterance": "맛있는 음식을 먹으면서 보는 TV시청은 재미있는 오락입니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696032031000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600054",
+                    "participantID": "E0015",
+                    "utterance": "스포츠는 보는 것도 재미있지만 직접 해야지 좋겠지",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696032115000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0015",
+                    "utterance": "건강은 위한 스포츠는 정기적으로 해야 합니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696032173000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600054",
+                    "participantID": "E0015",
+                    "utterance": "건강을 위하여 잘 먹고 열심히 운동하는게 좋겠지~",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 건강을 위하여 잘먹고 열심히 운동하려고 한다",
+                    "timestamp": 1696032229000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0015",
+                    "utterance": "건강관리를 위한 노력은 모두가 해야 합니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696032250000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 갈비를 좋아한다",
+                    "나는 스포츠 TV를 자주 본다",
+                    "나는 건강을 위하여 잘먹고 열심히 운동하려고 한다"
+                ],
+                "wizard": [
+                    "신풍초등학교는 경기도 수원시 영통구 이의동에 있는 공립 초등학교이다"
+                ],
+                "dialogSummary": "질문자는 신풍초등학교에 대해서 질문하였고 챗봇은 신풍초등학교는 경기도 수원시 영통구 이의동에 있는 공립 초등학교이고 수원은 유명한 갈비매장이 많이 모여 있는 지역이라고 하였다"
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 교육에 대한 공부를 하고 있다"
+                ],
+                "wizard": [
+                    "대전시립박물관(大田市立博物館)은 대전광역시 내의 문화유산의 수집과 보존, 전시 및 교육, 대전의 역사와 문화연구를 위하여 대전광역시청 산하에 설치된 박물관이다",
+                    "대전시립박물관은 세 곳에 전시장을 가지고 있다",
+                    "유성구 상대동에 대전역사박물관이라고 불리던 본관이 있으며, 노은동에 대전선사박물관에서는 인근의 청동기 시대 이후 선사유적이 전시되어 있다",
+                    "구도심인 선화동의 옛 충청남도청 건물 1층에 대전근현대사전시관이 있다"
+                ]
+            }
+        }
+    ]
+}

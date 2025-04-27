@@ -1,0 +1,458 @@
+{
+  "FileInfo": {
+    "filename": "K2-00182-CL01619-CP03690-02-07-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0062",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0053",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "기능직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00182"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "01619",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 종교가 없다.",
+        "나는 쇼핑호스트이다.",
+        "나는 발라드 음악을 자주 듣는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "03690",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나는 가족과 사진을 많이 찍는다.",
+        "나는 CCM 음악을 좋아한다.",
+        "나는 PC 게임을 매일 한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "02-07",
+    "topicType": "주거와 생활",
+    "topicTitle": "층간소음"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00182-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01619",
+          "participantID": "0062",
+          "utterance": "안녕하세요 20대 여자입니다.",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-08-14",
+          "time": "14:59:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03690",
+          "participantID": "0053",
+          "utterance": "반갑습니다. 저는 40대 여자입니다.",
+          "summary": "나는 40대 여자이다.",
+          "date": "2022-08-14",
+          "time": "14:59:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01619",
+          "participantID": "0062",
+          "utterance": "좋은 아침이네요 안녕히 주무셨어요?",
+          "summary": "",
+          "date": "2022-08-14",
+          "time": "14:59:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03690",
+          "participantID": "0053",
+          "utterance": "어제는 윗집에서 강아지가 너무 짖어서 잠을 못잤어요.",
+          "summary": "강아지가 너무 짖어 잠을 못 잤다.",
+          "date": "2022-08-14",
+          "time": "14:59:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01619",
+          "participantID": "0062",
+          "utterance": "층간소음으로 많이 힘드셨겠어요 잠을 못자면 힘들텐데요.",
+          "summary": "층간소음으로 많이 힘들었겠다.",
+          "date": "2022-08-14",
+          "time": "15:00:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03690",
+          "participantID": "0053",
+          "utterance": "가끔가다 그러는날에는 출근해서 일에 집중하기 힘들어요.",
+          "summary": "출근해서 일에 집중하기 힘들다.",
+          "date": "2022-08-14",
+          "time": "15:00:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01619",
+          "participantID": "0062",
+          "utterance": "맞아요 요즘 층간소음때문에 갈등을 겪는 사람들이 부쩍 많아진 것 같아요.",
+          "summary": "층간소음 때문에 갈등을 겪는 사람들이 많아졌다.",
+          "date": "2022-08-14",
+          "time": "15:01:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03690",
+          "participantID": "0053",
+          "utterance": "뉴스에서도 층간소음으로 큰사건이 많은데 사람이 점점 격해지네요.",
+          "summary": "큰 사건이 많은데 사람들이 점점 격해진다.",
+          "date": "2022-08-14",
+          "time": "15:01:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01619",
+          "participantID": "0062",
+          "utterance": "그렇죠 한 건물에 같이 사는 사람들끼리 배려하면 좋을텐데요.",
+          "summary": "같은 건물 사람들끼리 배려하면 좋겠다.",
+          "date": "2022-08-14",
+          "time": "15:01:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03690",
+          "participantID": "0053",
+          "utterance": "맞아요. 우리집은 빌라라 방음이 잘되어있지않아 너무 잘들려요.",
+          "summary": "빌라라 방음이 잘되어있지 않다.",
+          "date": "2022-08-14",
+          "time": "15:01:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01619",
+          "participantID": "0062",
+          "utterance": "그렇죠 집을 지을 때 고려를 안하는 건지 방음이 너무 안돼요.",
+          "summary": "집 지을 때 방음을 고려 안 하나보다.",
+          "date": "2022-08-14",
+          "time": "15:02:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03690",
+          "participantID": "0053",
+          "utterance": "요즘엔 너무 분쟁이많아 소음테스트를 해준다고하네요.",
+          "summary": "분쟁이 많아 소음 테스트를 해준다.",
+          "date": "2022-08-14",
+          "time": "15:02:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01619",
+          "participantID": "0062",
+          "utterance": "네 들은 적 있어요 기준치를 넘으면 법적인 절차를 받을 수도 있다고 하네요.",
+          "summary": "법적인 절차를 받을 수 있다고 한다.",
+          "date": "2022-08-14",
+          "time": "15:02:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01619",
+          "participantID": "0062",
+          "utterance": "소리라는게 한 번 들리기 시작하면 정말 계속 신경쓰이더라고요.",
+          "summary": "한번 들리면 계속 신경 쓰인다.",
+          "date": "2022-08-14",
+          "time": "15:03:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03690",
+          "participantID": "0053",
+          "utterance": "맞요. 예민해지기도 하고 서로 피곤해지죠.",
+          "summary": "",
+          "date": "2022-08-14",
+          "time": "15:03:44",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "층간소음으로 많이 힘들었겠다.",
+          "층간소음 때문에 갈등을 겪는 사람들이 많아졌다.",
+          "같은 건물 사람들끼리 배려하면 좋겠다.",
+          "집 지을 때 방음을 고려 안 하나보다.",
+          "법적인 절차를 받을 수 있다고 한다.",
+          "한번 들리면 계속 신경 쓰인다."
+        ],
+        "speaker2": [
+          "나는 40대 여자이다.",
+          "강아지가 너무 짖어 잠을 못 잤다.",
+          "출근해서 일에 집중하기 힘들다.",
+          "큰 사건이 많은데 사람들이 점점 격해진다.",
+          "빌라라 방음이 잘되어있지 않다.",
+          "분쟁이 많아 소음 테스트를 해준다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00182-1",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00182-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01619",
+          "participantID": "0062",
+          "utterance": "잘 지내셨나요? 저는 쇼핑호스트인데 오늘 일정이 일찍 끝났어요.",
+          "summary": "쇼핑호스트이다.",
+          "date": "2022-08-14",
+          "time": "15:04:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03690",
+          "participantID": "0053",
+          "utterance": "일정이 없으시면 일찍 퇴근하시나요?",
+          "summary": "",
+          "date": "2022-08-14",
+          "time": "15:04:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01619",
+          "participantID": "0062",
+          "utterance": "네 맞아요 유동적으로 일할 수 있다는 점이 좋은 것 같아요.",
+          "summary": "유동적으로 일할수 있다는 점이 좋다.",
+          "date": "2022-08-14",
+          "time": "15:04:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03690",
+          "participantID": "0053",
+          "utterance": "부럽네요. 저는 회사를 다니고있어서 정 시간에 퇴근해요.",
+          "summary": "회사를 다녀 정 시간에 퇴근한다.",
+          "date": "2022-08-14",
+          "time": "15:04:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01619",
+          "participantID": "0062",
+          "utterance": "그러시겠어요 요즘 주말엔 보통 무엇을 하세요?",
+          "summary": "",
+          "date": "2022-08-14",
+          "time": "15:05:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03690",
+          "participantID": "0053",
+          "utterance": "교회를 다녀와서 가족과 사진을 많이 찍어요.",
+          "summary": "교회를 다녀와 가족과 사진을 많이 찍는다.",
+          "date": "2022-08-14",
+          "time": "15:05:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01619",
+          "participantID": "0062",
+          "utterance": "저는 종교가 없어요 요즘 어떤 음악을 들으시나요?",
+          "summary": "종교가 없다.",
+          "date": "2022-08-14",
+          "time": "15:05:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03690",
+          "participantID": "0053",
+          "utterance": "저는 교회를 다녀서인지 ccm음악을 좋아해요.",
+          "summary": "교회를 다녀서 ccm음악을 좋아한다.",
+          "date": "2022-08-14",
+          "time": "15:05:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01619",
+          "participantID": "0062",
+          "utterance": "그러시구나 저는 종교가 없어서 발라드 음악을 자주 듣습니다.",
+          "summary": "종교가 없어 발라드 음악을 듣는다.",
+          "date": "2022-08-14",
+          "time": "15:06:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03690",
+          "participantID": "0053",
+          "utterance": "그럼 주로 휴 일에는 무엇을 하시나요?",
+          "summary": "",
+          "date": "2022-08-14",
+          "time": "15:06:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01619",
+          "participantID": "0062",
+          "utterance": "키우는 강아지 산책도 시키고 함께 놀아줍니다.",
+          "summary": "강아지 산책시킨다.",
+          "date": "2022-08-14",
+          "time": "15:06:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03690",
+          "participantID": "0053",
+          "utterance": "저는 게임을 좋아해서 pc방을 자주갑니다.",
+          "summary": "게임을 좋아해 pc방을 자주 간다.",
+          "date": "2022-08-14",
+          "time": "15:07:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01619",
+          "participantID": "0062",
+          "utterance": "그러시구나 게임을 좋아하시면 잘하시겠네요.",
+          "summary": "",
+          "date": "2022-08-14",
+          "time": "15:07:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03690",
+          "participantID": "0053",
+          "utterance": "네, 저는 pc게임을 매 일해서 @이름1@과도 같이해요.",
+          "summary": "pc게임을 매 일해서 @이름1@과도 같이한다.",
+          "date": "2022-08-14",
+          "time": "15:07:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01619",
+          "participantID": "0062",
+          "utterance": "게임을 좋아하는 엄마라니 @이름1@이 좋아하겠어요.",
+          "summary": "",
+          "date": "2022-08-14",
+          "time": "15:07:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03690",
+          "participantID": "0053",
+          "utterance": "네, 함께 즐기면서 하니 화목한 가정이되는거같아요.",
+          "summary": "화목한 가정이 되는 거 같다.",
+          "date": "2022-08-14",
+          "time": "15:08:57",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "쇼핑호스트이다.",
+          "유동적으로 일할수 있다는 점이 좋다.",
+          "종교가 없다.",
+          "종교가 없어 발라드 음악을 듣는다.",
+          "강아지 산책시킨다."
+        ],
+        "speaker2": [
+          "회사를 다녀 정 시간에 퇴근한다.",
+          "교회를 다녀와 가족과 사진을 많이 찍는다.",
+          "교회를 다녀서 ccm음악을 좋아한다.",
+          "게임을 좋아해 pc방을 자주 간다.",
+          "pc게임을 매 일해서 @이름1@과도 같이한다.",
+          "화목한 가정이 되는 거 같다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "층간소음으로 많이 힘들었겠다.",
+          "층간소음 때문에 갈등을 겪는 사람들이 많아졌다.",
+          "같은 건물 사람들끼리 배려하면 좋겠다.",
+          "집 지을 때 방음을 고려 안 하나보다.",
+          "법적인 절차를 받을 수 있다고 한다.",
+          "한번 들리면 계속 신경 쓰인다."
+        ],
+        "speaker2": [
+          "나는 40대 여자이다.",
+          "강아지가 너무 짖어 잠을 못 잤다.",
+          "출근해서 일에 집중하기 힘들다.",
+          "큰 사건이 많은데 사람들이 점점 격해진다.",
+          "빌라라 방음이 잘되어있지 않다.",
+          "분쟁이 많아 소음 테스트를 해준다."
+        ]
+      }
+    }
+  ]
+}

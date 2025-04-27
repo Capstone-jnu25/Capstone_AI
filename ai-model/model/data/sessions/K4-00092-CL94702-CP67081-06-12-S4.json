@@ -1,0 +1,803 @@
+{
+  "FileInfo": {
+    "filename": "K4-00092-CL94702-CP67081-06-12-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "32046",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "주부",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "30420",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "서비스직",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00092"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "94702",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 해외 여행에 관심 없다.",
+        "나의 생일은 10월이다.",
+        "나는 TV 교육 프로그램을 싫어한다.",
+        "나는 보라색을 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "67081",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 추운 날씨를 싫어한다.",
+        "나의 생일은 1월이다.",
+        "나는 매우 부정적이다.",
+        "나는 크림파스타를 즐겨 먹는다.",
+        "나는 혈액형이 O형이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "06-12",
+    "topicType": "교육",
+    "topicTitle": "도서관"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00092-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "안녕하세요~! 저는 50대 여자예요. ㅎㅎ 반가워요~.",
+          "summary": "나는 50대 여성이다.",
+          "date": "2022-11-19",
+          "time": "13:47:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "안녕하세요... 저는 20대 남성입니다. 반갑습니다.",
+          "summary": "나는 20대 남성이다.",
+          "date": "2022-11-19",
+          "time": "13:48:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "저는 TV 교육 프로그램을 싫어해서 TV 대신에 @브랜드명1@를 보고 있었는데 당신은 뭘 하고 있나요?",
+          "summary": "나는 TV 교육 프로그램을 싫어한다.",
+          "date": "2022-11-19",
+          "time": "13:50:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "저는 요새 추워서 나가는 건 포기하고... ... 집에 누워 있었습니다. 어떤 걸 주로 즐겨 보시나요?",
+          "summary": "나는 집에서 쉬고 있었다.",
+          "date": "2022-11-19",
+          "time": "13:50:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "저는 @브랜드명1@ 알고리즘으로 뜨는 음악 동영상을 주로 봐요. ㅎㅎ 당신은 음악을 좋아하나요?",
+          "summary": "나는 주로 음악 동영상을 본다.",
+          "date": "2022-11-19",
+          "time": "13:51:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "네. 락 음악을 좋아합니다. 제가 매우 부정적인 편인데 날카롭거나 시끄러운 음악을 들으면 기분이 좋아져서요.",
+          "summary": "나는 록 음악을 좋아한다. 나는 매우 부정적이다.",
+          "date": "2022-11-19",
+          "time": "13:52:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "그렇군요. ㅎㅎ 저 10월이 생일이라서 10월에 관한 노래를 들었는데 왠지 당신은 이 노래 안 들을거 같은데 맞나요?",
+          "summary": "나의 생일은 10월이다.",
+          "date": "2022-11-19",
+          "time": "13:52:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "네, 잘 모르겠는 걸 보면 안 들을 것 같네요. 전 1월이 생일인데 추운 날씨를 싫어해서 그런지 영 기분이 별로더라고요.",
+          "summary": "나는 1월이 생일이다. 나는 추운 날씨를 싫어한다.",
+          "date": "2022-11-19",
+          "time": "13:53:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "그렇군요. 그럼 1월에는 여행같은거 안 다니시나요? 전 여행다니는데 해외여행에는 관심이 없어서 국내여행만 다녀요.",
+          "summary": "나는 해외여행에 관심 없다. 나는 국내 여행만 다닌다.",
+          "date": "2022-11-19",
+          "time": "13:54:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "네, 여행은 별로... ... 추운 나라도 별로라서 동남아 쪽 여행은 찾아본 적 있습니다. 겨울 국내 여행은 추워서 힘들지 않나요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "13:55:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "저는 추위에 강한 사람이라서 겨울이 되면 신나서 막 돌아다녀요. ㅎㅎ.",
+          "summary": "나는 추위에 강한 사람이다. 나는 겨울이 되면 신나서 막 돌아다닌다.",
+          "date": "2022-11-19",
+          "time": "13:55:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "저는 여름에도 혈액형이 O형이라 그런지 모기에 잘 물리더라고요. O형 피가 모기에 잘 물린다는 속설이 맞는 건지...ㅎㅎ 역시 여행과 안 맞나 봐요.",
+          "summary": "나는 혈액형이 O형이다.",
+          "date": "2022-11-19",
+          "time": "13:56:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "그렇군요. ㅠㅠ 그러면 모기가 싫어하는거 사서 가지고 다니는거 어때요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "13:56:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "기피제를 좀 사서 다니는데도 영 효과가 없네요. 전 이제 좀 졸리니까 이만 자 보겠습니다. 다음에 뵈어요.",
+          "summary": "나는 모기기피제도 잘 듣지 않는다.",
+          "date": "2022-11-19",
+          "time": "13:57:16",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다.",
+          "나는 TV 교육 프로그램을 싫어한다.",
+          "나는 주로 음악 동영상을 본다.",
+          "나의 생일은 10월이다.",
+          "나는 해외여행에 관심 없다. 나는 국내 여행만 다닌다.",
+          "나는 추위에 강한 사람이다. 나는 겨울이 되면 신나서 막 돌아다닌다."
+        ],
+        "speaker2": [
+          "나는 20대 남성이다.",
+          "나는 집에서 쉬고 있었다.",
+          "나는 록 음악을 좋아한다. 나는 매우 부정적이다.",
+          "나는 1월이 생일이다. 나는 추운 날씨를 싫어한다.",
+          "나는 혈액형이 O형이다.",
+          "나는 모기기피제도 잘 듣지 않는다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00092-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00092-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "안녕하세요! 어제 잠은 잘 자셨나요? ㅎㅎ 어제 잠을 잘 자셨길 바래요.",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "13:57:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "네, 푹 자고 일어나서 오늘 컨디션은 나쁘지 않은 편입니다. 지금 뭐 하고 계신지요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "13:57:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "저는 지금 도서관이예요. ㅎㅎ 도서관에 새로 들어온 책이 있나 궁금하거든요. ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "13:58:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "우연이네요. 저도 오늘은 날이 따듯해서 산책으로 도서관에 왔거든요. 좋아하는 장르 책은 있으신지.",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "13:58:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "오. TV 교육프로그램을 싫어하는 저는 소설 장르를 좋아해요. ㅎㅎ 특히 판타지를 좋아해요.",
+          "summary": "나는 소설을 좋아한다. 나는 판타지 장르를 좋아한다.",
+          "date": "2022-11-19",
+          "time": "13:58:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "저는 판타지보다 일반 문학 위주로 봅니다. 요샌 일본에서 추리 소설이 잘 나오거든요.",
+          "summary": "나는 문학 위주로 읽는다.",
+          "date": "2022-11-19",
+          "time": "13:59:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "오. 그럼 혹시 @이름1@님이 쓴 추리 소설도 보셨나요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:00:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "네, 워낙 많아서 아직 다 읽진 못 했지만 그 분 것도 많이 읽었습니다. 좋아하는 작가분이신가요? 아님 따로 좋아하는 판타지 작가분이 계신지.",
+          "summary": "나는 @이름1@님의 책을 많이 읽었다.",
+          "date": "2022-11-19",
+          "time": "14:00:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "일본 추리 소설 작가 중에서 저분이 쓴 걸 봐서 갑자기 떠오른거예요. ㅎㅎ 참고로 저는 작가님들의 이름을 잘 기억 안 해요.",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:01:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "저도 막 찾아서 읽는 편은 아닙니다. ㅎㅎ 보통 작가 이름보단 책 이름이 더 기억에 남죠. 특별히 좋아하는 시리즈는 없으신가요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:02:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "저는 @이름2@ 시리즈를 가장 좋아해요. ㅎㅎ 옛날부터 좋아했어요.",
+          "summary": "나는 @이름2@ 시리즈를 가장 좋아한다.",
+          "date": "2022-11-19",
+          "time": "14:02:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "그런 책은 도서관이 아니면 읽기 힘들죠. 권수가 워낙 많아서 사기엔 부담이더라고요.",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:03:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "맞아요. ㅎㅎ 전 이제 책을 읽는데 집중하고 싶은데 나중에 연락하는거 어때요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:03:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "네, 다음에 뵙겠습니다. 저도 슬슬 책을 읽어야겠어요.",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:04:05",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 소설을 좋아한다. 나는 판타지 장르를 좋아한다.",
+          "나는 @이름2@ 시리즈를 가장 좋아한다."
+        ],
+        "speaker2": [
+          "나는 문학 위주로 읽는다.",
+          "나는 @이름1@님의 책을 많이 읽었다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다.",
+          "나는 TV 교육 프로그램을 싫어한다.",
+          "나는 주로 음악 동영상을 본다.",
+          "나의 생일은 10월이다.",
+          "나는 해외여행에 관심 없다. 나는 국내 여행만 다닌다.",
+          "나는 추위에 강한 사람이다. 나는 겨울이 되면 신나서 막 돌아다닌다."
+        ],
+        "speaker2": [
+          "나는 20대 남성이다.",
+          "나는 집에서 쉬고 있었다.",
+          "나는 록 음악을 좋아한다. 나는 매우 부정적이다.",
+          "나는 1월이 생일이다. 나는 추운 날씨를 싫어한다.",
+          "나는 혈액형이 O형이다.",
+          "나는 모기기피제도 잘 듣지 않는다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00092-2",
+      "prevTimeInfo": {
+        "timeNum": "15",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00092-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "안녕하세요. ㅎㅎ 15시간이 지났는데 어제 책 즐겁게 읽으셨나요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:04:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "책 몇 권을 빌려와서 지금은 집에서 읽는 중입니다. 오늘도 도서관에 가시나요?",
+          "summary": "나는 도서관에서 책을 빌려와 읽는 중이다.",
+          "date": "2022-11-19",
+          "time": "14:04:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "네. 전 오늘도 도서관에 갈 생각이예요. ㅎㅎ 조용해서 좋거든요. ㅎㅎ.",
+          "summary": "나는 오늘 도서관에 갈 예정이다.",
+          "date": "2022-11-19",
+          "time": "14:04:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "도서관에서 공부하는 사람도 많더라고요. 일전 본 적이 있습니다. 오늘은 공부하러 가시나요?",
+          "summary": "나는 도서관에서 공부하는 사람들을 많이 보았다.",
+          "date": "2022-11-19",
+          "time": "14:05:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "평생교육의 시대라는 것을 알지만 50대인 저는 공부하기 귀찮아요. ㅎㅎ.",
+          "summary": "나는 평생 교육이 시대라는 것을 안다. 나는 공부하기 귀찮다.",
+          "date": "2022-11-19",
+          "time": "14:05:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "뭐, 그럴 수도 있죠. 그럼 자녀분이 계신 건가요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:06:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "네. 저 아들 1명하고 딸 1명 있어요. ㅎㅎ 당신은 애인이 있나요?",
+          "summary": "나는 아들 1명과 딸 1명이 있다.",
+          "date": "2022-11-19",
+          "time": "14:06:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "아뇨, 전 없습니다. 워낙 부정적이어서 그런지 말이에요. 도서관에서도 그냥 혼자 책 읽습니다. ㅎㅎ.",
+          "summary": "나는 애인이 없다.",
+          "date": "2022-11-19",
+          "time": "14:07:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "그렇군요. 요즘 날씨 쌀쌀하던데 도서관가는 길은 괜찮으세요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:07:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "추워서 핫팩 같은 걸 감고 삽니다. 도서관도 요샌 히터를 잘 안 틀어주더라고요. 그쪽 지역 도서관은 따듯한가요?",
+          "summary": "나는 요새 핫팩을 감고 산다.",
+          "date": "2022-11-19",
+          "time": "14:08:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "요즘 공공기관 에너지 절약한다고 제가 다니는 도서관도 히터를 안 틀어요. ㅠㅠ 그래서 내복 입고 다녀요.",
+          "summary": "나는 내복을 입는다.",
+          "date": "2022-11-19",
+          "time": "14:08:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "나름대로 에너지 절약이 정부 기조인 것 같긴 합니다. 실내온도 18도가 권장이래요. 추워서 어떻게 살라고. ㅠㅠ.",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:09:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "아이고. ㅠㅠ 국민들도 영향을 받는 다는 것을 알아주면 좋겠네요. ㅠㅠ 저 같은 도서관 장기 이용자는 어쩌라고 이러는 걸까요? ㅠㅠ.",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:09:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "그러니까요. 전 추워서 잠이 많아졌는지... 이만 읽던 책 정리하고 좀 자야겠습니다. 추운데 건강 조심하세요.",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:10:17",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 오늘 도서관에 갈 예정이다.",
+          "나는 평생 교육이 시대라는 것을 안다. 나는 공부하기 귀찮다.",
+          "나는 아들 1명과 딸 1명이 있다.",
+          "나는 내복을 입는다."
+        ],
+        "speaker2": [
+          "나는 도서관에서 책을 빌려와 읽는 중이다.",
+          "나는 도서관에서 공부하는 사람들을 많이 보았다.",
+          "나는 애인이 없다.",
+          "나는 요새 핫팩을 감고 산다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다.",
+          "나는 TV 교육 프로그램을 싫어한다.",
+          "나는 주로 음악 동영상을 본다.",
+          "나의 생일은 10월이다.",
+          "나는 해외여행에 관심 없다. 나는 국내 여행만 다닌다.",
+          "나는 추위에 강한 사람이다. 나는 겨울이 되면 신나서 막 돌아다닌다.",
+          "나는 소설을 좋아한다. 나는 판타지 장르를 좋아한다.",
+          "나는 @이름2@ 시리즈를 가장 좋아한다."
+        ],
+        "speaker2": [
+          "나는 20대 남성이다.",
+          "나는 집에서 쉬고 있었다.",
+          "나는 록 음악을 좋아한다. 나는 매우 부정적이다.",
+          "나는 1월이 생일이다. 나는 추운 날씨를 싫어한다.",
+          "나는 혈액형이 O형이다.",
+          "나는 모기기피제도 잘 듣지 않는다.",
+          "나는 문학 위주로 읽는다.",
+          "나는 @이름1@님의 책을 많이 읽었다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00092-3",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00092-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "안녕하세요. 2틀이 지났네요. 그동안 따뜻하게 주무셨나요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:10:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "네, 요새 온수매트가 잘 나와서 ㅎㅎ 나름 따듯하게 잤습니다.",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:11:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "오. 저는 전기매트를 사용해요. 언제부터 온수 매트를 쓰셨나요?",
+          "summary": "나는 전기매트를 사용한다.",
+          "date": "2022-11-19",
+          "time": "14:11:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "전기매트는 감전 위험 있대서 어머니가 온수매트로 바꿔주셨어요. 한 한 달 전부터 꺼냈네요. 오늘은 이 안에서 책 읽는 중입니다.",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:12:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "그렇군요. ㅎㅎ 그 안에서 귤이라도 먹으면서 책을 읽으면 더 행복할거 같은데 집에 귤 있나요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:12:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "자취하느라 귤 사기엔 너무 양이 많아서ㅠ 없습니다. 겨울 과일이 전반적으로 다 비싸기도 한 것 같아요. 안 그런가요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:13:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "맞아요. ㅠㅠ 좀 싸게 살려면 대용량으로 구매해야 해서 1인 가구는 힘들죠. 저는 다행히 가족들과 살아서 괜찮지만요.",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:13:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "4인 가족이신가봐요. ㅎㅎ 도서관도 그럼 가족분이서 같이 다니나요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:14:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "같이 다닐 때도 있지만 시간이 안 맞아서 주로 혼자 다녀요. ㅎㅎ 당신은 어때요?",
+          "summary": "나는 혼자 도서관에 다닌다.",
+          "date": "2022-11-19",
+          "time": "14:15:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "저는 보통 혼자 갑니다. 예전엔 어머니나 아버지랑 같이 다녔는데 아무래도 다 컸으니까. ^^ @이름3@이 어린가요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:15:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "제 아들은 대학생인데 제 딸은 고등학생이예요.",
+          "summary": "나의 아들은 대학생이다. 나의 딸은 고등학생이다.",
+          "date": "2022-11-19",
+          "time": "14:16:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "나이가 많네요. 다들 도서관은 좋아하나요? 저는 그 나이 즈음 도서관에서 공부를 했는데 말이죠.",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:17:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94702",
+          "participantID": "32046",
+          "utterance": "다행히 다들 도서관을 좋아해요. ㅎㅎ 제 남편도 도서관을 좋아하고요. ㅎㅎ.",
+          "summary": "나의 가족들은 도서관을 좋아한다.",
+          "date": "2022-11-19",
+          "time": "14:17:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67081",
+          "participantID": "30420",
+          "utterance": "다행입니다. 저는 이만 책을 반납하러 나가보겠습니다. 좋은 하루 되세요. 다음에 또 대화해요~",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:18:02",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 전기매트를 사용한다.",
+          "나는 혼자 도서관에 다닌다.",
+          "나의 아들은 대학생이다. 나의 딸은 고등학생이다.",
+          "나의 가족들은 도서관을 좋아한다."
+        ],
+        "speaker2": []
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다.",
+          "나는 TV 교육 프로그램을 싫어한다.",
+          "나는 주로 음악 동영상을 본다.",
+          "나의 생일은 10월이다.",
+          "나는 해외여행에 관심 없다. 나는 국내 여행만 다닌다.",
+          "나는 추위에 강한 사람이다. 나는 겨울이 되면 신나서 막 돌아다닌다.",
+          "나는 소설을 좋아한다. 나는 판타지 장르를 좋아한다.",
+          "나는 @이름2@ 시리즈를 가장 좋아한다.",
+          "나는 오늘 도서관에 갈 예정이다.",
+          "나는 평생 교육이 시대라는 것을 안다. 나는 공부하기 귀찮다.",
+          "나는 아들 1명과 딸 1명이 있다.",
+          "나는 내복을 입는다."
+        ],
+        "speaker2": [
+          "나는 20대 남성이다.",
+          "나는 집에서 쉬고 있었다.",
+          "나는 록 음악을 좋아한다. 나는 매우 부정적이다.",
+          "나는 1월이 생일이다. 나는 추운 날씨를 싫어한다.",
+          "나는 혈액형이 O형이다.",
+          "나는 모기기피제도 잘 듣지 않는다.",
+          "나는 문학 위주로 읽는다.",
+          "나는 @이름1@님의 책을 많이 읽었다.",
+          "나는 도서관에서 책을 빌려와 읽는 중이다.",
+          "나는 도서관에서 공부하는 사람들을 많이 보았다.",
+          "나는 애인이 없다.",
+          "나는 요새 핫팩을 감고 산다."
+        ]
+      }
+    }
+  ]
+}

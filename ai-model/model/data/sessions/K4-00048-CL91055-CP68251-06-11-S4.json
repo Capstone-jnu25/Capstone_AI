@@ -1,0 +1,796 @@
+{
+  "FileInfo": {
+    "filename": "K4-00048-CL91055-CP68251-06-11-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "32044",
+      "gender": "남성",
+      "age": "40대",
+      "occupation": "서비스직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "31400",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "사무직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00048"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "91055",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 가족과 함께하는 시간이 많다.",
+        "나는 혈액형이 B형이다.",
+        "나는 요즘, 매일 부끄러운 감정이 든다.",
+        "나는 동물을 키우고 싶다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "68251",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 추운 날씨를 좋아한다.",
+        "나는 홍콩에 가 보고 싶다.",
+        "나는 자주 걱정스럽다.",
+        "나는 햄스터를 키우고 싶다.",
+        "나는 혈액형이 A형이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "06-11",
+    "topicType": "교육",
+    "topicTitle": "학업 스트레스"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00048-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "안녕하세요! 저는 40대 남자입니다! 만나서 반가워요. 그쪽은요?",
+          "summary": "나는 40대 남자이다.",
+          "date": "2022-11-23",
+          "time": "09:00:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "안녕하세요. 저는 20대 여자입니다. 만나서 반갑습니다!",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-11-23",
+          "time": "09:00:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "혹시 좋아하는게 있으실까요? 알려주세요!",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:00:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "저는 추운 날씨를 좋아해요. 눈이 오면 더 좋구요.",
+          "summary": "나는 추운 날씨를 좋아한다.",
+          "date": "2022-11-23",
+          "time": "09:00:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "그렇군요! 저는 가족을 좋아해서 가족과 함께 하는 시간이 많답니다.",
+          "summary": "나는 가족을 좋아한다. 나는 가족과 함께하는 시간이 많다.",
+          "date": "2022-11-23",
+          "time": "09:00:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "저는 가족들과 홍콩에 한번 가보고 싶어요. 좋은 시간이 될거 같아요.",
+          "summary": "나는 홍콩에 가 보고 싶다.",
+          "date": "2022-11-23",
+          "time": "09:01:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "홍콩 좋죠! 저는 혈액형이 B형이라 여행을 좋아해요.",
+          "summary": "나는 혈액형이 B형이다. 나는 여행을 좋아한다.",
+          "date": "2022-11-23",
+          "time": "09:01:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "저는 소심한 A형이랍니다. 그래서 가족이나 혼자 여행을 다니고 싶어요.",
+          "summary": "나는 혈액형이 A형이다.",
+          "date": "2022-11-23",
+          "time": "09:02:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "저도 한 소심 하답니다...! 그래서 요즘 매일 부끄러워요.",
+          "summary": "나는 요즘, 매일 부끄러운 감정이 든다.",
+          "date": "2022-11-23",
+          "time": "09:02:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "저는 요즘 자주 걱정스럽네요. 할일이 너무 많아서 여유가 없어서 그런가봐요.",
+          "summary": "나는 자주 걱정스럽다.",
+          "date": "2022-11-23",
+          "time": "09:02:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "자주 걱정스러운게 사람이죠. 저도 자주 그래요~.",
+          "summary": "나는 자주 걱정스럽다.",
+          "date": "2022-11-23",
+          "time": "09:02:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "그치만 걱정을 자주하면 될 것도 안될거 같아요. 염려를 줄여야겠어요.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:03:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "맞아요. 오늘은 약속때문에 여기까지만 할게요! 담에 만나요~.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:03:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "네. 대화 즐거웠습니다. 나중에 또 연락주세요.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:03:31",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다.",
+          "나는 가족을 좋아한다. 나는 가족과 함께하는 시간이 많다.",
+          "나는 혈액형이 B형이다. 나는 여행을 좋아한다.",
+          "나는 요즘, 매일 부끄러운 감정이 든다.",
+          "나는 자주 걱정스럽다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 추운 날씨를 좋아한다.",
+          "나는 홍콩에 가 보고 싶다.",
+          "나는 혈액형이 A형이다.",
+          "나는 자주 걱정스럽다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00048-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00048-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "3일만에 뵙겠습니다! 그동안 잘 지내셨나요?",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:03:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "사흘만에 연락주셨네요! 저는 아주 잘 지내고 있답니다.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:03:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "그렇군요. 저는 가족과 함께 하는 시간을 많이 보냈어요.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:04:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "저는 한번 홍콩에 가보고 싶어서 여행 계획을 짜보고 있었어요.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:04:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "그러셨군요. 님은 어릴때 학업 스트레스 많이 받았나요?",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:04:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "어릴때도 스트레스를 많이 받았고 요새도 학업 스트레스가 장난이 아니에요.",
+          "summary": "나는 학업 스트레스를 많이 받는다.",
+          "date": "2022-11-23",
+          "time": "09:05:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "저는 딸이 있는데 학업 스트레스를 엄청 받더라구요ㅠ.",
+          "summary": "나는 딸이 있다. 나의 딸은 학업 스트레스를 받는다.",
+          "date": "2022-11-23",
+          "time": "09:05:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "저는 아직 대학생이라 그런지 과제가 너무 많고 시험준비도 해야하네요.",
+          "summary": "나는 대학생이다. 나는 과제와 시험 준비를 해야 한다.",
+          "date": "2022-11-23",
+          "time": "09:05:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "제 딸은 이제 중학생이에요. 언니된 입장으로써 조언 있나요?",
+          "summary": "나의 딸은 중학생이다.",
+          "date": "2022-11-23",
+          "time": "09:05:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "중학생때는 적당히 공부하고 학업스트레스 덜 받으면서 노는게 좋은거 같아요.",
+          "summary": "나는 중학생 때는 놀아야 한다고 생각한다.",
+          "date": "2022-11-23",
+          "time": "09:06:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "적당히 공부하려고 해도 요즘 시대가 그런 시대라 참 애매하네요ㅠ.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:06:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "그렇죠. 요즘 사교육이 너무 많아서 @이름1@간 격차도 너무 심하고요.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:06:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "맞아요. 그래도 조언 감사해요! 다음에 또 연락드리죠.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:06:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "오늘 유익한 대화 나눠주셔서 감사합니다. 나중에 또 연락주세요.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:07:02",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 딸이 있다. 나의 딸은 학업 스트레스를 받는다.",
+          "나의 딸은 중학생이다."
+        ],
+        "speaker2": [
+          "나는 학업 스트레스를 많이 받는다.",
+          "나는 대학생이다. 나는 과제와 시험 준비를 해야 한다.",
+          "나는 중학생 때는 놀아야 한다고 생각한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다.",
+          "나는 가족을 좋아한다. 나는 가족과 함께하는 시간이 많다.",
+          "나는 혈액형이 B형이다. 나는 여행을 좋아한다.",
+          "나는 요즘, 매일 부끄러운 감정이 든다.",
+          "나는 자주 걱정스럽다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 추운 날씨를 좋아한다.",
+          "나는 홍콩에 가 보고 싶다.",
+          "나는 혈액형이 A형이다.",
+          "나는 자주 걱정스럽다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00048-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00048-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "이틀 지났어요~. 그동안 뭐하셨나요? 궁금하네요!",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:07:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "이틀만에 연락을 주셨네요! 저는 과제를 하고 있었어요.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:07:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "그렇군요! 저는 제 딸의 학업을 도와주고 있었답니다.",
+          "summary": "나는 딸의 학업을 도운다.",
+          "date": "2022-11-23",
+          "time": "09:07:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "딸의 학업을 도와주시다니 정말 멋진 아버지시네요.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:08:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "감사합니다~. 그래도 아버지된 도리는 해야죠.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:08:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "저도 어렸을때 아버지가 학업을 도와주셨으면 학업 스트레스가 덜했을거 같아요.",
+          "summary": "나는 어릴 때 아버지가 학업을 도와주지 않았다.",
+          "date": "2022-11-23",
+          "time": "09:08:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "어릴때 학업 관련된건 주로 혼자서 하셨나봐요?",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:08:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "네 맞아요. 그렇게 열심히 하진 않았지만 그래도 혼자서 대부분 해결했답니다.",
+          "summary": "나는 어릴 때 학업을 혼자서 해결했다.",
+          "date": "2022-11-23",
+          "time": "09:09:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "혼자서 해결하는것도 대단하다고 생각해요. 그러면 자립심이 엄청나실거같네요.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:09:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "감사합니다. 자립심이 확실히 길러지긴 하는거 같아요.",
+          "summary": "나는 자립심이 길러진 거 같다.",
+          "date": "2022-11-23",
+          "time": "09:09:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "그쵸? 지나보면 서운하긴 해도 님한테는 귀중한 자산일수있어요.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:09:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "생각해보니 그렇네요. 이런걸 계획하시고 일부러 안도와주신거 같기도 하네요.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:10:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "네ㅋㅋ. 이제 가족끼리 외식을 해야해서 나가볼게요!",
+          "summary": "나는 가족이랑 외식을 할 예정이다.",
+          "date": "2022-11-23",
+          "time": "09:10:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "외식 잘 다녀오세요. 다음에 또 연락주세요.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:10:30",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 딸의 학업을 도운다.",
+          "나는 가족이랑 외식을 할 예정이다."
+        ],
+        "speaker2": [
+          "나는 어릴 때 아버지가 학업을 도와주지 않았다.",
+          "나는 어릴 때 학업을 혼자서 해결했다.",
+          "나는 자립심이 길러진 거 같다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다.",
+          "나는 가족을 좋아한다. 나는 가족과 함께하는 시간이 많다.",
+          "나는 혈액형이 B형이다. 나는 여행을 좋아한다.",
+          "나는 요즘, 매일 부끄러운 감정이 든다.",
+          "나는 자주 걱정스럽다.",
+          "나는 딸이 있다. 나의 딸은 학업 스트레스를 받는다.",
+          "나의 딸은 중학생이다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 추운 날씨를 좋아한다.",
+          "나는 홍콩에 가 보고 싶다.",
+          "나는 혈액형이 A형이다.",
+          "나는 자주 걱정스럽다.",
+          "나는 학업 스트레스를 많이 받는다.",
+          "나는 대학생이다. 나는 과제와 시험 준비를 해야 한다.",
+          "나는 중학생 때는 놀아야 한다고 생각한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00048-3",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00048-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "하루 지나서 연락드려요. 오늘 컨디션은 좀 어떠신가요?",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:10:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "하루만에 연락주셨네요. 오늘은 과제를 다 끝내고 시험 준비를 하고 있어요. 좀 힘드네요.",
+          "summary": "나는 시험 준비를 하고 있다.",
+          "date": "2022-11-23",
+          "time": "09:10:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "그렇군요. 저는 어제 가족이랑 외식하고 체했나봐요. 저도 컨디션이 안좋네요ㅠ.",
+          "summary": "나는 컨디션이 안 좋다. 나는 가족이랑 외식 후 체했다.",
+          "date": "2022-11-23",
+          "time": "09:11:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "손가락을 따시고 시원한 콜라 한잔 드셔야겠네요.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:11:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "그러게요~. 그래서 오늘은 회사 연차도 냈답니다. 좀 쉬려구요.",
+          "summary": "나는 연차를 냈다.",
+          "date": "2022-11-23",
+          "time": "09:11:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "오. 쉬시다니 부럽네요. 저는 빨리 시험이 끝났으면 좋겠어요.",
+          "summary": "나는 시험이 끝났으면 좋겠다.",
+          "date": "2022-11-23",
+          "time": "09:12:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "시험까지 힘내세요ㅠ. 시험준비는 잘 되어가나요?",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:12:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "네. 그럭저럭 잘 되어가고 있습니다. 과제랑 연관되어 있어서 열심히 과제를 했더니 시험 준비가 되네요.",
+          "summary": "나는 시험 준비를 잘하고 있다.",
+          "date": "2022-11-23",
+          "time": "09:12:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "다행이에요. 시험 준비면 밥도 잘 챙겨먹어야죠. 그러고 있나요?",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:13:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "밥은 잘 안챙겨먹게 되네요. 제가 한번 집중하면 다른데 신경을 안쓰거든요.",
+          "summary": "나는 한번 집중하면 다른 곳에 신경을 쓰지 않는다.",
+          "date": "2022-11-23",
+          "time": "09:13:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "저도 혈액형이 B형이라 그러지 않았네요ㅋㅋ. 잘 덤벙대거든요.",
+          "summary": "나는 잘 덤벙댄다.",
+          "date": "2022-11-23",
+          "time": "09:13:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "저는 아무래도 A형이라 소심하긴 해도 집중력이 좋은가봐요.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:13:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91055",
+          "participantID": "32044",
+          "utterance": "그러실거같아요! 저도 이제 공부 방해 안하게 가볼게요. 또 연락할게요!",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:14:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68251",
+          "participantID": "31400",
+          "utterance": "오늘도 대화나눠주셔서 감사합니다. 저는 이만 시험준비하러 가볼게요.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "09:14:13",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 컨디션이 안 좋다. 나는 가족이랑 외식 후 체했다.",
+          "나는 연차를 냈다.",
+          "나는 잘 덤벙댄다."
+        ],
+        "speaker2": [
+          "나는 시험 준비를 하고 있다.",
+          "나는 시험이 끝났으면 좋겠다.",
+          "나는 시험 준비를 잘하고 있다.",
+          "나는 한번 집중하면 다른 곳에 신경을 쓰지 않는다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다.",
+          "나는 가족을 좋아한다. 나는 가족과 함께하는 시간이 많다.",
+          "나는 혈액형이 B형이다. 나는 여행을 좋아한다.",
+          "나는 요즘, 매일 부끄러운 감정이 든다.",
+          "나는 자주 걱정스럽다.",
+          "나는 딸이 있다. 나의 딸은 학업 스트레스를 받는다.",
+          "나의 딸은 중학생이다.",
+          "나는 딸의 학업을 도운다.",
+          "나는 가족이랑 외식을 할 예정이다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 추운 날씨를 좋아한다.",
+          "나는 홍콩에 가 보고 싶다.",
+          "나는 혈액형이 A형이다.",
+          "나는 자주 걱정스럽다.",
+          "나는 학업 스트레스를 많이 받는다.",
+          "나는 대학생이다. 나는 과제와 시험 준비를 해야 한다.",
+          "나는 중학생 때는 놀아야 한다고 생각한다.",
+          "나는 어릴 때 아버지가 학업을 도와주지 않았다.",
+          "나는 어릴 때 학업을 혼자서 해결했다.",
+          "나는 자립심이 길러진 거 같다."
+        ]
+      }
+    }
+  ]
+}

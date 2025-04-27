@@ -1,0 +1,421 @@
+{
+  "FileInfo": {
+    "filename": "K2-00187-CL33583-CP40607-14-02-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0607",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "자영업",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0555",
+      "gender": "남성",
+      "age": "40대",
+      "occupation": "서비스직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00187"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "33583",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 수학과를 전공했다.",
+        "나는 조각가이다.",
+        "나는 종종 안도감이 든다.",
+        "나는 위스키를 일주일에 두세 번 마신다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "40607",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 다소 내성적이다.",
+        "나는 해외 여행에 관심 없다.",
+        "나는 딸기를 싫어한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "14-02",
+    "topicType": "시사/사회>사회이슈(국내)",
+    "topicTitle": "환경 문제"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00187-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33583",
+          "participantID": "0607",
+          "utterance": "안녕하세요~저는 30대 여성이에요~",
+          "summary": "나는 30대 여성이다.",
+          "date": "2022-10-12",
+          "time": "00:31:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40607",
+          "participantID": "0555",
+          "utterance": "반가워요! 저는 40대 남성이에요~",
+          "summary": "나는 40대 남성이다.",
+          "date": "2022-10-12",
+          "time": "00:31:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33583",
+          "participantID": "0607",
+          "utterance": "저는 수학과를 전공했는데 ,지금은 조각가에요~어릴때 소질있던걸 못 버리고 직업이 되었죠!",
+          "summary": "나는 수학과를 전공했다. 나는 조각가이다.",
+          "date": "2022-10-12",
+          "time": "00:33:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40607",
+          "participantID": "0555",
+          "utterance": "멋지네요! 저는 소설작가에요, 다소 내정적이구요!",
+          "summary": "나는 소설 작가이다. 나는 다소 내성적이다.",
+          "date": "2022-10-12",
+          "time": "00:38:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33583",
+          "participantID": "0607",
+          "utterance": "작가님이 더 멋지신데요? 이번 연휴에는 무얼하실 계획이에요?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:41:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40607",
+          "participantID": "0555",
+          "utterance": "다들 해외여행 많이가는데 저는 해외여행에 관심이없어서 , 근처 바다에 놀러갈까해요!",
+          "summary": "나는 해외여행에 관심 없다. 나는 근처 바다에 놀러 갈 예정이다,.",
+          "date": "2022-10-12",
+          "time": "00:43:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33583",
+          "participantID": "0607",
+          "utterance": "바다도 좋죠! 저는 가족들이랑 함께 온천여행을 가려구요, 가족과함께면 종종 안도감이 들어요.",
+          "summary": "나는 가족들이랑 함께 온천여행을 하려 한다. 나는 종종 안도감이 든다.",
+          "date": "2022-10-12",
+          "time": "00:46:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40607",
+          "participantID": "0555",
+          "utterance": "가족은 편안해서 그러가봐요! 좋아하는 건 뭐에요?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:48:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33583",
+          "participantID": "0607",
+          "utterance": "전 위스키랑 과일을 즐겨요 ! 위스키를 좋아해서 일주일에 두세 번 마셔요!",
+          "summary": "나는 위스키를 일주일에 두세 번 마신다.",
+          "date": "2022-10-12",
+          "time": "00:48:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40607",
+          "participantID": "0555",
+          "utterance": "오~ 저도 위스키 좋아해요! 그런데 과일은 그 맛있는 딸기도 싫어해요 ㅠㅠ.",
+          "summary": "나는 위스키를 좋아한다. 나는 딸기를 싫어한다.",
+          "date": "2022-10-12",
+          "time": "00:49:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33583",
+          "participantID": "0607",
+          "utterance": "왜요!?저는 모든과일이 좋더라구요 ㅎㅎ.",
+          "summary": "나는 모든 과일이 좋다.",
+          "date": "2022-10-12",
+          "time": "00:52:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40607",
+          "participantID": "0555",
+          "utterance": "여자분들은 과일 좋아하는 분들이 많은데 저는 달아서 싫더라구요 ㅎㅎ.",
+          "summary": "나는 달아서 싫다.",
+          "date": "2022-10-12",
+          "time": "00:52:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33583",
+          "participantID": "0607",
+          "utterance": "그럴 수 있죠! 제가 이제 작업에 들어가야해서 다시 또 연락드릴게요!",
+          "summary": "나는 이제 작업에 들어가야 한다.",
+          "date": "2022-10-12",
+          "time": "00:57:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40607",
+          "participantID": "0555",
+          "utterance": "네~ 작업열심히 하셔요! 저도 글쓰러 가야겠네요!",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:57:43",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나는 수학과를 전공했다. 나는 조각가이다.",
+          "나는 가족들이랑 함께 온천여행을 하려 한다. 나는 종종 안도감이 든다.",
+          "나는 위스키를 일주일에 두세 번 마신다.",
+          "나는 모든 과일이 좋다.",
+          "나는 이제 작업에 들어가야 한다."
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 소설 작가이다. 나는 다소 내성적이다.",
+          "나는 해외여행에 관심 없다. 나는 근처 바다에 놀러 갈 예정이다,.",
+          "나는 위스키를 좋아한다. 나는 딸기를 싫어한다.",
+          "나는 달아서 싫다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00187-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00187-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33583",
+          "participantID": "0607",
+          "utterance": "연휴 잘보내셨나요? 우리가 대화한지 벌써 2주가 흘렀네요!",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "01:01:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40607",
+          "participantID": "0555",
+          "utterance": "네! 저는 근처 바다에 놀러갔다 왔어요! 잘지내셨죠?",
+          "summary": "나는 근처 바다에 놀러 갔다 왔다.",
+          "date": "2022-10-12",
+          "time": "01:02:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33583",
+          "participantID": "0607",
+          "utterance": "네! 조각하던 작품도 마무리도 했어요! 여행은 어떠셨어요!",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "01:07:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40607",
+          "participantID": "0555",
+          "utterance": "오랜만에 바다에 다녀온건데 여행객들때문에 환경문제가 심각하더라고요 ㅜㅜ.",
+          "summary": "나는 오랜만에 바다에 다녀온 건데 환경문제가 심각했다.",
+          "date": "2022-10-12",
+          "time": "01:08:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33583",
+          "participantID": "0607",
+          "utterance": "저도 여행 다닐때 환경을 생각 안하고 쓰레기가 버려져있는 모습을 보면 마음이 안좋더라구요.",
+          "summary": "나는 쓰레기가 버려져 있는 모습을 보면 마음이 안 좋다.",
+          "date": "2022-10-12",
+          "time": "01:11:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40607",
+          "participantID": "0555",
+          "utterance": "그쵸, 전 환경이 오염되서 쓰레기에 돌고래들이 죽어간다는 기사를 보면 너무 가슴이 아파요.",
+          "summary": "나는 쓰리기에 돌고래들이 죽어간다는 기사를 보면 가슴이 아프다.",
+          "date": "2022-10-12",
+          "time": "01:12:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33583",
+          "participantID": "0607",
+          "utterance": "맞아요, 결국엔 환경이문제되면 인간이 살아가지 못하는 환경이 올텐데 말이에요.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "01:13:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40607",
+          "participantID": "0555",
+          "utterance": "여름 휴가철이 끝나고 유명 해수욕장에 가면 엄청 더러운 것 보셨어요?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "01:14:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33583",
+          "participantID": "0607",
+          "utterance": "네ㅜ 해변에도 쓰레기가 한더미고, 화장실도 그렇구요, 이러니 바다에 고기가 없지 싶어요.",
+          "summary": "나는 이래서 바다에 고기가 없지 싶다.",
+          "date": "2022-10-12",
+          "time": "01:15:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40607",
+          "participantID": "0555",
+          "utterance": "착한 분들이 청소를 하긴 하지만, 그게 바다로 떠내려가니 깊은바다는 얼마나 오염됐을까요..",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "01:16:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33583",
+          "participantID": "0607",
+          "utterance": "제말이요! 각자가 사소한 것 부터 신경쓴다면 충분히 좋아질텐데요..",
+          "summary": "나는 각자가 사소한 것부터 신경을 쓴다면 충분히 좋아질 것이라고 생각한다.",
+          "date": "2022-10-12",
+          "time": "01:17:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40607",
+          "participantID": "0555",
+          "utterance": "맞아요. 친환경 비닐봉투나, 텀블러 등의 사용을 저 부터라도 많이 해야할 것 같아요.",
+          "summary": "나는 나부터라도 친환경 비닐봉지나 텀블러를 사용할 것이다.",
+          "date": "2022-10-12",
+          "time": "01:18:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33583",
+          "participantID": "0607",
+          "utterance": "많은 분들이 그렇게 해주시면 환경에도 도움이되겠죠! 제가 잠시 일을 봐야해서 얼른 일 좀 보고 올게요!",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "01:19:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40607",
+          "participantID": "0555",
+          "utterance": "네. 일 보시고, 편하실 때 연락주세요 ^^",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "01:20:11",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 쓰레기가 버려져 있는 모습을 보면 마음이 안 좋다.",
+          "나는 이래서 바다에 고기가 없지 싶다.",
+          "나는 각자가 사소한 것부터 신경을 쓴다면 충분히 좋아질 것이라고 생각한다."
+        ],
+        "speaker2": [
+          "나는 근처 바다에 놀러 갔다 왔다.",
+          "나는 오랜만에 바다에 다녀온 건데 환경문제가 심각했다.",
+          "나는 쓰리기에 돌고래들이 죽어간다는 기사를 보면 가슴이 아프다.",
+          "나는 나부터라도 친환경 비닐봉지나 텀블러를 사용할 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나는 수학과를 전공했다. 나는 조각가이다.",
+          "나는 가족들이랑 함께 온천여행을 하려 한다. 나는 종종 안도감이 든다.",
+          "나는 위스키를 일주일에 두세 번 마신다.",
+          "나는 모든 과일이 좋다.",
+          "나는 이제 작업에 들어가야 한다."
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 소설 작가이다. 나는 다소 내성적이다.",
+          "나는 해외여행에 관심 없다. 나는 근처 바다에 놀러 갈 예정이다,.",
+          "나는 위스키를 좋아한다. 나는 딸기를 싫어한다.",
+          "나는 달아서 싫다."
+        ]
+      }
+    }
+  ]
+}

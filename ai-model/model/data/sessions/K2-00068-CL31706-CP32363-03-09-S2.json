@@ -1,0 +1,418 @@
+{
+  "FileInfo": {
+    "filename": "K2-00068-CL31706-CP32363-03-09-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0564",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "중졸"
+    },
+    "speaker2": {
+      "participantID": "0565",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "서비스직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00068"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "31706",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 가족과 사진을 많이 찍는다.",
+        "나는 줄넘기를 가끔 한다.",
+        "나는 판타지 영화를 가끔 본다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "32363",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나의 거주지는 강릉이다.",
+        "나는 가끔 스트레스를 받는다.",
+        "나는 사과를 좋아한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "03-09",
+    "topicType": "교통",
+    "topicTitle": "신호등/횡단보도"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00068-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31706",
+          "participantID": "0564",
+          "utterance": "안녕하세요! 저는 남양주에 사는 30대 여 입니다.",
+          "summary": "나는 30대 여자다. 나의 거주지는 남양주이다.",
+          "date": "2022-09-28",
+          "time": "12:28:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32363",
+          "participantID": "0565",
+          "utterance": "안녕하세요! 저는 강릉에 사는 30대 여자입니다.",
+          "summary": "나는 30대 여자다. 나의 거주지는 강릉이다.",
+          "date": "2022-09-28",
+          "time": "12:29:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31706",
+          "participantID": "0564",
+          "utterance": "만나서 반가워요ㅎ 강릉은 뭘로 유명한가요?",
+          "summary": "",
+          "date": "2022-09-28",
+          "time": "12:29:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32363",
+          "participantID": "0565",
+          "utterance": "강릉엔 아무래도 순두부가 유명해요! 의외로 사과도 유명해요! 저는 사과를 참 좋아한답니다.ㅎㅎ.",
+          "summary": "나는 사과를 좋아한다.",
+          "date": "2022-09-28",
+          "time": "12:29:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31706",
+          "participantID": "0564",
+          "utterance": "순두부랑 사과 먹으러 강릉에 가봐야겠네요^^ 제가 가족끼리 여행 가는 걸 좋아해서 여행지 생각중이였어요ㅎ.",
+          "summary": "나는 가족여행을 좋아한다.",
+          "date": "2022-09-28",
+          "time": "12:30:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32363",
+          "participantID": "0565",
+          "utterance": "오.. 가족여행 자주 다니세요? 저는 가고는 싶은데 의견차이가 많아서 가끔 스트레스를 받네요..",
+          "summary": "나는 가끔 스트레스를 받는다.",
+          "date": "2022-09-28",
+          "time": "12:31:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31706",
+          "participantID": "0564",
+          "utterance": "ㅎㅎ 저희 가족도 그래요~ 사진 남기러 여행가는거죠ㅎㅎ 나중에 보면 기분좋으니까 놀러가면 가족사진을 엄청 많이 찍어놔요ㅎㅎ.",
+          "summary": "나는 가족과 사진을 많이 찍는다.",
+          "date": "2022-09-28",
+          "time": "12:32:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32363",
+          "participantID": "0565",
+          "utterance": "좋네요.. 남는건 사진뿐이니까! 기억에 오래오래 남을 것 같아요! 오늘은 뭐하세요?",
+          "summary": "",
+          "date": "2022-09-28",
+          "time": "12:33:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31706",
+          "participantID": "0564",
+          "utterance": "저는 매일 하는 일이 정해져있어요~ 오늘도 sf영화 보구 저녁엔 줄넘기 하러 나가려구요! 그쪽은요?",
+          "summary": "",
+          "date": "2022-09-28",
+          "time": "12:34:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32363",
+          "participantID": "0565",
+          "utterance": "오! 이번에 괜찮은 영화 나왔어요? 저는 산책하러 가려구요!",
+          "summary": "나는 판타지 영화를 가끔 본다. 나는 줄넘기를 가끔 한다.",
+          "date": "2022-09-28",
+          "time": "12:34:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31706",
+          "participantID": "0564",
+          "utterance": "아바타3 나왔더라구요ㅎ저는 건강이 걱정되서 산책하는데. 산책 자주가세요?",
+          "summary": "나는 건강이 걱정된다.",
+          "date": "2022-09-28",
+          "time": "12:35:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32363",
+          "participantID": "0565",
+          "utterance": "네네! 지금같이 선선한 날씨를 좋아해서 산책나가면 힐링이 된답니다.ㅎㅎ 아바타3요? 내일 당장 보러 가야겠네요.",
+          "summary": "나는 선선한 날씨를 좋아한다.",
+          "date": "2022-09-28",
+          "time": "12:36:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31706",
+          "participantID": "0564",
+          "utterance": "통신사 할인 받으면 무료로 볼수있을꺼예요! 제가 할인을 좋아해서 미리 알아봤어요ㅎ 저 영화보러 다녀올께요!",
+          "summary": "나는 할인을 좋아한다.",
+          "date": "2022-09-28",
+          "time": "12:37:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32363",
+          "participantID": "0565",
+          "utterance": "ㅎㅎㅎ할인 받는건 필수죠! 즐거운 영화관람 되세요! 저도 산책갔다가 올게요!",
+          "summary": "",
+          "date": "2022-09-28",
+          "time": "12:38:08",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자다. 나의 거주지는 남양주이다.",
+          "나는 가족여행을 좋아한다.",
+          "나는 가족과 사진을 많이 찍는다.",
+          "나는 건강이 걱정된다.",
+          "나는 할인을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 30대 여자다. 나의 거주지는 강릉이다.",
+          "나는 사과를 좋아한다.",
+          "나는 가끔 스트레스를 받는다.",
+          "나는 판타지 영화를 가끔 본다. 나는 줄넘기를 가끔 한다.",
+          "나는 선선한 날씨를 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00068-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00068-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31706",
+          "participantID": "0564",
+          "utterance": "어우 영화 너무재밌네요. 3시간 가는줄도 몰랐어요!",
+          "summary": "",
+          "date": "2022-09-28",
+          "time": "12:38:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32363",
+          "participantID": "0565",
+          "utterance": "영화 시간 이번에도 길게 나왔죠? 3시간짜리인 것 같던데!!",
+          "summary": "",
+          "date": "2022-09-28",
+          "time": "12:38:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31706",
+          "participantID": "0564",
+          "utterance": "넵! 광고 빼고 2시간 반 정도 되더라구요~ 영상미가 화려해서 너무 좋았어요. 역시는 영화는 판타지가 짱이예요!",
+          "summary": "나는 영상미가 화려한 걸 좋아한다.",
+          "date": "2022-09-28",
+          "time": "12:39:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32363",
+          "participantID": "0565",
+          "utterance": "얼른 보러가야겠어요! 저는 산책하다가 횡단보도 앞에서 사고가 나가지고 엄청 놀랬네요.. 아무도 안다쳐서 다행이지 ㅠㅠ.",
+          "summary": "나는 산책을 하다 교통사고를 목격했다.",
+          "date": "2022-09-28",
+          "time": "12:40:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31706",
+          "participantID": "0564",
+          "utterance": "앗? 안다치셨어요? 큰일날 뻔 하셨네요. 저도 전에 횡단보도에서 사고가 난 적이 있어 아직도 후유증이 있거든요!",
+          "summary": "나는 교통사고가 난 적이 있다. 나는 교통사고 후유증이 있다.",
+          "date": "2022-09-28",
+          "time": "12:40:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32363",
+          "participantID": "0565",
+          "utterance": "네네! 저 말고 어떤 사람이 횡단보도에서 폰 보면서 걸어가다가 오토바이랑 쿵 했더라구요.",
+          "summary": "",
+          "date": "2022-09-28",
+          "time": "12:42:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31706",
+          "participantID": "0564",
+          "utterance": "아휴. 핸드폰은 걸을 땐 좀 안했으면 좋겠어요. 저는 사고 뒤로 경각심이 생겨서 항상 주위를 보거든요.",
+          "summary": "나는 항상 주위를 살핀다.",
+          "date": "2022-09-28",
+          "time": "12:43:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32363",
+          "participantID": "0565",
+          "utterance": "맞아요.. 그래서 요즘 횡단보도는 바닥에 불이 들어오더라구요!",
+          "summary": "",
+          "date": "2022-09-28",
+          "time": "12:44:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31706",
+          "participantID": "0564",
+          "utterance": "한번 본거같아요! 얼른 상용화가 되었으면 좋겠어요! 저는 보행자면서도 운전자거든요...",
+          "summary": "나는 차가 있다. 나는 면허가 있다.",
+          "date": "2022-09-28",
+          "time": "12:45:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32363",
+          "participantID": "0565",
+          "utterance": "그쵸.. 저도 한 번씩 폰보면서 건너가고 그러는데.. 건널 땐 좀 경각심을 갖고 다녀야겠어요.",
+          "summary": "나는 폰을 보며 길을 건넌 적이 있다.",
+          "date": "2022-09-28",
+          "time": "12:45:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31706",
+          "participantID": "0564",
+          "utterance": "저는 이제 산책 나가려는데 오늘은 좀 무섭네요ㅠ.",
+          "summary": "나는 산책이 무서워졌다.",
+          "date": "2022-09-28",
+          "time": "12:46:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32363",
+          "participantID": "0565",
+          "utterance": "조심해서 다녀오세요! 휴대폰은 주머니에!!",
+          "summary": "",
+          "date": "2022-09-28",
+          "time": "12:47:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31706",
+          "participantID": "0564",
+          "utterance": "ㅎㅎㅎ네네. 아예 핸드폰을 두고 갈께요! 다녀오겠습니다!",
+          "summary": "",
+          "date": "2022-09-28",
+          "time": "12:47:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32363",
+          "participantID": "0565",
+          "utterance": "ㅎㅎ 네네 잘 다녀오시고 또 연락주세용~",
+          "summary": "",
+          "date": "2022-09-28",
+          "time": "12:48:07",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 영상미가 화려한 걸 좋아한다.",
+          "나는 교통사고가 난 적이 있다. 나는 교통사고 후유증이 있다.",
+          "나는 항상 주위를 살핀다.",
+          "나는 차가 있다. 나는 면허가 있다.",
+          "나는 산책이 무서워졌다."
+        ],
+        "speaker2": [
+          "나는 산책을 하다 교통사고를 목격했다.",
+          "나는 폰을 보며 길을 건넌 적이 있다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자다. 나의 거주지는 남양주이다.",
+          "나는 가족여행을 좋아한다.",
+          "나는 가족과 사진을 많이 찍는다.",
+          "나는 건강이 걱정된다.",
+          "나는 할인을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 30대 여자다. 나의 거주지는 강릉이다.",
+          "나는 사과를 좋아한다.",
+          "나는 가끔 스트레스를 받는다.",
+          "나는 판타지 영화를 가끔 본다. 나는 줄넘기를 가끔 한다.",
+          "나는 선선한 날씨를 좋아한다."
+        ]
+      }
+    }
+  ]
+}

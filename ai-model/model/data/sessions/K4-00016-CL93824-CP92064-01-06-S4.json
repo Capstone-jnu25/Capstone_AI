@@ -1,0 +1,788 @@
+{
+  "FileInfo": {
+    "filename": "K4-00016-CL93824-CP92064-01-06-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "30597",
+      "gender": "남성",
+      "age": "50대",
+      "occupation": "기능직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "중졸"
+    },
+    "speaker2": {
+      "participantID": "31049",
+      "gender": "남성",
+      "age": "40대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00016"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "93824",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 50대이다.",
+        "나는 일본어에 관심 없다.",
+        "나의 생일은 1월이다.",
+        "나는 다소 덤벙댄다.",
+        "나는 토끼 두 마리를 키운다.",
+        "나는 혈액형이 A형이다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "92064",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 K-POP 음악을 자주 듣는다.",
+        "나는 영국에 가봤다.",
+        "나는 실외에서 자전거 타는 것을 싫어한다.",
+        "나는 짠 음식을 즐겨 먹는다.",
+        "나는 혈액형이 A형이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "01-06",
+    "topicType": "식음료",
+    "topicTitle": "배달"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00016-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "반가워요 ~ 50대 남자입니다 ! 그쪽도 간략하게 소개 부탁드립니다 !",
+          "summary": "나는 50대 남성이다.",
+          "date": "2022-11-24",
+          "time": "00:01:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "반갑습니다! 저는 40대 남자입니다~! 잘 부탁드립니다!",
+          "summary": "나는 40대 남성이다.",
+          "date": "2022-11-24",
+          "time": "00:01:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "40대시구나 ~ 좋을나이네요 ! 요즘 날씨 너무추워졌어요 ~ 감기조심하세요!",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:01:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "춥긴 하더라고요..그래서 저는 실외에서 자전거 타는 것을 싫어해요..날씨 때문에...",
+          "summary": "나는 실외에서 자전거 타는 것을 싫어한다.",
+          "date": "2022-11-24",
+          "time": "00:01:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "어우. 요즘 같은날씨에 자전거타면 그냥 진짜 얼어버릴껄요? 저는 다소 덤벙대서 아예 자전거를 잘 타지도 못해요.",
+          "summary": "나는 다소 덤벙댄다.",
+          "date": "2022-11-24",
+          "time": "00:02:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "그러니까요! 다소 덤벙대면 자전거는 위험하겠네요..!",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:02:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "1월이 가장 추운거같아요 ! 제가또 그 가장 추운1월에 태어났구요..",
+          "summary": "나의 생일은 1월이다.",
+          "date": "2022-11-24",
+          "time": "00:02:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "아 1월에 생일이시군요! 미리 생일 축하드립니다!ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:02:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "하하 ~ 미리 감사합니다 ~ 그나저나 뭐하고계셨어요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:02:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "저는 저번에 영국에 가서 찍은 사진들좀 정리하고 있어요!ㅎㅎ.",
+          "summary": "나는 영국에 가봤다.",
+          "date": "2022-11-24",
+          "time": "00:03:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "영국 가셨구나 ! 진짜 좋았겠네요. @주소@여기도 가보셨어요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:03:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "아~거기도 갔다왔는데! 정말 좋더라고요! 너무 마음에 쏙 들었어요!",
+          "summary": "나는 @주소@에 갔다 왔는데 좋았다.",
+          "date": "2022-11-24",
+          "time": "00:03:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "대박이다. 진짜 거기 가는게 소원인데.. 제가 해외여행은 잘못갔네요. A형이라 좀 그런 도전적인걸 못해요! 여튼 저는 식사좀 하고 올께요 !",
+          "summary": "나는 혈액형이 A형이다.",
+          "date": "2022-11-24",
+          "time": "00:03:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "맛있게 저녁 드세요! 근데 저도 혈액형이 A형이긴 해요..ㅎㅎ연락주세요~",
+          "summary": "나는 혈액형이 A형이다.",
+          "date": "2022-11-24",
+          "time": "00:03:57",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 50대 남성이다.",
+          "나는 다소 덤벙댄다.",
+          "나의 생일은 1월이다.",
+          "나는 혈액형이 A형이다."
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 실외에서 자전거 타는 것을 싫어한다.",
+          "나는 영국에 가봤다.",
+          "나는 @주소@에 갔다 왔는데 좋았다.",
+          "나는 혈액형이 A형이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00016-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00016-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "와~ 음식 배달시켰는데, 너무 맛있어가지고 그냥 1시간만에 다먹어버렸네요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:04:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "아~잘하셨어요! 음식은 뭐 시켜서 드셨어요? 궁금하네요!",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:04:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "떡볶이 시켰어요 ! 저희동네 맛집인데, 진짜 맛있더라구요.",
+          "summary": "나는 떡볶이를 시켜먹었다.",
+          "date": "2022-11-24",
+          "time": "00:04:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "아~떡볶이 시키셨군요! 배달 떡볶이만의 매력이 있죠~",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:04:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "그러니까요 ! 그쪽은 저녁식사 하셨어요? 딱 저녁시간인데요 !",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:05:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "저는 아직 안먹었습니다! 저도 배달 시켜 먹을려고요!",
+          "summary": "나는 배달을 시켜먹으려고 한다.",
+          "date": "2022-11-24",
+          "time": "00:05:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "요즘 다들 시켜먹네요 ㅎㅎ.. 뭐 저도 시켜먹었지만요 ! 뭐드실려구요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:05:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "@이름@좋아하는 ! 저도 떡볶이 먹으려구요 ~",
+          "summary": "나는 떡볶이를 먹으려고 한다.",
+          "date": "2022-11-24",
+          "time": "00:05:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "@이름@이면 케이팝 가수 말씀하시는거 맞으시죠? 팬이신가보네요 ㅎㅎ..",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:05:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "네~제가 K-POP음악을 자주 듣거든요! 그래서 성향도 아는거에요ㅎㅎ.",
+          "summary": "나는 K-POP 음악을 자주 듣는다.",
+          "date": "2022-11-24",
+          "time": "00:06:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "이야. 40대이신데 엄청 젊게 사시는거같네요. 근데 @이름@이 떡볶이 좋아하는거 어떻게 아세요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:06:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "젊게 살아아죠~ㅎㅎ@이름@가 생방송하는거 보고 알았어요!",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:06:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "대단하네요 ㅎㅎ.. 여튼 저는 관심도 없는 일본어 공부좀 하러 가볼께요 ~ 회사일때문에요. 집에서 야근하러 가보겠습니다.",
+          "summary": "나는 일본어에 관심 없다.",
+          "date": "2022-11-24",
+          "time": "00:06:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "아이고..고생이네요! 그럼 일본어 공부 잘 하고 오세요~!",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:06:48",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 떡볶이를 시켜먹었다.",
+          "나는 일본어에 관심 없다."
+        ],
+        "speaker2": [
+          "나는 배달을 시켜먹으려고 한다.",
+          "나는 떡볶이를 먹으려고 한다.",
+          "나는 K-POP 음악을 자주 듣는다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 남성이다.",
+          "나는 다소 덤벙댄다.",
+          "나의 생일은 1월이다.",
+          "나는 혈액형이 A형이다."
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 실외에서 자전거 타는 것을 싫어한다.",
+          "나는 영국에 가봤다.",
+          "나는 @주소@에 갔다 왔는데 좋았다.",
+          "나는 혈액형이 A형이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00016-2",
+      "prevTimeInfo": {
+        "timeNum": "10",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00016-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "안녕하세요 ! 긴시간동안 연락 못드렸었네요 ~ 잘지내셨죠?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:07:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "네~저는 잘 지냈습니다! 오래간만에 연락하셨네요! 그쪽은요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:07:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "저도 잘지냈죠 ! 요즘 진짜 일본어 공부한다고 죽겠네요.",
+          "summary": "나는 일본어를 공부하고 있다.",
+          "date": "2022-11-24",
+          "time": "00:07:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "아~아직도 일본어 공부 하고 계신거에요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:07:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "네. 회화공부라서 더 어려운거 같아요. 일식 먹으면 좀더 잘할까 해서 요즘 일식만먹어요.",
+          "summary": "나는 일식만 먹는다.",
+          "date": "2022-11-24",
+          "time": "00:07:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "하하~농담으로 하시는거죠? 재밌네요! 회화가 어렵긴 하죠!",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:08:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "농담이죠. 그냥 요즘 일식음식 꽂혀가지고, 퇴근하면 집에와서 배달시켜 먹거든요 !",
+          "summary": "나는 일식에 꽂혔다.",
+          "date": "2022-11-24",
+          "time": "00:08:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "오~그렇구나! 어떤 일식 음식에 꽂히셨길래요? 궁금하네요!",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:08:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "그냥 뭐 덮밥류인거죠.. 그쪽은 배달시켜드세요? 아니면 주로 해드세요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:08:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "아~닾밥류에 꽂히셨구나! 저는 집에서 할수있는 음식은 하는편이에요!",
+          "summary": "나는 집에서 할 수 있는 음식은 하는 편이다.",
+          "date": "2022-11-24",
+          "time": "00:08:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "오~ 요리좀 하시나보네 ! 뭐 어떤음식을 가장 잘하세요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:08:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "저는 순두부찌개를 가장 잘하는 편입니다..ㅎㅎ.",
+          "summary": "나는 순두부찌개를 가장 잘한다.",
+          "date": "2022-11-24",
+          "time": "00:08:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "크. 그런게 좀 쉬우면서도 어렵잖아요. 여튼 저는 다시 공부좀 하러 가볼께요 !",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:08:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "맞아요! 원래 찌개류가 정말 쉬우면서 어려운거에요...수고하세요!",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:08:58",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 일본어를 공부하고 있다.",
+          "나는 일식만 먹는다.",
+          "나는 일식에 꽂혔다."
+        ],
+        "speaker2": [
+          "나는 집에서 할 수 있는 음식은 하는 편이다.",
+          "나는 순두부찌개를 가장 잘한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 남성이다.",
+          "나는 다소 덤벙댄다.",
+          "나의 생일은 1월이다.",
+          "나는 혈액형이 A형이다.",
+          "나는 떡볶이를 시켜먹었다.",
+          "나는 일본어에 관심 없다."
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 실외에서 자전거 타는 것을 싫어한다.",
+          "나는 영국에 가봤다.",
+          "나는 @주소@에 갔다 왔는데 좋았다.",
+          "나는 혈액형이 A형이다.",
+          "나는 배달을 시켜먹으려고 한다.",
+          "나는 떡볶이를 먹으려고 한다.",
+          "나는 K-POP 음악을 자주 듣는다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00016-3",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00016-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "안녕하세요 ! 거의 한주만에 연락드리네요 ! 5일만이죠?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:09:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "반갑네요 정말! 그러게요~일본어 공부는 잘 하고 계신가요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:09:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "하~ 그냥 포기했어요 ! 회사에도 말했어요. 무슨 내가 이나이먹고 공부해야 하냐고 ㅎㅎ..",
+          "summary": "나는 일본어 공부를 포기했다.",
+          "date": "2022-11-24",
+          "time": "00:09:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "하하~그랬군요! 그렇게 얘기하니 회사에서는 뭐라고 하던가요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:09:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "열심히 할필요 없다고 하더라구요. 저는 막 대충하는거 별로 안좋아해서요.",
+          "summary": "나는 대충 하는 걸 별로 안 좋아한다.",
+          "date": "2022-11-24",
+          "time": "00:09:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "아~그렇구나..! 뭐 어쨌든 회사에서는 잘 얘기하긴 했네요ㅋㅋ.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:09:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "그나저나 주말인데 뭐하고 계셨어요? 궁금하네요 ~",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:09:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "저는 떡볶이 요리하고 있었습니다! 재밌네요!",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:09:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "하하. 떡볶이 꽤좋아하시나보네요. 아니면 @이름@이 좋아해서 좋아하시는건가..",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:10:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "뭐 좋아하는 것도 있고! @이름@이 좋아해서 하는것도 있고 둘다에요!",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:10:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "하하. 저도 오늘 떡볶이나 시켜 먹을까봐요. 매운걸로요 !",
+          "summary": "나는 떡볶이나 시켜먹을까 한다.",
+          "date": "2022-11-24",
+          "time": "00:10:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "오~좋죠! 떡볶이는 원래 배달로 시켜먹는 떡볶이가 찐이죠!",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:10:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "93824",
+          "participantID": "30597",
+          "utterance": "네~ 그러면 점심먹고 다시 연락드릴께요 ~ 그쪽도 맛있게 드세요 ~",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:10:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92064",
+          "participantID": "31049",
+          "utterance": "그래요! 그럼 점심 식사 맛있게 하세요! 또 연락합시다~",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "00:10:42",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 일본어 공부를 포기했다.",
+          "나는 대충 하는 걸 별로 안 좋아한다.",
+          "나는 떡볶이나 시켜먹을까 한다."
+        ],
+        "speaker2": []
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 남성이다.",
+          "나는 다소 덤벙댄다.",
+          "나의 생일은 1월이다.",
+          "나는 혈액형이 A형이다.",
+          "나는 떡볶이를 시켜먹었다.",
+          "나는 일본어에 관심 없다.",
+          "나는 일본어를 공부하고 있다.",
+          "나는 일식만 먹는다.",
+          "나는 일식에 꽂혔다."
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 실외에서 자전거 타는 것을 싫어한다.",
+          "나는 영국에 가봤다.",
+          "나는 @주소@에 갔다 왔는데 좋았다.",
+          "나는 혈액형이 A형이다.",
+          "나는 배달을 시켜먹으려고 한다.",
+          "나는 떡볶이를 먹으려고 한다.",
+          "나는 K-POP 음악을 자주 듣는다.",
+          "나는 집에서 할 수 있는 음식은 하는 편이다.",
+          "나는 순두부찌개를 가장 잘한다."
+        ]
+      }
+    }
+  ]
+}

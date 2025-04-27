@@ -1,0 +1,453 @@
+{
+  "FileInfo": {
+    "filename": "K2-00025-CL21595-CP22193-07-03-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "1886",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "기능직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "1865",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00025"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "21595",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 물고기 한 마리를 키운다.",
+        "나는 마케팅 및 홍보 담당이다.",
+        "나는 일식을 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22193",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 힐링 여행을 좋아한다.",
+        "나는 2년 전에 해외 봉사활동을 다녀왔다.",
+        "나는 한식을 즐겨 먹는다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "07-03",
+    "topicType": "개인 및 관계>가족",
+    "topicTitle": "아버지"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00025-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21595",
+          "participantID": "1886",
+          "utterance": "안녕하세요! 저는 20대 여자입니다^^ 반가워요!",
+          "summary": "나는 20대 여자다.",
+          "date": "2022-10-17",
+          "time": "08:40:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22193",
+          "participantID": "1865",
+          "utterance": "안녕하세요~ 저도 20대 여자예요ㅎㅎ 한식 킬러라고 불러주세요.",
+          "summary": "나는 20대 여자다. 나는 한식 킬러이다.",
+          "date": "2022-10-17",
+          "time": "08:40:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21595",
+          "participantID": "1886",
+          "utterance": "한식 킬러요?ㅎㅎ 한식을 되게 좋아하시나봐요.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:40:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22193",
+          "participantID": "1865",
+          "utterance": "넵ㅋㅋㅋ 한식을 즐겨 먹어요. 전 뼛속부터 한국인이랍니닷...",
+          "summary": "나는 한식을 즐겨 먹는다.",
+          "date": "2022-10-17",
+          "time": "08:40:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21595",
+          "participantID": "1886",
+          "utterance": "앜ㅋㅋㅋ 좋으시네요! 저랑 비슷한 거 같은데요?",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:41:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22193",
+          "participantID": "1865",
+          "utterance": "님도 한식을 좋아하시나요?ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:41:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21595",
+          "participantID": "1886",
+          "utterance": "네ㅋㅋㅋ 저도 한국인이라 한식 좋아하죠! 근데 일식은 싫어해요.",
+          "summary": "나는 한식을 좋아한다. 나는 일식을 싫어한다.",
+          "date": "2022-10-17",
+          "time": "08:41:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22193",
+          "participantID": "1865",
+          "utterance": "앜ㅋㅋㅋㅋ 진심 한국인의 피가 맞사옵니다...ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:41:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21595",
+          "participantID": "1886",
+          "utterance": "ㅋㅋㅋㅋ 재밌네요. 혹시 다른 취미는 없으세요?",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:41:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22193",
+          "participantID": "1865",
+          "utterance": "저는 힐링 여행을 좋아해요~ 2년 전에 해외 봉사활동 다녀온 이후로 꾸준히 하고 있어요.",
+          "summary": "나는 힐링 여행을 좋아한다. 나는 2년 전에 해외 봉사활동을 다녀왔었다.",
+          "date": "2022-10-17",
+          "time": "08:41:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21595",
+          "participantID": "1886",
+          "utterance": "오ㅋㅋㅋㅋ 봉사가 힐링이라는 그런 마인드인가봐요.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:42:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22193",
+          "participantID": "1865",
+          "utterance": "네네ㅎㅎ 맞아요. 봉사가 곧 힐링이죠!",
+          "summary": "나는 봉사가 곧 힐링이다.",
+          "date": "2022-10-17",
+          "time": "08:42:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21595",
+          "participantID": "1886",
+          "utterance": "제가 마케팅 및 홍보 담당이라 그런가, 그거 아이디어로 써도 돼요?",
+          "summary": "나는 마케팅 및 홍보 담당이다.",
+          "date": "2022-10-17",
+          "time": "08:42:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22193",
+          "participantID": "1865",
+          "utterance": "물론이죠ㅋㅋㅋㅋㅋ 뭔가 뿌듯하면서도 기분이 좋은데요?",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:42:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21595",
+          "participantID": "1886",
+          "utterance": "하하ㅎㅎ 그런가요?ㅋㅋ 앗 그나저나 전 제가 키우는 물고기 한 마리 밥 주러 갑니다!",
+          "summary": "나는 물고기를 한 마리 키운다.",
+          "date": "2022-10-17",
+          "time": "08:42:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22193",
+          "participantID": "1865",
+          "utterance": "물고기 밥 맛있게 주고 오세용~ㅎㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:42:56",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자다.",
+          "나는 한식을 좋아한다. 나는 일식을 싫어한다.",
+          "나는 마케팅 및 홍보 담당이다.",
+          "나는 물고기를 한 마리 키운다."
+        ],
+        "speaker2": [
+          "나는 20대 여자다. 나는 한식 킬러이다.",
+          "나는 한식을 즐겨 먹는다.",
+          "나는 힐링 여행을 좋아한다. 나는 2년 전에 해외 봉사활동을 다녀왔었다.",
+          "나는 봉사가 곧 힐링이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00025-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00025-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21595",
+          "participantID": "1886",
+          "utterance": "밥을 한 시간이나 주고 왔어요ㅎㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:43:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22193",
+          "participantID": "1865",
+          "utterance": "물고기가 좋아하던가요?ㅋㅋㅋ 왠지 상상하니까 귀엽다!",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:43:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21595",
+          "participantID": "1886",
+          "utterance": "네네ㅋㅋㅋ 뻐끔뻐끔거려서 졸귀더라고요!",
+          "summary": "나는 물고기가 입을 뻐끔거리는 게 귀엽다고 생각한다.",
+          "date": "2022-10-17",
+          "time": "08:43:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22193",
+          "participantID": "1865",
+          "utterance": "헤헿...부럽네요. 그나저나 저는 아버지한테 연락하고 왔어요.",
+          "summary": "나는 아버지에게 연락하고 왔다.",
+          "date": "2022-10-17",
+          "time": "08:43:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21595",
+          "participantID": "1886",
+          "utterance": "오~ㅎㅎ 따로 사시나 봐요! 무슨 내용 대화 하셨는데요?",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:43:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22193",
+          "participantID": "1865",
+          "utterance": "사실 독립한 지 얼마 안 돼서요ㅎㅎ 아버지가 저희 집 오신다고 해서 알려드렸어요.",
+          "summary": "나는 독립한 지 얼마 안 됐다. 나의 아버지는 내 집을 방문한다고 하신다.",
+          "date": "2022-10-17",
+          "time": "08:44:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21595",
+          "participantID": "1886",
+          "utterance": "오ㅋㅋ어머니도 같이 오시는 건가요?!",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:44:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22193",
+          "participantID": "1865",
+          "utterance": "아... 사실 저는 어머니가 돌아가셨답니다. 그래서 아버지만 계세요.",
+          "summary": "나의 어머니는 돌아가셨다.",
+          "date": "2022-10-17",
+          "time": "08:44:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21595",
+          "participantID": "1886",
+          "utterance": "헉ㅜㅜ 제가 너무 당연하다는듯이 말실수를 해버렸네요.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:44:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22193",
+          "participantID": "1865",
+          "utterance": "괜찮아요ㅎㅎ 어렸을 때부터 많이 겪은 일이거든요.",
+          "summary": "나는 어렸을 때부터 어머니가 돌아가셨다.",
+          "date": "2022-10-17",
+          "time": "08:44:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21595",
+          "participantID": "1886",
+          "utterance": "그래도 아버지랑 애틋하시겠어요~ㅠㅠ 근데 따로 떨어져 살아서 어떡해요?",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:45:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22193",
+          "participantID": "1865",
+          "utterance": "사실 저도 일만 아니면 같이 사는 건데, 직장이 본가랑 머네요.",
+          "summary": "나는 일 때문에 독립했다. 나의 직장과 본가는 멀다.",
+          "date": "2022-10-17",
+          "time": "08:45:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21595",
+          "participantID": "1886",
+          "utterance": "안타깝네요. 청년 일자리가 너무 적은 게 현실인 것 같아요.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:45:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22193",
+          "participantID": "1865",
+          "utterance": "그쵸그쵸 ㅠ.ㅠ 저도 이러고 싶진 않았다구요!",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:45:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21595",
+          "participantID": "1886",
+          "utterance": "그래도 돈 열심히 벌어서 아버님이랑 행복하게 지내세용ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:45:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22193",
+          "participantID": "1865",
+          "utterance": "헤헤 네~ 감사합니다^^ 아버지랑 또 연락하고 올게요.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "08:46:02",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 물고기가 입을 뻐끔거리는 게 귀엽다고 생각한다."
+        ],
+        "speaker2": [
+          "나는 아버지에게 연락하고 왔다.",
+          "나는 독립한 지 얼마 안 됐다. 나의 아버지는 내 집을 방문한다고 하신다.",
+          "나의 어머니는 돌아가셨다.",
+          "나는 어렸을 때부터 어머니가 돌아가셨다.",
+          "나는 일 때문에 독립했다. 나의 직장과 본가는 멀다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자다.",
+          "나는 한식을 좋아한다. 나는 일식을 싫어한다.",
+          "나는 마케팅 및 홍보 담당이다.",
+          "나는 물고기를 한 마리 키운다."
+        ],
+        "speaker2": [
+          "나는 20대 여자다. 나는 한식 킬러이다.",
+          "나는 한식을 즐겨 먹는다.",
+          "나는 힐링 여행을 좋아한다. 나는 2년 전에 해외 봉사활동을 다녀왔었다.",
+          "나는 봉사가 곧 힐링이다."
+        ]
+      }
+    }
+  ]
+}

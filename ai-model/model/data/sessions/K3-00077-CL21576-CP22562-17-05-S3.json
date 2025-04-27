@@ -1,0 +1,674 @@
+{
+  "FileInfo": {
+    "filename": "K3-00077-CL21576-CP22562-17-05-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0603",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0604",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00077"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "21576",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 앵무새를 키우고 싶다.",
+        "나는 정치외교학부가 부전공이다.",
+        "나는 베이스 연주를 자주 한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22562",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 무슨 일이든지 빨리 한다.",
+        "나는 병원에 가는 것을 싫어한다.",
+        "나는 달리기를 자주 한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "17-05",
+    "topicType": "미용과 건강>건강",
+    "topicTitle": "치료"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00077-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "안녕하세요. 날씨가 참 좋아 기분좋은날이네요. 저느 20대 여자에요.",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-10-04",
+          "time": "22:48:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "네. 날씨가 정말 좋죠~ 반가워요. 저도 20대 여자입니다.",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-10-04",
+          "time": "22:48:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "그러시구나. 그럼 학생이에요? 저도 학생이거든요.",
+          "summary": "나는 학생이다.",
+          "date": "2022-10-04",
+          "time": "22:49:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "네. 학생이에요. 곧 있으면 졸업을 앞두고 있어서 걱정이 많습니다.",
+          "summary": "나는 학생이다. 졸업을 앞두고 있어 걱정이 많다.",
+          "date": "2022-10-04",
+          "time": "22:49:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "아.. 선배님이시네요. 전 2학년 이거든요. ㅠㅠ 저희 선배들도 취업 걱정 많이하던데~",
+          "summary": "나는 2학년이다.",
+          "date": "2022-10-04",
+          "time": "22:50:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "네네... 요즘 시대가 시대이니만큼 취업이 어려우니 다들 고민이겠죠. 2학년이면 그래도 놀때죠~ㅋ.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "22:50:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "ㅎㅎ 무슨 전공이신데요? 전 행정학과인데 정치외교학부도 부전공하고 있어요.",
+          "summary": "나는 행정학과이다. 나는 정치외교학부를 부전공으로 하고 있다.",
+          "date": "2022-10-04",
+          "time": "22:52:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "우와~ 두개씩이나요? 대단하신걸요. 놀 시간이 없으실듯요..ㅋㅋㅋ 저는 문헌정보학과에요.",
+          "summary": "나는 문헌정보학과를 다녔다.",
+          "date": "2022-10-04",
+          "time": "22:52:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "ㅎㅎ 제가 성실한 편이기도하고 정치에 관심이 많아서 같이 공부하고 있어요.",
+          "summary": "나는 성실한 편이다. 나는 정치에 관심이 많다.",
+          "date": "2022-10-04",
+          "time": "22:53:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "그러시구나. 제가 배워야 할 판이네요.ㅋㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "22:54:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "에이~ 선배님도 잘 하실텐데요. 전 밴드 동아리 활동하고 있어요. 거기서 베이스 치는데 연주를 자주하네요.",
+          "summary": "나는 밴드 동아리 활동을 하고 있다. 나는 베이스 연주를 자주 한다.",
+          "date": "2022-10-04",
+          "time": "22:55:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "밴드활동까지요? 다재다능하시구나. ㅋㅋㅋ 저는 무슨 일이든지 빨리하는 편인데, 저도 못따라갈거 같아요.ㅋㅋ.",
+          "summary": "나는 무슨 일이든지 빨리하는 편이다.",
+          "date": "2022-10-04",
+          "time": "22:56:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "ㅎㅎ 제가 기타를 너무 치고 싶어서 들어가 배웠어요. 동화리 활동 하시는건 없으세요?",
+          "summary": "나는 기타를 너무 치고 싶어서 배웠다.",
+          "date": "2022-10-04",
+          "time": "22:57:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "합창동아리 활동 했었는데, 지금은 잠시 접었어요. 잘 안가게 되더라구요.",
+          "summary": "나는 합창동아리 활동을 했다.",
+          "date": "2022-10-04",
+          "time": "22:57:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "저희 동아리도 4학년 선배들은 잘 안오시더라구요. 바쁘시니까요. 약속이 있어서 다음에 다시 뵈요.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "22:58:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "네네. 다음에 또 이야기 해요. 잘 다녀오세요.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "22:58:46",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 학생이다.",
+          "나는 2학년이다.",
+          "나는 행정학과이다. 나는 정치외교학부를 부전공으로 하고 있다.",
+          "나는 성실한 편이다. 나는 정치에 관심이 많다.",
+          "나는 밴드 동아리 활동을 하고 있다. 나는 베이스 연주를 자주 한다.",
+          "나는 기타를 너무 치고 싶어서 배웠다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 학생이다. 졸업을 앞두고 있어 걱정이 많다.",
+          "나는 문헌정보학과를 다녔다.",
+          "나는 무슨 일이든지 빨리하는 편이다.",
+          "나는 합창동아리 활동을 했다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00077-1",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00077-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "안녕하세요~일주일 가까이가 지났네요.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "22:58:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "네. 그동안 별일 없으셨나요? 저는 잘 지냈습니다.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "22:59:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "전 동아리 연주회가 있어서 준비하면서 지냈어요.",
+          "summary": "나는 동아리 연주회 준비 중이다.",
+          "date": "2022-10-04",
+          "time": "23:00:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "아. 그랬군요. 저는 이것저것 자료 정리한다고 컴퓨터를 많이 사용했더니 손목이 좀 아프네요.",
+          "summary": "나는 손목이 아프다. 컴퓨터를 많이 사용했기 때문이다.",
+          "date": "2022-10-04",
+          "time": "23:00:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "ㅠㅠ 아이쿠 병원은 가보셨어요? 저도 베이스 연주하는데 너무 열심히 했는지 손가락 통증이 있더라구요.",
+          "summary": "나는 베이스 연주로 인해 손가락 통증이 있다.",
+          "date": "2022-10-04",
+          "time": "23:02:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "저는 병원 가는 것을 싫어해서 파스로 연명하고 있습니다.ㅋㅋ.",
+          "summary": "나는 병원 가기가 싫다.",
+          "date": "2022-10-04",
+          "time": "23:02:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "ㅋㅋ 저도 그냥그냥 가라 안기를 기다리고 있어요. 이런걸로 병원가는게 좀 어색해서요.",
+          "summary": "나는 그냥 통증이 가라앉기를 기다리고 있다. 나는 병원 가는 게 좀 어색하다.",
+          "date": "2022-10-04",
+          "time": "23:03:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "병원을 가야 금방 낫는 것 같기는 한데ㅋㅋㅋ 저는 좀 병을 키우는 스타일 같아요...",
+          "summary": "나는 병을 키우는 스타일이다.",
+          "date": "2022-10-04",
+          "time": "23:03:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "병원 가는거 불편하고 좀 그래요. ㅋ 부모님들은 진짜 자주 가던데.. 말이죠.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "23:04:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "네. 그래도 주변에 있는 사람들 보면, 병원에 다녀와야 다음에 더 안아프고 그렇긴 하더라구요.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "23:05:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "ㅎㅎ 그렇긴하죠. 그럼 취업준비는 어느쪽으로 하시는 거에요?",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "23:06:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "도서관사서를 준비중이에요. 잘 될지는 모르겠지만요.",
+          "summary": "나는 도서관 사서를 준비 중이다.",
+          "date": "2022-10-04",
+          "time": "23:06:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "그러시구나. 서서도 자격증 같은게 있나요?",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "23:07:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "네. 요즘에는 있더라구요. 저도 자격증 시험 공부하고 있어요.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "23:07:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "아~ 그렇구나. ㅎㅎ 오늘은 좀 피곤해서 쉬고싶어서요. 다음에 다시 대화해요.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "23:08:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "네. 편안한 쉼이 되시길요. 다음에 또 봐요.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "23:09:06",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 동아리 연주회 준비 중이다.",
+          "나는 베이스 연주로 인해 손가락 통증이 있다.",
+          "나는 그냥 통증이 가라앉기를 기다리고 있다. 나는 병원 가는 게 좀 어색하다."
+        ],
+        "speaker2": [
+          "나는 손목이 아프다. 컴퓨터를 많이 사용했기 때문이다.",
+          "나는 병원 가기가 싫다.",
+          "나는 병을 키우는 스타일이다.",
+          "나는 도서관 사서를 준비 중이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 학생이다.",
+          "나는 2학년이다.",
+          "나는 행정학과이다. 나는 정치외교학부를 부전공으로 하고 있다.",
+          "나는 성실한 편이다. 나는 정치에 관심이 많다.",
+          "나는 밴드 동아리 활동을 하고 있다. 나는 베이스 연주를 자주 한다.",
+          "나는 기타를 너무 치고 싶어서 배웠다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 학생이다. 졸업을 앞두고 있어 걱정이 많다.",
+          "나는 문헌정보학과를 다녔다.",
+          "나는 무슨 일이든지 빨리하는 편이다.",
+          "나는 합창동아리 활동을 했다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00077-2",
+      "prevTimeInfo": {
+        "timeNum": "33",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00077-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "한달이 넘었어요. 잘 지내셨죠?",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "23:09:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "네. 시간이 정말 빠르네요. 잘 지내셨어요? 반가워요.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "23:09:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "ㅎㅎ 전 새를 좋아해서 최근에 앵무세 카페 다녀왔는데 너무 예쁘더라구요.",
+          "summary": "나는 새를 좋아한다. 나는 최근에 앵무새 카페를 다녀왔다.",
+          "date": "2022-10-04",
+          "time": "23:14:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "아. 새를 좋아하세요? 우와~ 저는 조류종류는 너무 무서워요..ㅠㅠ.",
+          "summary": "나는 조류를 무서워한다.",
+          "date": "2022-10-04",
+          "time": "23:11:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "정말요? 앵무새 너무 에쁘더라구요. 말은 잘 안따라 하지만요.ㅋㅋ 가서 보니까 앵무새를 키우고 싶더라구요.",
+          "summary": "나는 앵무새가 너무 예쁘다. 나는 앵무새를 키우고 싶다.",
+          "date": "2022-10-04",
+          "time": "23:12:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "그러시구나.... 제가 생각하지 못한 생각을 하시네요... 저는 생각만해도 소름이....",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "23:12:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "ㅋㅋㅋ 그럼 동물들은 다 힘드세요? 반려동물 못키우시겠네요.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "23:13:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "특히나 조류종류를 싫어하구요... 다른것들은... 그냥.. 보는 정도.... 만지지는 못하겠어요.",
+          "summary": "나는 조류는 보는 것만으로도 싫다.",
+          "date": "2022-10-04",
+          "time": "23:13:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "ㅎㅎ 그러시구나. 그럼 가족하고 같이사시는 거에요?",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "23:14:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "네. 아직까지 가족들의 도움을 받으면서 지내고 있네요. 얼른 독립해야 하는데... 민폐죠...ㅋ.",
+          "summary": "나는 가족들과 함께 산다. 하지만 독립하고 싶다.",
+          "date": "2022-10-04",
+          "time": "23:15:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "아직 학생이신데요. 저도 가족이랑 같이살아서 반려동물은 못키워요.",
+          "summary": "나는 가족들과 같이 살고 있다.",
+          "date": "2022-10-04",
+          "time": "23:16:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "네네. 저는 요즘 스트레스 받거나 힘들면 달기리를 자주 해요. 뛰고 나면 좀 시원해지더라구요.",
+          "summary": "나는 스트레스를 받으면 달리기를 자주 한다. 뛰고 나면 시우 너 해 지기 때문이다.",
+          "date": "2022-10-04",
+          "time": "23:17:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "아.. 운동 좋아하시나보다. 전 몸 움직이는걸 싫어하거든요 ㅋㅋ.",
+          "summary": "나는 몸 움직이는 것을 싫어한다.",
+          "date": "2022-10-04",
+          "time": "23:18:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "다른 운동은 잘 못하는데, 그래도 달리기는 그냥 하면 되니까요...ㅋㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "23:18:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21576",
+          "participantID": "0603",
+          "utterance": "ㅋㅋㅋㅋ 그렇긴 하네요. 대화 즐거웠어요. 제가 정리하고 나가봐야해서요. 남은 하루 즐겁게 보내세요.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "23:19:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22562",
+          "participantID": "0604",
+          "utterance": "네. 저도 대화 즐거웠어요. 행복한 하루 보내세요.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "23:19:20",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 새를 좋아한다. 나는 최근에 앵무새 카페를 다녀왔다.",
+          "나는 앵무새가 너무 예쁘다. 나는 앵무새를 키우고 싶다.",
+          "나는 가족들과 같이 살고 있다.",
+          "나는 몸 움직이는 것을 싫어한다."
+        ],
+        "speaker2": [
+          "나는 조류를 무서워한다.",
+          "나는 조류는 보는 것만으로도 싫다.",
+          "나는 가족들과 함께 산다. 하지만 독립하고 싶다.",
+          "나는 스트레스를 받으면 달리기를 자주 한다. 뛰고 나면 시우 너 해 지기 때문이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 학생이다.",
+          "나는 2학년이다.",
+          "나는 행정학과이다. 나는 정치외교학부를 부전공으로 하고 있다.",
+          "나는 성실한 편이다. 나는 정치에 관심이 많다.",
+          "나는 밴드 동아리 활동을 하고 있다. 나는 베이스 연주를 자주 한다.",
+          "나는 기타를 너무 치고 싶어서 배웠다.",
+          "나는 동아리 연주회 준비 중이다.",
+          "나는 베이스 연주로 인해 손가락 통증이 있다.",
+          "나는 그냥 통증이 가라앉기를 기다리고 있다. 나는 병원 가는 게 좀 어색하다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 학생이다. 졸업을 앞두고 있어 걱정이 많다.",
+          "나는 문헌정보학과를 다녔다.",
+          "나는 무슨 일이든지 빨리하는 편이다.",
+          "나는 합창동아리 활동을 했다.",
+          "나는 손목이 아프다. 컴퓨터를 많이 사용했기 때문이다.",
+          "나는 병원 가기가 싫다.",
+          "나는 병을 키우는 스타일이다.",
+          "나는 도서관 사서를 준비 중이다."
+        ]
+      }
+    }
+  ]
+}

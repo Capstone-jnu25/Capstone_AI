@@ -1,0 +1,493 @@
+{
+  "FileInfo": {
+    "filename": "K2-00184-CL20230-CP22103-08-05-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0206",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0078",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00184"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "20230",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 요즘, 자주 우울하다.",
+        "나는 병무청 공무원이다.",
+        "나는 맛있는 음식을 먹으면 스트레스가 풀린다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22103",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 다소 긍정적이다.",
+        "나는 마케팅 및 홍보 담당이다.",
+        "나는 전자책을 잘 활용한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "08-05",
+    "topicType": "개인 및 관계>연애/결혼",
+    "topicTitle": "육아"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "2-00184-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "20대 남자입니다. 반갑습니다. 처음 뵙네요.",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-09-15",
+          "time": "18:49:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "반가워요. 저도 20대 여자에요. 잘 부탁드립니당.",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-09-15",
+          "time": "18:49:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "잘 부탁드립니다. 어떤 일 하시는 분이세요?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:50:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "저는 광고 회사에 다니고 있어요. 님은요?",
+          "summary": "나는 마케팅 및 홍보 담당이다.",
+          "date": "2022-09-15",
+          "time": "18:50:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "저는 병무청 공무원인데 재밌어보이는 일이네요.",
+          "summary": "나는 병무청 공무원이다.",
+          "date": "2022-09-15",
+          "time": "18:50:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "아~ 그렇구낭.ㅎㅎ 일이 재밌기는 해요.",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:50:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "저는 요즘 일이 재미없어서 자주 우울한거같아요.",
+          "summary": "나는 요즘 자주 우울하다.",
+          "date": "2022-09-15",
+          "time": "18:50:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "그래요? 전 긍정적으로 살려고 노력중인데.. 긍정파워를 나눠줄게요.ㅋㅋ.",
+          "summary": "나는 다소 긍정적이다.",
+          "date": "2022-09-15",
+          "time": "18:50:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "좋네요~ 감사합니다. 좀 힘내 볼게요!",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:51:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "우울하면 스트레스 날아가게 맛있는거 드세요.ㅎ.",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:51:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "아~ 그렇죠. 맛있는거 먹으면 또 힘이나죠.",
+          "summary": "나는 맛있는 음식을 먹으면 스트레스가 풀린다.",
+          "date": "2022-09-15",
+          "time": "18:51:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "그쵸?ㅋㅋ 맛있는거 어떤거 좋아하세요?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:51:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "저는 피자를 좋아해요. 피자가 제일 맛있는거같아요.",
+          "summary": "나는 피자를 좋아한다.",
+          "date": "2022-09-15",
+          "time": "18:51:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "피자도 좋죠~ㅋㅋ 미국식 피자 좋아하시는거에요?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:52:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "맞아요! 요즘 디트로이트 피자 그거 너무 맛있던데.",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:52:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "그럼 배달은 보통 어디다가 시켜요?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:52:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "저는 보통은 @브랜드명1@요. 배고파지네요 ㅎㅎ...",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:52:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "오옹. 그렇구나. 거긴 한번도 먹어본적 없는데. 다음에 먹어봐야겠네요.ㅋㅋ 그럼 다음에 봐요~",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:52:33",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 병무청 공무원이다.",
+          "나는 요즘 자주 우울하다.",
+          "나는 맛있는 음식을 먹으면 스트레스가 풀린다.",
+          "나는 피자를 좋아한다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 마케팅 및 홍보 담당이다.",
+          "나는 다소 긍정적이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00184-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "2-00184-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "이틀만입니다. 잘 지내시고 계신가요?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:52:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "네.ㅎ 전 일 관두려고 정리중이에요.",
+          "summary": "나는 퇴사를 한다.",
+          "date": "2022-09-15",
+          "time": "18:52:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "왜요? 어디로 이직 하시는건가요?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:53:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "제가 임신을 했거든요. 아이 키우려면 일 관둬야죵.",
+          "summary": "나는 임신을 했다.",
+          "date": "2022-09-15",
+          "time": "18:53:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "아하... 임신 휴가도 잘 안주나보네요. 슬프다...",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:53:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "주긴 하는데. 아이를 키우려면 최소 15년은 쉬어야할거같아서요..ㅋㅋ.",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:53:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "그때까지 전업주부로 사시려고요? 남편분이 잘 버나봐요 ㅋㅋ.",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:53:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "넹. 남편이 잘 버니까 괜찮아요~ 엄마로 사는게 꿈이라서 만족해요.ㅎㅎ.",
+          "summary": "나는 요즘 만족스럽다.",
+          "date": "2022-09-15",
+          "time": "18:54:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "저는 제가 박봉이라 ㅠㅠ... 저는 맞벌이 해야할거같아요.",
+          "summary": "나는 월급이 적다.",
+          "date": "2022-09-15",
+          "time": "18:54:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "그렇구낭.. 맞벌이 하면 @이름1@우기 힘드시겠어요.",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:54:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "그러게요... 그래도 공무원이니까 휴가 잘 써봐야죠.",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:54:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "힘드시겠당.. 그럼 님은 결혼 하신건가요?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:54:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "아직 결혼도 안했지만 김칫국이긴하네요 ㅋㅋ.",
+          "summary": "나는 미혼이다.",
+          "date": "2022-09-15",
+          "time": "18:54:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "아~ 그렇구나.ㅎㅎ 그럼 상대분은 계세요?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:55:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "금방 또 짝이 될거같아요. 같은 공무원 부부로요.",
+          "summary": "나는 곧 결혼할 것 같다.",
+          "date": "2022-09-15",
+          "time": "18:55:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "아 그래요? 공무원 부부가 트렌드긴 하죠.ㅎㅎ 연금시너지가 대박이잖아요~",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:55:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20230",
+          "participantID": "0206",
+          "utterance": "네 ㅎㅎ... 다음에 또 연락할게요. 태교 잘 하세요.",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:55:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22103",
+          "participantID": "0078",
+          "utterance": "넹~ 그럼 다음에 또 봐요.ㅎㅎ 대화 즐거웠어요~",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "18:55:51",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 월급이 적다.",
+          "나는 미혼이다.",
+          "나는 곧 결혼할 것 같다."
+        ],
+        "speaker2": [
+          "나는 퇴사를 한다.",
+          "나는 임신을 했다.",
+          "나는 요즘 만족스럽다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 병무청 공무원이다.",
+          "나는 요즘 자주 우울하다.",
+          "나는 맛있는 음식을 먹으면 스트레스가 풀린다.",
+          "나는 피자를 좋아한다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 마케팅 및 홍보 담당이다.",
+          "나는 다소 긍정적이다."
+        ]
+      }
+    }
+  ]
+}

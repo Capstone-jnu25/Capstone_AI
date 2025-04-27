@@ -1,0 +1,718 @@
+{
+  "FileInfo": {
+    "filename": "K3-00091-CL03149-CP01420-16-04-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0093",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0076",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00091"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "03149",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 가족과 별로 연락을 하지 않는다.",
+        "나는 백화점 판매원이다.",
+        "나는 스포츠 TV를 좋아한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "01420",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나의 어머니는 요리사이다.",
+        "내 인생에서 가장 설레던 때는 여행 짐을 꾸릴 때이다.",
+        "나는 자기 계발서를 싫어한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "16-04",
+    "topicType": "미용과 건강>미용",
+    "topicTitle": "다이어트"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "3-00091-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "안녕하세요 40대 남자입니다.",
+          "summary": "나는 40대 남성이다.",
+          "date": "2022-08-23",
+          "time": "13:54:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "안녕하세요 20대 남자입니다.",
+          "summary": "나는 20대 남성이다.",
+          "date": "2022-08-24",
+          "time": "11:19:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "네 반가워요 평소에 어떻게 지내세요?",
+          "summary": "",
+          "date": "2022-08-23",
+          "time": "14:03:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "저는 평일에는 직장 다니고 주말에는 친구들이랑 여행 다녀요^^.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:19:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "여행 좋죠. 최근에는 어디로 다녀오셨어요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:28:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "최근에 제주도 다녀왔었어요ㅎㅎ. 여름 휴가로 다녀왔거든요!",
+          "summary": "나는 최근에 제주도로 여름휴가를 다녀왔다.",
+          "date": "2022-08-24",
+          "time": "11:30:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "제주도 부러워요. 전 여행을 안간지 꽤 됐거든요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:30:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "쉴 때 어떻게 보내시는데요?! 바쁘신가요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:31:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "저는 백화점 판매원이에요. 주 6일 근무라 요즘 좀 바쁘네요^^",
+          "summary": "나는 백화점 판매원이다.",
+          "date": "2022-08-24",
+          "time": "11:31:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "백화점이면 주말에도 일하시나요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:32:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "네 지금은 평일에 하루 쉬어요. 여행 가기가 애매하죠?^^",
+          "summary": "나는 주에 평일에 1일 쉰다.",
+          "date": "2022-08-24",
+          "time": "11:32:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "그렇겠네요ㅠㅠ.전 진짜 인생에서 제일 설레는 때가 여행 짐 꾸릴 때거든요...아쉽네요ㅠ.",
+          "summary": "내 인생에서 가장 설레던 때는 여행 짐을 꾸릴 때이다.",
+          "date": "2022-08-24",
+          "time": "11:33:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "제 몫까지 다녀오시면 되죠^^. 이번엔 어디로 다니시려구요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:35:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "이번에는 부산으로 다녀오려구요! 부산 오랜만에 가거든요ㅎㅎ.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:35:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "부산 너무 신나겠는데요? 회랑 소주도 한접시 하세요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:35:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "당연히 해야죠~^^ 회랑 소주 조합 제가 제일 좋아하는 조합이거든요^^.",
+          "summary": "나는 회와 소주를 좋아한다.",
+          "date": "2022-08-24",
+          "time": "11:36:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "저도 회랑 소주 좋아하는데.. 휴가를 쓰던지 해야겠네요^^. 전 슬슬 점심 먹고 올게요 또 연락해요.",
+          "summary": "나는 회를 좋아한다. 나는 소주를 좋아한다.",
+          "date": "2022-08-24",
+          "time": "11:36:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "네. 점심 맛있게 드시고 다시 연락해요^^.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:37:07",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 남성이다.",
+          "나는 백화점 판매원이다.",
+          "나는 주에 평일에 1일 쉰다.",
+          "나는 회를 좋아한다. 나는 소주를 좋아한다."
+        ],
+        "speaker2": [
+          "나는 20대 남성이다.",
+          "나는 최근에 제주도로 여름휴가를 다녀왔다.",
+          "내 인생에서 가장 설레던 때는 여행 짐을 꾸릴 때이다.",
+          "나는 회와 소주를 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00091-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "3-00091-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "밥 먹는 내내 회랑 소주 생각했네요^^. 점심은 뭐 드셨어요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:37:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "전 점심으로 현미밥이랑 닭가슴살 먹었네요 ㅠㅠ.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:37:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "다이어트 중이신가봐요? 식단 하시네요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:38:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "네ㅠㅠ. 곧 부산 가서 물놀이 할 건데...요즘 몸이 엉망진창이라서요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:38:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "저는 다이어트 살면서 딱 한 번 해봤거든요. 힘드시겠어요.",
+          "summary": "나는 다이어트를 한 번 해봤다.",
+          "date": "2022-08-24",
+          "time": "11:39:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "네. 먹고 싶은 음식 못먹는 게 진짜 너무 힘들죠 ㅠㅠㅠ.다이어트는 진짜 독해야 할 수 있는 것 같아요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:40:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "맞아요. 운동은 안다니세요? 헬스 같은 거 다니면 좀 도움이 되지 않나요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:40:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "헬스도 다니고 있어요! 근데 아직 시작한 지 얼마 안지나서 ㅠㅠ. 아직은 진전이 없네요.",
+          "summary": "나는 최근에 헬스를 시작했다.",
+          "date": "2022-08-24",
+          "time": "11:40:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "꾸준히 하시면 금방 좋아지실 거에요^^. 여자친구는 있으세요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:41:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "여자친구 없네요^^. 만나시는 분이나 결혼 하셨나요?",
+          "summary": "나는 여자 친구가 없다.",
+          "date": "2022-08-24",
+          "time": "11:42:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "아뇨 저도 아직이에요. 그래서 가족이랑도 별로 연락 안해요. 슬슬 너무 보채서요ㅎㅎ;",
+          "summary": "나는 여자 친구가 없다. 나는 가족과 별로 연락을 하지 않는다.",
+          "date": "2022-08-24",
+          "time": "11:42:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "결혼 때문에요?ㅠㅠ. 가족들이 그러면 진짜 싫을 것 같아요..",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:43:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "맞아요. 저는 나이에 쫓겨서 하고 싶진 않아서요^^.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:45:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "저두 그래요^^. 전 그냥 취미 생활 하면서 천천히 연애 하고싶네요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:45:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "취미생활은 뭐에요?. 잼난 거 하세요?ㅋㅋ.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:46:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "전 책 좋아해요^^ㅎㅎ. 근데 자기계발서 같은 책은 재미 없어서 싫고.. 추리 소설 좋아해요^^.",
+          "summary": "나는 자기 계발서를 싫어한다.",
+          "date": "2022-08-24",
+          "time": "11:47:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "저도 책 중에서 추리소설 제일 좋아하거든요. 책 좋죠^^. 전 슬슬 일할 시간이라 퇴근하고 올게요.",
+          "summary": "나는 추리소설을 좋아한다.",
+          "date": "2022-08-24",
+          "time": "11:47:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "네 퇴근 조심히 하세요. 다시 연락해요^^",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:48:14",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 다이어트를 한 번 해봤다.",
+          "나는 여자 친구가 없다. 나는 가족과 별로 연락을 하지 않는다.",
+          "나는 추리소설을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 최근에 헬스를 시작했다.",
+          "나는 여자 친구가 없다.",
+          "나는 자기 계발서를 싫어한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남성이다.",
+          "나는 백화점 판매원이다.",
+          "나는 주에 평일에 1일 쉰다.",
+          "나는 회를 좋아한다. 나는 소주를 좋아한다."
+        ],
+        "speaker2": [
+          "나는 20대 남성이다.",
+          "나는 최근에 제주도로 여름휴가를 다녀왔다.",
+          "내 인생에서 가장 설레던 때는 여행 짐을 꾸릴 때이다.",
+          "나는 회와 소주를 좋아한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00091-2",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "3-00091-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "퇴근하셨나요? 전 집에 왔네요ㅎㅎ.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:48:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "저도 집에 왔어요^^. 지금 너무 고통스럽네요ㅠㅠ.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:48:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "왜요? 무슨 일 있으셔요? 고통스럽다니ㅜ.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:48:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "저희 어머니가 요리사이시거든요...제가 좋아하는 제육볶음을 하셨는데..전 다이어트 중이라 못 먹게 생겼어요 ㅠ.",
+          "summary": "나의 어머니는 요리사이다.",
+          "date": "2022-08-24",
+          "time": "11:50:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "무슨 큰일 난 줄 알았네! 향만 맡으면서 현미밥만 먹어요ㅜ.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:51:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "ㅠㅠ 심각하게 먹고싶은데 참아야 하겠죠?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:52:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "그렇게 다이어트 하는 것보다 요즘은 먹고픈 거 먹고 빡시게 하는게 좋다고 들었어요. 효율도 잘 나오구요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:52:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "그런가요? 그럼 조금만 먹어볼까용ㅋㅋ. 식사 하셨어요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:53:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "저는 스포츠티비를 좋아해서 보면서 치맥 하려구요.^^ 군침 돌아요.",
+          "summary": "나는 스포츠 TV를 좋아한다.",
+          "date": "2022-08-24",
+          "time": "11:53:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "오 스포츠 저도 좋아해요ㅎㅎ.어떤거 즐겨 보세요?",
+          "summary": "나는 스포츠를 좋아한다.",
+          "date": "2022-08-24",
+          "time": "11:54:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "저는 축구를 제일 좋아해요. 가끔 친구들이랑 하기도 하구요ㅋㅋ.",
+          "summary": "나는 축구를 좋아한다. 나는 가끔 축구를 한다.",
+          "date": "2022-08-24",
+          "time": "11:55:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "축구 재밌죠ㅎㅎ. 전 야구를 진짜 좋아하거든요. 야구장도 자주 가구요!",
+          "summary": "나는 야구를 매우 좋아한다. 나는 야구장을 자주 간다.",
+          "date": "2022-08-24",
+          "time": "11:55:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "저는 사람 많은 곳을 싫어해서 야구장은 꿈도 못꿔요ㅋㅋ. 재밌을 거 같긴 해요.",
+          "summary": "나는 사람 많은 곳을 싫어한다.",
+          "date": "2022-08-24",
+          "time": "11:56:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "아 사람 많은 곳 싫어하시면 그러겠네요ㅠㅠ. 치맥 부럽네요 진짜.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:57:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "괜한 말을 했네요^^. 내일도 일 나가세요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:57:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "네. 전 내일도 출근이에요^^. 내일 출근하시죠?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:58:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03149",
+          "participantID": "0093",
+          "utterance": "네 물론이죠. 내일을 위해 열심히 쉽시다ㅋㅋ. 오늘 푹 쉬어요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:58:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01420",
+          "participantID": "0076",
+          "utterance": "네. 푹 쉬시고 내일도 화이팅 해요!",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:59:09",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 스포츠 TV를 좋아한다.",
+          "나는 축구를 좋아한다. 나는 가끔 축구를 한다.",
+          "나는 사람 많은 곳을 싫어한다."
+        ],
+        "speaker2": [
+          "나의 어머니는 요리사이다.",
+          "나는 스포츠를 좋아한다.",
+          "나는 야구를 매우 좋아한다. 나는 야구장을 자주 간다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남성이다.",
+          "나는 백화점 판매원이다.",
+          "나는 주에 평일에 1일 쉰다.",
+          "나는 회를 좋아한다. 나는 소주를 좋아한다.",
+          "나는 다이어트를 한 번 해봤다.",
+          "나는 여자 친구가 없다. 나는 가족과 별로 연락을 하지 않는다.",
+          "나는 추리소설을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 20대 남성이다.",
+          "나는 최근에 제주도로 여름휴가를 다녀왔다.",
+          "내 인생에서 가장 설레던 때는 여행 짐을 꾸릴 때이다.",
+          "나는 회와 소주를 좋아한다.",
+          "나는 최근에 헬스를 시작했다.",
+          "나는 여자 친구가 없다.",
+          "나는 자기 계발서를 싫어한다."
+        ]
+      }
+    }
+  ]
+}

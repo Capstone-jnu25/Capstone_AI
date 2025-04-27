@@ -1,0 +1,622 @@
+{
+  "FileInfo": {
+    "filename": "K3-00050-CL41336-CP22645-18-11-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "50073",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "교직",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "9646",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "전문직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00050"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "41336",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나는 대기업 CEO이다 ",
+        "나는 식물을 키우고 싶다",
+        "나는 팝 음악을 자주 듣는다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22645",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 와인을 싫어한다",
+        "나는 워드프로세서 자격증을 준비한다",
+        "나는 TV 뉴스를 자주 본다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "18-11",
+    "topicType": "상거래 전반",
+    "topicTitle": "시장"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00050-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "안녕하세요. 저는 40대 여자이고 대기업 CEO입니다.",
+          "summary": "나는 40대 여자이다.\n나는 대기업 CEO이다.",
+          "date": "2022-10-24",
+          "time": "14:49:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "안녕하세요! 저는 20대 여자이고, 취업준비생입니다.",
+          "summary": "나는 20대 여자이고 취업준비생이다.",
+          "date": "2022-10-24",
+          "time": "14:50:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "취업 준비하느라 힘드시죠? 저희 회사 직원들도 그랬다고 하더라구요.",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "14:51:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "면접 준비하느라 TV뉴스 자주 봐요,, 자격증도 워드프로세서, 한국사 등등 준비할게 너무 많아서 힘들더라구요..ㅠㅠ",
+          "summary": "나는 TV 뉴스를 자주 본다. 나는 자격증 워드프로세서, 한국사 등을 준비한다. 나는 취업 준비가 힘들다.",
+          "date": "2022-10-24",
+          "time": "14:52:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "와... 진짜 고생 많아요.. CEO인 내가 다 미안해질 지경이네요.. 하하... 그럼 취미는 있으세요?",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "14:54:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "음,, 취미는 친구들과 마시는 술자리,,? 정도인 것 같아요~ ㅎㅎ 선생님은요~ CEO시면 스트레스 많으시죠? ㅠㅠ",
+          "summary": "나는 친구들과 술자리를 갖는 것이 취미이다.",
+          "date": "2022-10-24",
+          "time": "14:55:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "모든 직업에는 다 스트레스가 있죠..ㅎㅎㅎ그래도 저는 팝 음악을 자주 들으면서 스트레스를 해소하려고 해요. 선생님은 스트레스 어떻게 해소하시나요?",
+          "summary": "나는 팝 음악을 자주 듣는다.",
+          "date": "2022-10-24",
+          "time": "14:56:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "저는 친구들이랑 술 마시면서 푸는 편인데, 와인은 싫어해서 소주나 맥주먹으면서 스트레스 날리는 것 같아요!! ㅎㅎ 알콜중독자는 아니랍니다~ ㅎ",
+          "summary": "나는 와인은 싫어해서 소주나 맥주를 마신다. 나는 알코올 중독자가 아니다.",
+          "date": "2022-10-24",
+          "time": "14:58:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "그러시구나. 혹시 가지고 있는 취미라거나 하고 싶은 일 있나요?",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "14:59:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "저는,,, 달리기 좋아해서 주로 러닝하는것 같아요~ 선생님은요~?",
+          "summary": "나는 달리기를 좋아하여 주로 러닝을 한다.",
+          "date": "2022-10-24",
+          "time": "15:01:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "저는 동적인 활동은 좋아하지 않고.. 최근에 식물을 키우고 싶더라구요. 님은 식물 좋아하세요?",
+          "summary": "나는 동적인 활동을 안좋아한다.\n나는 식물을 키우고싶다.",
+          "date": "2022-10-24",
+          "time": "15:05:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "저는 식물은 키우면 맨날 죽이더라구요 ㅠㅠ 선생님은 무슨 식물 키우고싶으세요~?",
+          "summary": "나는 식물을 키우면 매 번 죽이게 된다.",
+          "date": "2022-10-24",
+          "time": "15:06:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "아~ 그러시구나! 저는 다육 식물을 좋아해요. 저는 일정이 있어서 다음에 또 대화해요!",
+          "summary": "나는 다육 식물을 좋아한다.",
+          "date": "2022-10-24",
+          "time": "15:07:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "다육식물 예쁘긴하죠~ 네네! 편하게 일 보고 오세요~",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "15:07:42",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 여자이다.\n나는 대기업 CEO이다.",
+          "나는 팝 음악을 자주 듣는다.",
+          "나는 동적인 활동을 안좋아한다.\n나는 식물을 키우고싶다.",
+          "나는 다육 식물을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이고 취업준비생이다.",
+          "나는 TV 뉴스를 자주 본다. 나는 자격증 워드프로세서, 한국사 등을 준비한다. 나는 취업 준비가 힘들다.",
+          "나는 친구들과 술자리를 갖는 것이 취미이다.",
+          "나는 와인은 싫어해서 소주나 맥주를 마신다. 나는 알코올 중독자가 아니다.",
+          "나는 달리기를 좋아하여 주로 러닝을 한다.",
+          "나는 식물을 키우면 매 번 죽이게 된다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00050-1",
+      "prevTimeInfo": {
+        "timeNum": "28",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "3-00050-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "안녕하세요. 계산을 해보니 28시간이 지났네요.. 너무 꼼꼼하죠?",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "15:12:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "28시간,,, ㅋㅋㅋㅋㅋㅋㅋ 으음,, 하루하고도 4시간이 지났군요? ㅋㅋㅋ CEO라고 하셨는데 정말 꼼꼼하시네요~",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "15:13:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "ㅋㅋㅋㅋㅋㅋㅋ제가 아무래도 직원들 관리하다보니까 시간 관리에 철저한 편이라서요.",
+          "summary": "나는 시관관리에 철저하다.",
+          "date": "2022-10-24",
+          "time": "15:16:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "우와 되게 멋있으세요~ 잘지내셨어요~?",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "15:18:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "네! 잘 지냈어요! 저는 좀 전에 장을 보려고 시장에 다녀왔어요.",
+          "summary": "나는 시장에 다녀왔다.",
+          "date": "2022-10-24",
+          "time": "16:54:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "오~ 어떤거 사셨나요~? 궁금한데,, ㅎㅎ",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "16:56:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "제가 두부를 좋아해서 두부를 사러 시장에 갔어요!",
+          "summary": "나는 두부를 좋아한다.",
+          "date": "2022-10-24",
+          "time": "16:57:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "아 정말요~~ 요새는 인터넷에서 배송해도 당일에 많이 배달해주는데, 인터넷 사용안하시나봐요~",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "16:57:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "인터넷 활용 많이 하는데요. 오랜만에 사람들이 사는 것을 좀 보고 싶더라구요~",
+          "summary": "나는 인터넷 활용을 많이 한다. 나는 사람들이 물건 사는 것을 보고 싶었다.",
+          "date": "2022-10-24",
+          "time": "16:58:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "그쵸~ 시장가면 생기넘치고 좋아요!! 저는 귀찮아서 무조건 인터넷이예요 ㅋㅋㅋㅋ",
+          "summary": "나는 귀찮아서 인터넷으로 쇼핑한다.",
+          "date": "2022-10-24",
+          "time": "16:59:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "저도 인터넷 이용이 편리하기는 하지만 때로는 물건을 직접 보고 사고 싶더라구요.",
+          "summary": "나는 인터넷 이용이 편리하다. 나는 물건을 직접 보고 사고 싶다.",
+          "date": "2022-10-24",
+          "time": "17:11:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "맞아요 사실 인터넷은 상세랑 다를때가 너무 많더라구요~ ㅠㅠ",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "17:12:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "맞아요... 상세 페이지는 솔직히 만져볼 수 없잖아요...",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "17:13:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "그니까요~ 그래서 가끔 저렴하고, 배송비없이 싱싱하게 살수있는 시장이 좋기도해요~",
+          "summary": "나는 가끔 저렴하고 배송비가 없는 시장이 좋기도 하다.",
+          "date": "2022-10-24",
+          "time": "17:14:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "그래서 저도 시장을 이용해요. 저 이제 음식 준비하러 가볼게요!",
+          "summary": "나는 음식 준비하러 간다.",
+          "date": "2022-10-24",
+          "time": "17:19:37",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 시관관리에 철저하다.",
+          "나는 시장에 다녀왔다.",
+          "나는 두부를 좋아한다.",
+          "나는 인터넷 활용을 많이 한다. 나는 사람들이 물건 사는 것을 보고 싶었다.",
+          "나는 인터넷 이용이 편리하다. 나는 물건을 직접 보고 사고 싶다.",
+          "나는 음식 준비하러 간다."
+        ],
+        "speaker2": [
+          "나는 귀찮아서 인터넷으로 쇼핑한다.",
+          "나는 가끔 저렴하고 배송비가 없는 시장이 좋기도 하다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여자이다.\n나는 대기업 CEO이다.",
+          "나는 팝 음악을 자주 듣는다.",
+          "나는 동적인 활동을 안좋아한다.\n나는 식물을 키우고싶다.",
+          "나는 다육 식물을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이고 취업준비생이다.",
+          "나는 TV 뉴스를 자주 본다. 나는 자격증 워드프로세서, 한국사 등을 준비한다. 나는 취업 준비가 힘들다.",
+          "나는 친구들과 술자리를 갖는 것이 취미이다.",
+          "나는 와인은 싫어해서 소주나 맥주를 마신다. 나는 알코올 중독자가 아니다.",
+          "나는 달리기를 좋아하여 주로 러닝을 한다.",
+          "나는 식물을 키우면 매 번 죽이게 된다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00050-2",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00050-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "3일만에 대화 또 나누네요! 혹시 그 사이에 시장 가보셨어요?",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "17:33:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "안녕하세요~ 잘 지내셨나요? 저는 그날 시장얘기하고 바로 다녀왔어요!! ㅎㅎ",
+          "summary": "나는 상대방과 대화 후 시장에 다녀왔다.",
+          "date": "2022-10-24",
+          "time": "17:34:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "오 진짜요? 제 이야기가 뭔가 설득력이 있었나요?",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "17:35:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "갑자기 사람들 시장에있는거 말씀하시니까 상상되면서 그리워지더라구요~ ㅎㅎ",
+          "summary": "나는 사람들이 시장에 있는 것을 상상하면서 그리워졌다.",
+          "date": "2022-10-24",
+          "time": "17:36:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "ㅎㅎㅎ갔더니 좀 어떻던가요? 옛 생각 나지 않아요?",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "17:42:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "맞아요~ 근데 요새 코로나라 시식코너가 없는게 좀 아쉽더라구요 ㅠㅠ",
+          "summary": "나는 코로나로 시식코너가 없는 것이 아쉽다.",
+          "date": "2022-10-24",
+          "time": "17:43:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "그렇죠? 예전에 시장에서 번데기랑 사먹고 그랬는데.. 얼음 커피도 마시구요. 이제는 그렇게 하는 것이 힘들더라구요.",
+          "summary": "나는 예전에 시장에서 번데기를 사 먹었다.",
+          "date": "2022-10-24",
+          "time": "17:43:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "우와~ 진짜 호떡두 먹구요!!! 진짜 말하니까 호떡 너무 먹고싶네요,,,ㅎㅎ",
+          "summary": "나는 호떡이 너무 먹고 싶다.",
+          "date": "2022-10-24",
+          "time": "17:47:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "호떡이요? 진짜 요새 슬슬 나오던데!! 저 진짜 호떡 엄청 좋아하거든요..",
+          "summary": "나는 호떡을 좋아한다.",
+          "date": "2022-10-24",
+          "time": "17:50:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "진짜요? 원래 엄마시장 손잡고갈땐 그런 부수적인 것들이 더 추억이잖아요,, 붕어빵, 어묵 이런거요.!! ㅎㅎ",
+          "summary": "나는 엄마와 시장을 손 잡고 갈 때의 부수적인 추억들이 생각난다.",
+          "date": "2022-10-24",
+          "time": "17:51:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "맞아요.. 근데 진짜 시장 호떡은 기름에 잔뜩 절여져서 진짜 맛있는데... ㅠㅠ",
+          "summary": "나는 시장 호떡이 맛있다.",
+          "date": "2022-10-24",
+          "time": "17:52:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "맞아요,,! 뭔지아시는구나!!! 꿀호떡, 야채호떡 뭐 좋아하세요~?",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "17:53:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41336",
+          "participantID": "50073",
+          "utterance": "전 꿀호떡인데.. 야채 호떡도 있나요?",
+          "summary": "나는 꿀호떡을 좋아한다.",
+          "date": "2022-10-24",
+          "time": "17:53:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22645",
+          "participantID": "9646",
+          "utterance": "야채호떡 드시지마세요,,! 진짜 별로예요,, 아 생각난김에 꿀 호떡이나 먹고와야겟어요 ㅋㅋㅋ 다음에 또 연락드릴게용!!",
+          "summary": "나는 야채 호떡은 별로라서 추천하지 않는다. 나는 꿀 호떡을 먹고 올 예정이다.",
+          "date": "2022-10-24",
+          "time": "17:54:58",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 예전에 시장에서 번데기를 사 먹었다.",
+          "나는 호떡을 좋아한다.",
+          "나는 시장 호떡이 맛있다.",
+          "나는 꿀호떡을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 상대방과 대화 후 시장에 다녀왔다.",
+          "나는 사람들이 시장에 있는 것을 상상하면서 그리워졌다.",
+          "나는 코로나로 시식코너가 없는 것이 아쉽다.",
+          "나는 호떡이 너무 먹고 싶다.",
+          "나는 엄마와 시장을 손 잡고 갈 때의 부수적인 추억들이 생각난다.",
+          "나는 야채 호떡은 별로라서 추천하지 않는다. 나는 꿀 호떡을 먹고 올 예정이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여자이다.\n나는 대기업 CEO이다.",
+          "나는 팝 음악을 자주 듣는다.",
+          "나는 동적인 활동을 안좋아한다.\n나는 식물을 키우고싶다.",
+          "나는 다육 식물을 좋아한다.",
+          "나는 시관관리에 철저하다.",
+          "나는 시장에 다녀왔다.",
+          "나는 두부를 좋아한다.",
+          "나는 인터넷 활용을 많이 한다. 나는 사람들이 물건 사는 것을 보고 싶었다.",
+          "나는 인터넷 이용이 편리하다. 나는 물건을 직접 보고 사고 싶다.",
+          "나는 음식 준비하러 간다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이고 취업준비생이다.",
+          "나는 TV 뉴스를 자주 본다. 나는 자격증 워드프로세서, 한국사 등을 준비한다. 나는 취업 준비가 힘들다.",
+          "나는 친구들과 술자리를 갖는 것이 취미이다.",
+          "나는 와인은 싫어해서 소주나 맥주를 마신다. 나는 알코올 중독자가 아니다.",
+          "나는 달리기를 좋아하여 주로 러닝을 한다.",
+          "나는 식물을 키우면 매 번 죽이게 된다.",
+          "나는 귀찮아서 인터넷으로 쇼핑한다.",
+          "나는 가끔 저렴하고 배송비가 없는 시장이 좋기도 하다."
+        ]
+      }
+    }
+  ]
+}

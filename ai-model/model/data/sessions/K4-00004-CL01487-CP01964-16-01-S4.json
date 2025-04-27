@@ -1,0 +1,833 @@
+{
+  "FileInfo": {
+    "filename": "K4-00004-CL01487-CP01964-16-01-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0038",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0081",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00004"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "01487",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나의 종교는 카톨릭이다.",
+        "나는 재즈 음악을 좋아한다.",
+        "나는 첼로를 배우고 싶다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "01964",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 여자 형제는 간호사이다.",
+        "나는 공항에 가는 게 짜증난다.",
+        "나는 핸드폰 게임을 매일 한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "16-01",
+    "topicType": "미용과 건강>미용",
+    "topicTitle": "미용"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00004-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "안녕하세요 저는 20대 남자입니다.",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-08-09",
+          "time": "12:28:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "만나서 반가워요~ 저는 20대 여자입니다.",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-08-09",
+          "time": "12:28:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "만나서 반갑습니다. 혹시 화장 같은거에 관심 많으세요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:29:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "네 관심있죠 ㅎㅎ 안 할 수가 없으니까요..",
+          "summary": "나는 화장에 관심이 있다.",
+          "date": "2022-08-09",
+          "time": "12:29:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "저는 정말 하나도 모르거든요 화장을요. 남자도 화장해야한다던데 좀 아시는 게 있으세요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:30:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "음 그렇던가요..? 색조화장 말씀하시는거죠?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:30:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "색조 화장이 뭐에요? 저 진짜 하나도 모르거든요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:30:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "아 음 스킨로션은 기초화장이구요. 색조는 파운데이션 톤업크림 아이라이너 등 이런겁니다!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:31:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "아하.. 제가 아무래도 화장해야하는 일이다 보니까 조금 알아보고 있거든요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:31:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "아 그러세요? 혹시 무슨 일 하세요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:31:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "저는 바텐더로 일하고 있어요. 손님과 얘기해야되니까 화장을 하는게 좋다고 하더라고요.",
+          "summary": "나는 바텐더이다.",
+          "date": "2022-08-09",
+          "time": "12:32:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "아 그러시구나. 그럼 확실히 좀 신경이 쓰이시겠네요..!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:32:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "그러니까요. 손님한테 화장하라는 소리를 들을때가 있는데 그럴때마다 조금 창피해요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:32:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "앗 정말요? 바면 어두워서 그렇게 잘 안 보일텐데도 그런 소리를 하시는구나.. 그리고 개인의 자유인데요..",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:33:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "그러니까요 ㅠㅠ. 저는 이만 자러 가볼게요. 아무래도 저는 낮에 자거든요. 다음에 또 뵈요!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:33:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "네네 꿀잠 주무시고 화이팅하세요!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:33:46",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 바텐더이다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 화장에 관심이 있다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00004-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00004-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "요즘 미용에 대해서 알아보고 있는데 알아보면 알아볼수록 어렵네요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:33:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "아 그러세요? 그래도 열심히 하시는 거 같아서 보기 좋아요. 모르는거 있으시면 물어보세요!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:34:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "항상 자기발전은 필수죠. 보통 화장품을 한 네개만 사야된다면 어떤걸 추천하세요? 기초화장까지 포함이요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:34:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "와우 네개요? 그럼 저는 토너, 크림, 선크림, 파운데이션 이렇게요!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:35:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "오.. 이렇게에 스킨로션 정도 있으면 어느정도 커버될까요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:35:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "스킨로션이 토너랑 크림이라고 생각하시면되요! 파운데이션 잘 맞는거 사시면 피부결 좋아보이실테니까, 그러면 확실히 외모도 업되죠!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:35:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "아하.. 그렇군요. 정말 좋은 조언이십니다.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:36:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "ㅎㅎ 너무 이것 저것 많이 바르면 피부 망가지니까 적당히 하는게 좋더라고요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:36:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "감사합니다. 혹시 음악 좋아하세요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:36:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "음 저는 음악보다는 핸드폰 게임 좋아해서 매일 해요! 님은요?",
+          "summary": "나는 핸드폰 게임을 좋아하고 매일 한다.",
+          "date": "2022-08-09",
+          "time": "12:36:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "아 핸드폰 게임 좋아하는군요. 저는 재즈 음악을 좋아해서 바안에서 재즈음악을 자주 트는데 싫어하시는 분이 있더라고요.",
+          "summary": "나는 재즈 음악을 좋아한다.",
+          "date": "2022-08-09",
+          "time": "12:37:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "아 재즈 음악 좋죠~! 그거 싫어하시는 분들도 있군요.. 뭐 취향이겠네요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:37:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "네 너무 시끄럽다고 싫어하시더라고요. 그냥 캐쥬얼하게 가요를 트는것이 더 좋을까요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:38:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "아 그렇군요.. 가요도 괜찮고 잔잔한 로파이 재즈같은것도 어떨까 싶어요!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:38:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "그런것도 좋겠네요. 저는 이만 첼로 학원을 알아보러 가볼게요. 안녕히 계세요!!",
+          "summary": "나는 첼로 학원을 알아볼 예정이다.",
+          "date": "2022-08-09",
+          "time": "12:38:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "넵 안녕히 계세요! 다음에 봬요!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:39:26",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 재즈 음악을 좋아한다.",
+          "나는 첼로 학원을 알아볼 예정이다."
+        ],
+        "speaker2": [
+          "나는 핸드폰 게임을 좋아하고 매일 한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 바텐더이다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 화장에 관심이 있다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00004-2",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00004-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "요즘 악기를 좀 많이 배우고싶네요. 잘 지내셨어요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:39:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "오 악기요?? 지난번에 첼로 알아보신다더니 어떻게 되셨어요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:39:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "네 첼로를 배우고 싶어서 학원에 알아보는데 아무래도 제가 일하는것 때문에 시간대가 맞지 않더라고요.",
+          "summary": "나는 첼로를 배우고 싶다.",
+          "date": "2022-08-09",
+          "time": "12:40:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "아 그러시구나.. ㅠ 참 애매하네요. 그럼 악기는 있으세요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:40:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "네 애시당초 첼로를 배우고 싶어진게 지인에게 안쓰는 첼로를 받았거든요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:40:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "와 그러시구나. 그럼 집에서 @브랜드명1@로 먼저 시작해 보시면 어때요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:41:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "아 그럴까요? 좋은데요? @브랜드명1@로 먼저 시작해보는거요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:41:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "네 일단 시간이 안 맞으시면 그렇게라도 입문하시면 좋을거같네요~",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:41:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "조언 감사합니다. 아 그러고보니까 화장품 추천한거 구입했어요. 제 자신감이 올라가던데요?",
+          "summary": "나는 추천받은 화장품을 구입했다.",
+          "date": "2022-08-09",
+          "time": "12:42:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "아 정말요?? ㅎㅎ 잘 되었네요!!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:42:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "그러니까요. 손님들이 좋아하는지는 아직 잘 모르겠지만 제 스스로는 만족해요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:42:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "ㅎㅎ 원래 화장은 자기 만족이라는 말이 있더라고요!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:43:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "그래서 조언이 도움이 많이 되었어요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:43:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "제 조언이 도움이 되었다니 다행이에요!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:43:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "저는 이만 가볼게요. 첼로 @브랜드명1@라도 봐야겠네요. 감사합니다.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:43:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "저도 이만 간호사인 언니가 심부름을 시켜서 가볼게요!",
+          "summary": "나의 언니는 간호사이다.",
+          "date": "2022-08-09",
+          "time": "12:44:00",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 첼로를 배우고 싶다.",
+          "나는 추천받은 화장품을 구입했다."
+        ],
+        "speaker2": [
+          "나의 언니는 간호사이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 바텐더이다.",
+          "나는 재즈 음악을 좋아한다.",
+          "나는 첼로 학원을 알아볼 예정이다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 화장에 관심이 있다.",
+          "나는 핸드폰 게임을 좋아하고 매일 한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00004-3",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00004-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "안녕하세요~ 오늘은 주말인데 잘 지내셨어요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "12:44:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "네 안녕하세요! 저는 언니가 휴가로 해외여행가는거 데려다주고 오느라 공항 다녀왔어요.",
+          "summary": "나의 언니는 해외여행 간다.",
+          "date": "2022-08-09",
+          "time": "13:48:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "해외여행이요? 진짜 부러울것 같은데요? 어디로 가셨어요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "13:50:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "언니 보라카이 다녀온데요. 저는 근데 공항에 가는 게 짜증나서 혼났네요.",
+          "summary": "나의 언니는 보라카이로 여행을 가고 나는 공항에 가는 게 짜증 난다.",
+          "date": "2022-08-09",
+          "time": "13:50:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "아하 공항 가는거 별로 안좋아하시나봐요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "13:51:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "네... 이번에는 어찌나 차도 막히던지요.. 여행가는 사람이 많은가봐요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "13:51:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "코로나가 풀려서 그런가봐요. 풀리니까 여기저기 가더라고요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "13:51:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "그러니까요. 아주 10분이면 갈 거리를 40분은 걸린 거 같아요...",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "13:52:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "서울로 출퇴근하면 그기분 진짜 뼈저리게 느낄수있잖아요 엄청막혀서요 차가.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "13:52:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "네 맞아요... 항상 공항 갈 때마다 이러니까 가는 것 부터도 짜증이 나네요..",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "13:52:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "그러게나 말이에요. 저같아도 항상 짜증나겠어요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "13:53:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "에혀.. 그나저나 요즘은 바에 손님들이 화장에 대해서 말씀하시나요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "13:53:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "아 맞네요. 화장 얘기 눈치채시는분들도 있고 보기좋다라고 하시는 분들도 있어서 참 좋아요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "13:53:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "그러시구나. 반응이 긍정적이라서 다행이네요~~",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "13:53:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01487",
+          "participantID": "0038",
+          "utterance": "저는 이만 가볼게요. 잘시간이라서요 안녕히 계세요~",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "13:54:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01964",
+          "participantID": "0081",
+          "utterance": "넵 그럼 저도 쉬러 가볼게요~ 굿밤입니다!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "13:54:15",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [],
+        "speaker2": [
+          "나의 언니는 해외여행 간다.",
+          "나의 언니는 보라카이로 여행을 가고 나는 공항에 가는 게 짜증 난다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 바텐더이다.",
+          "나는 재즈 음악을 좋아한다.",
+          "나는 첼로 학원을 알아볼 예정이다.",
+          "나는 첼로를 배우고 싶다.",
+          "나는 추천받은 화장품을 구입했다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 화장에 관심이 있다.",
+          "나는 핸드폰 게임을 좋아하고 매일 한다.",
+          "나의 언니는 간호사이다."
+        ]
+      }
+    }
+  ]
+}

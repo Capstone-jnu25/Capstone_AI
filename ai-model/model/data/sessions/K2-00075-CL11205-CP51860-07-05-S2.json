@@ -1,0 +1,422 @@
+{
+  "FileInfo": {
+    "filename": "K2-00075-CL11205-CP51860-07-05-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3772",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "3941",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "전문직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00075"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "11205",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 10대이다.",
+        "내가 사는 곳은 용인이다",
+        "나는 가끔 초조하다",
+        "나는 액션 영화를 자주 본다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "51860",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 요즘, 가끔 부끄러운 감정이 든다",
+        "나는 친구와 거의 만나지 않는다",
+        "나는 동물을 키우고 싶어한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "07-05",
+    "topicType": "개인 및 관계>가족",
+    "topicTitle": "친척"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00075-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "11205",
+          "participantID": "3772",
+          "utterance": "안녕하세요. 저는 10대 여성입니다.",
+          "summary": "나는 10대 여성이다.",
+          "date": "2022-10-26",
+          "time": "23:49:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51860",
+          "participantID": "3941",
+          "utterance": "안녕하세요? 저는 50대 여성입니다.",
+          "summary": "나는 50대 여성이다.",
+          "date": "2022-10-26",
+          "time": "23:51:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11205",
+          "participantID": "3772",
+          "utterance": "반가워요. 어디쪽에 거주중이세요?",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "23:55:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51860",
+          "participantID": "3941",
+          "utterance": "저는 경기도쪽이요 .",
+          "summary": "나는 경기도에 거주 중이다.",
+          "date": "2022-10-26",
+          "time": "23:57:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11205",
+          "participantID": "3772",
+          "utterance": "반가워요.저는 용인이에요. 요즘 뭐하고 지내세요?",
+          "summary": "내가 사는 곳은 용인이다.",
+          "date": "2022-10-26",
+          "time": "23:58:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51860",
+          "participantID": "3941",
+          "utterance": "저는 요즘 집에서 그냥 있어요 .",
+          "summary": "나는 요즘 집에서 지낸다.",
+          "date": "2022-10-27",
+          "time": "00:09:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11205",
+          "participantID": "3772",
+          "utterance": "그렇군요. 전 액션영화를 자주봐요. 영화는 안좋아하세요?",
+          "summary": "나는 액션 영화를 자주 본다.",
+          "date": "2022-10-27",
+          "time": "00:10:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51860",
+          "participantID": "3941",
+          "utterance": "저도 영화 좋아하고 액션영화 좋아해요 ",
+          "summary": "나는 영화를 좋아한다.",
+          "date": "2022-10-27",
+          "time": "00:18:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11205",
+          "participantID": "3772",
+          "utterance": "넹. 직장인이세요? 전 아직 진로를 못정해서 가끔 초조해요.",
+          "summary": "나는 가끔 초조하다.",
+          "date": "2022-10-27",
+          "time": "21:23:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51860",
+          "participantID": "3941",
+          "utterance": "요즘 취준생들이 엄청 나다고 하는데 ..저는 주부에요. ",
+          "summary": "나는 주부다.",
+          "date": "2022-10-27",
+          "time": "22:19:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11205",
+          "participantID": "3772",
+          "utterance": "그렇군요. 전 아직 대학생활도 못해서 취준생이랑은 아직 거리가 먼것같아요! 취업난이 심각하다는 정도만 알고있어여 ㅎㄹ",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "22:23:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51860",
+          "participantID": "3941",
+          "utterance": "네네~ 그렇군요~ 저는 요즘 동물을 키우고 싶어요.",
+          "summary": "나는 동물을 키우고 싶다.",
+          "date": "2022-10-27",
+          "time": "22:26:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11205",
+          "participantID": "3772",
+          "utterance": "어떤 동물을 키우고 싶으세요?",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "22:27:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51860",
+          "participantID": "3941",
+          "utterance": "고양이가 좋을듯~ 좋은 대화 감사해요~",
+          "summary": "나는 고양이를 키우고 싶다.",
+          "date": "2022-10-27",
+          "time": "22:28:17",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 10대 여성이다.",
+          "내가 사는 곳은 용인이다.",
+          "나는 액션 영화를 자주 본다.",
+          "나는 가끔 초조하다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나는 경기도에 거주 중이다.",
+          "나는 요즘 집에서 지낸다.",
+          "나는 영화를 좋아한다.",
+          "나는 주부다.",
+          "나는 동물을 키우고 싶다.",
+          "나는 고양이를 키우고 싶다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00075-1",
+      "prevTimeInfo": {
+        "timeNum": "8",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00075-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "11205",
+          "participantID": "3772",
+          "utterance": "반가워요. 8일만이네요~ 뭐하고지내셨어요‘",
+          "summary": "",
+          "date": "2022-10-28",
+          "time": "02:43:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51860",
+          "participantID": "3941",
+          "utterance": "가족과 함께 친척 결혼식에 갔다왔어요.",
+          "summary": "나는 친척 결혼식에 다녀왔다.",
+          "date": "2022-10-28",
+          "time": "07:35:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11205",
+          "participantID": "3772",
+          "utterance": "아 그래요? 저도 다음주에 친천언니 결혼식이 있답니다 ㅎㅎ",
+          "summary": "나는 다음 주에 친척 결혼식이 있다.",
+          "date": "2022-10-28",
+          "time": "09:36:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51860",
+          "participantID": "3941",
+          "utterance": "그러시군요~ 가족과 함께 다 같이 가서 축하해 줬어요~",
+          "summary": "나는 가족들과 함께 친척 결혼식에 가서 축하해줬다.",
+          "date": "2022-10-28",
+          "time": "12:08:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11205",
+          "participantID": "3772",
+          "utterance": "네 저희 어머니는 한복을 입는다고했어요. 헤어랑 메이크업 받는다는게 기대돼요.",
+          "summary": "나의 어머니는 한복 울 입는다고 했다. 나는 헤어와 메이크업도 받는데 기대가 된다.",
+          "date": "2022-10-28",
+          "time": "12:30:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51860",
+          "participantID": "3941",
+          "utterance": "그때 모두가 미용실 가는날이죠!!",
+          "summary": "",
+          "date": "2022-10-28",
+          "time": "15:08:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11205",
+          "participantID": "3772",
+          "utterance": "그쳐 ㅎㅎ 전 친척들이 많이 없어요. 님 친척들은 명절때 잘 모이나요?",
+          "summary": "나는 친척들이 많이 없다.",
+          "date": "2022-10-28",
+          "time": "16:50:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51860",
+          "participantID": "3941",
+          "utterance": "네~ 예전에는 평소에도 왕래가 많았는데 이제는 명절때만 봐요",
+          "summary": "나는 친척들과 왕래가 많았는데 이제는 명절 때만 본다.",
+          "date": "2022-10-28",
+          "time": "17:12:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11205",
+          "participantID": "3772",
+          "utterance": "네. 저도 할머니 살아계실때는 잘 모였었는데 전국 각지에 흝어져있어서 명절 보내는 재미가 없어요ㅜ",
+          "summary": "나의 가족들은 할머니 살아계실 때 잘 모였는데 잘 안모이니 명절 보내는 재미가 없다.",
+          "date": "2022-10-28",
+          "time": "17:40:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51860",
+          "participantID": "3941",
+          "utterance": "멀리 있다보니 잘 안보세 되고 마음도 멀어지는것 같아요~",
+          "summary": "나는 친척들을 잘 안 보게 돼서 마음도 멀어지는 것 같다.",
+          "date": "2022-10-28",
+          "time": "18:17:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11205",
+          "participantID": "3772",
+          "utterance": "네 그렇죠 그리구 사촌들도 같이 커가니까 어릴때처럼 편하게 지내진 못하더라구요.",
+          "summary": "나는 사촌들도 커가니까 어릴때처럼\n편하지 않다.",
+          "date": "2022-10-28",
+          "time": "18:18:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51860",
+          "participantID": "3941",
+          "utterance": "맞아요. 아무래도 커가면서도 서먹해지겠죠..",
+          "summary": "",
+          "date": "2022-10-28",
+          "time": "18:20:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11205",
+          "participantID": "3772",
+          "utterance": "네. 어릴때는 진짜 잘놀았어요. 명절이 저한테는 노는날이었거든여 ㅎㅎ",
+          "summary": "",
+          "date": "2022-10-28",
+          "time": "18:24:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51860",
+          "participantID": "3941",
+          "utterance": "저도 그랬었던 생각이 나네요 좋은대화 감사해요",
+          "summary": "",
+          "date": "2022-10-28",
+          "time": "18:27:21",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 다음 주에 친척 결혼식이 있다.",
+          "나의 어머니는 한복 울 입는다고 했다. 나는 헤어와 메이크업도 받는데 기대가 된다.",
+          "나는 친척들이 많이 없다.",
+          "나의 가족들은 할머니 살아계실 때 잘 모였는데 잘 안모이니 명절 보내는 재미가 없다.",
+          "나는 사촌들도 커가니까 어릴때처럼\n편하지 않다."
+        ],
+        "speaker2": [
+          "나는 친척 결혼식에 다녀왔다.",
+          "나는 가족들과 함께 친척 결혼식에 가서 축하해줬다.",
+          "나는 친척들과 왕래가 많았는데 이제는 명절 때만 본다.",
+          "나는 친척들을 잘 안 보게 돼서 마음도 멀어지는 것 같다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 10대 여성이다.",
+          "내가 사는 곳은 용인이다.",
+          "나는 액션 영화를 자주 본다.",
+          "나는 가끔 초조하다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나는 경기도에 거주 중이다.",
+          "나는 요즘 집에서 지낸다.",
+          "나는 영화를 좋아한다.",
+          "나는 주부다.",
+          "나는 동물을 키우고 싶다.",
+          "나는 고양이를 키우고 싶다."
+        ]
+      }
+    }
+  ]
+}

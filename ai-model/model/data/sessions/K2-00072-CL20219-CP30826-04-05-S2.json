@@ -1,0 +1,433 @@
+{
+  "FileInfo": {
+    "filename": "K2-00072-CL20219-CP30826-04-05-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4611",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "4479",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00072"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "20219",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 아무 데서나 잘 잔다",
+        "나는 농구부 동아리에 참여한다",
+        "나는 따뜻한 날씨를 좋아한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "30826",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 군무원이다",
+        "나는 실내에서 수영하는 것을 좋아한다",
+        "나는 빨간색을 싫어한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "04-05",
+    "topicType": "일과 직업>회사/아르바이트",
+    "topicTitle": "직장 생활"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00072-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20219",
+          "participantID": "4611",
+          "utterance": "안녕하세요  저는 20대 남성입니다",
+          "summary": "나는 20대 남성이다",
+          "date": "2022-11-15",
+          "time": "16:15:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30826",
+          "participantID": "4479",
+          "utterance": "안녕하세요 저는 30대 남성입니다",
+          "summary": "30대 남성",
+          "date": "2022-11-15",
+          "time": "16:16:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20219",
+          "participantID": "4611",
+          "utterance": "저는 따뜻한 날씨를 좋아해서 날이 좋으면 아무 데서나 잘 잡니다",
+          "summary": "나는 따듯한 날씨를 좋아하고 날이 좋으면 아무 데서나 잘 잔다",
+          "date": "2022-11-15",
+          "time": "16:17:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30826",
+          "participantID": "4479",
+          "utterance": "오 저도 따듯한걸 좋아해서 실내에서 수영하는 것을 즐겨요. 근데 빨간색을 싫어해서 빨간색 수영복은 입지 않아요.",
+          "summary": "따뜻한 걸 좋아함 빨간색을 싫어함",
+          "date": "2022-11-15",
+          "time": "16:21:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20219",
+          "participantID": "4611",
+          "utterance": "오 저는 농구부 동아리에 참여하고 있어요 \n그런데 빨간색을 싫어하시는 이유가 있나요",
+          "summary": "나는 농구부 동아리에 참여하고 있다",
+          "date": "2022-11-15",
+          "time": "16:22:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30826",
+          "participantID": "4479",
+          "utterance": "너무 나이들어 보이는거 같아서 피하는 편입니다. 농구 좋아하시나봐요?",
+          "summary": "빨간색은 나이 들어 보여서 피하는 편",
+          "date": "2022-11-15",
+          "time": "16:25:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20219",
+          "participantID": "4611",
+          "utterance": "네  퇴근 후에는 주로 집에서 경기관람을 하는 편 입니다\n\n",
+          "summary": "나는 퇴근 후에 주로 집에서 경기 관람을 한다",
+          "date": "2022-11-15",
+          "time": "16:26:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30826",
+          "participantID": "4479",
+          "utterance": "아하 지금 회사에 다니고 있으신가요? 저는 군무원으로 근무하고 있어요",
+          "summary": "회사에 다니는지 묻는다 군무원으로 근무 중",
+          "date": "2022-11-15",
+          "time": "16:27:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20219",
+          "participantID": "4611",
+          "utterance": "네 지금 회사에 재직 중 입니다",
+          "summary": "나는 회사에 재직 중이다",
+          "date": "2022-11-15",
+          "time": "16:31:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30826",
+          "participantID": "4479",
+          "utterance": "다닐만 하신가요?? 저는 업무가 힘들어서요",
+          "summary": "지금 다니는 회사의 업무가 힘들다",
+          "date": "2022-11-15",
+          "time": "16:31:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20219",
+          "participantID": "4611",
+          "utterance": "저도 업무가 힘들어서 조만간 이직하려고 합니다",
+          "summary": "나는 업무가 힘들어서 조만간 이직하려 한다",
+          "date": "2022-11-15",
+          "time": "16:35:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30826",
+          "participantID": "4479",
+          "utterance": "확실히 워라벨이 중요하다고 느끼는 요즘인거 같아요",
+          "summary": "워라벨을 중요시한다",
+          "date": "2022-11-15",
+          "time": "16:36:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20219",
+          "participantID": "4611",
+          "utterance": "네 맞아요 그래서 주간근무만 있는곳으로 옮기려고 알아보는 중 이에요",
+          "summary": "나는 주간 근무만 있는 곳으로 옮기려 한다",
+          "date": "2022-11-15",
+          "time": "16:40:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30826",
+          "participantID": "4479",
+          "utterance": "야근이 힘들긴하죠. 이직은 얼마나 준비하셨나요?",
+          "summary": "야근은 힘들다",
+          "date": "2022-11-15",
+          "time": "16:43:57",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 남성이다",
+          "나는 따듯한 날씨를 좋아하고 날이 좋으면 아무 데서나 잘 잔다",
+          "나는 농구부 동아리에 참여하고 있다",
+          "나는 퇴근 후에 주로 집에서 경기 관람을 한다",
+          "나는 회사에 재직 중이다",
+          "나는 업무가 힘들어서 조만간 이직하려 한다",
+          "나는 주간 근무만 있는 곳으로 옮기려 한다"
+        ],
+        "speaker2": [
+          "30대 남성",
+          "따뜻한 걸 좋아함 빨간색을 싫어함",
+          "빨간색은 나이 들어 보여서 피하는 편",
+          "회사에 다니는지 묻는다",
+          "군무원으로 근무 중",
+          "지금 다니는 회사의 업무가 힘들다",
+          "워라벨을 중요시한다",
+          "야근은 힘들다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00072-1",
+      "prevTimeInfo": {
+        "timeNum": "43",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00072-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20219",
+          "participantID": "4611",
+          "utterance": "아직 많이 멀었지만 생각보다 수월하게 준비중 입니다",
+          "summary": "나는 이직을 수월하게 준비 중이다",
+          "date": "2022-11-15",
+          "time": "16:51:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30826",
+          "participantID": "4479",
+          "utterance": "안녕하세요 43시간만에 뵙네요",
+          "summary": "43시간 만에 봄",
+          "date": "2022-11-15",
+          "time": "16:54:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20219",
+          "participantID": "4611",
+          "utterance": "안녕하세요 인사가 늦었네요 일은 좀 할만하신가요",
+          "summary": "",
+          "date": "2022-11-15",
+          "time": "16:56:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30826",
+          "participantID": "4479",
+          "utterance": "일이 쉽지많은 않네요 아무래도 사회생활이다보니 스트레스를 받는거 같아요",
+          "summary": "사회생활은 스트레스를 유발",
+          "date": "2022-11-15",
+          "time": "17:14:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20219",
+          "participantID": "4611",
+          "utterance": "사회생활은 어딜가나 다 거기서 거긴거 같네요",
+          "summary": "나는 사회생활이 다 거기서 거기인 것 같다",
+          "date": "2022-11-15",
+          "time": "17:23:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30826",
+          "participantID": "4479",
+          "utterance": "네네 하지만 싫어도 해야 하니까 더 슬픈거 같아요ㅜ  일은 몇살때부터 시작하셧나요?",
+          "summary": "",
+          "date": "2022-11-15",
+          "time": "17:24:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20219",
+          "participantID": "4611",
+          "utterance": "일은 대학 졸업하고 바로 시작한거 같아요\n군무원 일은 좀 할만하신가요",
+          "summary": "나는 일을 대학 졸업하고 바로 시작했다",
+          "date": "2022-11-15",
+          "time": "17:25:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30826",
+          "participantID": "4479",
+          "utterance": "위계질서가 있다보니 쉽진않지만 이제 적응이 돼서 괜찮은거 같아요!",
+          "summary": "군무원 일은 위계질서로 쉽지 않지만 현재는 적응",
+          "date": "2022-11-15",
+          "time": "17:29:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20219",
+          "participantID": "4611",
+          "utterance": "적응하셔서 다행이네요 저도 적응은 했지만 일이 너무 힘들어서 하루빨리 이직을 해야 할 거같아요",
+          "summary": "나는 일에 적응했지만 너무 힘들다 나는 하루빨리 이직할 것이다",
+          "date": "2022-11-15",
+          "time": "17:35:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30826",
+          "participantID": "4479",
+          "utterance": "혹시 흡연은 안하시나요?? 전 스트레스 받아서 금연했던것도 실패할거 같긴해요",
+          "summary": "흡연여부를 물어봄\n현재 금연중",
+          "date": "2022-11-15",
+          "time": "17:36:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20219",
+          "participantID": "4611",
+          "utterance": "피우다가 끊었어요 피울때는 좋았는데 운동할때 숨이너무차서 끊게되었어요",
+          "summary": "나는 담배를 피우다 끊었다",
+          "date": "2022-11-15",
+          "time": "17:39:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30826",
+          "participantID": "4479",
+          "utterance": "맞아요 담배가 가끔 생각나다가도 그거 생각하면 또 무서워요 ㅜㅜ",
+          "summary": "",
+          "date": "2022-11-15",
+          "time": "18:08:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20219",
+          "participantID": "4611",
+          "utterance": "그래도 운동하다보면 잊을 수 있어서 다행인거 같아요 ",
+          "summary": "나는 운동하다 보면 잊을 수 있다",
+          "date": "2022-11-15",
+          "time": "18:31:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30826",
+          "participantID": "4479",
+          "utterance": "그러게요 이제 운동시간이라 먼저 일어나 볼게요 직장생활 파이팅 하셨으면 좋겠어요",
+          "summary": "직장생활을 응원해줌 운동시간이라 대화 종료",
+          "date": "2022-11-15",
+          "time": "18:39:09",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 이직을 수월하게 준비 중이다",
+          "나는 사회생활이 다 거기서 거기인 것 같다",
+          "나는 일을 대학 졸업하고 바로 시작했다",
+          "나는 일에 적응했지만 너무 힘들다",
+          "나는 하루빨리 이직할 것이다",
+          "나는 담배를 피우다 끊었다",
+          "나는 운동하다 보면 잊을 수 있다"
+        ],
+        "speaker2": [
+          "43시간 만에 봄",
+          "사회생활은 스트레스를 유발",
+          "군무원 일은 위계질서로 쉽지 않지만 현재는 적응",
+          "흡연여부를 물어봄\n현재 금연중",
+          "직장생활을 응원해줌 운동시간이라 대화 종료"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남성이다",
+          "나는 따듯한 날씨를 좋아하고 날이 좋으면 아무 데서나 잘 잔다",
+          "나는 농구부 동아리에 참여하고 있다",
+          "나는 퇴근 후에 주로 집에서 경기 관람을 한다",
+          "나는 회사에 재직 중이다",
+          "나는 업무가 힘들어서 조만간 이직하려 한다",
+          "나는 주간 근무만 있는 곳으로 옮기려 한다"
+        ],
+        "speaker2": [
+          "30대 남성",
+          "따뜻한 걸 좋아함 빨간색을 싫어함",
+          "빨간색은 나이 들어 보여서 피하는 편",
+          "회사에 다니는지 묻는다",
+          "군무원으로 근무 중",
+          "지금 다니는 회사의 업무가 힘들다",
+          "워라벨을 중요시한다",
+          "야근은 힘들다"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "FileInfo": {
+    "filename": "K3-00087-CL20534-CP20871-03-10-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0631",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0724",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00087"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "20534",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 요즘, 매일 기쁘다.",
+        "나는 조경기술자이다.",
+        "나는 팝 음악을 가끔 듣는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "20871",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 호랑이를 좋아한다.",
+        "나는 한국 실용글쓰기 자격증을 취득했다.",
+        "나는 시를 좋아한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "03-10",
+    "topicType": "교통",
+    "topicTitle": "교통"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00087-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "반갑습니다. 20대 남자에요. 편하게 소통해요 !",
+          "summary": "나는 남자이다. 나는 20대이다.",
+          "date": "2022-10-13",
+          "time": "09:42:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "저도 20대 남자인데 너무 반갑네요! 편한 소통해요~",
+          "summary": "나는 남자이다. 나는 20대이다.",
+          "date": "2022-10-13",
+          "time": "09:42:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "요즘 제 작업물이 인테리어 잡지에 올라가서 너무 바쁘네요 !!",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:42:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "아~진짜요? 무슨 일을 하시는데요? 궁금하네요!",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:42:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "조경기술자거든요 ~ 바쁘면서도 기분이 좋네요.",
+          "summary": "나는 조경기술자이다.",
+          "date": "2022-10-13",
+          "time": "09:42:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "아~조경기술자시구나! 기분이 좋을것 같네요!",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:42:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "네~ 그래서 요즘 매일 기쁜 나날들을 보내고 있어요 ! 그쪽은요?",
+          "summary": "나는 요즘, 매일 기쁘다.",
+          "date": "2022-10-13",
+          "time": "09:43:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "저도 최근에 한국 실용글쓰기 자격증을 취득해서 마음에 여유가 있네요!",
+          "summary": "나는 한국 실용글쓰기 자격증을 취득했다.",
+          "date": "2022-10-13",
+          "time": "09:43:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "와. 한국 실용글쓰기라.. 처음들어보는 자격증인거 같아요.",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:43:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "제가 시를 좋아해서 켈리그라피 좋아하거든요~",
+          "summary": "나는 시를 좋아한다. 나는 켈리그라피를 좋아한다.",
+          "date": "2022-10-13",
+          "time": "09:43:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "오우.. 글자 진짜 이쁘게 쓰시나봐요 !",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:43:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "네~한국적으로 글을 잘 쓰는 편입니다!ㅎㅎ.",
+          "summary": "나는 한국적으로 글을 잘 쓰는 편이다.",
+          "date": "2022-10-13",
+          "time": "09:43:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "그게 취미이신분들 인터넷에서 좀 봤는데, 시그니처 느낌으로 그림도 그리시던데 글옆에 !",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:44:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "저는 호랑이를 좋아해서 호랑이 그려요ㅋㅋ제 시그니쳐에요.",
+          "summary": "나는 호랑이를 좋아한다.",
+          "date": "2022-10-13",
+          "time": "09:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "이야.. 완전 멋지겠는데요 ! 저는 다시 작업복귀 하러 가볼께요 ~",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:44:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "멋지죠ㅎㅎ그럼 작업 잘 하고 오세요! 수고해요.",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:44:27",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 남자이다. 나는 20대이다.",
+          "나는 조경기술자이다.",
+          "나는 요즘, 매일 기쁘다."
+        ],
+        "speaker2": [
+          "나는 남자이다. 나는 20대이다.",
+          "나는 한국 실용글쓰기 자격증을 취득했다.",
+          "나는 시를 좋아한다. 나는 켈리그라피를 좋아한다.",
+          "나는 한국적으로 글을 잘 쓰는 편이다.",
+          "나는 호랑이를 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00087-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00087-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "안녕하세요 ! 엊그제 연락했었는데 ~ 하루 잘 보내고 계시죠?",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:44:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "반갑습니다~저야 하루 잘 보내고 있습니다!",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:44:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "그때 대화 끝나고 켈리그라피 찾아봤는데, 진짜 다들 글 잘쓰더라구요.",
+          "summary": "나는 켈리그라피를 찾아봤다.",
+          "date": "2022-10-13",
+          "time": "09:45:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "그러니까요~근데 저도 잘쓰는 편입니다ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:45:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "와. 오늘 아침에는 지각해서 택시 탔는데 택시비 엄청나네요..",
+          "summary": "나는 오늘 아침에 지각을 해서 택시를 탔다.",
+          "date": "2022-10-13",
+          "time": "09:45:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "처음 택시 타고 가셨나봐요! 택시비가 장난아니죠.",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:45:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "바로 작업할곳으로 가서, 거기 동네는 처음이였거든요 !",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:45:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "아 그렇구나! 그럼 한 얼마나 나온거에요? 택시비가?",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:45:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "거의 무슨 3-4만원 나왔는데, 아직 저한테는 큰돈이거든요.",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:46:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "아이고..3~4만원이면 크죠..일찍 일어나시지 그러셨어요ㅜ.",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:46:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "일찍 일어났는데 ㅎㅎ.. 뭐 갑자기 일이 꼬일때 있잖아요 ~",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:46:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "그렇군요! 어쨋든 다음에는 그런일 생기면 안되시겠어요!",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:46:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "버스 기다리다가 너무 안와가지구요! 근데 이제 택시비 또 오른다던데..",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:46:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "네..맞아요! 이제 시간대별로 오른다고 하더라고요..",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:46:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "그만큼 서비스도 오르면 좋겠어요 ! 여튼 저는 다시 일하러 가볼께요 ~",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:46:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "그럼 손님입장에서는 너무 좋죠! 오늘도 일 수고하세요~",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:46:47",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 켈리그라피를 찾아봤다.",
+          "나는 오늘 아침에 지각을 해서 택시를 탔다."
+        ],
+        "speaker2": []
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 남자이다. 나는 20대이다.",
+          "나는 조경기술자이다.",
+          "나는 요즘, 매일 기쁘다."
+        ],
+        "speaker2": [
+          "나는 남자이다. 나는 20대이다.",
+          "나는 한국 실용글쓰기 자격증을 취득했다.",
+          "나는 시를 좋아한다. 나는 켈리그라피를 좋아한다.",
+          "나는 한국적으로 글을 잘 쓰는 편이다.",
+          "나는 호랑이를 좋아한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00087-2",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "주"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00087-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "안녕하세요 ! 한주만에 연락 드리네요 ~ 잘계셨어요?",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:46:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "안녕하세요~오랜만이네요! 저야 잘 지냈죠!",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:46:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "주말인데 ~ 오늘도 켈리그라피 하실꺼에요?",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:47:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "당연하죠~켈리그라피는 뭐 항상 하는거 같네요!",
+          "summary": "나는 켈리그라피는 항상 한다.",
+          "date": "2022-10-13",
+          "time": "09:47:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "근데 그거 제생각인데 좀 팔아도 되지 않을까요? 책갈피 같은걸로..",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:47:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "안그래도 플리마켓에 팔려고 생각중입니다!",
+          "summary": "나는 플리마켓에 켈리그라피 작업물을 팔려고 생각 중이다.",
+          "date": "2022-10-13",
+          "time": "09:47:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "오우.. 진짜 좋은생각이네요 ! 저도 사고싶은데요?",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:47:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "제가 만약 온라인 스토어를 열게된다면 말해드릴게요ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:47:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "네 ! 꼭말해주세요. 근데 호랑이만 그리시는거에요?",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:47:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "아니요~뭐 호랑이말고 가끔 토끼를 그릴때도 있어요!",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:47:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "좋네요. 저도 오늘 하루종일 쉬어서~ 음악이나 들으려구요.",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:48:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "쉴때 푹 쉬셔야죠~무슨 음악 들으시게요?",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:48:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "저는 팝음악 가끔들으면 참 좋더라구요. 오늘 들으려구요 !",
+          "summary": "나는 팝 음악을 가끔 듣는다.",
+          "date": "2022-10-13",
+          "time": "09:48:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "아~팝음악 좋죠! 여유있이 잘 보내시면 되겠네요!",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:48:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20534",
+          "participantID": "0631",
+          "utterance": "네~ 그러면 시간보내다가 또 연락 드릴께요 !",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:48:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20871",
+          "participantID": "0724",
+          "utterance": "그래요~그럼 잘 보내시고 또 연락합시다!",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "09:48:46",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 팝 음악을 가끔 듣는다."
+        ],
+        "speaker2": [
+          "나는 켈리그라피는 항상 한다.",
+          "나는 플리마켓에 켈리그라피 작업물을 팔려고 생각 중이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 남자이다. 나는 20대이다.",
+          "나는 조경기술자이다.",
+          "나는 요즘, 매일 기쁘다.",
+          "나는 켈리그라피를 찾아봤다.",
+          "나는 오늘 아침에 지각을 해서 택시를 탔다."
+        ],
+        "speaker2": [
+          "나는 남자이다. 나는 20대이다.",
+          "나는 한국 실용글쓰기 자격증을 취득했다.",
+          "나는 시를 좋아한다. 나는 켈리그라피를 좋아한다.",
+          "나는 한국적으로 글을 잘 쓰는 편이다.",
+          "나는 호랑이를 좋아한다."
+        ]
+      }
+    }
+  ]
+}

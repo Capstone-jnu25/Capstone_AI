@@ -1,0 +1,840 @@
+{
+  "FileInfo": {
+    "filename": "K4-00091-CL26526-CP36048-15-05-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3993",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "기타",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "4569",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00091"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "26526",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 거주지는 경기도이다",
+        "나는 야근을 하는 게 즐겁다",
+        "나는 정원을 가꾸는 게 괴롭다",
+        "나의 생일은 4월이다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "36048",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 결혼을 안했다",
+        "나는 게임 프로그래머이다",
+        "나는 주말에 유명한 맛집에 간다",
+        "나의 생일은 2월이다",
+        "나는 닭발을 즐겨 먹는다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "15-05",
+    "topicType": "시사/사회>타국가이슈(해외)",
+    "topicTitle": "경제"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00091-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "안녕하세요, 저는 20대 여성입니다.",
+          "summary": "나는 20대 여성이다.",
+          "date": "2022-12-02",
+          "time": "16:24:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "안녕하세요. 저는 게임 프로그래머인 30대 여성입니다. 반갑습니다.",
+          "summary": "나는 게임 프로그래머인 30대 여성이다.",
+          "date": "2022-12-02",
+          "time": "21:05:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "저는 현재 경기도에서 거주하고 있습니다. 혹시 거주지가 어디이신가요?",
+          "summary": "나는 경기도에 거주한다.",
+          "date": "2022-12-03",
+          "time": "04:32:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "저는 서울에 거주하고 있습니다. 결혼은 안했고요. 생일은 2월이에요. @이름@님은 결혼하셨어요?",
+          "summary": "나는 서울에 거주하고 있으며 미혼이고 2월생이다.",
+          "date": "2022-12-03",
+          "time": "10:05:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "아니요! 저도 미혼입니다! 현재 직장을 다니고 있으며 저는 야근을 하는게 즐겁습니다. 혹시 취미가 있으신가요?",
+          "summary": "나는 미혼이며 직장을 다니고 있고 야근을 하는 게 즐겁다.",
+          "date": "2022-12-03",
+          "time": "16:29:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "야근하는걸 좋아하시는군요. 회사가 좋아하는 직원이시네요. 전 주말에 유명한 맛집에 가는게 취미에요. 주로 닭발을 즐겨 먹어요.",
+          "summary": "나는 주말에 유명한 맛집에 가는 게 취미이며 주로 닭발을 즐겨 먹는다.",
+          "date": "2022-12-03",
+          "time": "22:57:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "저는 원래는 정원을 가꾸는게 취미였는데 요새는 정원을 가꾸는 게 괴롭네요. 혹시 닭발말고 좋아하시는 음식이 있으신가요? 저는 중식을 좋아합니다.",
+          "summary": "나는 중식을 좋아하고, 정원을 가꾸는 게 취미였는데, 요새는 정원을 가꾸는 게 괴롭다.",
+          "date": "2022-12-04",
+          "time": "13:53:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "음~ 전 떡볶이 좋아해요.  정원 가꾸는거 힘든거 같아요. 전 집에있는 화초도 맨날 죽이건든요.",
+          "summary": "나는 떡볶이를 좋아한다.",
+          "date": "2022-12-04",
+          "time": "15:28:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "은근 식물 키우기가 쉽지 않더라구요. 혹시 생일은 언제 이신가요? 저는 4월입니다.",
+          "summary": "나는 생일이 4월이다.",
+          "date": "2022-12-05",
+          "time": "15:37:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "맞아요. 식물키우는 것 쉽지않아요. 제 생일은 2월이에요.  @이름@님은 음악 좋아하세요?",
+          "summary": "나는 2월생이다.",
+          "date": "2022-12-05",
+          "time": "22:01:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "네. 자주 듣는 편입니다. 힙합을 제일 좋아하구요! 어떤 음악 장르를 즐겨 들으시나요?",
+          "summary": "나는 힙합을 제일 좋아한다.",
+          "date": "2022-12-05",
+          "time": "22:25:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "저는 신나는 음악을 좋아해요. 요즘 @이름1@의 노래가 좋더라고요.",
+          "summary": "나는 신나는 음악을 좋아한다.",
+          "date": "2022-12-05",
+          "time": "22:38:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "저도 @이름1@ 노래 좋아합니다! 요즘 날씨가 추워졌는데 감기 조심하세요 ㅠㅠ ",
+          "summary": "나는 비오 노래를 좋아한다.",
+          "date": "2022-12-05",
+          "time": "22:42:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "네~ @이름@님도 감기 조심하세요. 다음에 또 대화 나눠요.",
+          "summary": "",
+          "date": "2022-12-05",
+          "time": "23:22:08",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다.",
+          "나는 경기도에 거주한다.",
+          "나는 미혼이며 직장을 다니고 있고 야근을 하는 게 즐겁다.",
+          "나는 중식을 좋아하고, 정원을 가꾸는 게 취미였는데, 요새는 정원을 가꾸는 게 괴롭다.",
+          "나는 생일이 4월이다.",
+          "나는 힙합을 제일 좋아한다.",
+          "나는 비오 노래를 좋아한다."
+        ],
+        "speaker2": [
+          "나는 게임 프로그래머인 30대 여성이다.",
+          "나는 서울에 거주하고 있으며 미혼이고 2월생이다.",
+          "나는 주말에 유명한 맛집에 가는 게 취미이며 주로 닭발을 즐겨 먹는다.",
+          "나는 떡볶이를 좋아한다.",
+          "나는 2월생이다.",
+          "나는 신나는 음악을 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00091-1",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00091-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "4시간만에 뵙네요. 그동안 무엇을 하셨나요?",
+          "summary": "",
+          "date": "2022-12-06",
+          "time": "00:15:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "안녕하세요. 벌써 4시간이나 지났네요. 저는 시사 경제 뉴스를 보고있었어요.",
+          "summary": "나는 시사 경제 뉴스를 보고 있었다.",
+          "date": "2022-12-06",
+          "time": "09:45:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "시사 경제 뉴스를 보고 계셨군요. 어느 채널에서 보고 계셨나요?",
+          "summary": "",
+          "date": "2022-12-06",
+          "time": "15:22:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "저희집에 TV가 없어서 인터넷으로 보고있었어요.",
+          "summary": "나는 집에 TV가 없어서 인터넷으로 본다.",
+          "date": "2022-12-06",
+          "time": "15:31:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "요새 굳이 TV가 없어도 인터넷이라 핸드폰을 통해서 뉴스를 볼 수 있어서 너무 편한것 같아요. 저도 아침마다 @브랜드명@ 보고 있습니다.",
+          "summary": "나는 아침마다 인터넷 뉴스를 본다.",
+          "date": "2022-12-06",
+          "time": "15:33:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "그렇죠. 우리 엄마 아빠 세대에는 TV나 라이오 밖에 없었다고 하더라고요. 요즘 해외 이슈는 전쟁이죠?",
+          "summary": "",
+          "date": "2022-12-06",
+          "time": "15:35:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "그렇죠. 월드컵 때문에 잠시 잠잠하게 보이기는 하지만 아직도 전쟁이 문제이긴 하죠. 러-우 전쟁이 빨리 끝났으면 좋겠어요. ",
+          "summary": "나는 러-우 전쟁이 빨리 끝났으면 좋겠다.",
+          "date": "2022-12-06",
+          "time": "15:36:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "그러니까요. 전쟁이 빨리 끝나야 할텐데요. 전쟁이 끝나면 우리나라 경제도 좋아질까요?",
+          "summary": "나는 전쟁이 빨리 끝나야 한다고 생각한다.",
+          "date": "2022-12-06",
+          "time": "21:09:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "전 세계적으로 경제가 회복되고나면 저절로 우리나라 경제도 좋아지지 않을까요? 그렇게 생각하고 있습니다.",
+          "summary": "나는 세계적으로 경제가 회복되면 우리나라고 좋아지리라 생각한다.",
+          "date": "2022-12-06",
+          "time": "22:12:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "그렇겠지요. 경제가 어려우니 삶이 더 궁핍해져만 가는 것 같아요. 그런데 요즘 10대들은 아직 그런 걱정이 없는듯 보여서 웃어야할지 울어야할지 모르겠네요.",
+          "summary": "나는 요즘 경제가 어려우니 삶이 더 궁핍해져만 가는 것 같다.",
+          "date": "2022-12-06",
+          "time": "22:16:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "저희야 물가가 올라간게 체감이 되지만 아이들은 아직 체감 못하니깐요. 나중에 되면 알지 않을까요? ㅎㅎ 그래도 어릴때부터 경제에 관심 가지게 하는건 좋은것 같아요.",
+          "summary": "나는 어릴 때부터 경제에 관심 갖는 게 좋은 것 같다.",
+          "date": "2022-12-06",
+          "time": "22:17:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "그런 맞는 말씀이세요. 어릴때부터 경제관련을 심어주는건 중요한 일인것 같아요. 어른인 우리가 솔선수범 해야겠죠?",
+          "summary": "나는 어릴 때부터 경제관념을 심어주는 게 중요하다고 생각한다.",
+          "date": "2022-12-06",
+          "time": "22:20:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "맞아요. 어른들이 나서서 알려줘야 아이들도 따라서 배울 수 있는거니깐요.",
+          "summary": "나는 어른이 나서서 알려 줘야 아이들이 배운다고 느낀다.",
+          "date": "2022-12-06",
+          "time": "22:22:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "그렇죠. 다음세대가 풍요롭게 살았으면 좋겠어요.  게임 프로그래머라서 게임을 많이 했더니 피곤해서 전 이만  자러 가야할 것 같아요. 다음에 다시 대화 나눠요.",
+          "summary": "나는 다음 세대가 풍요롭게 살았으면 좋겠다고 생각한다.",
+          "date": "2022-12-06",
+          "time": "22:38:35",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 아침마다 인터넷 뉴스를 본다.",
+          "나는 러-우 전쟁이 빨리 끝났으면 좋겠다.",
+          "나는 세계적으로 경제가 회복되면 우리나라고 좋아지리라 생각한다.",
+          "나는 어릴 때부터 경제에 관심 갖는 게 좋은 것 같다.",
+          "나는 어른이 나서서 알려 줘야 아이들이 배운다고 느낀다."
+        ],
+        "speaker2": [
+          "나는 시사 경제 뉴스를 보고 있었다.",
+          "나는 집에 TV가 없어서 인터넷으로 본다.",
+          "나는 전쟁이 빨리 끝나야 한다고 생각한다.",
+          "나는 요즘 경제가 어려우니 삶이 더 궁핍해져만 가는 것 같다.",
+          "나는 어릴 때부터 경제관념을 심어주는 게 중요하다고 생각한다.",
+          "나는 다음 세대가 풍요롭게 살았으면 좋겠다고 생각한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다.",
+          "나는 경기도에 거주한다.",
+          "나는 미혼이며 직장을 다니고 있고 야근을 하는 게 즐겁다.",
+          "나는 중식을 좋아하고, 정원을 가꾸는 게 취미였는데, 요새는 정원을 가꾸는 게 괴롭다.",
+          "나는 생일이 4월이다.",
+          "나는 힙합을 제일 좋아한다.",
+          "나는 비오 노래를 좋아한다."
+        ],
+        "speaker2": [
+          "나는 게임 프로그래머인 30대 여성이다.",
+          "나는 서울에 거주하고 있으며 미혼이고 2월생이다.",
+          "나는 주말에 유명한 맛집에 가는 게 취미이며 주로 닭발을 즐겨 먹는다.",
+          "나는 떡볶이를 좋아한다.",
+          "나는 2월생이다.",
+          "나는 신나는 음악을 좋아한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00091-2",
+      "prevTimeInfo": {
+        "timeNum": "8",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00091-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "8일만에 뵙네요. 그동안 잘 지내셨나요?",
+          "summary": "",
+          "date": "2022-12-07",
+          "time": "08:58:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "안녕하세요. 8일만이네요. 전 잘 지냈습니다. @이름@님도 잘 지내셨죠?",
+          "summary": "",
+          "date": "2022-12-07",
+          "time": "09:00:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "네! 저도 잘 지냈습니다. 얼마전에 마트에 장을 보러 다녀왔는데 확실히 물가가 많이 오르기는 했네요. 상품들이 다 비싸졌어요.",
+          "summary": "나는 물가가 많이 올랐다고 느낀다.",
+          "date": "2022-12-07",
+          "time": "09:15:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "맞아요. 요즘엔 마트가는게 두려울 정도 라니까요. 전쟁으로 수입이 안된다는 이유로 라면부터 시작해서 모두 오르고 있으니 서민들은 어찌 살아야할지 막막하네요.",
+          "summary": "나는 물가가 너무 올라서 마트에서 장을 보는 것도 걱정스럽다.",
+          "date": "2022-12-07",
+          "time": "09:26:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "식용유는 사본 적이 없어서 그런데 식용유값도 전보다 올랐죠?",
+          "summary": "나는 식용유값도 올랐다.",
+          "date": "2022-12-07",
+          "time": "09:38:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "많이 올랐어요. 휘발유값도 많이 올랐는데 지금은 좀 안정화 된 것 같아요. 지금은 경우가 더 비싸졌어요.",
+          "summary": "나는 경유가 더 비싸졌다고 느낀다.",
+          "date": "2022-12-07",
+          "time": "10:09:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "맞아요. 기름값이 너무 올랐다는 말 들어본것 같아요. 지금은 경우가 비싸군요. 이것도 러우전쟁의 여파같네요. 참 임금도 같이 올라야 될 텐데 말이죠. ",
+          "summary": "나는 임금도 올랐으면 좋겠다.",
+          "date": "2022-12-07",
+          "time": "12:55:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "맞아요. 임금은 안오르고 물가만 오르는 현 시국을 어떻게 해쳐나가야 할런지요? 경제가 살아나야하는데 말이죠.",
+          "summary": "나는 임금은 안 오르고 물가만 오르는 현 시국이 막막하다.",
+          "date": "2022-12-07",
+          "time": "14:13:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "기업들 입장에서야 이 상황에 임금을 올리는게 부담스럽겠지만 근데 서민은 더 힘들잖아요..아 혹시 주식을 하시나요?",
+          "summary": "나는 서민은 더 힘들다고 느낀다.",
+          "date": "2022-12-07",
+          "time": "14:33:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "네~ 저 주식하고 있어요. @이름@님은 주식하세요?",
+          "summary": "나는 주식을 하고 있다.",
+          "date": "2022-12-07",
+          "time": "15:08:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "주식 시작한지 한 1년정도 되었네요 ㅎㅎ 근데 많이 떨어져서 심란해요ㅠㅠ 경제가 안 좋아서 타격이 심하긴 하네요",
+          "summary": "나는 주식을 시작한 지 1년 정도 되었다.",
+          "date": "2022-12-07",
+          "time": "15:54:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "맞아요. 미국경제가 우리나라에도 영향을 미치기 때문에 전반적으로 다 안좋아요.",
+          "summary": "",
+          "date": "2022-12-07",
+          "time": "17:49:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "경제가 조금이라도 회복되었으면 하는 마음입니다.",
+          "summary": "나는 경제가 회복되었으면 한다.",
+          "date": "2022-12-07",
+          "time": "19:13:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "그러게요. 저도 그런 마음입니다. 전 전화가 와서 다음에 또 대화 나눠요.",
+          "summary": "",
+          "date": "2022-12-07",
+          "time": "19:34:25",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 물가가 많이 올랐다고 느낀다.",
+          "나는 식용유값도 올랐다.",
+          "나는 임금도 올랐으면 좋겠다.",
+          "나는 서민은 더 힘들다고 느낀다.",
+          "나는 주식을 시작한 지 1년 정도 되었다.",
+          "나는 경제가 회복되었으면 한다."
+        ],
+        "speaker2": [
+          "나는 물가가 너무 올라서 마트에서 장을 보는 것도 걱정스럽다.",
+          "나는 경유가 더 비싸졌다고 느낀다.",
+          "나는 임금은 안 오르고 물가만 오르는 현 시국이 막막하다.",
+          "나는 주식을 하고 있다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다.",
+          "나는 경기도에 거주한다.",
+          "나는 미혼이며 직장을 다니고 있고 야근을 하는 게 즐겁다.",
+          "나는 중식을 좋아하고, 정원을 가꾸는 게 취미였는데, 요새는 정원을 가꾸는 게 괴롭다.",
+          "나는 생일이 4월이다.",
+          "나는 힙합을 제일 좋아한다.",
+          "나는 비오 노래를 좋아한다.",
+          "나는 아침마다 인터넷 뉴스를 본다.",
+          "나는 러-우 전쟁이 빨리 끝났으면 좋겠다.",
+          "나는 세계적으로 경제가 회복되면 우리나라고 좋아지리라 생각한다.",
+          "나는 어릴 때부터 경제에 관심 갖는 게 좋은 것 같다.",
+          "나는 어른이 나서서 알려 줘야 아이들이 배운다고 느낀다."
+        ],
+        "speaker2": [
+          "나는 게임 프로그래머인 30대 여성이다.",
+          "나는 서울에 거주하고 있으며 미혼이고 2월생이다.",
+          "나는 주말에 유명한 맛집에 가는 게 취미이며 주로 닭발을 즐겨 먹는다.",
+          "나는 떡볶이를 좋아한다.",
+          "나는 2월생이다.",
+          "나는 신나는 음악을 좋아한다.",
+          "나는 시사 경제 뉴스를 보고 있었다.",
+          "나는 집에 TV가 없어서 인터넷으로 본다.",
+          "나는 전쟁이 빨리 끝나야 한다고 생각한다.",
+          "나는 요즘 경제가 어려우니 삶이 더 궁핍해져만 가는 것 같다.",
+          "나는 어릴 때부터 경제관념을 심어주는 게 중요하다고 생각한다.",
+          "나는 다음 세대가 풍요롭게 살았으면 좋겠다고 생각한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00091-3",
+      "prevTimeInfo": {
+        "timeNum": "7",
+        "timeUnit": "주"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00091-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "7주만에 만나네요. 오랜만입니다. 잘 지내셨나요?",
+          "summary": "",
+          "date": "2022-12-07",
+          "time": "19:41:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "안녕하세요. 벌써 두달이 다 되어 가네요. 전 잘 지냈어요. @이름@ 님도 잘 지내셨어요?",
+          "summary": "",
+          "date": "2022-12-07",
+          "time": "19:43:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "네! 저도 잘 지냈습니다! 요즘 무얼 하면서 지내시나요? 저는 경제 관련 자격증을 준비하고 있습니다!",
+          "summary": "나는 경제 관련 자격증을 준비하고 있다.",
+          "date": "2022-12-07",
+          "time": "19:48:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "전 요즘 경제 뉴스를 자주 보고있어요. 그런데 경제 관련 자격증도 있어요?",
+          "summary": "나는 요즘 경제 뉴스를 자주 보고 있다.",
+          "date": "2022-12-07",
+          "time": "20:06:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "매경테스트라고 시사용어, 경제학 이론에 대한 시험이에요! ",
+          "summary": "나는 매경테스트 시험을 준비하고 있다.",
+          "date": "2022-12-07",
+          "time": "20:12:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "아~ 그런것도 있군요. 처음 알았어요. 좋은 정보 감사해요. 저도 좀 알아봐야겠네요.",
+          "summary": "나는 경제 관련 자격증이 있다는 것을 처음 알았다.",
+          "date": "2022-12-07",
+          "time": "20:44:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "경제학에 대해서 공부하다보니까 경제의 흐름에 대해서 알 수 있게 되서 좋은것 같아요.  경제 뉴스를 보신다고 하셨는데 새로 올라온 경제 이슈가 있을까요?",
+          "summary": "나는 경제의 흐름에 대해 알게 되어 좋다. 나는 새로운 경제 이슈가 궁금하다.",
+          "date": "2022-12-07",
+          "time": "20:49:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "저는 중국경제가 내년에도 힘들다는 내용을 봤어요.",
+          "summary": "나는 중국 경제가 내년에도 힘들 것이라는 뉴스를 보았다.",
+          "date": "2022-12-07",
+          "time": "21:36:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "큰 나라라서 흔들리지 않을 것이라고 생각했는데 중국도 경제가 좋지 않군요. 중국이 특히 빈부격차가 심하지 않나요..?",
+          "summary": "나는 중국은 흔들리지 않을 것이라 생각했다.",
+          "date": "2022-12-07",
+          "time": "21:53:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "그렇더라고요. 중국도 빈부격차가 심하다고 하더라고요. 참 @이름@님은 요즘에도 정원 가꾸시면서 스트레스 받으시나요?",
+          "summary": "",
+          "date": "2022-12-07",
+          "time": "22:16:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "요새는 다른 취미에 빠져서 다행히도 정원 관련해서는 스트레스를 받고 있지 않습니다 ㅎㅎ 얼마전에 눈이 왔다고 하는데 보셨나요?",
+          "summary": "나는 다른 취미가 생겼다.",
+          "date": "2022-12-07",
+          "time": "22:35:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "네~ 눈 내리걸 창밖으로 보고 있었어요. 다른 취미가 생기셨군요. 저는 요즘 돈을 많이 썼네요. 경제에 이바지 하기위해서라고 위안을 삼으면서요. 돈을 써야 돌고 돈다고 생각하거든요.",
+          "summary": "나는 요즘 돈을 많이 썼는데 경제에 이바지하기 위해서라고 생각하고 있다.",
+          "date": "2022-12-07",
+          "time": "22:38:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26526",
+          "participantID": "3993",
+          "utterance": "맞아요. 마냥 가지고만 있으면 고인다고 하잖아요. 적절한 소비는 경제도 살리고 생활의 질로 올려준다고 생각합니다.",
+          "summary": "나는 적절한 소비는 경제도 살리고 생활의 질도 올려준다고 생각한다.",
+          "date": "2022-12-07",
+          "time": "22:45:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "36048",
+          "participantID": "4569",
+          "utterance": "옳으신 말씀이세요. 그동안 @이름@님과의 대화가 유익하고 즐거웠습니다.",
+          "summary": "",
+          "date": "2022-12-07",
+          "time": "22:57:31",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 경제 관련 자격증을 준비하고 있다.",
+          "나는 매경테스트 시험을 준비하고 있다.",
+          "나는 경제의 흐름에 대해 알게 되어 좋다.",
+          "나는 새로운 경제 이슈가 궁금하다.",
+          "나는 중국은 흔들리지 않을 것이라 생각했다.",
+          "나는 다른 취미가 생겼다.",
+          "나는 적절한 소비는 경제도 살리고 생활의 질도 올려준다고 생각한다."
+        ],
+        "speaker2": [
+          "나는 요즘 경제 뉴스를 자주 보고 있다.",
+          "나는 경제 관련 자격증이 있다는 것을 처음 알았다.",
+          "나는 중국 경제가 내년에도 힘들 것이라는 뉴스를 보았다.",
+          "나는 요즘 돈을 많이 썼는데 경제에 이바지하기 위해서라고 생각하고 있다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다.",
+          "나는 경기도에 거주한다.",
+          "나는 미혼이며 직장을 다니고 있고 야근을 하는 게 즐겁다.",
+          "나는 중식을 좋아하고, 정원을 가꾸는 게 취미였는데, 요새는 정원을 가꾸는 게 괴롭다.",
+          "나는 생일이 4월이다.",
+          "나는 힙합을 제일 좋아한다.",
+          "나는 비오 노래를 좋아한다.",
+          "나는 아침마다 인터넷 뉴스를 본다.",
+          "나는 러-우 전쟁이 빨리 끝났으면 좋겠다.",
+          "나는 세계적으로 경제가 회복되면 우리나라고 좋아지리라 생각한다.",
+          "나는 어릴 때부터 경제에 관심 갖는 게 좋은 것 같다.",
+          "나는 어른이 나서서 알려 줘야 아이들이 배운다고 느낀다.",
+          "나는 물가가 많이 올랐다고 느낀다.",
+          "나는 식용유값도 올랐다.",
+          "나는 임금도 올랐으면 좋겠다.",
+          "나는 서민은 더 힘들다고 느낀다.",
+          "나는 주식을 시작한 지 1년 정도 되었다.",
+          "나는 경제가 회복되었으면 한다."
+        ],
+        "speaker2": [
+          "나는 게임 프로그래머인 30대 여성이다.",
+          "나는 서울에 거주하고 있으며 미혼이고 2월생이다.",
+          "나는 주말에 유명한 맛집에 가는 게 취미이며 주로 닭발을 즐겨 먹는다.",
+          "나는 떡볶이를 좋아한다.",
+          "나는 2월생이다.",
+          "나는 신나는 음악을 좋아한다.",
+          "나는 시사 경제 뉴스를 보고 있었다.",
+          "나는 집에 TV가 없어서 인터넷으로 본다.",
+          "나는 전쟁이 빨리 끝나야 한다고 생각한다.",
+          "나는 요즘 경제가 어려우니 삶이 더 궁핍해져만 가는 것 같다.",
+          "나는 어릴 때부터 경제관념을 심어주는 게 중요하다고 생각한다.",
+          "나는 다음 세대가 풍요롭게 살았으면 좋겠다고 생각한다.",
+          "나는 물가가 너무 올라서 마트에서 장을 보는 것도 걱정스럽다.",
+          "나는 경유가 더 비싸졌다고 느낀다.",
+          "나는 임금은 안 오르고 물가만 오르는 현 시국이 막막하다.",
+          "나는 주식을 하고 있다."
+        ]
+      }
+    }
+  ]
+}

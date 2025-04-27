@@ -1,0 +1,706 @@
+{
+  "FileInfo": {
+    "filename": "K3-00032-CL03309-CP03234-18-12-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0093",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0043",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00032"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "03309",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 친구와 거의 만나지 않는다.",
+        "나는 오전에 유튜브를 본다.",
+        "나는 라멘을 좋아한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "03234",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 연인이 있고 사이가 좋다.",
+        "나는 수영을 싫어한다.",
+        "나는 김치볶음밥을 싫어한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "18-12",
+    "topicType": "상거래 전반",
+    "topicTitle": "아울렛"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00032-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "안녕하세요 40대 남자입니다 ~",
+          "summary": "나는 40대 남자이다.",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "네 반가워요 40대 남자예요 ㅎ.",
+          "summary": "나는 40대 남자이다.",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "주말인데 뭐하고계셨어요 ~ ??",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "여자친구랑 아울렛 놀러왔어요 ~ ㅎㅎ볼게많네요 !",
+          "summary": "나는 여자 친구와 아웃렛에 놀러 왔다.",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "아울렛이요 ?? 부럽다 ...저도 아울렛가고싶어요 여지친구랑 사이가 좋으신가보네요.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "네 ㅎ 여자친구랑 사이가 좋은편이예요 오시면되죠 친구분들끼리나 가족들끼리 !",
+          "summary": "나는 연인이 있고 사이가 좋다.",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "제가 친구랑 거의 만나지않아서 ..가족들도 바쁘구요.",
+          "summary": "나는 친구와 거의 만나지 않는다.",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "아하 ...그러시구나 다음에기회되시면 여기아울렛 꼭 와보세요 ㅎ 맛집도 엄청 많이생겼네요.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "우와 맛집이요 ?? 어떤 맛집이 생겼는데요 ???",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "라멘맛집도 있고 뭐..한식맛집도 있고 여러맛집많아요 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "라멘이요??!?!?!와...거기 꼭 가야겠어요...진짜 제가 라멘 엄청 좋아하거든요.",
+          "summary": "나는 라멘을 좋아한다.",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "그럼 꼭 오셔야겠네요 ㅎㅎ 그럼 그쪽은 뭐하고계셨어요.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "오전에 @브랜드명1@보고 수영갔다가 뭐...별거안했어요 ㅎ.",
+          "summary": "나는 오전에 @브랜드명1@를 본다.",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "수영장 다니시는거예요 ? 저는 예전에 수영하다가 죽을뻔해서 ㅠㅠㅠ 싫어해요.",
+          "summary": "나는 수영을 싫어한다.",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "넹 수영장 다녀요 ㅎ 저도 잘 못해서 배우는건데요 뭐 ~",
+          "summary": "나는 수영을 잘 못한다.",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "그러시구나 ㅎㅎ 저 쇼핑좀 하고올께요~ ㅋㅋ.",
+          "summary": "나는 쇼핑을 할 것이다.",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다.",
+          "나는 친구와 거의 만나지 않는다.",
+          "나는 라멘을 좋아한다.",
+          "나는 오전에 @브랜드명1@를 본다.",
+          "나는 수영을 잘 못한다."
+        ],
+        "speaker2": [
+          "나는 40대 남자이다.",
+          "나는 여자 친구와 아웃렛에 놀러 왔다.",
+          "나는 연인이 있고 사이가 좋다.",
+          "나는 수영을 싫어한다.",
+          "나는 쇼핑을 할 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00032-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "3-00032-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "쇼핑은 좀 많이 하셨어요 ??",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "네 ㅋㅋㅋ 쇼핑하다보니까 3시간이나 지났네요 오래기다리셨죠 ?",
+          "summary": "나는 쇼핑하다 보니 3시간이 지났다.",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "아니예요 ㅎㅎ 저도 그냥 있다보니 시간이 이렇게된지 몰랐아요.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "그러시구나~ 다행이네요 ㅎㅎ 뭐하고계셨어요.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "그냥 강아지랑 놀고있었어요 ~ 제가 강아지를 키우거든요.",
+          "summary": "나는 강아지랑 놀고 있었다. 나는 강아지를 키운다.",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "와 너무 기엽겠어요 ㅎㅎ 강아지 종이 어떻게되요 ?",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "장모치와와키우고있어요 ㅋ 좀 새침떼기긴한데 그래도 귀여워요.",
+          "summary": "나는 장모 치와와를 키운다.",
+          "date": "2022-08-20",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "와 저는 장모치와와 한번도 못봤어요 ㅎ.",
+          "summary": "나는 장모 치와와를 한 번도 못 봤다.",
+          "date": "2022-08-20",
+          "time": "21:16:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "보시면 사랑에 빠질꺼예요 ㅋㅋ조그만해서 ㅜ.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:16:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "오호 근데 털은 많이 안빠지나요 ??",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:16:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "털은 쫌 많이 빠지는 편이긴해요 ㅠㅠ 털갈이때는 심하구요.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:17:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "아이고야 ... 키울까 싶었는데 저는 못키우겠네요 ㅋㅋㅋㅋ털알러지가있어서.",
+          "summary": "나는 털 알레르기가 있다.",
+          "date": "2022-08-20",
+          "time": "21:17:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "저도 있는데 너무 귀여워서 참고 키우고있어요.",
+          "summary": "나는 털 알레르기가 있다.",
+          "date": "2022-08-20",
+          "time": "21:17:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "그게 참아지나용 ....? 온몸간지럽고 눈이랑 붓고 하지않나요 ...",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:18:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "저는 그래도 그정도는 아니라서뭐...ㅎㅎ 심하면 아마 못키우지싶어요.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:18:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "그렇구나 ㅎㅎ 저는 이제 얼른 밥먹고 집에 가야겠네요 ㅎ.",
+          "summary": "나는 밥 먹고 집에 갈 것이다.",
+          "date": "2022-08-20",
+          "time": "21:18:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "아직도 아울렛이신거예요 ?? ㅎ 밥 맛잇게 드시고오세요.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:18:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "볼게많아서 ㅋㅋ넵 먹고 연락드릴께요 ~",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:19:14",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 강아지랑 놀고 있었다. 나는 강아지를 키운다.",
+          "나는 장모 치와와를 키운다.",
+          "나는 털 알레르기가 있다."
+        ],
+        "speaker2": [
+          "나는 쇼핑하다 보니 3시간이 지났다.",
+          "나는 장모 치와와를 한 번도 못 봤다.",
+          "나는 털 알레르기가 있다.",
+          "나는 밥 먹고 집에 갈 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다.",
+          "나는 친구와 거의 만나지 않는다.",
+          "나는 라멘을 좋아한다.",
+          "나는 오전에 @브랜드명1@를 본다.",
+          "나는 수영을 잘 못한다."
+        ],
+        "speaker2": [
+          "나는 40대 남자이다.",
+          "나는 여자 친구와 아웃렛에 놀러 왔다.",
+          "나는 연인이 있고 사이가 좋다.",
+          "나는 수영을 싫어한다.",
+          "나는 쇼핑을 할 것이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00032-2",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "3-00032-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "밥은 맛잇게 다 드셨나요 ??",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:19:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "오 밥먹고 나오니까 딱 연락오네요 ㅋㅋ신기해요.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:19:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "대부분 밥먹으면 한시간정도 걸리니까요 ㅎ 뭐맛잇는거 드셨어요.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:21:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "여자친구는 김치볶음밥먹고 저는 김치찌개 먹었어요.",
+          "summary": "나는 김치찌개를 먹었다. 나의 여자 친구는 김치볶음밥을 먹었다.",
+          "date": "2022-08-20",
+          "time": "21:22:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "같은거드시지 왜 다른거 드셨어요 ㅋㅋㅋㅋㅋㅋ.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:22:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "제가 김치볶음밥을 싫어해서요 ㅋㅠ 양보해서 김치찌개라도 먹은거예요.",
+          "summary": "나는 김치볶음밥을 싫어한다.",
+          "date": "2022-08-20",
+          "time": "21:22:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "그러시구나 ㅎㅎ 이제 아울렛을 드디어 떠나는건가요.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:22:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "아뇨 ...아직 아울렛에 있을것같아요 ㅎ 여자친구가 영화보고 가자네요.",
+          "summary": "나는 아웃렛에 아직 있을 것 같다.",
+          "date": "2022-08-20",
+          "time": "21:23:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "오호 좋네요 요즘 나온 한산 보시는거예요 ??",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:23:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "넹 ㅋㅋ 저는 혼자 봤었는데 여자친구가안봐서.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:23:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "ㅋㅋㅋㅋ멋진 남자친구네요 여자친구분이 좋아하시겠어요.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:23:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "여자친구는 제가 혼자 본거 몰라요 ㅠㅠ ㅋㅋ말하면 혼날듯요...",
+          "summary": "나의 여자 친구는 내가 혼자 영화를 본지 모른다.",
+          "date": "2022-08-20",
+          "time": "21:24:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "아정말요 ??ㅋㅋㅋㅋㅋ절대 모른척해야겠네요 처음보는척.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:24:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "네 ㅋㅋ그래서 줄거리도 모른척 무슨영화냐고 물어보고했어요.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:24:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "연기력이 뛰어나십니다 ㅋ 저도 한산 봐야하는데 한산 재밌어요??",
+          "summary": "나는 한산을 봐야 한다.",
+          "date": "2022-08-20",
+          "time": "21:25:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "저는 명량보다 재밌었어요 ㅋ 여자친구가 자꾸 핸드폰본다고 싫어하네요 ...",
+          "summary": "나는 명량보다 재미있었다.",
+          "date": "2022-08-20",
+          "time": "21:25:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03309",
+          "participantID": "0093",
+          "utterance": "당연히 저같아도 싫겠어요 ㅎ 그럼 데이트에 집중하세요 영화잘보시구요.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:25:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03234",
+          "participantID": "0043",
+          "utterance": "네~ 그럼 여유있을때 또 연락드릴께요.",
+          "summary": "",
+          "date": "2022-08-20",
+          "time": "21:25:44",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 한산을 봐야 한다."
+        ],
+        "speaker2": [
+          "나는 김치찌개를 먹었다. 나의 여자 친구는 김치볶음밥을 먹었다.",
+          "나는 김치볶음밥을 싫어한다.",
+          "나는 아웃렛에 아직 있을 것 같다.",
+          "나의 여자 친구는 내가 혼자 영화를 본지 모른다.",
+          "나는 명량보다 재미있었다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다.",
+          "나는 친구와 거의 만나지 않는다.",
+          "나는 라멘을 좋아한다.",
+          "나는 오전에 @브랜드명1@를 본다.",
+          "나는 수영을 잘 못한다.",
+          "나는 강아지랑 놀고 있었다. 나는 강아지를 키운다.",
+          "나는 장모 치와와를 키운다.",
+          "나는 털 알레르기가 있다."
+        ],
+        "speaker2": [
+          "나는 40대 남자이다.",
+          "나는 여자 친구와 아웃렛에 놀러 왔다.",
+          "나는 연인이 있고 사이가 좋다.",
+          "나는 수영을 싫어한다.",
+          "나는 쇼핑을 할 것이다.",
+          "나는 쇼핑하다 보니 3시간이 지났다.",
+          "나는 장모 치와와를 한 번도 못 봤다.",
+          "나는 털 알레르기가 있다.",
+          "나는 밥 먹고 집에 갈 것이다."
+        ]
+      }
+    }
+  ]
+}

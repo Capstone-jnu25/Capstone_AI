@@ -1,0 +1,737 @@
+{
+  "FileInfo": {
+    "filename": "K3-00078-CL20609-CP22146-13-05-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0813",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0778",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "사무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00078"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "20609",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 요즘, 일을 할 때 자신감이 생긴다.",
+        "나는 심리학과 전공이다.",
+        "나는 드럼 연주를 배우고 싶다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22146",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 사자를 싫어한다.",
+        "나는 주말에 드라이브를 한다.",
+        "나는 시를 좋아한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "13-05",
+    "topicType": "기후>계절/날씨",
+    "topicTitle": "하늘"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "3-00078-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "안녕하세요. 저는 20대 남자입니다.",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-09-26",
+          "time": "18:44:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "안녕하세요. 저는 20대 남자입니다..!!",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-09-26",
+          "time": "18:44:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "반가워요! 혹시 주말에는 뭐 하세요??",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:44:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "저는 드라이브를 좋아해서 혼자 드라이브 하려고요.",
+          "summary": "나는 주말에 드라이브를 한다.",
+          "date": "2022-09-26",
+          "time": "18:45:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "차 가지고 계시구나... 부럽네요.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:45:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "그리고 시를 좋아해서 시 나레이션 들으면서 드라이브할 거예요.",
+          "summary": "나는 시를 좋아한다. 나는 시 내레이션 들으며 드라이브한다.",
+          "date": "2022-09-26",
+          "time": "18:45:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "멋지세요!! 저는 드럼연주를 배우고 싶어서 팀플 모임 마치고 학원 알아보려고요.",
+          "summary": "나는 드럼 연주를 배우고 싶다. 나는 팀플 모임을 마치고 학원을 알아볼 것이다.",
+          "date": "2022-09-26",
+          "time": "18:46:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "드럼연주 정말 멋진 것 같아요. 리듬 쪼개는 맛이 엄청날 것 같아요.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:46:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "저는 요즘에 일을 할 때 자신감이 생겨서 드럼도 잘 칠 것 같아요.",
+          "summary": "나는 요즘 일을 할 때 자신감이 생긴다.",
+          "date": "2022-09-26",
+          "time": "18:47:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "우와... 에너지 넘치시네요. 전 요즘 썸 타고 있어요.",
+          "summary": "난 요즘 썸 탄다.",
+          "date": "2022-09-26",
+          "time": "18:47:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "헉...부러워요. 이 날씨에 썸이라니.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:47:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "근데 오늘 그 분께 사자 닮았단 말 들었어요. 전 사자 싫어하는데..ㅋㅋㅋ.",
+          "summary": "나는 썸녀에게 사자 닮았단 말을 들었다. 나는 사자를 싫어한다.",
+          "date": "2022-09-26",
+          "time": "18:47:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "그정도는 사소하니까 극복할 수 있죠. 혹시 드라이브도 그 분이랑 가시는 건가요??",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:48:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "그렇죠. 이번 주는 이른 것 같아서 다음 주에 제안하려고요.",
+          "summary": "나는 다음 주에 썸녀에게 드라이브를 제안할 거다.",
+          "date": "2022-09-26",
+          "time": "18:48:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "부럽네요.... 저는 쓸쓸하게 밥 먹으러 가볼게요.",
+          "summary": "나는 밥을 먹으러 간다.",
+          "date": "2022-09-26",
+          "time": "18:48:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "하하. 저도 제가 설레발 치는 걸 수도 있네요.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:49:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "그쪽도 꼭 그 분이랑 맛있게 드세요ㅋㅋㅋ....",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:49:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "네네. 제발 잘 풀렸으면 좋겠어요. 감사해요.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:49:32",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 드럼 연주를 배우고 싶다. 나는 팀플 모임을 마치고 학원을 알아볼 것이다.",
+          "나는 요즘 일을 할 때 자신감이 생긴다.",
+          "나는 밥을 먹으러 간다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 주말에 드라이브를 한다.",
+          "나는 시를 좋아한다. 나는 시 내레이션 들으며 드라이브한다.",
+          "난 요즘 썸 탄다.",
+          "나는 썸녀에게 사자 닮았단 말을 들었다. 나는 사자를 싫어한다.",
+          "나는 다음 주에 썸녀에게 드라이브를 제안할 거다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00078-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "3-00078-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "저녁은 다 드셨나요?? 저는 배달로 대충 때웠어요.",
+          "summary": "나는 저녁에 배달음식을 먹었다.",
+          "date": "2022-09-26",
+          "time": "18:49:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "네. 야외에서 먹었는데 하늘이 정말 예뻤어요.",
+          "summary": "나는 야외에서 먹었다. 하늘이 예뻤다.",
+          "date": "2022-09-26",
+          "time": "18:50:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "하늘 예쁘죠. 저는 가을 하늘 보니 더 외로워졌지만요.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:50:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "하하.... 구름 한 점 없는데 노을 지니까 절경이더라고요.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:50:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "맞아요. 해가 너무 빨리 져서 아쉬워요.",
+          "summary": "나는 해가 빨리 져서 아쉽다.",
+          "date": "2022-09-26",
+          "time": "18:51:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "@브랜드명1@그램에 예전에 하늘스타그램하고 많이 올라왔던 게 떠오르네요.ㅋㅋ.",
+          "summary": "나는 예전에 @브랜드명1@그램에 하늘 스타 그램 해쉬태그 게시물들이 올라왔던 게 떠오른다.",
+          "date": "2022-09-26",
+          "time": "18:51:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "ㅋㅋㅋㅋㅋㅋ. 전 요즘 스토리에 하늘 사진을 자주 올려요.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:51:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "오오. 요즘은 사람들이 게시물을 잘 안 올리더라고요.",
+          "summary": "요즘 사람들은 게시물을 잘 안 올린다.",
+          "date": "2022-09-26",
+          "time": "18:51:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "그게 유행인가봐요ㅋㅋㅋ. 저도 나이 들수록 안 올리는 것 같아요.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:52:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "맞아요. 아무래도 휘발성인 스토리가 좀 더 부담이 없어서 그런 것 같아요...",
+          "summary": "휘발성인 스토리는 올릴 때 부담이 적다.",
+          "date": "2022-09-26",
+          "time": "18:52:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "스토리에 모든 걸 다 올리게 돼서 문제예요ㅋㅋㅋ.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:53:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "그러니까 말이에요. 중독된 것 같아요.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:53:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "근데 지금 하늘 보니 깜깜하네요...",
+          "summary": "하늘이 깜깜하다.",
+          "date": "2022-09-26",
+          "time": "18:53:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "하늘 보는 시간이나 늘려야할텐데 말이죠...ㅋㅋ 헉 그러네요.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:54:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "하늘을 자주 보면 행복한 사람이래요.",
+          "summary": "하늘을 자주 보면 행복한 사람이다.",
+          "date": "2022-09-26",
+          "time": "18:54:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "맞아요.. 전 북두칠성 한 번도 제대로 본 적이 없어요... 눈이 어두운가봐요.ㅎ.",
+          "summary": "나는 북두칠성을 제대로 본 적이 없다.",
+          "date": "2022-09-26",
+          "time": "18:54:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "저는 이만 과제하러 가볼게요!!",
+          "summary": "나는 과제하러 간다.",
+          "date": "2022-09-26",
+          "time": "18:55:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "저는 북두칠성 사진 좀 검색해보러 갈게요.",
+          "summary": "나는 북두칠성 사진 검색하러 간다.",
+          "date": "2022-09-26",
+          "time": "18:55:07",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 저녁에 배달음식을 먹었다.",
+          "나는 해가 빨리 져서 아쉽다.",
+          "하늘이 깜깜하다.",
+          "하늘을 자주 보면 행복한 사람이다.",
+          "나는 과제하러 간다."
+        ],
+        "speaker2": [
+          "나는 야외에서 먹었다. 하늘이 예뻤다.",
+          "나는 예전에 @브랜드명1@그램에 하늘 스타 그램 해쉬태그 게시물들이 올라왔던 게 떠오른다.",
+          "요즘 사람들은 게시물을 잘 안 올린다.",
+          "휘발성인 스토리는 올릴 때 부담이 적다.",
+          "나는 북두칠성을 제대로 본 적이 없다.",
+          "나는 북두칠성 사진 검색하러 간다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 드럼 연주를 배우고 싶다. 나는 팀플 모임을 마치고 학원을 알아볼 것이다.",
+          "나는 요즘 일을 할 때 자신감이 생긴다.",
+          "나는 밥을 먹으러 간다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 주말에 드라이브를 한다.",
+          "나는 시를 좋아한다. 나는 시 내레이션 들으며 드라이브한다.",
+          "난 요즘 썸 탄다.",
+          "나는 썸녀에게 사자 닮았단 말을 들었다. 나는 사자를 싫어한다.",
+          "나는 다음 주에 썸녀에게 드라이브를 제안할 거다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00078-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "3-00078-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "주말 잘 보내셨나요? 드라이브는 좋으셨나요?",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:55:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "드라이브 하다가 차가 막혀서 조금 답답했어요.",
+          "summary": "나는 드라이브하다가 차가 막혀서 답답했다.",
+          "date": "2022-09-26",
+          "time": "18:55:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "ㅋㅋㅋㅋㅋ. 드라이브하면서 주로 무슨 노래 들으세요?",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:56:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "요즘은 @이름1@의 러쉬아워라는 곡 들어요.",
+          "summary": "나는 드라이브할 때 @이름1@의 러시아워라는 곡을 듣는다.",
+          "date": "2022-09-26",
+          "time": "18:56:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "그거 저도 많이 들었어요. 요즘 예능에 @이름1@가 엄청 나오더라고요ㅋㅋㅋ.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:57:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "처음 들을 때는 뭐지 싶었는데 들을수록 너무너무 좋더라고요.",
+          "summary": "나는 러시아워를 들을수록 노래가 좋다.",
+          "date": "2022-09-26",
+          "time": "18:57:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "맞아요ㅋㅋㅋㅋ. @이름1@ 너무 좋은 것 같아요.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:57:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "맞아요. 콧구멍에 총알 두 개 넣는 거 보고 놀랐어요.",
+          "summary": "나는 @이름1@가 콧구멍에 총알 두 개 넣는 것 보고 놀랐다.",
+          "date": "2022-09-26",
+          "time": "18:57:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "ㅋㅋㅋㅋㅋ진짜 독보적인 캐릭터. 저 그런 사람 처음 봐요.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:58:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "조나단 채널에 나오는 거 봤는데 진짜로 웃겨요. 그니까요.",
+          "summary": "나는 @이름1@가 조나단 채널에 나오는 걸 봤다.",
+          "date": "2022-09-26",
+          "time": "18:58:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "진짜 뭐 저런 사람이 있지...싶어요.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:59:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "저도 그런 사람이 되고 싶은데 그건 타고난 것 같아요..ㅋㅋㅋㅋㅋ.",
+          "summary": "나는 @이름1@같이 웃긴 사람이 되고 싶다.",
+          "date": "2022-09-26",
+          "time": "18:59:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "노래도 잘부르고 왜 여자들이 좋아하는지 알겠더라고요.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:59:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "맞아요. 저는 남자인데도 푹 빠져서 다 찾아봤네요.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "18:59:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "그럴 만도 해요ㅋㅋㅋㅋㅋ.",
+          "summary": "",
+          "date": "2022-09-26",
+          "time": "19:00:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "@이름1@ 얘기하니까 러쉬아워 또 듣고 싶어졌어요.",
+          "summary": "나는 러시아워를 또 듣고 싶어졌다.",
+          "date": "2022-09-26",
+          "time": "19:00:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20609",
+          "participantID": "0813",
+          "utterance": "듣고 오세요. 저는 터키즈 보러 가야겠어요.",
+          "summary": "나는 터키즈를 보러 간다.",
+          "date": "2022-09-26",
+          "time": "19:00:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22146",
+          "participantID": "0778",
+          "utterance": "전 스피커로 빵빵하게 러시아워 듣고 밥 먹을게요.ㅎ.",
+          "summary": "나는 밥 먹을 거다.",
+          "date": "2022-09-26",
+          "time": "19:00:48",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 터키즈를 보러 간다."
+        ],
+        "speaker2": [
+          "나는 드라이브하다가 차가 막혀서 답답했다.",
+          "나는 드라이브할 때 @이름1@의 러시아워라는 곡을 듣는다.",
+          "나는 러시아워를 들을수록 노래가 좋다.",
+          "나는 @이름1@가 콧구멍에 총알 두 개 넣는 것 보고 놀랐다.",
+          "나는 @이름1@가 조나단 채널에 나오는 걸 봤다.",
+          "나는 @이름1@같이 웃긴 사람이 되고 싶다.",
+          "나는 러시아워를 또 듣고 싶어졌다.",
+          "나는 밥 먹을 거다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 드럼 연주를 배우고 싶다. 나는 팀플 모임을 마치고 학원을 알아볼 것이다.",
+          "나는 요즘 일을 할 때 자신감이 생긴다.",
+          "나는 밥을 먹으러 간다.",
+          "나는 저녁에 배달음식을 먹었다.",
+          "나는 해가 빨리 져서 아쉽다.",
+          "하늘이 깜깜하다.",
+          "하늘을 자주 보면 행복한 사람이다.",
+          "나는 과제하러 간다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 주말에 드라이브를 한다.",
+          "나는 시를 좋아한다. 나는 시 내레이션 들으며 드라이브한다.",
+          "난 요즘 썸 탄다.",
+          "나는 썸녀에게 사자 닮았단 말을 들었다. 나는 사자를 싫어한다.",
+          "나는 다음 주에 썸녀에게 드라이브를 제안할 거다.",
+          "나는 야외에서 먹었다. 하늘이 예뻤다.",
+          "나는 예전에 @브랜드명1@그램에 하늘 스타 그램 해쉬태그 게시물들이 올라왔던 게 떠오른다.",
+          "요즘 사람들은 게시물을 잘 안 올린다.",
+          "휘발성인 스토리는 올릴 때 부담이 적다.",
+          "나는 북두칠성을 제대로 본 적이 없다.",
+          "나는 북두칠성 사진 검색하러 간다."
+        ]
+      }
+    }
+  ]
+}

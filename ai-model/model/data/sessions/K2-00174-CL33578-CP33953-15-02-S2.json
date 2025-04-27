@@ -1,0 +1,453 @@
+{
+  "FileInfo": {
+    "filename": "K2-00174-CL33578-CP33953-15-02-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0874",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "자영업",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0883",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00174"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "33578",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 중국어를 싫어한다.",
+        "나는 프랑스에 가봤다.",
+        "나는 실내에서 배드민턴 치는 것을 좋아한다.",
+        "나는 화분에 물을 주는 것을 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "33953",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 블루스 음악을 가끔 듣는다.",
+        "나는 호주에 가봤다.",
+        "나는 배구를 가끔 한다.",
+        "나는 비빔냉면을 좋아한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "15-02",
+    "topicType": "시사/사회>타국가이슈(해외)",
+    "topicTitle": "재해 및 재난"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00174-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33578",
+          "participantID": "0874",
+          "utterance": "안녕하세요! 저는 30대 여자입니다 처음뵙겠습니다.",
+          "summary": "나는 30대 여자이다.",
+          "date": "2022-11-02",
+          "time": "22:52:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33953",
+          "participantID": "0883",
+          "utterance": "안녕하세요 저는 30대 여자입니다 반가워요^^",
+          "summary": "나는 30대 여자이다.",
+          "date": "2022-11-02",
+          "time": "22:53:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33578",
+          "participantID": "0874",
+          "utterance": "오 또래네요? 우리 말편하게 하는게 어때요?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "22:53:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33953",
+          "participantID": "0883",
+          "utterance": "좋아요! 뭐하고있었어? 친구라고 부르면 될까?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "22:53:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33578",
+          "participantID": "0874",
+          "utterance": "그래! 나는 지금 체육관에서 내가 좋아하는 배드민턴 치고있어^^",
+          "summary": "나는 실내에서 배드민턴 치는 것을 좋아한다.",
+          "date": "2022-11-02",
+          "time": "22:53:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33953",
+          "participantID": "0883",
+          "utterance": "나는 배구를 가끔하는데! 너도 스포츠 좋아하는구나?",
+          "summary": "나는 배구를 가끔 한다.",
+          "date": "2022-11-02",
+          "time": "22:54:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33578",
+          "participantID": "0874",
+          "utterance": "맞아! 너는 그럼 일을 안하고있어? 궁금하다!",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "22:54:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33953",
+          "participantID": "0883",
+          "utterance": "나는 주부야 친구는 무슨일해? 알려줘바!",
+          "summary": "나는 주부이다.",
+          "date": "2022-11-02",
+          "time": "22:54:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33578",
+          "participantID": "0874",
+          "utterance": "나는 지금 실업자야~ 지금 잠깐 일좀 쉬고있거든.",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "22:54:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33953",
+          "participantID": "0883",
+          "utterance": "그렇구나~ 일안하니깐 어때? 심심하지않아?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "22:55:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33578",
+          "participantID": "0874",
+          "utterance": "전혀! 이번에 일 쉬면서 프랑스도 다녀오고 너무 좋았거든~",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "22:55:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33953",
+          "participantID": "0883",
+          "utterance": "앗정말? 나는 호주에 가봤는데 프랑스는 못가봤거든 ㅠㅠ.",
+          "summary": "나는 프랑스에는 못 가봤지만 호주는 가봤다.",
+          "date": "2022-11-02",
+          "time": "22:55:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33578",
+          "participantID": "0874",
+          "utterance": "아진짜? 하 근데 내가 비서로 일하면서 싫어하는 화분에 물을 줬던거 생각하면 으 싫어.",
+          "summary": "나는 화분에 물을 주는 것을 싫어한다. 나는 비서로 일했다.",
+          "date": "2022-11-02",
+          "time": "22:56:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33953",
+          "participantID": "0883",
+          "utterance": "아 너 비서였구나? 고생했어~ 다시 복직할 생각은 없는거야?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "22:56:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33578",
+          "participantID": "0874",
+          "utterance": "전혀없지~ 나 잠시만 이제 집에가서 씻고올게^^",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "22:56:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33953",
+          "participantID": "0883",
+          "utterance": "알겠어 그럼 나중에 또 대화 나누자~",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "22:56:55",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 실내에서 배드민턴 치는 것을 좋아한다.",
+          "나는 화분에 물을 주는 것을 싫어한다. 나는 비서로 일했다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다.",
+          "나는 배구를 가끔 한다.",
+          "나는 주부이다.",
+          "나는 프랑스에는 못 가봤지만 호주는 가봤다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00174-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00174-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33578",
+          "participantID": "0874",
+          "utterance": "친구야~ 3일만에 연락하지? 뭐하고 있었어?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "22:56:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33953",
+          "participantID": "0883",
+          "utterance": "나는 블루스 음악을 가끔 듣고있었어~ 넌뭐해?",
+          "summary": "나는 블루스 음악을 가끔 듣는다.",
+          "date": "2022-11-02",
+          "time": "22:57:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33578",
+          "participantID": "0874",
+          "utterance": "지금 밖에 태풍때문에 집에 갇혀있다.. 넌 안무서워?",
+          "summary": "나는 태풍 때문에 집에 있다.",
+          "date": "2022-11-02",
+          "time": "22:57:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33953",
+          "participantID": "0883",
+          "utterance": "나 너무 무서워서 완전 무장하고있잖아~ 하하.",
+          "summary": "나는 무서워서 무장을 하고 있다.",
+          "date": "2022-11-02",
+          "time": "22:57:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33578",
+          "participantID": "0874",
+          "utterance": "그러니까 너 날라가는거 아니야? 나무 잘잡고다녀~",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "22:58:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33953",
+          "participantID": "0883",
+          "utterance": "나 집인데? 하하 창문깨질까봐 테이프도 붙혀놓고 난리도 아니다~",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "22:58:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33578",
+          "participantID": "0874",
+          "utterance": "그나저나 태풍때문에~ 지금 배달도 못시켜서 굶고있다..",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "22:58:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33953",
+          "participantID": "0883",
+          "utterance": "맞아 오늘같은날 오토바이타면 진짜 위험하겠다 ㅠㅠ.",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "22:58:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33578",
+          "participantID": "0874",
+          "utterance": "그러니까 .. 근데 배달료가 10000원이래 너였음 시킬거야?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "22:59:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33953",
+          "participantID": "0883",
+          "utterance": "흠 고민되는데? 내가 비빔냉면을좋아하는데 지금 너무 먹고싶거든!",
+          "summary": "나는 비빔냉면을 좋아한다.",
+          "date": "2022-11-02",
+          "time": "22:59:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33578",
+          "participantID": "0874",
+          "utterance": "대단하다~ 나는 지금 할게없어서 TV보는데 무슨 중국영화가 나와서 중국어 듣기싫어서 채널 돌렸어.",
+          "summary": "나는 중국어를 싫어한다.",
+          "date": "2022-11-02",
+          "time": "22:59:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33953",
+          "participantID": "0883",
+          "utterance": "앗정말? 그럼 재난영화좀 봐바~ 나는 재난영화 좋아하거든!",
+          "summary": "나는 재난영화를 좋아한다.",
+          "date": "2022-11-02",
+          "time": "23:00:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33578",
+          "participantID": "0874",
+          "utterance": "아그래? 재난영화가 뭐있지? 그 이민기 나온건가? 해운대?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "23:00:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33953",
+          "participantID": "0883",
+          "utterance": "아니~ 씽크홀안봤어? 그거 재밌어 꼭 봐~",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "23:00:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33578",
+          "participantID": "0874",
+          "utterance": "오래만에 오케이 좋았어 영화봐야겠다^^",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "23:01:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33953",
+          "participantID": "0883",
+          "utterance": "그럼 살아서 꼭 다음에 또 연락하자^^",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "23:01:18",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 태풍 때문에 집에 있다.",
+          "나는 중국어를 싫어한다."
+        ],
+        "speaker2": [
+          "나는 블루스 음악을 가끔 듣는다.",
+          "나는 무서워서 무장을 하고 있다.",
+          "나는 비빔냉면을 좋아한다.",
+          "나는 재난영화를 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 실내에서 배드민턴 치는 것을 좋아한다.",
+          "나는 화분에 물을 주는 것을 싫어한다. 나는 비서로 일했다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다.",
+          "나는 배구를 가끔 한다.",
+          "나는 주부이다.",
+          "나는 프랑스에는 못 가봤지만 호주는 가봤다."
+        ]
+      }
+    }
+  ]
+}

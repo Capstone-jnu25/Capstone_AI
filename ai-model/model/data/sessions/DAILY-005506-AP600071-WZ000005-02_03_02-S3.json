@@ -1,0 +1,1366 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-005506-AP600071-WZ000005-02_03_02-S3.json",
+        "sessionLevel": "3"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0057",
+            "gender": "여성",
+            "age": "60대 이상",
+            "occupation": "주부",
+            "bPlace": "부산/대구/울산/경상",
+            "gPlace": "부산/대구/울산/경상",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "중졸",
+            "major": "기타"
+        },
+        "speaker2": {
+            "participantID": "F0057",
+            "gender": "여성",
+            "age": "30대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "행정"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "005506"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600071",
+            "personaFeatures": [
+                "나는 관광/감상의 지명에 관심이 많다.",
+                "나는 요즘, 3년 전 일 때문에 죄책감이 든다",
+                "나는 매일 편안하다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000005",
+            "personaFeatures": [
+                "나는 지명에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_02",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "장소"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "16",
+            "numberOfTurns": "8",
+            "sessionID": "005506-1",
+            "sessionKeywords": [
+                "*대천해수욕장*,*대천해수욕장*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "그동안은 과로를 해서 몸이 아픈거야. 그래서 얼마 전부터 요가를 했더니 매일이 편안하고 마음에 안정이 오는거야.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 과로를 해서 몸이 아프다. 나는 요가를 한다.",
+                    "timestamp": 1695908657000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 그러셨군요. 과로를 할 땐 쉬는 게 좋아요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695908682000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "응 그래서 외부에서 요가하는 것도 좋다고 해서 여름이고 하니까 해수욕장에 가려고 하는데 혹시 우리나라에서 갈만한 해수욕장 어디있을까? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695908722000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 대천해수욕장은 충청남도 보령시 신흑동 일원에 위치한 해수욕장으로 전국 해수욕장 중 규모, 시설면에서 최고로 손꼽히는 여름휴양지예요.",
+                    "context": {
+                        "query": "대천해수욕장",
+                        "contents": [
+                            {
+                                "documentID": "346097",
+                                "documentTitle": "대천해수욕장",
+                                "content": [
+                                    "대천해수욕장(大川海水浴場)은 충청남도 보령시 신흑동 일원에 위치한 해수욕장으로 전국 해수욕장 중 규모, 시설면에서 최고로 손꼽히는 여름휴양지이다.",
+                                    "한해 천만 명에 이르는 관광객의 발길이 끊이지 않으며, 매년 7월 마다 개최되는 보령머드축제가 유명하다.",
+                                    "서해안 최고의 휴양지이자 국제적 관광명소로 자리 매김을 하고 있다.",
+                                    "규모면에서 백사장의 길이가 3.5km, 폭 100m에 달하는 대형 해수욕장이다.",
+                                    "백사장 남쪽에 기암괴석이 잘 발달되어 있어 비경을 연출하고 있으며, 수온 역시 적당하여 기분좋은 해수욕을 즐길 수 있다.",
+                                    "대천 해수욕장의 모래질은 동양에서 유일한 패각분으로 조개껍질이 오랜 세월을 지나는 동안 잘게 부서져 모래로 변모한 것이다.",
+                                    "규사로 된 백사장이 몸에 달라붙는 점에 비해 패각분은 부드러우면서 물에 잘 씻기는 장점을 갖고 있다.",
+                                    "안타까운 사건이 있었는데 1997년 9월에 유괴되 살해당한 박초롱초롱빛나리가 이곳에 유해가 뿌려졌다."
+                                ]
+                            },
+                            {
+                                "documentID": "327408",
+                                "documentTitle": "관광우편날짜도장",
+                                "content": [
+                                    "관광우편날짜도장(觀光郵便날짜圖章) 또는 줄여서 관광인(觀光印)은 날짜도장의 한 종류로 우체국의 이름과 날짜 외에 해당 우체국 주변의 명소나 고적, 문화재 등과 관련있는 도안이 새겨져 있다.",
+                                    "역사.",
+                                    "한국 최초의 관광우편날짜도장은 일제강점기때 만들어졌다.",
+                                    "1931년 10월 20일부터 쓰기 시작했다.",
+                                    "대한민국 정부 수립 후 최초의 관광우편날짜도장은 1958년 5월 20일 서울중앙우체국에서 사용되었다.",
+                                    "그러나 1954년 8월 1일에 대천우체국 대천해수욕장임시출장소에서 사용한 날짜도장을 최초의 관광우편날짜도장으로 보는 수집가도 있다.",
+                                    "과거에는 관광통신일부인(觀光通信日附印)이라고 불렀으나 우정사업본부는 2014년 12월부터 일본제 한자어를 순화하기 위해 이름을 관광우편날짜도장으로 바꾸었다.",
+                                    "1958년 8월에 관광우편날짜도장 사용관서는 16개국이었다.",
+                                    "2019년 11월 5일 기준으로 427개국에서 488개의 관광우편날짜도장을 쓰고 있다.",
+                                    "각국의 관광우편날짜도장.",
+                                    "일본에서는 풍경입통신일부인(風景入通信日付印) 또는 줄여서 풍경인(風景印)을 사용한다.",
+                                    "1931년 7월 7일에 일본 체신성 고시로 풍경입통신일부인 제도가 만들어졌으며, 7월 10일에 후지산 우체국과 후지산 북 우체국에서 처음으로 쓰기 시작했다.",
+                                    "2018년 1월 1일 기준으로 11,139개국에 배치돼 있다.",
+                                    "독일과 스위스, 중화민국, 캐나다에서도 사용하고 있으며, 중화인민공화국에서는 풍경일착(風景日戳)이라고 불리는 일부인을 사용하고 있다.",
+                                    "류큐 열도 미국민정부에서도 관광우편날짜도장을 썼다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "대천해수욕장은 충청남도 보령시 신흑동 일원에 위치한 해수욕장으로 전국 해수욕장 중 규모, 시설면에서 최고로 손꼽히는 여름휴양지이다. ",
+                    "timestamp": 1695908772000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "오 대천해수욕장 좋지! 거기 가서 요가를 하며 마음을 잘 다스려야 겠다. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695908827000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 우리나라의 대표적인 휴양지이기 때문에 축제를 즐기시는 것도 좋아요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695908865000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "대천해수욕장에서 축제도 해? 어떤 축제가 있는데 알려줘! ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695908882000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "매년 7월 마다 개최되는 보령머드축제가 유명하고 한해 천만 명에 이르는 관광객의 발길이 끊이지 않아요.",
+                    "context": {
+                        "query": "대천해수욕장",
+                        "contents": [
+                            {
+                                "documentID": "346097",
+                                "documentTitle": "대천해수욕장",
+                                "content": [
+                                    "대천해수욕장(大川海水浴場)은 충청남도 보령시 신흑동 일원에 위치한 해수욕장으로 전국 해수욕장 중 규모, 시설면에서 최고로 손꼽히는 여름휴양지이다.",
+                                    "한해 천만 명에 이르는 관광객의 발길이 끊이지 않으며, 매년 7월 마다 개최되는 보령머드축제가 유명하다.",
+                                    "서해안 최고의 휴양지이자 국제적 관광명소로 자리 매김을 하고 있다.",
+                                    "규모면에서 백사장의 길이가 3.5km, 폭 100m에 달하는 대형 해수욕장이다.",
+                                    "백사장 남쪽에 기암괴석이 잘 발달되어 있어 비경을 연출하고 있으며, 수온 역시 적당하여 기분좋은 해수욕을 즐길 수 있다.",
+                                    "대천 해수욕장의 모래질은 동양에서 유일한 패각분으로 조개껍질이 오랜 세월을 지나는 동안 잘게 부서져 모래로 변모한 것이다.",
+                                    "규사로 된 백사장이 몸에 달라붙는 점에 비해 패각분은 부드러우면서 물에 잘 씻기는 장점을 갖고 있다.",
+                                    "안타까운 사건이 있었는데 1997년 9월에 유괴되 살해당한 박초롱초롱빛나리가 이곳에 유해가 뿌려졌다."
+                                ]
+                            },
+                            {
+                                "documentID": "327408",
+                                "documentTitle": "관광우편날짜도장",
+                                "content": [
+                                    "관광우편날짜도장(觀光郵便날짜圖章) 또는 줄여서 관광인(觀光印)은 날짜도장의 한 종류로 우체국의 이름과 날짜 외에 해당 우체국 주변의 명소나 고적, 문화재 등과 관련있는 도안이 새겨져 있다.",
+                                    "역사.",
+                                    "한국 최초의 관광우편날짜도장은 일제강점기때 만들어졌다.",
+                                    "1931년 10월 20일부터 쓰기 시작했다.",
+                                    "대한민국 정부 수립 후 최초의 관광우편날짜도장은 1958년 5월 20일 서울중앙우체국에서 사용되었다.",
+                                    "그러나 1954년 8월 1일에 대천우체국 대천해수욕장임시출장소에서 사용한 날짜도장을 최초의 관광우편날짜도장으로 보는 수집가도 있다.",
+                                    "과거에는 관광통신일부인(觀光通信日附印)이라고 불렀으나 우정사업본부는 2014년 12월부터 일본제 한자어를 순화하기 위해 이름을 관광우편날짜도장으로 바꾸었다.",
+                                    "1958년 8월에 관광우편날짜도장 사용관서는 16개국이었다.",
+                                    "2019년 11월 5일 기준으로 427개국에서 488개의 관광우편날짜도장을 쓰고 있다.",
+                                    "각국의 관광우편날짜도장.",
+                                    "일본에서는 풍경입통신일부인(風景入通信日付印) 또는 줄여서 풍경인(風景印)을 사용한다.",
+                                    "1931년 7월 7일에 일본 체신성 고시로 풍경입통신일부인 제도가 만들어졌으며, 7월 10일에 후지산 우체국과 후지산 북 우체국에서 처음으로 쓰기 시작했다.",
+                                    "2018년 1월 1일 기준으로 11,139개국에 배치돼 있다.",
+                                    "독일과 스위스, 중화민국, 캐나다에서도 사용하고 있으며, 중화인민공화국에서는 풍경일착(風景日戳)이라고 불리는 일부인을 사용하고 있다.",
+                                    "류큐 열도 미국민정부에서도 관광우편날짜도장을 썼다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "매년 7월 마다 개최되는 보령머드축제가 유명하고 한해 천만 명에 이르는 관광객의 발길이 끊이지 않는다. ",
+                    "timestamp": 1695908936000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "와 천만 명이나 보령머드축제에 가는 구나. 요가도 하고 머드축제도 즐기고 좋았어. 이번 여름에는 꼭 가야겠어! ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695908970000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 여름 휴양지로 추천하는 대천해수욕장 꼭 가 보세요,",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695908993000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "응 근데 대천해수욕장 거기 예전에 유명한 유괴사건 피해자 박초롱초롱빛나리가 이곳에 유해가 뿌려졌었잖아.. 가서 묵념해야 겠다... 과거에 나도 사실은.. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909084000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 안타까운 사건의 피해자의 유골이 뿌려졌었어요. 과거에 어떤 일이 있었나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909122000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "3년 전이 었나. 중국 여행 갔을 때 눈앞에서 아이가 갑자기 괴한에 잡혀가는 걸 봤는데 제대로 도와주지 못해 요즘도 문뜩 생각나 죄책감이 들었거든.. 사실 그래서 요가도 시작했어. 심신의 안정을 위해서..",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 3년전에 괴한에 아이가 납치되는 걸 봤고 도와주지 못해서 죄책감이 든다",
+                    "timestamp": 1695909221000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 그러셨군요. 심신의 안정을 위해 요가가 좋아요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909269000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "응 그럼 나는 요가하러 갈게. 편안한 마음을 가지러 그럼 바이바이~",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909304000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "도움이 되어 다행이에요. 네 다음에 만나요. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909328000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 과로를 해서 몸이 아프다. 나는 요가를 한다.",
+                    "나는 3년전에 괴한에 아이가 납치되는 걸 봤고 도와주지 못해서 죄책감이 든다"
+                ],
+                "wizard": [
+                    "대천해수욕장은 충청남도 보령시 신흑동 일원에 위치한 해수욕장으로 전국 해수욕장 중 규모, 시설면에서 최고로 손꼽히는 여름휴양지이다. ",
+                    "매년 7월 마다 개최되는 보령머드축제가 유명하고 한해 천만 명에 이르는 관광객의 발길이 끊이지 않는다. "
+                ],
+                "dialogSummary": "질문자는 요가하러 갈 수 있는 해수욕장을 질문했고 챗봇은 대천해수욕장은 충청남도 보령시 신흑동 일원에 위치한 해수욕장으로 전국 해수욕장 중 규모, 시설면에서 최고로 손꼽히는 여름휴양지이며, 매년 7월 마다 개최되는 보령머드축제가 유명하고 한해 천만 명에 이르는 관광객의 발길이 끊이지 않는 다고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "005506-1",
+            "prevTimeInfo": {
+                "timeNum": "3",
+                "timeUnit": "주"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "005506-2",
+            "sessionKeywords": [
+                "*진안읍*,*진안읍*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "지난 번에 추천한 대천해수욕장가서 요가도 하고 얘기 나눈 지 3주나 지났네~ 오랜만이다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909714000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 오랜만이에요. 3주간 기다렸어요,",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909748000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "너랑 이야기하고 더 마음이 편안해지고 있는데 내 마음속 남아 있는 죄책감을 좀 줄이고 싶어서 말이야. 이번에는 산을 가볼까 하는데 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 너랑 이야기후 마음이 더 편안해졌다",
+                    "timestamp": 1695909821000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "그렇군요. 그럼 한국의 산을 추천해 드릴까요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909854000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "내 친구가 진안읍에 사는데 거기에 무슨 유명한 산도 있고 절도 있고 하다는데 거기게 대해 알려줘! 나는 우리나라 산이랑 절에도 관심이 많거든. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909892000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 우리나라 진안읍 군내에는 마이산, 우화정, 반일암, 만인동 모정, 천황사, 고림사, 용담야 마계 등이 있으며 여름 한 계절의 피서지로 알맞은 곳이에요.",
+                    "context": {
+                        "query": "진안읍",
+                        "contents": [
+                            {
+                                "documentID": "337671",
+                                "documentTitle": "진안읍",
+                                "content": [
+                                    "진안읍(鎭安邑)은 진안군의 군청 소재지이며, 금강과 섬진강의 양 사면의 분수계에 위치하고 북으로 용담, 장수, 서로 전주, 동으로는 경남의 안의 등지에 달하는 교통의 요충지이다.",
+                                    "그러나 국도 제26호선과 새만금포항고속도로를 제외하고는 도로가 좁고 험하다.",
+                                    "콩, 조, 보리, 담배, 닭, 누에고치 등의 농산물을 생산한다.",
+                                    "군내에는 마이산, 우화정, 반일암, 만인동 모정, 천황사, 고림사, 용담야",
+                                    "마계 등이 있으며 여름 한 계절의 피서지로 알맞은 곳이다.",
+                                    "주요 기관.",
+                                    "문화시설.",
+                                    "마이골작은영화관 (2015년 7월 15일 개관)"
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            true,
+                            true,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "우리나라 진안읍 군내에는 마이산, 우화정, 반일암, 만인동 모정, 천황사, 고림사, 용담야 마계 등이 있으며 여름 한 계절의 피서지로 알맞은 곳이다. ",
+                    "timestamp": 1695909942000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "아 맞다 마이산!  거기 들어봤어. 거기가 말마 귀이 즉 말의 귀모양을 닮은 산이라고 해서 마이산이라며? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909998000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 맞아요. 산봉우리가 말의 귀를 닮아 명칭이 마이산이 되었어요,",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695910023000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "오 그럼 이번에는 마이산에 갔다 거기에 있는 천황사 고림사 등 절에도 들려야 겠다. 산에 가면 왠지 모르게 더 마음이 편안해 지는 거 같아. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 산에 가면 마음이 더 편안해진다",
+                    "timestamp": 1695910056000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 산에 가서 힐링하시는 것도 마음에 안정감을 줄 거예요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695910096000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "응 맞아 그런 것 같아. 진안읍이라고 해서 잘 몰랐는데 이제 마이산 있는 진안읍이라고 하면 딱 알 수 있겠어. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695910130000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 그래요. 혹시 진안읍에 대해 더 궁금한 거 있나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695910152000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "아 이제 진안읍에 있는 마이산 가는 여행 계획 세우러 가야 겠어. 궁금한 게 있으면 또 물어보러 올게! ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 여행 계획을 세운다.",
+                    "timestamp": 1695910186000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "도움이 되셨다니 기쁘네요 다음에도 궁금한 점이 있다면 다시 연락 주세요! ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695910199000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 너랑 이야기후 마음이 더 편안해졌다",
+                    "나는 산에 가면 마음이 더 편안해진다",
+                    "나는 여행 계획을 세운다."
+                ],
+                "wizard": [
+                    "우리나라 진안읍 군내에는 마이산, 우화정, 반일암, 만인동 모정, 천황사, 고림사, 용담야 마계 등이 있으며 여름 한 계절의 피서지로 알맞은 곳이다. "
+                ],
+                "dialogSummary": "질문자는 마이산에 대해 물었고 챗봇은 마이산 군내에는 마이산, 우화정, 반일암, 만인동 모정, 천황사, 고림사, 용담야 마계 등이 있으며 여름 한 계절의 피서지로 알맞은 곳이라고 답했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 과로를 해서 몸이 아프다. 나는 요가를 한다.",
+                    "나는 3년전에 괴한에 아이가 납치되는 걸 봤고 도와주지 못해서 죄책감이 든다"
+                ],
+                "wizard": [
+                    "대천해수욕장은 충청남도 보령시 신흑동 일원에 위치한 해수욕장으로 전국 해수욕장 중 규모, 시설면에서 최고로 손꼽히는 여름휴양지이다. ",
+                    "매년 7월 마다 개최되는 보령머드축제가 유명하고 한해 천만 명에 이르는 관광객의 발길이 끊이지 않는다. "
+                ]
+            }
+        },
+        {
+            "prevSessionID": "005506-2",
+            "prevTimeInfo": {
+                "timeNum": "7",
+                "timeUnit": "시간"
+            },
+            "nthSession": "3",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "005506-3",
+            "sessionKeywords": [
+                "*위천면*,*위천면*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "아까 추천해 준 여행지 가려고 찾다 잠들었네. 7시간이 지났잖아ㅎㅎ 혹시 경상도 쪽도 가보고 싶은데. 나의 여행 계획에 추가해 줄 수 있는 곳 혹시 있을까?   ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695910459000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 경상도 쪽 추천을 원하시군요. 위천면은 어떠신 가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695910560000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "위천면? 정말 생소한 지역이네. 새로운 지명을 알게 된 거 같아 거기는 어디에 있는 거야 더 큰 행정명을 알려줘! ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 관광지명에 관심이 많다",
+                    "timestamp": 1695910588000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 질문하신 위천면은 대한민국 경상남도 거창군의 면입니다.",
+                    "context": {
+                        "query": "위천면",
+                        "contents": [
+                            {
+                                "documentID": "377608",
+                                "documentTitle": "위천면",
+                                "content": [
+                                    "위천면(渭川面)은 대한민국 경상남도 거창군의 면이다.",
+                                    "거창군의 서북쪽에 위치하고 있는 해발 280m의 분지이며, 원학골의 중심이다.",
+                                    "거창의 대표관광지인 수승대관광지, 금원산 자연휴양림 등이 소재하고 있으며, 거창국제연극제 등이 열리는 수려한 관광자원이 풍부하며 예부터 충효의 고장으로 서원, 정자, 고가 등의 문화유산이 풍부한 고장이다.",
+                                    "연혁.",
+                                    "통일신라시대에는 남내와 여선현에 속했으며, 고려시대에는 감음현에 속하였고 조선시대 1471년 태종 17년에는 안음현, 1767년 영조 43년에는 안의현에, 1895년 고종 32년에는 안의군에 속하였으며 일제시대 1914년 3월 행정구역 조정으로 안의군에 속했던 고현면과 북하면을 합하여 가운데 흐르는 냇물의 이름을 따서 위천면으로 개칭하고 거창군에 편입되어 현재에 이르고있다."
+                                ]
+                            },
+                            {
+                                "documentID": "377605",
+                                "documentTitle": "북상면",
+                                "content": [
+                                    "북상면(北上面)는 대한민국 경상남도 거창군의 면이다.",
+                                    "경상남도 최서북단에 위치하며 거창읍으로부터 마리면과 위천면을 경유하여 18km의 거리에 위치하고 있다.",
+                                    "일부 지역이 덕유산 국립공원 구역에 속해 깊은 계곡과 맑은 물 등 거창군의 대표적인 유원지로 북쪽의 전라북도 무주군, 서쪽의 함양군과 호음산을 경계로 고제면과 위천면을 접하고 있다."
+                                ]
+                            },
+                            {
+                                "documentID": "377604",
+                                "documentTitle": "마리면",
+                                "content": [
+                                    "마리면(馬利面)는 대한민국 경상남도 거창군의 면이다.",
+                                    "거창군의 서쪽 끝에 위치하여 함양군 안의면과 서남경계, 동쪽으로는 거창읍, 북쪽으로 위천면과 접하고 있으며, 북쪽으로는 덕유대간, 동쪽으로는 취우령, 서남쪽으로는 기백산으로 둘러 쌓인 해발 230m의 산간 소분지이다.",
+                                    "동서로 국도 제3호선과 남북으로 국도 제37호선이 지나는 중심부로 관광동맥이 합류하는 교통 요충지이며, 논농사 중심인 중산간 평야로서 한우사육, 딸기, 수박 등의 시설하우스 작물 재배로 소득을 증대하고 있다.",
+                                    "연혁.",
+                                    "통일신라시대에 마리현을 이안현으로 바꾸어 천령군(함양)에 편입, 1390년 고려시대 공양왕 2년 가음현(안의)에 편입되었으며, 1895년 조선 고종 32년 제현을 군으로 바꾸면서 본면의 북부를 동리면 남부를 남리면으로 나누었다.",
+                                    "1914년 안의군 동리면과 남리면을 합하여 마리면으로 칭하고 거창군에 편입되었다.",
+                                    "1982년 2월 15일 행정구역 개편으로 거창읍 송정리 일부가 마리면 하고리에 편입되었으며, 1989년 1월 30일 현 청사를 신축하였다."
+                                ]
+                            },
+                            {
+                                "documentID": "29207",
+                                "documentTitle": "거창 당산리 당송",
+                                "content": [
+                                    "거창 당산리 당송은 경상남도 거창군 위천면 당송리에 있는 한 그루의 소나무이다.",
+                                    "대한민국의 천연기념물 제410호로 지정되어 있다.",
+                                    "개요.",
+                                    "거창 당산리 당송은 나이가 600년 정도로 추정되며 높이가 14.3m, 둘레는 4.10m이다.",
+                                    "나무껍질은 거북등과 같이 갈라져 있으며, 밑동 부분에는 도끼자국이 남아있고, 남쪽의 가지 하나가 죽었으나 전체적으로 아름다운 모양을 유지하고 있는 소나무이다.",
+                                    "거창 당산리 당송은 나라에 큰 일이 있을 때마다 “웅-웅-웅”소리를 내어 미리 알려준다고 하는데 이처럼 신령스럽다하여 영송(靈松)이라 부르기도 하며, 국권을 빼앗긴 일(1910), 광복(1945) 및 한국전쟁(1950) 때에는 몇 달 전부터 밤마다 울었다는 이야기가 전해진다.",
+                                    "마을에서는 매년 정월 대보름마다 이 나무에 제사를 지내고 있으며, 주민 전체가 모임을 만들어 특별히 보호하고 있다.",
+                                    "거창 당산리 당송은 민속적·생물학적 자료로서의 가치가 높아 천연기념물로 지정하여 보호하고 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "위천면은 대한민국 경상남도 거창군의 면이다.",
+                    "timestamp": 1695910627000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "아 거기가 거창이야? 거창하면 사과인가? 거기 유명한 유적지나 관광지로는 뭐가 있어? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695910655000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "거창은 예부터 충효의 고장으로 서원, 정자, 고가 등의 문화유산이 풍부한 고장이고 대표관광지인 수승대관광지, 금원산 자연휴양림 등이 소재하고 있으며, 거창국제연극제 등이 열리는 수려한 관광자원이 풍부한 곳입니다.",
+                    "context": {
+                        "query": "위천면",
+                        "contents": [
+                            {
+                                "documentID": "377608",
+                                "documentTitle": "위천면",
+                                "content": [
+                                    "위천면(渭川面)은 대한민국 경상남도 거창군의 면이다.",
+                                    "거창군의 서북쪽에 위치하고 있는 해발 280m의 분지이며, 원학골의 중심이다.",
+                                    "거창의 대표관광지인 수승대관광지, 금원산 자연휴양림 등이 소재하고 있으며, 거창국제연극제 등이 열리는 수려한 관광자원이 풍부하며 예부터 충효의 고장으로 서원, 정자, 고가 등의 문화유산이 풍부한 고장이다.",
+                                    "연혁.",
+                                    "통일신라시대에는 남내와 여선현에 속했으며, 고려시대에는 감음현에 속하였고 조선시대 1471년 태종 17년에는 안음현, 1767년 영조 43년에는 안의현에, 1895년 고종 32년에는 안의군에 속하였으며 일제시대 1914년 3월 행정구역 조정으로 안의군에 속했던 고현면과 북하면을 합하여 가운데 흐르는 냇물의 이름을 따서 위천면으로 개칭하고 거창군에 편입되어 현재에 이르고있다."
+                                ]
+                            },
+                            {
+                                "documentID": "377605",
+                                "documentTitle": "북상면",
+                                "content": [
+                                    "북상면(北上面)는 대한민국 경상남도 거창군의 면이다.",
+                                    "경상남도 최서북단에 위치하며 거창읍으로부터 마리면과 위천면을 경유하여 18km의 거리에 위치하고 있다.",
+                                    "일부 지역이 덕유산 국립공원 구역에 속해 깊은 계곡과 맑은 물 등 거창군의 대표적인 유원지로 북쪽의 전라북도 무주군, 서쪽의 함양군과 호음산을 경계로 고제면과 위천면을 접하고 있다."
+                                ]
+                            },
+                            {
+                                "documentID": "377604",
+                                "documentTitle": "마리면",
+                                "content": [
+                                    "마리면(馬利面)는 대한민국 경상남도 거창군의 면이다.",
+                                    "거창군의 서쪽 끝에 위치하여 함양군 안의면과 서남경계, 동쪽으로는 거창읍, 북쪽으로 위천면과 접하고 있으며, 북쪽으로는 덕유대간, 동쪽으로는 취우령, 서남쪽으로는 기백산으로 둘러 쌓인 해발 230m의 산간 소분지이다.",
+                                    "동서로 국도 제3호선과 남북으로 국도 제37호선이 지나는 중심부로 관광동맥이 합류하는 교통 요충지이며, 논농사 중심인 중산간 평야로서 한우사육, 딸기, 수박 등의 시설하우스 작물 재배로 소득을 증대하고 있다.",
+                                    "연혁.",
+                                    "통일신라시대에 마리현을 이안현으로 바꾸어 천령군(함양)에 편입, 1390년 고려시대 공양왕 2년 가음현(안의)에 편입되었으며, 1895년 조선 고종 32년 제현을 군으로 바꾸면서 본면의 북부를 동리면 남부를 남리면으로 나누었다.",
+                                    "1914년 안의군 동리면과 남리면을 합하여 마리면으로 칭하고 거창군에 편입되었다.",
+                                    "1982년 2월 15일 행정구역 개편으로 거창읍 송정리 일부가 마리면 하고리에 편입되었으며, 1989년 1월 30일 현 청사를 신축하였다."
+                                ]
+                            },
+                            {
+                                "documentID": "29207",
+                                "documentTitle": "거창 당산리 당송",
+                                "content": [
+                                    "거창 당산리 당송은 경상남도 거창군 위천면 당송리에 있는 한 그루의 소나무이다.",
+                                    "대한민국의 천연기념물 제410호로 지정되어 있다.",
+                                    "개요.",
+                                    "거창 당산리 당송은 나이가 600년 정도로 추정되며 높이가 14.3m, 둘레는 4.10m이다.",
+                                    "나무껍질은 거북등과 같이 갈라져 있으며, 밑동 부분에는 도끼자국이 남아있고, 남쪽의 가지 하나가 죽었으나 전체적으로 아름다운 모양을 유지하고 있는 소나무이다.",
+                                    "거창 당산리 당송은 나라에 큰 일이 있을 때마다 “웅-웅-웅”소리를 내어 미리 알려준다고 하는데 이처럼 신령스럽다하여 영송(靈松)이라 부르기도 하며, 국권을 빼앗긴 일(1910), 광복(1945) 및 한국전쟁(1950) 때에는 몇 달 전부터 밤마다 울었다는 이야기가 전해진다.",
+                                    "마을에서는 매년 정월 대보름마다 이 나무에 제사를 지내고 있으며, 주민 전체가 모임을 만들어 특별히 보호하고 있다.",
+                                    "거창 당산리 당송은 민속적·생물학적 자료로서의 가치가 높아 천연기념물로 지정하여 보호하고 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            true,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "거창은 예부터 충효의 고장으로 서원, 정자, 고가 등의 문화유산이 풍부한 고장이고 대표관광지인 수승대관광지, 금원산 자연휴양림 등이 소재하고 있으며, 거창국제연극제 등이 열리는 수려한 관광자원이 풍부한 곳이다. ",
+                    "timestamp": 1695910724000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "오 충효의 고장이라고? 뭔가 역사가 있는 모양이네. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695910773000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 거창에서 서원,정자,고가 등의 풍부한 문화유산을 경험해 보세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695910803000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "응 그리고 거거에 거창국제연극제도 있다니 이것도 궁금하다. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695910885000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 벌서 30회 넘게 진행되었으며 거창국제연극제를 보러 가시는 것도 추천합니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695910932000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "좋아 풍성한 여행 계획이 될 수 있을 거 같아 거기에 자연 휴양림도 있다니 기대된다. 자연에 가는 건 마음의 평안을 주는 일인 거 같아.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695910943000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 맞아요. 풍성한 계획을 세울 수 있을 거예요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695911004000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600071",
+                    "participantID": "E0057",
+                    "utterance": "이번에도 다양한 지명을 알려줘서 너무 고마워!  남은 계획 세우러 갈게 안녕~",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695911033000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 궁금하신 게 있으시면 언제든지 다시 오세요. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695911043000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 관광지명에 관심이 많다"
+                ],
+                "wizard": [
+                    "위천면은 대한민국 경상남도 거창군의 면이다.",
+                    "거창은 예부터 충효의 고장으로 서원, 정자, 고가 등의 문화유산이 풍부한 고장이고 대표관광지인 수승대관광지, 금원산 자연휴양림 등이 소재하고 있으며, 거창국제연극제 등이 열리는 수려한 관광자원이 풍부한 곳이다. "
+                ],
+                "dialogSummary": "질문자는 위천면에 대해 질문하였고 챗봇은 위천면은 대한민국 경상남도 거창군의 면이라고 하였다. 거창은 예부터 충효의 고장으로 서원, 정자, 고가 등의 문화유산이 풍부한 고장이고 대표관광지인 수승대관광지, 금원산 자연휴양림 등이 소재하고 있으며, 거창국제연극제 등이 열리는 수려한 관광자원이 풍부한 곳이다. 거창에서 서원,정자,고가 등의 풍부한 문화유산을 경험해 보자. 벌서 30회 넘게 진행되었으며 거창국제연극제를 보러 가시는 것도 추천한다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 과로를 해서 몸이 아프다. 나는 요가를 한다.",
+                    "나는 3년전에 괴한에 아이가 납치되는 걸 봤고 도와주지 못해서 죄책감이 든다",
+                    "나는 너랑 이야기후 마음이 더 편안해졌다",
+                    "나는 산에 가면 마음이 더 편안해진다",
+                    "나는 여행 계획을 세운다."
+                ],
+                "wizard": [
+                    "대천해수욕장은 충청남도 보령시 신흑동 일원에 위치한 해수욕장으로 전국 해수욕장 중 규모, 시설면에서 최고로 손꼽히는 여름휴양지이다. ",
+                    "매년 7월 마다 개최되는 보령머드축제가 유명하고 한해 천만 명에 이르는 관광객의 발길이 끊이지 않는다. ",
+                    "우리나라 진안읍 군내에는 마이산, 우화정, 반일암, 만인동 모정, 천황사, 고림사, 용담야 마계 등이 있으며 여름 한 계절의 피서지로 알맞은 곳이다. "
+                ]
+            }
+        }
+    ]
+}

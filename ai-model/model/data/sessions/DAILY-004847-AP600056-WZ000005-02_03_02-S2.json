@@ -1,0 +1,802 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-004847-AP600056-WZ000005-02_03_02-S2.json",
+        "sessionLevel": "2"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0010",
+            "gender": "여성",
+            "age": "40대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "요리"
+        },
+        "speaker2": {
+            "participantID": "F0010",
+            "gender": "남성",
+            "age": "50대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "천문학"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "004847"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600056",
+            "personaFeatures": [
+                "나는 관광/감상의 지명에 관심이 많다.",
+                "나는 로큰롤 음악을 싫어한다",
+                "나는 자기계발서를 좋아한다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000005",
+            "personaFeatures": [
+                "나는 지명에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_02",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "장소"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004847-1",
+            "sessionKeywords": [
+                "*삼자현*,*삼자현*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600056",
+                    "participantID": "E0010",
+                    "utterance": "누구랑 대화를 하고 싶은데 딱히 할 사람이 없네",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695805383000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "안녕하세요? 딱히 대화 할 사람이 없다면, 저를 찾아주세요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695805436000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600056",
+                    "participantID": "E0010",
+                    "utterance": "너도 흥겨운 음악 싫어해? 난 로큰롤 음악이 싫어",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 로큰롤 음악을 싫어한다",
+                    "timestamp": 1695805454000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "아. 로큰롤 음악을 싫어하시는군요. 저는 모든 장르의 음악을 사랑하는 챗봇입니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695805491000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600056",
+                    "participantID": "E0010",
+                    "utterance": "내가 관광지명에 대해서 관심이 많은데 삼자현이라고 알아?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 관광지명에 관심이 많다",
+                    "timestamp": 1695805519000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "삼자현(三者峴)은 경상북도 청송군 현동면과 부남면 사이에 위치한 고개입니다 삼자현고개는 옛날에는 높은고지대인 뿐만 아니라 숲까지 울창해서 산적이나 위험한 산짐승이 많았다고 합니다.",
+                    "context": {
+                        "query": "삼자현",
+                        "contents": [
+                            {
+                                "documentID": "1076940",
+                                "documentTitle": "삼자현",
+                                "content": [
+                                    "삼자현(三者峴)은 경상북도 청송군 현동면과 부남면 사이에 위치한 고개다.",
+                                    "국도 제31호선이 이곳을 지난다.",
+                                    "이름 유래.",
+                                    "삼자현고개는 옛날에는 높은고지대인 뿐만 아니라 숲까지 울창해서 산적이나 위험한 산짐승이 많았다고 한다.",
+                                    "그래서 이 고개를 한두사람 만으로 넘기에는 위험해서 언제나 이 고개를 넘기 전에 세사람 이상이 모여야 이 고개를 넘었다고 하며 삼자현 또는 서넘티, 서넘재라고 부르게 되었다.",
+                                    "이러한 산세는 6.25전쟁 후 이 곳에 공비들이 은신하기 좋아 자주 공비들이 출몰하곤 했는데, 이 피해를 막기 위해서 도로변의 수목을 베어버려 예전처럼 숲이 울창하던 모습은 찾기 어려워졌다.",
+                                    "다만 그 대신 정조식조림사업에 의해 조성된 낙엽송과 봄 가을엔 진달래꽃과 흥엽을 많이 볼 수 있다.",
+                                    "옛 문헌에서는 삼자현(三者峴) 또는 삼자령(三者嶺)의 명칭으로 자주 등장하며, 대동여지도에서는 삼자현이라고 되어 있고 『조선지지자료』에는 우리말로 풀어쓴 명칭인 '서늠티'로 되어 있다.",
+                                    "『여지도서』에서는 이 곳에 삼자원(三者院)이라는 역이 있었는데 폐지되었다는 기록도 있다.",
+                                    "전설.",
+                                    "이 고개에는 옛날 가난한 총각이 신부를 얻어서 처가에 다녀오기 위해 이 고개를 넘던 중 산적에게 아내를 빼앗겨 너무나 억울한 나머지 종일토록 산이 무너지도록 통곡하다가 소나무에 목을 매어 죽었다는 전설이 유래하고 있다.",
+                                    "또는 영천·대구 등지에서 시집오던 새댁이 세 번을 울며 시집을 왔다고 하는 구전도 있다.",
+                                    "도로 교통.",
+                                    "이 고개는 포항시와 청송군을 잇는 중요 교통 통로임에도 불구하고 산세가 험하고 숲이 울창해 통행하기 어려웠다.",
+                                    "1986년 현서∼청송 간 52km 길이의 도로 확·포장 공사가 이루어져 1990년에 개통해 예전과 같은 통행에 애로사항은 크게 감소했으나 겨울철 폭설로 교통이 가끔 통제되기도 한다.",
+                                    "또한 개설된 도로도 대부분이 급곡각부로 형성되어 겨울철 눈이 올때나 집중호우시 항상 사고위험을 가지고 있어 청송군에서는 이 지역을 터널을 이용해 관통하여 지나가는 방안을 추진하고 있으며, 2017년 7월에 착공하여, 2023년 6월 7일 삼자현터널이 개통된다.",
+                                    "관광.",
+                                    "지금은 경관조림사업으로 잘 조성된 산림을 볼 수 있으며 웅장한 소나무와 함께 단풍나무로 이어진 거리가 16km나 되어 있어 드라이브 코스로 각광받고 있다.",
+                                    "또한 도로변에 옛 정취가 물씬 풍기는 여러 조형물을 설치되어 있어 도로를 지날 때마다 새로운 즐거움을 주고 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "삼자현(三者峴)은 경상북도 청송군 현동면과 부남면 사이에 위치한 고개이다 삼자현고개는 옛날에는 높은고지대인 뿐만 아니라 숲까지 울창해서 산적이나 위험한 산짐승이 많았다고 한다",
+                    "timestamp": 1695805639000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600056",
+                    "participantID": "E0010",
+                    "utterance": "거기 내려오는 전설도 있다면서",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695805658000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "이 고개에는 옛날 가난한 총각이 신부를 얻어서 처가에 다녀오기 위해 이 고개를 넘던 중 산적에게 아내를 빼앗겨 너무나 억울한 나머지 종일토록 산이 무너지도록 통곡하다가 소나무에 목을 매어 죽었다는 전설이 유래합니다. 또는 영천·대구 등지에서 시집오던 새댁이 세 번을 울며 시집을 왔다고 하는 구전도 있습니다.",
+                    "context": {
+                        "query": "삼자현",
+                        "contents": [
+                            {
+                                "documentID": "1076940",
+                                "documentTitle": "삼자현",
+                                "content": [
+                                    "삼자현(三者峴)은 경상북도 청송군 현동면과 부남면 사이에 위치한 고개다.",
+                                    "국도 제31호선이 이곳을 지난다.",
+                                    "이름 유래.",
+                                    "삼자현고개는 옛날에는 높은고지대인 뿐만 아니라 숲까지 울창해서 산적이나 위험한 산짐승이 많았다고 한다.",
+                                    "그래서 이 고개를 한두사람 만으로 넘기에는 위험해서 언제나 이 고개를 넘기 전에 세사람 이상이 모여야 이 고개를 넘었다고 하며 삼자현 또는 서넘티, 서넘재라고 부르게 되었다.",
+                                    "이러한 산세는 6.25전쟁 후 이 곳에 공비들이 은신하기 좋아 자주 공비들이 출몰하곤 했는데, 이 피해를 막기 위해서 도로변의 수목을 베어버려 예전처럼 숲이 울창하던 모습은 찾기 어려워졌다.",
+                                    "다만 그 대신 정조식조림사업에 의해 조성된 낙엽송과 봄 가을엔 진달래꽃과 흥엽을 많이 볼 수 있다.",
+                                    "옛 문헌에서는 삼자현(三者峴) 또는 삼자령(三者嶺)의 명칭으로 자주 등장하며, 대동여지도에서는 삼자현이라고 되어 있고 『조선지지자료』에는 우리말로 풀어쓴 명칭인 '서늠티'로 되어 있다.",
+                                    "『여지도서』에서는 이 곳에 삼자원(三者院)이라는 역이 있었는데 폐지되었다는 기록도 있다.",
+                                    "전설.",
+                                    "이 고개에는 옛날 가난한 총각이 신부를 얻어서 처가에 다녀오기 위해 이 고개를 넘던 중 산적에게 아내를 빼앗겨 너무나 억울한 나머지 종일토록 산이 무너지도록 통곡하다가 소나무에 목을 매어 죽었다는 전설이 유래하고 있다.",
+                                    "또는 영천·대구 등지에서 시집오던 새댁이 세 번을 울며 시집을 왔다고 하는 구전도 있다.",
+                                    "도로 교통.",
+                                    "이 고개는 포항시와 청송군을 잇는 중요 교통 통로임에도 불구하고 산세가 험하고 숲이 울창해 통행하기 어려웠다.",
+                                    "1986년 현서∼청송 간 52km 길이의 도로 확·포장 공사가 이루어져 1990년에 개통해 예전과 같은 통행에 애로사항은 크게 감소했으나 겨울철 폭설로 교통이 가끔 통제되기도 한다.",
+                                    "또한 개설된 도로도 대부분이 급곡각부로 형성되어 겨울철 눈이 올때나 집중호우시 항상 사고위험을 가지고 있어 청송군에서는 이 지역을 터널을 이용해 관통하여 지나가는 방안을 추진하고 있으며, 2017년 7월에 착공하여, 2023년 6월 7일 삼자현터널이 개통된다.",
+                                    "관광.",
+                                    "지금은 경관조림사업으로 잘 조성된 산림을 볼 수 있으며 웅장한 소나무와 함께 단풍나무로 이어진 거리가 16km나 되어 있어 드라이브 코스로 각광받고 있다.",
+                                    "또한 도로변에 옛 정취가 물씬 풍기는 여러 조형물을 설치되어 있어 도로를 지날 때마다 새로운 즐거움을 주고 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "이 고개에는 옛날 가난한 총각이 신부를 얻어서 처가에 다녀오기 위해 이 고개를 넘던 중 산적에게 아내를 빼앗겨 너무나 억울한 나머지 종일토록 산이 무너지도록 통곡하다가 소나무에 목을 매어 죽었다는 전설이 유래합니다. 또는 영천·대구 등지에서 시집오던 새댁이 세 번을 울며 시집을 왔다고 하는 구전도 있다",
+                    "timestamp": 1695805700000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600056",
+                    "participantID": "E0010",
+                    "utterance": "아..슬픈 전설이네...아내를 빼앗겼다니 슬픈일이야",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695805752000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "그러게요. 사랑하는 사람하는 사람을 잃는것은 너무 슬픈일입니다 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695805948000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600056",
+                    "participantID": "E0010",
+                    "utterance": "잠시후 나는 나가봐야해 책을 하나 사려고",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695806004000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "아, 무슨책을 사려고 하시나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695806022000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600056",
+                    "participantID": "E0010",
+                    "utterance": "나는 자기계발서를 좋아하거든 그래서 그종류로 책을 한번 사볼까 해",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 자기계발서를 좋아한다",
+                    "timestamp": 1695806041000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "대형서점에는 다야한 종류의 자기계발서들이 있습니다. 원하는 책을 찾길 바랄께요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695806070000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 로큰롤 음악을 싫어한다",
+                    "나는 관광지명에 관심이 많다",
+                    "나는 자기계발서를 좋아한다"
+                ],
+                "wizard": [
+                    "삼자현(三者峴)은 경상북도 청송군 현동면과 부남면 사이에 위치한 고개이다 삼자현고개는 옛날에는 높은고지대인 뿐만 아니라 숲까지 울창해서 산적이나 위험한 산짐승이 많았다고 한다",
+                    "이 고개에는 옛날 가난한 총각이 신부를 얻어서 처가에 다녀오기 위해 이 고개를 넘던 중 산적에게 아내를 빼앗겨 너무나 억울한 나머지 종일토록 산이 무너지도록 통곡하다가 소나무에 목을 매어 죽었다는 전설이 유래합니다. 또는 영천·대구 등지에서 시집오던 새댁이 세 번을 울며 시집을 왔다고 하는 구전도 있다"
+                ],
+                "dialogSummary": "질문자는 삼자현에 대해서 질문하였고, 챗봇은 삼자현(三者峴)은 경상북도 청송군 현동면과 부남면 사이에 위치한 고개입니다 삼자현고개는 옛날에는 높은고지대인 뿐만 아니라 숲까지 울창해서 산적이나 위험한 산짐승이 많았다고 하고 이 고개에는 옛날 가난한 총각이 신부를 얻어서 처가에 다녀오기 위해 이 고개를 넘던 중 산적에게 아내를 빼앗겨 너무나 억울한 나머지 종일토록 산이 무너지도록 통곡하다가 소나무에 목을 매어 죽었다는 전설이 유래합니다. 또는 영천·대구 등지에서 시집오던 새댁이 세 번을 울며 시집을 왔다고 하는 구전도 있다고 대답했다"
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "004847-1",
+            "prevTimeInfo": {
+                "timeNum": "6",
+                "timeUnit": "시간"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004847-2",
+            "sessionKeywords": [
+                "*알비냐노*,*알비냐노*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600056",
+                    "participantID": "E0010",
+                    "utterance": "책 사왔는데 역시 책읽는건 좋은거 같아",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695806097000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "6시간만에 찾아주셨습니다. 원하는 자기계발서를 찾으셨군요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695806122000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600056",
+                    "participantID": "E0010",
+                    "utterance": "응 내가 원하는 사람이 썼어 이탈리아 사람이네",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695806136000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "세계적으로 유명한 작가들 중 이탈리아 출신들이 많습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695806178000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600056",
+                    "participantID": "E0010",
+                    "utterance": "이사람은 알비냐노 출신이라는데 그지명에 대해서 설명해줘",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695806191000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "알비냐노()는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있습니다.",
+                    "context": {
+                        "query": "알비냐노",
+                        "contents": [
+                            {
+                                "documentID": "920356",
+                                "documentTitle": "알비냐노",
+                                "content": [
+                                    "알비냐노()는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있다.",
+                                    "이곳의 주요 볼거리는 산타 마리아 디 쿠불테리아(Santa Maria di Cubulteria)의 바실리카, 롬바르드 건축물(8-9세기)과 아라고네세 성(Aragonese Castle)이다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false
+                        ]
+                    ],
+                    "summary": "알비냐노는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있다",
+                    "timestamp": 1695806203000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600056",
+                    "participantID": "E0010",
+                    "utterance": "아 나폴리 근처구나. 나폴리 하니 스파게티 먹구싶네",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695806240000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "스파게티를 좋아하시는군요? 나폴리에는 유명한 축구클럽도 있습니다. 33년만에 세리아에서 우승을 하였습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695806326000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600056",
+                    "participantID": "E0010",
+                    "utterance": "응 스파게티는 맛있으니깐! 축구쪽은 내가 관심이 별루 없어",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 축구쪽은 관심이 별루 없다",
+                    "timestamp": 1695806352000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "아. 스포츠보단 음식에 관심이 많으시군요. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695806394000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600056",
+                    "participantID": "E0010",
+                    "utterance": "아까 읽던 책을 마저 읽으러 가야겠어",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695806406000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "네, 좋은 독서 시간 되시기 바랍니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695806419000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600056",
+                    "participantID": "E0010",
+                    "utterance": "궁금한걸 바로 알려줘서 고마워!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695806425000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "언제든지 저를 찾아주세요. 저도 기쁩니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695806436000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 축구쪽은 관심이 별루 없다"
+                ],
+                "wizard": [
+                    "알비냐노는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있다"
+                ],
+                "dialogSummary": "질문자는 알비냐노 출신에 대해 질문하였고 챗봇은 알비냐노()는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타으로부터는 북쪽으로 20km 거리에 있다고 하였다. 또한 알비냐노()는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 로큰롤 음악을 싫어한다",
+                    "나는 관광지명에 관심이 많다",
+                    "나는 자기계발서를 좋아한다"
+                ],
+                "wizard": [
+                    "삼자현(三者峴)은 경상북도 청송군 현동면과 부남면 사이에 위치한 고개이다 삼자현고개는 옛날에는 높은고지대인 뿐만 아니라 숲까지 울창해서 산적이나 위험한 산짐승이 많았다고 한다",
+                    "이 고개에는 옛날 가난한 총각이 신부를 얻어서 처가에 다녀오기 위해 이 고개를 넘던 중 산적에게 아내를 빼앗겨 너무나 억울한 나머지 종일토록 산이 무너지도록 통곡하다가 소나무에 목을 매어 죽었다는 전설이 유래합니다. 또는 영천·대구 등지에서 시집오던 새댁이 세 번을 울며 시집을 왔다고 하는 구전도 있다"
+                ]
+            }
+        }
+    ]
+}

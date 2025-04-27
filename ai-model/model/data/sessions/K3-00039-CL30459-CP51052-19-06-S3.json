@@ -1,0 +1,620 @@
+{
+  "FileInfo": {
+    "filename": "K3-00039-CL30459-CP51052-19-06-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3802",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "3903",
+      "gender": "남성",
+      "age": "60대 이상",
+      "occupation": "기타",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00039"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "30459",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 관세사이다",
+        "나는 종종 안도감이 든다",
+        "나는 소설을 가끔 읽는다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "51052",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 50대이다.",
+        "나는 요즘, 항상 느긋해진다",
+        "나는 아침에 산책한다",
+        "나는 비 오는 날씨를 싫어한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "19-06",
+    "topicType": "예술문화 생활>방송/연예",
+    "topicTitle": "라디오"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00039-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "안녕하세요 저는 30대 남성입니다",
+          "summary": "저는 30대 남성입니다.\n",
+          "date": "2022-10-27",
+          "time": "15:04:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "안녕하세요 저는 요즘 항상 느긋한 50대 남성입니다.",
+          "summary": "나는 항상 느긋하다. 나는 50대 남성이다.",
+          "date": "2022-10-27",
+          "time": "15:06:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "반갑습니다. 직업은 무엇인가요?",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "15:08:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "저는 중견기업 사무직에 종사합니다. 이제 퇴직이 얼마 남지않아 퇴직 후 무엇을 할지 고민이 많네요. 그래서 아침마다 산책을 하곤 합니다. @이름@님은 어떤 일을 하시나요?",
+          "summary": "나는 중견기업 사무직에 종사한다. 나는 퇴직이 얼마남지 않았다. 나는 아침마다 산책을 한다.",
+          "date": "2022-10-27",
+          "time": "15:09:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "그러시군요. 저는 관세사입니다. 이제 막 취업해서 종종 안도감이 드는 나날을 보내고 있어요. 취미는 무엇인가요?",
+          "summary": "나는 관세사이다. 나는 종종 안도감이 드는 나날을 보낸다.",
+          "date": "2022-10-27",
+          "time": "15:11:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "저는 화창한 날엔 가족들과 여행이나, 드라이브를 주로 하고, 비오는 날은 집에서 TV나 유튜브 시청을합니다. 비오는 날씨를 싫어해서요. @이름@님은 취미가 어떻게 되시나요?",
+          "summary": "나는 화창한 날엔 가족들과 여행이나, 드라이브를 주로 하고, 비오는 날은 집에서 TV나 유튜브 시청을 한다.",
+          "date": "2022-10-27",
+          "time": "15:13:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "저는 소설을 가끔 읽으며 시간을 보냅니다. 비오는 날을 싫어하시는 군요. 비오는 날은 집에서 막걸리와 파전 드시나요",
+          "summary": "나는 소설을 가끔 읽으며 시간을 보낸다.",
+          "date": "2022-10-27",
+          "time": "15:20:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "저희집은 막걸리에 자두를 즐겨먹습니다. 막걸리1병에 작은 요구르트 5개를 섞어서 자두와 먹으면 정말 맛있거든요. 와이프가 지인에게 배워왔더라구요.  독서라니 좋은 취미군요. 생산적이네요.",
+          "summary": "나는 막걸리를 자주 즐겨먹는다",
+          "date": "2022-10-27",
+          "time": "15:46:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "와우 그 레시피 혹하는걸요? 저도 해봐야겠습니다 하하 저녁은 뭘 드셨는지 궁금하네요 ",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "20:51:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "요즘 아내가 양식만드는것에 푹 빠져있네요 토마토 스파게티 먹었습니다 @이름@씨는요??",
+          "summary": "나는 저녁으로 토마토 스파게티를 먹었다.",
+          "date": "2022-10-27",
+          "time": "20:54:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "우와 아내가 만들어준 음식 너무 좋겠네요. 저는 간단히 햄버거 먹었습니다.",
+          "summary": "나는 저녁으로 햄버거를 먹었다.",
+          "date": "2022-10-28",
+          "time": "09:00:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "역시 30대가 좋군요 저는 패스트 푸드로 조금만 과식하면 소화가 잘 안되더라구요.",
+          "summary": "나는 패스트푸드를 먹으면 소화가 잘 안된다.",
+          "date": "2022-10-28",
+          "time": "17:55:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "아닙니다 하하. 저는 슬슬 들어가봐야겠어요",
+          "summary": "",
+          "date": "2022-10-28",
+          "time": "17:56:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "네 저도 와이프가 저녁먹자네요 좋은시간 보내세요 다음에 또 뵈요",
+          "summary": "",
+          "date": "2022-10-28",
+          "time": "18:02:41",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "저는 30대 남성입니다.\n",
+          "나는 관세사이다. 나는 종종 안도감이 드는 나날을 보낸다.",
+          "나는 소설을 가끔 읽으며 시간을 보낸다.",
+          "나는 저녁으로 햄버거를 먹었다."
+        ],
+        "speaker2": [
+          "나는 항상 느긋하다. 나는 50대 남성이다.",
+          "나는 중견기업 사무직에 종사한다. 나는 퇴직이 얼마남지 않았다. 나는 아침마다 산책을 한다.",
+          "나는 화창한 날엔 가족들과 여행이나, 드라이브를 주로 하고, 비오는 날은 집에서 TV나 유튜브 시청을 한다.",
+          "나는 막걸리를 자주 즐겨먹는다",
+          "나는 저녁으로 토마토 스파게티를 먹었다.",
+          "나는 패스트푸드를 먹으면 소화가 잘 안된다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00039-1",
+      "prevTimeInfo": {
+        "timeNum": "6",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00039-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "안녕하세요 6주만에 연락드려요. 시간이 참 빠르네요. 뭐하고계시나요?",
+          "summary": "",
+          "date": "2022-10-28",
+          "time": "20:35:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "시간 참 빠르네요~ 저는 아침에 와이프와 함께 거리 조각을 보며 산책하고 왔어요.",
+          "summary": "나는 와이프와 거리 조각을 보고 왔다",
+          "date": "2022-10-28",
+          "time": "20:42:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "와이프를 매우 사랑하는게 느껴집니다 ㅋㅋ 산책도 진짜 열심히 하시네요~  거리 조각은 어디서 보셨어요?",
+          "summary": "나는 와이프를 매우 사랑하는 게 느껴진다.",
+          "date": "2022-10-28",
+          "time": "22:49:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "제가 울산에 거주하는데 와이프랑 태화강변을 걸으며 봤네요 혹시 요즘 관심사가 뭔가요?",
+          "summary": "나는 울산에 거주하는데 와이프랑 태화강변을 걸으며 봤다.",
+          "date": "2022-10-29",
+          "time": "11:28:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "멋지세요. 부럽습니다. 저는 요즘 드라이브를 하며 라디오를 듣는게 취미예요",
+          "summary": "나의 취미는 드라이브를 하며 라디오를 듣는 것이다.",
+          "date": "2022-10-29",
+          "time": "13:25:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "이야 운전 하시는 것을 좋아하시나보군요. 저도 운전하면서 라디오를 듣는걸 참 좋아하는데 요즘 어떤 방송을 주로 보시나요 ?",
+          "summary": "나는 운전하며 라디오를 듣는 걸 참 좋아한다",
+          "date": "2022-10-29",
+          "time": "14:42:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "방송은 주로 나혼자 산다를 즐겨봐요 예능프로요. @이름@님은요?",
+          "summary": "나는 예능프로 나혼자 산다를 즐겨본다.",
+          "date": "2022-10-29",
+          "time": "15:44:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "관찰형 예능프로그램을 좋아하시군요. 저도 관찰형 예능 프로그램을 좋아한답니다. 저는 나는 자연인이다 라는 프로그램을 즐겨봐요.",
+          "summary": "나는 관찰형 예능 프로그램을 좋아한다. 나는 나는 자연인이다 라는 프로그램을 즐겨본다.",
+          "date": "2022-10-29",
+          "time": "15:51:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "나는 자연인이다는 무슨 매력이 있나요? 저희 아버지도 즐겨보시더라구요 잔잔한 매력인가요 ",
+          "summary": "나의 아버지는 \"나는 자연인이다\" 프로그램을 즐겨보신다.",
+          "date": "2022-10-29",
+          "time": "23:38:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "음 그분들을 보면 인생은 재미없어보이지만 걱정이 없어보이더라구요 모든걸 내려놓고 평화롭게 혼자 지내는... 뭐 대리만족이죠 저도 한 번씩 자연인이 되는 상상을 하곤해요.",
+          "summary": "나는 종종 자연인이 되는 상상을 한다.",
+          "date": "2022-10-29",
+          "time": "23:42:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "하하 정말로 산에가서 자연인처럼 살 수 있으실것 같으세요? 전 못살것같아요 ㅠㅠ ",
+          "summary": "나는 산에가서 자연인처럼 살수는 없을것 같다.",
+          "date": "2022-10-31",
+          "time": "00:14:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "음 하루이틀은 되게 좋을것같아요 마음은 엄청 편하겠네요. 하지만 생활 자체는 불편할것같아요 춥고 덥고...",
+          "summary": "나는 자연인이 되면 마음은 엄청 편할거 같지만 생활 자체는 불편할것같다.",
+          "date": "2022-10-31",
+          "time": "00:42:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "맞아요. 생활적인 부분이 불편할 듯 해요. 저는 슬슬 회의하러 가보려구요!",
+          "summary": "나는 생활적인 부분이 불편할것같다.",
+          "date": "2022-10-31",
+          "time": "09:14:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "네네 조심히 다녀오세요~ 나중에 또 뵐게요.",
+          "summary": "",
+          "date": "2022-10-31",
+          "time": "09:51:47",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 와이프를 매우 사랑하는 게 느껴진다.",
+          "나의 취미는 드라이브를 하며 라디오를 듣는 것이다.",
+          "나는 예능프로 나혼자 산다를 즐겨본다.",
+          "나의 아버지는 \"나는 자연인이다\" 프로그램을 즐겨보신다.",
+          "나는 산에가서 자연인처럼 살수는 없을것 같다.",
+          "나는 생활적인 부분이 불편할것같다."
+        ],
+        "speaker2": [
+          "나는 와이프와 거리 조각을 보고 왔다",
+          "나는 울산에 거주하는데 와이프랑 태화강변을 걸으며 봤다.",
+          "나는 운전하며 라디오를 듣는 걸 참 좋아한다",
+          "나는 관찰형 예능 프로그램을 좋아한다. 나는 나는 자연인이다 라는 프로그램을 즐겨본다.",
+          "나는 종종 자연인이 되는 상상을 한다.",
+          "나는 자연인이 되면 마음은 엄청 편할거 같지만 생활 자체는 불편할것같다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "저는 30대 남성입니다.\n",
+          "나는 관세사이다. 나는 종종 안도감이 드는 나날을 보낸다.",
+          "나는 소설을 가끔 읽으며 시간을 보낸다.",
+          "나는 저녁으로 햄버거를 먹었다."
+        ],
+        "speaker2": [
+          "나는 항상 느긋하다. 나는 50대 남성이다.",
+          "나는 중견기업 사무직에 종사한다. 나는 퇴직이 얼마남지 않았다. 나는 아침마다 산책을 한다.",
+          "나는 화창한 날엔 가족들과 여행이나, 드라이브를 주로 하고, 비오는 날은 집에서 TV나 유튜브 시청을 한다.",
+          "나는 막걸리를 자주 즐겨먹는다",
+          "나는 저녁으로 토마토 스파게티를 먹었다.",
+          "나는 패스트푸드를 먹으면 소화가 잘 안된다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00039-2",
+      "prevTimeInfo": {
+        "timeNum": "8",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00039-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "안녕하세요 8일만이네요. 잘 지내셨나요",
+          "summary": "",
+          "date": "2022-10-31",
+          "time": "15:00:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "네 잘 지냈습니다. @이름@님은 잘 지내셨나요? ",
+          "summary": "",
+          "date": "2022-10-31",
+          "time": "16:40:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "네 저는 잘 지냈습니다. 종종 드라이브하며 라디오도 듣고 말이죠. 하하",
+          "summary": "나는 종종 드라이브를 하며 라디오를 듣는다.",
+          "date": "2022-10-31",
+          "time": "17:17:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "저도 드라이브 하면서 느긋하게 라디오 듣는것을 좋아해요. 그런데 어딜가나 전부 이태원 이야기네요.",
+          "summary": "나는 드라이브하며 라디오 듣는 것을 좋아한다",
+          "date": "2022-11-03",
+          "time": "13:30:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "그러게요 .. 참 안타까운 일입니다 정말 믿기지 않는 소식이었어요",
+          "summary": "나는 이태원 사건이 안타깝다.",
+          "date": "2022-11-03",
+          "time": "14:11:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "그렇죠.. 즐기자고 갔는데 비극이었네요. 이태원 할로인도 어떻게보면 예술문화인데 분장도 예술이잖아요.",
+          "summary": "나는 이태원 할로인이 예술이라고 생각한다.",
+          "date": "2022-11-05",
+          "time": "13:20:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "그러게말이에요 할로윈은 앞으로도 크게 축제를 하긴 어려울것같아요 ",
+          "summary": "나는 할로윈은 앞으로도 크게 축제를 하긴 어려울것 같다고 생각한다.",
+          "date": "2022-11-06",
+          "time": "02:57:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "그런데 전문가들 말로는 그런 현상이 일어날수밖에 없는 구조였다네요. 그런데도 아무런 대책이 없다니.",
+          "summary": "",
+          "date": "2022-11-06",
+          "time": "19:54:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "그러게말이에요 대처가 지금 상황에서는 가장 중요한데 정말 지켜봐야겠어요. 온 방송에서 이 이야기가 화두잖아요",
+          "summary": "나는 대처가 중요하다고 생각한다.",
+          "date": "2022-11-06",
+          "time": "21:18:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "그리고 요즘 음주 운전이 연예계에서 또 기승이더라구요 저희 아들도 몇일전에 음주운전에 걸렸거든요.",
+          "summary": "나의 아들이 음주운전에 걸렸다",
+          "date": "2022-11-07",
+          "time": "20:17:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "어머 어떻게되셨나요? 면허 취소되짐 않았어요?",
+          "summary": "",
+          "date": "2022-11-07",
+          "time": "20:46:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "면허 취소에 벌금 500만원이라고 하더군요 근데 다른 선진국들에 비하면 저희나라는 음주운전에 대해 관대한것같네요 저는 더 처벌을 강화해야된다고 생각합니다.",
+          "summary": "나는 음주운전 처벌을 강화해야 한다고 생각한다.",
+          "date": "2022-11-08",
+          "time": "17:25:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30459",
+          "participantID": "3802",
+          "utterance": "그러게요 음주운전은 살인미수라고 하잖아요. 조심해야죠",
+          "summary": "나는 음주운전은 음주운전이라 생각한다.",
+          "date": "2022-11-08",
+          "time": "17:28:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51052",
+          "participantID": "3903",
+          "utterance": "네 그래야죠 저는 저녁좀 먹고 오겠습니다. 오늘 저녁메뉴는 된장찌개네요.",
+          "summary": "나는 저녁좀 먹고 오겠다.",
+          "date": "2022-11-08",
+          "time": "17:28:58",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 종종 드라이브를 하며 라디오를 듣는다.",
+          "나는 이태원 사건이 안타깝다.",
+          "나는 할로윈은 앞으로도 크게 축제를 하긴 어려울것 같다고 생각한다.",
+          "나는 대처가 중요하다고 생각한다.",
+          "나는 음주운전은 음주운전이라 생각한다."
+        ],
+        "speaker2": [
+          "나는 드라이브하며 라디오 듣는 것을 좋아한다",
+          "나는 이태원 할로인이 예술이라고 생각한다.",
+          "나의 아들이 음주운전에 걸렸다",
+          "나는 음주운전 처벌을 강화해야 한다고 생각한다.",
+          "나는 저녁좀 먹고 오겠다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "저는 30대 남성입니다.\n",
+          "나는 관세사이다. 나는 종종 안도감이 드는 나날을 보낸다.",
+          "나는 소설을 가끔 읽으며 시간을 보낸다.",
+          "나는 저녁으로 햄버거를 먹었다.",
+          "나는 와이프를 매우 사랑하는 게 느껴진다.",
+          "나의 취미는 드라이브를 하며 라디오를 듣는 것이다.",
+          "나는 예능프로 나혼자 산다를 즐겨본다.",
+          "나의 아버지는 \"나는 자연인이다\" 프로그램을 즐겨보신다.",
+          "나는 산에가서 자연인처럼 살수는 없을것 같다.",
+          "나는 생활적인 부분이 불편할것같다."
+        ],
+        "speaker2": [
+          "나는 항상 느긋하다. 나는 50대 남성이다.",
+          "나는 중견기업 사무직에 종사한다. 나는 퇴직이 얼마남지 않았다. 나는 아침마다 산책을 한다.",
+          "나는 화창한 날엔 가족들과 여행이나, 드라이브를 주로 하고, 비오는 날은 집에서 TV나 유튜브 시청을 한다.",
+          "나는 막걸리를 자주 즐겨먹는다",
+          "나는 저녁으로 토마토 스파게티를 먹었다.",
+          "나는 패스트푸드를 먹으면 소화가 잘 안된다.",
+          "나는 와이프와 거리 조각을 보고 왔다",
+          "나는 울산에 거주하는데 와이프랑 태화강변을 걸으며 봤다.",
+          "나는 운전하며 라디오를 듣는 걸 참 좋아한다",
+          "나는 관찰형 예능 프로그램을 좋아한다. 나는 나는 자연인이다 라는 프로그램을 즐겨본다.",
+          "나는 종종 자연인이 되는 상상을 한다.",
+          "나는 자연인이 되면 마음은 엄청 편할거 같지만 생활 자체는 불편할것같다."
+        ]
+      }
+    }
+  ]
+}

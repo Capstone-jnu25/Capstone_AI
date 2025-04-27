@@ -1,0 +1,1175 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-004317-AP600015-WZ000005-02_03_02-S2.json",
+        "sessionLevel": "2"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0053",
+            "gender": "여성",
+            "age": "30대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "기타"
+        },
+        "speaker2": {
+            "participantID": "F0053",
+            "gender": "여성",
+            "age": "60대 이상",
+            "occupation": "주부",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "고졸",
+            "major": "기타"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "004317"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600015",
+            "personaFeatures": [
+                "나는 관광/감상의 지명에 대한 서적을 읽고 있다.",
+                "나는 에어로빅을 좋아한다",
+                "나의 여자 형제는 스튜어디스이다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000005",
+            "personaFeatures": [
+                "나는 지명에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_02",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "장소"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004317-1",
+            "sessionKeywords": [
+                "*쑹판현*,*쑹판현*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600015",
+                    "participantID": "E0053",
+                    "utterance": "안녕? 너 혹시 지명에 대해서 잘 알고있어?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696315615000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "안녕하세요? 네 저는 지명을 잘 알고 있습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696315631000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600015",
+                    "participantID": "E0053",
+                    "utterance": "내가 관광 지명에 대한 서적을 읽다가 궁금한 게 생겼는데 물어봐도 될까?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 관광 지명에 대한 서적을 읽는다.",
+                    "timestamp": 1696315652000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네 그럼요. 제가 알고 있는 내용은 답변해 드리겠습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696315671000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600015",
+                    "participantID": "E0053",
+                    "utterance": "그러면 쑹판현에 대해서 알려줄래?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696315681000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "쑹판현은 중화인민공화국 쓰촨성 아바 티베트족 창족 자치주의 현급 행정구역입니다.",
+                    "context": {
+                        "query": "쑹판현",
+                        "contents": [
+                            {
+                                "documentID": "363368",
+                                "documentTitle": "쑹판현",
+                                "content": [
+                                    "쑹판현(, )은 중화인민공화국 쓰촨성 아바 티베트족 창족 자치주의 현급 행정구역이다.",
+                                    "북위 32°06′—33°09′, 동경 102°38′—104°15′ 사이에 위치한다.",
+                                    "넓이는 8486km2이고, 인구는 2007년 기준으로 70,000명이다.",
+                                    "경제와 관광.",
+                                    "쑹판의 경제는 농업과 가축 사육이 지배적이다.",
+                                    "최근에 관광업이 점차 중요한 부문이 되었고 정부 당국에 의해 활발히 진전되고 있다.",
+                                    "황룽 풍경구가 현 내에 위치한다.",
+                                    "쑹판은 북쪽 주자이거우 계곡의 관문 역할을 하는 전략적인 위치이다.",
+                                    "쑹판의 매력적인 도시로 주변의 전원이 다양한 관광지를 제공한다.",
+                                    "도시를 둘러싼 언덕은 티베트인 목동들이 가축에게 풀을 뜯기고 끊없는 계곡과 아름다운 풍경 등의 시각적인 즐거움을 준다.",
+                                    "역사.",
+                                    "쑹판의 고대 도시는 당나라 때 지어졌고 명나라 때 재건되었다.",
+                                    "쑹판은 중요한 군사 주둔지였다.",
+                                    "또한 쓰촨, 간쑤, 칭하이, 티베트 간의 말과 차를 교환하는 중요한 경제 무역 중심지였다.",
+                                    "1935년에 마오쩌둥과 저우언라이의 중국 공산당 군대는 이곳으로 후퇴하여 쑹판 고원을 거쳐 북서쪽의 성으로 진군하였다.",
+                                    "행정 구역.",
+                                    "2개 진, 21개 향, 2개 민족향을 관할한다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "쑹판현은 중화인민공화국 쓰촨성 아바 티베트족 창족 자치주의 현급 행정구역이다.",
+                    "timestamp": 1696315702000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600015",
+                    "participantID": "E0053",
+                    "utterance": "쓰촨성에 있구나. 좀 더 자세히 알려줘.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696315722000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "쑹판의 경제는 농업과 가축 사육이 지배적인데  최근에 관광업이 점차 중요한 부문이 되었고 정부 당국에 의해 활발히 진전되고 있어요.",
+                    "context": {
+                        "query": "쑹판현",
+                        "contents": [
+                            {
+                                "documentID": "363368",
+                                "documentTitle": "쑹판현",
+                                "content": [
+                                    "쑹판현(, )은 중화인민공화국 쓰촨성 아바 티베트족 창족 자치주의 현급 행정구역이다.",
+                                    "북위 32°06′—33°09′, 동경 102°38′—104°15′ 사이에 위치한다.",
+                                    "넓이는 8486km2이고, 인구는 2007년 기준으로 70,000명이다.",
+                                    "경제와 관광.",
+                                    "쑹판의 경제는 농업과 가축 사육이 지배적이다.",
+                                    "최근에 관광업이 점차 중요한 부문이 되었고 정부 당국에 의해 활발히 진전되고 있다.",
+                                    "황룽 풍경구가 현 내에 위치한다.",
+                                    "쑹판은 북쪽 주자이거우 계곡의 관문 역할을 하는 전략적인 위치이다.",
+                                    "쑹판의 매력적인 도시로 주변의 전원이 다양한 관광지를 제공한다.",
+                                    "도시를 둘러싼 언덕은 티베트인 목동들이 가축에게 풀을 뜯기고 끊없는 계곡과 아름다운 풍경 등의 시각적인 즐거움을 준다.",
+                                    "역사.",
+                                    "쑹판의 고대 도시는 당나라 때 지어졌고 명나라 때 재건되었다.",
+                                    "쑹판은 중요한 군사 주둔지였다.",
+                                    "또한 쓰촨, 간쑤, 칭하이, 티베트 간의 말과 차를 교환하는 중요한 경제 무역 중심지였다.",
+                                    "1935년에 마오쩌둥과 저우언라이의 중국 공산당 군대는 이곳으로 후퇴하여 쑹판 고원을 거쳐 북서쪽의 성으로 진군하였다.",
+                                    "행정 구역.",
+                                    "2개 진, 21개 향, 2개 민족향을 관할한다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "쑹판의 경제는 농업과 가축 사육이 지배적인데 최근에 관광업이 점차 중요한 부문이 되었고 정부 당국에 의해 활발히 진전되고 있다.",
+                    "timestamp": 1696315759000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600015",
+                    "participantID": "E0053",
+                    "utterance": "오 관광지로 진전되고 있구나. 중국 여행은 아직 못가봤는데 궁금하네.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696315809000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네 그렇습니다. 중국은 아직 못가보셨군요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696315851000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600015",
+                    "participantID": "E0053",
+                    "utterance": "응. 나한테 여자 형제가 있는데 스튜어디스거든 중국여행 어떨지 한번 물어봐야 겠다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나의 여자 형제는 스튜어디스다.",
+                    "timestamp": 1696315916000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "스튜어디스면 중국여행을 잘 알고 있을 것 같습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696315954000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600015",
+                    "participantID": "E0053",
+                    "utterance": "그렇지? 최근에 자주 연락을 못했는데 생각난 김에 전화해 봐야 겠다. 그럼 이만!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696316011000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네 궁금한 게 있으면 또 찾아 주세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696316019000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 관광 지명에 대한 서적을 읽는다.",
+                    "나의 여자 형제는 스튜어디스다."
+                ],
+                "wizard": [
+                    "쑹판현은 중화인민공화국 쓰촨성 아바 티베트족 창족 자치주의 현급 행정구역이다.",
+                    "쑹판의 경제는 농업과 가축 사육이 지배적인데 최근에 관광업이 점차 중요한 부문이 되었고 정부 당국에 의해 활발히 진전되고 있다."
+                ],
+                "dialogSummary": "질문자가 쑹판현에 대해 질문했고 챗봇은 쑹판현은 중화인민공화국 쓰촨성 아바 티베트족 창족 자치주의 현급 행정구역인 것과 쑹판의 경제는 농업과 가축 사육이 지배적인데 최근에 관광업이 점차 중요한 부문이 되었고 정부 당국에 의해 활발히 진전되고 있다고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "004317-1",
+            "prevTimeInfo": {
+                "timeNum": "3",
+                "timeUnit": "주"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004317-2",
+            "sessionKeywords": [
+                "*매봉산 (경남)*,*매봉산 (경남)*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600015",
+                    "participantID": "E0053",
+                    "utterance": "와 벌써 3주일이나 지났네. 지난 번 중국 질문했었는데",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696316139000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네. 쑹판현에 대해서 질문하셨죠? 기억하고 있습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696316154000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600015",
+                    "participantID": "E0053",
+                    "utterance": "오 아직 기억하고 있구나. 내가 에어로빅을 좋아해서 최근에 등록해서 배우고 있거든.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 에어로빅을 좋아한다.",
+                    "timestamp": 1696316182000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "에어로빅을 좋아하시는 군요. 최근에 바쁘셨겠어요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696316205000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600015",
+                    "participantID": "E0053",
+                    "utterance": "응 거기서 만난 사람들이랑 여행을 가기로 했는데 매봉산으로 갈 거야.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696316257000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "그러시군요. 매봉산에 대해 궁금한 게 있으신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696316286000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600015",
+                    "participantID": "E0053",
+                    "utterance": "바로 알았네? 경남에 있는 매봉산 위치 좀 알려줄래?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696316303000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "매봉산(妹峰山, 鷹峰山)은 대한민국 경상남도 밀양시 삼랑진읍 송지리 신천마을과 삼랑리(낙동)에 걸쳐 있습니다.",
+                    "context": {
+                        "query": "매봉산",
+                        "contents": [
+                            {
+                                "documentID": "373571",
+                                "documentTitle": "매봉산 (경남)",
+                                "content": [
+                                    "매봉산(妹峰山, 鷹峰山)은 대한민국 경상남도 밀양시 삼랑진읍 송지리 신천마을과 삼랑리(낙동)에 걸쳐 있는 높이 283.7m의 산이다.",
+                                    "만어산, 구천산, 금오산, 천태산 등 삼랑진을 에워싸고 있는 다른 산에 비하면 나지막하지만 삼랑진 관내 학교 교가에 빠지지 않고 들어갈 만큼 삼랑진을 상징하는 산이라 할 수 있다.",
+                                    "유래.",
+                                    "매가 날개를 펴고 앉아 있는 모양과 같다고 하여 매봉산이라 한다.",
+                                    "한자 표기시 '매'에 해당하는 마땅한 한자가 없어 차음하여 '妹'로 나타내기도 하고, 뜻을 따라 '鷹'자로 표기하기도 한다.",
+                                    "옛날에 푸른 소나무가 울창하여 삼랑진 팔경 가운데 하나로 매봉창송을 들었다고 하며, 달리 '뫼봉산'으로도 부른다."
+                                ]
+                            },
+                            {
+                                "documentID": "974979",
+                                "documentTitle": "매봉산 (강남구)",
+                                "content": [
+                                    "매봉산(매峰山)은 서울특별시 강남구 도곡동에 있는 산으로서, 독구리산이라고도 불린다.",
+                                    "산 아래에 돌이 많다고 하여 붙여진 이름이며, 도곡동 이름의 유래가 되었다.",
+                                    "위치.",
+                                    "강남의 새로운 부촌(富村)이라는 도곡동은 매봉산 자락에 돌이 많아 '독부리'라 불리던 곳이 '독구리' '독골'이라는 이름을 거쳐 오늘날 '도곡동'이 됐다.",
+                                    "동쪽은 대치동, 서쪽은 역삼동, 남쪽은 양재동.포이동, 북쪽은 삼성동과 이웃하고 있다.",
+                                    "지하철 3호선 매봉역과 도곡역이 지난다.",
+                                    "우면산에서 동쪽으로 뻗은 산줄기는 양재사거리 낮은 언덕을 지나 강남구 도곡동에서 매봉산의 88m와 95m 봉우리를 형성한다. .",
+                                    "전해오는 이야기.",
+                                    "강남 일대는 구석기시대 이래 청동기시대에 이르기까지 한강변을 중심으로 전개된 한반도 선사문화의 중심부에 해당되는데, 그 유적의 일부를 바로 도곡동에서 찾아볼 수 있다.",
+                                    "기원전 7~4세기경 청동기인들의 거주지로 밝혀진 역삼 청동기 수혈거주지가 현 도곡동 산 32-1에 자리하고 있다.",
+                                    "이후 백제의 수도로, 고려 조선시대 그리고 현재에 이르기까지 민족의 중심지 역할을 해내고 있다.",
+                                    "조선 시대에는 경기도 광주군 언주면(彦州面)에 속해 있었는데 강남구 도곡동 역마을과 독구리마을사이의 높이 약1백ｍ의 매봉산 중턱에 있는 동제당(洞祭堂)은 지금도 토박이 주민들이 애착을 갖고 돌보는 동네명소이다.",
+                                    "이 마을에서는 동신을 산신이라 부르고 있으며 동제사를 지내면 풍년이 들고 천재지변이 예방된다는 믿음을 갖고있다.",
+                                    "마을사람들이 산에 제사지내러가기 귀찮다며 동네에서 가까운 곳으로 동제당을 옮기자 우환이 끊이지 않아 원래 위치로 돌려보냈다는 얘기도 전해내려오고 있다.",
+                                    "특히 독구리 마을은 조선시대 한양으로 입성하는 중간에 있는 마을로 지금의 말죽거리와 매봉산의 중간에 오솔길이 있는데 이 길을 왕래하는 사람들이 한양에 입성하기 전에 잠깐 쉬는 마을이었다고 한다.",
+                                    "또한 느티나무 뒤쪽으로는 작은 비석을 찾아볼 수 있는데, 전하는 이야기에 따르면 김의신(金義信)이라는 효자를 기리기 위한 것이라고 한다.",
+                                    "김의신은 나이 40세 때 병석에 눕게 된 아버지의 병을 고치려 무척 애를 썼지만 백약이 무효였다.",
+                                    "하루는 뒷산 느티나무 밑에서 아버지 병을 낫게 해달라고 백일기도를 하던 중 꿈에 백발노인으로 변장한 산신이 나타나 일러주기를 “너희 아비의 병이 나으려면 한 가지 방법이 있지만 그렇게 하기 쉽지 않은데 할 수 있겠느냐?”",
+                                    "하고 물었다.",
+                                    "이때 김의신은 “산신령님, 꼭 그렇게 하겠으니 일러만 주십시오.”하고 간곡히 청했다.",
+                                    "그러자 산신령은 “사람의 허벅지살을 고아 먹으면 쾌유하게 될 것이니라.”하고는 어디론가 사라져 버렸다.",
+                                    "정신을 차린 김의신이 자기 허벅지살을 베어 고아 만든 약을 드신 아버지는 씻은 듯이 나았다.",
+                                    "병이 완쾌된 후 천수를 다하고 돌아가신 아버지 묘 앞에서 김의신이 3년동안 움막을 치고 기거하면서 슬퍼하므로 이를 가상히 여긴 마을사람들이 그를 기리기 위해 효자비를 세웠다고 전해진다.",
+                                    "주변환경.",
+                                    "매봉산 인근의 행정단위인 도곡동은 1970년대 이전까지는 도라지 오이 참외 등이 재배되는 전형적인 농촌마을이었다.",
+                                    "오늘날의 도곡동은 롯데백화점, 강남세브란스병원 등 생활편의시설이 자리잡고 자연환경 측면에서도 남쪽에 양재천, 등산하기에 적합한 우면산 구룡산 등이 가깝기 때분에 각광받는 지역으로 선호된다."
+                                ]
+                            },
+                            {
+                                "documentID": "976398",
+                                "documentTitle": "금호산 (서울)",
+                                "content": [
+                                    "금호산(金湖山)은 서울특별시 성동구 금호동과 옥수동에 위치한 산이다.",
+                                    "높이는 해발 140m로 서울숲에서 시작해 응봉공원, 독서당공원, 호당공원, 금호산, 대현산, 대현산배수지공원, 응봉산, 매봉산까지 성동구의 여러 근린공원을 두루 거쳐 남산에 이르는 코스로 ‘서울숲~남산길’이라고 불린다.",
+                                    "위치.",
+                                    "금호산은 응봉근린공원에 포함되어 있으나 현재는 매봉산으로 불리고 있다.",
+                                    "옛날에는 응봉(鷹峰)으로 통칭되었으나 현재는 매봉산, 금호산, 대현산, 대현산배수지공원, 응봉산으로 나뉘었다.",
+                                    "응봉근린공원의 전체적인 면적은 670,168m2이고, 자치구별 면적은 용산구(172,217m2), 중구(115,418m2), 성동구(382,533m2)이며 자치구별로 분할하여 관리한다.",
+                                    "전해오는 이야기.",
+                                    "금호산은 산이 높지는 않으나 옛날부터 찾는 사람이 많았다.",
+                                    "이곳지역은 임금이 사냥할 때 이곳에서 매를 놓아 꿩을 잡았으므로 매봉 또는 한자명으로 응봉이라 하였다.",
+                                    "큰 매봉 · 작은 매봉은 모두 응봉 줄기의 봉우리로 한강과 중랑천이 만나는 지역 북쪽에 서로 남북으로 마주 보고 있다.",
+                                    "이 넓은 산역(山域)을 일반적으로 응봉이라 부르면서, 봉우리의 높이에 따라 큰 매봉 · 작은 매봉으로 불렀다.",
+                                    "응봉은 한양에 천도하여 왕궁이 이루어지기 전부터 임금의 매 사냥터였다.",
+                                    "1394년(태조 3) 천도에 앞서, 동교(東郊, 뚝섬 일대)에서 매를 놓아 사냥을 즐겼다.",
+                                    "이때 응봉에서 활을 쏘았는데 화살을 맞은 새가 중랑포(中浪浦) 도요연(桃夭淵)에 떨어졌으므로 이 자리를 살곶이, 즉 전관(箭串)이라 하였다고 한다.",
+                                    "태조는 1395년(태조 4)에 지금의 매봉 기슭에 매사냥을 관장하는 응방을 설치하였다.",
+                                    "주변환경.",
+                                    "금호산은 응봉의 줄기이며, 인근 주택가가 아파트단지로 재개발되었다.",
+                                    "사방으로 서울 동부지역을 조망하기 좋다.",
+                                    "호당공원은 얼마 전까지만 해도 대현배수지공원이라고 불리던 곳인데 최근에 공원 이름을 공모해 호당공원으로 이름을 바꾼 곳이다.",
+                                    "호당공원을 지나 횡단보도를 건너면 금호산 맨발공원이 나온다.",
+                                    "금호산은 벚꽃 축제가 해마다 열리는 곳이다.",
+                                    "맨발공원을 지나면 생태통로가 나오고 금호산 정상으로 이어진다.",
+                                    "금호산 정상엔 정자가 있고 금호산 정상에서 한강 쪽을 바라보면 서울 어디에서도 볼 수 없는 경관이 나오고 여기서 이어지는 매봉산 팔각정은 한강의 전망대로 인기가 높다."
+                                ]
+                            },
+                            {
+                                "documentID": "974972",
+                                "documentTitle": "매봉산 (구로구)",
+                                "content": [
+                                    "매봉산(每奉山)은 서울특별시 구로구 개봉1동과 양천구의 경계에 있는 산으로서, 매봉산은 구로구에 위치한 대표적인 산으로, 높이는 108m이고 청룡산으로도 불린다.",
+                                    "구로구 개봉1동, 오류1동, 수궁동, 양천구 신정3동까지 이어져 있다.",
+                                    "위치.",
+                                    "매봉산 정상에는 정상 표시물인 삼각점 두 곳이 있다.",
+                                    "간이 쉼터가 있는 직사각형 공터로서 매봉초등학교 서쪽에 위치한다.",
+                                    "매봉산은 나지막한 동네 산으로 지역 주민들의 휴식처이자 등산 및 걷기 운동 장소로 활용되고 있다.",
+                                    "등산로 주변에는 생태 환경 학습장을 비롯하여 약수터와 배드민턴장·체력 단련장 등의 운동 시설이 곳곳에 설치되어 있다.",
+                                    "매봉산은 아기자기한 숲길로 유명하다.",
+                                    "오류동역에서 가까우며, 궁동터널이 지나는 산이기도 하다.",
+                                    "인근에 있는 안양천은 현재 3급수까지 회복된 하천으로 안양천 둔치에는 각종 운동시설이 구비되었으며 메밀꽃, 유채꽃, 꽃창포 등 각종 꽃길도 열려 주민들의 산책 및 휴식 공간으로 사랑받고 있다.",
+                                    "전해오는 이야기.",
+                                    "구로(九老)라는 이름은 ‘옛날 이 지역에 아홉 노인이 오래 살았다’해서 붙여진 이름이다.",
+                                    "삼국시대에는 본래 백제의 영토였으나 고구려의 장수왕이 남하해 잉벌노현(仍伐奴縣: 지금의 시흥시와 광명시 지역), 율목군(栗木郡: 지금의 과천시), 장항구현(獐項口縣 또는 古斯也沕欠: 지금의 안산지역)을 설치했다.",
+                                    "통일신라의 신문왕이 9주제(九州制)를 정비하면서 이지역은 한산주(漢山州)에 속했다.",
+                                    "고려시대에는 경기 10현 중의 하나인 수주현(樹州縣)이었다.",
+                                    "조선시대에는 금천현, 과천현, 금과현(衿果縣), 금양현(衿陽縣), 시흥현 등으로 편입되었다.",
+                                    "영등포구에 속해 있다가 1980년 4월1일 구로구로 나눠졌다.",
+                                    "매봉산은 개웅산과 함께 개봉동 동명의 유래가 된 산으로, 개웅산의 '개'자와 매봉산의 '봉'자가 합쳐져 지금의 개봉동이 된 것이라고 한다.",
+                                    "주변환경.",
+                                    "매봉산에는 소나무, 참나무 등의 식생과 생태연못, 운동시설 등이 잘 갖춰져 있고 매봉산 일대에는 총 면적 8만7903m2의 온수 잣절공원이 조성돼 약수터, 생태연못, 생태습지원, 자연학습장, 전통정자, 파고라 등이 설치돼 있다."
+                                ]
+                            },
+                            {
+                                "documentID": "29234",
+                                "documentTitle": "두위봉",
+                                "content": [
+                                    "두위봉(斗圍峰, 일명: 두리봉)은 강원특별자치도 정선군 신동읍 방제리, 사북읍 사북리, 남면 무릉리와 영월군 산솔면 직동리에 걸쳐 있는 해발 1,466m의 산이다.",
+                                    "백두대간의 함백산에서 갈라져 나온 지맥이다.",
+                                    "1400m급의 고산인 만큼 그 덩치도 만만치 않고 주능선만도 정상을 열 십자로 그으며, 각각 사방으로 뻗어나간 능선이 장장 10Km가 넘는다.",
+                                    "정상에 올라 바라보는 전망도 좋아서 북으로는 민둥산이 펼쳐지고, 동쪽으로 백운산과 그 오른족에 태백산이며 남으로 매봉산이 두루 조망된다.",
+                                    "정상에 이르는 주능선에는 철쭉 군락이 대단하여 정선군에서 해마다 철쭉제를 열기도 한다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "매봉산(妹峰山, 鷹峰山)은 대한민국 경상남도 밀양시 삼랑진읍 송지리 신천마을과 삼랑리(낙동)에 걸쳐 있다.",
+                    "timestamp": 1696316334000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600015",
+                    "participantID": "E0053",
+                    "utterance": "음 밀양에 있구나. 근데 왜 이름이 매봉산이야?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696316364000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "매가 날개를 펴고 앉아 있는 모양과 같다고 하여 매봉산이라 합니다. 한자 표기시 '매'에 해당하는 마땅한 한자가 없어 차음하여 '妹'로 나타내기도 하고, 뜻을 따라 '鷹'자로 표기하기도 합니다.",
+                    "context": {
+                        "query": "매봉산",
+                        "contents": [
+                            {
+                                "documentID": "373571",
+                                "documentTitle": "매봉산 (경남)",
+                                "content": [
+                                    "매봉산(妹峰山, 鷹峰山)은 대한민국 경상남도 밀양시 삼랑진읍 송지리 신천마을과 삼랑리(낙동)에 걸쳐 있는 높이 283.7m의 산이다.",
+                                    "만어산, 구천산, 금오산, 천태산 등 삼랑진을 에워싸고 있는 다른 산에 비하면 나지막하지만 삼랑진 관내 학교 교가에 빠지지 않고 들어갈 만큼 삼랑진을 상징하는 산이라 할 수 있다.",
+                                    "유래.",
+                                    "매가 날개를 펴고 앉아 있는 모양과 같다고 하여 매봉산이라 한다.",
+                                    "한자 표기시 '매'에 해당하는 마땅한 한자가 없어 차음하여 '妹'로 나타내기도 하고, 뜻을 따라 '鷹'자로 표기하기도 한다.",
+                                    "옛날에 푸른 소나무가 울창하여 삼랑진 팔경 가운데 하나로 매봉창송을 들었다고 하며, 달리 '뫼봉산'으로도 부른다."
+                                ]
+                            },
+                            {
+                                "documentID": "974979",
+                                "documentTitle": "매봉산 (강남구)",
+                                "content": [
+                                    "매봉산(매峰山)은 서울특별시 강남구 도곡동에 있는 산으로서, 독구리산이라고도 불린다.",
+                                    "산 아래에 돌이 많다고 하여 붙여진 이름이며, 도곡동 이름의 유래가 되었다.",
+                                    "위치.",
+                                    "강남의 새로운 부촌(富村)이라는 도곡동은 매봉산 자락에 돌이 많아 '독부리'라 불리던 곳이 '독구리' '독골'이라는 이름을 거쳐 오늘날 '도곡동'이 됐다.",
+                                    "동쪽은 대치동, 서쪽은 역삼동, 남쪽은 양재동.포이동, 북쪽은 삼성동과 이웃하고 있다.",
+                                    "지하철 3호선 매봉역과 도곡역이 지난다.",
+                                    "우면산에서 동쪽으로 뻗은 산줄기는 양재사거리 낮은 언덕을 지나 강남구 도곡동에서 매봉산의 88m와 95m 봉우리를 형성한다. .",
+                                    "전해오는 이야기.",
+                                    "강남 일대는 구석기시대 이래 청동기시대에 이르기까지 한강변을 중심으로 전개된 한반도 선사문화의 중심부에 해당되는데, 그 유적의 일부를 바로 도곡동에서 찾아볼 수 있다.",
+                                    "기원전 7~4세기경 청동기인들의 거주지로 밝혀진 역삼 청동기 수혈거주지가 현 도곡동 산 32-1에 자리하고 있다.",
+                                    "이후 백제의 수도로, 고려 조선시대 그리고 현재에 이르기까지 민족의 중심지 역할을 해내고 있다.",
+                                    "조선 시대에는 경기도 광주군 언주면(彦州面)에 속해 있었는데 강남구 도곡동 역마을과 독구리마을사이의 높이 약1백ｍ의 매봉산 중턱에 있는 동제당(洞祭堂)은 지금도 토박이 주민들이 애착을 갖고 돌보는 동네명소이다.",
+                                    "이 마을에서는 동신을 산신이라 부르고 있으며 동제사를 지내면 풍년이 들고 천재지변이 예방된다는 믿음을 갖고있다.",
+                                    "마을사람들이 산에 제사지내러가기 귀찮다며 동네에서 가까운 곳으로 동제당을 옮기자 우환이 끊이지 않아 원래 위치로 돌려보냈다는 얘기도 전해내려오고 있다.",
+                                    "특히 독구리 마을은 조선시대 한양으로 입성하는 중간에 있는 마을로 지금의 말죽거리와 매봉산의 중간에 오솔길이 있는데 이 길을 왕래하는 사람들이 한양에 입성하기 전에 잠깐 쉬는 마을이었다고 한다.",
+                                    "또한 느티나무 뒤쪽으로는 작은 비석을 찾아볼 수 있는데, 전하는 이야기에 따르면 김의신(金義信)이라는 효자를 기리기 위한 것이라고 한다.",
+                                    "김의신은 나이 40세 때 병석에 눕게 된 아버지의 병을 고치려 무척 애를 썼지만 백약이 무효였다.",
+                                    "하루는 뒷산 느티나무 밑에서 아버지 병을 낫게 해달라고 백일기도를 하던 중 꿈에 백발노인으로 변장한 산신이 나타나 일러주기를 “너희 아비의 병이 나으려면 한 가지 방법이 있지만 그렇게 하기 쉽지 않은데 할 수 있겠느냐?”",
+                                    "하고 물었다.",
+                                    "이때 김의신은 “산신령님, 꼭 그렇게 하겠으니 일러만 주십시오.”하고 간곡히 청했다.",
+                                    "그러자 산신령은 “사람의 허벅지살을 고아 먹으면 쾌유하게 될 것이니라.”하고는 어디론가 사라져 버렸다.",
+                                    "정신을 차린 김의신이 자기 허벅지살을 베어 고아 만든 약을 드신 아버지는 씻은 듯이 나았다.",
+                                    "병이 완쾌된 후 천수를 다하고 돌아가신 아버지 묘 앞에서 김의신이 3년동안 움막을 치고 기거하면서 슬퍼하므로 이를 가상히 여긴 마을사람들이 그를 기리기 위해 효자비를 세웠다고 전해진다.",
+                                    "주변환경.",
+                                    "매봉산 인근의 행정단위인 도곡동은 1970년대 이전까지는 도라지 오이 참외 등이 재배되는 전형적인 농촌마을이었다.",
+                                    "오늘날의 도곡동은 롯데백화점, 강남세브란스병원 등 생활편의시설이 자리잡고 자연환경 측면에서도 남쪽에 양재천, 등산하기에 적합한 우면산 구룡산 등이 가깝기 때분에 각광받는 지역으로 선호된다."
+                                ]
+                            },
+                            {
+                                "documentID": "976398",
+                                "documentTitle": "금호산 (서울)",
+                                "content": [
+                                    "금호산(金湖山)은 서울특별시 성동구 금호동과 옥수동에 위치한 산이다.",
+                                    "높이는 해발 140m로 서울숲에서 시작해 응봉공원, 독서당공원, 호당공원, 금호산, 대현산, 대현산배수지공원, 응봉산, 매봉산까지 성동구의 여러 근린공원을 두루 거쳐 남산에 이르는 코스로 ‘서울숲~남산길’이라고 불린다.",
+                                    "위치.",
+                                    "금호산은 응봉근린공원에 포함되어 있으나 현재는 매봉산으로 불리고 있다.",
+                                    "옛날에는 응봉(鷹峰)으로 통칭되었으나 현재는 매봉산, 금호산, 대현산, 대현산배수지공원, 응봉산으로 나뉘었다.",
+                                    "응봉근린공원의 전체적인 면적은 670,168m2이고, 자치구별 면적은 용산구(172,217m2), 중구(115,418m2), 성동구(382,533m2)이며 자치구별로 분할하여 관리한다.",
+                                    "전해오는 이야기.",
+                                    "금호산은 산이 높지는 않으나 옛날부터 찾는 사람이 많았다.",
+                                    "이곳지역은 임금이 사냥할 때 이곳에서 매를 놓아 꿩을 잡았으므로 매봉 또는 한자명으로 응봉이라 하였다.",
+                                    "큰 매봉 · 작은 매봉은 모두 응봉 줄기의 봉우리로 한강과 중랑천이 만나는 지역 북쪽에 서로 남북으로 마주 보고 있다.",
+                                    "이 넓은 산역(山域)을 일반적으로 응봉이라 부르면서, 봉우리의 높이에 따라 큰 매봉 · 작은 매봉으로 불렀다.",
+                                    "응봉은 한양에 천도하여 왕궁이 이루어지기 전부터 임금의 매 사냥터였다.",
+                                    "1394년(태조 3) 천도에 앞서, 동교(東郊, 뚝섬 일대)에서 매를 놓아 사냥을 즐겼다.",
+                                    "이때 응봉에서 활을 쏘았는데 화살을 맞은 새가 중랑포(中浪浦) 도요연(桃夭淵)에 떨어졌으므로 이 자리를 살곶이, 즉 전관(箭串)이라 하였다고 한다.",
+                                    "태조는 1395년(태조 4)에 지금의 매봉 기슭에 매사냥을 관장하는 응방을 설치하였다.",
+                                    "주변환경.",
+                                    "금호산은 응봉의 줄기이며, 인근 주택가가 아파트단지로 재개발되었다.",
+                                    "사방으로 서울 동부지역을 조망하기 좋다.",
+                                    "호당공원은 얼마 전까지만 해도 대현배수지공원이라고 불리던 곳인데 최근에 공원 이름을 공모해 호당공원으로 이름을 바꾼 곳이다.",
+                                    "호당공원을 지나 횡단보도를 건너면 금호산 맨발공원이 나온다.",
+                                    "금호산은 벚꽃 축제가 해마다 열리는 곳이다.",
+                                    "맨발공원을 지나면 생태통로가 나오고 금호산 정상으로 이어진다.",
+                                    "금호산 정상엔 정자가 있고 금호산 정상에서 한강 쪽을 바라보면 서울 어디에서도 볼 수 없는 경관이 나오고 여기서 이어지는 매봉산 팔각정은 한강의 전망대로 인기가 높다."
+                                ]
+                            },
+                            {
+                                "documentID": "974972",
+                                "documentTitle": "매봉산 (구로구)",
+                                "content": [
+                                    "매봉산(每奉山)은 서울특별시 구로구 개봉1동과 양천구의 경계에 있는 산으로서, 매봉산은 구로구에 위치한 대표적인 산으로, 높이는 108m이고 청룡산으로도 불린다.",
+                                    "구로구 개봉1동, 오류1동, 수궁동, 양천구 신정3동까지 이어져 있다.",
+                                    "위치.",
+                                    "매봉산 정상에는 정상 표시물인 삼각점 두 곳이 있다.",
+                                    "간이 쉼터가 있는 직사각형 공터로서 매봉초등학교 서쪽에 위치한다.",
+                                    "매봉산은 나지막한 동네 산으로 지역 주민들의 휴식처이자 등산 및 걷기 운동 장소로 활용되고 있다.",
+                                    "등산로 주변에는 생태 환경 학습장을 비롯하여 약수터와 배드민턴장·체력 단련장 등의 운동 시설이 곳곳에 설치되어 있다.",
+                                    "매봉산은 아기자기한 숲길로 유명하다.",
+                                    "오류동역에서 가까우며, 궁동터널이 지나는 산이기도 하다.",
+                                    "인근에 있는 안양천은 현재 3급수까지 회복된 하천으로 안양천 둔치에는 각종 운동시설이 구비되었으며 메밀꽃, 유채꽃, 꽃창포 등 각종 꽃길도 열려 주민들의 산책 및 휴식 공간으로 사랑받고 있다.",
+                                    "전해오는 이야기.",
+                                    "구로(九老)라는 이름은 ‘옛날 이 지역에 아홉 노인이 오래 살았다’해서 붙여진 이름이다.",
+                                    "삼국시대에는 본래 백제의 영토였으나 고구려의 장수왕이 남하해 잉벌노현(仍伐奴縣: 지금의 시흥시와 광명시 지역), 율목군(栗木郡: 지금의 과천시), 장항구현(獐項口縣 또는 古斯也沕欠: 지금의 안산지역)을 설치했다.",
+                                    "통일신라의 신문왕이 9주제(九州制)를 정비하면서 이지역은 한산주(漢山州)에 속했다.",
+                                    "고려시대에는 경기 10현 중의 하나인 수주현(樹州縣)이었다.",
+                                    "조선시대에는 금천현, 과천현, 금과현(衿果縣), 금양현(衿陽縣), 시흥현 등으로 편입되었다.",
+                                    "영등포구에 속해 있다가 1980년 4월1일 구로구로 나눠졌다.",
+                                    "매봉산은 개웅산과 함께 개봉동 동명의 유래가 된 산으로, 개웅산의 '개'자와 매봉산의 '봉'자가 합쳐져 지금의 개봉동이 된 것이라고 한다.",
+                                    "주변환경.",
+                                    "매봉산에는 소나무, 참나무 등의 식생과 생태연못, 운동시설 등이 잘 갖춰져 있고 매봉산 일대에는 총 면적 8만7903m2의 온수 잣절공원이 조성돼 약수터, 생태연못, 생태습지원, 자연학습장, 전통정자, 파고라 등이 설치돼 있다."
+                                ]
+                            },
+                            {
+                                "documentID": "29234",
+                                "documentTitle": "두위봉",
+                                "content": [
+                                    "두위봉(斗圍峰, 일명: 두리봉)은 강원특별자치도 정선군 신동읍 방제리, 사북읍 사북리, 남면 무릉리와 영월군 산솔면 직동리에 걸쳐 있는 해발 1,466m의 산이다.",
+                                    "백두대간의 함백산에서 갈라져 나온 지맥이다.",
+                                    "1400m급의 고산인 만큼 그 덩치도 만만치 않고 주능선만도 정상을 열 십자로 그으며, 각각 사방으로 뻗어나간 능선이 장장 10Km가 넘는다.",
+                                    "정상에 올라 바라보는 전망도 좋아서 북으로는 민둥산이 펼쳐지고, 동쪽으로 백운산과 그 오른족에 태백산이며 남으로 매봉산이 두루 조망된다.",
+                                    "정상에 이르는 주능선에는 철쭉 군락이 대단하여 정선군에서 해마다 철쭉제를 열기도 한다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "매가 날개를 펴고 앉아 있는 모양과 같다고 하여 매봉산이라 하고 한자 표기시 '매'에 해당하는 마땅한 한자가 없어 차음하여 '妹'로 나타내기도 하고, 뜻을 따라 '鷹'자로 표기하기도 한다.",
+                    "timestamp": 1696316390000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600015",
+                    "participantID": "E0053",
+                    "utterance": "아 매의 모양을 본 뜬 거구나. 이번에 가면 잘 관찰해야 겠네.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696316407000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네. 가시게 되면 한번 확인해 보시면 좋을 것 같네요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696316424000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600015",
+                    "participantID": "E0053",
+                    "utterance": "오늘도 고마워. 다음에 또 궁금한 게 있으면 찾아올게. 안녕",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696316437000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네. 그럼 궁금한 게 있으면 또 찾아 주세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696316448000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 에어로빅을 좋아한다."
+                ],
+                "wizard": [
+                    "매봉산(妹峰山, 鷹峰山)은 대한민국 경상남도 밀양시 삼랑진읍 송지리 신천마을과 삼랑리(낙동)에 걸쳐 있다.",
+                    "매가 날개를 펴고 앉아 있는 모양과 같다고 하여 매봉산이라 하고 한자 표기시 '매'에 해당하는 마땅한 한자가 없어 차음하여 '妹'로 나타내기도 하고, 뜻을 따라 '鷹'자로 표기하기도 한다."
+                ],
+                "dialogSummary": "질문자가 매봉산의 위치와 이름을 질문했고 챗봇은 매봉산(妹峰山, 鷹峰山)은 대한민국 경상남도 밀양시 삼랑진읍 송지리 신천마을과 삼랑리(낙동)에 걸쳐 있고 매가 날개를 펴고 앉아 있는 모양과 같다고 하여 매봉산이라 하고 한자 표기시 '매'에 해당하는 마땅한 한자가 없어 차음하여 '妹'로 나타내기도 하고, 뜻을 따라 '鷹'자로 표기하기도 한다고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광 지명에 대한 서적을 읽는다.",
+                    "나의 여자 형제는 스튜어디스다."
+                ],
+                "wizard": [
+                    "쑹판현은 중화인민공화국 쓰촨성 아바 티베트족 창족 자치주의 현급 행정구역이다.",
+                    "쑹판의 경제는 농업과 가축 사육이 지배적인데 최근에 관광업이 점차 중요한 부문이 되었고 정부 당국에 의해 활발히 진전되고 있다."
+                ]
+            }
+        }
+    ]
+}

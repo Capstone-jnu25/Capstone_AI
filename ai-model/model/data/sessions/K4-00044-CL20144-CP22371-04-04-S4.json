@@ -1,0 +1,866 @@
+{
+  "FileInfo": {
+    "filename": "K4-00044-CL20144-CP22371-04-04-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4002",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "전문직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "50404",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00044"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "20144",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나의 거주지는 순천이다",
+        "나는 사회복지학과 전공이다",
+        "나는 판타지 영화를 싫어한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22371",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 매우 적극적이다",
+        "나는 일주일에 한 두번 셔틀버스로 통학을 한다",
+        "나는 플루트 연주를 가끔 한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "04-04",
+    "topicType": "일과 직업>회사/아르바이트",
+    "topicTitle": "스펙"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00044-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "안녕하세요 순천사는 20대 남성입니다",
+          "summary": "나는 순천 사는 20대 남성이다.",
+          "date": "2022-10-29",
+          "time": "00:47:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "안녕하세요. 서울에서 사는 20대 여자입니다. 대학생이신가요?",
+          "summary": "나는 서울 사는 20대 여자이다",
+          "date": "2022-10-29",
+          "time": "00:48:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "네 사회복지학과를 전공하고 있는 학생입니다",
+          "summary": "나는 사회복지학과를 전공했다.",
+          "date": "2022-10-29",
+          "time": "00:48:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "저도 대학생입니다. 오늘 일주일에 한두 번 있는 오전 수업 때문에 셔틀버스를 일찍 탔더니 피곤하네요.",
+          "summary": "나는 오전 수업을 듣기 위해 셔틀을 탄다",
+          "date": "2022-10-29",
+          "time": "00:49:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "저의 취미는 영화보기이고 판타지영화는 싫어합니다",
+          "summary": "나는 영화보기가 취미지만 판타지 영화는 싫어한다.",
+          "date": "2022-10-29",
+          "time": "00:49:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "왜 싫어하세요? 저는 멜로 드라마 쪽 말고는 픽션을 참 좋아해서 판타지 공상 쪽에 흥미가 많아요. 저는 플루트 연주를 가끔해요.",
+          "summary": "나는 판타지 영화에 흥미 있다 나는 플루트 연주를 가끔 한다",
+          "date": "2022-10-29",
+          "time": "00:50:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "판타지영화는 현실과 너무 다른이야기여서 흥미가 안갑니다",
+          "summary": "나는 판타지 영화가 현실과 달라서 흥미 없다.",
+          "date": "2022-10-29",
+          "time": "00:50:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "그럼 다큐멘터리나 팩션 아니면 현실적인 드라마 위주로 보시나요? ",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "00:51:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "다큐멘터리가 현실적이여서 재밌는것같아요 다큐 좋이하시나요",
+          "summary": "나는 다큐멘터리가 현실적이어서 재미있다.",
+          "date": "2022-10-29",
+          "time": "00:51:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "저는 즐겨보진 않지만 싫어하지도 않아요. 어떤 다큐 종류에 흥미가 있으시나요? 저도 적극적인 성격이라 이것저것 호기심은 많아서 소개해 주시면 도전해 볼게요.",
+          "summary": "나는 적극적인 성격이며 호기심이 많다",
+          "date": "2022-10-29",
+          "time": "00:52:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "@이름1@ 다큐 다음에 한번 봐보세요 재밌을거에요",
+          "summary": "나는 @이름1@ 다큐를 추천한다.",
+          "date": "2022-10-29",
+          "time": "00:53:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "아 무인도에서 살아남기 그 종류 말인가요?",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "00:54:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "네 맞아요 그 다큐보신적 있으신가요",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "00:55:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "인터넷에서도 짤로 많이 돌아다녀서 패러디 형식으로 보긴 했어요. 어때요? 정말 소문만큼 괴식이 심한가요?",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "00:55:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "소문대로 괴식은 맞는것같아요 실제로 보시면 놀라실거에요",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "00:56:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "그렇군요. 급한 일이 생겨서요. 이만 가볼게요.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "00:56:45",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 순천 사는 20대 남성이다.",
+          "나는 사회복지학과를 전공했다.",
+          "나는 영화보기가 취미지만 판타지 영화는 싫어한다.",
+          "나는 판타지 영화가 현실과 달라서 흥미 없다.",
+          "나는 다큐멘터리가 현실적이어서 재미있다.",
+          "나는 @이름1@ 다큐를 추천한다."
+        ],
+        "speaker2": [
+          "나는 서울 사는 20대 여자이다",
+          "나는 오전 수업을 듣기 위해 셔틀을 탄다",
+          "나는 판타지 영화에 흥미 있다",
+          "나는 플루트 연주를 가끔 한다",
+          "나는 적극적인 성격이며 호기심이 많다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00044-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00044-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "안녕하세요 3주만에 알바하면서 다시 뵙네요",
+          "summary": "나는 3주간 알바를 했다.",
+          "date": "2022-10-29",
+          "time": "00:59:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "어머 무슨 알바를 하셨나요? 저도 지금 알바를 구하는 중이에요.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "01:00:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "저는 지금 전단지 나눠주는 알바하고 있어요 소개해드릴까요",
+          "summary": "나는 전단지 나눠주는 알바를 한다.",
+          "date": "2022-10-29",
+          "time": "01:01:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "저는 몸으로 하는 건 체력도 달리고 좀 어려워서요. 지금 대학교에서 부조교로 일할까 생각 중이에요.",
+          "summary": "부 조교로 일할까 생각 중이다",
+          "date": "2022-10-29",
+          "time": "01:01:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "부조교로 일하는것도 괜찮네요 페이가 어떻게 되나요",
+          "summary": "나는 부 조교로 일하는 게 괜찮다고 생각한다.",
+          "date": "2022-10-29",
+          "time": "01:03:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "페이는 보통 알바 시급보다 괜찮아요. 게다가 과에서 일하는 거라 틈틈이 시간 제약없이 일할 수 있고요. 교수님과 친밀해지고요. ",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "01:03:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "교수님들과 친해질수 있는 기회가 생기니 좋겠네요 전단지알바도 괜찮아요 생각있으시면 알려주세요",
+          "summary": "나는 전단지 알바가 괜찮다고 생각한다.",
+          "date": "2022-10-29",
+          "time": "01:04:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "전단지 알바는 어디서 구하셨어요? 바깥에서 행인에게 나눠주나요?",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "01:05:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "저도 주변에 아는 친구가 소개해줬어요 실내에서 지나가는 분들에게 나눠주기만 하면 되요 낯가림 심하세요?",
+          "summary": "내가 하는 알바를 친구가 소개해줬다.",
+          "date": "2022-10-29",
+          "time": "01:07:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "저는 매우 적극적인 성격이긴 하지만 목표가 없인 그러진 못해서요. 안 힘들어요? 저도 가끔 전단지 받고 버리고 해서요 ㅜㅜ",
+          "summary": "적극적인 성격이다",
+          "date": "2022-10-29",
+          "time": "01:07:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "저는 낯가림 극복차원에서 하는거라 힘들어도 해볼만했어요 조교일은 바쁘지않나요",
+          "summary": "나는 낯가림 극복 차원에서 알바를 한다.",
+          "date": "2022-10-29",
+          "time": "01:08:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "조교 아래서 그냥 보조 시작했는데요, 조교가 성격이 너무 예민해서 힘드네요.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "01:09:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "알바하면서 일보다 사람들과 부딪히는게 더힘들죠?",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "01:09:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "맞아요. 저는 조교랑은 안면이 있어서 잘 지낼 수 있을 거라고 안일하게 생각했지 뭐예요. 업무로 엮이면 피곤하네요.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "01:10:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "오늘은 피곤하실텐데 이제 좀 쉬고 계세요",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "01:11:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "네 나중에 뵈어요. 즐거웠어요.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "01:11:43",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 3주간 알바를 했다.",
+          "나는 전단지 나눠주는 알바를 한다.",
+          "나는 부 조교로 일하는 게 괜찮다고 생각한다.",
+          "나는 전단지 알바가 괜찮다고 생각한다.",
+          "내가 하는 알바를 친구가 소개해줬다.",
+          "나는 낯가림 극복 차원에서 알바를 한다."
+        ],
+        "speaker2": [
+          "부 조교로 일할까 생각 중이다",
+          "적극적인 성격이다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 순천 사는 20대 남성이다.",
+          "나는 사회복지학과를 전공했다.",
+          "나는 영화보기가 취미지만 판타지 영화는 싫어한다.",
+          "나는 판타지 영화가 현실과 달라서 흥미 없다.",
+          "나는 다큐멘터리가 현실적이어서 재미있다.",
+          "나는 @이름1@ 다큐를 추천한다."
+        ],
+        "speaker2": [
+          "나는 서울 사는 20대 여자이다",
+          "나는 오전 수업을 듣기 위해 셔틀을 탄다",
+          "나는 판타지 영화에 흥미 있다",
+          "나는 플루트 연주를 가끔 한다",
+          "나는 적극적인 성격이며 호기심이 많다"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00044-2",
+      "prevTimeInfo": {
+        "timeNum": "28",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00044-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "28시간만에 다시 또 뵙네요 반갑습니다",
+          "summary": "나는 28시간 만에 채팅을 한다.",
+          "date": "2022-10-29",
+          "time": "01:14:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "잘 지내셨어요? 알바는 잘 하고 계시나요?",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "01:14:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "전단지 알바는 이제 안하고 다른알바해요",
+          "summary": "나는 다른 알바를 한다.",
+          "date": "2022-10-29",
+          "time": "01:19:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "어떤 알바를 하고 계시나요? 정규직 취직은 생각 없으세요?",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:33:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "아직 스펙을 좀더 준비하고 있어요 자격증 있으신가요",
+          "summary": "나는 스펙을 좀 더 준비한다.",
+          "date": "2022-10-29",
+          "time": "21:34:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "전 출판사에 취직하기 위해서 전자출판기능사 준비 중이에요. 어떤 공부 하고 계세요?",
+          "summary": "나는 출판사에 취직하기 위해 전자출판 기능사를 준비 중이다",
+          "date": "2022-10-29",
+          "time": "21:36:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "저는 현재 사회복지관련한 자격증을 준비중이에요 따는데 얼마나 걸리셨나요",
+          "summary": "나는 사회복지 관련한 자격증을 준비 중이다.",
+          "date": "2022-10-29",
+          "time": "21:37:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "저는 일단 필기는 합격했고 실기는 조금 있으면 치를 예정이에요. 그냥 교육 과정이 기네요. 저 2달 수업 들었어요.",
+          "summary": "나는 전자출판 기능사 필기를 합격했다",
+          "date": "2022-10-29",
+          "time": "21:38:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "저도 이번에 자격증 필기는 붙었고 실기 준비중이에요 교육은 얼마나 들어야히나요",
+          "summary": "나는 실기 준비 중이다.",
+          "date": "2022-10-29",
+          "time": "21:40:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "2달 수업 듣고 실기 시험 전이에요. 어떻게 포토샵, 일러스트레이션이 기본기라 자신이 조금 없어요.",
+          "summary": "나는 2달 동안 기능사 실기 수업을 들었다",
+          "date": "2022-10-29",
+          "time": "23:23:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "스펙에 굉장히 도움될만한 교육이네요 저도 포토샵은 배웠어요 사이트운영을 하고 있거든요",
+          "summary": "나는 사이트 운영을 한다.",
+          "date": "2022-10-30",
+          "time": "12:36:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "대단하세요. 저는 제 적성에 안 맞는지 어렵기만 하고 손이 느리네요. 선생님 설명 따라서 작업하기도 버겁고요.",
+          "summary": "나는 포토샵이 적성에 안 맞는다",
+          "date": "2022-10-30",
+          "time": "12:52:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "영어는 따로 준비하시는 과정이 있으실까요 저는 영어를 못해서 알아보고있어요",
+          "summary": "나는 영어를 못해서 영어 공부 관련해서 알아보는 중이다.",
+          "date": "2022-10-30",
+          "time": "12:59:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "저는 실용회화 반으로 가서 부족한 회화 다지고 있고, 외국 대학의 영문학 학습서를 틈틈이 보고 있어요. 그쪽으로 진학을 해야해서요. 급한 용무가 생겨서 다음에 이야기해요.",
+          "summary": "나는 영어를 실용 단계를 배우고 있다",
+          "date": "2022-10-30",
+          "time": "13:16:58",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 28시간 만에 채팅을 한다.",
+          "나는 다른 알바를 한다.",
+          "나는 스펙을 좀 더 준비한다.",
+          "나는 사회복지 관련한 자격증을 준비 중이다.",
+          "나는 실기 준비 중이다.",
+          "나는 사이트 운영을 한다.",
+          "나는 영어를 못해서 영어 공부 관련해서 알아보는 중이다."
+        ],
+        "speaker2": [
+          "나는 출판사에 취직하기 위해 전자출판 기능사를 준비 중이다",
+          "나는 전자출판 기능사 필기를 합격했다",
+          "나는 2달 동안 기능사 실기 수업을 들었다",
+          "나는 포토샵이 적성에 안 맞는다",
+          "나는 영어를 실용 단계를 배우고 있다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 순천 사는 20대 남성이다.",
+          "나는 사회복지학과를 전공했다.",
+          "나는 영화보기가 취미지만 판타지 영화는 싫어한다.",
+          "나는 판타지 영화가 현실과 달라서 흥미 없다.",
+          "나는 다큐멘터리가 현실적이어서 재미있다.",
+          "나는 @이름1@ 다큐를 추천한다.",
+          "나는 3주간 알바를 했다.",
+          "나는 전단지 나눠주는 알바를 한다.",
+          "나는 부 조교로 일하는 게 괜찮다고 생각한다.",
+          "나는 전단지 알바가 괜찮다고 생각한다.",
+          "내가 하는 알바를 친구가 소개해줬다.",
+          "나는 낯가림 극복 차원에서 알바를 한다."
+        ],
+        "speaker2": [
+          "나는 서울 사는 20대 여자이다",
+          "나는 오전 수업을 듣기 위해 셔틀을 탄다",
+          "나는 판타지 영화에 흥미 있다",
+          "나는 플루트 연주를 가끔 한다",
+          "나는 적극적인 성격이며 호기심이 많다",
+          "부 조교로 일할까 생각 중이다",
+          "적극적인 성격이다"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00044-3",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "주"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00044-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "4주만에 다시 또 뵙게되서 반갑습니다 안녕하세요",
+          "summary": "나는 4주 만에 채팅에 접속한다.",
+          "date": "2022-10-30",
+          "time": "14:52:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "안녕하세요? 취업 준비는 잘 되어 가고 계신가요? ",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "19:48:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "네 이번에 자격증을 준비하고있어요  자격증 @이름2@도 자격증 준비하시나요",
+          "summary": "나는 자격증을 준비한다.",
+          "date": "2022-10-30",
+          "time": "19:48:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "네 저는 출판사에 취직하려고 한자급수도 최근에 땄어요. 그리고 한국어능력시험도 치르려고 공부 중이에요.",
+          "summary": "나는 출판사에 취직하려고 준비 중이다",
+          "date": "2022-10-30",
+          "time": "19:49:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "저는 토목기사를 준비하고 있어요 생각보다 어렵네요 시험을 치르면서 영어 공부할 생각도 있으신가요",
+          "summary": "나는 토목기사 자격증을 준비한다.",
+          "date": "2022-10-30",
+          "time": "19:50:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "그것도 국가공인이지요? 저는  영어 공부가 필요없는 진로라.. 토익은 기본적으로 조금씩 하고 있긴해요. 번역서를 편집할 수도 있어서요.",
+          "summary": "나는 영어를 할 줄 안다",
+          "date": "2022-10-30",
+          "time": "19:51:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "번역관련한 알바도 해보시는건 어떨까요 저는 영어는 아예 하나도 못합니다",
+          "summary": "나는 번역 관련 알바를 추천한다. 나는 영어를 잘 못한다.",
+          "date": "2022-10-30",
+          "time": "19:52:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "제가 외국어가 부족해서요. 일단 원서를 번역문과 비교하면서 교열할 정도는 되는데  아직 많이 부족해서 걱정이에요.",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "19:52:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "서류정리 관련한 알바도 있는데 어떠신가요 저는 해봤는데 편해서 추천드리고 싶어요",
+          "summary": "나는 서류 정리 알바를 추천한다. 나는 서류 정리 알바를 해봤다.",
+          "date": "2022-10-30",
+          "time": "19:54:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "앗 그렇군요. 저도 알바는 좋아하는데요, 지금 졸업반이라 정규직 진로를 생각하게 되네요. 어떻게 편한가요? ",
+          "summary": "나는 정규직을 원한다",
+          "date": "2022-10-30",
+          "time": "19:55:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "확실히 정규직으로 다니면 편하지만 프리랜서로 일하는것도 편할것같아요 프리랜서는 전혀 생각이 없으신가여?",
+          "summary": "나는 프리랜서로 일하는 게 편하다고 생각한다.",
+          "date": "2022-10-30",
+          "time": "19:56:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "제가 경력이 없어서 프리랜서로서 자격이 되는지 모르겠어요. 서류정리 알바는 사무직으로 들어가나요?",
+          "summary": "나는 경력이 없다",
+          "date": "2022-10-30",
+          "time": "19:56:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20144",
+          "participantID": "4002",
+          "utterance": "사무직으로 일하는게 맞아요 현장직은 아니죠 다른 회사에 취직할때도 스펙으로 좋을것 같지 않나요",
+          "summary": " 나는 서류 정리 알바가 스펙에 좋을 것 같다.",
+          "date": "2022-10-30",
+          "time": "19:57:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22371",
+          "participantID": "50404",
+          "utterance": "그러네요. 서류정리면 엑셀 기능도 사용하고 어느 정도 경력에 마땅하네요. 정보 고마워요. 저는 이제 저녁 먹으러 갈게요. 대화 즐거웠어요.",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "19:58:06",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 4주 만에 채팅에 접속한다.",
+          "나는 자격증을 준비한다.",
+          "나는 토목기사 자격증을 준비한다.",
+          "나는 번역 관련 알바를 추천한다.",
+          "나는 영어를 잘 못한다.",
+          "나는 서류 정리 알바를 추천한다.",
+          "나는 서류 정리 알바를 해봤다.",
+          "나는 프리랜서로 일하는 게 편하다고 생각한다.",
+          "나는 서류 정리 알바가 스펙에 좋을 것 같다."
+        ],
+        "speaker2": [
+          "나는 출판사에 취직하려고 준비 중이다",
+          "나는 영어를 할 줄 안다",
+          "나는 정규직을 원한다",
+          "나는 경력이 없다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 순천 사는 20대 남성이다.",
+          "나는 사회복지학과를 전공했다.",
+          "나는 영화보기가 취미지만 판타지 영화는 싫어한다.",
+          "나는 판타지 영화가 현실과 달라서 흥미 없다.",
+          "나는 다큐멘터리가 현실적이어서 재미있다.",
+          "나는 @이름1@ 다큐를 추천한다.",
+          "나는 3주간 알바를 했다.",
+          "나는 전단지 나눠주는 알바를 한다.",
+          "나는 부 조교로 일하는 게 괜찮다고 생각한다.",
+          "나는 전단지 알바가 괜찮다고 생각한다.",
+          "내가 하는 알바를 친구가 소개해줬다.",
+          "나는 낯가림 극복 차원에서 알바를 한다.",
+          "나는 28시간 만에 채팅을 한다.",
+          "나는 다른 알바를 한다.",
+          "나는 스펙을 좀 더 준비한다.",
+          "나는 사회복지 관련한 자격증을 준비 중이다.",
+          "나는 실기 준비 중이다.",
+          "나는 사이트 운영을 한다.",
+          "나는 영어를 못해서 영어 공부 관련해서 알아보는 중이다."
+        ],
+        "speaker2": [
+          "나는 서울 사는 20대 여자이다",
+          "나는 오전 수업을 듣기 위해 셔틀을 탄다",
+          "나는 판타지 영화에 흥미 있다",
+          "나는 플루트 연주를 가끔 한다",
+          "나는 적극적인 성격이며 호기심이 많다",
+          "부 조교로 일할까 생각 중이다",
+          "적극적인 성격이다",
+          "나는 출판사에 취직하기 위해 전자출판 기능사를 준비 중이다",
+          "나는 전자출판 기능사 필기를 합격했다",
+          "나는 2달 동안 기능사 실기 수업을 들었다",
+          "나는 포토샵이 적성에 안 맞는다",
+          "나는 영어를 실용 단계를 배우고 있다"
+        ]
+      }
+    }
+  ]
+}

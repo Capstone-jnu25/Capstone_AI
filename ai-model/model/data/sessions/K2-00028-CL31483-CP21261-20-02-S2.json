@@ -1,0 +1,447 @@
+{
+  "FileInfo": {
+    "filename": "K2-00028-CL31483-CP21261-20-02-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3410",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "3451",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00028"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "31483",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 치과의사이다",
+        "나는 가끔 해외여행을 한다",
+        "나는 전자기기 리뷰하는 것을 좋아한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "21261",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 종교가 없다",
+        "나는 요리를 좋아한다",
+        "나는 블루투스 스피커를 수집한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "20-02",
+    "topicType": "예술문화 생활>영화/만화",
+    "topicTitle": "OST"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00028-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31483",
+          "participantID": "3410",
+          "utterance": "안녕하세요 저는 30대 여성 입니다 ",
+          "summary": "나는 30대 여자다.",
+          "date": "2022-10-12",
+          "time": "16:04:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21261",
+          "participantID": "3451",
+          "utterance": "안녕하세요? 저는 20대 남자에요.",
+          "summary": "나는 20대 남자다",
+          "date": "2022-10-12",
+          "time": "16:04:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31483",
+          "participantID": "3410",
+          "utterance": "직업이 어떻게 되시나요 ? 저는 치과의사 입니다 ! ",
+          "summary": "나는 치과의사다.",
+          "date": "2022-10-12",
+          "time": "16:05:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21261",
+          "participantID": "3451",
+          "utterance": "멋있으시네요 ! 저는 아직 학생이에요",
+          "summary": "나는 학생이다",
+          "date": "2022-10-12",
+          "time": "16:06:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31483",
+          "participantID": "3410",
+          "utterance": "그러시군요 여행 좋아하시나요? 저는 가끔씩 해외여행을 가고는 해요 ",
+          "summary": "나는 가끔 해외여행을 간다.",
+          "date": "2022-10-12",
+          "time": "16:07:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21261",
+          "participantID": "3451",
+          "utterance": "네 여행 좋아해요 저는 블루투스 스피커를 수집하는데, 제가 수집한 블루투스 스피커로 여행지에서 음악 듣는 걸 좋아해요",
+          "summary": "나는 여행을 좋아하며, 플루트 스피커를 수집한다",
+          "date": "2022-10-12",
+          "time": "16:14:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31483",
+          "participantID": "3410",
+          "utterance": "그렇군요 취미는 어떻게 되시나요? ",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "16:15:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21261",
+          "participantID": "3451",
+          "utterance": "취미로 요리 하는걸 좋아해요 웬만한 음식들은 곧잘 할 수 있어요",
+          "summary": "나의 취미는 요리다",
+          "date": "2022-10-12",
+          "time": "16:27:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31483",
+          "participantID": "3410",
+          "utterance": "그렇군요 저는 취미로 전자기기 리뷰하는 것을 좋아해요 ",
+          "summary": "나는 전자기기 리뷰하는 취미가 있다.",
+          "date": "2022-10-12",
+          "time": "16:27:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21261",
+          "participantID": "3451",
+          "utterance": "혹시 종교는 있으신가요? 저는 종교가 없는데 가끔 종교를 통해서 새로운 뭔가를 경험해보고 싶어요",
+          "summary": "나는 종교가 없다.",
+          "date": "2022-10-12",
+          "time": "16:36:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31483",
+          "participantID": "3410",
+          "utterance": "저는 무교 입니다. 종교를 가져보는것도 새로운 경험일것같아요 한번 도전해보셨으면 좋겠네요 ",
+          "summary": "나는 무교다.",
+          "date": "2022-10-12",
+          "time": "16:54:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21261",
+          "participantID": "3451",
+          "utterance": "네 맞아요 새로운 경험일 것 같아 도전해보고 싶은데 한편으로는 조금 두렵기도 해요",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "16:56:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31483",
+          "participantID": "3410",
+          "utterance": "잘 하실 수 있을거에요. 평일에 학교끝나면 보통 무엇을 하시나요 ",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "17:02:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21261",
+          "participantID": "3451",
+          "utterance": "보통 학원을 갔다가 알바가 있는 날에는 알바를 하고, 없는 날에는 집으로 가거나 친구를 만나요",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "17:04:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31483",
+          "participantID": "3410",
+          "utterance": "바쁜 하루하루를 보내고 있군요 보기 좋아요 ",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "20:43:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21261",
+          "participantID": "3451",
+          "utterance": "딱히 그렇게 바쁘지도 않아요 다들 이 정도는 하니깐요",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "20:45:12",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자다.",
+          "나는 치과의사다.",
+          "나는 가끔 해외여행을 간다.",
+          "나는 전자기기 리뷰하는 취미가 있다.",
+          "나는 무교다."
+        ],
+        "speaker2": [
+          "나는 20대 남자다",
+          "나는 학생이다",
+          "나는 여행을 좋아하며, 플루트 스피커를 수집한다",
+          "나의 취미는 요리다",
+          "나는 종교가 없다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00028-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00028-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31483",
+          "participantID": "3410",
+          "utterance": "일주일만이네요 잘 지내셨나요 ",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "08:24:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21261",
+          "participantID": "3451",
+          "utterance": "안녕하세요 잘 지내셨어요 ? 저는 잘 지냈어요",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "16:51:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31483",
+          "participantID": "3410",
+          "utterance": "네 저는 그동안 드라마 정주행 하면서 드라마 ost를 종종 들으며 시간을 보냈어요 ! 어떻게 보내셨나요?",
+          "summary": "나는 드라마를 정주행 했고 드라마 ost를 종종 들었다.",
+          "date": "2022-10-13",
+          "time": "22:52:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21261",
+          "participantID": "3451",
+          "utterance": "저는 특별히 한 건 없었어요 평소랑 같이 요리하고, 음악을 들었어요",
+          "summary": "나는 평소에 요리하고, 음악을 들었다",
+          "date": "2022-10-13",
+          "time": "22:53:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31483",
+          "participantID": "3410",
+          "utterance": "그러시군요 보통 ost들을때 ost중에서도 어떤 장르쪽을 들으세요? 전 밝은분위기를 들어요",
+          "summary": "나는 밝은 분위기의 ost를 듣는다.",
+          "date": "2022-10-13",
+          "time": "22:57:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21261",
+          "participantID": "3451",
+          "utterance": "저는 대부분 발라드를 듣는 것 같아요 ",
+          "summary": "나는 ost 중 발라드를 듣는다",
+          "date": "2022-10-13",
+          "time": "23:00:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31483",
+          "participantID": "3410",
+          "utterance": "저는 옛날 드라마 ost도 종종 듣고는 해요 ",
+          "summary": "나는 옛날 드라마 ost도 듣는다",
+          "date": "2022-10-13",
+          "time": "23:01:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21261",
+          "participantID": "3451",
+          "utterance": "옛날 드라마 ost중에 좋은게 참 많아요 저도 옛날 ost 많이 들어요",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "23:05:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31483",
+          "participantID": "3410",
+          "utterance": "그러시군요 또 어떤종류 들으시나요?",
+          "summary": "",
+          "date": "2022-10-13",
+          "time": "23:14:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21261",
+          "participantID": "3451",
+          "utterance": "영화 ost들도 특히 좋아해요 이것 저것 정말 자주 듣고 있어요",
+          "summary": "나는 ost 중 영화 ost를 좋아한다",
+          "date": "2022-10-13",
+          "time": "23:23:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31483",
+          "participantID": "3410",
+          "utterance": "정말 다양하게 들으시나 보네요. 저는 OST 한번 빠지고 나면 그 노래만 하루종일 틀어놔요 ",
+          "summary": "",
+          "date": "2022-10-14",
+          "time": "10:06:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21261",
+          "participantID": "3451",
+          "utterance": "저랑 비슷하시네요 한 번 빠지면 저도 그것만 듣거든요",
+          "summary": "",
+          "date": "2022-10-14",
+          "time": "18:39:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21261",
+          "participantID": "3451",
+          "utterance": "저는 지금도 영화 ost를 들으면서 누워있어요",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "21:00:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31483",
+          "participantID": "3410",
+          "utterance": "저도 영화를 보고나면 그 영화에 관한 ost를 찾아보고는 해요",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "09:49:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21261",
+          "participantID": "3451",
+          "utterance": "맞아요 저랑 같으시네요. 영화를 보고 나면 영화에 관한 ost를 저도 꼭 찾아보거든요 만약 영화에 나온 ost가 좋았다면 말이에요.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "22:07:07",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 드라마를 정주행 했고 드라마 ost를 종종 들었다.",
+          "나는 밝은 분위기의 ost를 듣는다.",
+          "나는 옛날 드라마 ost도 듣는다"
+        ],
+        "speaker2": [
+          "나는 평소에 요리하고, 음악을 들었다",
+          "나는 ost 중 발라드를 듣는다",
+          "나는 ost 중 영화 ost를 좋아한다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자다.",
+          "나는 치과의사다.",
+          "나는 가끔 해외여행을 간다.",
+          "나는 전자기기 리뷰하는 취미가 있다.",
+          "나는 무교다."
+        ],
+        "speaker2": [
+          "나는 20대 남자다",
+          "나는 학생이다",
+          "나는 여행을 좋아하며, 플루트 스피커를 수집한다",
+          "나의 취미는 요리다",
+          "나는 종교가 없다."
+        ]
+      }
+    }
+  ]
+}

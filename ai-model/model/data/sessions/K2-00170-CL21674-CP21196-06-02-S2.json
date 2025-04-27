@@ -1,0 +1,445 @@
+{
+  "FileInfo": {
+    "filename": "K2-00170-CL21674-CP21196-06-02-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "24231",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대학원졸"
+    },
+    "speaker2": {
+      "participantID": "25660",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00170"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "21674",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 여자 형제는 변호사이다.",
+        "나는 사진부 동아리에 관심이 없다.",
+        "나는 노트북을 리뷰하는 것을 좋아한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "21196",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 물고기를 싫어한다.",
+        "나는 야구 감독이다.",
+        "나는 플루트 연주를 자주 한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "06-02",
+    "topicType": "교육",
+    "topicTitle": "교수님"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00170-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21674",
+          "participantID": "24231",
+          "utterance": "반가워요! 저는 20대 여자입니다. 처음 뵙죠?",
+          "summary": "나는 20대 여자다.",
+          "date": "2022-09-10",
+          "time": "17:59:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21196",
+          "participantID": "25660",
+          "utterance": "네. 처음 뵙네요. 저는 야구를 감독하는 일을 하고 있는 20대 남자입니다.",
+          "summary": "나는 20대 남자이다. 나는 야구 감독이다.",
+          "date": "2022-09-10",
+          "time": "17:59:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21674",
+          "participantID": "24231",
+          "utterance": "야구 감독이요? 젊으신 감독이네요. 멋지세요.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:00:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21196",
+          "participantID": "25660",
+          "utterance": "네. 맞아요. 그런 말 많이 들어요. ㅎㅎㅎ.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:01:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21674",
+          "participantID": "24231",
+          "utterance": "저는 대학생이예요. 요즘 새학기라 동아리 홍보를 많이 하네요.",
+          "summary": "나는 대학생이다.",
+          "date": "2022-09-10",
+          "time": "18:01:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21196",
+          "participantID": "25660",
+          "utterance": "동아리 얘기 들으니까 제가 대학교 다닐 시절의 야구 동아리 활동이 생각나네요.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:01:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21674",
+          "participantID": "24231",
+          "utterance": "야구 동아리 활동을 하셨겠네요? 저는 사진부 동아리에 관심이 없어서 다른 동아리 알아봐야겠네요.",
+          "summary": "나는 사진부 동아리에 관심이 없다.",
+          "date": "2022-09-10",
+          "time": "18:02:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21196",
+          "participantID": "25660",
+          "utterance": "네. 야구 동아리 활동했죠. 거기서 사귄 친구들이 지금도 야구를 해요. ㅎㅎ.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:03:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21674",
+          "participantID": "24231",
+          "utterance": "오래 함께한 친구들이겠네요ㅋㅋ 야구 말고 다른 취미활동도 하시나요?",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:04:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21196",
+          "participantID": "25660",
+          "utterance": "저는 플루트 연주하는게 취미이기 때문에 플루트 연주를 자주해요.",
+          "summary": "나는 플루트 연주를 자주 한다.",
+          "date": "2022-09-10",
+          "time": "18:04:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21674",
+          "participantID": "24231",
+          "utterance": "오 플루트 악기 소리 너무 예쁘죠. 처음에 들었을때 반했어요.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:05:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21196",
+          "participantID": "25660",
+          "utterance": "네. 맞아요. 저도 그 매력에 반했어요. ㅎㅎㅎ.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:05:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21674",
+          "participantID": "24231",
+          "utterance": "저의 여자 형제는 변호사인데 그렇게 바쁘더니 오늘 갑자기 저녁을 먹자고 해서 나가봐야할거 같아요.",
+          "summary": "나의 여자 형제는 변호사다.",
+          "date": "2022-09-10",
+          "time": "18:06:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21196",
+          "participantID": "25660",
+          "utterance": "오. 변호사인 여자 형제가 있으시구나. 부러워요. 법적인 도움이 필요할 때 도움을 받을 수 있을테니까요.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:07:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21674",
+          "participantID": "24231",
+          "utterance": "네 그런데 공부를 잘해서그런지 되게 잘난척해서 짜증나요ㅋ 그럼 오늘 저녁 좋은 시간 보내세요.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:07:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21196",
+          "participantID": "25660",
+          "utterance": "네. 저녁 맛있게 드세요. 저는 이제 슬슬 배고파져서 저는 집에서 요리해 먹어야 겠어요.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:08:35",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자다.",
+          "나는 대학생이다.",
+          "나는 사진부 동아리에 관심이 없다.",
+          "나의 여자 형제는 변호사다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다. 나는 야구 감독이다.",
+          "나는 플루트 연주를 자주 한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00170-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00170-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21674",
+          "participantID": "24231",
+          "utterance": "지난 이틀간 잘 지내셨나요? 안녕하시죠?",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:08:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21196",
+          "participantID": "25660",
+          "utterance": "아니요. 지인이 제가 싫어하는 물고기를 선물로 줘서 싸웠어요.",
+          "summary": "나는 물고기를 싫어한다.",
+          "date": "2022-09-10",
+          "time": "18:09:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21674",
+          "participantID": "24231",
+          "utterance": "네? 물고기를 싫어하는걸 알고도 선물한건가요?",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:10:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21196",
+          "participantID": "25660",
+          "utterance": "지인이 선물로 뭐 받고 싶어라고 물어보길래 제가 물고기만 아니면 된다라고 대답했으니까 제가 싫어하는 걸 알고도 선물한거죠.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:11:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21674",
+          "participantID": "24231",
+          "utterance": "아이고.. 왜 그랬을까요. 골탕먹이는것도 아니고..",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:12:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21196",
+          "participantID": "25660",
+          "utterance": "그러게요. 이제 관계를 끊고 싶나봐요. 아니면 단순히 제 반응이 궁금했나 싶기도 하고요.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:12:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21674",
+          "participantID": "24231",
+          "utterance": "속상하시겠어요. 저는 오늘 강의시간때 교수님이 내준 과제를 해야할거 같아요.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:14:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21196",
+          "participantID": "25660",
+          "utterance": "오늘 과제가 나왔는데 오늘 하시겠다니 굉장히 성실한 학생이네요.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:14:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21674",
+          "participantID": "24231",
+          "utterance": "제가 전자공학과인데 저는 노트북을 리뷰하는 것을 좋아해서 마침 좋아하는 과제네요.",
+          "summary": "나는 전자공학과다, 나는 노트북을 리뷰하는 것을 좋아한다.",
+          "date": "2022-09-10",
+          "time": "18:15:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21196",
+          "participantID": "25660",
+          "utterance": "아! 그렇군요. 좋아하는 과제는 빨리할 수 밖에 없죠. ㅎㅎ.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:16:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21674",
+          "participantID": "24231",
+          "utterance": "그래서 오늘 바로 할수 있을거 같아요. 전공 과목 교수님인데 수업도 잘하시고 좋아요.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:16:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21196",
+          "participantID": "25660",
+          "utterance": "학과가 잘 맞나봐요. 즐거운 학교 생활이 될 것 같네요.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:17:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21674",
+          "participantID": "24231",
+          "utterance": "그런거 같아요. 이제 저녁시간인데 식사는 하셨나요?",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:18:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21196",
+          "participantID": "25660",
+          "utterance": "저 아직 저녁 식사 안 했어요. 그 말 들으니까 갑자기 배고파졌어요.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:18:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21674",
+          "participantID": "24231",
+          "utterance": "맛있는 음식으로 식사 맛있게 하세요! 저는 과제하러 가볼게요!",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:18:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21196",
+          "participantID": "25660",
+          "utterance": "네. 열심히 과제하세요. 저는 이제 저녁 먹으러 가볼게요.",
+          "summary": "",
+          "date": "2022-09-10",
+          "time": "18:19:23",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 전자공학과다, 나는 노트북을 리뷰하는 것을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 물고기를 싫어한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자다.",
+          "나는 대학생이다.",
+          "나는 사진부 동아리에 관심이 없다.",
+          "나의 여자 형제는 변호사다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다. 나는 야구 감독이다.",
+          "나는 플루트 연주를 자주 한다."
+        ]
+      }
+    }
+  ]
+}

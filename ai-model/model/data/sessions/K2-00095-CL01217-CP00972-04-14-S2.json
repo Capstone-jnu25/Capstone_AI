@@ -1,0 +1,468 @@
+{
+  "FileInfo": {
+    "filename": "K2-00095-CL01217-CP00972-04-14-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0020",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0100",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00095"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "01217",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나의 거주지는 경기도이다.",
+        "나는 요가를 가끔 한다.",
+        "나는 영업사원이다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "00972",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 가족과 별로 연락을 하지 않는다.",
+        "나는 요즘, 가끔 초조하다.",
+        "나는 방송 촬영 기사이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "04-14",
+    "topicType": "일과 직업>회사/아르바이트",
+    "topicTitle": "상사"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00095-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01217",
+          "participantID": "0020",
+          "utterance": "안녕하세요~ 저는 20대 남자입니다.",
+          "summary": "나는 20대 남성이다.",
+          "date": "2022-08-13",
+          "time": "16:19:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00972",
+          "participantID": "0100",
+          "utterance": "안녕하세요! 저는 20대 남자입니다.",
+          "summary": "나는 20대 남성이다.",
+          "date": "2022-08-13",
+          "time": "16:19:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01217",
+          "participantID": "0020",
+          "utterance": "저는 영업사원인데 일이 너무 힘들어서 지금 회사 옥상에서 쉬고있어요. 뭐하고 계세요?",
+          "summary": "나는 영업사원인데 일이 너무 힘들어서 쉬고 있다.",
+          "date": "2022-08-13",
+          "time": "16:21:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00972",
+          "participantID": "0100",
+          "utterance": "저랑 같으시네요 ㅋㅋ저는 방송 촬영 기사인데 저도 지금 힘들어서 쉬고있어요.",
+          "summary": "나는 방송 촬영 기사이다.",
+          "date": "2022-08-13",
+          "time": "16:22:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01217",
+          "participantID": "0020",
+          "utterance": "직장 상사가 너무 저를 힘들게 하네요..그쪽 일은 잘 몰라서 그러는데 뭐 때문에 힘드신건가요?",
+          "summary": "나는 직장 상사 때문에 힘들다.",
+          "date": "2022-08-13",
+          "time": "16:30:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00972",
+          "participantID": "0100",
+          "utterance": "저는 직장 상사는 좋은데 출장이 너무 많아서 힘들어요. 지금도 출장 나와있어요.",
+          "summary": "나는 출장이 잦아서 힘들다.",
+          "date": "2022-08-13",
+          "time": "16:31:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01217",
+          "participantID": "0020",
+          "utterance": "좋은 직장 상사를 만나셨다니 부러워요..! 출장은 어디로 가셨어요?",
+          "summary": "나는 좋은 직장 상사를 만난 상대방이 부럽다.",
+          "date": "2022-08-13",
+          "time": "16:33:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00972",
+          "participantID": "0100",
+          "utterance": "제주도로 왔는데 오늘 다시 서울로 가요. 저도 전 직장 상사는 최악이였답니다. ㅋㅋㅋ.",
+          "summary": "나는 제주도로 출장 왔지만 오늘 다시 올라간다. 전 직장 상사는 최악이었다.",
+          "date": "2022-08-13",
+          "time": "16:34:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01217",
+          "participantID": "0020",
+          "utterance": "제주도 부러워요! 저는 경기도에 사는데 직장 상사가 가끔 서울에 볼 일 있을때 데려다 주기까지 해야해요..",
+          "summary": "나는 경기도 거주 중이지만 직장 상사를 서울까지 데려다주고는 한다.",
+          "date": "2022-08-13",
+          "time": "16:35:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00972",
+          "participantID": "0100",
+          "utterance": "너무 심한데요? 직장 상사 잘 만나는 것도 참 어려운 일인거같아요.",
+          "summary": "나는 직장 상사 잘 만나는 것을 어려운 일이라고 생각한다.",
+          "date": "2022-08-13",
+          "time": "16:36:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01217",
+          "participantID": "0020",
+          "utterance": "그러게요…저는 나중에 누군가의 상사가 된다면 이렇게 부하직원을 힘들게 하지 않을거에요.",
+          "summary": "나는 나중에 좋은 상사가 될 것이다.",
+          "date": "2022-08-13",
+          "time": "16:44:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00972",
+          "participantID": "0100",
+          "utterance": "좋은 마음가짐이네요! 그쪽같은 사람만 있으면 세상이 참 살기좋을거 같은데 말이죠 ㅋㅋㅋ.",
+          "summary": "",
+          "date": "2022-08-13",
+          "time": "16:45:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01217",
+          "participantID": "0020",
+          "utterance": "ㅋㅋ감사합니다. 점심은 드셨어요?",
+          "summary": "",
+          "date": "2022-08-13",
+          "time": "16:45:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00972",
+          "participantID": "0100",
+          "utterance": "아니요. 출장 나오면 밥 시간을 지키기가 어렵네요… 점심은 드셨어요?",
+          "summary": "나는 출장 나오면 밥시간을 지키기 어렵다.",
+          "date": "2022-08-13",
+          "time": "16:46:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01217",
+          "participantID": "0020",
+          "utterance": "저는 이제 슬 점심먹으러 내려가봐야겠어요! 나중에 다시 연락드려도 될까요?",
+          "summary": "나는 이제 점심을 먹으러 갈 것이다.",
+          "date": "2022-08-13",
+          "time": "16:46:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00972",
+          "participantID": "0100",
+          "utterance": "네 당연하죠! 맛점하고 오세요 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-08-13",
+          "time": "16:46:50",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 남성이다.",
+          "나는 영업사원인데 일이 너무 힘들어서 쉬고 있다.",
+          "나는 직장 상사 때문에 힘들다.",
+          "나는 좋은 직장 상사를 만난 상대방이 부럽다.",
+          "나는 경기도 거주 중이지만 직장 상사를 서울까지 데려다주고는 한다.",
+          "나는 나중에 좋은 상사가 될 것이다.",
+          "나는 이제 점심을 먹으러 갈 것이다."
+        ],
+        "speaker2": [
+          "나는 20대 남성이다.",
+          "나는 방송 촬영 기사이다.",
+          "나는 출장이 잦아서 힘들다.",
+          "나는 제주도로 출장 왔지만 오늘 다시 올라간다. 전 직장 상사는 최악이었다.",
+          "나는 직장 상사 잘 만나는 것을 어려운 일이라고 생각한다.",
+          "나는 출장 나오면 밥시간을 지키기 어렵다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00095-1",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00095-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01217",
+          "participantID": "0020",
+          "utterance": "점심먹고 바로 다시 일 하러 나갔다 왔네요 ㅋㅋ 아직 제주도에 계시는거죠?",
+          "summary": "나는 점심 먹고 바로 일 하고 왔다.",
+          "date": "2022-08-13",
+          "time": "16:48:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00972",
+          "participantID": "0100",
+          "utterance": "네네 아직 제주도예요. 점심먹고 바로 일 하셨다니 체하지는 않으셨어요?",
+          "summary": "",
+          "date": "2022-08-13",
+          "time": "16:48:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01217",
+          "participantID": "0020",
+          "utterance": "ㅋㅋ익숙한 일이랍니다. 그래도 오늘은 정시 퇴근하고 요가 할꺼에요. 저는 요가를 가끔하는 중이에요.",
+          "summary": "나는 오늘 정시 퇴근 후 가끔 하는 요가를 할 것이다.",
+          "date": "2022-08-13",
+          "time": "16:48:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00972",
+          "participantID": "0100",
+          "utterance": "부럽습니다! 저는 서울 올라가면 회사가서 오늘 일 한것들 정리해야해서 철야 수준이네요…",
+          "summary": "나는 서울 올라가면 회사에 들어가 봐야 한다.",
+          "date": "2022-08-13",
+          "time": "16:50:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01217",
+          "participantID": "0020",
+          "utterance": "철야라니.. 끔찍하네요..역시 바쁜 직업을 가지고 계시네요.",
+          "summary": "",
+          "date": "2022-08-13",
+          "time": "16:55:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00972",
+          "participantID": "0100",
+          "utterance": "네 ㅋㅋ그래서 요즘 조금 후회중이랍니다. 개인 시간이 없어서 심지어 가족과 연락도 별로 안해요.",
+          "summary": "나는 직업을 조금 후회 중이다. 그리고 가족들과 별로 연락을 하지 않는다.",
+          "date": "2022-08-13",
+          "time": "16:56:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01217",
+          "participantID": "0020",
+          "utterance": "그러시군요..각자 힘든점이 있네요. 지금도 일 하는 중이신거죠?",
+          "summary": "",
+          "date": "2022-08-13",
+          "time": "16:58:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00972",
+          "participantID": "0100",
+          "utterance": "지금은 장비 정리중이에요. 그나저나 직장 상사는 좀 어때요?",
+          "summary": "나는 지금 장비 정리 중이다.",
+          "date": "2022-08-13",
+          "time": "16:58:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01217",
+          "participantID": "0020",
+          "utterance": "뭐 늘 저를 괴롭히죠.. 근데 지금 상사는 자리에 없어서 숨통이 트여요.ㅋㅋㅋ.",
+          "summary": "나는 직장 상사가 지금 없어서 기분이 좋다.",
+          "date": "2022-08-13",
+          "time": "16:59:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00972",
+          "participantID": "0100",
+          "utterance": "ㅋㅋㅋ저는 요즘 초조한 기분이 많이 드는데 직장 상사 마저도 저를 힘들게 한다면 아마 멘탈이 많이 무너졌을거에요.",
+          "summary": "나는 요즘 초조한 기분이 많이 든다.",
+          "date": "2022-08-13",
+          "time": "16:59:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01217",
+          "participantID": "0020",
+          "utterance": "아 초조한 기분 알죠.. 너무 싫어요… 쉬는날 요가 한번 해보시는거 어떠세요? 저는 상사때문에 힘든 날이면 요가로 마음을 다스리거든요.",
+          "summary": "나는 상사 때문에 힘든 날에 요가로 마음을 다스린다.",
+          "date": "2022-08-13",
+          "time": "17:00:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00972",
+          "participantID": "0100",
+          "utterance": "ㅋㅋㅋ시간이 생기면 한번 도전해볼께요! 상사가 그만 괴롭히는게 제일 좋은 방법일텐데 슬프네요.",
+          "summary": "나는 시간이 생기면 요가를 해 볼 것이다.",
+          "date": "2022-08-13",
+          "time": "17:01:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01217",
+          "participantID": "0020",
+          "utterance": "그러게요. 근데 상사는 안바뀔테니 제가 이직을 해야죠 뭐… 연차 좀 쌓이면 이직 할 생각이에요!",
+          "summary": "나는 연차가 쌓이면 이직할 예정이다.",
+          "date": "2022-08-13",
+          "time": "17:02:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00972",
+          "participantID": "0100",
+          "utterance": "그 전까지 화이팅입니다!! 저는 이만 불러서 들어가봐야겠네요!",
+          "summary": "나는 이제 들어가 봐야 한다.",
+          "date": "2022-08-13",
+          "time": "17:03:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01217",
+          "participantID": "0020",
+          "utterance": "네! 오늘 하루도 고생 많으셨고 조심히 서울 올라가세요~",
+          "summary": "",
+          "date": "2022-08-13",
+          "time": "17:03:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00972",
+          "participantID": "0100",
+          "utterance": "감사합니다^^ 그쪽도 퇴근 잘 하세요!",
+          "summary": "",
+          "date": "2022-08-13",
+          "time": "17:03:32",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 점심 먹고 바로 일 하고 왔다.",
+          "나는 오늘 정시 퇴근 후 가끔 하는 요가를 할 것이다.",
+          "나는 직장 상사가 지금 없어서 기분이 좋다.",
+          "나는 상사 때문에 힘든 날에 요가로 마음을 다스린다.",
+          "나는 연차가 쌓이면 이직할 예정이다."
+        ],
+        "speaker2": [
+          "나는 서울 올라가면 회사에 들어가 봐야 한다.",
+          "나는 직업을 조금 후회 중이다. 그리고 가족들과 별로 연락을 하지 않는다.",
+          "나는 지금 장비 정리 중이다.",
+          "나는 요즘 초조한 기분이 많이 든다.",
+          "나는 시간이 생기면 요가를 해 볼 것이다.",
+          "나는 이제 들어가 봐야 한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남성이다.",
+          "나는 영업사원인데 일이 너무 힘들어서 쉬고 있다.",
+          "나는 직장 상사 때문에 힘들다.",
+          "나는 좋은 직장 상사를 만난 상대방이 부럽다.",
+          "나는 경기도 거주 중이지만 직장 상사를 서울까지 데려다주고는 한다.",
+          "나는 나중에 좋은 상사가 될 것이다.",
+          "나는 이제 점심을 먹으러 갈 것이다."
+        ],
+        "speaker2": [
+          "나는 20대 남성이다.",
+          "나는 방송 촬영 기사이다.",
+          "나는 출장이 잦아서 힘들다.",
+          "나는 제주도로 출장 왔지만 오늘 다시 올라간다. 전 직장 상사는 최악이었다.",
+          "나는 직장 상사 잘 만나는 것을 어려운 일이라고 생각한다.",
+          "나는 출장 나오면 밥시간을 지키기 어렵다."
+        ]
+      }
+    }
+  ]
+}

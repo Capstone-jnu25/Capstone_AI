@@ -1,0 +1,485 @@
+{
+  "FileInfo" : {
+    "filename" : "K3-00067-CL25822-CP32466-05-09-S3.json",
+    "sessionLevel" : "3"
+  },
+  "participantsInfo" : {
+    "numberOfParticipants" : "2",
+    "speaker1" : {
+      "participantID" : "4268",
+      "gender" : "여성",
+      "age" : "20대",
+      "occupation" : "학생",
+      "bPlace" : "대전/세종/충청/강원",
+      "gPlace" : "대전/세종/충청/강원",
+      "rPlace" : "서울/경기/인천",
+      "educationLevel" : "고졸"
+    },
+    "speaker2" : {
+      "participantID" : "3307",
+      "gender" : "여성",
+      "age" : "30대",
+      "occupation" : "자영업",
+      "bPlace" : "대전/세종/충청/강원",
+      "gPlace" : "부산/대구/울산/경상",
+      "rPlace" : "대전/세종/충청/강원",
+      "educationLevel" : "대졸"
+    }
+  },
+  "multisessionInfo" : {
+    "multisessionID" : "3-00067"
+  },
+  "personaInfo" : {
+    "clInfo" : {
+      "personaID" : "25822",
+      "personaFeatures" : [ "나는 여자이다.", "나는 20대이다.", "나는 연인이 없지만 신경 쓰지 않는다", "나는 필리핀으로 어학연수를 간다", "나는 블루투스 스피커를 잘 활용한다", "나는 아이스 아메리카노를 좋아한다", "나는 햄스터 한 마리를 키운다" ],
+      "speakerType" : "speaker1"
+    },
+    "cpInfo" : {
+      "personaID" : "32466",
+      "personaFeatures" : [ "나는 여자이다.", "나는 30대이다.", "나는 아나운서이다", "나는 가끔 괴롭다", "나는 된장찌개를 즐겨 먹는다" ],
+      "speakerType" : "speaker2"
+    }
+  },
+  "topicInfo" : {
+    "topicID" : "05-09",
+    "topicType" : "일과 직업>군대",
+    "topicTitle" : "면회"
+  },
+  "sessionInfo" : [ {
+    "prevSessionID" : null,
+    "prevTimeInfo" : {
+      "timeNum" : null,
+      "timeUnit" : null
+    },
+    "nthSession" : "1",
+    "numberOfUtterances" : "14",
+    "numberOfTurns" : "7",
+    "sessionID" : "3-00067-1",
+    "dialog" : [ {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "안녕하세요, 저는 20대 여성입니다.",
+      "summary" : "나는 20대 여자이다.",
+      "date" : "2022-11-06",
+      "time" : "00:58:54",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "안녕하세요. 저는 30대 여자에요",
+      "summary" : "나는 30대 여성이다.",
+      "date" : "2022-11-06",
+      "time" : "01:01:56",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "만나서 반가워요. 저는 곧 필리핀 어학연수를 가서 준비 중이에요. 요즘 어떻게 지내시나요?",
+      "summary" : "나는 필리핀 어학연수를 갈 예정이다.",
+      "date" : "2022-11-06",
+      "time" : "01:02:33",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "저는 아나운서인데 요즘 너무 사회적인 일이 많다보니 눈코뜰새없이 바빠요. ",
+      "summary" : "나는 아나운서이다.",
+      "date" : "2022-11-06",
+      "time" : "01:04:09",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "그렇군요. 요즘 더 그렇겠어요. 저는 요새 햄스터 한마리를 키우는데 동물 한 번 키워보시는 건 어떠세요? 일에 치일때 힐링이 되더라고요.",
+      "summary" : "나는 햄스터를 키운다.",
+      "date" : "2022-11-06",
+      "time" : "01:10:22",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "안그래도 저는 가끔 괴로울때가 있어요. 동물이 정말 좋을까요?",
+      "summary" : "나는 가끔 괴로울 때가 있다.",
+      "date" : "2022-11-06",
+      "time" : "01:14:04",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "네 저는 동물을 좋아해서인지 안정에 좋은 것 같아요. 전 동물이 마음의 빈자리를 채워주는 것 같아요.",
+      "summary" : "나는 동물이 안정을 취하는데 도움을 주는 걸 느낀다.",
+      "date" : "2022-11-06",
+      "time" : "01:18:05",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "저는 된장찌개를 즐겨먹어서 그런걸로 기분을 풀때도 있어요.",
+      "summary" : "나는 된장찌개를 즐겨 먹는다.",
+      "date" : "2022-11-06",
+      "time" : "01:19:01",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "그렇군요 저는 아이스아메리카노를 좋아해서 답답할 때 시원하게 마시면 기분이 좋더라고요.",
+      "summary" : "나는 아이스 아메리카노를 좋아한다.",
+      "date" : "2022-11-06",
+      "time" : "01:20:30",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "커피를 좋아하시나요? 저는 커피를 좋아하진않는데 일때문에 자주 마시게 되요.",
+      "summary" : "나는 커피를 좋아하지 않는다.",
+      "date" : "2022-11-06",
+      "time" : "01:21:30",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "네 전 좋아하는 편이에요. 혹시 연애는 안하세요? 저는 연인이 없지만 신경쓰지 않는데, 좋은사람과 있으면 기분이 나아질 수도 있으실 듯해서요.",
+      "summary" : "나는 연인이 없다.",
+      "date" : "2022-11-06",
+      "time" : "01:24:28",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "연애는 하고싶은데 할 시간도 없고 마땅히 눈에 차는사람도 안보여요. 성격이 좋으실것같아 이성친구 많으실것같아요.",
+      "summary" : "",
+      "date" : "2022-11-06",
+      "time" : "01:26:18",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "그렇게 봐주시니 감사하네요. 친구들도 좋지만 혼자 음악듣는걸 좋아해서 블루투스 스피커를 잘 활용해요. 음악듣는거 좋아하시면 써보시는걸 추천드릴게요.",
+      "summary" : "나는 혼자 음악 듣는 걸 좋아한다.",
+      "date" : "2022-11-06",
+      "time" : "01:27:11",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "아 이참에 블루투스스피커 하나 장만해야겠네요. 저 이제 방송 준비하러 나가봐야 겠어요. 다음에 또 뵈요.",
+      "summary" : "",
+      "date" : "2022-11-06",
+      "time" : "01:28:18",
+      "terminate" : "true"
+    } ],
+    "sessionPersonaSummary" : {
+      "speaker1" : [ "나는 20대 여자이다.", "나는 필리핀 어학연수를 갈 예정이다.", "나는 햄스터를 키운다.", "나는 동물이 안정을 취하는데 도움을 주는 걸 느낀다.", "나는 아이스 아메리카노를 좋아한다.", "나는 연인이 없다.", "나는 혼자 음악 듣는 걸 좋아한다." ],
+      "speaker2" : [ "나는 30대 여성이다.", "나는 아나운서이다.", "나는 가끔 괴로울 때가 있다.", "나는 된장찌개를 즐겨 먹는다.", "나는 커피를 좋아하지 않는다." ]
+    },
+    "prevAggregatedpersonaSummary" : {
+      "speaker1" : [ ],
+      "speaker2" : [ ]
+    }
+  }, {
+    "prevSessionID" : "3-00067-1",
+    "prevTimeInfo" : {
+      "timeNum" : "1",
+      "timeUnit" : "일"
+    },
+    "nthSession" : "2",
+    "numberOfUtterances" : "14",
+    "numberOfTurns" : "7",
+    "sessionID" : "3-00067-2",
+    "dialog" : [ {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "하루만인데 어제는 잘 들어가셨나요? 아나운서는 아침일찍 출근한다고 알고있는데 피곤하진 않으실지 걱정이되네요.",
+      "summary" : "나는 아나운서가 아침 일찍 출근한다고 알고 있다.",
+      "date" : "2022-11-06",
+      "time" : "01:35:59",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "잠을 못자서 괴롭네요. 가끔 괴로울때가 있는게 오늘이 그날인것 같아요. ",
+      "summary" : "나는 잠을 못 자서 괴롭다. 나는 가끔 괴로울 때가 있다.",
+      "date" : "2022-11-06",
+      "time" : "01:38:48",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "그렇군요, 어디에나 정말 쉬운일은 없는 것 같아요. 얼마전에 친구가 군대를 갔는데 그 친구도 잠을 못자서 괴로워 하더라고요.",
+      "summary" : "나는 얼마 전 군대를 간친 구가 있다.",
+      "date" : "2022-11-06",
+      "time" : "02:54:02",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "군대가는일에 마음이 많이 복잡했을거 같아요. ",
+      "summary" : "",
+      "date" : "2022-11-06",
+      "time" : "09:04:49",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "맞아요 친한친구인데 고생하는거 보니 마음이 안좋더라고요. 혹시 주변에 군대가신 분 계세요?",
+      "summary" : "나는 친한 친구가 고생하는 것 보면 마음이 안 좋다.",
+      "date" : "2022-11-06",
+      "time" : "15:54:08",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "네 저는 동생이 군대 가 있어요. 요즘 나라가 흉흉해서 걱정이 많이 된답니다. ",
+      "summary" : "나의 동생은 군대에 있다.",
+      "date" : "2022-11-06",
+      "time" : "22:04:21",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "아 동생분이 군대에 계시는군요. 걱정 많으시겠어요. 간지는 얼마나 되셨어요?",
+      "summary" : "나는 상대방의 동생이 궁금하다.",
+      "date" : "2022-11-07",
+      "time" : "00:18:35",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "간지는 얼마안되었어요. 날씨도 곧 추워지는데..",
+      "summary" : "나의 동생은 군대에 간지 얼마 되지 않았다.",
+      "date" : "2022-11-07",
+      "time" : "22:04:30",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "그렇군요.. 그래도 요즘 군대는 전화도 된다고 하니 연락기다려보세요. 너무 우울해하지는 마시구요.",
+      "summary" : "나는 요즘 군대엔 전화가 된다는 걸 알고 있다.",
+      "date" : "2022-11-07",
+      "time" : "22:23:21",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "진짜 예전보다 군대가 좋아졌나봐요. 옛날 남자친구는 군대기간이 길어서 기다리다가 헤어졌는데 요즘엔 또 금방 제대하는가봐요.  ",
+      "summary" : "",
+      "date" : "2022-11-07",
+      "time" : "22:24:49",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "맞아요. 복무기간이 짧아졌다고 하네요. 저는 연인이 없지만 주변 친구들을 보면 제대할 때 까지 잘 만나는 경우도 많더라구요.",
+      "summary" : "나는 군대가 복무기간이 짧아진 걸 안다.",
+      "date" : "2022-11-07",
+      "time" : "22:26:09",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "맞아요. 저희 언니는 끝까지 기다려서 결혼했었어요. 신기해요. 아참 가스불에 뭐올려둬서 확인하러 잠시 다녀올게요.",
+      "summary" : "",
+      "date" : "2022-11-07",
+      "time" : "22:28:29",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "정말 대단하신 것 같네요. 가스 불 위험하니 다음에 또 얘기 나눠요.",
+      "summary" : "",
+      "date" : "2022-11-07",
+      "time" : "22:28:29",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "네, 다음에 더 즐거운 대화해봐요. 좋은 하루 보내세요.",
+      "summary" : "",
+      "date" : "2022-11-07",
+      "time" : "22:28:29",
+      "terminate" : "true"
+    } ],
+    "sessionPersonaSummary" : {
+      "speaker1" : [ "나는 아나운서가 아침 일찍 출근한다고 알고 있다.", "나는 얼마 전 군대를 간친 구가 있다.", "나는 친한 친구가 고생하는 것 보면 마음이 안 좋다.", "나는 상대방의 동생이 궁금하다.", "나는 요즘 군대엔 전화가 된다는 걸 알고 있다.", "나는 군대가 복무기간이 짧아진 걸 안다." ],
+      "speaker2" : [ "나는 잠을 못 자서 괴롭다. 나는 가끔 괴로울 때가 있다.", "나의 동생은 군대에 있다.", "나의 동생은 군대에 간지 얼마 되지 않았다." ]
+    },
+    "prevAggregatedpersonaSummary" : {
+      "speaker1" : [ "나는 20대 여자이다.", "나는 필리핀 어학연수를 갈 예정이다.", "나는 햄스터를 키운다.", "나는 동물이 안정을 취하는데 도움을 주는 걸 느낀다.", "나는 아이스 아메리카노를 좋아한다.", "나는 연인이 없다.", "나는 혼자 음악 듣는 걸 좋아한다." ],
+      "speaker2" : [ "나는 30대 여성이다.", "나는 아나운서이다.", "나는 가끔 괴로울 때가 있다.", "나는 된장찌개를 즐겨 먹는다.", "나는 커피를 좋아하지 않는다." ]
+    }
+  }, {
+    "prevSessionID" : "3-00067-2",
+    "prevTimeInfo" : {
+      "timeNum" : "3",
+      "timeUnit" : "일"
+    },
+    "nthSession" : "3",
+    "numberOfUtterances" : "14",
+    "numberOfTurns" : "7",
+    "sessionID" : "3-00067-3",
+    "dialog" : [ {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "안녕하세요, 3일만이네요. 군대 계신 동생분은 연락 닿으셨나요?",
+      "summary" : "나는 3일 만에 상대방과 이야기를 한다.",
+      "date" : "2022-11-07",
+      "time" : "22:36:15",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "네네 콜렉트콜로 연락이 왔어요. 사격훈련에서 잘했다고 연락했대요. 님은 어찌지내셨나요?. ",
+      "summary" : "나는 동생과 연락이 닿았다.",
+      "date" : "2022-11-07",
+      "time" : "22:40:58",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "그렇군요. 저도 군대 갔던 친한 친구에게 연락이 와서 면회가겠다고 했어요. 필리핀 가기전에 얼굴은 한 번 보고 가야할 듯 해서요.",
+      "summary" : "나는 군대 간 친구가 있다.",
+      "date" : "2022-11-07",
+      "time" : "22:44:29",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "어학연수는 얼마동안 다녀오는가요? 군대간 친구가 정말 친하신가봐요. ",
+      "summary" : "",
+      "date" : "2022-11-07",
+      "time" : "22:45:55",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "한 1년 정도 가 있을 것 같아요. 지금 아니면 언제 또 보겠나 싶네요. 동생분은 사격에 재능이 있으신가봐요! 대단하시네요.",
+      "summary" : "나는 1년 동안 외부에 있을 것이다.",
+      "date" : "2022-11-07",
+      "time" : "22:51:44",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "웃긴게 뭔줄알아요? 100점 만점인데 자기 사격판봤더니 110점이더래요. 어쨌거나 잘했다고 전화기회를 잡았다니.. 여자친구도 없는지 저한테 전화왔었네요. ",
+      "summary" : "",
+      "date" : "2022-11-07",
+      "time" : "22:57:20",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "어머 재밌는 동생분이네요. 그래도 님이 잘 챙겨주셨으니 전화도 먼저 오고 그러는거 아니겠어요. ",
+      "summary" : "나는 상대방이 동생이 있는 것을 안다.",
+      "date" : "2022-11-07",
+      "time" : "23:04:52",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "얘때매 더 가끔 괴로울지도요. 나중에 면회도 오라고 하는거 아닌가 모르겠어요. ",
+      "summary" : "나는 동생 때문에 가끔 더 괴롭다.",
+      "date" : "2022-11-08",
+      "time" : "00:07:47",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "그렇군요. 면회 가게되면 커피한 잔 하고 오세요. 아나운서라 바쁘실텐데 시간 안나실 수도 있겠어요.  ",
+      "summary" : "나는 면회 때 커피 한잔을 추천한다.",
+      "date" : "2022-11-08",
+      "time" : "15:21:40",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "제가 면회를 다녀올순 없을거같지만.. 요즘 군대는 또 예전보다 빨리 제대도 하는거 같더라구요.",
+      "summary" : "나는 면회에 가기 어렵다.",
+      "date" : "2022-11-08",
+      "time" : "23:58:28",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "맞아요. 예전엔 2년도 넘게 있었다는데 정말 대단한 것 같아요. ",
+      "summary" : "나는 예전에 군대가 2년 넘게였다는 것을 들었다.",
+      "date" : "2022-11-09",
+      "time" : "03:04:16",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "요즘엔 핸드폰도 가지고 들어갈 수 있대요. ",
+      "summary" : "",
+      "date" : "2022-11-09",
+      "time" : "08:44:20",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "25822",
+      "participantID" : "4268",
+      "utterance" : "맞아요. 그래서 개인정비 시간에 많이들 하더라고요. 그래도 주변에서 나중에 직업군인 한다고 하면 정말 말리고 싶을 것 같아요.",
+      "summary" : "나는 직업군인은 추천하지 않는다.",
+      "date" : "2022-11-09",
+      "time" : "15:03:13",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "32466",
+      "participantID" : "3307",
+      "utterance" : "주변보니 직업군인도 나쁘진않은것 같더라구요. 아! 이야기하다보니 약속을 깜빡했어요. 저 나가볼게요.",
+      "summary" : "",
+      "date" : "2022-11-09",
+      "time" : "23:54:06",
+      "terminate" : "true"
+    } ],
+    "sessionPersonaSummary" : {
+      "speaker1" : [ "나는 3일 만에 상대방과 이야기를 한다.", "나는 군대 간 친구가 있다.", "나는 1년 동안 외부에 있을 것이다.", "나는 상대방이 동생이 있는 것을 안다.", "나는 면회 때 커피 한잔을 추천한다.", "나는 예전에 군대가 2년 넘게였다는 것을 들었다.", "나는 직업군인은 추천하지 않는다." ],
+      "speaker2" : [ "나는 동생과 연락이 닿았다.", "나는 동생 때문에 가끔 더 괴롭다.", "나는 면회에 가기 어렵다." ]
+    },
+    "prevAggregatedpersonaSummary" : {
+      "speaker1" : [ "나는 20대 여자이다.", "나는 필리핀 어학연수를 갈 예정이다.", "나는 햄스터를 키운다.", "나는 동물이 안정을 취하는데 도움을 주는 걸 느낀다.", "나는 아이스 아메리카노를 좋아한다.", "나는 연인이 없다.", "나는 혼자 음악 듣는 걸 좋아한다.", "나는 아나운서가 아침 일찍 출근한다고 알고 있다.", "나는 얼마 전 군대를 간친 구가 있다.", "나는 친한 친구가 고생하는 것 보면 마음이 안 좋다.", "나는 상대방의 동생이 궁금하다.", "나는 요즘 군대엔 전화가 된다는 걸 알고 있다.", "나는 군대가 복무기간이 짧아진 걸 안다." ],
+      "speaker2" : [ "나는 30대 여성이다.", "나는 아나운서이다.", "나는 가끔 괴로울 때가 있다.", "나는 된장찌개를 즐겨 먹는다.", "나는 커피를 좋아하지 않는다.", "나는 잠을 못 자서 괴롭다. 나는 가끔 괴로울 때가 있다.", "나의 동생은 군대에 있다.", "나의 동생은 군대에 간지 얼마 되지 않았다." ]
+    }
+  } ]
+}

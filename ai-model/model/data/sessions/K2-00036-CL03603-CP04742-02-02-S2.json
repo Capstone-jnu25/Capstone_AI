@@ -1,0 +1,446 @@
+{
+  "FileInfo": {
+    "filename": "K2-00036-CL03603-CP04742-02-02-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0089",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "기능직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0051",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "주부",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00036"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "03603",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나의 여자 형제는 스튜어디스이다.",
+        "나는 요즘, 자주 걱정스럽다.",
+        "나는 생명과학 연구원이다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "04742",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 가족과 이야기를 많이 나눈다.",
+        "나는 매운탕을 안 먹는다.",
+        "나는 시원한 날씨를 싫어한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "02-02",
+    "topicType": "주거와 생활",
+    "topicTitle": "아파트"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00036-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03603",
+          "participantID": "0089",
+          "utterance": "안녕하세요 저는 40대 남자입니다. 생명과학 연구원으로 일하고 있어요.",
+          "summary": "나는 40대 남자이다. 나는 생명과학 연구원이다.",
+          "date": "2022-08-10",
+          "time": "11:21:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04742",
+          "participantID": "0051",
+          "utterance": "안녕하세요. 저는 매운탕을 안 먹는 50대 여성이에요. 와 반가워요.",
+          "summary": "나는 50대 여성이고 매운탕을 먹지 않는다.",
+          "date": "2022-08-10",
+          "time": "11:21:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03603",
+          "participantID": "0089",
+          "utterance": "네 저도 만나서 반갑습니다. 최근에 저는 아파트로 이사했어요.",
+          "summary": "나는 최근 아파트로 이사했다.",
+          "date": "2022-08-10",
+          "time": "11:21:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04742",
+          "participantID": "0051",
+          "utterance": "아 그러셨어요? 자가로 구매하신 거예요?",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:22:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03603",
+          "participantID": "0089",
+          "utterance": "네 매매로 구매 하게 되었네요. 처음 아파트에 와보는거라 신기해요.",
+          "summary": "나는 집을 매매했다.",
+          "date": "2022-08-10",
+          "time": "11:22:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04742",
+          "participantID": "0051",
+          "utterance": "와 축하드려요! 그러시군요. 원래는 그럼 어디 사셨어요?",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:22:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03603",
+          "participantID": "0089",
+          "utterance": "원룸 빌라 고시원.. 전전긍긍하다가 돈을 모아서 아파트에 살게되었네요.",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:23:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04742",
+          "participantID": "0051",
+          "utterance": "와 정말 대단하시네요. 그나저나 생명과학 연구원이시면 월급이 그래도 좀 있지 않나요?",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:23:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03603",
+          "participantID": "0089",
+          "utterance": "있었는데 저희는 대출이 안나와서, 한번에 구매한다고 돈좀 모았죠. 제가 결혼한것도 아니고요.",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:24:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04742",
+          "participantID": "0051",
+          "utterance": "아 대출이 안나오는군요.. 정말 악착같이 모아서 성공하셨다니 대단하세요.",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:24:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03603",
+          "participantID": "0089",
+          "utterance": "감사합니다. 그래서 아파트에 이사왔는데, 분위기가 정말 남다른것 같아요.",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:25:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04742",
+          "participantID": "0051",
+          "utterance": "그렇군요. 이제부터 새로운 세상을 경험하시겠어요.",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:25:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03603",
+          "participantID": "0089",
+          "utterance": "그르게 말이에요. 그쪽은 어디에 거주하세요?",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:26:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04742",
+          "participantID": "0051",
+          "utterance": "나는 경기도에 삽니다. 그쪽은요?",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:26:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03603",
+          "participantID": "0089",
+          "utterance": "저는 서울에 살고 있어요. 이만 저는 스튜어디스인 여동생일을 도와주러 가볼게요.",
+          "summary": "나의 거주지는 서울이다. 나의 여동생은 스튜어디스이다.",
+          "date": "2022-08-10",
+          "time": "11:26:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04742",
+          "participantID": "0051",
+          "utterance": "네 수고해요. 저는 시원한 날씨를 싫어하는데 딸이 에어컨을 켜서 좀 가볼게요..",
+          "summary": "나는 시원한 날씨를 싫어한다.",
+          "date": "2022-08-10",
+          "time": "11:26:44",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다. 나는 생명과학 연구원이다.",
+          "나는 최근 아파트로 이사했다.",
+          "나는 집을 매매했다.",
+          "나의 거주지는 서울이다. 나의 여동생은 스튜어디스이다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이고 매운탕을 먹지 않는다.",
+          "나는 시원한 날씨를 싫어한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00036-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00036-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03603",
+          "participantID": "0089",
+          "utterance": "안녕하세요. 잘 지내셨어요?",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:26:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04742",
+          "participantID": "0051",
+          "utterance": "네 안녕하세요. 저는 가족과 이야기 나누며 잘 지냈죠. 그쪽은 아파트생활 만끽중인가요?",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:27:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03603",
+          "participantID": "0089",
+          "utterance": "그럼요. 지난번엔 너무 제 자랑만 한것같아서 죄송하네요.",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:27:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04742",
+          "participantID": "0051",
+          "utterance": "아니요. 저도 함께 기뻤는걸요?",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:27:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03603",
+          "participantID": "0089",
+          "utterance": "다만 최근에는 자주 걱정스러운 느낌이 있어요.",
+          "summary": "나는 자주 걱정스러운 느낌이 있다.",
+          "date": "2022-08-10",
+          "time": "11:27:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04742",
+          "participantID": "0051",
+          "utterance": "어머.. 무슨 일이 있나요?",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:27:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03603",
+          "participantID": "0089",
+          "utterance": "이렇게 집까지 마련했는데 결혼은 커녕 연애 한번도 못해봤거든요. 결혼 문제로 그렇죠.",
+          "summary": "나는 연애를 한 번도 못해봤다.",
+          "date": "2022-08-10",
+          "time": "11:28:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04742",
+          "participantID": "0051",
+          "utterance": "아... 그렇군요.. 그럼 지금은 소개팅이나 선은 봐요?",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:29:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03603",
+          "participantID": "0089",
+          "utterance": "아뇨 제가 자신감이 없어서요.. 이제 자연스러운 만감을 추구하는건 안되겠죠?",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:29:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04742",
+          "participantID": "0051",
+          "utterance": "자연스러운 만남을 추구할 곳이 있어요?",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:30:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03603",
+          "participantID": "0089",
+          "utterance": "모르겠어요.. 뭐 해봤어야 알겠죠..? 저도 잘 모르겠어요 정말로요.",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:30:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04742",
+          "participantID": "0051",
+          "utterance": "그 일하시는 곳은 좀 없나요? 그러면 그냥 선을 보시는게 낫겠는걸요?",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:30:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03603",
+          "participantID": "0089",
+          "utterance": "몇명 있기는 한데. 다 저랑 너무 오래된 친구들이라 그런 감정이 들지 모르겠어요.",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:30:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04742",
+          "participantID": "0051",
+          "utterance": "아 그럼 일하시는 곳에서 껄끄러워 질 수 있으니 업체나 그런데 통해서 한 번 시도해봐요.",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:31:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03603",
+          "participantID": "0089",
+          "utterance": "알겠습니다. 저는 그럼 이만 가볼게요. 좋은 조언이었어요.",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "11:31:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04742",
+          "participantID": "0051",
+          "utterance": "저는 가족들이 또 이야기하자고 부르네요. 제가 가족과 이야기를 많이 나눠서요. 가볼게요.",
+          "summary": "나는 가족과 이야기를 많이 나눈다.",
+          "date": "2022-08-10",
+          "time": "11:31:50",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 자주 걱정스러운 느낌이 있다.",
+          "나는 연애를 한 번도 못해봤다."
+        ],
+        "speaker2": [
+          "나는 가족과 이야기를 많이 나눈다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다. 나는 생명과학 연구원이다.",
+          "나는 최근 아파트로 이사했다.",
+          "나는 집을 매매했다.",
+          "나의 거주지는 서울이다. 나의 여동생은 스튜어디스이다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이고 매운탕을 먹지 않는다.",
+          "나는 시원한 날씨를 싫어한다."
+        ]
+      }
+    }
+  ]
+}

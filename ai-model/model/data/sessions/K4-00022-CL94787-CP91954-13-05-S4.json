@@ -1,0 +1,794 @@
+{
+  "FileInfo": {
+    "filename": "K4-00022-CL94787-CP91954-13-05-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "31026",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "주부",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "30364",
+      "gender": "남성",
+      "age": "40대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00022"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "94787",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 힐링 여행에 관심 없다.",
+        "나는 혈액형이 A형이다.",
+        "나는 요즘, 종종 신이 난다.",
+        "나는 아침에 음악을 듣는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "91954",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 주황색을 싫어한다.",
+        "나의 생일은 9월이다.",
+        "나는 매우 조용하다.",
+        "나는 짠 음식을 좋아한다.",
+        "나는 혈액형이 O형이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "13-05",
+    "topicType": "기후>계절/날씨",
+    "topicTitle": "하늘"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00022-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "안녕하세요 저는 50대 여자입니다. 반갑습니다!",
+          "summary": "나는 50대 여자이다.",
+          "date": "2022-11-29",
+          "time": "22:00:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "안녕하세요? 저는 40대 남자입니다~ 반가워요!",
+          "summary": "나는 40대 남자이다.",
+          "date": "2022-11-29",
+          "time": "22:00:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "반가워요! 저는 A형인데 선생님은 혈액형이 어떻게 되시나요?",
+          "summary": "나는 혈액형이 A형이다.",
+          "date": "2022-11-29",
+          "time": "22:00:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "저는 오형입니다~ 스윗한 오형남자인데 매우 조용한게 단점입니다^^",
+          "summary": "나는 혈액형이 0형이다. 나는 매우 조용하다.",
+          "date": "2022-11-29",
+          "time": "22:01:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "저는 A형이라 그런지 남들 다 가는 힐링 여행에 관심이 없네요... 혹시 여행 좋아하시나요?",
+          "summary": "나는 힐링 여행에 관심 없다.",
+          "date": "2022-11-29",
+          "time": "22:01:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "하하하 그렇군요? 저는 생일이 9월인데 그쯤 항상 생일겸 여행을 다닙니다~",
+          "summary": "나의 생일은 9월이다. 나는 생일 겸 여행을 다닌다.",
+          "date": "2022-11-29",
+          "time": "22:01:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "그러시군요! 저는 여행을 안가도 요즘 종종 신이 나더라구요!",
+          "summary": "나는 요즘 종종 신이 난다.",
+          "date": "2022-11-29",
+          "time": "22:01:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "그래요? 왜 그런지 물어봐도 될까요? 정말 궁금해서요!",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:02:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "이유가 없어요 그냥 신이 나서 콧노래도 부르고 즐겁네 지내요!",
+          "summary": "나는 이유 없이 신이 난다.",
+          "date": "2022-11-29",
+          "time": "22:02:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "요즘 가을이 와서 그런가? 다들 신나하시는것같네요. 혹시 근데 단풍좋아하세요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:02:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "그럼요! 요즘 단풍구경 많이 가는데 저도 좀 가고 싶네요! 가보셨나요?",
+          "summary": "나는 단풍구경에 가고 싶다.",
+          "date": "2022-11-29",
+          "time": "22:04:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "저는 주황색을 별로 안좋아하다보니 이상하게 단풍이 별로이네요 ㅠㅠ.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:04:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "아 그러시구나! 저는 이제 점심 좀 먹고 올게요! 다음에 뵈요!",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:04:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "네~ 점심식사 맛있게 드시고 또 연락주세요^^ 즐거웠습니다~",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:04:42",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 50대 여자이다.",
+          "나는 혈액형이 A형이다.",
+          "나는 힐링 여행에 관심 없다.",
+          "나는 요즘 종종 신이 난다.",
+          "나는 이유 없이 신이 난다.",
+          "나는 단풍구경에 가고 싶다."
+        ],
+        "speaker2": [
+          "나는 40대 남자이다.",
+          "나는 혈액형이 0형이다. 나는 매우 조용하다.",
+          "나의 생일은 9월이다. 나는 생일 겸 여행을 다닌다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00022-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00022-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "벌써 3일이 지났네요! 저는 요즘도 종종 신이나서 너무 좋네요!",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:04:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "그런가요? 요즘도 이유없이 종종 신이 나시는건가요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:05:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "아니요! 요즘 날씨가 너무 좋아서 설레이기도 하고 신이나네요!",
+          "summary": "나는 날씨가 좋아서 신이 난다.",
+          "date": "2022-11-29",
+          "time": "22:05:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "하긴 가을날씨가 사실 제일 좋은것같아요! 하늘도 가을이 제일 이쁘지 않나요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:05:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "맞아요. 요즘 구름한점 없는 하늘이 너무 예쁘네요!",
+          "summary": "나는 하늘이 예쁘다.",
+          "date": "2022-11-29",
+          "time": "22:05:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "아이고 그렇군요? 근데 선생님은 어떤계절을 가장 좋아하는지 물어봐도되나요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:06:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "저는 가을도 좋아하는데 제일 좋아하는 계절은 봄입니다. 선생님은요?",
+          "summary": "나는 봄을 가장 좋아한다.",
+          "date": "2022-11-29",
+          "time": "22:06:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "저는 생일이 가을이라서 그런지 가을을 가장 좋아합니다.^^",
+          "summary": "나는 가을을 좋아한다.",
+          "date": "2022-11-29",
+          "time": "22:06:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "그런데 주황색을 싫어하신다고 하셨는데 가을이 좋으신가요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:06:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "네~ 주황색이랑 가을은 별개에요~ 뭔가 주황색으로 단풍이 물든 가을 산 보면 산불이 난것같아서 싫더라고요.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:07:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "그렇군요! 그냥 단풍만 싫어하시는거군요! 그럴수 있죠!",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:07:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "네 맞아요~^^ 그냥 눈과 같은 예쁜 쓰레가 같더라고요 하하하...근데 저녁 드셨나요?",
+          "summary": "나는 단풍을 싫어한다.",
+          "date": "2022-11-29",
+          "time": "22:07:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "저는 아직 식전입니다. 저도 이제 저녁 준비하러 가야겠네요! 다음에 또 만나요!",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:07:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "네~ 그럼 저녁식사 드시고 또 연락주세요! 저도 밥 먹고 나중에 연락드릴게요~",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:08:18",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 날씨가 좋아서 신이 난다.",
+          "나는 하늘이 예쁘다.",
+          "나는 봄을 가장 좋아한다."
+        ],
+        "speaker2": [
+          "나는 가을을 좋아한다.",
+          "나는 단풍을 싫어한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여자이다.",
+          "나는 혈액형이 A형이다.",
+          "나는 힐링 여행에 관심 없다.",
+          "나는 요즘 종종 신이 난다.",
+          "나는 이유 없이 신이 난다.",
+          "나는 단풍구경에 가고 싶다."
+        ],
+        "speaker2": [
+          "나는 40대 남자이다.",
+          "나는 혈액형이 0형이다. 나는 매우 조용하다.",
+          "나의 생일은 9월이다. 나는 생일 겸 여행을 다닌다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00022-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "주"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00022-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "2주 만인가요? 이제 곧 생일이시겠네요! 생일에 뭐하세요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:08:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "저는 생일에 가족과 함께 여행을 갈 예정입니다.",
+          "summary": "나는 가족과 여행을 갈 예정이다.",
+          "date": "2022-11-29",
+          "time": "22:08:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "아 그러시구나! 어디로 여행을 가세요? 가을이 여행가기 좋은 계절이죠!",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:08:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "저는 남이섬에 갈 예정인데 혹시 가보신적 있나요?",
+          "summary": "나는 남이섬에 갈 것이다.",
+          "date": "2022-11-29",
+          "time": "22:08:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "저는 대학교때 한번 가보고 안가봤어요. 제가 힐링여행에는 관심이 없어서요.",
+          "summary": "나는 남이섬을 대학교 때 가봤다.",
+          "date": "2022-11-29",
+          "time": "22:09:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "아이고 그러시군요? ㅎㅎ 그럼 여행 자체를 별로 안좋아하시는건가요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:09:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "그런건 아닙니다. 여름에 휴가가는거는 또 좋아해요!",
+          "summary": "나는 여름휴가를 좋아한다.",
+          "date": "2022-11-29",
+          "time": "22:09:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "혹시 여름에 휴가가는 거면 레포츠를 하러 가시는 건가요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:09:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "아니요. 저는 시원한 바다를 보면 기분이 좋아서 바다 보러 갑니다.",
+          "summary": "나는 바다를 보면 기분이 좋다.",
+          "date": "2022-11-29",
+          "time": "22:09:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "오~ 그렇구요~^^ 저는 여름 하늘도 참 드높아서 좋더라고요! 그렇지 않나요?",
+          "summary": "나는 여름 하늘이 드높아 좋다.",
+          "date": "2022-11-29",
+          "time": "22:10:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "맞아요! 여름에 폭염만 없으면 너무 완벽한데 그치 않나요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:10:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "하하하 맞아요. 저도 폭염은 너무 힘들더라고요. 진짜 못견디겠어요.",
+          "summary": "나는 폭염이 힘들다.",
+          "date": "2022-11-29",
+          "time": "22:10:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "올 여름이 너무 더워서 저는 고생을 많이 했답니다.",
+          "summary": "나는 여름에 더워서 고생을 했다.",
+          "date": "2022-11-29",
+          "time": "22:10:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "저 그럼 딸이랑 남이섬 맛집좀 찾아보고 또 연락드릴게요~^^",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:10:57",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 남이섬을 대학교 때 가봤다.",
+          "나는 여름휴가를 좋아한다.",
+          "나는 바다를 보면 기분이 좋다.",
+          "나는 여름에 더워서 고생을 했다."
+        ],
+        "speaker2": [
+          "나는 가족과 여행을 갈 예정이다.",
+          "나는 남이섬에 갈 것이다.",
+          "나는 여름 하늘이 드높아 좋다.",
+          "나는 폭염이 힘들다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여자이다.",
+          "나는 혈액형이 A형이다.",
+          "나는 힐링 여행에 관심 없다.",
+          "나는 요즘 종종 신이 난다.",
+          "나는 이유 없이 신이 난다.",
+          "나는 단풍구경에 가고 싶다.",
+          "나는 날씨가 좋아서 신이 난다.",
+          "나는 하늘이 예쁘다.",
+          "나는 봄을 가장 좋아한다."
+        ],
+        "speaker2": [
+          "나는 40대 남자이다.",
+          "나는 혈액형이 0형이다. 나는 매우 조용하다.",
+          "나의 생일은 9월이다. 나는 생일 겸 여행을 다닌다.",
+          "나는 가을을 좋아한다.",
+          "나는 단풍을 싫어한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00022-3",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00022-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "5일만이네요! 가족들이랑 남이섬은 잘 다녀오셨나요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:10:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "네~ 오늘 딱 도착했네요~어떻게 알고 이렇게 맞춰서 연락을 주셨나요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:11:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "그렇군요! 그냥 물어봤는데 제가 딱 맞췄네요!",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:11:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "뭔가 촉이 좋으신거 같네요~^^ 혹시 남이섬에 가실 계획 없으신가요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:11:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "저는 친구들이 다음주에 강원도에 무슨 단풍축제를 가자고 해서 생각중이에요.",
+          "summary": "나는 친구들과 다음 주에 단풍축제를 간다.",
+          "date": "2022-11-29",
+          "time": "22:12:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "오우~ 너무 좋겠네요~^^ 단풍이 주가 아니라면 저도 한번 가볼텐데 말이죠 하하.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:13:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "그냥 가을이고 놀이삼아 한번 가는거죠! 맛있는것도 먹구요!",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:13:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "그렇군요~ 강원도가 단풍 축제가 유명한지 처음 알았어요!",
+          "summary": "나는 강원도가 단풍축제 유명한지 처음 알았다.",
+          "date": "2022-11-29",
+          "time": "22:13:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "네 아무래도 산이 많다보니 가을마다 열리는것 같더라구요!",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:13:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "그렇군요~ 혹시 몇박몇일 다녀오시는건지 물어봐도 되나요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:14:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "아직 정하지는 않았는데 주말에 다녀올것 같습니다.",
+          "summary": "나는 주말에 강원도를 갈 것 같다.",
+          "date": "2022-11-29",
+          "time": "22:14:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "그렇군요^^ 정말 재밌겠네요~ ㅎㅎ 친구분들이랑 함께하는거라 더 재밌으실것 같네요!",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:14:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "94787",
+          "participantID": "31026",
+          "utterance": "네 오랜만에 만나는 모임이라 기대가 되네요! 저 이제 저녁 준비 좀 하러 갈게요!",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:14:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91954",
+          "participantID": "30364",
+          "utterance": "네 그러세요! 그럼 또 연락주세요~ 정말 즐거웠습니다~^^",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "22:14:51",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 친구들과 다음 주에 단풍축제를 간다.",
+          "나는 주말에 강원도를 갈 것 같다."
+        ],
+        "speaker2": [
+          "나는 강원도가 단풍축제 유명한지 처음 알았다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여자이다.",
+          "나는 혈액형이 A형이다.",
+          "나는 힐링 여행에 관심 없다.",
+          "나는 요즘 종종 신이 난다.",
+          "나는 이유 없이 신이 난다.",
+          "나는 단풍구경에 가고 싶다.",
+          "나는 날씨가 좋아서 신이 난다.",
+          "나는 하늘이 예쁘다.",
+          "나는 봄을 가장 좋아한다.",
+          "나는 남이섬을 대학교 때 가봤다.",
+          "나는 여름휴가를 좋아한다.",
+          "나는 바다를 보면 기분이 좋다.",
+          "나는 여름에 더워서 고생을 했다."
+        ],
+        "speaker2": [
+          "나는 40대 남자이다.",
+          "나는 혈액형이 0형이다. 나는 매우 조용하다.",
+          "나의 생일은 9월이다. 나는 생일 겸 여행을 다닌다.",
+          "나는 가을을 좋아한다.",
+          "나는 단풍을 싫어한다.",
+          "나는 가족과 여행을 갈 예정이다.",
+          "나는 남이섬에 갈 것이다.",
+          "나는 여름 하늘이 드높아 좋다.",
+          "나는 폭염이 힘들다."
+        ]
+      }
+    }
+  ]
+}

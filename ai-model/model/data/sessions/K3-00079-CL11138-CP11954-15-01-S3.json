@@ -1,0 +1,666 @@
+{
+  "FileInfo": {
+    "filename": "K3-00079-CL11138-CP11954-15-01-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0202",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "서비스직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0201",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "서비스직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00079"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "11138",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 10대이다.",
+        "내가 사는 곳은 청주이다",
+        "나는 다소 긍정적이다",
+        "나는 로맨스 영화 보는 것을 싫어한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "11954",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 10대이다.",
+        "나는 동생과 게임하는 게 재미있다",
+        "나는 판사가 되고 싶다",
+        "나는 바나나를 싫어한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "15-01",
+    "topicType": "시사/사회>타국가이슈(해외)",
+    "topicTitle": "사건 및 사고"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "3-00079-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "안녕하세요 저는 청주에서 사는 10대 여자입니다!",
+          "summary": "내가 사는 곳은 청주이다. 나는 10대 여자이다",
+          "date": "2022-10-25",
+          "time": "16:40:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "안녕하세요! 저도 10대 여자입니다 ㅎㅎ ",
+          "summary": "나는 10대 여자이다",
+          "date": "2022-10-25",
+          "time": "16:40:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "님은 영화보는거 좋아하세요? 저는 로맨스 영화보는걸 싫어해요!",
+          "summary": "나는 로맨스 영화 보는 것을 싫어한다",
+          "date": "2022-10-25",
+          "time": "16:41:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "저는 영화 좋아해요! 저는 코미디 영화 좋아합니다 ㅎㅎ 아 님은 동생 있어요?",
+          "summary": "나는 코미디 영화를 좋아한다",
+          "date": "2022-10-25",
+          "time": "16:41:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "네 남동생이 있어요! 님은 형제 있어요?",
+          "summary": "나는 남동생이 있다",
+          "date": "2022-10-25",
+          "time": "16:42:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "네! 여동생 있어요 ㅎㅎ 저는 동생하고 게임하는 게 재미있어서 게임하면서 놀아요!",
+          "summary": "나는 여동생이 있다. 나는 동생과 게임하는 것이 재미있다.",
+          "date": "2022-10-25",
+          "time": "16:42:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "저는 다소 긍정적인데 동생이 이런 저의 모습을 쏙 빼닮았어요 ㅋㅋ 평소에 무슨게임 하세요?",
+          "summary": "나는 다소 긍정적이다",
+          "date": "2022-10-25",
+          "time": "16:43:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "저희는 역할극 많이해요! ㅋㅋ 조금 유치하긴한데 제가 판사가 되고 싶어서 동생이랑 같이 역할극 하며 놀아요",
+          "summary": "나는 동생과 역할극을 많이 한다. 나는 판사가 되고 싶다",
+          "date": "2022-10-25",
+          "time": "16:43:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "오 판사 멋있죠 ㅋㅋ 저는 그냥 회사원 되는게 꿈이에요 ! 언제부터 판사가 되고싶으셨어요?",
+          "summary": "나는 회사원이 되는 것이 꿈이다.",
+          "date": "2022-10-25",
+          "time": "16:44:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "음 저는 고등학교 1학년때 부터요! ㅎㅎ 아 님은 좋아하는 과일 있어요? 저는 바나나를 싫어해요ㅠ",
+          "summary": "나는 바나나를 싫어한다",
+          "date": "2022-10-25",
+          "time": "16:44:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "저는 복숭아 좋아해요! 바나나는 왜 싫어해요?",
+          "summary": "나는 복숭아를 좋아한다",
+          "date": "2022-10-25",
+          "time": "16:44:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "맛이 없더라고요ㅠㅠ 아 님은 저녁 드셨어요? 저는 아직 밥 못먹었어요ㅠ",
+          "summary": "나는 밥을 못 먹었다",
+          "date": "2022-10-25",
+          "time": "16:45:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "저도 아직 밥 못 먹었어요ㅠ 님은 뭐 드실건가요?",
+          "summary": "나는 밥을 먹지 못했다",
+          "date": "2022-10-25",
+          "time": "16:45:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "음 저는 오늘 가족외식으로 고기 먹으로 갈 것 같아요!  ㅎㅎ 님은요?",
+          "summary": "나는 가족 외식을 할 것이다",
+          "date": "2022-10-25",
+          "time": "16:45:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "저도 이제 밥 먹으러 갈게요! 나중에 연락할게요~!",
+          "summary": "나는 밥을 먹으러 갈 것이다",
+          "date": "2022-10-25",
+          "time": "16:46:02",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "내가 사는 곳은 청주이다. 나는 10대 여자이다",
+          "나는 로맨스 영화 보는 것을 싫어한다",
+          "나는 남동생이 있다",
+          "나는 다소 긍정적이다",
+          "나는 회사원이 되는 것이 꿈이다.",
+          "나는 복숭아를 좋아한다",
+          "나는 밥을 먹지 못했다",
+          "나는 밥을 먹으러 갈 것이다"
+        ],
+        "speaker2": [
+          "나는 10대 여자이다",
+          "나는 코미디 영화를 좋아한다",
+          "나는 여동생이 있다. 나는 동생과 게임하는 것이 재미있다.",
+          "나는 동생과 역할극을 많이 한다. 나는 판사가 되고 싶다",
+          "나는 바나나를 싫어한다",
+          "나는 밥을 못 먹었다",
+          "나는 가족 외식을 할 것이다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00079-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "3-00079-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "어제는 외식 잘 하셨어요? 저는 그냥 밥 먹었습니다 ㅎㅎ",
+          "summary": "나는 어제 밥을 먹었다",
+          "date": "2022-10-25",
+          "time": "16:47:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "네! 오랜만에 가족외식했어요 ㅎㅎ 님은 오늘 뭐하실거에요?",
+          "summary": "나는 가족 외식을 했다",
+          "date": "2022-10-25",
+          "time": "16:48:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "저는 나중에 친구 만나기로 했어요! 그 전에  TV 보고 있어요!",
+          "summary": "나는 친구를 만나로 갈 것이다. 나는 TV를 보고 있다",
+          "date": "2022-10-25",
+          "time": "16:48:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "오 그렇구나~ TV는 어떤거 보고 계신거에요? 재미있는거 하나요?",
+          "summary": "",
+          "date": "2022-10-25",
+          "time": "16:48:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "저는 지금 뉴스보고있어요! 님은 뉴스 자주 보세요?",
+          "summary": "나는 뉴스를 보고 있다",
+          "date": "2022-10-25",
+          "time": "16:49:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "네! 저는 저녁먹을때마다 봐요! ㅎㅎ 오늘 뉴스에는 어떤 내용이 나와요?",
+          "summary": "나는 뉴스를 저녁 먹을 때마다 본다",
+          "date": "2022-10-25",
+          "time": "16:49:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "미국에서 한국인 대상 범죄가 기승하고 있다더라구요 ㅠㅠ 님은 해외 여행 계획 있어요?",
+          "summary": "나는 해외 범죄 관련 뉴스를 봤다",
+          "date": "2022-10-25",
+          "time": "16:49:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "헉 저는 이번 방학때 가족들이랑 해외여행 가려고 계획중이였어요! 해외에서 한국인 대상 어떤 범죄가 발생한데요?",
+          "summary": "나는 방학 때 가족들과 해외여행을 갈 것이다",
+          "date": "2022-10-25",
+          "time": "16:50:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "한국인 대상으로 납치범죄가 기승이라네요.. 저도 다음주에 미국 여행 계획중인데 너무 무서워요",
+          "summary": "나는 다음 주에 미국 여행을 계획 중이다",
+          "date": "2022-10-25",
+          "time": "16:52:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "헉 당장 다음주에 여행계획이시면 엄청 걱정되시겠어요ㅠㅠ 아 저는 납치말고 소매치기 같은 뉴스도 많이 봤는데.. 준비 철저히했어요?",
+          "summary": "나는 소매치기 뉴스를 봤다",
+          "date": "2022-10-25",
+          "time": "16:52:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "그래서 튼튼한 가방도 구입했어요ㅋㅋ 님은 준비 철저하게 하셨어요?",
+          "summary": "나는 튼튼한 가방을 구입했다",
+          "date": "2022-10-25",
+          "time": "16:53:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "저는 아직 여행계획이 멀긴해서 준비는 안했는데 생각하곤 있어요 ㅋㅋ 소매치기 당하면 많이 당황스러울 것 같아요ㅠㅠ ",
+          "summary": "나는 여행 계획이 멀었다",
+          "date": "2022-10-25",
+          "time": "16:53:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "맞아요ㅠ 제 주위에서는 여권도 잃어버리고 난리더리구요 ㅠ 님도 여행가실 때 조심하셔야해요!",
+          "summary": "나는 여권을 잃어버렸다.",
+          "date": "2022-10-25",
+          "time": "16:54:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "네ㅠㅠ 님도 당장 다음주에 여행 가시는데 준비 철저히해서 조심히 다녀오세요!",
+          "summary": "",
+          "date": "2022-10-25",
+          "time": "16:56:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "네 조심히 잘 다녀오겠습니다~!",
+          "summary": "",
+          "date": "2022-10-25",
+          "time": "16:56:22",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 어제 밥을 먹었다",
+          "나는 친구를 만나로 갈 것이다. 나는 TV를 보고 있다",
+          "나는 뉴스를 보고 있다",
+          "나는 해외 범죄 관련 뉴스를 봤다",
+          "나는 다음 주에 미국 여행을 계획 중이다",
+          "나는 튼튼한 가방을 구입했다",
+          "나는 여권을 잃어버렸다."
+        ],
+        "speaker2": [
+          "나는 가족 외식을 했다",
+          "나는 뉴스를 저녁 먹을 때마다 본다",
+          "나는 방학 때 가족들과 해외여행을 갈 것이다",
+          "나는 소매치기 뉴스를 봤다",
+          "나는 여행 계획이 멀었다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "내가 사는 곳은 청주이다. 나는 10대 여자이다",
+          "나는 로맨스 영화 보는 것을 싫어한다",
+          "나는 남동생이 있다",
+          "나는 다소 긍정적이다",
+          "나는 회사원이 되는 것이 꿈이다.",
+          "나는 복숭아를 좋아한다",
+          "나는 밥을 먹지 못했다",
+          "나는 밥을 먹으러 갈 것이다"
+        ],
+        "speaker2": [
+          "나는 10대 여자이다",
+          "나는 코미디 영화를 좋아한다",
+          "나는 여동생이 있다. 나는 동생과 게임하는 것이 재미있다.",
+          "나는 동생과 역할극을 많이 한다. 나는 판사가 되고 싶다",
+          "나는 바나나를 싫어한다",
+          "나는 밥을 못 먹었다",
+          "나는 가족 외식을 할 것이다"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00079-2",
+      "prevTimeInfo": {
+        "timeNum": "6",
+        "timeUnit": "주"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "3-00079-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "그동안 잘 지내셨어요~? 저는 해외여행 잘 다녀왔습니다!",
+          "summary": "나는 해외여행을 다녀왔다",
+          "date": "2022-10-25",
+          "time": "16:58:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "오랜만이네요! 저는 별일없이 잘 지냈어요 ㅎㅎ 여행은 어땠어요?",
+          "summary": "나는 잘 지냈다",
+          "date": "2022-10-25",
+          "time": "16:58:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "재미있게 잘 다녀왔어요! 님은 평소에 여행다니는거 좋아하세요?",
+          "summary": "",
+          "date": "2022-10-25",
+          "time": "16:58:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "네! 여행 좋아해요 ㅎㅎ 님은 어떤 여행을 좋아하세요?",
+          "summary": "나는 여행을 좋아한다",
+          "date": "2022-10-25",
+          "time": "16:59:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "저는 해외여행을 선호해요! 님은 해외가 좋아요 국내가 좋아요?",
+          "summary": "나는 해외여행을 선호한다",
+          "date": "2022-10-25",
+          "time": "16:59:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "저는 국내여행 좋아해요! 제가 비행기타는걸 무서워하거든요ㅠ",
+          "summary": "나는 국내여행을 좋아한다. 나는 비행기 타는 걸 무서워한다\n",
+          "date": "2022-10-25",
+          "time": "17:00:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "헉 그러면 해외는 잘 안나가는 편이세요?",
+          "summary": "",
+          "date": "2022-10-25",
+          "time": "17:00:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "네.. 이때까지 한번도 해외여행을 가본적 없네요ㅠㅠ ",
+          "summary": "나는 해외여행을 가본 적 없다",
+          "date": "2022-10-25",
+          "time": "17:00:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "국내여행도 재미있으니까 괜찮아요 ㅋㅋ 제일 좋았던 여행지는 어디에요?",
+          "summary": "",
+          "date": "2022-10-25",
+          "time": "17:00:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "저는 속초갔던게 가장 좋았어요! ㅎㅎ 속초에 맛있는 음식도 많았거든요!",
+          "summary": "나는 속초여행이 가장 좋았다",
+          "date": "2022-10-25",
+          "time": "17:00:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "오 저는 속초를 한 번도 안가봤어요! 1박2일로 가셨어요?",
+          "summary": "나는 속초에 가본 적 없다",
+          "date": "2022-10-25",
+          "time": "17:01:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "아니요! 가족들이랑 2박3일로 갔었어요 ㅎㅎ 님은 이때까지 간 여행지중 어디가 가장 좋았어요?",
+          "summary": "나는 가족과 2박 3일로 속초를 갔다",
+          "date": "2022-10-25",
+          "time": "17:01:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "음 저는 필리핀이 제일 좋았어요! 제가 따뜻한 나라를 좋아하거든요!",
+          "summary": "나는 필리핀에 가봤다. 나는 따뜻한 나라를 좋아한다",
+          "date": "2022-10-25",
+          "time": "17:02:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11954",
+          "participantID": "0201",
+          "utterance": "그렇구나~ 아 저는 오늘 약속이 있어가지고 이제 나가봐야 할 것 같아요ㅠ",
+          "summary": "나는 약속이 있다",
+          "date": "2022-10-25",
+          "time": "17:02:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11138",
+          "participantID": "0202",
+          "utterance": "아 그러시구나 약속 잘 다녀오세요! 다음에 연락해요 ㅎㅎ",
+          "summary": "",
+          "date": "2022-10-25",
+          "time": "17:03:04",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 해외여행을 다녀왔다",
+          "나는 해외여행을 선호한다",
+          "나는 속초에 가본 적 없다",
+          "나는 필리핀에 가봤다. 나는 따뜻한 나라를 좋아한다"
+        ],
+        "speaker2": [
+          "나는 잘 지냈다",
+          "나는 여행을 좋아한다",
+          "나는 국내여행을 좋아한다. 나는 비행기 타는 걸 무서워한다\n",
+          "나는 해외여행을 가본 적 없다",
+          "나는 속초여행이 가장 좋았다",
+          "나는 가족과 2박 3일로 속초를 갔다",
+          "나는 약속이 있다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "내가 사는 곳은 청주이다. 나는 10대 여자이다",
+          "나는 로맨스 영화 보는 것을 싫어한다",
+          "나는 남동생이 있다",
+          "나는 다소 긍정적이다",
+          "나는 회사원이 되는 것이 꿈이다.",
+          "나는 복숭아를 좋아한다",
+          "나는 밥을 먹지 못했다",
+          "나는 밥을 먹으러 갈 것이다",
+          "나는 어제 밥을 먹었다",
+          "나는 친구를 만나로 갈 것이다. 나는 TV를 보고 있다",
+          "나는 뉴스를 보고 있다",
+          "나는 해외 범죄 관련 뉴스를 봤다",
+          "나는 다음 주에 미국 여행을 계획 중이다",
+          "나는 튼튼한 가방을 구입했다",
+          "나는 여권을 잃어버렸다."
+        ],
+        "speaker2": [
+          "나는 10대 여자이다",
+          "나는 코미디 영화를 좋아한다",
+          "나는 여동생이 있다. 나는 동생과 게임하는 것이 재미있다.",
+          "나는 동생과 역할극을 많이 한다. 나는 판사가 되고 싶다",
+          "나는 바나나를 싫어한다",
+          "나는 밥을 못 먹었다",
+          "나는 가족 외식을 할 것이다",
+          "나는 가족 외식을 했다",
+          "나는 뉴스를 저녁 먹을 때마다 본다",
+          "나는 방학 때 가족들과 해외여행을 갈 것이다",
+          "나는 소매치기 뉴스를 봤다",
+          "나는 여행 계획이 멀었다"
+        ]
+      }
+    }
+  ]
+}

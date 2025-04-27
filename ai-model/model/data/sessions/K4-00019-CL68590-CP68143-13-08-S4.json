@@ -1,0 +1,799 @@
+{
+  "FileInfo": {
+    "filename": "K4-00019-CL68590-CP68143-13-08-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "31771",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "기능직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "31578",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00019"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "68590",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나의 남자 형제는 미용사이다.",
+        "나는 혈액형이 AB형이다.",
+        "나는 TV 교육 프로그램을 자주 본다.",
+        "나는 매운 음식을 즐겨 먹는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "68143",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 CCM 음악을 가끔 듣는다.",
+        "나는 호주에 가 보고 싶다.",
+        "나는 실외에서 스키 타는 것을 좋아한다.",
+        "나는 칼국수를 좋아한다.",
+        "나는 혈액형이 A형이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "13-08",
+    "topicType": "기후>계절/날씨",
+    "topicTitle": "환절기"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00019-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "안녕하십니까! 저는 30대 남자입니다.",
+          "summary": "나는 30대 남자이다.",
+          "date": "2022-11-30",
+          "time": "17:24:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "안녕하세요~ 저는 20대 여대생입니다.",
+          "summary": "나는 20대 여자이다. 나는 대학생이다.",
+          "date": "2022-11-30",
+          "time": "17:25:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "대학생이시군요! 저는 지금 요리사로 일하고 있어요.",
+          "summary": "나는 요리사이다.",
+          "date": "2022-11-30",
+          "time": "17:25:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "우와~ 셰프님 이신건가요? 멋지시네요! ㅋㅋ.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:25:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "셰프는 아니구요~ 그냥 주방장이랍니다. ㅎㅎ.",
+          "summary": "나는 주방장이다.",
+          "date": "2022-11-30",
+          "time": "17:25:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "저는 호주에 있는 레스토랑에 가보고 싶어요. 정말 화려하더라구요.",
+          "summary": "나는 호주에 있는 레스토랑에 가 보고 싶다.",
+          "date": "2022-11-30",
+          "time": "17:25:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "아 그래요? 호주는 또 새롭네요. 저도 가보고 싶어요. ㅎㅎ.",
+          "summary": "나는 호주에 가 보고 싶다.",
+          "date": "2022-11-30",
+          "time": "17:26:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "일하시면 엄청 바쁘실텐데 취미생활은 하시나요?",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:26:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "네네~ 저는 TV 교육 프로그램을 자주 보거든요. 금쪽상담소 열심히 봐요.",
+          "summary": "나는 TV 교육 프로그램을 자주 본다.",
+          "date": "2022-11-30",
+          "time": "17:26:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "아~ @이름1@ 박사님 나오는 프로그램이군요. 저는 CCM 음악을 가끔 들어요.",
+          "summary": "나는 CCM 음악을 가끔 듣는다.",
+          "date": "2022-11-30",
+          "time": "17:26:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "CCM음악을 들으시는군요. 케이팝 이런 종류는 잘 안들으시나봐요?",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:27:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "네네.. ㅎㅎ 뭔가 그 쪽이 더 끌리더라구요. 그리고 저는 밖에서 스키 타는 것을 좋아해요. 곧 스키 철이네요!",
+          "summary": "나는 밖에서 스키 타는 것을 좋아한다.",
+          "date": "2022-11-30",
+          "time": "17:27:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "크~ 저는 보드 타는 것을 좋아하는데 겨울에 미용사인 제 남동생을 데리고 같이 다녀와야겠어요.",
+          "summary": "나의 남자 형제는 미용사이다.",
+          "date": "2022-11-30",
+          "time": "17:27:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "집안이 다들 예체능 쪽을 하고 있으시군요. 저는 잠시 과제 좀 하고 올게요!",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:27:54",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 남자이다.",
+          "나는 요리사이다.",
+          "나는 주방장이다.",
+          "나는 호주에 가 보고 싶다.",
+          "나는 TV 교육 프로그램을 자주 본다.",
+          "나의 남자 형제는 미용사이다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다. 나는 대학생이다.",
+          "나는 호주에 있는 레스토랑에 가 보고 싶다.",
+          "나는 CCM 음악을 가끔 듣는다.",
+          "나는 밖에서 스키 타는 것을 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00019-1",
+      "prevTimeInfo": {
+        "timeNum": "12",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00019-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "반나절이 지나버렸어요. 저는 일 마치고 집에 왔네요.",
+          "summary": "나는 일을 마치고 집에 왔다.",
+          "date": "2022-11-30",
+          "time": "17:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "고생하셨어요! 저도 과제하느라 엄청 정신이 없었네요.",
+          "summary": "나는 과제하느라 정신이 없었다.",
+          "date": "2022-11-30",
+          "time": "17:28:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "요즘 날씨가 참 이상하네요. 아침엔 춥고 오후엔 좀 덥고 그렇죠?",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:28:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "네네.. 환절기라 그런지 주변에 감기 걸리는 사람들도 엄청 많은 것 같아요.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:28:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "맞아요.. 정말 그래요. 혹시 혈액형이 어떻게 되시나요? 저는 A형입니다.",
+          "summary": "나는 혈액형이 A형이다.",
+          "date": "2022-11-30",
+          "time": "17:29:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "오! 저랑 같은 혈액형이네요. 저도 a형입니다.",
+          "summary": "나는 혈액형이 A형이다.",
+          "date": "2022-11-30",
+          "time": "17:29:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "날씨 변화에 A형이 크게 느낀다는 연구결과가 있다 하더라구요. ㅋㅋ.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:29:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "혈액형에 그런게 있어요? 처음 들었네요. 신기하기도 하구요.",
+          "summary": "나는 연구결과가 신기하다.",
+          "date": "2022-11-30",
+          "time": "17:29:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "그쵸? 저도 지나가다가 본거라 신기하더라구요. 확실히 날이 쌀쌀한 것 같아요.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:30:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "맞아요.. 그러다가 곧 겨울철이 되어버릴텐데 겨울은 또 어떻게 버티나 걱정이네요.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:30:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "옷도 좀 장만해야할 것 같고 갑자기 고민이 되기 시작하는데요?ㅋㅋ.",
+          "summary": "나는 겨울철 어떻게 버틸지 고민이 된다.",
+          "date": "2022-11-30",
+          "time": "17:30:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "저도 이참에 인터넷 쇼핑도 좀 하고 해야겠어요.",
+          "summary": "나는 인터넷 쇼핑을 할 예정이다.",
+          "date": "2022-11-30",
+          "time": "17:31:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "저는 좀 씻고 이제 쉬러 가봐야할 것 같아요. 오늘도 고생했어요~",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:31:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "네네. 저도 과제 마무리하고 자러 가봐야겠어요~ 푹 쉬세요!",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:31:30",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 일을 마치고 집에 왔다.",
+          "나는 혈액형이 A형이다.",
+          "나는 겨울철 어떻게 버틸지 고민이 된다."
+        ],
+        "speaker2": [
+          "나는 과제하느라 정신이 없었다.",
+          "나는 혈액형이 A형이다.",
+          "나는 연구결과가 신기하다.",
+          "나는 인터넷 쇼핑을 할 예정이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 남자이다.",
+          "나는 요리사이다.",
+          "나는 주방장이다.",
+          "나는 호주에 가 보고 싶다.",
+          "나는 TV 교육 프로그램을 자주 본다.",
+          "나의 남자 형제는 미용사이다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다. 나는 대학생이다.",
+          "나는 호주에 있는 레스토랑에 가 보고 싶다.",
+          "나는 CCM 음악을 가끔 듣는다.",
+          "나는 밖에서 스키 타는 것을 좋아한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00019-2",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00019-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "잘 지내고 있어요? 3일이 훅 지나갔네요.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:31:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "네네~ 과제도 끝나고 해서 홀가분한 상태입니다. ㅋㅋ.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:31:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "요즘 대학생들은 관심사가 뭐에 꽂혀있나요?",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:32:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "아무래도 스맨파에 꽂혀있죠 요즘은? 저는 @이름1@ 팀을 좋아하구요.",
+          "summary": "나는 @이름1@ 팀을 좋아한다.",
+          "date": "2022-11-30",
+          "time": "17:32:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "역시 @이름1@ 팀이 잘 추긴 하더라구요. 티비에서 지나가다가 봤거든요.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:32:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "맞아요. 거기에 리더가 진짜 멋진 것 같아요.. 홀딱 반했어요.",
+          "summary": "나는 @이름1@팀의 리더를 좋아한다.",
+          "date": "2022-11-30",
+          "time": "17:33:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "뭔가 인성도 좋고 리더십도 있어보이던데요! 팀을 잘 이끄는 것 같더라구요.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:33:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "맞아요!! 그래서 제가 완전 팬이 됐잖아요.. ㅠㅠ.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:33:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "오늘도 날씨가 춥네요. 이놈의 환절기는 언제 끝나는건지..",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:33:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "그쵸.. 그래서 저는 패당하나 장만했답니다. @브랜드명1@걸로요!",
+          "summary": "나는 @브랜드명1@ 패딩을 하나 장만했다.",
+          "date": "2022-11-30",
+          "time": "17:33:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "오 정말요? 그 브랜드 금액이 만만치 않을텐데요..",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:34:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "이번에 60% 세일을 해서 정말 저렴하게 구매했어요!",
+          "summary": "나는 패딩을 저렴하게 구매했다.",
+          "date": "2022-11-30",
+          "time": "17:34:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "오~ 어디서 구매했어요? 저도 알려주세요! 바로 지르게요. ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:34:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "그 @브랜드명2@ 홈페이지에 들어가면 쿠폰 줄거예요. 저는 잠깐 세탁소 좀 들리고 올게요!",
+          "summary": "나는 세탁소에 들를 예정이다.",
+          "date": "2022-11-30",
+          "time": "17:34:55",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [],
+        "speaker2": [
+          "나는 @이름1@ 팀을 좋아한다.",
+          "나는 @이름1@팀의 리더를 좋아한다.",
+          "나는 @브랜드명1@ 패딩을 하나 장만했다.",
+          "나는 패딩을 저렴하게 구매했다.",
+          "나는 세탁소에 들를 예정이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 남자이다.",
+          "나는 요리사이다.",
+          "나는 주방장이다.",
+          "나는 호주에 가 보고 싶다.",
+          "나는 TV 교육 프로그램을 자주 본다.",
+          "나의 남자 형제는 미용사이다.",
+          "나는 일을 마치고 집에 왔다.",
+          "나는 혈액형이 A형이다.",
+          "나는 겨울철 어떻게 버틸지 고민이 된다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다. 나는 대학생이다.",
+          "나는 호주에 있는 레스토랑에 가 보고 싶다.",
+          "나는 CCM 음악을 가끔 듣는다.",
+          "나는 밖에서 스키 타는 것을 좋아한다.",
+          "나는 과제하느라 정신이 없었다.",
+          "나는 혈액형이 A형이다.",
+          "나는 연구결과가 신기하다.",
+          "나는 인터넷 쇼핑을 할 예정이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00019-3",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "주"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00019-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "벌써 겨울이 다가오고 있네요.. 덕분에 옷 싸게 잘 샀어요!",
+          "summary": "나는 옷을 저렴하게 샀다.",
+          "date": "2022-11-30",
+          "time": "17:35:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "2주가 흘렀군요. 옷 저렴하게 잘 건지셨나요?",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:35:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "네네! 저도 쿠폰 받아서 옷 저렴하게 샀어요. 감사해요.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:35:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "어떤 옷들 샀어요? ㅎㅎ 뭐 건지셨는지 궁금하네요.ㅋㅋ.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:35:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "아~ 저는 맨투맨하고 후드집업 하나씩 샀어요.",
+          "summary": "나는 맨투맨과 후드 집업 한 벌씩 샀다.",
+          "date": "2022-11-30",
+          "time": "17:35:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "대박이네요! 저는 어제 홈쇼핑보다가 밀키트 넘 좋아보여서 하나 구매했어요.",
+          "summary": "나는 밀 키트를 구매했다.",
+          "date": "2022-11-30",
+          "time": "17:36:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "어떤 메뉴로 구매하셨어요? 저는 홈쇼핑은 한 번도 안해봤어요.",
+          "summary": "나는 홈쇼핑은 한 번도 안 해봤다.",
+          "date": "2022-11-30",
+          "time": "17:36:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "정말요? 타임세일 이런거 들어가면 생각보다 저렴하고 쏠쏠해요.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:36:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "오.. 그렇구나 저는 못믿어서 안샀거든요. ㅋㅋ 그냥 장사하는 것만 같고 그래서요.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:36:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "생각보다 잘 고르면 좋은 물건들이 오긴 해요. 저는 이번에 소고기를 샀거든요.",
+          "summary": "나는 이번에 소고기 밀 키트를 샀다.",
+          "date": "2022-11-30",
+          "time": "17:37:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "맛있겠네요. 소고기가 들어간 밀키트라.. 고기가 좋으니까 저한테도 추천해주시는거겠죠?",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:37:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "그렇죠. ㅋㅋ 아니면 욕하고 있었겠지요? 저번에도 추천해드렸으니까요.ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:37:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "68590",
+          "participantID": "31771",
+          "utterance": "그렇긴하네요. 한 번 쓰윽 둘러보고 구경 한 번 해봐야겠어요~",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:37:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68143",
+          "participantID": "31578",
+          "utterance": "네네! 또 모르시는거 있으시면 저한테 바로 여쭤보세요. 저는 쉬고 있을게요~",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "17:37:59",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 옷을 저렴하게 샀다.",
+          "나는 맨투맨과 후드 집업 한 벌씩 샀다.",
+          "나는 홈쇼핑은 한 번도 안 해봤다."
+        ],
+        "speaker2": [
+          "나는 밀 키트를 구매했다.",
+          "나는 이번에 소고기 밀 키트를 샀다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 남자이다.",
+          "나는 요리사이다.",
+          "나는 주방장이다.",
+          "나는 호주에 가 보고 싶다.",
+          "나는 TV 교육 프로그램을 자주 본다.",
+          "나의 남자 형제는 미용사이다.",
+          "나는 일을 마치고 집에 왔다.",
+          "나는 혈액형이 A형이다.",
+          "나는 겨울철 어떻게 버틸지 고민이 된다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다. 나는 대학생이다.",
+          "나는 호주에 있는 레스토랑에 가 보고 싶다.",
+          "나는 CCM 음악을 가끔 듣는다.",
+          "나는 밖에서 스키 타는 것을 좋아한다.",
+          "나는 과제하느라 정신이 없었다.",
+          "나는 혈액형이 A형이다.",
+          "나는 연구결과가 신기하다.",
+          "나는 인터넷 쇼핑을 할 예정이다.",
+          "나는 @이름1@ 팀을 좋아한다.",
+          "나는 @이름1@팀의 리더를 좋아한다.",
+          "나는 @브랜드명1@ 패딩을 하나 장만했다.",
+          "나는 패딩을 저렴하게 구매했다.",
+          "나는 세탁소에 들를 예정이다."
+        ]
+      }
+    }
+  ]
+}

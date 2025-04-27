@@ -1,0 +1,452 @@
+{
+  "FileInfo": {
+    "filename": "K2-00167-CL33495-CP51723-20-06-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "2007",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "교직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "2050",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00167"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "33495",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 로큰롤 음악을 자주 듣는다.",
+        "나는 금융 상품 개발자이다.",
+        "나는 모든 게 귀찮다.",
+        "나는 포도를 안 먹는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "51723",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 고등학교를 중퇴했다.",
+        "내 인생에서 가장 슬펐던 때는 자녀가 아팠을 때이다.",
+        "나는 홍시를 좋아한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "20-06",
+    "topicType": "예술문화 생활>영화/만화",
+    "topicTitle": "OTT서비스"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00167-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33495",
+          "participantID": "2007",
+          "utterance": "저는 30대 여자입니다 만나서 반가워요^^",
+          "summary": "나는 30대 여자이다.",
+          "date": "2022-10-06",
+          "time": "22:43:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51723",
+          "participantID": "2050",
+          "utterance": "안녕하세요 반갑습니다 저는 50대 여자입니다 ㅎㅎ.",
+          "summary": "나는 50대 여자이다.",
+          "date": "2022-10-06",
+          "time": "22:43:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33495",
+          "participantID": "2007",
+          "utterance": "이런대화는 처음이라 어색하지만 잘부탁드려요.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:43:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51723",
+          "participantID": "2050",
+          "utterance": "저도 너무 어색하네요 ㅎㅎ나이차도있지만 잘 대화나눠요 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:44:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33495",
+          "participantID": "2007",
+          "utterance": "좋아요 선생님은 무슨일을 하고 계신가요?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:44:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51723",
+          "participantID": "2050",
+          "utterance": "아 저는 고등학교 중퇴한 가정주부입니다 하하;",
+          "summary": "나는 고등학교를 중퇴했다.",
+          "date": "2022-10-06",
+          "time": "22:44:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33495",
+          "participantID": "2007",
+          "utterance": "아 그러신가요? 저는 금융 상품 개발자입니다~",
+          "summary": "나는 금융 상품 개발자이다.",
+          "date": "2022-10-06",
+          "time": "22:44:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51723",
+          "participantID": "2050",
+          "utterance": "와 멋진일을 하고계시네요 ㅎㅎ 부러워요 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:44:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33495",
+          "participantID": "2007",
+          "utterance": "저는 모든게 귀찮아서~ 일도 하기 싫네요 하하.",
+          "summary": "나는 모든 게 귀찮다.",
+          "date": "2022-10-06",
+          "time": "22:45:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51723",
+          "participantID": "2050",
+          "utterance": "하하 그러신가요 ㅎㅎ저는 완전한 공감을 가진 않네요 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:45:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33495",
+          "participantID": "2007",
+          "utterance": "왜 공감이 안되죠? 하하 그럼 선생님은 취미가 뭐예요?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:45:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51723",
+          "participantID": "2050",
+          "utterance": "아 저는 요리하는걸 좋아해서 제가 홍시를 또좋아해서 홍시주스같은거 만들어먹어요.",
+          "summary": "나는 홍시를 좋아한다.",
+          "date": "2022-10-06",
+          "time": "22:45:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33495",
+          "participantID": "2007",
+          "utterance": "와 너무 획기적인데요? 저는 스트레스많이 받을 때는 로큰롤 음악을 자주들어요~",
+          "summary": "나는 로큰롤 음악을 자주 듣는다.",
+          "date": "2022-10-06",
+          "time": "22:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51723",
+          "participantID": "2050",
+          "utterance": "하하 로큰롤음악들으면 진짜 스트레스가 확 달아날것같아요 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:45:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33495",
+          "participantID": "2007",
+          "utterance": "그래요? 방금 엄마가 포도갖다줬는데 제가 포도를 싫어하는 줄 모르나보네요.",
+          "summary": "나는 포도를 안 먹는다.",
+          "date": "2022-10-06",
+          "time": "22:46:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51723",
+          "participantID": "2050",
+          "utterance": "아그러셨군요 저도 집안일 마무리하고 또 연락드릴게요 ~",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:46:20",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 금융 상품 개발자이다.",
+          "나는 모든 게 귀찮다.",
+          "나는 로큰롤 음악을 자주 듣는다.",
+          "나는 포도를 안 먹는다."
+        ],
+        "speaker2": [
+          "나는 50대 여자이다.",
+          "나는 고등학교를 중퇴했다.",
+          "나는 홍시를 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00167-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00167-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33495",
+          "participantID": "2007",
+          "utterance": "선생님 삼일만에 연락을 드리네요~ 잘지내셨어요?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:46:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51723",
+          "participantID": "2050",
+          "utterance": "예 잘지냈다고 말씀드려도 괜찮은거겠죠.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:46:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33495",
+          "participantID": "2007",
+          "utterance": "왜요 무슨일 있으신건 아닌가요? 걱정이 되네요.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:47:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51723",
+          "participantID": "2050",
+          "utterance": "아 다름이 아니라 제 자녀가 아팠거든요 그건 제 인생에서 너무 슬픈일이에요ㅠ.",
+          "summary": "내 인생에서 가장 슬펐던 때는 자녀가 아팠을 때이다.",
+          "date": "2022-10-06",
+          "time": "22:47:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33495",
+          "participantID": "2007",
+          "utterance": "아이고 고생이 많으셨겠네요~ 지금은 괜찮은거죠?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:47:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51723",
+          "participantID": "2050",
+          "utterance": "네 지금은 많이 좋아져서 딸이랑 영화보구있네요 감사해요.",
+          "summary": "나는 딸과 영화를 본다.",
+          "date": "2022-10-06",
+          "time": "22:47:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33495",
+          "participantID": "2007",
+          "utterance": "아그래요? 어떤영화를 보고 계신가요?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:47:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51723",
+          "participantID": "2050",
+          "utterance": "아 휴먼로맨스 가족영화보구있어요 ㅎㅎ슬프면서 감사해지네요 ㅎ.",
+          "summary": "나는 휴먼 로맨스 영화를 좋아한다.",
+          "date": "2022-10-06",
+          "time": "22:47:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33495",
+          "participantID": "2007",
+          "utterance": "아그러시군요~ 요즘에는 영화를 @브랜드명1@에서 많이 보던데요?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:48:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51723",
+          "participantID": "2050",
+          "utterance": "맞아요 그런 영화나 만화 제공되는 서비스 플랫폼들이 많아져서 시대가 참좋아졌죠.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:48:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33495",
+          "participantID": "2007",
+          "utterance": "그러니까요 OTT서비스가 잘되어있더라구요~",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:48:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51723",
+          "participantID": "2050",
+          "utterance": "그렇죠?! 정말 시대 좋아졌어요 ㅎㅎ앞으로가 더 기대돼요.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:48:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33495",
+          "participantID": "2007",
+          "utterance": "저도 말나온김에 주말에 @브랜드명1@로 역주행좀 해야겠어요.",
+          "summary": "나는 영화를 역주행한다.",
+          "date": "2022-10-06",
+          "time": "22:48:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51723",
+          "participantID": "2050",
+          "utterance": "헐 하루 날잡아서 그렇게 보내면 정말 힐링될것같아요.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:49:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33495",
+          "participantID": "2007",
+          "utterance": "그럼 따님과 시간잘보내고 나중에 또연락해요 우리^^",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:49:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51723",
+          "participantID": "2050",
+          "utterance": "예 즐거운 대화였어요 우리 다음에 또 대화나눠요~",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "22:49:27",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 영화를 역주행한다."
+        ],
+        "speaker2": [
+          "내 인생에서 가장 슬펐던 때는 자녀가 아팠을 때이다.",
+          "나는 딸과 영화를 본다.",
+          "나는 휴먼 로맨스 영화를 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 금융 상품 개발자이다.",
+          "나는 모든 게 귀찮다.",
+          "나는 로큰롤 음악을 자주 듣는다.",
+          "나는 포도를 안 먹는다."
+        ],
+        "speaker2": [
+          "나는 50대 여자이다.",
+          "나는 고등학교를 중퇴했다.",
+          "나는 홍시를 좋아한다."
+        ]
+      }
+    }
+  ]
+}

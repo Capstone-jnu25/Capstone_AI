@@ -1,0 +1,820 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-004783-AP600048-WZ000005-02_03_02-S2.json",
+        "sessionLevel": "2"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0011",
+            "gender": "여성",
+            "age": "30대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": null
+        },
+        "speaker2": {
+            "participantID": "F0011",
+            "gender": "여성",
+            "age": "30대",
+            "occupation": "사무직",
+            "bPlace": "대전/세종/충청/강원",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대학원졸",
+            "major": "수학과"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "004783"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600048",
+            "personaFeatures": [
+                "나는 관광/감상의 지명에 대한 서적을 읽고 있다.",
+                "나는 블루베리를 좋아한다",
+                "나는 콘솔게임에 관심 없다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000005",
+            "personaFeatures": [
+                "나는 지명에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_02",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "장소"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004783-1",
+            "sessionKeywords": [
+                "*루딘*,*루딘*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600048",
+                    "participantID": "E0011",
+                    "utterance": "안녕 나 뭐 좀 물어보고 싶어서 말이야.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799066000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "안녕하세요, 네 궁금하신게 무엇인가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799080000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600048",
+                    "participantID": "E0011",
+                    "utterance": "내가 요즘 관광지에 대한 책을 읽고 있거든. 거기서 루딘이라는 도시가 잠깐 언급됐는데, 더 자세히 알고 싶어서, 알려 줄 수 있니?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 요즘 관광지에 대한 책을 읽고 있다.",
+                    "timestamp": 1695799146000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "루딘은 영국 웨일스 북부의 덴비셔의 관청 소재 도시이며 인구는 약 5,000명이에요",
+                    "context": {
+                        "query": "루딘",
+                        "contents": [
+                            {
+                                "documentID": "1099692",
+                                "documentTitle": "루딘",
+                                "content": [
+                                    "루딘(, /ˈr̥ɪθɪn/ RITH-in)은 영국 웨일스 북부의 덴비셔의 관청 소재 도시이며 인구는 약 5,000명이다.",
+                                    "루딘은 클루이드 계곡 남쪽의 고지대에 위치하고 있으며 읍내에서 가장 높은 언덕에는 구시가지와 루딘 성(Ruthin Castle), 세인트 피터 광장(Saint Peter's Square)이 있다.",
+                                    "루딘이란 이름은 웨일스어에서 붉은색을 뜻하는 'rhudd'와 요새를 뜻하는 'din'에서 유래했는데, 이 지역이 보안상의 목적으로 클루이드 강너머를 내다볼 수 있도록 적색사암층(red sandstone) 위에 건설되었기 때문이다.",
+                                    "1990년 후반에는 루딘의 신시가지 지역에 클루이드 강의 범람이 잦아 2003년 가을에 3백만 파운드를 들여 홍수 대비 공사를 실시했다.",
+                                    "루딘은 문헌상 7백 년이 넘는 역사를 지니고 있으며 훌륭한 건축 유산을 보유하고 있고 웨일스에서 가장 규모가 큰 가축 경매 시장이 열린다."
+                                ]
+                            },
+                            {
+                                "documentID": "1111567",
+                                "documentTitle": "루딘 스쿨",
+                                "content": [
+                                    "루딘 스쿨은 영국의 가장 오래된 사립학교 중의 하나이다.",
+                                    "1284년에 설립되었으며 웨일스 북부 덴비셔의 루딘에 위치하여 있다.",
+                                    "1990년부터는 남녀공학으로 전환하였다.",
+                                    "교육.",
+                                    "2013년 A Level 시험 성적에서 A* 및 A 등급 60%로 영국 전체 사립학교 중 79위 (텔레그래프 일간지)의 결과를 올렸다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "루딘은 영국 웨일스 북부의 덴비셔의 관청 소재 도시이며 인구는 약 5,000명이다",
+                    "timestamp": 1695799348000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600048",
+                    "participantID": "E0011",
+                    "utterance": "아 영국에 있는 도시인줄은 지금 알게됐어. 볼거리도 있어?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799472000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "루딘은 문헌상 7백 년이 넘는 역사를 지니고 있으며 훌륭한 건축 유산을 보유하고 있고 웨일스에서 가장 규모가 큰 가축 경매 시장이 열려요",
+                    "context": {
+                        "query": "루딘",
+                        "contents": [
+                            {
+                                "documentID": "1099692",
+                                "documentTitle": "루딘",
+                                "content": [
+                                    "루딘(, /ˈr̥ɪθɪn/ RITH-in)은 영국 웨일스 북부의 덴비셔의 관청 소재 도시이며 인구는 약 5,000명이다.",
+                                    "루딘은 클루이드 계곡 남쪽의 고지대에 위치하고 있으며 읍내에서 가장 높은 언덕에는 구시가지와 루딘 성(Ruthin Castle), 세인트 피터 광장(Saint Peter's Square)이 있다.",
+                                    "루딘이란 이름은 웨일스어에서 붉은색을 뜻하는 'rhudd'와 요새를 뜻하는 'din'에서 유래했는데, 이 지역이 보안상의 목적으로 클루이드 강너머를 내다볼 수 있도록 적색사암층(red sandstone) 위에 건설되었기 때문이다.",
+                                    "1990년 후반에는 루딘의 신시가지 지역에 클루이드 강의 범람이 잦아 2003년 가을에 3백만 파운드를 들여 홍수 대비 공사를 실시했다.",
+                                    "루딘은 문헌상 7백 년이 넘는 역사를 지니고 있으며 훌륭한 건축 유산을 보유하고 있고 웨일스에서 가장 규모가 큰 가축 경매 시장이 열린다."
+                                ]
+                            },
+                            {
+                                "documentID": "1111567",
+                                "documentTitle": "루딘 스쿨",
+                                "content": [
+                                    "루딘 스쿨은 영국의 가장 오래된 사립학교 중의 하나이다.",
+                                    "1284년에 설립되었으며 웨일스 북부 덴비셔의 루딘에 위치하여 있다.",
+                                    "1990년부터는 남녀공학으로 전환하였다.",
+                                    "교육.",
+                                    "2013년 A Level 시험 성적에서 A* 및 A 등급 60%로 영국 전체 사립학교 중 79위 (텔레그래프 일간지)의 결과를 올렸다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            true
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "루딘은 문헌상 7백 년이 넘는 역사를 지니고 있으며 훌륭한 건축 유산을 보유하고 있고 웨일스에서 가장 규모가 큰 가축 경매 시장이 열린다.",
+                    "timestamp": 1695799480000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600048",
+                    "participantID": "E0011",
+                    "utterance": "700년이 넘는 역사도시라니, 굉장하다. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799549000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "루딘은 클루이드 계곡 남쪽의 고지대에 위치하고 있으며 읍내에서 가장 높은 언덕에는 구시가지와 루딘 성(Ruthin Castle), 세인트 피터 광장(Saint Peter's Square)이 있어요.",
+                    "context": {
+                        "query": "루딘",
+                        "contents": [
+                            {
+                                "documentID": "1099692",
+                                "documentTitle": "루딘",
+                                "content": [
+                                    "루딘(, /ˈr̥ɪθɪn/ RITH-in)은 영국 웨일스 북부의 덴비셔의 관청 소재 도시이며 인구는 약 5,000명이다.",
+                                    "루딘은 클루이드 계곡 남쪽의 고지대에 위치하고 있으며 읍내에서 가장 높은 언덕에는 구시가지와 루딘 성(Ruthin Castle), 세인트 피터 광장(Saint Peter's Square)이 있다.",
+                                    "루딘이란 이름은 웨일스어에서 붉은색을 뜻하는 'rhudd'와 요새를 뜻하는 'din'에서 유래했는데, 이 지역이 보안상의 목적으로 클루이드 강너머를 내다볼 수 있도록 적색사암층(red sandstone) 위에 건설되었기 때문이다.",
+                                    "1990년 후반에는 루딘의 신시가지 지역에 클루이드 강의 범람이 잦아 2003년 가을에 3백만 파운드를 들여 홍수 대비 공사를 실시했다.",
+                                    "루딘은 문헌상 7백 년이 넘는 역사를 지니고 있으며 훌륭한 건축 유산을 보유하고 있고 웨일스에서 가장 규모가 큰 가축 경매 시장이 열린다."
+                                ]
+                            },
+                            {
+                                "documentID": "1111567",
+                                "documentTitle": "루딘 스쿨",
+                                "content": [
+                                    "루딘 스쿨은 영국의 가장 오래된 사립학교 중의 하나이다.",
+                                    "1284년에 설립되었으며 웨일스 북부 덴비셔의 루딘에 위치하여 있다.",
+                                    "1990년부터는 남녀공학으로 전환하였다.",
+                                    "교육.",
+                                    "2013년 A Level 시험 성적에서 A* 및 A 등급 60%로 영국 전체 사립학교 중 79위 (텔레그래프 일간지)의 결과를 올렸다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            true,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "루딘은 클루이드 계곡 남쪽의 고지대에 위치하고 있으며 읍내에서 가장 높은 언덕에는 구시가지와 루딘 성(Ruthin Castle), 세인트 피터 광장(Saint Peter's Square)이 있다.",
+                    "timestamp": 1695799568000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600048",
+                    "participantID": "E0011",
+                    "utterance": "성까지 있는 멋진 도시라니, 생각만해도 설렌다!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799621000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "네, 아주 멋진 도시라고 저도 생각해요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799706000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600048",
+                    "participantID": "E0011",
+                    "utterance": "너무 설렌 나머지 배고파졌어. 블루베리 먹고 와야겠다. 난 블루베리를 아주 좋아하거든.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 블루베리를 아주 좋아한다.",
+                    "timestamp": 1695799753000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "블루베리를 좋아하시는 군요. 맛있게 드세요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799783000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600048",
+                    "participantID": "E0011",
+                    "utterance": "응 고마워 다음에 궁금한게 생기면 또 물어볼게!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799801000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "네, 언제든지 물어보셔도 됩니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799821000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 요즘 관광지에 대한 책을 읽고 있다.",
+                    "나는 블루베리를 아주 좋아한다."
+                ],
+                "wizard": [
+                    "루딘은 영국 웨일스 북부의 덴비셔의 관청 소재 도시이며 인구는 약 5,000명이다",
+                    "루딘은 문헌상 7백 년이 넘는 역사를 지니고 있으며 훌륭한 건축 유산을 보유하고 있고 웨일스에서 가장 규모가 큰 가축 경매 시장이 열린다.",
+                    "루딘은 클루이드 계곡 남쪽의 고지대에 위치하고 있으며 읍내에서 가장 높은 언덕에는 구시가지와 루딘 성(Ruthin Castle), 세인트 피터 광장(Saint Peter's Square)이 있다."
+                ],
+                "dialogSummary": "나는 루딘에 대하여 질문했고, 챗봇은 루딘은 영국 웨일스 북부의 덴비셔의 관청 소재 도시이며 인구는 약 5,000명이고, 문헌상 7백 년이 넘는 역사를 지니고 있으며 훌륭한 건축 유산을 보유하고 있고 웨일스에서 가장 규모가 큰 가축 경매 시장이 열린다고 대답했고, 루딘은 클루이드 계곡 남쪽의 고지대에 위치하고 있으며 읍내에서 가장 높은 언덕에는 구시가지와 루딘 성(Ruthin Castle), 세인트 피터 광장(Saint Peter's Square)이 있다라고 답하였다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "004783-1",
+            "prevTimeInfo": {
+                "timeNum": "5",
+                "timeUnit": "주"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004783-2",
+            "sessionKeywords": [
+                "*알비냐노*,*알비냐노*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600048",
+                    "participantID": "E0011",
+                    "utterance": " 5주전에 내가 루딘에 대해서 물어봤던거 기억나?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800229000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "네 영국도시 루딘에 대해서 물어보셨었죠",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800269000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600048",
+                    "participantID": "E0011",
+                    "utterance": "오 이번엔 알비냐노에 대해서 물어볼까 해! 알비냐노에 대해서도 좀 알려줄래?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800300000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "알비냐노는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있어요",
+                    "context": {
+                        "query": "알비냐노",
+                        "contents": [
+                            {
+                                "documentID": "920356",
+                                "documentTitle": "알비냐노",
+                                "content": [
+                                    "알비냐노()는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있다.",
+                                    "이곳의 주요 볼거리는 산타 마리아 디 쿠불테리아(Santa Maria di Cubulteria)의 바실리카, 롬바르드 건축물(8-9세기)과 아라고네세 성(Aragonese Castle)이다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false
+                        ]
+                    ],
+                    "summary": "알비냐노는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있다.",
+                    "timestamp": 1695800323000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600048",
+                    "participantID": "E0011",
+                    "utterance": "나 이탈리아 너무너무 좋아하잖아. 거기 관광할 것들도 있어?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 이탈리아를 좋아한다.",
+                    "timestamp": 1695800373000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "알비냐노는 이곳의 주요 볼거리는 산타 마리아 디 쿠불테리아(Santa Maria di Cubulteria)의 바실리카, 롬바르드 건축물과 아라고네세 성(Aragonese Castle)이에요.",
+                    "context": {
+                        "query": "알비냐노",
+                        "contents": [
+                            {
+                                "documentID": "920356",
+                                "documentTitle": "알비냐노",
+                                "content": [
+                                    "알비냐노()는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있다.",
+                                    "이곳의 주요 볼거리는 산타 마리아 디 쿠불테리아(Santa Maria di Cubulteria)의 바실리카, 롬바르드 건축물(8-9세기)과 아라고네세 성(Aragonese Castle)이다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            true
+                        ]
+                    ],
+                    "summary": "알비냐노는 이곳의 주요 볼거리는 산타 마리아 디 쿠불테리아(Santa Maria di Cubulteria)의 바실리카, 롬바르드 건축물과 아라고네세 성(Aragonese Castle)이다.",
+                    "timestamp": 1695800392000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600048",
+                    "participantID": "E0011",
+                    "utterance": "옛 성과 어우러진 아주 아름다운 도시일 것 같아. 가보고 싶다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800513000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "한 번 쯤 방문해보시는 것도 좋을 것 같아요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800553000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600048",
+                    "participantID": "E0011",
+                    "utterance": "그래! 나 요즘 새로운 취미를 만들고 싶어. 뭐 추천해줄만한 것 있니?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800587000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "콘솔게임은 어떠세요? 추천글들이 많아요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800609000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600048",
+                    "participantID": "E0011",
+                    "utterance": "난 콘솔게임에는 관심이 없어. 추천해줬는데 미안해.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 콘솔게임에 관심이 없다.",
+                    "timestamp": 1695800625000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "그런걸로 미안해하실 필요 없습니다. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800647000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600048",
+                    "participantID": "E0011",
+                    "utterance": "그렇게 말해주다니 감동이다. 나 이제 그만 쉬러 갈게 안녕~",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800666000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "네 알겠습니다. 잘 쉬시길 바라요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800684000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 이탈리아를 좋아한다.",
+                    "나는 콘솔게임에 관심이 없다."
+                ],
+                "wizard": [
+                    "알비냐노는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있다.",
+                    "알비냐노는 이곳의 주요 볼거리는 산타 마리아 디 쿠불테리아(Santa Maria di Cubulteria)의 바실리카, 롬바르드 건축물과 아라고네세 성(Aragonese Castle)이다."
+                ],
+                "dialogSummary": "질문자는 알비냐노에 대해서 질문하였고, 챗봇은 알비냐노는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있으며, 이곳의 주요 볼거리는 산타 마리아 디 쿠불테리아(Santa Maria di Cubulteria)의 바실리카, 롬바르드 건축물과 아라고네세 성(Aragonese Castle)이라고 답해주었다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 요즘 관광지에 대한 책을 읽고 있다.",
+                    "나는 블루베리를 아주 좋아한다."
+                ],
+                "wizard": [
+                    "루딘은 영국 웨일스 북부의 덴비셔의 관청 소재 도시이며 인구는 약 5,000명이다",
+                    "루딘은 문헌상 7백 년이 넘는 역사를 지니고 있으며 훌륭한 건축 유산을 보유하고 있고 웨일스에서 가장 규모가 큰 가축 경매 시장이 열린다.",
+                    "루딘은 클루이드 계곡 남쪽의 고지대에 위치하고 있으며 읍내에서 가장 높은 언덕에는 구시가지와 루딘 성(Ruthin Castle), 세인트 피터 광장(Saint Peter's Square)이 있다."
+                ]
+            }
+        }
+    ]
+}

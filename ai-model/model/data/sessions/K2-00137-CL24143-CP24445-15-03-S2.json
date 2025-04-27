@@ -1,0 +1,417 @@
+{
+  "FileInfo": {
+    "filename": "K2-00137-CL24143-CP24445-15-03-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "1255",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "1254",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "사무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00137"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "24143",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 새에 관심 없다.",
+        "나는 영어영문학 전공이다.",
+        "나는 힙합 음악을 좋아한다.",
+        "나는 카푸치노를 좋아한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "24445",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 라쿤을 키우고 싶다.",
+        "나는 축구부 동아리에 관심 없다.",
+        "나는 시를 좋아한다.",
+        "나는 아이스 카페라테를 매일 2잔 이상 마신다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "15-03",
+    "topicType": "시사/사회>타국가이슈(해외)",
+    "topicTitle": "바이러스"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00137-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "24143",
+          "participantID": "1255",
+          "utterance": "저는 20대 여자입니다~ 잘부탁드려용><",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-10-26",
+          "time": "21:30:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24445",
+          "participantID": "1254",
+          "utterance": "반갑습니당^^ 저도 20대 여자랍니다~",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-10-26",
+          "time": "21:30:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24143",
+          "participantID": "1255",
+          "utterance": "제 소개부터하자면 영어영문학을 전공해서 학원 영어 강사로 일하고 있습니다~",
+          "summary": "나는 영어영문학 전공이다. 나는 학원 영어 강사이다.",
+          "date": "2022-10-26",
+          "time": "21:31:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24445",
+          "participantID": "1254",
+          "utterance": "저는 물리치료학과가 전공인 대학생입니다^^",
+          "summary": "나는 물리치료학과가 전공이다. 대학생이다.",
+          "date": "2022-10-26",
+          "time": "21:31:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24143",
+          "participantID": "1255",
+          "utterance": "오! 전문직을 하고 계시네요.. 대학생활 재밌죠..?ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "21:31:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24445",
+          "participantID": "1254",
+          "utterance": "재밌죠~~ 근데 스트레스 받는건 있답니다..",
+          "summary": "나는 스트레스를 받는다.",
+          "date": "2022-10-26",
+          "time": "21:31:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24143",
+          "participantID": "1255",
+          "utterance": "어떤게 스트레스인지 물어봐도 돼요?",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "21:32:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24445",
+          "participantID": "1254",
+          "utterance": "제가 시를 좋아해서 독서 동아리 들어가고 싶은데 친구가 관심없는 축구부 동아리에 들어가자고해서ㅜㅜ.",
+          "summary": "나는 시를 좋아한다. 축구부 동아리에 관심 없다.",
+          "date": "2022-10-26",
+          "time": "21:32:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24143",
+          "participantID": "1255",
+          "utterance": "친구가 남자인가봐요..? 축구부 동아리면ㅎㅎ남자가 들어갈법한데.",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "21:32:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24445",
+          "participantID": "1254",
+          "utterance": "하하 아니요^^축구부 동아리 매니저로요..친구 남자친구가 거기 있거든요!",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "21:32:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24143",
+          "participantID": "1255",
+          "utterance": "아~ 그럼 들어가지마세요^^저는 대학다닐떄 힙합 동아리여서ㅋㅋ아직도 힙합음악 좋아해요~",
+          "summary": "나는 힙합 음악을 좋아한다.",
+          "date": "2022-10-26",
+          "time": "21:33:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24445",
+          "participantID": "1254",
+          "utterance": "이야 힙합 멋진데요? 저도 오늘부터 힙합 들어봐야겠어요~",
+          "summary": "나는 오늘부터 힙합 들어볼 것이다.",
+          "date": "2022-10-26",
+          "time": "21:33:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24143",
+          "participantID": "1255",
+          "utterance": "ㅋㅋㅋ힙합을 들으면 뭔가 제가 뭐된 기분이라 좋아요~ 저 우선 카푸치노 좋아해서 한잔 사가지고 올게요^^",
+          "summary": "나는 카푸치노를 좋아한다.",
+          "date": "2022-10-26",
+          "time": "21:33:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24445",
+          "participantID": "1254",
+          "utterance": "저도 아이스 카페라떼 좋아해서 매일 2잔이상 마시는데..!! 저도 갔다올게요~",
+          "summary": "나는 아이스 카페라테를 매일 2잔 이상 마신다.",
+          "date": "2022-10-26",
+          "time": "21:34:10",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 영어영문학 전공이다. 나는 학원 영어 강사이다.",
+          "나는 힙합 음악을 좋아한다.",
+          "나는 카푸치노를 좋아한다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 물리치료학과가 전공이다. 대학생이다.",
+          "나는 스트레스를 받는다.",
+          "나는 시를 좋아한다. 축구부 동아리에 관심 없다.",
+          "나는 오늘부터 힙합 들어볼 것이다.",
+          "나는 아이스 카페라테를 매일 2잔 이상 마신다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00137-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00137-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "24143",
+          "participantID": "1255",
+          "utterance": "세시간정도 지났는데 뭐하고 계세요?ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "21:34:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24445",
+          "participantID": "1254",
+          "utterance": "저 라쿤 키우고 싶어서.. 부모님한테 쪼르는중이예요^^",
+          "summary": "나는 라쿤을 키우고 싶다.",
+          "date": "2022-10-26",
+          "time": "21:34:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24143",
+          "participantID": "1255",
+          "utterance": "헉.. 반려동물로 라쿤도 키울수있어요..?",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "21:34:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24445",
+          "participantID": "1254",
+          "utterance": "그럼요!! 근데 부모님은 안된다고 하시네욥..힝..선생님은 일하시나요?",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "21:35:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24143",
+          "participantID": "1255",
+          "utterance": "네~ 저는 곧 수업들어가봐야하는데 오늘 코로나 바이러스 걸린 학생이 많아서 수업듣는 학생이 별로 없네요.",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "21:35:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24445",
+          "participantID": "1254",
+          "utterance": "선생님은 코로나 걸려보셨나요? 저는 코로나 걸려봤거든요.",
+          "summary": "나는 코로나에 걸려봤다.",
+          "date": "2022-10-26",
+          "time": "21:35:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24143",
+          "participantID": "1255",
+          "utterance": "저는 아직 한번도 없어요ㅠㅠ후유증이 심하다던데 정말 그런가요?",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "21:35:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24445",
+          "participantID": "1254",
+          "utterance": "면역이 강하시네요.. 바이러스 만만하게 봤는데 아니더라구요ㅠㅠ힘들었어요.",
+          "summary": "나는 바이러스를 만만하게 봤다.",
+          "date": "2022-10-26",
+          "time": "21:36:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24143",
+          "participantID": "1255",
+          "utterance": "아 그래요..?ㅠㅠ한번쯤 다 걸려야 끝나는 거라면 차라리 빨리 걸리고싶네요.",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "21:36:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24445",
+          "participantID": "1254",
+          "utterance": "맞아요! 선생님은 코로나 바이러스 안걸리게 항상 조심하세요..>!!",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "21:36:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24143",
+          "participantID": "1255",
+          "utterance": "근데 곧 수업들어가야하는데 새가 하도 지저귀니까 신경쓰이네요..하하 새에 관심없는데 오늘따라 거슬려요^^",
+          "summary": "나는 새에 관심 없다.",
+          "date": "2022-10-26",
+          "time": "21:37:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24445",
+          "participantID": "1254",
+          "utterance": "새 자연의 소리같고 좋지 않나요..?",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "21:37:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24143",
+          "participantID": "1255",
+          "utterance": "어휴.. 저는 새 발이 너무 징그러워서.. 싫어요ㅠㅠ우선 수업 다녀올게요^^",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "21:37:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24445",
+          "participantID": "1254",
+          "utterance": "하하 그럴수 있죠...수업 다녀오세용ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "21:37:54",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 새에 관심 없다."
+        ],
+        "speaker2": [
+          "나는 라쿤을 키우고 싶다.",
+          "나는 코로나에 걸려봤다.",
+          "나는 바이러스를 만만하게 봤다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 영어영문학 전공이다. 나는 학원 영어 강사이다.",
+          "나는 힙합 음악을 좋아한다.",
+          "나는 카푸치노를 좋아한다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 물리치료학과가 전공이다. 대학생이다.",
+          "나는 스트레스를 받는다.",
+          "나는 시를 좋아한다. 축구부 동아리에 관심 없다.",
+          "나는 오늘부터 힙합 들어볼 것이다.",
+          "나는 아이스 카페라테를 매일 2잔 이상 마신다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "FileInfo": {
+    "filename": "K2-00089-CL31603-CP30746-12-04-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0688",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0709",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00089"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "31603",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 20년 후 배우자와 행복하게 사는 것이 목표이다.",
+        "나는 매우 낙천적이다.",
+        "나는 록 음악을 자주 듣는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "30746",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 항공기 객실 승무원이다.",
+        "나는 종교 여행을 가끔 간다.",
+        "나는 사과를 싫어한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "12-04",
+    "topicType": "여가와 오락>여행",
+    "topicTitle": "여행 팁"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00089-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31603",
+          "participantID": "0688",
+          "utterance": "좋은 아침 입니다! 저는 30대 여자에요 ~ 편하게 소통해요 !",
+          "summary": "나는 30대이다. 나는 여자이다.",
+          "date": "2022-09-30",
+          "time": "08:58:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30746",
+          "participantID": "0709",
+          "utterance": "좋은아침입니다~저도 30대 남자입니다! 편하게 대화해요~",
+          "summary": "나는 30대이다. 나는 남자이다.",
+          "date": "2022-09-30",
+          "time": "08:58:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31603",
+          "participantID": "0688",
+          "utterance": "이렇게 아침에 커피한잔에 음악들을때면, 누군가 옆에 있었으면 하네요 ㅎㅎ..",
+          "summary": "나는 커피 한잔하면서 음악을 듣고 있다.",
+          "date": "2022-09-30",
+          "time": "08:59:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30746",
+          "participantID": "0709",
+          "utterance": "평화롭네요~아침에 음악 들으시면서 커피 한잔이라니ㅎㅎ.",
+          "summary": "",
+          "date": "2022-09-30",
+          "time": "08:59:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31603",
+          "participantID": "0688",
+          "utterance": "그러니까요. 제 목표가 20년후에 배우자와 행복하게 사는거거든요.",
+          "summary": "나는 20년 후 배우자와 행복하게 사는 것이 목표이다.",
+          "date": "2022-09-30",
+          "time": "08:59:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30746",
+          "participantID": "0709",
+          "utterance": "아~목표가 뚜렸하시네요! 좋은 목표인것 같아요!",
+          "summary": "",
+          "date": "2022-09-30",
+          "time": "08:59:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31603",
+          "participantID": "0688",
+          "utterance": "충분히 이룰꺼 같네요.. 제가 매우 낙천적이라서 그런걸까요?",
+          "summary": "나는 매우 낙천적이다.",
+          "date": "2022-09-30",
+          "time": "08:59:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30746",
+          "participantID": "0709",
+          "utterance": "아니에요! 충분합니다! 근데 무슨 음악 듣고 계세요?",
+          "summary": "",
+          "date": "2022-09-30",
+          "time": "08:59:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31603",
+          "participantID": "0688",
+          "utterance": "그렇게 말해 주셔서 고맙네요. 음악은 저는 록 음악 자주 들어요.",
+          "summary": "나는 록 음악을 자주 듣는다.",
+          "date": "2022-09-30",
+          "time": "08:59:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30746",
+          "participantID": "0709",
+          "utterance": "좋네요! 저는 항공기 객실 승무원인데 오늘 간만에 쉬는날이에요~",
+          "summary": "나는 항공기 객실 승무원이다.",
+          "date": "2022-09-30",
+          "time": "09:00:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31603",
+          "participantID": "0688",
+          "utterance": "그러시구나 ! 이런 오랜만에 쉬는날에는 어떻게 보내세요?",
+          "summary": "",
+          "date": "2022-09-30",
+          "time": "09:00:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30746",
+          "participantID": "0709",
+          "utterance": "종교 여행을 가끔 가는데 이번에는 쉬는날이 짧아서 좀 힘들것 같네요!",
+          "summary": "나는 종교 여행을 가끔 간다.",
+          "date": "2022-09-30",
+          "time": "09:00:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31603",
+          "participantID": "0688",
+          "utterance": "아쉽겠네요. 저는 집 청소좀 하러 가볼께요 ~ 일찍 일어난김에 !!",
+          "summary": "",
+          "date": "2022-09-30",
+          "time": "09:00:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30746",
+          "participantID": "0709",
+          "utterance": "알겠습니다! 그럼 잘 하시고 또 연락주세요~",
+          "summary": "",
+          "date": "2022-09-30",
+          "time": "09:00:48",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대이다. 나는 여자이다.",
+          "나는 커피 한잔하면서 음악을 듣고 있다.",
+          "나는 20년 후 배우자와 행복하게 사는 것이 목표이다.",
+          "나는 매우 낙천적이다.",
+          "나는 록 음악을 자주 듣는다."
+        ],
+        "speaker2": [
+          "나는 30대이다. 나는 남자이다.",
+          "나는 항공기 객실 승무원이다.",
+          "나는 종교 여행을 가끔 간다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00089-1",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00089-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31603",
+          "participantID": "0688",
+          "utterance": "안녕하세요 ! 한달만에 연락 드리는거 같아요 ~",
+          "summary": "",
+          "date": "2022-09-30",
+          "time": "09:01:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30746",
+          "participantID": "0709",
+          "utterance": "진짜 오랜만이네요~다시 연락하게 되어 반갑습니다!",
+          "summary": "",
+          "date": "2022-09-30",
+          "time": "09:01:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31603",
+          "participantID": "0688",
+          "utterance": "이번에 혼자 여행 떠나게 되어가지고요 !! 스튜어디스셔서 뭐좀 물어 보려구요 !",
+          "summary": "나는 이번에 혼자 여행을 가기로 했다.",
+          "date": "2022-09-30",
+          "time": "09:01:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30746",
+          "participantID": "0709",
+          "utterance": "아~혼자 여행가시는구나! 얼마든지 물어보세요ㅎㅎ.",
+          "summary": "",
+          "date": "2022-09-30",
+          "time": "09:01:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31603",
+          "participantID": "0688",
+          "utterance": "제가 처음으로 해외여행 떠나는데, 뭐 여행팁 같은거 없을까요?",
+          "summary": "나는 처음으로 해외여행을 간다.",
+          "date": "2022-09-30",
+          "time": "09:01:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30746",
+          "participantID": "0709",
+          "utterance": "팁이라고 할게 있나요? 그냥 재미있게 잘 놀고 즐기는게 중요하죠!",
+          "summary": "",
+          "date": "2022-09-30",
+          "time": "09:01:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31603",
+          "participantID": "0688",
+          "utterance": "ㅎㅎ.. 그게 팁인가요? 좀 실질적인거 없을까요?",
+          "summary": "",
+          "date": "2022-09-30",
+          "time": "09:02:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30746",
+          "participantID": "0709",
+          "utterance": "진짜 이게 가장 중요한 팁이에요! 별거 없습니다!ㅎㅎ.",
+          "summary": "",
+          "date": "2022-09-30",
+          "time": "09:02:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31603",
+          "participantID": "0688",
+          "utterance": "생각 해보니 그렇네요. 뭔 팁을 원했을까요. 사실 제 마인드가 중요한것을 ㅎㅎ..",
+          "summary": "",
+          "date": "2022-09-30",
+          "time": "09:02:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30746",
+          "participantID": "0709",
+          "utterance": "맞아요! 좋아하시는 록 음악도 많이 들으시면서 여유를 즐기세요!",
+          "summary": "",
+          "date": "2022-09-30",
+          "time": "09:02:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31603",
+          "participantID": "0688",
+          "utterance": "하하.. 그러면 되겠네요 진짜.. 근데 저 어디로 가는지 안궁금하세요?",
+          "summary": "",
+          "date": "2022-09-30",
+          "time": "09:02:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30746",
+          "participantID": "0709",
+          "utterance": "그러네요!ㅎㅎ여행은 어디로 가시기로 하셨는데요?",
+          "summary": "",
+          "date": "2022-09-30",
+          "time": "09:02:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31603",
+          "participantID": "0688",
+          "utterance": "저 일본에 가기로 했거든요 ! 여튼 여행가기전에 또 연락 드릴께요 ! 저는 아침밥 먹으러 가볼께요 ~",
+          "summary": "나는 일본으로 여행을 간다.",
+          "date": "2022-09-30",
+          "time": "09:03:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30746",
+          "participantID": "0709",
+          "utterance": "아~일본가시는구나! 잘 다녀오세요! 저는 집에 싫어하는 사과만 잔뜩있어서 난감하네요!",
+          "summary": "나는 사과를 싫어한다.",
+          "date": "2022-09-30",
+          "time": "09:03:13",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 이번에 혼자 여행을 가기로 했다.",
+          "나는 처음으로 해외여행을 간다.",
+          "나는 일본으로 여행을 간다."
+        ],
+        "speaker2": [
+          "나는 사과를 싫어한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대이다. 나는 여자이다.",
+          "나는 커피 한잔하면서 음악을 듣고 있다.",
+          "나는 20년 후 배우자와 행복하게 사는 것이 목표이다.",
+          "나는 매우 낙천적이다.",
+          "나는 록 음악을 자주 듣는다."
+        ],
+        "speaker2": [
+          "나는 30대이다. 나는 남자이다.",
+          "나는 항공기 객실 승무원이다.",
+          "나는 종교 여행을 가끔 간다."
+        ]
+      }
+    }
+  ]
+}
