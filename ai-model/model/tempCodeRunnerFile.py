@@ -1,18 +1,16 @@
 # [코드 기능 요약]
 # 1. CLIP 기반 멀티모달(이미지+텍스트) 분류 및 임베딩 학습 시스템
 # 2. 주요 기능:
-#   - 색상/물건/조합 데이터 분리 학습 및 평가 (각 분류 헤드 및 조합 분류 지원)
+#   - 색상/물건/조합 데이터 분리 학습 및 평가
 #   - Focal Loss로 클래스 불균형 완화
-#   - 클래스별 오버샘플링 및 동의어 정규화(색상/물건)
-#   - 강화된 이미지 증강 파이프라인
-#   - warmup 단계(초기 epoch 동안 color/object만 학습) 및 동적 combined loss 가중치 적용
-#   - contrastive loss(이미지-텍스트 임베딩 정렬) 동시 학습
-#   - t-SNE 기반 3D 임베딩 시각화 (이미지/텍스트 동시)
 #   - FAISS를 통한 고속 텍스트→이미지 검색
-# 3. 학습 전략:
-#   - 혼합 정밀도(Mixed Precision) 학습(GPU)
-#   - 조기 종료(Early Stopping), ReduceLROnPlateau 학습률 스케줄링
-#   - 타입별 DataLoader 및 분리된 검증/학습 평가
+#   - t-SNE 기반 3D 임베딩 시각화 (이미지/텍스트 동시)
+# 3. 데이터 처리:
+#   - 동의어 정규화(색상/물건)
+#   - 강화된 이미지 증강
+# 4. 학습 전략:
+#   - 혼합 정밀도(Mixed Precision) 학습
+#   - 조기 종료(Early Stopping), 학습률 스케줄링
 
 import os  
 import sys  
@@ -629,5 +627,3 @@ if __name__ == "__main__":
     trainer.faiss_search(trainer.val_object_loader, trainer.val_object_loader, k=3)
     print("FAISS 기반 텍스트→이미지 검색 (combined)")
     trainer.faiss_search(trainer.val_combined_loader, trainer.val_combined_loader, k=3)
-    
-    
