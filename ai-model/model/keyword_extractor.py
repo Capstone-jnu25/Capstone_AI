@@ -193,6 +193,7 @@ class StopwordAwareTFIDF:
         model_path = os.path.join(self.data_dir, filename)
         os.makedirs(os.path.dirname(model_path), exist_ok=True)
         model_data = {
+<<<<<<< HEAD
             #주어진 텍스트를 파싱해서 각 단어의 빈도수를 세는 알고리즘 저장
             'vectorizer': self.vectorizer, 
             
@@ -200,6 +201,10 @@ class StopwordAwareTFIDF:
             'transformer': self.transformer,
             
             #바이너리 파일로 저장된 위의 것들이 어떤 단어에 해당하는지 알려주는 리스트
+=======
+            'vectorizer': self.vectorizer,
+            'transformer': self.transformer,
+>>>>>>> 7231f4b1af3f192b4c0ea3784690267cfb6153fc
             'feature_names': self.feature_names,
             'stopwords': self.stopwords,
             'police_keywords': self.police_keywords
