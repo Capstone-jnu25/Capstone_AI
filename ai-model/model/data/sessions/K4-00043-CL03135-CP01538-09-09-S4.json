@@ -1,0 +1,837 @@
+{
+  "FileInfo": {
+    "filename": "K4-00043-CL03135-CP01538-09-09-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0084",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "기능직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0062",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00043"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "03135",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 가족과 갈등 있을 때가 많다.",
+        "나는 화덕 피자를 좋아한다.",
+        "나는 집배원이다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "01538",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 동료와 사이가 안 좋다.",
+        "나는 낫토를 안 먹는다.",
+        "나는 일주일에 한두 번 걸어서 출퇴근한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "09-09",
+    "topicType": "개인 및 관계>반려동물",
+    "topicTitle": "반려동물 미용"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00043-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "안녕하세요. 저는 40대 남자입니다.",
+          "summary": "나는 40대 남자이다.",
+          "date": "2022-08-01",
+          "time": "14:12:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "안녕하세요. 저는 20대 여자입니다!",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-08-01",
+          "time": "14:12:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "안녕하세요! 혹시 반려동물 은 키우시나요?",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:12:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "반려동물은 따로 안 키워요~ 선생님은 키우시나요??",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:12:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "저는 강아지 한마리 키우고 있어요.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:13:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "오 그러시구나. 어떤 강아지 키우세요?",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:13:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "저는 푸들을 키우고 있는데요. 강아지 미용이 참 힘드네요.",
+          "summary": "나는 푸들을 키우고, 강아지 미용이 참 힘들다고 느낀다.",
+          "date": "2022-08-01",
+          "time": "14:13:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "오 푸들이요~ 아 미용이 힘든가요? ㅠ.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:14:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "그니까요. 애완동물 미용을 미용사한테 맡기면요. 엄청 비싸요..",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:14:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "아... 비용이 만만치 않군요. 그럼 직접 하시는 거예요??",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:15:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "네.. 비용이 너무 비싸서요 직접 하고 있는데 직접 하는건 또 안 예쁘고..",
+          "summary": "미용사한테 맡기면 비용이 비싸서 직접 한다.",
+          "date": "2022-08-01",
+          "time": "14:15:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "와... 근데 직접하시려면 정말 힘들거 같아요.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:15:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "어떻게든 해보고 있어요. 그래도 하다보니까 좀 느네요.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:16:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "오 대단하세요! 저는 엄두도 못 낼거 같네요.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:16:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "ㅎㅎ 감사합니다. 저는 이만 일이 밀려서 가볼게요! 안녕히 계세요.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:16:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "네 저도 이만 가볼게요~ 대화 즐거웠습니다!",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:16:38",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다.",
+          "나는 푸들을 키우고, 강아지 미용이 참 힘들다고 느낀다.",
+          "미용사한테 맡기면 비용이 비싸서 직접 한다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00043-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00043-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "안녕하세요? 요즘 어떻게 지내세요?",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:16:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "안녕하세요. 저는 일주일에 한 두 번 걸어서 출퇴근하는데요. 참 덥네요. ㅎㅎ.",
+          "summary": "나는 일주일에 한두 번 걸어서 출퇴근한다.",
+          "date": "2022-08-01",
+          "time": "14:17:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "요즘 날씨가 참 덥죠. 강아지랑 산책 나갈때마다 힘들어 죽겠어요.",
+          "summary": "나는 요즘 강아지랑 산책할 때 날씨 때문에 힘들다.",
+          "date": "2022-08-01",
+          "time": "14:17:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "네 그러니까요. ㅠㅠ 이게 더이상 걸어다닐만한 날씨는 아닌거 같아요.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:17:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "그러니까요. 그냥 에어컨 있는 집에 있는게 짱이에요.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:18:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "맞아요. ㅎㅎㅎ 업무 시간에도 집에 있을 수 있음 참 좋겠네요!",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:18:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "그러니까요. 혹시 나가서 일을 하시는 직종인가요?",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:19:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "아 저는 일반 사무직이라 회사 내에서 근무를 하긴 하지만 그래도 재택을 좀 해보고 싶네요.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:19:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "당연히 그렇죠. 재택이 훨씬 편하고 능률이 많이 오르잖아요.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:20:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "그러니까요..! 초기 코로나 이후론 재택이 싹 사라져서 아쉬워요.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:20:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "그러게요. 저는 그런데 나가서 하는 직종이라 재택이 꿈이에요..",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:20:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "아 혹시 어떤 일 하시나요??",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:20:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "저는 집배원으로 일하고 있어요.",
+          "summary": "나는 집배원이다.",
+          "date": "2022-08-01",
+          "time": "14:20:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "오우 그럼 체력적으로 많이 힘들지는 않으세요?",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:21:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "힘들죠 아무래도.. 요즘은 쓰러질것 같아요. 저는 이만 좀 쉬러 가볼게요!",
+          "summary": "요즘은 일하는 게 너무 힘들다.",
+          "date": "2022-08-01",
+          "time": "14:21:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "아이고.. 화이팅입니다ㅠ! 네 저도 이만 업무 때문에 가볼게요!",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:21:43",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 요즘 강아지랑 산책할 때 날씨 때문에 힘들다.",
+          "나는 집배원이다.",
+          "요즘은 일하는 게 너무 힘들다."
+        ],
+        "speaker2": [
+          "나는 일주일에 한두 번 걸어서 출퇴근한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다.",
+          "나는 푸들을 키우고, 강아지 미용이 참 힘들다고 느낀다.",
+          "미용사한테 맡기면 비용이 비싸서 직접 한다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00043-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00043-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "안녕하세요.어떻게 지내셨어요?",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:21:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "안녕하세요. 저는 조금 못 지냈습니다...",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:22:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "무슨 일 있으세요? 얘기해주세요.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:22:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "최근 동료와 사이가 좀 안좋네요...",
+          "summary": "나는 동료와 사이가 좀 안 좋다.",
+          "date": "2022-08-01",
+          "time": "14:22:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "아 그래요? 왜 그러세요?",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:22:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "제가 낫토를 안 먹는데요. 일식 집에가서 계속 먹으라고 강요를 하더라구요. 몸에 좋다구요..",
+          "summary": "나는 낫토를 먹지 않는다.",
+          "date": "2022-08-01",
+          "time": "14:22:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "헉.. 확실히 싫어하는 음식을 먹으라고 하면 최악이죠.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:22:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "그러니까요. 근데 이 동료가 좀 매사에 강요를 많이 해요. 주관적 경험을 바탕으로요..",
+          "summary": "나의 동료가 나한테 강요를 많이 한다.",
+          "date": "2022-08-01",
+          "time": "14:23:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "진짜 강요는 최악이죠. 저도 가족과 갈등이 있을때가 많은데, 보통 강요 떄문이더라고요.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:23:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "그러니까요.. 본인이 좋으면 그냥 본인이 하면 되는데... 남한테까지 강요를 하니 힘드네요..",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:23:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "네 그니까요.. 그냥 서로 그런가보다 하고 넘어가면 되는데요.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:24:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "그러니까요. 정말 이해가 안가요... 얘기를 해도 좀 불통이라고 해야할까요?",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:24:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "한 번 너무 힘들다고 얘기 해보세요. 어쩔수가 없네요.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:24:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "네... 참 답이 없어서 한 귀로 듣고 흘려야겠어요.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:25:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "한 번 얘기해보세요. 저는 이만 일이 있어서 가볼게요!",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:25:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "이야기 들어주셔서 감사해요! 다음에 봬요!",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:25:35",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [],
+        "speaker2": [
+          "나는 동료와 사이가 좀 안 좋다.",
+          "나는 낫토를 먹지 않는다.",
+          "나의 동료가 나한테 강요를 많이 한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다.",
+          "나는 푸들을 키우고, 강아지 미용이 참 힘들다고 느낀다.",
+          "미용사한테 맡기면 비용이 비싸서 직접 한다.",
+          "나는 요즘 강아지랑 산책할 때 날씨 때문에 힘들다.",
+          "나는 집배원이다.",
+          "요즘은 일하는 게 너무 힘들다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 일주일에 한두 번 걸어서 출퇴근한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00043-3",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00043-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "안녕하세요? 좀 어떠세요?",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:25:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "네 요즘은 그래도 좀 잠잠해져서 다행이에요. 지난번에는 고민상담 해주셔서 감사해요!",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:25:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "그래도 좀 다행이네요. 최근에 좋아하는 음식이 있으신가요?",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:26:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "저는 낫토빼고는 다 좋아하는데 요즘은 시원한 냉면이 생각나요. 선생님은요?",
+          "summary": "나는 냉면을 좋아한다.",
+          "date": "2022-08-01",
+          "time": "14:26:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "저는 화덕피자를 좋아하거든요. 화덕피자 좋아하세요?",
+          "summary": "나는 화덕피자를 좋아한다.",
+          "date": "2022-08-01",
+          "time": "14:26:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "오 화덕피자 좋아하시는구나! 저도 좋아해요~~",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:26:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "아하 그렇군요. 그럼 이렇게 기분이 안좋고 찝찝할땐 맛있는거 먹으러가는게 제일 좋아요.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:27:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "그러니까요! 혹시 자주 가시는 화덕피자집이 있나요?",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:27:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "네! 서울에 있는 화덕피자집이고요. 거기에는 디트로이트 피자도 팔아서 굉장히 맛있어요.",
+          "summary": "나는 디트로이트 피자를 좋아한다.",
+          "date": "2022-08-01",
+          "time": "14:28:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "오 디트로이트 피자는 아직 안 먹어본 거 같아요! 기대되네요!",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:28:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "그럼 언제한번 같이 가실까요?",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:28:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "너무 좋죠~ 한 번 데려가 주세요!",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:28:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "제가 가게되면 한번 쏠게요! 같이 갑시다.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:28:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "어머 너무 감사합니다!!! ㅎㅎ 네 날은 언제가 괜찮으세요?",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:29:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03135",
+          "participantID": "0084",
+          "utterance": "저는 이번 주말이요! 이제 저는 가봐야 할 것 같아요.",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:29:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01538",
+          "participantID": "0062",
+          "utterance": "네 그럼 그날 뵙겠습니다~!!",
+          "summary": "",
+          "date": "2022-08-01",
+          "time": "14:29:43",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 화덕피자를 좋아한다.",
+          "나는 디트로이트 피자를 좋아한다."
+        ],
+        "speaker2": [
+          "나는 냉면을 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다.",
+          "나는 푸들을 키우고, 강아지 미용이 참 힘들다고 느낀다.",
+          "미용사한테 맡기면 비용이 비싸서 직접 한다.",
+          "나는 요즘 강아지랑 산책할 때 날씨 때문에 힘들다.",
+          "나는 집배원이다.",
+          "요즘은 일하는 게 너무 힘들다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 일주일에 한두 번 걸어서 출퇴근한다.",
+          "나는 동료와 사이가 좀 안 좋다.",
+          "나는 낫토를 먹지 않는다.",
+          "나의 동료가 나한테 강요를 많이 한다."
+        ]
+      }
+    }
+  ]
+}

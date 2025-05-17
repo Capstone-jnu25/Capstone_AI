@@ -1,0 +1,463 @@
+{
+  "FileInfo": {
+    "filename": "K2-00009-CL30583-CP32440-09-07-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0163",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0512",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "자영업",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00009"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "30583",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 경호원이다.",
+        "나는 사진을 찍는 것을 싫어한다.",
+        "나는 시를 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "32440",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 연인이 있지만 사이가 좋지 않다.",
+        "나는 프랑스에 가 보고 싶다.",
+        "나는 동화책을 꾸준히 읽는다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "09-07",
+    "topicType": "개인 및 관계>반려동물",
+    "topicTitle": "동물병원"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00009-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "30583",
+          "participantID": "0163",
+          "utterance": "좋은 아침입니다~ 저는 남자예요. 30대구요.",
+          "summary": "나는 30대 남자다.",
+          "date": "2022-09-23",
+          "time": "13:04:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32440",
+          "participantID": "0512",
+          "utterance": "안녕하세요~ 저도 30대 여자입니다. 반가워요.ㅎㅎ.",
+          "summary": "나는 30대 여자다.",
+          "date": "2022-09-23",
+          "time": "13:05:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30583",
+          "participantID": "0163",
+          "utterance": "저는 경호원 일을 하고 있습니다. 여성분은 어떤일 하세요?",
+          "summary": "나는 경호원이다.",
+          "date": "2022-09-23",
+          "time": "13:05:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32440",
+          "participantID": "0512",
+          "utterance": "저는 어린이집 선생님을 하고 있어요~ 경호원 멋지시네요!",
+          "summary": "나는 어린이집 선생님이다.",
+          "date": "2022-09-23",
+          "time": "13:06:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30583",
+          "participantID": "0163",
+          "utterance": "아휴 감사합니다. 선생님이 더 대단하신데요? 남자친구 분은 있으세요?",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "13:06:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32440",
+          "participantID": "0512",
+          "utterance": "아 네. 전 남자친구가 있어요. 요즘 자주 싸워서 참 고민이 많네요...",
+          "summary": "나는 남자 친구가 있다. 나는 남자 친구와 자주 싸운다.",
+          "date": "2022-09-23",
+          "time": "13:07:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30583",
+          "participantID": "0163",
+          "utterance": "흠 어떤 것 때문에 자주 싸우시는 거예요? 참고로 전 솔로예요.",
+          "summary": "\"나는 솔로\"다.",
+          "date": "2022-09-23",
+          "time": "13:07:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32440",
+          "participantID": "0512",
+          "utterance": "해외여행을 어디로 갈지 정하려고 하는데 전 프랑스를 가 보고 싶고 남자친구는 미국으로 가자네요.",
+          "summary": "나는 프랑스를 가 보고 싶다.",
+          "date": "2022-09-23",
+          "time": "13:08:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30583",
+          "participantID": "0163",
+          "utterance": "의견이 다르신거구나. 얘기하다보면 풀릴 문제 같아요. 프랑스엔 왜 가시고 싶은 거예요?",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "13:09:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32440",
+          "participantID": "0512",
+          "utterance": "ㅠㅠ 힘드네요.. 사진찍는걸 좋아하다보니 프랑스 풍경이 참 좋더라구요. 그래서 사진 남기고 싶어서 프랑스를 택했어요.!",
+          "summary": "나는 사진 찍는 것을 좋아한다.",
+          "date": "2022-09-23",
+          "time": "13:11:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30583",
+          "participantID": "0163",
+          "utterance": "아 그러시구나. 저는 사진 찍는 건 싫고, 눈으로 담고 싶어하는 편이라 잘 모르겠네요; 그래도 남자친구분이 맞춰주실 법 한데...",
+          "summary": "나는 사진을 찍는 것을 싫어한다.",
+          "date": "2022-09-23",
+          "time": "13:12:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32440",
+          "participantID": "0512",
+          "utterance": "에휴.. 뭐 결론은 나겠죠! ㅎ 취미는 따로 있으세요?",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "13:13:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30583",
+          "participantID": "0163",
+          "utterance": "취미는 따로 없어요. 저는 출장이 많아서 집에 거북이를 키워요. 거북이 보는게 취미죠ㅋㅋㅋ 여성분은요?",
+          "summary": "나는 출장이 많다. 나는 거북이를 키운다.",
+          "date": "2022-09-23",
+          "time": "13:15:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32440",
+          "participantID": "0512",
+          "utterance": "거북이 귀엽겠네요.ㅎㅎㅎ 저는 아무래도 직업 때문에 동화책과 시를 자주 읽어요. 책 좋아하세요?",
+          "summary": "나는 동화책과 시를 자주 읽는다.",
+          "date": "2022-09-23",
+          "time": "13:15:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30583",
+          "participantID": "0163",
+          "utterance": "네. 저도 책 좋아해요. 시나 동화는 싫어해서 추리소설만 주로 읽어요. 죄송한데 저 잠시 미팅 좀 다녀올게요.",
+          "summary": "나는 추리소설을 좋아한다. 나는 시와 동화를 싫어한다.",
+          "date": "2022-09-23",
+          "time": "13:17:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32440",
+          "participantID": "0512",
+          "utterance": "아하. 네네~ 다녀오시고 연락주세요!",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "13:17:15",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 남자다.",
+          "나는 경호원이다.",
+          "나는 솔로다.",
+          "나는 사진을 찍는 것을 싫어한다.",
+          "나는 출장이 많다. 나는 거북이를 키운다.",
+          "나는 추리소설을 좋아한다. 나는 시와 동화를 싫어한다."
+        ],
+        "speaker2": [
+          "나는 30대 여자다.",
+          "나는 어린이집 선생님이다.",
+          "나는 남자 친구가 있다. 나는 남자 친구와 자주 싸운다.",
+          "나는 프랑스를 가 보고 싶다.",
+          "나는 사진 찍는 것을 좋아한다.",
+          "나는 동화책과 시를 자주 읽는다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00009-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00009-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "30583",
+          "participantID": "0163",
+          "utterance": "오늘 미팅은 1시간만에 일찍 끝났네요~ 뭐하고 계세요?",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "13:17:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32440",
+          "participantID": "0512",
+          "utterance": "저는 밥먹을 준비하고 있었어요! 어떤 회의 하셨어요? 경호원이시면 계속 출장다니시는가..",
+          "summary": "나는 밥 먹을 준비 중이다.",
+          "date": "2022-09-23",
+          "time": "13:18:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30583",
+          "participantID": "0163",
+          "utterance": "주로 연예인 경호 업무를 맡고있다보니 안전한 이동 경로에 대해 미팅해요~ 출장이 잦다보니 거북이 키우는 거구요!",
+          "summary": "나는 연예인 경호 업무를 한다.",
+          "date": "2022-09-23",
+          "time": "13:20:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32440",
+          "participantID": "0512",
+          "utterance": "아 맞다! 거북이.ㅎㅎ 저는 동물은 안키우는데 거북이는 키울만 해요?",
+          "summary": "나는 동물을 키우지 않는다.",
+          "date": "2022-09-23",
+          "time": "13:20:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30583",
+          "participantID": "0163",
+          "utterance": "밥을 자주 안줘도 되고, 물도 일주일에 한번만 갈아주면 되서 편해요~ 동물병원 갈 일도 많이 없구요~",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "13:21:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32440",
+          "participantID": "0512",
+          "utterance": "오~ 그렇구나. 정말 어찌보면 속편한 동물이네요. 사진 한 번 보여주세요!",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "13:21:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30583",
+          "participantID": "0163",
+          "utterance": "집에가면 찍어서 보여드리께요~ 근데 지금 탈피 중이라 안 이쁠지도 몰라요ㅋ 이번에 탈피가 제대로 안되면 동물병원 데려가야해서ㅠㅠ.",
+          "summary": "나의 거북이는 탈피 중이다.",
+          "date": "2022-09-23",
+          "time": "13:22:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32440",
+          "participantID": "0512",
+          "utterance": "헉. 거북이도 탈피를 하는가요? 처음 안 사실이네요..",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "13:23:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30583",
+          "participantID": "0163",
+          "utterance": "크면서 거북이집이 작아지면 탈피해요~ 저도 키우면서 거북이에 대해 공부 많이했어요. 혹시 동물 안키우시는 이유가 따로 있나요?",
+          "summary": "나는 거북이에 대해 공부를 많이 했다.",
+          "date": "2022-09-23",
+          "time": "13:25:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32440",
+          "participantID": "0512",
+          "utterance": "저도 어린이집 가면 늦게 퇴근해서 동물을 키우기가 어렵다 생각해서 못키우고 있었거든요.. 근데 거북이는 괜찮을 것 같은데요?",
+          "summary": "나는 동물을 키우는 것을 어려워한다.",
+          "date": "2022-09-23",
+          "time": "13:26:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30583",
+          "participantID": "0163",
+          "utterance": "퇴근이 늦어서 못 키우시는 거였구나~그래요! 거북이도 애교 있어서 키울 맛 나실거예요~",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "13:27:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32440",
+          "participantID": "0512",
+          "utterance": "너무 귀여울 것 같아요.ㅎㅎ 한 번 알아봐야겠네요! 퇴근은 언제하세요?",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "13:28:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30583",
+          "participantID": "0163",
+          "utterance": "공연 거의 다 마무리되서 차까지만 경호해 드리면 바로 퇴근할수 있을 거 같아요!",
+          "summary": "나는 곧 퇴근할 예정이다.",
+          "date": "2022-09-23",
+          "time": "13:29:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32440",
+          "participantID": "0512",
+          "utterance": "출장가고 그러면 식사는 어떻게 하세요?",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "13:29:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30583",
+          "participantID": "0163",
+          "utterance": "식사는 매일 도시락으로 먹어요ㅎㅎ 공연 끝났네요. 제가 아예 퇴근하고 집가서 연락드릴께요!",
+          "summary": "나는 매일 도시락을 먹는다.",
+          "date": "2022-09-23",
+          "time": "13:30:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32440",
+          "participantID": "0512",
+          "utterance": "잘 챙겨드셔야지요.. 고생하셨구 연락주세요!",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "13:30:43",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 연예인 경호 업무를 한다.",
+          "나의 거북이는 탈피 중이다.",
+          "나는 거북이에 대해 공부를 많이 했다.",
+          "나는 곧 퇴근할 예정이다.",
+          "나는 매일 도시락을 먹는다."
+        ],
+        "speaker2": [
+          "나는 밥 먹을 준비 중이다.",
+          "나는 동물을 키우지 않는다.",
+          "나는 동물을 키우는 것을 어려워한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 남자다.",
+          "나는 경호원이다.",
+          "나는 솔로다.",
+          "나는 사진을 찍는 것을 싫어한다.",
+          "나는 출장이 많다. 나는 거북이를 키운다.",
+          "나는 추리소설을 좋아한다. 나는 시와 동화를 싫어한다."
+        ],
+        "speaker2": [
+          "나는 30대 여자다.",
+          "나는 어린이집 선생님이다.",
+          "나는 남자 친구가 있다. 나는 남자 친구와 자주 싸운다.",
+          "나는 프랑스를 가 보고 싶다.",
+          "나는 사진 찍는 것을 좋아한다.",
+          "나는 동화책과 시를 자주 읽는다."
+        ]
+      }
+    }
+  ]
+}

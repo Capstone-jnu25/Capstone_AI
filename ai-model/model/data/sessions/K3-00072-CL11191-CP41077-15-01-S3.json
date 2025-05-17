@@ -1,0 +1,624 @@
+{
+  "FileInfo": {
+    "filename": "K3-00072-CL11191-CP41077-15-01-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4126",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "자영업",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "3178",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "전문직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00072"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "11191",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 10대이다.",
+        "나의 어머니는 은행원이다",
+        "내가 좋아하는 과목은 생물이다",
+        "나는 액션 영화를 가끔 본다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "41077",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 다소 긍정적이다",
+        "나는 가족과 이야기를 많이 나눈다",
+        "나는 판타지 영화를 좋아한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "15-01",
+    "topicType": "시사/사회>타국가이슈(해외)",
+    "topicTitle": "사건 및 사고"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00072-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "안녕하세요 저는 10대 여성입니다",
+          "summary": "나는 10대 여성이다",
+          "date": "2022-11-04",
+          "time": "17:55:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "안녕하세요 저는 40대 남성입니다",
+          "summary": "나는 40대 남성이다.",
+          "date": "2022-11-04",
+          "time": "18:12:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "직업이 어떻게 되세요? 저는 학생입니다",
+          "summary": "나는 학생이다",
+          "date": "2022-11-04",
+          "time": "18:13:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "저는 회사원입니다. 저는 긍정적인 성격이라 회사생활이 즐겁습니다",
+          "summary": "나는 회사원이며 긍정적인 성격으로 회사생활이 즐겁다.",
+          "date": "2022-11-04",
+          "time": "18:13:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "저희 어머니는 은행원이신데 스트레스를 많이 받으시는 것 같아요",
+          "summary": "나의 어머니는 은행원 이신대 스트레스를 많이 받는다",
+          "date": "2022-11-04",
+          "time": "18:15:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "스트레스를 많이 받으면 건강에도 영향이 있습니다.  저는 스트레스를 받으면 영화를 봅니다. ",
+          "summary": " 나는 스트레스를 받으면 영화를 본다.",
+          "date": "2022-11-04",
+          "time": "18:17:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "저도 액션영화를 가끔 보는데 격한 액션을 보면 스트레스 해소가 되더라구요",
+          "summary": "나는 액션 영화를 보면 스트레스가 해소된다",
+          "date": "2022-11-04",
+          "time": "18:18:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "저는 판타지 영화를 좋아합니다 현실에서 벗어난 느낌이에요",
+          "summary": "나는 판타지 영화를 좋아한다.",
+          "date": "2022-11-04",
+          "time": "18:19:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "그렇군요 제가 좋아하는 과목이 생물인데 그래서 그런지 판타지 영화에 나오는 식물이나 동물에 관심이 가더라구요",
+          "summary": "나는 생물 과목을 좋아하는데 영화에 나오는 식물, 동물에 관심이 간다",
+          "date": "2022-11-04",
+          "time": "18:20:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "그렇군요. 저는 가상의 세계에 푹빠져ㅅ 보는 편입니다.  저는 가족과 이야기를 많이 나누는 편입니다. 가족과 이야기를 많이 하시나요?",
+          "summary": " 나는 가족과 이야기를 많이 나누는 편이다.",
+          "date": "2022-11-04",
+          "time": "18:22:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "네 저는 주로 저녁식사시간에 가족과 이야기를 많이 하는 편이에요 오늘은 저녁에 약속 없으신가요?",
+          "summary": "나는 가족과 저녁시간에 이야기를 많이 한다",
+          "date": "2022-11-04",
+          "time": "18:23:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "네 오늘은 약속이 없습니다. 집에서 푹 쉴 계획입니다",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "18:24:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "저도 오늘은 가족과 함께 보내려구요",
+          "summary": "나는 오늘 가족과 함께 보낼 것이다",
+          "date": "2022-11-04",
+          "time": "18:26:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "그럼 저는 저녁식사를 하고 오겠습니다",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "18:26:18",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 10대 여성이다",
+          "나는 학생이다",
+          "나의 어머니는 은행원 이신대 스트레스를 많이 받는다",
+          "나는 액션 영화를 보면 스트레스가 해소된다",
+          "나는 생물 과목을 좋아하는데 영화에 나오는 식물, 동물에 관심이 간다",
+          "나는 가족과 저녁시간에 이야기를 많이 한다",
+          "나는 오늘 가족과 함께 보낼 것이다"
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 회사원이며 긍정적인 성격으로 회사생활이 즐겁다.",
+          "나는 스트레스를 받으면 영화를 본다.",
+          "나는 판타지 영화를 좋아한다.",
+          "나는 가족과 이야기를 많이 나누는 편이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00072-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00072-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "안녕하세요 그동안 잘 지내셨나요? 2주만이네요",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "18:29:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "그동안 잘 지내셨나요?  요즘 해외에는 어떤 사건이 있었는지 아시나요",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "18:30:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "며칠전에 인도에서 다리가 붕괴되었다는 소식을 들었어요 너무 안타깝더라구요..",
+          "summary": "나는 며칠 전 인도에서 다리가 붕괴되었다는 소식을 들었다",
+          "date": "2022-11-04",
+          "time": "18:31:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "아 그런일이 있었군요. 요즘 뉴스를 잘 못봐서 몰랐습니다 우크라이나 전쟁도 빨리 끝나야 할텐데요",
+          "summary": "나는 요즘 뉴스를 잘 보지 않았다. 나는 우크라이나 전쟁이 빨리 끝나야 한다고 생각한다.",
+          "date": "2022-11-04",
+          "time": "18:37:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "맞아요 전쟁때문에 경제도 침체되어 다들 우울해 지는 것 같아요 긍정적인 성격이시라니 부러워요",
+          "summary": "나는 전쟁 때문에 경제도 침체되어 다들 우울해지는 거 같다",
+          "date": "2022-11-04",
+          "time": "18:40:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "긍정적이긴 하나 전쟁과 사건사고는 우울함을 주네요",
+          "summary": "나는 긍정적인 성격이지만 전쟁과 사건사고는 우울감을 준다.",
+          "date": "2022-11-04",
+          "time": "18:47:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "맞아요 코로나도 그렇고 요즘 너무 많은 사건사고가 일어나는 것 같아요",
+          "summary": "나는 요즘 너무 많은 사건사고가 일어나고 있다고 느낀다.",
+          "date": "2022-11-04",
+          "time": "18:48:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "난민 문제도 그렇고 참 많은 일들이 끊임없이 있네요",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "18:49:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "너무 안좋은 뉴스를 많이 접하는 것도 정신건강에 안좋은 것 같아요  그래서 스트레스 해소를 위해 요즘 더 액션 영화를 자주 보게 되네요",
+          "summary": "나는 안 좋은 뉴스를 많이 접하는 것도 정신건강에 안 좋다고 느낀다. 나는 스트레스 해소를 위해 요즘 액션 영화를 자주 본다",
+          "date": "2022-11-04",
+          "time": "18:55:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "그런거 같아요 뉴스를 보면 얼굴 찡그리는 일만 있네요  좋은 뉴스가 많아지면 좋겠는데 말이죠",
+          "summary": " 나는 좋은 뉴스가 많아지면 좋겠다고 생각한다.",
+          "date": "2022-11-04",
+          "time": "19:11:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "네 가족들과도 해외뉴스에 대해 자주 얘기하시나요?",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "19:12:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "밥먹다 보면 아이가 궁금해 하는것을 함께 이야기 하곤 합니다. ",
+          "summary": "나는 아이와 밥을 먹으며 해외 뉴스에 대해 이야기한다.",
+          "date": "2022-11-04",
+          "time": "19:13:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "아이들과 얘기하면 좋은 교육이 될 것 같아요!",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "19:15:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "네 저도 잘 모르는 부분은 함께 찾아보며 이야기 하니 저도 상식이 늘고 아이도 궁금증이 해소됩니다",
+          "summary": "나는 아이와 함께 모르는 부분을 찾아보며 상식이 늘었고 아이의 궁금증도 해소된다.",
+          "date": "2022-11-04",
+          "time": "19:16:00",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 며칠 전 인도에서 다리가 붕괴되었다는 소식을 들었다",
+          "나는 전쟁 때문에 경제도 침체되어 다들 우울해지는 거 같다",
+          "나는 요즘 너무 많은 사건사고가 일어나고 있다고 느낀다.",
+          "나는 안 좋은 뉴스를 많이 접하는 것도 정신건강에 안 좋다고 느낀다.",
+          "나는 스트레스 해소를 위해 요즘 액션 영화를 자주 본다"
+        ],
+        "speaker2": [
+          "나는 요즘 뉴스를 잘 보지 않았다.",
+          "나는 우크라이나 전쟁이 빨리 끝나야 한다고 생각한다.",
+          "나는 긍정적인 성격이지만 전쟁과 사건사고는 우울감을 준다.",
+          "나는 좋은 뉴스가 많아지면 좋겠다고 생각한다.",
+          "나는 아이와 밥을 먹으며 해외 뉴스에 대해 이야기한다.",
+          "나는 아이와 함께 모르는 부분을 찾아보며 상식이 늘었고 아이의 궁금증도 해소된다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 10대 여성이다",
+          "나는 학생이다",
+          "나의 어머니는 은행원 이신대 스트레스를 많이 받는다",
+          "나는 액션 영화를 보면 스트레스가 해소된다",
+          "나는 생물 과목을 좋아하는데 영화에 나오는 식물, 동물에 관심이 간다",
+          "나는 가족과 저녁시간에 이야기를 많이 한다",
+          "나는 오늘 가족과 함께 보낼 것이다"
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 회사원이며 긍정적인 성격으로 회사생활이 즐겁다.",
+          "나는 스트레스를 받으면 영화를 본다.",
+          "나는 판타지 영화를 좋아한다.",
+          "나는 가족과 이야기를 많이 나누는 편이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00072-2",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "주"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00072-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "안녕하세요 거의 한달만이네요 잘 지내셨나요?",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "19:26:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "네 잘 지냈습니다. 그동안 잘 지내셨나요?",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "19:26:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "네 저는 그동안 시험기간이어서 시간이 빨리 지나갔네요",
+          "summary": "나는 시험기간이어서 시간이 빨리 지나갔다",
+          "date": "2022-11-04",
+          "time": "19:27:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "그러셨군요. 저는 년말이라 회사가 바빠서 정신없이 보내고 있습니다",
+          "summary": "나는 연말이라 회사가 바빴다.",
+          "date": "2022-11-04",
+          "time": "19:36:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "바빠서 뉴스도 잘 못보셨겠어요 저도 통 정신이 없었네요~",
+          "summary": "나는 최근에 바빴다.",
+          "date": "2022-11-04",
+          "time": "19:37:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "오랜만에 뉴스를 보니 지금 세계적으로 경제위기인거 같습니다",
+          "summary": "나는 지금 세계적 경제위기인 것 같다.",
+          "date": "2022-11-04",
+          "time": "19:45:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "맞아요 우리나라도 제2의 imf라고들 하더라구요",
+          "summary": "나는 우리나라가 지금 제2의 imf라고 한다는 것을 들었다.",
+          "date": "2022-11-04",
+          "time": "19:49:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "네 지금 주식도 그렇고 금리도 그렇고 전세계적으로 어수선합니다",
+          "summary": "나는 주식, 금리 등 전 세계적으로 어수선하다고 생각한다.",
+          "date": "2022-11-04",
+          "time": "19:57:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "걱정이네요 최근에 본 영화는 있으세요?",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "19:58:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "최근에는 짱구를 봤습니다. 저희 아들과 함께요..ㅎㅎ",
+          "summary": "나는 최근에 아들과 짱구를 봤다.",
+          "date": "2022-11-04",
+          "time": "19:58:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "저도 짱구를 좋아해요! 맹구를 제일 좋아합니다.",
+          "summary": "나는 짱구를 좋아하고, 맹구를 제일 좋아한다",
+          "date": "2022-11-04",
+          "time": "20:02:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "극장판으로 영화관에 가서 봤는데 오랜만에 재미있었습니다",
+          "summary": "나는 극장판 짱구를 영화관에서 봤다.",
+          "date": "2022-11-04",
+          "time": "20:02:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11191",
+          "participantID": "4126",
+          "utterance": "저도 영화관에 조만간 가야겠네요",
+          "summary": "나는 조만간 영화관에 갈 것이다",
+          "date": "2022-11-04",
+          "time": "20:04:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41077",
+          "participantID": "3178",
+          "utterance": "네 이번 주말에 다녀오세요! 즐거우실껍니다",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "20:07:57",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 시험기간이어서 시간이 빨리 지나갔다",
+          "나는 최근에 바빴다.",
+          "나는 우리나라가 지금 제2의 imf라고 한다는 것을 들었다.",
+          "나는 짱구를 좋아하고, 맹구를 제일 좋아한다",
+          "나는 조만간 영화관에 갈 것이다"
+        ],
+        "speaker2": [
+          "나는 연말이라 회사가 바빴다.",
+          "나는 지금 세계적 경제위기인 것 같다.",
+          "나는 주식, 금리 등 전 세계적으로 어수선하다고 생각한다.",
+          "나는 최근에 아들과 짱구를 봤다.",
+          "나는 극장판 짱구를 영화관에서 봤다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 10대 여성이다",
+          "나는 학생이다",
+          "나의 어머니는 은행원 이신대 스트레스를 많이 받는다",
+          "나는 액션 영화를 보면 스트레스가 해소된다",
+          "나는 생물 과목을 좋아하는데 영화에 나오는 식물, 동물에 관심이 간다",
+          "나는 가족과 저녁시간에 이야기를 많이 한다",
+          "나는 오늘 가족과 함께 보낼 것이다",
+          "나는 며칠 전 인도에서 다리가 붕괴되었다는 소식을 들었다",
+          "나는 전쟁 때문에 경제도 침체되어 다들 우울해지는 거 같다",
+          "나는 요즘 너무 많은 사건사고가 일어나고 있다고 느낀다.",
+          "나는 안 좋은 뉴스를 많이 접하는 것도 정신건강에 안 좋다고 느낀다.",
+          "나는 스트레스 해소를 위해 요즘 액션 영화를 자주 본다"
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 회사원이며 긍정적인 성격으로 회사생활이 즐겁다.",
+          "나는 스트레스를 받으면 영화를 본다.",
+          "나는 판타지 영화를 좋아한다.",
+          "나는 가족과 이야기를 많이 나누는 편이다.",
+          "나는 요즘 뉴스를 잘 보지 않았다.",
+          "나는 우크라이나 전쟁이 빨리 끝나야 한다고 생각한다.",
+          "나는 긍정적인 성격이지만 전쟁과 사건사고는 우울감을 준다.",
+          "나는 좋은 뉴스가 많아지면 좋겠다고 생각한다.",
+          "나는 아이와 밥을 먹으며 해외 뉴스에 대해 이야기한다.",
+          "나는 아이와 함께 모르는 부분을 찾아보며 상식이 늘었고 아이의 궁금증도 해소된다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "FileInfo": {
+    "filename": "K2-00094-CL33841-CP33043-19-05-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0618",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0585",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "자영업",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00094"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "33841",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 범죄 영화를 자주 본다.",
+        "나는 자동차 정비원이다.",
+        "나는 가끔 짜증이 난다.",
+        "나는 다림질하는 것을 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "33043",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 20년 후 캠핑카를 구매하는 것이 목표이다.",
+        "나는 경찰이다.",
+        "나는 다소 활발하다.",
+        "나는 강아지를 키우고 싶다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "19-05",
+    "topicType": "예술문화 생활>방송/연예",
+    "topicTitle": "방송채널"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00094-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33841",
+          "participantID": "0618",
+          "utterance": "반갑습니다. 저는 30대 여자에요. 소개 부탁드려요!",
+          "summary": "나는 30대 여자이다.",
+          "date": "2022-10-10",
+          "time": "19:56:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33043",
+          "participantID": "0585",
+          "utterance": "안녕하세요. 저는 30대 남자입니다. 반가워요.",
+          "summary": "나는 30대 남자이다.",
+          "date": "2022-10-10",
+          "time": "19:57:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33841",
+          "participantID": "0618",
+          "utterance": "저는 범죄 영화를 자주 보는데 좋아하는 영화 있으세요?",
+          "summary": "나는 범죄 영화를 자주 본다.",
+          "date": "2022-10-10",
+          "time": "19:57:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33043",
+          "participantID": "0585",
+          "utterance": "저는 영화를 보는 것 보다 캠핑을 좋아해서 20년 후 캠핑카 구매하는 것이 목표입니다.",
+          "summary": "나는 20년 후 캠핑카를 구매하는 것이 목표이다.",
+          "date": "2022-10-10",
+          "time": "19:57:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33841",
+          "participantID": "0618",
+          "utterance": "그러시군요. 저는 자동차 정비원인데, 하시는 일 있으세요?",
+          "summary": "나는 자동차 정비원이다.",
+          "date": "2022-10-10",
+          "time": "19:58:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33043",
+          "participantID": "0585",
+          "utterance": "저는 시민의 안전을 지키는 경찰입니다.",
+          "summary": "나는 경찰이다.",
+          "date": "2022-10-10",
+          "time": "19:58:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33841",
+          "participantID": "0618",
+          "utterance": "그렇군요! 저희는 집에 다림질 하는 옷이 많은데 다림질이 싫어서 가끔 짜증나요. 다림질 자주하세요?",
+          "summary": "나는 다림질하는 것을 싫어한다. 나는 가끔 짜증이 난다.",
+          "date": "2022-10-10",
+          "time": "19:58:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33043",
+          "participantID": "0585",
+          "utterance": "저는 아직 결혼을 안해서 부끄럽지만 어머니가 다려주세요.",
+          "summary": "나는 결혼을 안 했다.",
+          "date": "2022-10-10",
+          "time": "19:59:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33841",
+          "participantID": "0618",
+          "utterance": "그럴 수 있죠. 캠핑은 자주 하시는 편이에요?",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "20:00:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33043",
+          "participantID": "0585",
+          "utterance": "저는 다소 활발해서 집에 있는 것보다 나가서 활동하기 좋아해서 시간나면 꼭 가요.",
+          "summary": "나는 다소 활발하다.",
+          "date": "2022-10-10",
+          "time": "20:00:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33841",
+          "participantID": "0618",
+          "utterance": "그러시군요. 주말에는 그럼 캠핑 가시는 거에요?",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "20:00:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33043",
+          "participantID": "0585",
+          "utterance": "비번인 날에만 갑니다. 시간여유만 있으면 강아지 키우고싶어요.",
+          "summary": "나는 강아지를 키우고 싶다.",
+          "date": "2022-10-10",
+          "time": "20:00:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33841",
+          "participantID": "0618",
+          "utterance": "주말에도 출근하시는 날이 많겠네요, 저는 영화약속이 있어서 다음에 또 봐요.",
+          "summary": "나는 영화 약속이 있다.",
+          "date": "2022-10-10",
+          "time": "20:01:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33043",
+          "participantID": "0585",
+          "utterance": "나는 저녁 출근이 있어서 다음에 봐요~",
+          "summary": "나는 저녁 출근을 한다.",
+          "date": "2022-10-10",
+          "time": "20:01:51",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 범죄 영화를 자주 본다.",
+          "나는 자동차 정비원이다.",
+          "나는 다림질하는 것을 싫어한다. 나는 가끔 짜증이 난다.",
+          "나는 영화 약속이 있다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이다.",
+          "나는 20년 후 캠핑카를 구매하는 것이 목표이다.",
+          "나는 경찰이다.",
+          "나는 결혼을 안 했다.",
+          "나는 다소 활발하다.",
+          "나는 강아지를 키우고 싶다.",
+          "나는 저녁 출근을 한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00094-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00094-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33841",
+          "participantID": "0618",
+          "utterance": "3일만이네요. 지금은 출근하셨을까요?",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "20:02:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33043",
+          "participantID": "0585",
+          "utterance": "지금은 집에서 TV보면서 쉬고 있습니다.",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "20:02:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33841",
+          "participantID": "0618",
+          "utterance": "아- 오늘은 출근을 언제하시는데요?",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "20:02:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33043",
+          "participantID": "0585",
+          "utterance": "오전에 출근했다가 퇴근했어요. 시간이 애매하네요.",
+          "summary": "나는 오전에 출근을 했었다.",
+          "date": "2022-10-10",
+          "time": "20:03:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33841",
+          "participantID": "0618",
+          "utterance": "그렇군요. TV는 무슨 프로그램 보고 계세요?",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "20:03:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33043",
+          "participantID": "0585",
+          "utterance": "저는 주로 뉴스를 많이 봅니다. JTBC 보고 있어요.",
+          "summary": "나는 JTBC를 본다.",
+          "date": "2022-10-10",
+          "time": "20:03:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33841",
+          "participantID": "0618",
+          "utterance": "아~ 경찰이셔서 더 뉴스에 관심이 많으실까요?",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "20:04:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33043",
+          "participantID": "0585",
+          "utterance": "아무래도 사건에 조금 더 관심이 가는 것 같아요.",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "20:05:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33841",
+          "participantID": "0618",
+          "utterance": "다른 예능이나 드라마 채널은 안보세요?",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "20:05:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33043",
+          "participantID": "0585",
+          "utterance": "가끔 TV 음악프로그램 하면 보기도 하는 것 같아요, MNET 보는 것 같아요.",
+          "summary": "나는 가끔 MNET을 본다.",
+          "date": "2022-10-10",
+          "time": "20:06:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33841",
+          "participantID": "0618",
+          "utterance": "그러시군요. 뭔가 짧게 볼 수 있는 프로그램을 선호하시네요?",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "20:06:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33043",
+          "participantID": "0585",
+          "utterance": "드라마같은거 끝까지 한 번에 못 보면 답답해요ㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "20:06:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33841",
+          "participantID": "0618",
+          "utterance": "그럴 수 있죠!ㅋㅋ 저는 자동차 정비 업무가 있어서 가볼게요~",
+          "summary": "나는 자동차 정비를 하러 간다.",
+          "date": "2022-10-10",
+          "time": "20:07:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33043",
+          "participantID": "0585",
+          "utterance": "네, 저는 캠핑카 좀 찾아보려구요. 보기만 해도 좋네요.",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "20:08:23",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 자동차 정비를 하러 간다."
+        ],
+        "speaker2": [
+          "나는 오전에 출근을 했었다.",
+          "나는 JTBC를 본다.",
+          "나는 가끔 MNET을 본다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 범죄 영화를 자주 본다.",
+          "나는 자동차 정비원이다.",
+          "나는 다림질하는 것을 싫어한다. 나는 가끔 짜증이 난다.",
+          "나는 영화 약속이 있다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이다.",
+          "나는 20년 후 캠핑카를 구매하는 것이 목표이다.",
+          "나는 경찰이다.",
+          "나는 결혼을 안 했다.",
+          "나는 다소 활발하다.",
+          "나는 강아지를 키우고 싶다.",
+          "나는 저녁 출근을 한다."
+        ]
+      }
+    }
+  ]
+}

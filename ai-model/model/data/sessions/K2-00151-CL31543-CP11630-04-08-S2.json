@@ -1,0 +1,422 @@
+{
+  "FileInfo": {
+    "filename": "K2-00151-CL31543-CP11630-04-08-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3758",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "3879",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00151"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "31543",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 대학에 진학하지 않았다",
+        "나는 가끔 우울하다",
+        "나는 치킨을 즐겨 먹는다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "11630",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 10대이다.",
+        "나의 어머니는 상담사이다",
+        "나는 체육교육과에 진학하고 싶다",
+        "나는 트로트 음악을 자주 듣는다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "04-08",
+    "topicType": "일과 직업>회사/아르바이트",
+    "topicTitle": "급여"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00151-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31543",
+          "participantID": "3758",
+          "utterance": "안녕하세요 저는 30대 여자입니다.",
+          "summary": "나는 30대 여자이다.",
+          "date": "2022-10-28",
+          "time": "09:48:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11630",
+          "participantID": "3879",
+          "utterance": "저는 안녕하세요 저는 10대 여성입니다.",
+          "summary": "나는 10대 여성이다.",
+          "date": "2022-10-28",
+          "time": "10:02:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31543",
+          "participantID": "3758",
+          "utterance": "반가워요. 저는 요즘 가끔 우울한 것 같아요.",
+          "summary": "나는 가끔 우울하다.",
+          "date": "2022-10-28",
+          "time": "10:54:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11630",
+          "participantID": "3879",
+          "utterance": "왜 우울하신가요? 요즘 날씨 탓인가요?",
+          "summary": "",
+          "date": "2022-10-28",
+          "time": "11:04:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31543",
+          "participantID": "3758",
+          "utterance": "대학에 진학하지 않아서 고민이 많네요.",
+          "summary": "나는 대학에 진학하지 않아서 고민이 많다.",
+          "date": "2022-10-28",
+          "time": "15:06:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11630",
+          "participantID": "3879",
+          "utterance": "저도 요즘 고민이 많은데 저의 어머니가 상담사이셔서 어머니 도움을 많이 받고 있습니다.",
+          "summary": "나의 어머니는 상담사이다.",
+          "date": "2022-10-28",
+          "time": "16:02:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31543",
+          "participantID": "3758",
+          "utterance": "멋지시네요. 좋아하는 음식은 있나요?",
+          "summary": "",
+          "date": "2022-10-28",
+          "time": "22:02:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11630",
+          "participantID": "3879",
+          "utterance": "네 저는 빵을 엄청 좋아합니다! 좋아하는 음식이 있나요?",
+          "summary": "나는 빵을 좋아한다.",
+          "date": "2022-10-30",
+          "time": "12:34:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31543",
+          "participantID": "3758",
+          "utterance": "저는 치킨을 좋아해서 즐겨 먹어요!",
+          "summary": "나는 치킨을 좋아한다.",
+          "date": "2022-11-03",
+          "time": "13:23:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11630",
+          "participantID": "3879",
+          "utterance": "치킨 맛있죠! 저는 빵을 즐겨먹습니다.",
+          "summary": "나는 빵을 즐겨먹는다.",
+          "date": "2022-11-03",
+          "time": "13:26:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31543",
+          "participantID": "3758",
+          "utterance": "네 무슨 빵을 가장 좋아하세요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "13:26:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11630",
+          "participantID": "3879",
+          "utterance": "저는 쫄깃쫄깃한 빵을 엄청 좋아해요!",
+          "summary": "나는 쫄깃쫄깃한 빵을 좋아한다.",
+          "date": "2022-11-03",
+          "time": "13:43:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31543",
+          "participantID": "3758",
+          "utterance": "저는 달달한  초코빵을 좋아해요.",
+          "summary": "나는 초코빵을 좋아한다.",
+          "date": "2022-11-03",
+          "time": "16:45:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11630",
+          "participantID": "3879",
+          "utterance": "초코빵 맛있죠. 저의 어머니는 상담사이셔서 도움을 많이 받고 있습니다. 혹시 어머니의 직업은 무엇인가요?",
+          "summary": "나의 어머니는 상담사라서 도움을 많이 받는다.",
+          "date": "2022-11-03",
+          "time": "16:59:39",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 가끔 우울하다.",
+          "나는 대학에 진학하지 않아서 고민이 많다.",
+          "나는 치킨을 좋아한다.",
+          "나는 초코빵을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 10대 여성이다.",
+          "나의 어머니는 상담사이다.",
+          "나는 빵을 좋아한다.",
+          "나는 빵을 즐겨먹는다.",
+          "나는 쫄깃쫄깃한 빵을 좋아한다.",
+          "나의 어머니는 상담사라서 도움을 많이 받는다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00151-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00151-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31543",
+          "participantID": "3758",
+          "utterance": "벌써 이틀이나 흘렀네요. 잘 지냈어요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "20:14:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11630",
+          "participantID": "3879",
+          "utterance": "네 잘 지냈습니다. 뭐하고 지내셨나요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "20:19:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31543",
+          "participantID": "3758",
+          "utterance": "저는 열심히 회사에서 일을 했어요. ",
+          "summary": "나는 회사에서 일을 했다.",
+          "date": "2022-11-03",
+          "time": "20:22:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11630",
+          "participantID": "3879",
+          "utterance": "힘드시겠다. 수고하셨어요! 회사에서 급여는 얼마받으시나요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "20:27:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31543",
+          "participantID": "3758",
+          "utterance": "월 300정도 되는 것 같아요",
+          "summary": "나는 월 300 정도 받는다.",
+          "date": "2022-11-03",
+          "time": "21:44:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11630",
+          "participantID": "3879",
+          "utterance": "와 대단하세요! 전 알바했을 때 월 50벌었습니다",
+          "summary": "나는 알바를 할 때 한 달에 50만 원을 벌었다.",
+          "date": "2022-11-04",
+          "time": "08:01:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31543",
+          "participantID": "3758",
+          "utterance": "알바는 주 몇 일 정도 하셨나요?",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "09:59:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11630",
+          "participantID": "3879",
+          "utterance": "알바는 일주일 2번 합니다. 가끔 대타도 하고요",
+          "summary": "나는 알바를 일주일에 2번 한다.",
+          "date": "2022-11-04",
+          "time": "10:20:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31543",
+          "participantID": "3758",
+          "utterance": "그렇군요. 저는 매일 일을 나가요. 쉬는 시간이 없네요..",
+          "summary": "나는 일을 매일 나간다.",
+          "date": "2022-11-04",
+          "time": "16:21:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11630",
+          "participantID": "3879",
+          "utterance": "힘드시겠어요 급여를 받으시면 사용 출처는 어디인가요?",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "16:40:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31543",
+          "participantID": "3758",
+          "utterance": "저는 먹거리에 많이 써요. 치킨을 좋아해서 자주 먹어요.",
+          "summary": "나는 치킨을 좋아한다.",
+          "date": "2022-11-04",
+          "time": "22:01:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11630",
+          "participantID": "3879",
+          "utterance": "치킨 너무 좋죠. 어떤 치킨을 좋아하시나요?",
+          "summary": "나는 치킨을 좋아한다.",
+          "date": "2022-11-05",
+          "time": "11:59:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31543",
+          "participantID": "3758",
+          "utterance": "저는 양념치킨을 가장 좋아합니다! 이번에는 치킨 대신 호캉스에 월급을 써볼까해요.",
+          "summary": "나는 양념치킨을 좋아한다.",
+          "date": "2022-11-08",
+          "time": "15:35:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11630",
+          "participantID": "3879",
+          "utterance": "하하 좋은 방법이네요! 저는 이만 알바하러 가겠습니다.",
+          "summary": "나는 알바를 하러 간다.",
+          "date": "2022-11-08",
+          "time": "15:42:18",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 회사에서 일을 했다.",
+          "나는 월 300 정도 받는다.",
+          "나는 일을 매일 나간다.",
+          "나는 치킨을 좋아한다.",
+          "나는 양념치킨을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 알바를 할 때 한 달에 50만 원을 벌었다.",
+          "나는 알바를 일주일에 2번 한다.",
+          "나는 치킨을 좋아한다.",
+          "나는 알바를 하러 간다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 가끔 우울하다.",
+          "나는 대학에 진학하지 않아서 고민이 많다.",
+          "나는 치킨을 좋아한다.",
+          "나는 초코빵을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 10대 여성이다.",
+          "나의 어머니는 상담사이다.",
+          "나는 빵을 좋아한다.",
+          "나는 빵을 즐겨먹는다.",
+          "나는 쫄깃쫄깃한 빵을 좋아한다.",
+          "나의 어머니는 상담사라서 도움을 많이 받는다."
+        ]
+      }
+    }
+  ]
+}

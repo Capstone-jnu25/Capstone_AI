@@ -1,0 +1,438 @@
+{
+  "FileInfo": {
+    "filename": "K2-00117-CL30173-CP11701-14-10-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "50434",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "50285",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "자영업",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00117"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "30173",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 친구가 많다",
+        "나는 종종 신이 난다",
+        "나는 검정색을 싫어한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "11701",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 10대이다.",
+        "나의 부모님은 쇼핑을 자주 한다",
+        "내가 좋아하는 과목은 체육이다",
+        "나는 강아지 두 마리를 키운다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "14-10",
+    "topicType": "시사/사회>사회이슈(국내)",
+    "topicTitle": "코로나"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "2-00117-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "30173",
+          "participantID": "50434",
+          "utterance": "안녕하세요 ㅎㅎ 30대 남자입니다!",
+          "summary": "나는 30대 남자이다.",
+          "date": "2022-11-01",
+          "time": "11:29:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11701",
+          "participantID": "50285",
+          "utterance": "안녕하세요! 저는 10대 여자에요~",
+          "summary": "나는 10대 여자다.",
+          "date": "2022-11-01",
+          "time": "11:30:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30173",
+          "participantID": "50434",
+          "utterance": "반가워요 ㅎㅎ 저는 친구가 많아서 이번에 놀러 나가려고요!",
+          "summary": "나는 친구가 많다.",
+          "date": "2022-11-01",
+          "time": "11:30:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11701",
+          "participantID": "50285",
+          "utterance": "우와! 부럽네요.. 저도 강아지 두 마리 키워서 산책 다녀오려고요!",
+          "summary": "나는 강아지 두 마리를 키운다.",
+          "date": "2022-11-01",
+          "time": "11:30:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30173",
+          "participantID": "50434",
+          "utterance": "그렇군요 ㅎㅎ 강아지 두마리를 저도 키우고 싶네요! 그런 생각을 할 때마다 저는 종종 신이 납니다 ㅎㅎ",
+          "summary": "나는 종종 신이 난다",
+          "date": "2022-11-01",
+          "time": "11:31:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11701",
+          "participantID": "50285",
+          "utterance": "무슨 생각하실 때마다 신이 나세요?",
+          "summary": "",
+          "date": "2022-11-01",
+          "time": "11:31:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30173",
+          "participantID": "50434",
+          "utterance": "저는 검정색을 싫어하는데, 밝은 색을 생각할 때마다 신이 납니다 ㅎㅎ 좋아하는 색이 있으신가요?",
+          "summary": "나는 검은색을 싫어한다. 나는 밝은 색을 생각할 때 신이 난다.",
+          "date": "2022-11-01",
+          "time": "11:31:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11701",
+          "participantID": "50285",
+          "utterance": "저는 파란색이요ㅎ 그래서 쇼핑할 때마다 파란색 위주에요ㅎ! 부모님이 쇼핑을 자주하셔서 따라다니거든요ㅎ",
+          "summary": "나는 파란색을 좋아한다. 나의 부모님은 쇼핑을 자주 한다.",
+          "date": "2022-11-01",
+          "time": "11:32:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30173",
+          "participantID": "50434",
+          "utterance": "그렇군요 ㅎㅎ 그러면 어떤 쇼핑을 하시는지요? 궁금하네요!",
+          "summary": "",
+          "date": "2022-11-01",
+          "time": "11:32:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11701",
+          "participantID": "50285",
+          "utterance": " 제 츄리닝이요ㅋㅋ 제가 체육 과목을 좋아해서 편안한 옷을 좋아해서요ㅎ",
+          "summary": "나는 체육과목을 좋아한다.",
+          "date": "2022-11-01",
+          "time": "11:33:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30173",
+          "participantID": "50434",
+          "utterance": "와~ 체육을 좋아하시는군요! 그러면 가장 좋아하는 운동은 무엇인가요?",
+          "summary": "",
+          "date": "2022-11-01",
+          "time": "11:33:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11701",
+          "participantID": "50285",
+          "utterance": "저 필라테스나 요가 좋아해요.. 살짝 정적인 운동이요",
+          "summary": "나는 필라테스나 요가를 좋아한다. 나는 정적인 운동이 좋다.",
+          "date": "2022-11-01",
+          "time": "11:34:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30173",
+          "participantID": "50434",
+          "utterance": "오~ 정적인 운동 좋죠 ㅎㅎ 나중에 저한테 알려주실 수 있으신가요?",
+          "summary": "",
+          "date": "2022-11-01",
+          "time": "11:34:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11701",
+          "participantID": "50285",
+          "utterance": "그럼요! 이제 강아지들 산책 시키러 다녀와야겠어요!",
+          "summary": "나는 강아지들 산책시키러 갈 것이다.",
+          "date": "2022-11-01",
+          "time": "11:35:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30173",
+          "participantID": "50434",
+          "utterance": "알겠습니다 ㅎㅎ 그러면 산책 끝나고 나중에 연락해요!",
+          "summary": "",
+          "date": "2022-11-01",
+          "time": "11:35:21",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 남자이다.",
+          "나는 친구가 많다.",
+          "나는 종종 신이 난다",
+          "나는 검은색을 싫어한다. 나는 밝은 색을 생각할 때 신이 난다."
+        ],
+        "speaker2": [
+          "나는 10대 여자다.",
+          "나는 강아지 두 마리를 키운다.",
+          "나는 파란색을 좋아한다. 나의 부모님은 쇼핑을 자주 한다.",
+          "나는 체육과목을 좋아한다.",
+          "나는 필라테스나 요가를 좋아한다. 나는 정적인 운동이 좋다.",
+          "나는 강아지들 산책시키러 갈 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00117-1",
+      "prevTimeInfo": {
+        "timeNum": "18",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "2-00117-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "30173",
+          "participantID": "50434",
+          "utterance": "반가워요 ㅎㅎ 18시간만에 대화하네요",
+          "summary": "",
+          "date": "2022-11-01",
+          "time": "11:36:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11701",
+          "participantID": "50285",
+          "utterance": "그러게요~ 그 동안 뭐하고 계셨나요?",
+          "summary": "",
+          "date": "2022-11-01",
+          "time": "11:37:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30173",
+          "participantID": "50434",
+          "utterance": "저는 지금은 뉴스를 보고 있었습니다. 혹시 관심이 있으신가요?",
+          "summary": "나는 뉴스를 보고 있다.",
+          "date": "2022-11-01",
+          "time": "11:38:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11701",
+          "participantID": "50285",
+          "utterance": "저는 가끔 @홈페이지@로 뉴스 보긴하는데.. 요즘 이슈는 뭔가요?",
+          "summary": "나는 가끔 @홈페이지@로 뉴스를 본다.",
+          "date": "2022-11-01",
+          "time": "11:38:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30173",
+          "participantID": "50434",
+          "utterance": "요즘도 코로나가 아직 안 끝났다고 하더라고요 ㅠㅠ 걱정이 됩니다.",
+          "summary": "나는 코로나가 안 끝나서 걱정이 된다.",
+          "date": "2022-11-01",
+          "time": "11:38:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11701",
+          "participantID": "50285",
+          "utterance": "맞아요.. 언제 끝날까요? 끝날 듯 안 끝나네요..",
+          "summary": "",
+          "date": "2022-11-01",
+          "time": "11:39:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30173",
+          "participantID": "50434",
+          "utterance": "그러게 말입니다 ㅠㅠ 건강은 괜찮으신가요?",
+          "summary": "",
+          "date": "2022-11-01",
+          "time": "11:39:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11701",
+          "participantID": "50285",
+          "utterance": "네. 저는 생각보다 튼튼하네요.. 님은요?",
+          "summary": "나는 생각보다 튼튼하다.",
+          "date": "2022-11-01",
+          "time": "11:40:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30173",
+          "participantID": "50434",
+          "utterance": "저는 최근에 감기에 걸렸었습니다 ㅠㅠ 그런데 코로나인줄 알고 엄청 걱정했어요!",
+          "summary": "나는 최근에 감기에 걸렸다.",
+          "date": "2022-11-01",
+          "time": "11:40:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11701",
+          "participantID": "50285",
+          "utterance": "맞아요. 코로난줄 알았는데 감기인 경우가 많더라고요!",
+          "summary": "",
+          "date": "2022-11-01",
+          "time": "11:41:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30173",
+          "participantID": "50434",
+          "utterance": "요즘은 신경이 너무 쓰여서, 스트레스가 쌓이네요.. 친구를 만나서 스트레스를 풀어야겠어요!",
+          "summary": "나는 요즘 스트레스가 쌓인다.",
+          "date": "2022-11-01",
+          "time": "11:41:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11701",
+          "participantID": "50285",
+          "utterance": "나가서 혹시 모르니 코로나 조심하시고요ㅎㅎ",
+          "summary": "나는 코로나 조심하기를 바란다.",
+          "date": "2022-11-01",
+          "time": "11:41:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30173",
+          "participantID": "50434",
+          "utterance": "그래야겠죠 ㅎㅎ 마스크를 잘 끼고 나가려고합니다! ㅎㅎ",
+          "summary": "",
+          "date": "2022-11-01",
+          "time": "11:41:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11701",
+          "participantID": "50285",
+          "utterance": "그럼 잘 다녀오시고 나중에 연락해요ㅎㅎ",
+          "summary": "",
+          "date": "2022-11-01",
+          "time": "11:42:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30173",
+          "participantID": "50434",
+          "utterance": "알겠습니다! 다음에 또 연락해요!",
+          "summary": "",
+          "date": "2022-11-01",
+          "time": "11:42:25",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 뉴스를 보고 있다.",
+          "나는 코로나가 안 끝나서 걱정이 된다.",
+          "나는 최근에 감기에 걸렸다.",
+          "나는 요즘 스트레스가 쌓인다."
+        ],
+        "speaker2": [
+          "나는 가끔 @홈페이지@로 뉴스를 본다.",
+          "나는 생각보다 튼튼하다.",
+          "나는 코로나 조심하기를 바란다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 남자이다.",
+          "나는 친구가 많다.",
+          "나는 종종 신이 난다",
+          "나는 검은색을 싫어한다. 나는 밝은 색을 생각할 때 신이 난다."
+        ],
+        "speaker2": [
+          "나는 10대 여자다.",
+          "나는 강아지 두 마리를 키운다.",
+          "나는 파란색을 좋아한다. 나의 부모님은 쇼핑을 자주 한다.",
+          "나는 체육과목을 좋아한다.",
+          "나는 필라테스나 요가를 좋아한다. 나는 정적인 운동이 좋다.",
+          "나는 강아지들 산책시키러 갈 것이다."
+        ]
+      }
+    }
+  ]
+}

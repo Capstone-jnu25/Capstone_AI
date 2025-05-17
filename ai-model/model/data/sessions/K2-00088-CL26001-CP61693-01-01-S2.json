@@ -1,0 +1,433 @@
+{
+  "FileInfo": {
+    "filename": "K2-00088-CL26001-CP61693-01-01-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3773",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "사무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "4319",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00088"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "26001",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 주황색을 좋아한다",
+        "나는 승마부 동아리에 관심 있다",
+        "나는 판타지 영화를 좋아한다",
+        "나는 싱거운 음식을 즐겨 먹는다",
+        "나는 강아지 두 마리를 키운다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "61693",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 60대 이상이다.",
+        "나는 가족과 만나면 싸우게 된다",
+        "나는 EDM 음악을 자주 듣는다",
+        "나는 위인 전기를 싫어한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "01-01",
+    "topicType": "식음료",
+    "topicTitle": "식사"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00088-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "26001",
+          "participantID": "3773",
+          "utterance": "안녕하세요 20대 여성입니다~",
+          "summary": "나는 20대 여성이다",
+          "date": "2022-11-22",
+          "time": "12:57:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61693",
+          "participantID": "4319",
+          "utterance": "안녕하세요, 60대 여성입니다. ",
+          "summary": "나는 60대 여성이다.\n",
+          "date": "2022-11-22",
+          "time": "13:25:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26001",
+          "participantID": "3773",
+          "utterance": "안녕하세요. 저는 강아지 두마리를 키우고있어서 퇴근하고 가서도 바빠요",
+          "summary": "나는 강아지 두 마리를 키운다",
+          "date": "2022-11-22",
+          "time": "18:09:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61693",
+          "participantID": "4319",
+          "utterance": "그러시군요 저는 EDM 음악을 자주 들어요. 스트레스 푸는데는 아주 좋더라구요",
+          "summary": "나는 EDM 음악을 자주 듣는다.",
+          "date": "2022-11-22",
+          "time": "18:18:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26001",
+          "participantID": "3773",
+          "utterance": "맞아요 이디엠음악 너무 신나요! 저는 판타지 영화를 좋아해요",
+          "summary": "나는 판타지 영화를 좋아한다",
+          "date": "2022-11-22",
+          "time": "18:44:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61693",
+          "participantID": "4319",
+          "utterance": "저도 환타지좋아해요. 책읽는것도 좋아하구요!  그런데 위인전기 읽는거는 지루해서 싫어해요",
+          "summary": "나는 판타지를 좋아한다. 나는 위인전기 읽는 거는 지루해서 싫다.",
+          "date": "2022-11-23",
+          "time": "08:37:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26001",
+          "participantID": "3773",
+          "utterance": "네네 맞아요 저는 요즘 승마부 동아리에 관심이 있어요",
+          "summary": "나는 승마 동아리에 관심이 있다",
+          "date": "2022-11-23",
+          "time": "09:23:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61693",
+          "participantID": "4319",
+          "utterance": "승마도 꼭 배워보고 싶은 운동중에 하나인데, 지난번에 가족들과 제주도에 갔다가 의견충돌이 있어서 말 탈 기회를 잃어버린적이 있네요. 저는 가족과 만나면 싸우게 되는데 왜그런지 모르겠어요. ",
+          "summary": "나는 승마도 꼭 배워보고 싶은 운동 중에 하나인데, 지난번에 가족들과 제주도에 갔다가 의견 충돌이 있어서 말 탈 기회를 잃어버린 적이 있다.",
+          "date": "2022-11-23",
+          "time": "10:45:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26001",
+          "participantID": "3773",
+          "utterance": "아아 그러면 너무 속상할 거 같아요 편한 사이일 수록 그러나봐요 저는 싱거운 음식을 즐겨먹어요",
+          "summary": " 나는 싱거운 음식을 즐겨먹는다",
+          "date": "2022-11-23",
+          "time": "10:51:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61693",
+          "participantID": "4319",
+          "utterance": "네 저도 가족과 잘 지내고 싶은데 만나면 싸우니 그것도 참 아이러니 합니다. 음식은 싱겁게 먹어야 건강에 좋지요.  저는 워낙에 단짠을 좋아하는데, 케일주스나 과일주스를 먹다 보니 짠음식이 점점 강하게 느껴집니다. ",
+          "summary": "나는 가족과 잘 지내고 싶은데 만나면 싸우니 그것도 참 아이러니하다. 나는 케일 주스나 과일주스를 먹다 보니 짠 음식이 점점 강하게 느껴진다.",
+          "date": "2022-11-23",
+          "time": "12:34:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26001",
+          "participantID": "3773",
+          "utterance": "아 그러시구나 저는 주황색을 좋아해요",
+          "summary": "나는 주황색을 좋아한다",
+          "date": "2022-11-23",
+          "time": "18:15:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61693",
+          "participantID": "4319",
+          "utterance": "주황색이요? 저는 흰색이 깔끔하니 좋습니다",
+          "summary": "나는 흰색이 좋다.",
+          "date": "2022-11-23",
+          "time": "18:19:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26001",
+          "participantID": "3773",
+          "utterance": "아 네 흰색 좋죠 이제 식사시간이네요!",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "18:21:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61693",
+          "participantID": "4319",
+          "utterance": "네 그래요 식사 맛있게 하시고 다시 뵈요!",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "18:27:37",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다",
+          "나는 강아지 두 마리를 키운다",
+          "나는 판타지 영화를 좋아한다",
+          "나는 승마 동아리에 관심이 있다",
+          "나는 싱거운 음식을 즐겨먹는다",
+          "나는 주황색을 좋아한다"
+        ],
+        "speaker2": [
+          "나는 60대 여성이다.\n",
+          "나는 EDM 음악을 자주 듣는다.",
+          "나는 판타지를 좋아한다.",
+          "나는 위인전기 읽는 거는 지루해서 싫다.",
+          "나는 승마도 꼭 배워보고 싶은 운동 중에 하나인데, 지난번에 가족들과 제주도에 갔다가 의견 충돌이 있어서 말 탈 기회를 잃어버린 적이 있다.",
+          "나는 가족과 잘 지내고 싶은데 만나면 싸우니 그것도 참 아이러니하다.",
+          "나는 케일 주스나 과일주스를 먹다 보니 짠 음식이 점점 강하게 느껴진다.",
+          "나는 흰색이 좋다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00088-1",
+      "prevTimeInfo": {
+        "timeNum": "34",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00088-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "26001",
+          "participantID": "3773",
+          "utterance": "34시간 만에 다시 대화하네요!  잘지내셨나요",
+          "summary": "나는 34시간 만에 안부를 물었다.",
+          "date": "2022-11-23",
+          "time": "18:32:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61693",
+          "participantID": "4319",
+          "utterance": " 식사는 하셨나요? 오늘 날씨가 춥네요",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "18:38:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26001",
+          "participantID": "3773",
+          "utterance": "네네 요즘 날이 갑자기 추워져서 뜨끈한 국물 요리가 먹고싶어요",
+          "summary": "나는 추운 날씨엔 따뜻한 국물요리가 먹고 싶다.",
+          "date": "2022-11-23",
+          "time": "18:41:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61693",
+          "participantID": "4319",
+          "utterance": "오늘 아침에 칼칼한 버섯찌개를 먹었는데 맛있더라구요",
+          "summary": "나는 오늘 아침에 칼칼한 버섯찌개를 먹었는데 맛있었다.",
+          "date": "2022-11-23",
+          "time": "18:42:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26001",
+          "participantID": "3773",
+          "utterance": "와 맛있겠어요 저는 퇴근하고 국밥먹고 들어갈까 고민 중이에요",
+          "summary": "나는 퇴근 후 국밥을 먹을지 고민이다.",
+          "date": "2022-11-24",
+          "time": "11:33:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61693",
+          "participantID": "4319",
+          "utterance": "그래요 놓은생각이에요!  전. 제육볶음도 먹고 싶네요",
+          "summary": "나는 제육볶음도 먹고 싶다.",
+          "date": "2022-11-24",
+          "time": "13:48:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26001",
+          "participantID": "3773",
+          "utterance": "제육볶음 잘하는 집가서 먹어보니까 확실히 다르더라구요",
+          "summary": "나느 제육볶음을 잘하는 집에서 먹으면 확실히 다르다.",
+          "date": "2022-11-24",
+          "time": "13:52:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61693",
+          "participantID": "4319",
+          "utterance": "요즘 밀키트가 잘되어 있어서 사서 조리해 먹어도 괜찮을 거에요",
+          "summary": "나는 요즘 밀키트가 잘되어 있어서 사서 조리해 먹어도 괜찮을 것 같다.",
+          "date": "2022-11-24",
+          "time": "13:59:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26001",
+          "participantID": "3773",
+          "utterance": "네 맞아요 혼자살 때 그거만한게 없더라구요",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "16:08:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61693",
+          "participantID": "4319",
+          "utterance": "밀키트만 전문적으로 파는 가게도 있더라구요.  저도 식사준비가 피곤하게 느껴질때는 끓이기만 하면 되는 음식으로 사가곤 한답니다. ",
+          "summary": "나는 식사 준비가 피곤하게 느껴질 때는 끓이기만 하면 되는 음식으로 사가곤 한다.",
+          "date": "2022-11-24",
+          "time": "16:10:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26001",
+          "participantID": "3773",
+          "utterance": "네 매끼 해먹기 너무 귀찮아서 종종 사먹는데 퀄리티가 좋아요",
+          "summary": "나는 가끔 질 좋은 음식을 사 먹는다.",
+          "date": "2022-11-24",
+          "time": "16:11:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61693",
+          "participantID": "4319",
+          "utterance": "그래요. 인근에 반찬집도 있기는 한데 영혼이 없는 맛이라 잘 사먹지는 않아요. 그리고 너무 비싸서 엄두가 안나더라구요. 음식은 만드는 사람의 정성이 들어가야 즐거운 식사가 되겠죠.?",
+          "summary": "나는 음식은 만드는 사람의 정성이 들어가야 즐거운 식사가 된다고 생각한다.",
+          "date": "2022-11-24",
+          "time": "16:14:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26001",
+          "participantID": "3773",
+          "utterance": "아 조미료 맛 너무 많이나면 몇번 먹으면 물려서 잘 못먹겠더라구요",
+          "summary": "나는 조미료가 많이 들어간 음식은 잘 못 먹는다.",
+          "date": "2022-11-24",
+          "time": "16:24:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61693",
+          "participantID": "4319",
+          "utterance": "맞아요.  저는 조미료 거의 안넣고, 참치액젓으로 간을 맞추는 편이에요. ",
+          "summary": "나는 조미료 거의 안 넣고, 참치 액젓으로 간을 맞추는 편이다.",
+          "date": "2022-11-24",
+          "time": "16:50:59",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 34시간 만에 안부를 물었다.",
+          "나는 추운 날씨엔 따뜻한 국물요리가 먹고 싶다.",
+          "나는 퇴근 후 국밥을 먹을지 고민이다.",
+          "나느 제육볶음을 잘하는 집에서 먹으면 확실히 다르다.",
+          "나는 가끔 질 좋은 음식을 사 먹는다.",
+          "나는 조미료가 많이 들어간 음식은 잘 못 먹는다."
+        ],
+        "speaker2": [
+          "나는 오늘 아침에 칼칼한 버섯찌개를 먹었는데 맛있었다.",
+          "나는 제육볶음도 먹고 싶다.",
+          "나는 요즘 밀키트가 잘되어 있어서 사서 조리해 먹어도 괜찮을 것 같다.",
+          "나는 식사 준비가 피곤하게 느껴질 때는 끓이기만 하면 되는 음식으로 사가곤 한다.",
+          "나는 음식은 만드는 사람의 정성이 들어가야 즐거운 식사가 된다고 생각한다.",
+          "나는 조미료 거의 안 넣고, 참치 액젓으로 간을 맞추는 편이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다",
+          "나는 강아지 두 마리를 키운다",
+          "나는 판타지 영화를 좋아한다",
+          "나는 승마 동아리에 관심이 있다",
+          "나는 싱거운 음식을 즐겨먹는다",
+          "나는 주황색을 좋아한다"
+        ],
+        "speaker2": [
+          "나는 60대 여성이다.\n",
+          "나는 EDM 음악을 자주 듣는다.",
+          "나는 판타지를 좋아한다.",
+          "나는 위인전기 읽는 거는 지루해서 싫다.",
+          "나는 승마도 꼭 배워보고 싶은 운동 중에 하나인데, 지난번에 가족들과 제주도에 갔다가 의견 충돌이 있어서 말 탈 기회를 잃어버린 적이 있다.",
+          "나는 가족과 잘 지내고 싶은데 만나면 싸우니 그것도 참 아이러니하다.",
+          "나는 케일 주스나 과일주스를 먹다 보니 짠 음식이 점점 강하게 느껴진다.",
+          "나는 흰색이 좋다."
+        ]
+      }
+    }
+  ]
+}

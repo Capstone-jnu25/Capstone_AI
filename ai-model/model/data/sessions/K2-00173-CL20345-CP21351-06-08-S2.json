@@ -1,0 +1,417 @@
+{
+  "FileInfo": {
+    "filename": "K2-00173-CL20345-CP21351-06-08-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0349",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0353",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "서비스직",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00173"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "20345",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 연인이 있고 사이가 좋다.",
+        "나는 풍물부 동아리에 관심 있다.",
+        "나는 일렉기타 연주를 배우고 싶다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "21351",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나의 남자 형제는 운수업을 한다.",
+        "나는 귀금속 디자이너이다.",
+        "나는 스포츠 영화를 싫어한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "06-08",
+    "topicType": "교육",
+    "topicTitle": "성적"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00173-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20345",
+          "participantID": "0349",
+          "utterance": "처음뵙겠습니다. 20대 남자이다.",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-09-06",
+          "time": "22:05:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21351",
+          "participantID": "0353",
+          "utterance": "네. 반갑습니다. 저도 20대 남자입니다.",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-09-06",
+          "time": "22:06:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20345",
+          "participantID": "0349",
+          "utterance": "날씨가 참 좋은 날이네요.",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "22:06:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21351",
+          "participantID": "0353",
+          "utterance": "ㅎㅎ 네~ 전 귀금속 디자이너로 일하고 있습니다.",
+          "summary": "나는 귀금속 디자이너다.",
+          "date": "2022-09-06",
+          "time": "22:07:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20345",
+          "participantID": "0349",
+          "utterance": "오~ 친구네요. 이런 우연이~~ ^^ 벌서 일하는거에요? 난 아직 학생인데요.",
+          "summary": "나는 아직 학생이다.",
+          "date": "2022-09-06",
+          "time": "22:08:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21351",
+          "participantID": "0353",
+          "utterance": "네. 전문대 나와서 일찍 취업전선에 뛰어들었습니다.ㅋㅋ.",
+          "summary": "나는 전문대를 나왔고 일찍 취업을 했다.",
+          "date": "2022-09-06",
+          "time": "22:08:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20345",
+          "participantID": "0349",
+          "utterance": "아~ 나도 그런 생각을하고 대학을 정했어야헸는데.. 벌써 돈벌다니 부럽네요.",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "22:09:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21351",
+          "participantID": "0353",
+          "utterance": "취업을 해서 다행이긴한데, 일하다보니 이쪽 분야도 공부할게 많더라구요. 다시 또 공부를 해야하나 싶기도 합니다.",
+          "summary": "나는 일하다 보니 공부할게 많다고 생각한다. 다시 공부를 시작하는 것에 대한 고민도 있다.",
+          "date": "2022-09-06",
+          "time": "22:10:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20345",
+          "participantID": "0349",
+          "utterance": "공부만하는거랑 일하다가 공부하는거랑 좀 다르잔아요. 그럼 여자친구는 있어요?",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "22:11:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21351",
+          "participantID": "0353",
+          "utterance": "네. 사귄지 1년정도 되는 것 같네요. 그런데 영화취향이 달라서 가끔 데이트하다 싸워요. 저는 스포츠영화를 싫어하는데 여자친구는 재미있어하더라구요.",
+          "summary": "나는 여자 친구와 1년 사귀었다. 여자 친구와 영화 취향이 다르다. 나는 스포츠 영화를 싫어한다.",
+          "date": "2022-09-06",
+          "time": "22:12:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20345",
+          "participantID": "0349",
+          "utterance": "그래요? 전 여자친구랑 사이가 좋아요. 사귄지 이제 백일됬거든요~ 어디사 만났어요? ^^",
+          "summary": "나는 여자 친구와 사이가 좋다. 사귄 지 이제 백일이 되었다.",
+          "date": "2022-09-06",
+          "time": "22:13:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21351",
+          "participantID": "0353",
+          "utterance": "백일이요? 아주 풋풋할때네요. 그때가 좋을때죠..ㅋㅋ 저는 소개팅으로 만났습니다.",
+          "summary": "나는 소개팅을 해서 여자 친구를 만났다.",
+          "date": "2022-09-06",
+          "time": "22:14:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20345",
+          "participantID": "0349",
+          "utterance": "전 동아리 MT에서 만났는데 여자친구가 풍물동아리라 저도 그 동아리에 관심을가지고 있습니다. ㅋㅋ 벌써 시간이 늦었네요. 다음에 또 이야기해요.",
+          "summary": "나는 동아리 MT에서 여자 친구를 만났다. 나는 풍물동아리에 관심을 가지고 있다.",
+          "date": "2022-09-06",
+          "time": "22:15:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21351",
+          "participantID": "0353",
+          "utterance": "동아리 이야기하니 저도 대학때 생각이 나네요. 다음에 또 이야기해요.",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "22:15:54",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 아직 학생이다.",
+          "나는 여자 친구와 사이가 좋다. 사귄 지 이제 백일이 되었다.",
+          "나는 동아리 MT에서 여자 친구를 만났다. 나는 풍물동아리에 관심을 가지고 있다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 귀금속 디자이너다.",
+          "나는 전문대를 나왔고 일찍 취업을 했다.",
+          "나는 일하다 보니 공부할게 많다고 생각한다. 다시 공부를 시작하는 것에 대한 고민도 있다.",
+          "나는 여자 친구와 1년 사귀었다. 여자 친구와 영화 취향이 다르다. 나는 스포츠 영화를 싫어한다.",
+          "나는 소개팅을 해서 여자 친구를 만났다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00173-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00173-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20345",
+          "participantID": "0349",
+          "utterance": "하루가 지났네요. 잘지내셨죠?",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "22:16:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21351",
+          "participantID": "0353",
+          "utterance": "네. 잘 지냈습니다. 어떻게 보내셨나요?",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "22:16:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20345",
+          "participantID": "0349",
+          "utterance": "전 여자친구랑 저녁먹으면서 즐겁게 보냈습니다. ^^ 여자친구랑 별일 없으셨죠? ㅋㅋ.",
+          "summary": "나는 여자 친구와 저녁 먹으면서 즐겁게 보냈다.",
+          "date": "2022-09-06",
+          "time": "22:17:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21351",
+          "participantID": "0353",
+          "utterance": "그럼요. 요즘 제가 작업하는 게 있어서 자주 못봤는데, 주말에 만나기로 약속했네요.",
+          "summary": "나는 여자 친구와 주말에 만나기로 했다.",
+          "date": "2022-09-06",
+          "time": "22:18:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20345",
+          "participantID": "0349",
+          "utterance": "다행이네요~ 전 이번언이 중요한 학기인데.. 시험성적을 기다리고 있어 속이 타고있습니다. ㅠㅠ 잘나와야하는데요.",
+          "summary": "나는 시험성적을 기다리고 있어 속이 탄다.",
+          "date": "2022-09-06",
+          "time": "22:18:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21351",
+          "participantID": "0353",
+          "utterance": "걱정이 좀 되시겠네요. 저도 학점관리하느라 힘들었었는데...",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "22:19:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20345",
+          "participantID": "0349",
+          "utterance": "그러니까요. 저는 가정형편때문에 꼭 장학금을 받아야하는데.. 혹시 낮게 나올까 걱정입니다.",
+          "summary": "나는 가정형편 때문에 장학금을 받아야 하는데 걱정이다.",
+          "date": "2022-09-06",
+          "time": "22:20:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21351",
+          "participantID": "0353",
+          "utterance": "공부를 잘하시나 봅니다. 장학금을 받을 정도면요.. 열심히 하셨을테니 좋은 결과 있을거에요.",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "22:21:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20345",
+          "participantID": "0349",
+          "utterance": "부끄럽네요. ^^ 혹시 취미생활하는거 있으세요?",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "22:22:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21351",
+          "participantID": "0353",
+          "utterance": "취미생활은 아니구요, 저희 큰형이 운수업을 하는데, 가끔 시간날 때 알바처럼 일을 도와드려요.",
+          "summary": "나의 큰형은 운수업을 한다. 나는 가끔 형의일을 도와준다.",
+          "date": "2022-09-06",
+          "time": "22:23:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20345",
+          "participantID": "0349",
+          "utterance": "투잡러시네요. ㅠㅠ 힘드시겠는데요. 저도 학생이라 할수있는건 없는데 전 나중에 일렉기타 연주를 배우고 싶어요.",
+          "summary": "나는 나중에 일렉기타 연주를 배우고 싶다.",
+          "date": "2022-09-06",
+          "time": "22:23:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21351",
+          "participantID": "0353",
+          "utterance": "다룰 줄 아는 악기가 하나 있으면 정말 좋을거 같아요. 저도 배우고 싶은 악기가 있긴 하거든요.",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "22:24:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20345",
+          "participantID": "0349",
+          "utterance": "그렇죠. 저희 언젠간 꼭 배워봐요~ 전 다시 책좀 봐야겠습니다. 대화 즐거웠어요.",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "22:25:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21351",
+          "participantID": "0353",
+          "utterance": "네. 즐거웠어요. 좋은 시간 되세요.",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "22:26:10",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 여자 친구와 저녁 먹으면서 즐겁게 보냈다.",
+          "나는 시험성적을 기다리고 있어 속이 탄다.",
+          "나는 가정형편 때문에 장학금을 받아야 하는데 걱정이다.",
+          "나는 나중에 일렉기타 연주를 배우고 싶다."
+        ],
+        "speaker2": [
+          "나는 여자 친구와 주말에 만나기로 했다.",
+          "나의 큰형은 운수업을 한다. 나는 가끔 형의일을 도와준다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 아직 학생이다.",
+          "나는 여자 친구와 사이가 좋다. 사귄 지 이제 백일이 되었다.",
+          "나는 동아리 MT에서 여자 친구를 만났다. 나는 풍물동아리에 관심을 가지고 있다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 귀금속 디자이너다.",
+          "나는 전문대를 나왔고 일찍 취업을 했다.",
+          "나는 일하다 보니 공부할게 많다고 생각한다. 다시 공부를 시작하는 것에 대한 고민도 있다.",
+          "나는 여자 친구와 1년 사귀었다. 여자 친구와 영화 취향이 다르다. 나는 스포츠 영화를 싫어한다.",
+          "나는 소개팅을 해서 여자 친구를 만났다."
+        ]
+      }
+    }
+  ]
+}

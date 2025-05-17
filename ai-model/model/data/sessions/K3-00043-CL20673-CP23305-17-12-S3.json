@@ -1,0 +1,599 @@
+{
+  "FileInfo": {
+    "filename": "K3-00043-CL20673-CP23305-17-12-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0957",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0961",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00043"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "20673",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나의 거주지는 부산이다.",
+        "나는 영화부 동아리에 관심이 없다.",
+        "나는 바이올린 연주를 배우고 싶다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "23305",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 아무한테나 말을 잘 건다.",
+        "나는 모바일 애플리케이션 프로그래머이다.",
+        "나는 가야금 연주를 배우고 싶다.",
+        "나는 카페모카를 자주 마신다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "17-12",
+    "topicType": "미용과 건강>건강",
+    "topicTitle": "한약"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00043-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "저는 20대 남자에요. 만나서 반갑습니다. 처음 보네요 ㅎㅎ.",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-10-30",
+          "time": "15:46:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "빈가워요~ 저도 20대 남자인데. 만나서 반갑습니다.",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-10-30",
+          "time": "15:47:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "네 ㅎㅎ. 그러면 무슨 일 하시는 분인가요?",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:47:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "저는 모바일 어플 프로그래머에요. 님은요?",
+          "summary": "나는 모바일 애플리케이션 프로그래머이다.",
+          "date": "2022-10-30",
+          "time": "15:47:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "저는 부산에서 대학 다니고 있어요 ㅎㅎ.",
+          "summary": "나의 거주지는 부산이다. 나는 대학생이다.",
+          "date": "2022-10-30",
+          "time": "15:47:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "아~ 그렇군요.ㅎㅎ 그 유명한 @소속1@인가요?",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:47:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "저는 옆에 창원대 다녀요. 그러면 뭐 좋아하시는거 있으세요?",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:47:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "그렇구낭. 저는 이렇게 채팅하는거 좋아해요.ㅎㅎ 아무랑 말을 잘 해서요.",
+          "summary": "나는 아무한테나 말을 잘 건다.",
+          "date": "2022-10-30",
+          "time": "15:48:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "그렇군요 ㅋㅋ. 저는 낮을 가려서 영화는 좋은데 영화 동아리에 관심이 안가더라고요.",
+          "summary": "나는 영화부 동아리에 관심이 없다.",
+          "date": "2022-10-30",
+          "time": "15:48:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "그래요?ㅎㅎ 동아리는 좀 그럴수도 있죠. 그럼 다른 취미는요?",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:48:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "저는 바이올린을 좀 배우고 싶어서 보고 있어요 ㅎㅎ.",
+          "summary": "나는 바이올린 연주를 배우고 싶다.",
+          "date": "2022-10-30",
+          "time": "15:48:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "오~ 현악기 좋죠. 저도 가야금 배우고 싶더라구요!",
+          "summary": "나는 가야금 연주를 배우고 싶다.",
+          "date": "2022-10-30",
+          "time": "15:48:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "그것도 좋다 ㅎㅎ.저는 이만 커피 좀 먹고 올게요~",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:48:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "저도 카페모카 자주 마시는데.ㅋㅋ 마셔야겠네요. 그럼 다음에 또 봐요.ㅎ.",
+          "summary": "나는 카페모카를 자주 마신다.",
+          "date": "2022-10-30",
+          "time": "15:49:17",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나의 거주지는 부산이다. 나는 대학생이다.",
+          "나는 영화부 동아리에 관심이 없다.",
+          "나는 바이올린 연주를 배우고 싶다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 모바일 애플리케이션 프로그래머이다.",
+          "나는 아무한테나 말을 잘 건다.",
+          "나는 가야금 연주를 배우고 싶다.",
+          "나는 카페모카를 자주 마신다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00043-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00043-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "삼일만입니다. 오늘은 한의원 다녀왔어요 ㅎㅎ.",
+          "summary": "나는 한의원을 다녀왔다.",
+          "date": "2022-10-30",
+          "time": "15:49:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "반가워요. 어쩐일로 한의원을 가셨어요?",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:49:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "요즘 좀 기력이 없는거같다니까 어머니가 가보라더라구요.",
+          "summary": "나는 기력이 없다.",
+          "date": "2022-10-30",
+          "time": "15:49:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "아 그렇구나. 저도 요새 좀 비실비실 한거 같아요...",
+          "summary": "나는 요새 몸이 안 좋다.",
+          "date": "2022-10-30",
+          "time": "15:49:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "그래서 한약을 받아왔는데 너무 쓰네요 ㅠㅠ.",
+          "summary": "나는 한약이 쓰다.",
+          "date": "2022-10-30",
+          "time": "15:50:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "근데 한약은 잘못먹으면 몸이 오히려 아프다니까 무서워요.",
+          "summary": "나는 한약이 무섭다.",
+          "date": "2022-10-30",
+          "time": "15:50:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "그래도 먹으면 비싼건데 몸에 좋지않을까요 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:50:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "비싸니까 더 그런 생각이 드네요.ㅋㅋ 돈이 아깝달까...",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:50:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "한번 믿어봐야죠~ 영양제는 먹어도 소용없더라구요.",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:50:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "그래요.ㅎㅎ 혹시 드시고 효능 모시면 알려주세요!",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:50:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "그럼요~ 건강해지면 제가 후기 남길게요 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:50:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "저도 기력이 생기면 참 좋을거 같아요.ㅋㅋ 비싸도 살만 하네요 그렇다면.",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:51:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "그러면 저는 오늘은 먹었으니 좀 낮잠 자야겠어요.",
+          "summary": "나는 낮잠을 잔다.",
+          "date": "2022-10-30",
+          "time": "15:51:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "그래요. 그럼 다음에 또 봐요. 안녕히 주무셔요~",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:51:31",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 한의원을 다녀왔다.",
+          "나는 기력이 없다.",
+          "나는 한약이 쓰다.",
+          "나는 낮잠을 잔다."
+        ],
+        "speaker2": [
+          "나는 요새 몸이 안 좋다.",
+          "나는 한약이 무섭다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나의 거주지는 부산이다. 나는 대학생이다.",
+          "나는 영화부 동아리에 관심이 없다.",
+          "나는 바이올린 연주를 배우고 싶다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 모바일 애플리케이션 프로그래머이다.",
+          "나는 아무한테나 말을 잘 건다.",
+          "나는 가야금 연주를 배우고 싶다.",
+          "나는 카페모카를 자주 마신다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00043-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00043-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "이틀만~ 요즘은 좀 기력이 있는거같기도 하네요!",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:51:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "반가워요. 그게 그렇게 빨리 효과가 오나요?ㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:51:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "막 좋은거 다 넣었어요 ㅋㅋ. 인삼에 녹용이니 뭐니 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:52:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "그렇구나.ㅋㅋ 참, 님은 모바일 게임 같은거 하시나요?",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:52:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "모바일 게임이요? 저는 가끔씩은 해요 ㅎㅎ.",
+          "summary": "나는 모바일 게임을 가끔 한다.",
+          "date": "2022-10-30",
+          "time": "15:52:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "제가 모바일 게임을 만드는데 궁금해서요.ㅎ.",
+          "summary": "나는 모바일 게임을 만든다.",
+          "date": "2022-10-30",
+          "time": "15:52:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "그렇구나 ㅎㅎ. 그러면 무슨 게임을 만드세요?",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:52:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "저는 가챠게임 만들어요.ㅎ 그런거 좋아하시나요?",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:52:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "그런건 좀 학생이라 부담스러워서 잘 안해요 ㅠㅠ...",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:53:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "그래도 유저 통계 보면 20대 초반이 상당히 많아요!",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:53:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "알바는 안하고 있으니까 용돈이 없어서요 ㅠㅠ.",
+          "summary": "나는 아르바이트를 안 한다.",
+          "date": "2022-10-30",
+          "time": "15:53:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "그러시구나.ㅎ 이벤트로 유료재화도 많이 뿌리는 게임 많은데.",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:53:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20673",
+          "participantID": "0957",
+          "utterance": "그러면 저는 이만 또 수업이라 ㅎㅎ. 다음에 또 얘기 나눠요!",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:53:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23305",
+          "participantID": "0961",
+          "utterance": "그래요~ 그럼 수업 잘 들으시고 다음에 또 봐요.",
+          "summary": "",
+          "date": "2022-10-30",
+          "time": "15:53:45",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 모바일 게임을 가끔 한다.",
+          "나는 아르바이트를 안 한다."
+        ],
+        "speaker2": [
+          "나는 모바일 게임을 만든다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나의 거주지는 부산이다. 나는 대학생이다.",
+          "나는 영화부 동아리에 관심이 없다.",
+          "나는 바이올린 연주를 배우고 싶다.",
+          "나는 한의원을 다녀왔다.",
+          "나는 기력이 없다.",
+          "나는 한약이 쓰다.",
+          "나는 낮잠을 잔다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 모바일 애플리케이션 프로그래머이다.",
+          "나는 아무한테나 말을 잘 건다.",
+          "나는 가야금 연주를 배우고 싶다.",
+          "나는 카페모카를 자주 마신다.",
+          "나는 요새 몸이 안 좋다.",
+          "나는 한약이 무섭다."
+        ]
+      }
+    }
+  ]
+}

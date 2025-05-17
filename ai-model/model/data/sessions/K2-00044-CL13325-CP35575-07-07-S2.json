@@ -1,0 +1,466 @@
+{
+  "FileInfo": {
+    "filename": "K2-00044-CL13325-CP35575-07-07-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4509",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "사무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "4870",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00044"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "13325",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 10대이다.",
+        "나는 친구가 많다",
+        "나는 치위생사가 되고 싶다",
+        "나는 자기계발서를 꾸준히 읽는다",
+        "나는 매일 스트레스를 받는다",
+        "나는 방송 중에 예능을 가끔 본다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "35575",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 선후배와 친한 사람 한 두 명이 있다",
+        "나는 TV 예능을 자주 본다",
+        "나는 발라드 음악을 가끔 듣는다",
+        "나의 생일은 3월이다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "07-07",
+    "topicType": "개인 및 관계>가족",
+    "topicTitle": "가족 사랑"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "2-00044-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "13325",
+          "participantID": "4509",
+          "utterance": "안녕하세요 저는 치위생사가 되고 싶은 10대 여성입니다.",
+          "summary": "나는 치위생사가 되고 싶은 10대 여성이다.\n",
+          "date": "2022-12-02",
+          "time": "11:40:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35575",
+          "participantID": "4870",
+          "utterance": "안녕하세요~ 저는 TV예능을 즐겨보는 30대 여성입니다. ",
+          "summary": "나는 TV 예능을 즐겨본다. 나는 30대 여성이다.",
+          "date": "2022-12-02",
+          "time": "11:44:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "13325",
+          "participantID": "4509",
+          "utterance": "아~ 저도 방송 중에 예능을 가끔 봐요! 좋아하는 예능이 있으신가요?",
+          "summary": "나는 방송 중에 예능을 가끔 본다\n",
+          "date": "2022-12-02",
+          "time": "11:45:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35575",
+          "participantID": "4870",
+          "utterance": "저는 런닝맨 좋아해요^^ㅎㅎㅎㅎ",
+          "summary": "나는 런닝맨을 자주 본다.",
+          "date": "2022-12-02",
+          "time": "11:48:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "13325",
+          "participantID": "4509",
+          "utterance": "아~ 저도 자주 봐요. 저는 매일 스트레스를 받는데 가끔 보면 재밌어서 스트레스가 풀리더라고요.",
+          "summary": "나는 매일 스트레스를 받고 있고, 예능을 보면서 스트레스를 풀고 있다.",
+          "date": "2022-12-02",
+          "time": "11:49:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35575",
+          "participantID": "4870",
+          "utterance": "정말 정신없이 웃을 수 있게 해주는거 같아요. ^^ 저는 발라드 음악도 가끔 들으면서 기분전환 할 때도 있어요. ",
+          "summary": "나는 발라드 음악을 가끔 들으면서 기분전환을 한다.",
+          "date": "2022-12-02",
+          "time": "11:59:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "13325",
+          "participantID": "4509",
+          "utterance": "그렇군요~ 저는 기분 전환으로 자기계발서를 꾸준히 읽어요. 자신감을 올리는데 도움이 되는 것 같아요.",
+          "summary": "나는 기분전환으로 자기 계발서를 꾸준히 보고 있다.",
+          "date": "2022-12-02",
+          "time": "12:01:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35575",
+          "participantID": "4870",
+          "utterance": "정말 본 받을 만한 좋은 습관이네요. ",
+          "summary": "",
+          "date": "2022-12-02",
+          "time": "12:03:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "13325",
+          "participantID": "4509",
+          "utterance": "좋게 봐주셔서 감사해요. 어른이 되면 친구들이 많이 걸러진다는데 맞나요? 저는 친구가 많은데 나중에 멀어지게 되면 너무 아쉬울 것 같아요.",
+          "summary": "나는 친구가 많다.",
+          "date": "2022-12-02",
+          "time": "12:06:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35575",
+          "participantID": "4870",
+          "utterance": "아무래도 별다른 약속없어도 학교에서 만날 수 있었지만, 사회에 나가서 자기만의 일이 생기고 하다보니 자주보지 못해서 그런거 같아요. ",
+          "summary": "",
+          "date": "2022-12-02",
+          "time": "12:34:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "13325",
+          "participantID": "4509",
+          "utterance": "그렇군요~ 가족은 죽이 되든 밥이 되든 붙어있는데 친구는 자주 볼 수 없으니 더 그런가봐요.",
+          "summary": "",
+          "date": "2022-12-02",
+          "time": "13:39:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35575",
+          "participantID": "4870",
+          "utterance": "죽이 되든 밥이 되는 이란 표현 재미있네요. 하하  저는 선후배와 친한 사람 한 두명이 다인데 만족해요. 너무 많은 사람들과 깊은 관계를 이어가는 것이 어쩔때는 스트레스 이거든요 ^^",
+          "summary": "나는 선후배와 친한 사람 한 두 명이 다 나는 너무 많은 사람들과 깊은 관계를 이어가는 것이 어쩔 때는 스트레스다.",
+          "date": "2022-12-02",
+          "time": "13:47:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "13325",
+          "participantID": "4509",
+          "utterance": "아~ 맞아요. 사람들과의 관계도 신경쓸 게 많으니 스트레스로 다가올 때가 있더라구요.",
+          "summary": "나도 사람 관계에 신경 쓸 게 많아 스트르레스로 다가올 때가 있다.",
+          "date": "2022-12-02",
+          "time": "14:04:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35575",
+          "participantID": "4870",
+          "utterance": "그래도 어렸을 때 새학기가 되면 늘 새로운 친구들을 만난다고 설레였던거 같은데요. 하하 저는 생일이 3월달이여서 새로 사귄 친구들을 생일파티에 초대하면서 사귀였던 기억이 있네요 ^^",
+          "summary": "나는 어렸을 때 새 학기가 되면 새로운 친구들을 만나는 것이 설레었다. 나는 생일이 3월이다. 나는 새로 사귄 친구들을 생일파티에 초대했다.",
+          "date": "2022-12-02",
+          "time": "14:07:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "13325",
+          "participantID": "4509",
+          "utterance": "아~ 친구를 사귈 수 있는 좋은 기회였겠어요. ",
+          "summary": "",
+          "date": "2022-12-02",
+          "time": "14:08:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35575",
+          "participantID": "4870",
+          "utterance": "너무 아쉬우셨겠어요. 그래도 용돈은 두둑히 받지 않으셨어요?^^",
+          "summary": "",
+          "date": "2022-12-02",
+          "time": "14:10:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "13325",
+          "participantID": "4509",
+          "utterance": "네, 맞아요~ 그건 좋은 점이었네요.ㅎㅎ 저는 친구랑 약속이 있어서 먼저 나가볼게요! 대화 즐거웠습니다.",
+          "summary": "",
+          "date": "2022-12-02",
+          "time": "14:29:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35575",
+          "participantID": "4870",
+          "utterance": "네 즐거운 만나되세요~ 다음에 또 이야기 나눠요~^^",
+          "summary": "",
+          "date": "2022-12-02",
+          "time": "15:50:36",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 치위생사가 되고 싶은 10대 여성이다.\n",
+          "나는 방송 중에 예능을 가끔 본다\n",
+          "나는 매일 스트레스를 받고 있고, 예능을 보면서 스트레스를 풀고 있다.",
+          "나는 기분전환으로 자기 계발서를 꾸준히 보고 있다.",
+          "나는 친구가 많다.",
+          "나도 사람 관계에 신경 쓸 게 많아 스트르레스로 다가올 때가 있다."
+        ],
+        "speaker2": [
+          "나는 TV 예능을 즐겨본다. 나는 30대 여성이다.",
+          "나는 런닝맨을 자주 본다.",
+          "나는 발라드 음악을 가끔 들으면서 기분전환을 한다.",
+          "나는 선후배와 친한 사람 한 두 명이 다 나는 너무 많은 사람들과 깊은 관계를 이어가는 것이 어쩔 때는 스트레스다.",
+          "나는 어렸을 때 새 학기가 되면 새로운 친구들을 만나는 것이 설레었다.",
+          "나는 생일이 3월이다. 나는 새로 사귄 친구들을 생일파티에 초대했다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00044-1",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00044-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "13325",
+          "participantID": "4509",
+          "utterance": "너무 오랜만이에요~ 그동안 잘 지내셨나요?5주만이네요.",
+          "summary": "",
+          "date": "2022-12-02",
+          "time": "16:02:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35575",
+          "participantID": "4870",
+          "utterance": "5주만이네요. 저는 잘 지냈어요~^^",
+          "summary": "",
+          "date": "2022-12-02",
+          "time": "16:04:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "13325",
+          "participantID": "4509",
+          "utterance": "뭐하고 지내셨어요? 저는 오랜만에 가족들과 여행을 다녀왔어요. ",
+          "summary": "나는 가족들과 오랜만에 여행을 다녀왔다.",
+          "date": "2022-12-02",
+          "time": "16:05:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35575",
+          "participantID": "4870",
+          "utterance": "너무 즐거우셨겠어요. 저도 가족들과 주말에 단풍을 좀 보러 다녀왔어요.^^",
+          "summary": "나는 주말에 가족들과 단풍을 보러 다녀왔다.",
+          "date": "2022-12-02",
+          "time": "16:07:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "13325",
+          "participantID": "4509",
+          "utterance": "친구들과 놀러 다니는 것도 좋지만 이렇게 가족끼리 여행을 다녀오는 것도 정말 즐거운 일이에요. 실례가 안 된다면 결혼을 하셨는지 여쭤봐도 될까요?",
+          "summary": "나는 가족과 여행을 다니는 것이 즐겁다.",
+          "date": "2022-12-02",
+          "time": "16:41:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35575",
+          "participantID": "4870",
+          "utterance": "저는 결혼했어요. 자녀도 있어요^^",
+          "summary": "나는 결혼을 해서 자녀도 있다.",
+          "date": "2022-12-02",
+          "time": "18:21:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "13325",
+          "participantID": "4509",
+          "utterance": "아~ 결혼하고 자녀가 생기면 진짜 내 가족이 생긴 거 같다고 하던데 맞나요? 부모님과 살 때랑 내가 이룬 가족이랑 또 느낌이 다르다고 들었어요ㅎ",
+          "summary": "",
+          "date": "2022-12-03",
+          "time": "11:15:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35575",
+          "participantID": "4870",
+          "utterance": "아이가 부부의 연결고리 잖아요. 저도 아이가 생기니 정말 내가 만든 울타리구나 싶더라고요 ^^",
+          "summary": "나는 아이가 생기니 가족이 정말 내가 만든 울타리구나 싶었다.",
+          "date": "2022-12-03",
+          "time": "12:15:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "13325",
+          "participantID": "4509",
+          "utterance": "신기해요~ 저는 아직 자녀는 없지만 강아지를 키우거든요. 너무 예쁘고 사랑스러운데 이 마음과 비슷한지 궁금하네요.",
+          "summary": "나는 자녀는 없고 강아지를 키운다.",
+          "date": "2022-12-04",
+          "time": "07:27:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35575",
+          "participantID": "4870",
+          "utterance": "완전히 같은 느낌은 아니겠지만, 비슷할꺼 같아요. ^^",
+          "summary": "",
+          "date": "2022-12-05",
+          "time": "10:38:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "13325",
+          "participantID": "4509",
+          "utterance": "그렇군요. 부모란 대단한 것 같아요.",
+          "summary": "나는 부모를 대단하게 생각한다.",
+          "date": "2022-12-05",
+          "time": "11:04:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35575",
+          "participantID": "4870",
+          "utterance": "부모의 사랑은 부모가 되어보니 그 대단함을 느끼게 되는거 같아요. ^^ 벌써 시간이 이렇게 되었네요. 저는 이만 나가봐야 겠네요^^",
+          "summary": "나는 부모가 되어보니 부모의 사랑 그 대단함을 느끼게 되는 것 같다.",
+          "date": "2022-12-05",
+          "time": "11:12:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "13325",
+          "participantID": "4509",
+          "utterance": "네~ 대화 즐거웠어요. 다음에 또 대화 나눠요.",
+          "summary": "",
+          "date": "2022-12-05",
+          "time": "11:12:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35575",
+          "participantID": "4870",
+          "utterance": "네~ 다음에 또 대화나눠요~ ^^ ",
+          "summary": "",
+          "date": "2022-12-05",
+          "time": "11:21:21",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 가족들과 오랜만에 여행을 다녀왔다.",
+          "나는 가족과 여행을 다니는 것이 즐겁다.",
+          "나는 자녀는 없고 강아지를 키운다.",
+          "나는 부모를 대단하게 생각한다."
+        ],
+        "speaker2": [
+          "나는 주말에 가족들과 단풍을 보러 다녀왔다.",
+          "나는 결혼을 해서 자녀도 있다.",
+          "나는 아이가 생기니 가족이 정말 내가 만든 울타리구나 싶었다.",
+          "나는 부모가 되어보니 부모의 사랑 그 대단함을 느끼게 되는 것 같다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 치위생사가 되고 싶은 10대 여성이다.\n",
+          "나는 방송 중에 예능을 가끔 본다\n",
+          "나는 매일 스트레스를 받고 있고, 예능을 보면서 스트레스를 풀고 있다.",
+          "나는 기분전환으로 자기 계발서를 꾸준히 보고 있다.",
+          "나는 친구가 많다.",
+          "나도 사람 관계에 신경 쓸 게 많아 스트르레스로 다가올 때가 있다."
+        ],
+        "speaker2": [
+          "나는 TV 예능을 즐겨본다. 나는 30대 여성이다.",
+          "나는 런닝맨을 자주 본다.",
+          "나는 발라드 음악을 가끔 들으면서 기분전환을 한다.",
+          "나는 선후배와 친한 사람 한 두 명이 다 나는 너무 많은 사람들과 깊은 관계를 이어가는 것이 어쩔 때는 스트레스다.",
+          "나는 어렸을 때 새 학기가 되면 새로운 친구들을 만나는 것이 설레었다.",
+          "나는 생일이 3월이다. 나는 새로 사귄 친구들을 생일파티에 초대했다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,801 @@
+{
+  "FileInfo": {
+    "filename": "K4-00001-CL91073-CP94160-12-10-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "31714",
+      "gender": "남성",
+      "age": "40대",
+      "occupation": "무직",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "30170",
+      "gender": "남성",
+      "age": "50대",
+      "occupation": "사무직",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00001"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "91073",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 역사/문화 여행에 관심 없다.",
+        "나의 생일은 2월이다.",
+        "나는 요즘, 매일 내 자신이 한심하다.",
+        "나는 신 음식을 즐겨 먹는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "94160",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 50대이다.",
+        "나는 비 오는 날씨를 좋아한다.",
+        "나는 필리핀에 가 보고 싶다.",
+        "나는 다소 성격이 급하다.",
+        "나는 도마뱀 한 마리를 키운다.",
+        "나는 혈액형이 A형이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "12-10",
+    "topicType": "여가와 오락>여행",
+    "topicTitle": "호캉스"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00001-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "안녕하세요. 저는 40 대 남성입니다.",
+          "summary": "나는 40 대 남성이다.",
+          "date": "2022-11-21",
+          "time": "03:28:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "안녕하세요, 저는 50 대 남성입니다. 잘 부탁드려요.",
+          "summary": "나는 50 대 남성이다.",
+          "date": "2022-11-21",
+          "time": "03:29:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "혹시 실례지만 역사/문화 여행에 관심 있으신가요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:29:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "여행은 관심 있습니다. 늘 필리핀에 가보고 싶었거든요.",
+          "summary": "나는 필리핀에 가고 싶다.",
+          "date": "2022-11-21",
+          "time": "03:30:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "저는 그런 곳에 관심이 없거든요. 2월이 생일이라 좀 쉴까 했더니. 여행 당첨이 됐지 뭡니까.",
+          "summary": "나는 역사/문화 여행에 관심이 없다. 나는 2월이 생일이다.",
+          "date": "2022-11-21",
+          "time": "03:32:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "그러신가요? 패키지 여행이라면 조금 힘들지도 모르겠습니다. 제가 성격이 급하거든요.",
+          "summary": "나는 성격이 급하다.",
+          "date": "2022-11-21",
+          "time": "03:32:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "자유롭게 다닐 수 있는 패키지라 괜찮으실지도요. 한 번 보시고 괜찮으시면 말씀 해 주세요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:33:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "그럼 보내주시면 확인해보겠습니다. ㅎㅎ 제가 A형이라 계획을 직접 짜는 게 좋거든요.",
+          "summary": "나는 혈액형이 A형이다.",
+          "date": "2022-11-21",
+          "time": "03:33:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "좋습니다. ㅎㅎ 그나저나 비가 오네요. 에휴. 괜히 우울해집니다.",
+          "summary": "나는 지금 우울하다.",
+          "date": "2022-11-21",
+          "time": "03:34:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "저는 비 오는 날씨 좋아하는데. 혹시 무슨 일 있으신가요?",
+          "summary": "나는 비 오는 날씨를 좋아한다.",
+          "date": "2022-11-21",
+          "time": "03:34:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "그냥 요즘 제 자신이 너무 한심한 것 같습니다. 아무것도 안 하고 싶어지고 그러네요.",
+          "summary": "나는 요즘 나 자신이 한심하다고 느낀다.",
+          "date": "2022-11-21",
+          "time": "03:35:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "출근하시는 분인가요? 조금 지치신 것 같은데.",
+          "summary": "나는 상대가 지쳐 보인다.",
+          "date": "2022-11-21",
+          "time": "03:35:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "그래보이나요? 에휴. 조금 쉬고 와야겠어요. 나중에 연락드려도 될까요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:35:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "그럼요. 푹 쉬고 오세요. ㅎㅎ 건강이 제일입니다.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:36:04",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40 대 남성이다.",
+          "나는 역사/문화 여행에 관심이 없다. 나는 2월이 생일이다.",
+          "나는 지금 우울하다.",
+          "나는 요즘 나 자신이 한심하다고 느낀다."
+        ],
+        "speaker2": [
+          "나는 50 대 남성이다.",
+          "나는 필리핀에 가고 싶다.",
+          "나는 성격이 급하다.",
+          "나는 혈액형이 A형이다.",
+          "나는 비 오는 날씨를 좋아한다.",
+          "나는 상대가 지쳐 보인다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00001-1",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00001-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "조금 쉬니까 나아진 것도 같네요. ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:45:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "나아지셨다니 다행입니다. ㅎ 지치셨던 게 맞는 것 같아요.",
+          "summary": "나는 상대가 지쳤다고 생각한다.",
+          "date": "2022-11-21",
+          "time": "03:45:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "그런가봅니다. ㅠ 몇 년 동안 제대로 된 휴가 없이 일만 했더니 그런가봅니다.",
+          "summary": "나는 제대로 된 휴가를 누리지 못했다.",
+          "date": "2022-11-21",
+          "time": "03:45:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "그럼 지칠만도 하죠. 호캉스라도 다녀오시는 건 어떻습니까?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:46:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "호캉스요? 호텔에 가서 쉬고 오는 그거 말씀하시는 거죠?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:46:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "네. 저는 와이프랑 가끔 다녀오거든요. 애들도 다 컸으니까요.",
+          "summary": "나는 아내와 가끔 호캉스를 즐긴다.",
+          "date": "2022-11-21",
+          "time": "03:46:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "저는 들어만봤지 해본적은 없네요. ^^... 할만한가요?",
+          "summary": "나는 호캉스에 대해 들어만 봤다.",
+          "date": "2022-11-21",
+          "time": "03:46:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "깨끗한 방에서 맛있는 걸 먹고 쉬기만 한다는 게 은근 좋더군요. 와이프도 완전 만족합니다. ㅎㅎ.",
+          "summary": "나는 호캉스가 아주 만족스럽다.",
+          "date": "2022-11-21",
+          "time": "03:47:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "그렇군요... 저도 이번 기회에 한 번 해봐야겠습니다.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:47:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "푹 쉬고 오시면 일이 더 잘 될지도 모르니까요. 서비스 좋은 곳 가시면 좋은 경험 되실겁니다.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:48:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "ㅎㅎ 감사합니다. 지금 한 번 찾아보려고요. 인터넷이 잘 되어있으니 편하네요.",
+          "summary": "나는 호캉스를 가볼 예정이다.",
+          "date": "2022-11-21",
+          "time": "03:48:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "아, 예약은 전화로 하시는 거 추천드려요. 그게 훨씬 빠르거든요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:49:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "조언 감사합니다. ^^ 마음에 드는 호텔이 있어서 예약하고 와야겠습니다.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:50:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "ㅎㅎ 좋은 휴식 되시길 바랍니다. 잘 다녀오세요~",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:50:36",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 제대로 된 휴가를 누리지 못했다.",
+          "나는 호캉스에 대해 들어만 봤다.",
+          "나는 호캉스를 가볼 예정이다."
+        ],
+        "speaker2": [
+          "나는 상대가 지쳤다고 생각한다.",
+          "나는 아내와 가끔 호캉스를 즐긴다.",
+          "나는 호캉스가 아주 만족스럽다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40 대 남성이다.",
+          "나는 역사/문화 여행에 관심이 없다. 나는 2월이 생일이다.",
+          "나는 지금 우울하다.",
+          "나는 요즘 나 자신이 한심하다고 느낀다."
+        ],
+        "speaker2": [
+          "나는 50 대 남성이다.",
+          "나는 필리핀에 가고 싶다.",
+          "나는 성격이 급하다.",
+          "나는 혈액형이 A형이다.",
+          "나는 비 오는 날씨를 좋아한다.",
+          "나는 상대가 지쳐 보인다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00001-2",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00001-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "3일만이네요. ㅎ 잘 지내셨는지.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:50:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "저야 평범하게 지냈죠. ^^ 호캉스는 어떠셨어요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:51:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "확실히 제가 휴식이 부족하긴 했었나봅니다. 쉬고 났더니 기분이 훨 좋아지더라고요.",
+          "summary": "나는 호캉스 이후 기분이 괜찮아졌다.",
+          "date": "2022-11-21",
+          "time": "03:51:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "다행이네요. ㅎㅎ 저도 와이프가 힘들다고 할 때마다 데려가거든요.",
+          "summary": "나는 아내가 힘들다고 할 때마다 호캉스를 함께 즐긴다.",
+          "date": "2022-11-21",
+          "time": "03:52:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "좋은 남편이십니다. ^^... 서비스 중에 힐링 프로그램이 있길래 그것도 한 번 해봤습니다.",
+          "summary": "나는 힐링 프로그램을 체험했다.",
+          "date": "2022-11-21",
+          "time": "03:52:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "오, 그런 것도 있군요. 어떠셨나요? 괜찮으시면 저도 한 번 해볼까 하고... ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:52:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "ㅎㅎ 제가 너무 지쳐서 스스로를 한심하다고 느끼고 있더라고요. 너무 무리하지 않기로 했습니다.",
+          "summary": "나는 지쳐있었다.",
+          "date": "2022-11-21",
+          "time": "03:53:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "좋은 깨달음 얻으셨네요~ 나는 스스로가 사랑해야죠. ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:53:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "그러게요. ㅎㅎ 그 당연한 걸 제가 모르고 살았더군요. 다음에 선생님도 한 번 해보세요. ㅎ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:54:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "이렇게 효과가 좋으면 당연히 해봐야겠네요. 일정 잡아야겠습니다.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:54:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "저는 다음 주말에 와이프와 한번 더 갈 생각입니다. 혼자만 쉰 것 같아서요.",
+          "summary": "나는 아내와 호캉스를 한번 더 갈 예정이다.",
+          "date": "2022-11-21",
+          "time": "03:55:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "같이 쉬고 오면 좋죠. 부부 사이가 더 돈독해질지도요. ㅎ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:55:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "ㅎㅎ 그럴지도 모르겠네요. 저는 예약하고 오겠습니다. ^^",
+          "summary": "나는 호텔을 예약하러 갈 것이다.",
+          "date": "2022-11-21",
+          "time": "03:55:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "저도 예약하러 가야겠습니다. ㅎㅎ 푹 쉬고 다시 연락 드리겠습니다.",
+          "summary": "나는 호텔을 예약하러 갈 것이다.",
+          "date": "2022-11-21",
+          "time": "03:56:03",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 호캉스 이후 기분이 괜찮아졌다.",
+          "나는 힐링 프로그램을 체험했다.",
+          "나는 지쳐있었다.",
+          "나는 아내와 호캉스를 한번 더 갈 예정이다.",
+          "나는 호텔을 예약하러 갈 것이다."
+        ],
+        "speaker2": [
+          "나는 아내가 힘들다고 할 때마다 호캉스를 함께 즐긴다.",
+          "나는 호텔을 예약하러 갈 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40 대 남성이다.",
+          "나는 역사/문화 여행에 관심이 없다. 나는 2월이 생일이다.",
+          "나는 지금 우울하다.",
+          "나는 요즘 나 자신이 한심하다고 느낀다.",
+          "나는 제대로 된 휴가를 누리지 못했다.",
+          "나는 호캉스에 대해 들어만 봤다.",
+          "나는 호캉스를 가볼 예정이다."
+        ],
+        "speaker2": [
+          "나는 50 대 남성이다.",
+          "나는 필리핀에 가고 싶다.",
+          "나는 성격이 급하다.",
+          "나는 혈액형이 A형이다.",
+          "나는 비 오는 날씨를 좋아한다.",
+          "나는 상대가 지쳐 보인다.",
+          "나는 상대가 지쳤다고 생각한다.",
+          "나는 아내와 가끔 호캉스를 즐긴다.",
+          "나는 호캉스가 아주 만족스럽다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00001-3",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "주"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00001-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "1주만에 뵙습니다. 호캉스 잘 다녀오셨나요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:56:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "저는 이번에 특실에서 쉬고 왔습니다. ㅎ 확실히 다르긴 하더군요.",
+          "summary": "나는 호텔 특실에서 호캉스를 즐겼다.",
+          "date": "2022-11-21",
+          "time": "03:56:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "이야~ 부럽습니다. ㅎㅎ 저는 그냥 방이었는데도 그렇게 좋았는데. 특실은 또 어떨까 싶어지네요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:57:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "나중에 여유 되면 한 번 가보시는 것도. ㅎ 편하더라고요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:57:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "와이프도 만족한 것 같으니 다음에 가보겠습니다. ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:58:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "사모님도 좋아하셨다니 다행이네요. 맛있는 것도 드셨나요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:58:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "저희가 신혼여행을 갔을 때 초밥을 먹었거든요. 그때 생각할 겸 초밥 먹었습니다. ㅎ.",
+          "summary": "나는 신혼여행 때 초밥을 먹었었다. 나는 아내와 초밥을 먹었다.",
+          "date": "2022-11-21",
+          "time": "03:58:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "좋은거 드셨네요~ 저는 호텔 조식을 좋아해서 갈 때마다 먹고 옵니다.",
+          "summary": "나는 호텔 조식을 좋아한다.",
+          "date": "2022-11-21",
+          "time": "03:59:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "조식도 좋죠~ 다음에는 조식 있는 호텔에 가야겠습니다. 이번에는 사먹었거든요. ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "03:59:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "유명한 호텔들에는 유명 셰프도 있고 그럽니다. ㅎ 운 좋으면 마주치기도 하고요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "04:00:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "이야~ 대단하십니다. 그럼 직접 본 적도 있으세요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "04:00:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "있지요. ㅎ 한 번이지만요. 이번에도 볼 수 있으면 좋겠네요. ^^",
+          "summary": "나는 유명 셰프를 본 적이 있다.",
+          "date": "2022-11-21",
+          "time": "04:00:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91073",
+          "participantID": "31714",
+          "utterance": "부럽네요. ^^~ 저도 이번 호캉스 때 유명인사들 한 번 보고 싶네요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "04:01:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "94160",
+          "participantID": "30170",
+          "utterance": "보실 수 있을 겁니다. ㅎㅎ 그럼 저는 짐 싸러 가보겠습니다.",
+          "summary": "나는 짐을 싸러 갈 것이다.",
+          "date": "2022-11-21",
+          "time": "04:01:19",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 신혼여행 때 초밥을 먹었었다. 나는 아내와 초밥을 먹었다."
+        ],
+        "speaker2": [
+          "나는 호텔 특실에서 호캉스를 즐겼다.",
+          "나는 호텔 조식을 좋아한다.",
+          "나는 유명 셰프를 본 적이 있다.",
+          "나는 짐을 싸러 갈 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40 대 남성이다.",
+          "나는 역사/문화 여행에 관심이 없다. 나는 2월이 생일이다.",
+          "나는 지금 우울하다.",
+          "나는 요즘 나 자신이 한심하다고 느낀다.",
+          "나는 제대로 된 휴가를 누리지 못했다.",
+          "나는 호캉스에 대해 들어만 봤다.",
+          "나는 호캉스를 가볼 예정이다.",
+          "나는 호캉스 이후 기분이 괜찮아졌다.",
+          "나는 힐링 프로그램을 체험했다.",
+          "나는 지쳐있었다.",
+          "나는 아내와 호캉스를 한번 더 갈 예정이다.",
+          "나는 호텔을 예약하러 갈 것이다."
+        ],
+        "speaker2": [
+          "나는 50 대 남성이다.",
+          "나는 필리핀에 가고 싶다.",
+          "나는 성격이 급하다.",
+          "나는 혈액형이 A형이다.",
+          "나는 비 오는 날씨를 좋아한다.",
+          "나는 상대가 지쳐 보인다.",
+          "나는 상대가 지쳤다고 생각한다.",
+          "나는 아내와 가끔 호캉스를 즐긴다.",
+          "나는 호캉스가 아주 만족스럽다.",
+          "나는 아내가 힘들다고 할 때마다 호캉스를 함께 즐긴다.",
+          "나는 호텔을 예약하러 갈 것이다."
+        ]
+      }
+    }
+  ]
+}

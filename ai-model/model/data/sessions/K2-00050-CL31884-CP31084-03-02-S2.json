@@ -1,0 +1,405 @@
+{
+  "FileInfo": {
+    "filename": "K2-00050-CL31884-CP31084-03-02-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "2015",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0441",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00050"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "31884",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 안경사이다.",
+        "나는 해외여행을 자주 한다.",
+        "나는 판타지 영화를 자주 본다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "31084",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 친구가 많다.",
+        "나는 토끼 한 마리를 키운다.",
+        "나는 드럼을 배우고 싶다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "03-02",
+    "topicType": "교통",
+    "topicTitle": "대중교통"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00050-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31884",
+          "participantID": "2015",
+          "utterance": "안녕하세요. 저는 안경사인 30대 여자예요. 반가워요.",
+          "summary": "나는 30대 여자이다. 나는 안경사이다.",
+          "date": "2022-09-22",
+          "time": "12:07:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31084",
+          "participantID": "0441",
+          "utterance": "안녕하세요. 저는 30대 남자입니다. 반갑습니다.",
+          "summary": "나는 30대 남자이다.",
+          "date": "2022-09-22",
+          "time": "12:07:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31884",
+          "participantID": "2015",
+          "utterance": "저는 판타지 영화를 좋아해서 자주 보는데 선생님은 뭐 좋아하세요?",
+          "summary": "나는 판타지 영화를 자주 본다.",
+          "date": "2022-09-22",
+          "time": "12:08:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31084",
+          "participantID": "0441",
+          "utterance": "저는 토끼 한마리를 키우고 있어요. 요즘 스트레스 쌓일 일이 많아서 키우기 시작했는데, 얘만 보면 힐링되네요.",
+          "summary": "나는 토끼 한 마리를 키운다.",
+          "date": "2022-09-22",
+          "time": "12:09:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31884",
+          "participantID": "2015",
+          "utterance": "토끼가 귀엽죠. ㅎㅎㅎ 선생님이 키우는 토끼의 사진이라도 보고 싶어요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:10:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31084",
+          "participantID": "0441",
+          "utterance": "보여드릴게요. 어때요? 꼬물거리는 새하얀 털이 정말 귀엽지 않아요?",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:11:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31884",
+          "participantID": "2015",
+          "utterance": "너무 귀여워서 한번 쓰다듬어보고 싶을 정도예요!",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:11:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31084",
+          "participantID": "0441",
+          "utterance": "귀엽게 봐주셔서 감사해요. 꼬미도 아마 좋아할 거에요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:12:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31884",
+          "participantID": "2015",
+          "utterance": "토끼 이름이 꼬미이군요. 꼬미에게 내가 꼬미를 좋아한다고 전해주세요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:13:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31084",
+          "participantID": "0441",
+          "utterance": "전해드릴게요 ㅋㅋㅋ 제가 친구가 많은데, 걔네들도 전부 꼬미만 보면 사족을 못써요.",
+          "summary": "난 친구가 많다.",
+          "date": "2022-09-22",
+          "time": "12:13:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31884",
+          "participantID": "2015",
+          "utterance": "그럴만 해요. 전 살면서 토끼를 안 좋아하는 사람은 한 번도 본 적이 없거든요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:14:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31084",
+          "participantID": "0441",
+          "utterance": "귀여운건 무적이고, 토끼는 신이에요!",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:14:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31884",
+          "participantID": "2015",
+          "utterance": "그말 들으니까 저도 토끼를 키우고 싶어졌어요. ㅋㅋㅋ.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:15:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31084",
+          "participantID": "0441",
+          "utterance": "한번 분양받아 보세요. 전 이제 꼬미 밥주러 들어가 보겠습니다.",
+          "summary": "나는 꼬미의 밥을 줄 것이다.",
+          "date": "2022-09-22",
+          "time": "12:15:55",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다. 나는 안경사이다.",
+          "나는 판타지 영화를 자주 본다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이다.",
+          "나는 토끼 한 마리를 키운다.",
+          "난 친구가 많다.",
+          "나는 꼬미의 밥을 줄 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00050-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00050-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31884",
+          "participantID": "2015",
+          "utterance": "안녕하세요. 3시간만에 연락해요. 꼬미는 밥을 잘 먹었나요?",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:16:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31084",
+          "participantID": "0441",
+          "utterance": "당연하죠. 먹는 모습 사진찍었는데 보여드릴까요?",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:17:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31884",
+          "participantID": "2015",
+          "utterance": "네. 좋아요. ㅎㅎㅎ 영상도 있으면 보여주세요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:17:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31084",
+          "participantID": "0441",
+          "utterance": "넵 잠시만아ㄴ낭ㄴ. 아, 죄송해요. 타고 있는 버스가 갑자기 급정거해서 오타났어요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:18:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31884",
+          "participantID": "2015",
+          "utterance": "아하. 제가 해외여행을 자주 해서 대중교통을 많이 이용해서 아는데 그런 일 잘 발생하지 않는데 운전자가 많이 급한 성격인가 봐요.",
+          "summary": "나는 해외여행을 자주 한다.",
+          "date": "2022-09-22",
+          "time": "12:19:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31084",
+          "participantID": "0441",
+          "utterance": "그러게요. 한국은 버스가 조금 험한 편이더라고요. 오늘따라 길이 많이 막히기도 하고요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:20:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31884",
+          "participantID": "2015",
+          "utterance": "버스로 어디 가세요? 퇴근 길이신가요?",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:21:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31084",
+          "participantID": "0441",
+          "utterance": "아니요 ㅋㅋ 제가 요즘 배우고 싶던 드럼 학원에 상담문의 하러 가려고 버스타고 가는 중이에요.",
+          "summary": "나는 드럼을 배우고 싶다.",
+          "date": "2022-09-22",
+          "time": "12:21:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31884",
+          "participantID": "2015",
+          "utterance": "아하. 혼자 배우실 예정이세요? 친구와 배우실 예정이세요?",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:22:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31084",
+          "participantID": "0441",
+          "utterance": "친구랑요. 지금 가고 있는 학원을 추천해준것도 친구거든요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:23:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31884",
+          "participantID": "2015",
+          "utterance": "오. 친구랑 배우면 혼자다니는 것보다 학원이 더 재밌겠어요. ㅎㅎㅎ.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:23:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31084",
+          "participantID": "0441",
+          "utterance": "그렇죠. 그러다 배움이 뒷전이 될 것 같아 고민이에요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:24:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31884",
+          "participantID": "2015",
+          "utterance": "친구와 경쟁을 해봐요. ㅎㅎㅎ 그러면 배우는게 우선일 것 같아요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:25:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31084",
+          "participantID": "0441",
+          "utterance": "그럴까요? 아, 지금 거의 다 도착했네요. 조금 있다가 다시 연락 드릴게요!",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "12:25:44",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 해외여행을 자주 한다."
+        ],
+        "speaker2": [
+          "나는 드럼을 배우고 싶다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다. 나는 안경사이다.",
+          "나는 판타지 영화를 자주 본다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이다.",
+          "나는 토끼 한 마리를 키운다.",
+          "난 친구가 많다.",
+          "나는 꼬미의 밥을 줄 것이다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "FileInfo": {
+    "filename": "K2-00059-CL20274-CP10946-06-14-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4475",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "자영업",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "4652",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00059"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "20274",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 요즘, 가끔 괴롭다",
+        "나는 사진부 동아리에 관심이 없다",
+        "나는 스포츠 영화를 자주 본다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "10946",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 10대이다.",
+        "내가 사는 곳은 고양이다",
+        "나는 항상 신이 난다",
+        "나는 레게 음악을 자주 듣는다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "06-14",
+    "topicType": "교육",
+    "topicTitle": "중학교"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00059-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20274",
+          "participantID": "4475",
+          "utterance": "안녕하세요 저는 20대 남성입니다.",
+          "summary": "나는 20대 남성이다.",
+          "date": "2022-11-27",
+          "time": "10:45:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "10946",
+          "participantID": "4652",
+          "utterance": "네 안녕하세요. 저는 고양시에 살고있는 10대 남성입니다.",
+          "summary": "나는 고양시에 사는 10대 남성이다",
+          "date": "2022-11-27",
+          "time": "10:50:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20274",
+          "participantID": "4475",
+          "utterance": "네 어떻게 지내시나요? 저는 요즘 가끔 괴롭습니다",
+          "summary": "나는 요즘 가끔 괴롭다.",
+          "date": "2022-11-27",
+          "time": "10:53:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "10946",
+          "participantID": "4652",
+          "utterance": "아 그래요? 저는 어려서 그런지 항상 신이 나요.",
+          "summary": "나는 어려서 항상 신이 난다.",
+          "date": "2022-11-27",
+          "time": "10:59:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20274",
+          "participantID": "4475",
+          "utterance": "네 제가 대학에서 사진부 동아리를 하고 있는데, 부쩍 관심이 없어서요. 고민입니다.",
+          "summary": "나는 대학에서 사진부 동아리를 하고 있는데 관심이 없다.",
+          "date": "2022-11-27",
+          "time": "11:01:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "10946",
+          "participantID": "4652",
+          "utterance": "저는 레게 음악을 자주 듣는데, 혹시 고민있을 때 음악이 도움이 될까요?",
+          "summary": "나는 레게 음악을 자주 듣는다.",
+          "date": "2022-11-27",
+          "time": "11:02:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20274",
+          "participantID": "4475",
+          "utterance": "네 저도 음악으로 풀고, 영화로도 풀고 있습니다. 영화 좋아하세요?",
+          "summary": "나는 음악이랑 영화로 풀고 있다.",
+          "date": "2022-11-27",
+          "time": "11:07:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "10946",
+          "participantID": "4652",
+          "utterance": "네 @브랜드명1@로 영화 자주봐요.",
+          "summary": "나는 @브랜드명1@로 영화를 자주 본다.",
+          "date": "2022-11-27",
+          "time": "11:37:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20274",
+          "participantID": "4475",
+          "utterance": "네 저는 스포츠 영화를 좋아해서 자주 보거든요.",
+          "summary": "나는 스포츠 영화를 자주 본다.",
+          "date": "2022-11-27",
+          "time": "11:48:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "10946",
+          "participantID": "4652",
+          "utterance": "네 저는 장르 구분없이 영화를 좋아해요.",
+          "summary": "나는 장르 구분 없이 영화를 좋아한다.",
+          "date": "2022-11-27",
+          "time": "11:54:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20274",
+          "participantID": "4475",
+          "utterance": "스포츠 영화중에 국가대표를 재미있게 보았습니다",
+          "summary": "나는 국가대표를 재미있게 보았다.",
+          "date": "2022-11-27",
+          "time": "11:54:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "10946",
+          "participantID": "4652",
+          "utterance": "네 저는 최근에 퍼플하트라는 영화를 재미있게 봤어요.",
+          "summary": "나는 최근에 퍼플 하트라는 영화를 재미있게 봤다.",
+          "date": "2022-11-27",
+          "time": "11:55:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20274",
+          "participantID": "4475",
+          "utterance": "그거 재미있겠네요. 저는 그럼 추천해주신 영화 보러 가볼게요",
+          "summary": "나는 추천해주신 영화 보러 가겠다.",
+          "date": "2022-11-27",
+          "time": "12:44:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "10946",
+          "participantID": "4652",
+          "utterance": "네 즐거웠어요. 저도 바빠서 가볼께요.",
+          "summary": "",
+          "date": "2022-11-27",
+          "time": "12:46:45",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 남성이다.",
+          "나는 요즘 가끔 괴롭다.",
+          "나는 대학에서 사진부 동아리를 하고 있는데 관심이 없다.",
+          "나는 음악이랑 영화로 풀고 있다.",
+          "나는 스포츠 영화를 자주 본다.",
+          "나는 국가대표를 재미있게 보았다.",
+          "나는 추천해주신 영화 보러 가겠다."
+        ],
+        "speaker2": [
+          "나는 고양시에 사는 10대 남성이다",
+          "나는 어려서 항상 신이 난다.",
+          "나는 레게 음악을 자주 듣는다.",
+          "나는 @브랜드명1@로 영화를 자주 본다.",
+          "나는 장르 구분 없이 영화를 좋아한다.",
+          "나는 최근에 퍼플 하트라는 영화를 재미있게 봤다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00059-1",
+      "prevTimeInfo": {
+        "timeNum": "7",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00059-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20274",
+          "participantID": "4475",
+          "utterance": "정말 오랜만이네요. 거의 2달이 다되었네요",
+          "summary": "나는 거의 2달 만에 본다.\n",
+          "date": "2022-11-27",
+          "time": "12:55:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "10946",
+          "participantID": "4652",
+          "utterance": "네 7주나 지났네요. 저는 중학교 때 친구를 만났어요.",
+          "summary": "나는 중학교 친구를 만났다.",
+          "date": "2022-11-27",
+          "time": "12:59:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20274",
+          "participantID": "4475",
+          "utterance": "오랜만에 만났겠네요. 저는 중학교 시절 공부가 늦어 따라가느라 고생한 기억이 나네요",
+          "summary": "나는 중학교 때 공부가 늦어 힘들었다.",
+          "date": "2022-11-27",
+          "time": "13:01:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "10946",
+          "participantID": "4652",
+          "utterance": "네 저는 중학교 때 내신공부하느라 힘들었던 기억이 있어요.",
+          "summary": "나는 중학교 내신 공부하느라 힘이 들었다",
+          "date": "2022-11-27",
+          "time": "13:05:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20274",
+          "participantID": "4475",
+          "utterance": "맞아요. 내신도 신경 써야하고,,, 저는 중학교 수학이 어려워서 한참 헤매었네요",
+          "summary": "나는 중학교 수학이 어려워서 고생했다.",
+          "date": "2022-11-27",
+          "time": "13:06:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "10946",
+          "participantID": "4652",
+          "utterance": "네 수학은 항상 어렵죠. 저는 스트레스 받을 때 도서관에서 책을 많이 빌렸더니 중학교 때 학생회 도서부장이 됐어요.",
+          "summary": "나는 중학교 때 학생회 도서 부장이었다.",
+          "date": "2022-11-27",
+          "time": "13:07:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20274",
+          "participantID": "4475",
+          "utterance": "와 정말 대단하시네요. 저는 중학교 때 사진을 좋아해서, 관련 공부만 했거든요",
+          "summary": "나는 중학교 때 사진을 좋아해서 공부했다.",
+          "date": "2022-11-27",
+          "time": "13:09:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "10946",
+          "participantID": "4652",
+          "utterance": "와 중학교 때 벌써 좋아하는게 있었어요? 저는 중학교 때 학교공부만 열심히 했어요.",
+          "summary": "나는 중학교 때 학교 공부만 열심히 하였다.",
+          "date": "2022-11-27",
+          "time": "13:11:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20274",
+          "participantID": "4475",
+          "utterance": "네 그런데 성적은 아주 바닥이었죠. 제가 중학교 교육과 잘 맞지 않았던 것 같아요",
+          "summary": "나는 중학교 때 성적이 좋지 않았다.",
+          "date": "2022-11-27",
+          "time": "13:12:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "10946",
+          "participantID": "4652",
+          "utterance": "네 교육과정이 학생과 안맞는건 중학교나 고등학교나 같은 것 같아요. 우린 자유롭고 싶은데 말이죠.",
+          "summary": "",
+          "date": "2022-11-27",
+          "time": "13:14:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20274",
+          "participantID": "4475",
+          "utterance": "맞아요, 그나마 고등학교는 진로에 대한 교육이 더 많아서 다행이었어요",
+          "summary": "나는 고등학교 때 진로에 대한 교육이 더 많아서 다행이었다.",
+          "date": "2022-11-27",
+          "time": "13:16:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "10946",
+          "participantID": "4652",
+          "utterance": "네 학생들이 자율권이 중학교에서부터 많이 보장되면 좋겠어요.",
+          "summary": "나는 학생들의 자율권이 중학교부터 보장되었으면 좋겠다.",
+          "date": "2022-11-27",
+          "time": "13:18:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20274",
+          "participantID": "4475",
+          "utterance": "맞아요! 더 많은 경험을 했으면 좋겠네요. 그럼 저는 점심을 먹으러 가보겠습니다.",
+          "summary": "",
+          "date": "2022-11-27",
+          "time": "13:22:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "10946",
+          "participantID": "4652",
+          "utterance": "네 즐거웠어요.저도 바빠서 가볼께요.",
+          "summary": "",
+          "date": "2022-11-27",
+          "time": "13:22:45",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 거의 2달 만에 본다.\n",
+          "나는 중학교 때 공부가 늦어 힘들었다.",
+          "나는 중학교 수학이 어려워서 고생했다.",
+          "나는 중학교 때 사진을 좋아해서 공부했다.",
+          "나는 중학교 때 성적이 좋지 않았다.",
+          "나는 고등학교 때 진로에 대한 교육이 더 많아서 다행이었다."
+        ],
+        "speaker2": [
+          "나는 중학교 친구를 만났다.",
+          "나는 중학교 내신 공부하느라 힘이 들었다",
+          "나는 중학교 때 학생회 도서 부장이었다.",
+          "나는 중학교 때 학교 공부만 열심히 하였다.",
+          "나는 학생들의 자율권이 중학교부터 보장되었으면 좋겠다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남성이다.",
+          "나는 요즘 가끔 괴롭다.",
+          "나는 대학에서 사진부 동아리를 하고 있는데 관심이 없다.",
+          "나는 음악이랑 영화로 풀고 있다.",
+          "나는 스포츠 영화를 자주 본다.",
+          "나는 국가대표를 재미있게 보았다.",
+          "나는 추천해주신 영화 보러 가겠다."
+        ],
+        "speaker2": [
+          "나는 고양시에 사는 10대 남성이다",
+          "나는 어려서 항상 신이 난다.",
+          "나는 레게 음악을 자주 듣는다.",
+          "나는 @브랜드명1@로 영화를 자주 본다.",
+          "나는 장르 구분 없이 영화를 좋아한다.",
+          "나는 최근에 퍼플 하트라는 영화를 재미있게 봤다."
+        ]
+      }
+    }
+  ]
+}

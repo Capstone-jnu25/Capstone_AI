@@ -1,0 +1,417 @@
+{
+  "FileInfo": {
+    "filename": "K2-00080-CL11464-CP22280-14-09-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3698",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "3659",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00080"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "11464",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 10대이다.",
+        "나는 종교가 없다",
+        "나는 시스템 소프트웨어 개발자(프로그래머)가 되고 싶다",
+        "나는 일식을 싫어한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22280",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 남자 형제는 세무사이다",
+        "나는 항해사이다",
+        "나는 PC게임에 관심이 없다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "14-09",
+    "topicType": "시사/사회>사회이슈(국내)",
+    "topicTitle": "방역"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00080-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "11464",
+          "participantID": "3698",
+          "utterance": "안녕하세요! 저는 10대 여자에요!",
+          "summary": "나는 10대 여성이다",
+          "date": "2022-10-24",
+          "time": "13:41:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22280",
+          "participantID": "3659",
+          "utterance": "반갑습니다 저는 20대 여성입니다",
+          "summary": "나는 20대 여성이다",
+          "date": "2022-10-24",
+          "time": "13:42:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11464",
+          "participantID": "3698",
+          "utterance": "그럼 대학생이신건가요~? 무슨 과에요? 저는 프로그래머가 되고 싶은데 혹시 관련된 과일까요?",
+          "summary": "나는 시스템 소프트웨어 개발자(프로그래머)가 되고 싶다\n",
+          "date": "2022-10-24",
+          "time": "13:45:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22280",
+          "participantID": "3659",
+          "utterance": "저는 일찍결혼해서 주부입니다!프로그래머라ㅎㅎ 저는 PC게임에 관심이 없습니다",
+          "summary": "나는 일찍 결혼해서 주부이다. 나는 PC게임에 관심이 없다.",
+          "date": "2022-10-24",
+          "time": "13:46:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11464",
+          "participantID": "3698",
+          "utterance": "아! 주부시구나! 집에서 집안일하느라 바쁘시겠네요! 주말에 종교활동같은건 안하시나요?",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "13:47:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22280",
+          "participantID": "3659",
+          "utterance": "무교 입니다ㅎㅎ종교 있으신가요??대신 저의 남자형제가 세무사여서. 일을 가끔 도와주고 있습니다",
+          "summary": "나는 무교이다. 나의 남자 형제는 세무사이다.\n",
+          "date": "2022-10-24",
+          "time": "13:49:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11464",
+          "participantID": "3698",
+          "utterance": "어 저도 무교에요!ㅎㅎ 주부시면 집에서 형제일도 가끔 도와주고 괜찮은 것 같네요!ㅎㅎ",
+          "summary": "나는 무교다",
+          "date": "2022-10-24",
+          "time": "13:53:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22280",
+          "participantID": "3659",
+          "utterance": "결혼전에는 제가 항해사였습니다 ㅋㅋㅋ",
+          "summary": "나는 결혼 전에 항해사라는 직업을 가지고 있었다.",
+          "date": "2022-10-24",
+          "time": "13:54:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11464",
+          "participantID": "3698",
+          "utterance": "항해사 멋있으세요! 점심은 드셨나요?",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "14:15:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22280",
+          "participantID": "3659",
+          "utterance": "좀전에 삼각김밥에 커피 먹고왔어요ㅎㅎ님은 점심 식사 하셨지요?",
+          "summary": "나는 삼각김밥과 커피를 먹었다",
+          "date": "2022-10-24",
+          "time": "14:16:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11464",
+          "participantID": "3698",
+          "utterance": "네네 했어요! 일식을 싫어하는데 학교급식에서 돈까스 이런게 나왔네요! 저는 건강한 한식이 좋은데ㅎㅎ 후식까지 잘 드셨네요!",
+          "summary": "나는 일식을 싫어한다\n나는 한식을 좋아한다",
+          "date": "2022-10-24",
+          "time": "15:56:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22280",
+          "participantID": "3659",
+          "utterance": "맛있는 돈까스 드셨네요 ㅎㅎ날씨가 추워요 감기 조심하세요",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "15:57:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11464",
+          "participantID": "3698",
+          "utterance": "네! 갑자기 날씨가 많이 추워졌네요~ 겉옷 꼭 챙겨입으세요!",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "22:59:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22280",
+          "participantID": "3659",
+          "utterance": "네 그럴께요 저도 볼일좀 볼께요 다음에 봐어요~",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "23:02:15",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 10대 여성이다",
+          "나는 시스템 소프트웨어 개발자(프로그래머)가 되고 싶다\n",
+          "나는 무교다",
+          "나는 일식을 싫어한다\n나는 한식을 좋아한다"
+        ],
+        "speaker2": [
+          "나는 20대 여성이다",
+          "나는 일찍 결혼해서 주부이다.",
+          "나는 PC게임에 관심이 없다.",
+          "나는 무교이다. 나의 남자 형제는 세무사이다.\n",
+          "나는 결혼 전에 항해사라는 직업을 가지고 있었다.",
+          "나는 삼각김밥과 커피를 먹었다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00080-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00080-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "11464",
+          "participantID": "3698",
+          "utterance": "안녕하세요~ 3일만이네요!ㅎㅎ 날 추운데 감기 안걸리셨어요? 저는 10대라서 그런지 면연력이 나빠서 감기에 걸렸네요.",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "23:11:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22280",
+          "participantID": "3659",
+          "utterance": "제가 이번에 독감 걸린지 알고 검사 하니깐 장염인거있죠..",
+          "summary": "나는 장염에 걸렸다.",
+          "date": "2022-10-24",
+          "time": "23:11:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11464",
+          "participantID": "3698",
+          "utterance": "어머나! 날이 추워서 음식 잘못 먹기 쉽지 않은데 어떻게하다가 장염을 걸리셨대요?",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "23:16:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22280",
+          "participantID": "3659",
+          "utterance": "이유를 모르겠어요 코로나랑 독감 검사 둘다 했는데 음성이였어요 근데 검사 비용이 43,000원 인거있죠",
+          "summary": "나는 코로나와 독감 검사를 둘 다 했지만 음성이었다.",
+          "date": "2022-10-24",
+          "time": "23:18:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11464",
+          "participantID": "3698",
+          "utterance": "어머나 너무 비싸네요! ㅠㅠ 이제 코로나검사가 유료로 바껴서 왠만하면 방역을 철저히 해서 안걸리게 조심해야 할 것 같아요! 그런데 요즘 마스크를 벗고 다니는 사람들이 너무 많아서 제가 조심하는게 의미가 있나 모르겠네요!",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "23:19:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22280",
+          "participantID": "3659",
+          "utterance": "마스크 실외는 이미 벗는거죠 실내도 방역 풀더라고요",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "23:21:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11464",
+          "participantID": "3698",
+          "utterance": "맞아요~ 마스크 끼고 다닐 때도 다 걸렸잖아요!ㅎㅎ 저도 마스크를 열심히 꼈는데 걸렸었어요!",
+          "summary": "나는 마스크를 열심히 꼈는데 걸렸다",
+          "date": "2022-10-24",
+          "time": "23:26:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22280",
+          "participantID": "3659",
+          "utterance": "저도 코로나 걸렸어요 한달 반 된것같아요 너무 아팠어요...",
+          "summary": "나는 한 달 반 전에 코로나에 걸렸고 너무 아팠다.",
+          "date": "2022-10-24",
+          "time": "23:26:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11464",
+          "participantID": "3698",
+          "utterance": "저도요!ㅎㅎ 방역을 아무리 잘해도 단체로 걸려버리니 어쩔 수 없더라고요!",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "23:27:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22280",
+          "participantID": "3659",
+          "utterance": "네 맞아요 이번에 전염성이 엄청 심했어요 ",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "23:28:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11464",
+          "participantID": "3698",
+          "utterance": "맞아요! 그래도 별탈없이 지나가서 다행이네요~ 이제 겨울이라 독감이 또 유행이라니 예방접종 꼭 맞으세요!",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "23:28:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22280",
+          "participantID": "3659",
+          "utterance": "독감 접종 맞으셨나요?저는 아직 주사 못맞았어요",
+          "summary": "나는 아직 독감 예방 접종을 맞지 못했다.",
+          "date": "2022-10-24",
+          "time": "23:31:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11464",
+          "participantID": "3698",
+          "utterance": "저도 아직 안맞았는데 조만간에 맞으려고요!ㅎㅎ 코로나를 앓고 나니 독감이 무서워서 미리미리 준비를 하려고요!",
+          "summary": "나는 조만간 주사를 맞을 거다",
+          "date": "2022-10-24",
+          "time": "23:45:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22280",
+          "participantID": "3659",
+          "utterance": "ㅎㅎ우리 서로 걸리지말자고요 저는 잠깐 볼일좀 보고올께요 다음에 뵈어요~",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "23:48:14",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 마스크를 열심히 꼈는데 걸렸다",
+          "나는 조만간 주사를 맞을 거다"
+        ],
+        "speaker2": [
+          "나는 장염에 걸렸다.",
+          "나는 코로나와 독감 검사를 둘 다 했지만 음성이었다.",
+          "나는 한 달 반 전에 코로나에 걸렸고 너무 아팠다.",
+          "나는 아직 독감 예방 접종을 맞지 못했다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 10대 여성이다",
+          "나는 시스템 소프트웨어 개발자(프로그래머)가 되고 싶다\n",
+          "나는 무교다",
+          "나는 일식을 싫어한다\n나는 한식을 좋아한다"
+        ],
+        "speaker2": [
+          "나는 20대 여성이다",
+          "나는 일찍 결혼해서 주부이다.",
+          "나는 PC게임에 관심이 없다.",
+          "나는 무교이다. 나의 남자 형제는 세무사이다.\n",
+          "나는 결혼 전에 항해사라는 직업을 가지고 있었다.",
+          "나는 삼각김밥과 커피를 먹었다"
+        ]
+      }
+    }
+  ]
+}

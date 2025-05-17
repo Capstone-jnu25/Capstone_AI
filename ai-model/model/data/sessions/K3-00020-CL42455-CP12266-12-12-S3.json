@@ -1,0 +1,620 @@
+{
+  "FileInfo": {
+    "filename": "K3-00020-CL42455-CP12266-12-12-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3463",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "기타",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "4412",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00020"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "42455",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 따뜻한 날씨를 싫어한다",
+        "나의 거주지는 부천이다",
+        "나는 눈치가 없는 편이다",
+        "나는 앵무새를 키우고 싶다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "12266",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 10대이다.",
+        "나는 매일 자전거로 학교에 간다",
+        "나는 반도체학과에 진학하고 싶다",
+        "나는 딸기를 싫어한다",
+        "나는 보라색을 좋아한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "12-12",
+    "topicType": "여가와 오락>여행",
+    "topicTitle": "패키지"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00020-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "안녕하세요 저는 40대 남성입니다.",
+          "summary": "나는 40대 남성이다.",
+          "date": "2022-12-02",
+          "time": "16:09:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "안녕하세요 저는 10대 남성입니다",
+          "summary": "저는 10대 남성이에요",
+          "date": "2022-12-02",
+          "time": "17:32:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "저는 따뜻한 날씨를 싫어해요",
+          "summary": "나는 따뜻한 날씨를 싫어한다",
+          "date": "2022-12-02",
+          "time": "17:56:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "그럼 추운 날씨 좋아하시나요? 저도 따듯한것보단 추운걸 좋아해요! 매일 자전거로 학교에 가는데 지금은 너무 추워서 그렇게는 못할 것 같아요",
+          "summary": "나는 매일 자전거로 학교에 간다.",
+          "date": "2022-12-02",
+          "time": "23:14:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "추운날씨가 더좋아요. 다른사람들은 싫다는데 .. ㅎㅎ 눈치가 좀 없는편입니다",
+          "summary": "나는 추운 날씨가 더 좋다.",
+          "date": "2022-12-02",
+          "time": "23:15:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "그렇군요!!! 저는 소심해요.. 저도 눈치 빠른편은 아니에요 어떤일 하시나요? 저는 반도체학과에 진학하고싶어요",
+          "summary": "나는 반도체학과에 진학하고 싶다. 나는 소심하다.",
+          "date": "2022-12-02",
+          "time": "23:19:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "저는 IT회사를 다녀요 제거주지는 부천이에요",
+          "summary": "나는 부천에 산다.",
+          "date": "2022-12-03",
+          "time": "03:09:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "와 부천에 거주하고 계시는군요! 혹시 좋아하는 색 있으세요? 저는 보라색을 좋아해요!",
+          "summary": "나는 보라색을 좋아한다",
+          "date": "2022-12-03",
+          "time": "09:57:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "저는 파란색을 좋아해요. 애완동물은 키우세요? 저는 앵무새를 키우고 싶어요",
+          "summary": "나는 앵무새를 키우고 싶다.",
+          "date": "2022-12-03",
+          "time": "17:09:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "저는 부모님이 안좋아하셔서 키우진 못하지만 동물 정말 좋아해요!! 앵무새도 너무 매력적인 동물이죠",
+          "summary": "나는 애완동물을 못 키운다.",
+          "date": "2022-12-03",
+          "time": "17:53:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "나중에 키울 계획은 있으신가요? ",
+          "summary": "",
+          "date": "2022-12-03",
+          "time": "18:42:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "네! 나중에 독립하면 고양이를 키우고싶어요! 혹시 좋아하는 과일 있으세요? 저는 포도 좋아해요! 딸기는 싫어하구요",
+          "summary": "나는 딸기를 싫어한다. 나는 포도를 좋아한다.",
+          "date": "2022-12-03",
+          "time": "18:49:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "저는 포도를 좋아해요. 딸기를 싫어하시는구나",
+          "summary": "나는 포도를 좋아한다.",
+          "date": "2022-12-03",
+          "time": "20:51:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "네! 딸기 싫어해요! 앗 저 잠시 엄마가 불러서 나가볼게요 다음에 더 대화해요",
+          "summary": "나는 엄마가 부른다.",
+          "date": "2022-12-03",
+          "time": "20:52:29",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 남성이다.",
+          "나는 따뜻한 날씨를 싫어한다",
+          "나는 추운 날씨가 더 좋다.",
+          "나는 부천에 산다.",
+          "나는 앵무새를 키우고 싶다.",
+          "나는 포도를 좋아한다."
+        ],
+        "speaker2": [
+          "저는 10대 남성이에요",
+          "나는 매일 자전거로 학교에 간다.",
+          "나는 반도체학과에 진학하고 싶다. 나는 소심하다.",
+          "나는 보라색을 좋아한다",
+          "나는 애완동물을 못 키운다.",
+          "나는 딸기를 싫어한다. 나는 포도를 좋아한다.",
+          "나는 엄마가 부른다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00020-1",
+      "prevTimeInfo": {
+        "timeNum": "6",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00020-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "안녕하세요 벌써 6일이 지났네요",
+          "summary": "나는 6일 만에 대화한다.",
+          "date": "2022-12-03",
+          "time": "21:11:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "안녕하세요 6일이 지났네요 어떻게 지내셨어요?",
+          "summary": "",
+          "date": "2022-12-03",
+          "time": "22:11:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "저는 여행을 갔다왔어요 코로나가 풀려서..",
+          "summary": "나는 여행 갔다 왔다.",
+          "date": "2022-12-03",
+          "time": "22:16:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "어디로 다녀오셨나요? 해외 다녀오셨나요?",
+          "summary": "",
+          "date": "2022-12-03",
+          "time": "22:20:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "사이판으로 패키지여행을 다녀왔어요 가서 앵무새도 봤어요.",
+          "summary": "나는 사이판으로 패키지여행을 다녀왔다. 나는 사이판에서 앵무새를 봤다",
+          "date": "2022-12-03",
+          "time": "22:20:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "사이판 너무 좋죠 패키지는 괜찮으셨어요? 저는 패키지는 조금 피곤하더라구요..",
+          "summary": "나는 패키지가 피곤하다.",
+          "date": "2022-12-03",
+          "time": "22:23:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "저는 패키지가 여행계획을 안짜도 돼서 편하더라구요",
+          "summary": "나는 패키지가 편하다.",
+          "date": "2022-12-03",
+          "time": "22:23:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "그건 진짜 좋은 것 같아요 여행 계획 짜는게 너무 힘들죠.. 이것저것 다 알아봐야하구요",
+          "summary": "나는 여행 계획 짜는 게 힘들다",
+          "date": "2022-12-03",
+          "time": "22:26:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "여행계획짜는게 제일 힘든것 같아요 ",
+          "summary": "나는 여행 계획 짜는 게 힘들다.",
+          "date": "2022-12-03",
+          "time": "22:27:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "맞아요 사실 혼자가면 편한대로 짜면 되는데 같이 가게되면 또 달라지니깐요",
+          "summary": "",
+          "date": "2022-12-03",
+          "time": "22:33:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "네 내리라면 내리고 타라면 타고 아무생각없이 따라다니기 좋더라구요",
+          "summary": "나는 아무 생각 없이 따라다니기 좋다.",
+          "date": "2022-12-03",
+          "time": "22:42:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "오! 그래도 알아서 진짜 좋은 곳 데려다주니 좋죠 설명도 다 해주고요! ",
+          "summary": "",
+          "date": "2022-12-03",
+          "time": "22:44:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "맞아요 따로공부안해도 되고 너무편해요!",
+          "summary": "",
+          "date": "2022-12-03",
+          "time": "22:44:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "맞아요 외국은 대화가 잘 안통해서 어려울텐데 걱정 안해도 될 것 같아요! 저 잠시 나가볼게요 다음에 더 대화해요",
+          "summary": "",
+          "date": "2022-12-03",
+          "time": "22:50:38",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 6일 만에 대화한다.",
+          "나는 여행 갔다 왔다.",
+          "나는 사이판으로 패키지여행을 다녀왔다. 나는 사이판에서 앵무새를 봤다",
+          "나는 패키지가 편하다.",
+          "나는 여행 계획 짜는 게 힘들다.",
+          "나는 아무 생각 없이 따라다니기 좋다."
+        ],
+        "speaker2": [
+          "나는 패키지가 피곤하다.",
+          "나는 여행 계획 짜는 게 힘들다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남성이다.",
+          "나는 따뜻한 날씨를 싫어한다",
+          "나는 추운 날씨가 더 좋다.",
+          "나는 부천에 산다.",
+          "나는 앵무새를 키우고 싶다.",
+          "나는 포도를 좋아한다."
+        ],
+        "speaker2": [
+          "저는 10대 남성이에요",
+          "나는 매일 자전거로 학교에 간다.",
+          "나는 반도체학과에 진학하고 싶다. 나는 소심하다.",
+          "나는 보라색을 좋아한다",
+          "나는 애완동물을 못 키운다.",
+          "나는 딸기를 싫어한다. 나는 포도를 좋아한다.",
+          "나는 엄마가 부른다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00020-2",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "주"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00020-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "오랫만이네요 벌써 5주가 흘렀어요",
+          "summary": "",
+          "date": "2022-12-03",
+          "time": "22:54:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "와 벌써 5주가 흘렀군요 잘지내셨나요?",
+          "summary": "",
+          "date": "2022-12-03",
+          "time": "22:57:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "저번에 패키지로 사이판을 갔었죠. 전 또 패키지 여행을 다녀왔어요",
+          "summary": "나는 패키지여행을 다녀왔다.",
+          "date": "2022-12-03",
+          "time": "23:09:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "어떠셨어요?! 여행은 언제나 너무 즐겁죠!! ",
+          "summary": "",
+          "date": "2022-12-03",
+          "time": "23:25:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "패키지여행이라 아무생각없이 편하게 잘다녀온것 같아요",
+          "summary": "나는 패키지라 아무 생각 없이 편하게 다녀온 것 같다.",
+          "date": "2022-12-03",
+          "time": "23:40:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "패키지 여행 기념품 사러 갔을때 시간 충분히 주던가요?!",
+          "summary": "",
+          "date": "2022-12-04",
+          "time": "07:09:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "기념품사는데는 항상 충분히 주더라구요 많이 살수록 여행사에 좋은거니까요",
+          "summary": "",
+          "date": "2022-12-04",
+          "time": "23:17:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "정말 다행이에요! 역시 여행은 기념품 사는게 정말 재밌죠!! 욕심이 너무 생기더라구요",
+          "summary": "",
+          "date": "2022-12-04",
+          "time": "23:39:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "기념품을 많이 사시는분인가봐요 저는 쓸데없는 쇼핑은 안하는편이에요",
+          "summary": "나는 쓸데없는 쇼핑은 안 한다.",
+          "date": "2022-12-05",
+          "time": "00:04:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "저는 엄청 사요 나중에 집에 와서 보면 뿌듯하고 기억이 잘 나더라구요! 절제를 잘하시나봐요",
+          "summary": "나는 기념품을 엄청 산다",
+          "date": "2022-12-05",
+          "time": "10:43:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "요즘은 인터넷에서 다 팔다보니 안사게 되는것 같아요. ",
+          "summary": "나는 인터넷에서 팔다 보니 안 산다.",
+          "date": "2022-12-05",
+          "time": "13:38:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "그런가요? 저는 그 곳에서만 살 수 있는 걸 주로 구매해요! 흔한거 말구요",
+          "summary": "나는 그곳에서 살 수 있는걸 주로 구매한다",
+          "date": "2022-12-05",
+          "time": "14:34:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "42455",
+          "participantID": "3463",
+          "utterance": "패키지여행가면 관광가이드가 정말 좋아하겠네요 ",
+          "summary": "",
+          "date": "2022-12-05",
+          "time": "17:31:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12266",
+          "participantID": "4412",
+          "utterance": "그런가요? 저 이제 저녁 먹으러 가야겠어요 식사 맛있게 하시고 다음에 더 대화해요!",
+          "summary": "나는 저녁을 먹으러 간다.",
+          "date": "2022-12-05",
+          "time": "17:51:10",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 패키지여행을 다녀왔다.",
+          "나는 패키지라 아무 생각 없이 편하게 다녀온 것 같다.",
+          "나는 쓸데없는 쇼핑은 안 한다.",
+          "나는 인터넷에서 팔다 보니 안 산다."
+        ],
+        "speaker2": [
+          "나는 기념품을 엄청 산다",
+          "나는 그곳에서 살 수 있는걸 주로 구매한다",
+          "나는 저녁을 먹으러 간다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남성이다.",
+          "나는 따뜻한 날씨를 싫어한다",
+          "나는 추운 날씨가 더 좋다.",
+          "나는 부천에 산다.",
+          "나는 앵무새를 키우고 싶다.",
+          "나는 포도를 좋아한다.",
+          "나는 6일 만에 대화한다.",
+          "나는 여행 갔다 왔다.",
+          "나는 사이판으로 패키지여행을 다녀왔다. 나는 사이판에서 앵무새를 봤다",
+          "나는 패키지가 편하다.",
+          "나는 여행 계획 짜는 게 힘들다.",
+          "나는 아무 생각 없이 따라다니기 좋다."
+        ],
+        "speaker2": [
+          "저는 10대 남성이에요",
+          "나는 매일 자전거로 학교에 간다.",
+          "나는 반도체학과에 진학하고 싶다. 나는 소심하다.",
+          "나는 보라색을 좋아한다",
+          "나는 애완동물을 못 키운다.",
+          "나는 딸기를 싫어한다. 나는 포도를 좋아한다.",
+          "나는 엄마가 부른다.",
+          "나는 패키지가 피곤하다.",
+          "나는 여행 계획 짜는 게 힘들다"
+        ]
+      }
+    }
+  ]
+}

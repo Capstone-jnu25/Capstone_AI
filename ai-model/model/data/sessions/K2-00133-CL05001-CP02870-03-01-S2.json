@@ -1,0 +1,483 @@
+{
+  "FileInfo": {
+    "filename": "K2-00133-CL05001-CP02870-03-01-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0046",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "자영업",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0090",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00133"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "05001",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나의 거주지는 서울이다.",
+        "나는 TV 시사 프로그램을 가끔 본다.",
+        "나는 공항 검역관이다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "02870",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나의 거주지는 경상도이다.",
+        "나는 학원 영어 강사이다.",
+        "나는 TV 예능을 좋아한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "03-01",
+    "topicType": "교통",
+    "topicTitle": "자동차"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "2-00133-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "안녕하세요. 저는 50대 여자입니다. 저는 서울에 살아요.",
+          "summary": "나는 50대 여자이다. 나는 서울에 산다.",
+          "date": "2022-08-24",
+          "time": "09:22:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "안녕하세요. 저는 30대 여자입니다. 저는 경상도에 살고있어요.",
+          "summary": "나는 30대 여자이다. 나는 경상도에 산다.",
+          "date": "2022-08-24",
+          "time": "09:22:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "저는 공항 검역관으로 일 하고 있습니다. 혹시 무슨 일 하시나요~?",
+          "summary": "나는 공항 검역관이다.",
+          "date": "2022-08-24",
+          "time": "09:23:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "아 저는 학원 영어 강사로 일하고 있어요. 뭔가 부끄럽네요.",
+          "summary": "나는 학원 영어 강사이다. 나는 부끄럽다.",
+          "date": "2022-08-24",
+          "time": "09:23:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "오잉? 왜 부끄러우신 건가요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:23:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "저는 학원 영어 강사가 어쩔수 없이 된 케이스거든요. 검역관이라니 멋있는 직업이어서요.",
+          "summary": "나는 어쩔 수 없이 학원 영어 강사가 되었다.",
+          "date": "2022-08-24",
+          "time": "09:24:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "아 어쩔수 없이요? 그럼 지금도 마지못해 하시는 거예요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:24:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "네. 저는 원래 중학교 선생님이 되고 싶었어요..",
+          "summary": "나는 중학교 선생님이 되고 싶었다.",
+          "date": "2022-08-24",
+          "time": "09:24:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "그러시군요. 그래도 저는 모든 선생님들이 똑같이 다 중요하고 사명있는 직업이라고 생각해요. 어디서 일 하던지요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:25:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "그런가요? 감사합니다. 그래도 조금은 수치심이 줄어들었어요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:25:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "그럼요. 학원 선생님 덕분에 꿈을 가지게 되는 친구들도 있으니까요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:26:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "네 다행히 학원은 잘되서, 수강생은 많긴합니다.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:26:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "그럼 더 잘 되었네요. 축하드려요!",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:26:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "네 근데 학교 선생님과는 다르게 제가 언제 그만둘지도 모르고, 노후가 보장된게 아니어서요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:27:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "그렇긴 하겠네요. 그래도 지금 아직 젊으시잖아요. 능력만 있으면 붙잡으려고 난리일거라고 생각해요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:27:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "그렇긴하죠. 그래서 지금 그만두고 다른직장을 알아볼지 아니면 계속 할지 고민중이에요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:27:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "아 그렇군요. 잘 고민해보세요. 그럼 저는 가끔 보는 TV 시사 프로그램 보러 가볼게요!",
+          "summary": "나는 TV 시사 프로그램을 가끔 본다.",
+          "date": "2022-08-24",
+          "time": "09:28:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "저도 가볼게요. 오늘 진로 상담해주셔서 감사합니다.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:28:04",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 50대 여자이다. 나는 서울에 산다.",
+          "나는 공항 검역관이다.",
+          "나는 TV 시사 프로그램을 가끔 본다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다. 나는 경상도에 산다.",
+          "나는 학원 영어 강사이다. 나는 부끄럽다.",
+          "나는 어쩔 수 없이 학원 영어 강사가 되었다.",
+          "나는 중학교 선생님이 되고 싶었다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00133-1",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "2-00133-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "오랜만에 연락드려요. 5일간 잘 지냈나요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:28:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "네 5일간 잘 지냈어요. 연락해주셔서 감사합니다.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:28:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "그냥 궁금해서 한 번 연락 드려봤네요. 요즘은 좀 괜찮나요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:29:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "네 일단은 학원에 계속 근무하기로했습니다.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:29:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "그러셨군요. 결정 응원합니다!",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:29:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "감사합니다. 그쪽은 요즘 일이 어떠세요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:30:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "저는 늘 비슷해요. 근데 얼마전에 자동차를 새거로 바꿨는데 확실히 좋네요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:30:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "오 자차하나 구매하셨나봐요. 뭐 구매하셨어요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:30:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "아 구 버전 아이오닉으로 바꿨어요. 전기차로 바꾸고 싶어서요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:31:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "오 전기차요. 설비가 그쪽은 잘 되있나요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:31:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "나름 나쁘지 않죠. 요즘 외관이 이쁘게 잘 나오잖아요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:31:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "네 저도 차산지 얼마안됬는데 전기차로 바꾸고 싶을정도로 이쁘더라고요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:32:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "아 그러셨구나. 어떤 차 타세요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:32:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "저는 @브랜드명1@ 타고 다녀요. 전기차요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:32:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "와 @브랜드명1@면 성공하셨네요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:32:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "감사합니다. 학원이 좀 잘나가서 벌이가 괜찮은것같아요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:33:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "05001",
+          "participantID": "0046",
+          "utterance": "그럼 저는 이만 일 하러 가볼게요. 오늘도 수고하세요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:33:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02870",
+          "participantID": "0090",
+          "utterance": "저도 이만 가보겠습니다. 오늘 하루 수고 하셨습니다.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "09:33:39",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여자이다. 나는 서울에 산다.",
+          "나는 공항 검역관이다.",
+          "나는 TV 시사 프로그램을 가끔 본다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다. 나는 경상도에 산다.",
+          "나는 학원 영어 강사이다. 나는 부끄럽다.",
+          "나는 어쩔 수 없이 학원 영어 강사가 되었다.",
+          "나는 중학교 선생님이 되고 싶었다."
+        ]
+      }
+    }
+  ]
+}

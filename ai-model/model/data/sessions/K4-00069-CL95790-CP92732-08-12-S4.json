@@ -1,0 +1,764 @@
+{
+  "FileInfo": {
+    "filename": "K4-00069-CL95790-CP92732-08-12-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "32189",
+      "gender": "남성",
+      "age": "60대 이상",
+      "occupation": "퇴직/연금생활자",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "31269",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "중졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00069"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "95790",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 60대 이상이다.",
+        "나는 흐린 날을 싫어한다.",
+        "나의 생일은 3월이다.",
+        "나는 TV 뉴스를 자주 본다.",
+        "나는 전자기기의 장단점을 분석한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "92732",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나는 5년 안에 복권에 당첨되는 것이 목표이다.",
+        "나는 주말에 창문을 닦는다.",
+        "나는 자주 상처를 받는다.",
+        "나는 단감을 싫어한다.",
+        "나는 혈액형이 AB형이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "08-12",
+    "topicType": "개인 및 관계>연애/결혼",
+    "topicTitle": "혼인신고"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00069-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "안녕하십니까? 저는 60대 남성입니다.",
+          "summary": "나는 60대 남성이다.",
+          "date": "2022-11-22",
+          "time": "09:04:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "안녕하세요! 저는 40대 여성입니다.",
+          "summary": "나는 40대 여성입니다.",
+          "date": "2022-11-22",
+          "time": "09:04:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "초면이네요. 반가워요. 그쪽은 무슨 취미가 있으신가요?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:04:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "네 반갑습니다. 저는 복권을 사는 취미가 있어요~ 그래서 목표도 있죠!",
+          "summary": "나는 복권을 사는 취미가 있다.",
+          "date": "2022-11-22",
+          "time": "09:05:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "복권은 저도 종종 사곤 하는데 말이죠. 어떤 목표가 있어요?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:05:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "저는 5년 안에 복권에 당첨되는 것이 목표입니다.",
+          "summary": "나는 5년 안에 복권에 당첨되는 것이 목표이다.",
+          "date": "2022-11-22",
+          "time": "09:05:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "이야. 당첨만 되면 저도 좋겠네요. 목표 이루시길 빌게요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:05:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "그죠. 바라고는 있지만 사실 될지는 모르겠습니다. 아! 그리고 저는 주말에 창문을 닦아요.",
+          "summary": "나는 주말에 창문을 닦는다.",
+          "date": "2022-11-22",
+          "time": "09:05:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "나쁜 취미는 아니네요. 기본적으로 청결을 중요하게 생각하나봐요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:06:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "네 맞아요. 청결해야 생활도 건강해져서요! 그럼 선생님은 어떤 취미가 있으세요?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:06:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "저는 TV 뉴스를 좀 자주 봅니다. ㅎㅎ.",
+          "summary": "나는 TV 뉴스를 자주 본다.",
+          "date": "2022-11-22",
+          "time": "09:06:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "아 TV 뉴스 좋은데요? 아무래도 자주 챙겨보면 세상 돌아가는 걸 더 잘 알겠어요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:07:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "맞아요. ㅎㅎ 그러면 이만 저는 가볼게요. 오늘 자기 소개시간 즐거웠어요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:07:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "아 네 저도 너무 즐거웠습니다~ !!",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:07:22",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 60대 남성이다.",
+          "나는 TV 뉴스를 자주 본다."
+        ],
+        "speaker2": [
+          "나는 40대 여성입니다.",
+          "나는 복권을 사는 취미가 있다.",
+          "나는 5년 안에 복권에 당첨되는 것이 목표이다.",
+          "나는 주말에 창문을 닦는다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00069-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00069-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "3일만이네요. 안녕하세요? 잘 지내셨죠?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:07:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "네 안녕하세요 선생님! ㅎㅎ 잘 지냈습니다!",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:07:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "잘 지내셨다니 다행이에요. 그쪽은 자녀가 있으세요?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:07:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "네 자녀 있습니다. 요즘은 아이가 사춘기라서 아이한테서 자주 상처를 받네요...",
+          "summary": "나는 자주 상처를 받는다.",
+          "date": "2022-11-22",
+          "time": "09:08:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "상처를 받는다고요. 이런.. 화이팅입니다. 이겨내실수 있을거에요. 저희 아들은 이번에 결혼을 한다고 하더라고요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:08:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "오 그렇군요. 너무 축하드립니다!",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:08:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "감사합니다. 혼인신고도 안하고 동거하는걸 제가 좀 말렸었는데. 잘한건지 모르겠어요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:08:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "아 그러셨구나. 요즘 젊은이들은 동거도 자주 하더라구요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:09:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "아 맞습니다. 제가 이런 결혼관념이 좀 다른가봐요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:09:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "아무래도 세대에 따라 다를 수 밖에 없는거 같아요. ㅎㅎ 근데 선생님은 혹시 혈액형이 어떻게 되시죠?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:09:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "저는 A형이에요. 그러다보니까 좀 흐린 날을 싫어해요.",
+          "summary": "나의 혈액형은 A형이다. 나는 흐린 날을 싫어한다.",
+          "date": "2022-11-22",
+          "time": "09:10:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "아 그러시구나. 저는 혈액형이 AB형인데, 이게 정확하진 않지만 A형이랑 AB형이 좀 보수적인 경항도 있다고 우수갯소리로 들었었어요.",
+          "summary": "나의 혈액형은 AB형이다.",
+          "date": "2022-11-22",
+          "time": "09:10:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "그럼 저는 아들이 3월인 제 생일에 뭐할꺼냐고 물어본다고해서 좀 가볼게요. 담에 또 연락해요!",
+          "summary": "나의 생일은 3월이다.",
+          "date": "2022-11-22",
+          "time": "09:11:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "아 네 알겠습니다. 오늘도 즐거웠습니다!",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:11:31",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나의 혈액형은 A형이다. 나는 흐린 날을 싫어한다.",
+          "나의 생일은 3월이다."
+        ],
+        "speaker2": [
+          "나는 자주 상처를 받는다.",
+          "나의 혈액형은 AB형이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 60대 남성이다.",
+          "나는 TV 뉴스를 자주 본다."
+        ],
+        "speaker2": [
+          "나는 40대 여성입니다.",
+          "나는 복권을 사는 취미가 있다.",
+          "나는 5년 안에 복권에 당첨되는 것이 목표이다.",
+          "나는 주말에 창문을 닦는다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00069-2",
+      "prevTimeInfo": {
+        "timeNum": "43",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00069-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "음 거의 이틀만이네요. 안녕하세요? 잘 지내셨죠?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:11:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "선생님! ㅎㅎ 이번에도 먼저 연락주셔서 감사해요!",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:11:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "제가 원래 좀 먼저 연락을 하는 타입이어서 말이죠.",
+          "summary": "나는 먼저 연락하는 타입이다.",
+          "date": "2022-11-22",
+          "time": "09:12:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "너무 좋네요~ 감사합니다 늘 먼저 연락주셔서요! 그 선생님 생신때는 뭐 하기로 하셨어요?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:12:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "아 저 생일 때는 그냥 편하게 밥먹고 가라고 했어요. 뭐 따로 준비하지 말라 그랬죠.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:12:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "그랬군요. 좋네요~! 확실히 가족들과 그냥 시간을 보내는 것만으로도 좋죠~",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:12:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "네. 예전에는 외식 같은거 많이해야 좋았는데, 요즘은 아니더라고요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:13:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "아 그러세요? 요즘에는 집밥이 더 좋으세요?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:13:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "맞습니다. 가족들끼리 함께하는 집밥이 덜 스트레스받고 좋더라고요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:13:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "그렇군요. 저도 집밥을 더 좋아하긴 합니다. ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:13:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "네 좋아요. ㅎㅎ 너무 제얘기만 한게 아닌가 싶네요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:14:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "아 ㅎㅎ 저는 오늘도 주말이라서 창문을 닦고 있었어요~",
+          "summary": "나는 주말에 창문을 닦는다.",
+          "date": "2022-11-22",
+          "time": "09:14:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "아 그렇군요. 다음번에는 더 자세한 이야기 나눠봐요. 저는 이만 가봐야해서요!",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:14:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "네 알겠습니다. 저도 그럼 마저 창문 닦으러 가볼게요~",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:14:37",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 먼저 연락하는 타입이다."
+        ],
+        "speaker2": [
+          "나는 주말에 창문을 닦는다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 60대 남성이다.",
+          "나는 TV 뉴스를 자주 본다.",
+          "나의 혈액형은 A형이다. 나는 흐린 날을 싫어한다.",
+          "나의 생일은 3월이다."
+        ],
+        "speaker2": [
+          "나는 40대 여성입니다.",
+          "나는 복권을 사는 취미가 있다.",
+          "나는 5년 안에 복권에 당첨되는 것이 목표이다.",
+          "나는 주말에 창문을 닦는다.",
+          "나는 자주 상처를 받는다.",
+          "나의 혈액형은 AB형이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00069-3",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "주"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00069-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "한달.. 조금 안됬나요? 안녕하세요. 잘 지내시죠?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:14:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "오 선생님! 오랜만입니다~ 네 저는 잘 지냅니다~",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:14:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "제가 요즘 바빴어가지고 조금 연락을 덜 드린것 같아요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:15:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "아 그러셨군요. 괜찮습니다. 지금은 좀 여유가 생기셨어요?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:15:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "네. 그러고보니 사춘기 아드님이 있다고 하셨나요?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:15:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "네 맞아요...ㅎㅎ 요즘에도 자주 상처를 받곤 하네요 ㅠ 근데 왜 그러시나요?",
+          "summary": "나는 요즘 자주 상처를 받는다.",
+          "date": "2022-11-22",
+          "time": "09:15:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "화이팅입니다. 아 특별한건 아니고요. 저도 예전에 사춘기였던 아들이 생각나서요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:16:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "감사합니다. 아 그렇군요... 어떻게 잘 넘기셨는지 궁금해요..!",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:16:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "저희 아들은 일탈은 그래도 안했던것 같아요. 그래도 하고싶은대로 좀 냅뒀던 경향이 있네요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:16:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "아 역시나 좀 자유롭게 존중해줄 필요가 있겠어요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:16:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "맞아요. 괜히 제가 터치하고 그런게 더 싫은 나이였던걸로 기억을 해요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:17:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "조언 너무 감사드려요! 저도 노력해볼게요!",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:17:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "95790",
+          "participantID": "32189",
+          "utterance": "네 노력하시면 언젠가 다 이루실거에요. 담에 또 연락드릴게요 담에 봐요!",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:17:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "92732",
+          "participantID": "31269",
+          "utterance": "감사합니다~ 그럼 저는 복권이나 사러 가볼게요~ 오늘 조언 감사합니다!",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "09:17:28",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [],
+        "speaker2": [
+          "나는 요즘 자주 상처를 받는다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 60대 남성이다.",
+          "나는 TV 뉴스를 자주 본다.",
+          "나의 혈액형은 A형이다. 나는 흐린 날을 싫어한다.",
+          "나의 생일은 3월이다.",
+          "나는 먼저 연락하는 타입이다."
+        ],
+        "speaker2": [
+          "나는 40대 여성입니다.",
+          "나는 복권을 사는 취미가 있다.",
+          "나는 5년 안에 복권에 당첨되는 것이 목표이다.",
+          "나는 주말에 창문을 닦는다.",
+          "나는 자주 상처를 받는다.",
+          "나의 혈액형은 AB형이다.",
+          "나는 주말에 창문을 닦는다."
+        ]
+      }
+    }
+  ]
+}

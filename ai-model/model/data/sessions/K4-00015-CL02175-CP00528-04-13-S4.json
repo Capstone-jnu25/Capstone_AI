@@ -1,0 +1,774 @@
+{
+  "FileInfo": {
+    "filename": "K4-00015-CL02175-CP00528-04-13-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0041",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "기타",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0056",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "서비스직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00015"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "02175",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 종교가 없다.",
+        "나는 화덕 피자를 좋아한다.",
+        "나는 요즘, 가끔 만족스럽다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "00528",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나는 일주일에 한두 번 자전거로 출퇴근한다.",
+        "나는 비올라를 배우고 싶다.",
+        "나는 한식을 즐겨 먹는다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "04-13",
+    "topicType": "일과 직업>회사/아르바이트",
+    "topicTitle": "출퇴근"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00015-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "안녕하세요 저는 30대 남자입니다!",
+          "summary": "나는 남자이다. 나는 30대이다.",
+          "date": "2022-08-09",
+          "time": "02:47:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "반가워요 저는 40 여자에요~!",
+          "summary": "나는 여자이다. 나는 40대이다.",
+          "date": "2022-08-09",
+          "time": "02:47:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "제가 채팅은 처음이라 조금 떨리네요.",
+          "summary": "나는 채팅이 처음이다.",
+          "date": "2022-08-09",
+          "time": "02:48:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "저도 채팅은 처음이에요!그쪽은 어쩌다가 채팅에 들어오셨어요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "02:48:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "저는 회사에서 아는분이 채팅하다가 좋은 인연을 만났다고해서요.그쪽은요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "저도 그래서 용기내서 들어와봤어요.이유가 같네요 인연인가봐요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "하하 그런가요. 혹시 믿는 종교가 있으세요?",
+          "summary": "나는 종교가 없다.",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "아니요 저는 종교는 없어요 그쪽은요?",
+          "summary": "나는 종교가 없다.",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "저도 무교입니다.저희는 통하는 부분이 좀 있네요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "그러네요!혹시 출퇴근은 어떻게 하세요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "저는 원래 자차로 다니는데 일주일에 한 두번은 자전거로 출퇴근해요.",
+          "summary": "나는 일주일에 한두 번 자전거로 출퇴근한다.",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "어머 저도 똑같에요!일주일에 한 두번만 자전거로 출퇴근해요!",
+          "summary": "나는 일주일에 한두 번 자전거로 출퇴근한다.",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "정말요?혹시 그럼 음식은 어떤걸좋아하시나요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "저는 딱히 가리는건없어요!잠시만요 제가 밧데리가 없어서 충전기 좀 가지고 올게요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 남자이다. 나는 30대이다.",
+          "나는 채팅이 처음이다.",
+          "나는 종교가 없다.",
+          "나는 일주일에 한두 번 자전거로 출퇴근한다."
+        ],
+        "speaker2": [
+          "나는 여자이다. 나는 40대이다.",
+          "나는 종교가 없다.",
+          "나는 일주일에 한두 번 자전거로 출퇴근한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00015-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00015-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "생각보다 오래걸리셨네요?무슨일 있으셨나요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "죄송해요 오래기다리셨죠 충전기는 바로 찾았는데 하필 부장님을 마주쳐서 얘기좀하다왔어요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "괜찮습니다 저희 어디까지 얘기했죠??",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "좋아하는 음식이요!저는 딱히 가리는 음식은 없어요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "혹시 이것도 통하나 딱 찝어서 말해볼까요?저는 화덕피자를 좋아해요!",
+          "summary": "나는 화덕 피자를 좋아한다.",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "아 저는 양식보다는 한식을 즐겨먹어요.",
+          "summary": "나는 한식을 즐겨 먹는다.",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "처음으로 안 맞는 부분이 있네요!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "그러게요 그래도 맞는게 더 많으니까요!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "그러면 요즘에 배우고싶으신건 있으세요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "네!저는 요즘 비올라에 관심이 생겨서 비올라를 배우고싶어요.",
+          "summary": "나는 비올라를 배우고 싶다.",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "아 그래요?저도 비올라는 아니지만 기타를 배우고 싶어요!",
+          "summary": "나는 기타를 배우고 싶다.",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "악기학원에 같이 다녀도 괜찮을거같네요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "그러게요 제가 한번 알아보도록 하겠습니다.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "저도 찾아볼게요.그러면 퇴근후에 연락해요!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 화덕 피자를 좋아한다.",
+          "나는 기타를 배우고 싶다."
+        ],
+        "speaker2": [
+          "나는 한식을 즐겨 먹는다.",
+          "나는 비올라를 배우고 싶다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 남자이다. 나는 30대이다.",
+          "나는 채팅이 처음이다.",
+          "나는 종교가 없다.",
+          "나는 일주일에 한두 번 자전거로 출퇴근한다."
+        ],
+        "speaker2": [
+          "나는 여자이다. 나는 40대이다.",
+          "나는 종교가 없다.",
+          "나는 일주일에 한두 번 자전거로 출퇴근한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00015-2",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00015-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "저는 칼퇴근했습니다!그쪽은요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "저도 이제 슬슬 연락드리려고했어요!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "요즘 회사가 한가해서 가끔 칼퇴근할때마다 만족스럽네요.",
+          "summary": "나는 요즘, 가끔 만족스럽다.",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "저도 요즘 퇴근을 일찍하니까 아르바이트를 하나 해볼까해요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "저도 페이는 적어도 가볍게 할 아르바이트를 할까해요.",
+          "summary": "나는 아르바이트를 할 생각이다.",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "사실 저는 생각만하고 알아본적은 없어요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "부끄럽지만 저도 그래요 저흰 정말 통하는게 맞나봐요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "그러게요!혹시 어제 뉴스보셨어요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "뉴스는 항상 보는데 어떤 뉴스요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "집안일을 도와주는 로봇뉴스요!",
+          "summary": "집안일을 하는 로봇이 있다.",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "아 저도 그거 보고 조금 탐나기는 했어요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "가격도 그렇게 비싸지는 않던데 저도 고민중이에요.",
+          "summary": "나는 로봇 구매를 고민 중이다.",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "그럼 저희 몇명모아서 공동구매해볼까요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "그러면 저도 주위에 연락돌려볼게요!",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 요즘, 가끔 만족스럽다.",
+          "나는 아르바이트를 할 생각이다."
+        ],
+        "speaker2": [
+          "집안일을 하는 로봇이 있다.",
+          "나는 로봇 구매를 고민 중이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 남자이다. 나는 30대이다.",
+          "나는 채팅이 처음이다.",
+          "나는 종교가 없다.",
+          "나는 일주일에 한두 번 자전거로 출퇴근한다.",
+          "나는 화덕 피자를 좋아한다.",
+          "나는 기타를 배우고 싶다."
+        ],
+        "speaker2": [
+          "나는 여자이다. 나는 40대이다.",
+          "나는 종교가 없다.",
+          "나는 일주일에 한두 번 자전거로 출퇴근한다.",
+          "나는 한식을 즐겨 먹는다.",
+          "나는 비올라를 배우고 싶다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00015-3",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00015-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "생각보다 주변 반응이 좋지않네요.",
+          "summary": "주변 반응이 좋지 않다.",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "그러게요 다들 결혼하거나 동거중이셔서 그런가봐요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "그래도 요새는 싱글이 더 많으니까 시장성은 좋다고봐요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "저도 점점 로봇을 사용하는곳이 늘어날거같아서 이직도 알아보고있어요.",
+          "summary": "나는 이직을 알아보고 있다.",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "저는 이미 로봇관련 회사에서 일하는중이라 필요하신거 있으면 물어보세요.",
+          "summary": "나는 로봇 관련 회사를 다닌다.",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "혹시 제가 들어갈만한 부서가 있을까요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "지금 어떤일을 하고 계세요??",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "저는 악세서리 가공을 하고있어요.",
+          "summary": "나는 액세서리 가공을 한다.",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "그러면 저희 검수부서에 들어오시면 잘하실것같은데요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "정말요?!그럼 제가 어떤 준비를 하면 될까요?",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "일단 성급하게 결정하지마시고 연차 내시고 견학 한번오세요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "네 알겠습니다.그럼 언제쯤에 방문하는게 좋을까요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02175",
+          "participantID": "0041",
+          "utterance": "저희는 월요일이 가장 한가하니까 다음주 월요일날 오시면 될 거 같아요.",
+          "summary": "나는 월요일이 한가하다.",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00528",
+          "participantID": "0056",
+          "utterance": "네 그러면 다음주 월요일날뵈요.",
+          "summary": "",
+          "date": "2022-08-09",
+          "time": "03:27:41",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "주변 반응이 좋지 않다.",
+          "나는 로봇 관련 회사를 다닌다.",
+          "나는 월요일이 한가하다."
+        ],
+        "speaker2": [
+          "나는 이직을 알아보고 있다.",
+          "나는 액세서리 가공을 한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 남자이다. 나는 30대이다.",
+          "나는 채팅이 처음이다.",
+          "나는 종교가 없다.",
+          "나는 일주일에 한두 번 자전거로 출퇴근한다.",
+          "나는 화덕 피자를 좋아한다.",
+          "나는 기타를 배우고 싶다.",
+          "나는 요즘, 가끔 만족스럽다.",
+          "나는 아르바이트를 할 생각이다."
+        ],
+        "speaker2": [
+          "나는 여자이다. 나는 40대이다.",
+          "나는 종교가 없다.",
+          "나는 일주일에 한두 번 자전거로 출퇴근한다.",
+          "나는 한식을 즐겨 먹는다.",
+          "나는 비올라를 배우고 싶다.",
+          "집안일을 하는 로봇이 있다.",
+          "나는 로봇 구매를 고민 중이다."
+        ]
+      }
+    }
+  ]
+}

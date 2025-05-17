@@ -1,0 +1,1778 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-004774-AP600046-WZ000005-02_03_02-S4.json",
+        "sessionLevel": "4"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0020",
+            "gender": "여성",
+            "age": "50대",
+            "occupation": "주부",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "컴퓨터공학"
+        },
+        "speaker2": {
+            "participantID": "F0020",
+            "gender": "남성",
+            "age": "50대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "경영"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "004774"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600046",
+            "personaFeatures": [
+                "나는 관광/감상의 지명에 대한 공부를 하고 있다.",
+                "나는 작은 일에도 기쁘다",
+                "나는 방과후 교사이다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000005",
+            "personaFeatures": [
+                "나는 지명에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_02",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "장소"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "15",
+            "numberOfTurns": "7",
+            "sessionID": "004774-1",
+            "sessionKeywords": [
+                "*나카구 (사카이시)*,*나카구 (사카이시)*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "내가 요즘 관광에 대해 공부를 좀 하고 있는데 나카구에 대해 알게 되었어",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 관광/감상의 지명에 대해 공부를 하다가 나카구를 알게 되었다.",
+                    "timestamp": 1695798666000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "나카구에 대해 흥미로운 것을 알게 되셨나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695798731000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "아직은 공부하는 중이야. 혹시 나에게 알려주고 싶은 정보가 있어?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695798890000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "나카구는 2006년 4월 1일에 사카이 시가 정령 지정 도시가 되면서 사카이 시 관공서, 나카 지소내의 구역이 나카 구가 되었습니다.",
+                    "context": {
+                        "query": "나카구",
+                        "contents": [
+                            {
+                                "documentID": "405972",
+                                "documentTitle": "나카구 (나고야시)",
+                                "content": [
+                                    "나카구()는 일본 나고야시를 구성하는 16개 구 중 하나이다.",
+                                    "나고야 시의 도심에 위치하는 백화점 등의 상업 시설이 집중해있고 전자상가로서 유명한 오스가 있다.",
+                                    "또 나고야 성 주변에는 국가 기관, 아이치 현청, 나고야 시청 등의 행정 기관이 집중되어 있다.",
+                                    "인접한 자치체.",
+                                    "나고야 시 지쿠사구, 히가시구, 기타구, 니시구, 나카무라구, 쇼와구, 아쓰타구, 나카가와구 역사.",
+                                    "1908년 4월 1일에 4구제를 시행했을 때부터 존재하였다.",
+                                    "1944년 2월 1일에 사카에 구를 분구했지만 이듬해 11월 3일에 다시 편입하였다."
+                                ]
+                            },
+                            {
+                                "documentID": "405978",
+                                "documentTitle": "나카구 (사카이시)",
+                                "content": [
+                                    "나카구()는 사카이시의 구이다.",
+                                    "2006년 4월 1일에 사카이 시가 정령 지정 도시가 되면서 사카이 시 관공서, 나카 지소내의 구역이 나카 구가 되었다.",
+                                    "정령 지정 도시의 \"나카 구\"는 다른 요코하마시, 하마마쓰시, 나고야시, 히로시마시에 존재하지만 이들 네 시의 나카 구와 달리 구내에 시청이나 번화가가 존재하지 않는 점이 특이하다(사카이 시 관공서가 있는 것은 사카이구이며 상업 중심지도 여기에 위치한다).",
+                                    "나카 구에는 \"시의 행정·경제의 중심부\"라는 의미는 없고 단지 시역의 중부에 있다는 것만을 나타내고 있다.",
+                                    "또 2009년 4월에 정령 지정 도시가 된 오카야마시의 나카구도 같이 시청이나 번화가가 존재하지 않는다(오카야마 시 관공서는 기타구에 설치되었다).",
+                                    "지리.",
+                                    "북서쪽의 평야부와 남동쪽의 센보쿠 구릉 사이에 위치하고 있다.",
+                                    "구의 북쪽 반이 시가화 구역이 되어있고 센보쿠 고속 철도 개통 이후 택지화가 진행되고 있다.",
+                                    "남쪽은 시가화 조정 구역이 되어있고 택지 사이에 농지(밭)와 관개용 저수지가 점재하지만 일부 센보쿠 뉴타운을 포함한 지역도 있다.",
+                                    "고속도로, 이즈미오쓰 미하라선, 센보쿠 1호선, 센보쿠 2호선과 같은 간선도로에 의해 자동차 교통이 발달하고 있어 교통의 중심이 되고 있다."
+                                ]
+                            },
+                            {
+                                "documentID": "366917",
+                                "documentTitle": "겐바쿠도무마에역",
+                                "content": [
+                                    "겐바쿠도무마에역(, 원폭 돔 앞 전철역)은 히로시마시 나카구 모토 정에 있는 히로시마 전철의 전차 정류장(전차 역)이다.",
+                                    "영어로는 「Atomic Bomb Dome」이라고 전차 정류장명이 차내 방송된다.",
+                                    "덧붙여 전차 내에서 방송 전에 흐르는 음악은 이 전차 정류장만은 종소리로 되어 있다.",
+                                    "역 구조.",
+                                    "휠체어의 이용이 편하도록 슬로프나 의자가 장비되어 있다.",
+                                    "일찍이 존재한 히로시마 시민 구장에서의 경기 종료시는 가미야초 측의 이동선을 이용해 이 전차 정류장 시발의 임시 전차가 운행되고 있었다",
+                                    "(전차에 설치해 사용하는 방향막에도 이 전차 정류장 정차의 것이 존재한다).",
+                                    "운행 노선.",
+                                    "■2호선　히로시마역 방면・히로덴 미야지마구치 방면 ■3호선　히로시마 항 방면・히로덴 니시히로시마 방면 ■6호선　히로시마 역 방면・에바 방면 ■7호선 히로덴 본사 앞 방면・요코가와역 방면"
+                                ]
+                            },
+                            {
+                                "documentID": "278662",
+                                "documentTitle": "히로시마 평화기념공원",
+                                "content": [
+                                    "히로시마 평화기념공원()은 히로시마현 히로시마시 나카구에 위치한 공원이다.",
+                                    "세계 최초로 원자폭탄이 투하된 히로시마에서 세계의 평화를 기원하는 의미에서 조성되었다.",
+                                    "원폭 사망자 위령비, 원폭 공양탑, 평화의 종, 사사키 사다코를 기념하는 원폭 어린이의 상 등의 건축물이 있다.",
+                                    "남쪽에 히로시마 평화기념자료관, 북동쪽에 원폭 돔이 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "나카구는 2006년 4월 1일에 사카이 시가 정령 지정 도시가 되면서 사카이 시 관공서, 나카 지소내의 구역이 나카 구가 되었습니다.",
+                    "timestamp": 1695798989000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "와! 흥미로운데? 새로운 사실을 알게 되어서 너무 기뻐!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 새로운 사실을 알게 되어서 기쁘다.",
+                    "timestamp": 1695799072000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "기뻐해주시니 저도 기분이 좋네요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799138000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "나는 방과후 교사를 하고 있는데, 나중에 학생들에게 얘기해주면 좋을거 같네!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799172000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "학생들도 마찬가지로 얘기를 듣고 좋아할거에요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799320000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "혹시 학생들에게 얘기해줄만한 다른 정보도 있을까?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799356000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "정령 지정 도시의 \"나카 구\"는 다른 요코하마시, 하마마쓰시, 나고야시, 히로시마시에 존재하지만 이들 네 시의 나카 구와 달리 구내에 시청이나 번화가가 존재하지 않는 점이 특이한 점입니다.",
+                    "context": {
+                        "query": "나카구",
+                        "contents": [
+                            {
+                                "documentID": "405978",
+                                "documentTitle": "나카구 (사카이시)",
+                                "content": [
+                                    "나카구()는 사카이시의 구이다.",
+                                    "2006년 4월 1일에 사카이 시가 정령 지정 도시가 되면서 사카이 시 관공서, 나카 지소내의 구역이 나카 구가 되었다.",
+                                    "정령 지정 도시의 \"나카 구\"는 다른 요코하마시, 하마마쓰시, 나고야시, 히로시마시에 존재하지만 이들 네 시의 나카 구와 달리 구내에 시청이나 번화가가 존재하지 않는 점이 특이하다(사카이 시 관공서가 있는 것은 사카이구이며 상업 중심지도 여기에 위치한다).",
+                                    "나카 구에는 \"시의 행정·경제의 중심부\"라는 의미는 없고 단지 시역의 중부에 있다는 것만을 나타내고 있다.",
+                                    "또 2009년 4월에 정령 지정 도시가 된 오카야마시의 나카구도 같이 시청이나 번화가가 존재하지 않는다(오카야마 시 관공서는 기타구에 설치되었다).",
+                                    "지리.",
+                                    "북서쪽의 평야부와 남동쪽의 센보쿠 구릉 사이에 위치하고 있다.",
+                                    "구의 북쪽 반이 시가화 구역이 되어있고 센보쿠 고속 철도 개통 이후 택지화가 진행되고 있다.",
+                                    "남쪽은 시가화 조정 구역이 되어있고 택지 사이에 농지(밭)와 관개용 저수지가 점재하지만 일부 센보쿠 뉴타운을 포함한 지역도 있다.",
+                                    "고속도로, 이즈미오쓰 미하라선, 센보쿠 1호선, 센보쿠 2호선과 같은 간선도로에 의해 자동차 교통이 발달하고 있어 교통의 중심이 되고 있다."
+                                ]
+                            },
+                            {
+                                "documentID": "405972",
+                                "documentTitle": "나카구 (나고야시)",
+                                "content": [
+                                    "나카구()는 일본 나고야시를 구성하는 16개 구 중 하나이다.",
+                                    "나고야 시의 도심에 위치하는 백화점 등의 상업 시설이 집중해있고 전자상가로서 유명한 오스가 있다.",
+                                    "또 나고야 성 주변에는 국가 기관, 아이치 현청, 나고야 시청 등의 행정 기관이 집중되어 있다.",
+                                    "인접한 자치체.",
+                                    "나고야 시 지쿠사구, 히가시구, 기타구, 니시구, 나카무라구, 쇼와구, 아쓰타구, 나카가와구 역사.",
+                                    "1908년 4월 1일에 4구제를 시행했을 때부터 존재하였다.",
+                                    "1944년 2월 1일에 사카에 구를 분구했지만 이듬해 11월 3일에 다시 편입하였다."
+                                ]
+                            },
+                            {
+                                "documentID": "366917",
+                                "documentTitle": "겐바쿠도무마에역",
+                                "content": [
+                                    "겐바쿠도무마에역(, 원폭 돔 앞 전철역)은 히로시마시 나카구 모토 정에 있는 히로시마 전철의 전차 정류장(전차 역)이다.",
+                                    "영어로는 「Atomic Bomb Dome」이라고 전차 정류장명이 차내 방송된다.",
+                                    "덧붙여 전차 내에서 방송 전에 흐르는 음악은 이 전차 정류장만은 종소리로 되어 있다.",
+                                    "역 구조.",
+                                    "휠체어의 이용이 편하도록 슬로프나 의자가 장비되어 있다.",
+                                    "일찍이 존재한 히로시마 시민 구장에서의 경기 종료시는 가미야초 측의 이동선을 이용해 이 전차 정류장 시발의 임시 전차가 운행되고 있었다",
+                                    "(전차에 설치해 사용하는 방향막에도 이 전차 정류장 정차의 것이 존재한다).",
+                                    "운행 노선.",
+                                    "■2호선　히로시마역 방면・히로덴 미야지마구치 방면 ■3호선　히로시마 항 방면・히로덴 니시히로시마 방면 ■6호선　히로시마 역 방면・에바 방면 ■7호선 히로덴 본사 앞 방면・요코가와역 방면"
+                                ]
+                            },
+                            {
+                                "documentID": "278662",
+                                "documentTitle": "히로시마 평화기념공원",
+                                "content": [
+                                    "히로시마 평화기념공원()은 히로시마현 히로시마시 나카구에 위치한 공원이다.",
+                                    "세계 최초로 원자폭탄이 투하된 히로시마에서 세계의 평화를 기원하는 의미에서 조성되었다.",
+                                    "원폭 사망자 위령비, 원폭 공양탑, 평화의 종, 사사키 사다코를 기념하는 원폭 어린이의 상 등의 건축물이 있다.",
+                                    "남쪽에 히로시마 평화기념자료관, 북동쪽에 원폭 돔이 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "정령 지정 도시의 \"나카 구\"는 다른 요코하마시, 하마마쓰시, 나고야시, 히로시마시에 존재하지만 이들 네 시의 나카 구와 달리 구내에 시청이나 번화가가 존재하지 않는 점이 특이한 점이다.",
+                    "timestamp": 1695799389000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "정말 특별한 장소인가보네. 한번 가보고 싶다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 나카구에 가보고 싶다.",
+                    "timestamp": 1695800100000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "기회가 되면 꼭 한번 가보세요. 특별한 경험이 될것 같네요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800125000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "혹시 같이 갈만한 사람이 있을지 찾아봐야겠어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800191000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "친한 친구들에게 한번 물어보세요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800225000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "그래야겠네. 고마워! 덕분에 많이 배웠어!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800257000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 관광/감상의 지명에 대해 공부를 하다가 나카구를 알게 되었다.",
+                    "나는 새로운 사실을 알게 되어서 기쁘다.",
+                    "나는 나카구에 가보고 싶다."
+                ],
+                "wizard": [
+                    "나카구는 2006년 4월 1일에 사카이 시가 정령 지정 도시가 되면서 사카이 시 관공서, 나카 지소내의 구역이 나카 구가 되었습니다.",
+                    "정령 지정 도시의 \"나카 구\"는 다른 요코하마시, 하마마쓰시, 나고야시, 히로시마시에 존재하지만 이들 네 시의 나카 구와 달리 구내에 시청이나 번화가가 존재하지 않는 점이 특이한 점이다."
+                ],
+                "dialogSummary": "질문자는 나카구에 대해서 질문하였고, 챗봇은 정령 지정 도시의 \"나카 구\"는 다른 요코하마시, 하마마쓰시, 나고야시, 히로시마시에 존재하지만 이들 네 시의 나카 구와 달리 구내에 시청이나 번화가가 존재하지 않는 점이 특이한 점이다라고 대답하였다"
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "004774-1",
+            "prevTimeInfo": {
+                "timeNum": "1",
+                "timeUnit": "주"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004774-2",
+            "sessionKeywords": [
+                "*쑹판현*,*쑹판현*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "안녕? 나 또 물어볼 것이 있어서 왔어",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800297000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "1주일후에 다시 오셨네요! 반갑습니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800302000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "관광 여행 갈 곳을 공부하다가 쑹판현이라는 곳이 나왔는데 어떤 곳인지 설명해줘",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800368000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "쑹판현은 중화인민공화국 쓰촨성 아바 티베트족 창족 자치주의 현급 행정구역입니다.",
+                    "context": {
+                        "query": "쑹판현",
+                        "contents": [
+                            {
+                                "documentID": "363368",
+                                "documentTitle": "쑹판현",
+                                "content": [
+                                    "쑹판현(, )은 중화인민공화국 쓰촨성 아바 티베트족 창족 자치주의 현급 행정구역이다.",
+                                    "북위 32°06′—33°09′, 동경 102°38′—104°15′ 사이에 위치한다.",
+                                    "넓이는 8486km2이고, 인구는 2007년 기준으로 70,000명이다.",
+                                    "경제와 관광.",
+                                    "쑹판의 경제는 농업과 가축 사육이 지배적이다.",
+                                    "최근에 관광업이 점차 중요한 부문이 되었고 정부 당국에 의해 활발히 진전되고 있다.",
+                                    "황룽 풍경구가 현 내에 위치한다.",
+                                    "쑹판은 북쪽 주자이거우 계곡의 관문 역할을 하는 전략적인 위치이다.",
+                                    "쑹판의 매력적인 도시로 주변의 전원이 다양한 관광지를 제공한다.",
+                                    "도시를 둘러싼 언덕은 티베트인 목동들이 가축에게 풀을 뜯기고 끊없는 계곡과 아름다운 풍경 등의 시각적인 즐거움을 준다.",
+                                    "역사.",
+                                    "쑹판의 고대 도시는 당나라 때 지어졌고 명나라 때 재건되었다.",
+                                    "쑹판은 중요한 군사 주둔지였다.",
+                                    "또한 쓰촨, 간쑤, 칭하이, 티베트 간의 말과 차를 교환하는 중요한 경제 무역 중심지였다.",
+                                    "1935년에 마오쩌둥과 저우언라이의 중국 공산당 군대는 이곳으로 후퇴하여 쑹판 고원을 거쳐 북서쪽의 성으로 진군하였다.",
+                                    "행정 구역.",
+                                    "2개 진, 21개 향, 2개 민족향을 관할한다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "쑹판현은 중화인민공화국 쓰촨성 아바 티베트족 창족 자치주의 현급 행정구역이다.",
+                    "timestamp": 1695800400000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "쑹판현은 어떤 특징이 있는 곳이야?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800448000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "쑹판현은 쑹판의 매력적인 도시로 주변의 전원이 다양한 관광지를 제공합니다. 도시를 둘러싼 언덕은 티베트인 목동들이 가축에게 풀을 뜯기고 끊없는 계곡과 아름다운 풍경 등의 시각적인 즐거움을 줍니다.",
+                    "context": {
+                        "query": "쑹판현",
+                        "contents": [
+                            {
+                                "documentID": "363368",
+                                "documentTitle": "쑹판현",
+                                "content": [
+                                    "쑹판현(, )은 중화인민공화국 쓰촨성 아바 티베트족 창족 자치주의 현급 행정구역이다.",
+                                    "북위 32°06′—33°09′, 동경 102°38′—104°15′ 사이에 위치한다.",
+                                    "넓이는 8486km2이고, 인구는 2007년 기준으로 70,000명이다.",
+                                    "경제와 관광.",
+                                    "쑹판의 경제는 농업과 가축 사육이 지배적이다.",
+                                    "최근에 관광업이 점차 중요한 부문이 되었고 정부 당국에 의해 활발히 진전되고 있다.",
+                                    "황룽 풍경구가 현 내에 위치한다.",
+                                    "쑹판은 북쪽 주자이거우 계곡의 관문 역할을 하는 전략적인 위치이다.",
+                                    "쑹판의 매력적인 도시로 주변의 전원이 다양한 관광지를 제공한다.",
+                                    "도시를 둘러싼 언덕은 티베트인 목동들이 가축에게 풀을 뜯기고 끊없는 계곡과 아름다운 풍경 등의 시각적인 즐거움을 준다.",
+                                    "역사.",
+                                    "쑹판의 고대 도시는 당나라 때 지어졌고 명나라 때 재건되었다.",
+                                    "쑹판은 중요한 군사 주둔지였다.",
+                                    "또한 쓰촨, 간쑤, 칭하이, 티베트 간의 말과 차를 교환하는 중요한 경제 무역 중심지였다.",
+                                    "1935년에 마오쩌둥과 저우언라이의 중국 공산당 군대는 이곳으로 후퇴하여 쑹판 고원을 거쳐 북서쪽의 성으로 진군하였다.",
+                                    "행정 구역.",
+                                    "2개 진, 21개 향, 2개 민족향을 관할한다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "쑹판현은 쑹판의 매력적인 도시로 주변의 전원이 다양한 관광지를 제공합니다. 도시를 둘러싼 언덕은 티베트인 목동들이 가축에게 풀을 뜯기고 끊없는 계곡과 아름다운 풍경 등의 시각적인 즐거움을 준다",
+                    "timestamp": 1695800540000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "아 그렇구나! 좋은정보줘서 고마워!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696501370000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "제애기가 도움이 되셨다니 다행입니다!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696501391000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "나는 요새 작은일에도 기쁘고 행복해!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 요새 작은일에도 기쁘고 행복하다",
+                    "timestamp": 1696501431000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "그러세요? 세상이 아름답게 느껴지시겠습니다!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696501445000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "그래서 무언가 도전하고 싶은 의욕이 생겨!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696501505000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "무언가 도전하고 싶으시군요? 도전정신은 좋은것같습니다~ ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696501518000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "그렇지? 니가 그렇게 말해주니 더 힘이난다!!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696501530000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "네! 어떤것에 도전하시게되면 제게도 말씀해주세요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696501542000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 요새 작은일에도 기쁘고 행복하다"
+                ],
+                "wizard": [
+                    "쑹판현은 중화인민공화국 쓰촨성 아바 티베트족 창족 자치주의 현급 행정구역이다.",
+                    "쑹판현은 쑹판의 매력적인 도시로 주변의 전원이 다양한 관광지를 제공합니다. 도시를 둘러싼 언덕은 티베트인 목동들이 가축에게 풀을 뜯기고 끊없는 계곡과 아름다운 풍경 등의 시각적인 즐거움을 준다"
+                ],
+                "dialogSummary": "질문자는 쑹판현에 대해 질문하였고 챗봇은 쑹판현은 중화인민공화국 쓰촨성 아바 티베트족 창족 자치주의 현급 행정구역이라고 하였다. 쑹판현은 쑹판의 매력적인 도시로 주변의 전원이 다양한 관광지를 제공한다. 도시를 둘러싼 언덕은 티베트인 목동들이 가축에게 풀을 뜯기고 끊없는 계곡과 아름다운 풍경 등의 시각적인 즐거움을 준다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광/감상의 지명에 대해 공부를 하다가 나카구를 알게 되었다.",
+                    "나는 새로운 사실을 알게 되어서 기쁘다.",
+                    "나는 나카구에 가보고 싶다."
+                ],
+                "wizard": [
+                    "나카구는 2006년 4월 1일에 사카이 시가 정령 지정 도시가 되면서 사카이 시 관공서, 나카 지소내의 구역이 나카 구가 되었습니다.",
+                    "정령 지정 도시의 \"나카 구\"는 다른 요코하마시, 하마마쓰시, 나고야시, 히로시마시에 존재하지만 이들 네 시의 나카 구와 달리 구내에 시청이나 번화가가 존재하지 않는 점이 특이한 점이다."
+                ]
+            }
+        },
+        {
+            "prevSessionID": "004774-2",
+            "prevTimeInfo": {
+                "timeNum": "4",
+                "timeUnit": "주"
+            },
+            "nthSession": "3",
+            "numberOfUtterances": "15",
+            "numberOfTurns": "7",
+            "sessionID": "004774-3",
+            "sessionKeywords": [
+                "*셰르브루크*,*셰르브루크*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "오랜만이야 잘 지내고 있었어?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696501592000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "네! 지난대화후 4주일이 지났네요! 잘 지내셨나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696501604000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "응! 난 잘 지내고 있었지~ 궁금한게 생겨서",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 잘 지내고 있다",
+                    "timestamp": 1696501613000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "궁금한게 있으신가요? 물어봐주세요~",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696501621000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "셰르브루크에 대해서 대답해줄 수 있어?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696501637000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "셰르브루크(Sherbrooke)는 캐나다 퀘벡주 남부의 도시로, 마고그와 생프랑수아 강이 합류하는 지점에 위치해있습니다",
+                    "context": {
+                        "query": "셰르브루크",
+                        "contents": [
+                            {
+                                "documentID": "1064042",
+                                "documentTitle": "셰르브루크",
+                                "content": [
+                                    "셰르브루크(Sherbrooke)는 캐나다 퀘벡주 남부의 도시로, 마고그와 생프랑수아 강이 합류하는 지점에 위치해있다.",
+                                    "몬트리올에서 동쪽으로 180km, 미국 국경에서 50km 북쪽으로 떨어진 곳에 위치해있는 셰르부르크는 퀘벡 주 에스트리 지역에서 정치적, 경제적, 문화적으로 가장 중요한 도시이며 동부 칸톤 (Cantons-de-l'Est, Eastern Township)의 여왕이라는 별명을 가지고 있다.",
+                                    "셰르부르크는 또한 로마 가톨릭교회 교구가 위치해있는 곳이며 인구는 2016년 현재 16만 1천여 명으로 퀘벡 주에서 여섯 번째로 가장 큰 도시이다.",
+                                    "광역 셰르부르크 지역의 인구는 21만 2천여 명이고 퀘벡 주에서 네 번째로, 캐나다에서는 20번째로 가장 큰 광역 지역이기도 하다.",
+                                    "셰르부르크는 CÉGEP과 대학교 등을 포함해 총 8개의 대학 기관에 연간 4만여 명의 학생이 다니는 대학 도시로서, 인구 100명당 10.32명의 학생이 있어서 퀘벡 주에서 가장 학생 수 비중이 높은 지역이기도 하다.",
+                                    "북미의 여느 도시와 같이 19세기부터 셰르부르크는 제조업을 중심으로 돌아갔으나, 지난 몇십 년간 제조업이 쇠락의 길을 걸으면서 산업화 도시에서 서비스업 위주의 도시로 탈바꿈하게 되었다.",
+                                    "대학도시라는 명성과 함께 지식경제에도 적지 않게 중점을 두고 있다.",
+                                    "셰르부르크 지역은 다양한 호수와 수원지 및 뉴잉글랜드를 닮은 건축 양식으로 잘 알려져 있으며, 이에 따라 관광객도 많이 오는 편이다.",
+                                    "근처에는 스키장과 다양한 관광 명소로 관광 도시로도 어느 정도 알려져 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "셰르브루크(Sherbrooke)는 캐나다 퀘벡주 남부의 도시로, 마고그와 생프랑수아 강이 합류하는 지점에 위치해있다",
+                    "timestamp": 1696501689000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "아 퀘벡주 내의 도시였구나..나는 한번쯤 퀘벡주에 가보고 싶었거든",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 한번쯤 퀘벡주에 가보고 싶었다",
+                    "timestamp": 1696550192000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "퀘벡에 대해 관심이 있으셨군요. 다른 더 궁금한 점이 있으실까요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696550412000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "그럼 셰르브루크는 미국에서 가까운 편이야? 상세한 위치를 알고 싶어",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696550648000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "몬트리올에서 동쪽으로 180km, 미국 국경에서 50km 북쪽으로 떨어진 곳에 위치해있는 셰르부르크는 퀘벡 주 에스트리 지역에서 정치적, 경제적, 문화적으로 가장 중요한 도시이며 동부 칸톤 (Cantons-de-l'Est, Eastern Township)의 여왕이라는 별명을 가지고 있습니다.",
+                    "context": {
+                        "query": "셰르브루크",
+                        "contents": [
+                            {
+                                "documentID": "1064042",
+                                "documentTitle": "셰르브루크",
+                                "content": [
+                                    "셰르브루크(Sherbrooke)는 캐나다 퀘벡주 남부의 도시로, 마고그와 생프랑수아 강이 합류하는 지점에 위치해있다.",
+                                    "몬트리올에서 동쪽으로 180km, 미국 국경에서 50km 북쪽으로 떨어진 곳에 위치해있는 셰르부르크는 퀘벡 주 에스트리 지역에서 정치적, 경제적, 문화적으로 가장 중요한 도시이며 동부 칸톤 (Cantons-de-l'Est, Eastern Township)의 여왕이라는 별명을 가지고 있다.",
+                                    "셰르부르크는 또한 로마 가톨릭교회 교구가 위치해있는 곳이며 인구는 2016년 현재 16만 1천여 명으로 퀘벡 주에서 여섯 번째로 가장 큰 도시이다.",
+                                    "광역 셰르부르크 지역의 인구는 21만 2천여 명이고 퀘벡 주에서 네 번째로, 캐나다에서는 20번째로 가장 큰 광역 지역이기도 하다.",
+                                    "셰르부르크는 CÉGEP과 대학교 등을 포함해 총 8개의 대학 기관에 연간 4만여 명의 학생이 다니는 대학 도시로서, 인구 100명당 10.32명의 학생이 있어서 퀘벡 주에서 가장 학생 수 비중이 높은 지역이기도 하다.",
+                                    "북미의 여느 도시와 같이 19세기부터 셰르부르크는 제조업을 중심으로 돌아갔으나, 지난 몇십 년간 제조업이 쇠락의 길을 걸으면서 산업화 도시에서 서비스업 위주의 도시로 탈바꿈하게 되었다.",
+                                    "대학도시라는 명성과 함께 지식경제에도 적지 않게 중점을 두고 있다.",
+                                    "셰르부르크 지역은 다양한 호수와 수원지 및 뉴잉글랜드를 닮은 건축 양식으로 잘 알려져 있으며, 이에 따라 관광객도 많이 오는 편이다.",
+                                    "근처에는 스키장과 다양한 관광 명소로 관광 도시로도 어느 정도 알려져 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "몬트리올에서 동쪽으로 180km, 미국 국경에서 50km 북쪽으로 떨어진 곳에 위치해있는 셰르부르크는 퀘벡 주 에스트리 지역에서 정치적, 경제적, 문화적으로 가장 중요한 도시이며 동부 칸톤 (Cantons-de-l'Est, Eastern Township)의 여왕이라는 별명을 가지고 있다.",
+                    "timestamp": 1696550859000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "미국에서 멀지 않은 곳에 있네 . 네 설명을 들으니 꼭 가보고 싶어졌어",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696551047000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "그렇게 생각하셨다니 저도 매우 기뻐요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696551088000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "북미 여행을 하려면 지금부터 부지런히 저축해야겠어",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696551153000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "여행 준비 과정에서 궁금한 점이 생기면 다시 질문해주세요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696551261000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "응 그럴게. 궁금한 점 있으면 또 물어볼게",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696551316000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 잘 지내고 있다",
+                    "나는 한번쯤 퀘벡주에 가보고 싶었다"
+                ],
+                "wizard": [
+                    "셰르브루크(Sherbrooke)는 캐나다 퀘벡주 남부의 도시로, 마고그와 생프랑수아 강이 합류하는 지점에 위치해있다",
+                    "몬트리올에서 동쪽으로 180km, 미국 국경에서 50km 북쪽으로 떨어진 곳에 위치해있는 셰르부르크는 퀘벡 주 에스트리 지역에서 정치적, 경제적, 문화적으로 가장 중요한 도시이며 동부 칸톤 (Cantons-de-l'Est, Eastern Township)의 여왕이라는 별명을 가지고 있다."
+                ],
+                "dialogSummary": "질문자는 셰르브루크에 대해 질문하였고 챗봇은 셰르브루크(Sherbrooke)는 캐나다 퀘벡주 남부의 도시로, 마고그와 생프랑수아 강이 합류하는 지점에 위치해있다고 하였다. 또한 몬트리올에서 동쪽으로 180km, 미국 국경에서 50km 북쪽으로 떨어진 곳에 위치해있는 셰르부르크는 퀘벡 주 에스트리 지역에서 정치적, 경제적, 문화적으로 가장 중요한 도시이며 동부 칸톤 (Cantons-de-l'Est, Eastern Township)의 여왕이라는 별명을 가지고 있다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광/감상의 지명에 대해 공부를 하다가 나카구를 알게 되었다.",
+                    "나는 새로운 사실을 알게 되어서 기쁘다.",
+                    "나는 나카구에 가보고 싶다.",
+                    "나는 요새 작은일에도 기쁘고 행복하다"
+                ],
+                "wizard": [
+                    "나카구는 2006년 4월 1일에 사카이 시가 정령 지정 도시가 되면서 사카이 시 관공서, 나카 지소내의 구역이 나카 구가 되었습니다.",
+                    "정령 지정 도시의 \"나카 구\"는 다른 요코하마시, 하마마쓰시, 나고야시, 히로시마시에 존재하지만 이들 네 시의 나카 구와 달리 구내에 시청이나 번화가가 존재하지 않는 점이 특이한 점이다.",
+                    "쑹판현은 중화인민공화국 쓰촨성 아바 티베트족 창족 자치주의 현급 행정구역이다.",
+                    "쑹판현은 쑹판의 매력적인 도시로 주변의 전원이 다양한 관광지를 제공합니다. 도시를 둘러싼 언덕은 티베트인 목동들이 가축에게 풀을 뜯기고 끊없는 계곡과 아름다운 풍경 등의 시각적인 즐거움을 준다"
+                ]
+            }
+        },
+        {
+            "prevSessionID": "004774-3",
+            "prevTimeInfo": {
+                "timeNum": "4",
+                "timeUnit": "시간"
+            },
+            "nthSession": "4",
+            "numberOfUtterances": "15",
+            "numberOfTurns": "7",
+            "sessionID": "004774-4",
+            "sessionKeywords": [
+                "*욀뤼데니즈*,*욀뤼데니즈*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "안녕 나 궁금한게 생겨서 다시 왔어",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 궁금한게 생겼다",
+                    "timestamp": 1696551865000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "언제든지 환영입니다. 무엇이 궁금하세요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696551918000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "너랑 얘기하고 나서 친구에게 북미여행 계획을 얘기했더니 비용이 많이 들어서 준비에 시간이 오래 걸린다는거야. 그전에 다른 곳에 가보면 경험도 생기고 더 좋지 않겠냐고 하네",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696552072000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "그래서 궁금한 점이 생기셨나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696552307000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "응 터키 다녀온 지인이 있는데 좋았다면서 추천하더라구. 욀뤼데니즈라는 곳을 얘기하던데 처음 들어본 곳이었어. 어떤 곳인지 알려줄래?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696552406000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "욀뤼데니즈() 혹은 올루데니즈는 터키 물라 주에 있는 작은 휴양지 마을입니다.",
+                    "context": {
+                        "query": "욀뤼데니즈",
+                        "contents": [
+                            {
+                                "documentID": "372743",
+                                "documentTitle": "욀뤼데니즈",
+                                "content": [
+                                    "욀뤼데니즈() 혹은 올루데니즈는 터키 물라 주에 있는 작은 휴양지 마을이다.",
+                                    "터키 남서 해안에 있으며 에게해를 마주하고 있다.",
+                                    "바로 남쪽에는 가파른 경사의 해발 1,969m, 바바다 산이 위치 해 있다.",
+                                    "페티예 남쪽 14km에 위치해있으며 산간 리조트 마을인 히사뢰뉘(Hisarönü)와 인접해있다.",
+                                    "관광.",
+                                    "욀뤼데니즈의 해안은 블루 라군(blue lagoon)이라고 불리는 아름다운 석호로 대표된다.",
+                                    "이곳은 터키의 국가자연보호지역이며 건물을 짓는 것이 엄격히 금지되어 있다.",
+                                    "해안에는 많은 휴양지가 밀집하여 있으며, 여름에는 많은 관광객들이 몰린다.",
+                                    "성 니콜라스 섬(, )을 비롯하여 근처의 해안을 배로 여행하는 보트투어와 바바다 산 정상에서 시작하여 해안을 감상할 수 있는 패러글라이딩 등의 레포츠를 즐길 수 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "욀뤼데니즈() 혹은 올루데니즈는 터키 물라 주에 있는 작은 휴양지 마을이다",
+                    "timestamp": 1696552474000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "다른 특징도 더 알려줄 수 있어?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696552546000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "욀뤼데니즈의 해안은 블루 라군(blue lagoon)이라고 불리는 아름다운 석호로 대표됩니다.",
+                    "context": {
+                        "query": "욀뤼데니즈",
+                        "contents": [
+                            {
+                                "documentID": "372743",
+                                "documentTitle": "욀뤼데니즈",
+                                "content": [
+                                    "욀뤼데니즈() 혹은 올루데니즈는 터키 물라 주에 있는 작은 휴양지 마을이다.",
+                                    "터키 남서 해안에 있으며 에게해를 마주하고 있다.",
+                                    "바로 남쪽에는 가파른 경사의 해발 1,969m, 바바다 산이 위치 해 있다.",
+                                    "페티예 남쪽 14km에 위치해있으며 산간 리조트 마을인 히사뢰뉘(Hisarönü)와 인접해있다.",
+                                    "관광.",
+                                    "욀뤼데니즈의 해안은 블루 라군(blue lagoon)이라고 불리는 아름다운 석호로 대표된다.",
+                                    "이곳은 터키의 국가자연보호지역이며 건물을 짓는 것이 엄격히 금지되어 있다.",
+                                    "해안에는 많은 휴양지가 밀집하여 있으며, 여름에는 많은 관광객들이 몰린다.",
+                                    "성 니콜라스 섬(, )을 비롯하여 근처의 해안을 배로 여행하는 보트투어와 바바다 산 정상에서 시작하여 해안을 감상할 수 있는 패러글라이딩 등의 레포츠를 즐길 수 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "욀뤼데니즈의 해안은 블루 라군(blue lagoon)이라고 불리는 아름다운 석호로 대표된다",
+                    "timestamp": 1696552660000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "아 말로만 듣던 블루 라군이 유명한 곳이구나. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696552813000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "네, 그렇습니다. 또 궁금한 점이 있으세요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696552889000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "지금은 괜찮아. 다른 곳도 더 찾아보려고",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696553027000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "알겠습니다. 제 답변이 도움이 됐나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696553067000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "응 많은 도움이 됐어. 나는 친구들과 여행을 가려고 하는데 모두가 만족할만한 장소를 선정하고 싶어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 친구들과 여행을 가려고 한다",
+                    "timestamp": 1696553130000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0020",
+                    "utterance": "그러시군요. 추가 질문이 생기면 언제든지 문의해주세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696553210000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600046",
+                    "participantID": "E0020",
+                    "utterance": "응 네가 있어서 항상 든든해. 다음에 봐.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696553269000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 궁금한게 생겼다",
+                    "나는 친구들과 여행을 가려고 한다"
+                ],
+                "wizard": [
+                    "욀뤼데니즈() 혹은 올루데니즈는 터키 물라 주에 있는 작은 휴양지 마을이다",
+                    "욀뤼데니즈의 해안은 블루 라군(blue lagoon)이라고 불리는 아름다운 석호로 대표된다"
+                ],
+                "dialogSummary": "질문자는 욀뤼데니즈에 대해 질문했고 챗봇은 욀뤼데니즈() 혹은 올루데니즈는 터키 물라 주에 있는 작은 휴양지 마을이라고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광/감상의 지명에 대해 공부를 하다가 나카구를 알게 되었다.",
+                    "나는 새로운 사실을 알게 되어서 기쁘다.",
+                    "나는 나카구에 가보고 싶다.",
+                    "나는 요새 작은일에도 기쁘고 행복하다",
+                    "나는 잘 지내고 있다",
+                    "나는 한번쯤 퀘벡주에 가보고 싶었다"
+                ],
+                "wizard": [
+                    "나카구는 2006년 4월 1일에 사카이 시가 정령 지정 도시가 되면서 사카이 시 관공서, 나카 지소내의 구역이 나카 구가 되었습니다.",
+                    "정령 지정 도시의 \"나카 구\"는 다른 요코하마시, 하마마쓰시, 나고야시, 히로시마시에 존재하지만 이들 네 시의 나카 구와 달리 구내에 시청이나 번화가가 존재하지 않는 점이 특이한 점이다.",
+                    "쑹판현은 중화인민공화국 쓰촨성 아바 티베트족 창족 자치주의 현급 행정구역이다.",
+                    "쑹판현은 쑹판의 매력적인 도시로 주변의 전원이 다양한 관광지를 제공합니다. 도시를 둘러싼 언덕은 티베트인 목동들이 가축에게 풀을 뜯기고 끊없는 계곡과 아름다운 풍경 등의 시각적인 즐거움을 준다",
+                    "셰르브루크(Sherbrooke)는 캐나다 퀘벡주 남부의 도시로, 마고그와 생프랑수아 강이 합류하는 지점에 위치해있다",
+                    "몬트리올에서 동쪽으로 180km, 미국 국경에서 50km 북쪽으로 떨어진 곳에 위치해있는 셰르부르크는 퀘벡 주 에스트리 지역에서 정치적, 경제적, 문화적으로 가장 중요한 도시이며 동부 칸톤 (Cantons-de-l'Est, Eastern Township)의 여왕이라는 별명을 가지고 있다."
+                ]
+            }
+        }
+    ]
+}

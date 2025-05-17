@@ -1,0 +1,734 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-005520-AP600074-WZ000005-02_03_02-S2.json",
+        "sessionLevel": "2"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0010",
+            "gender": "여성",
+            "age": "40대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "요리"
+        },
+        "speaker2": {
+            "participantID": "F0010",
+            "gender": "남성",
+            "age": "50대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "천문학"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "005520"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600074",
+            "personaFeatures": [
+                "나는 관광/감상의 지명에 대한 지식을 배우고 있다.",
+                "나는 가족과 애틋하지 않다",
+                "나는 고슴도치를 키우고 싶다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000005",
+            "personaFeatures": [
+                "나는 지명에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_02",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "장소"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "005520-1",
+            "sessionKeywords": [
+                "*조난정*,*조난정*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600074",
+                    "participantID": "E0010",
+                    "utterance": "안녕 대화는 처음인데 대화할수 있어?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696163619000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "안녕하세요! 물론이죠! 언제든지 환영합니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696163633000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600074",
+                    "participantID": "E0010",
+                    "utterance": "그래? 나는 관광지명에 대한 지식을 배우고 있거든 물어봐도 될까?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 관광지명에 대한 지식을 배우고 있다",
+                    "timestamp": 1696163664000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "잘오셨습니다! 저는 지명에 대해 잘 아는 챗봅입니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696163677000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600074",
+                    "participantID": "E0010",
+                    "utterance": "그래? 다행이다.. 조난정에 대해서 알려줄 수 있어?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696163693000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "조난정 (조난마치)()은 지바현 조세이군의 정이다. 보소반도를 동서로 나누는 구릉지대 안에 있고 평지는 적고 산이 많은 지형입니다",
+                    "context": {
+                        "query": "조난정",
+                        "contents": [
+                            {
+                                "documentID": "404364",
+                                "documentTitle": "조난정",
+                                "content": [
+                                    "조난정 (조난마치)()은 지바현 조세이군의 정이다.",
+                                    "지리.",
+                                    "보소반도를 동서로 나누는 구릉지대 안에 있고 평지는 적고 산이 많은 지형이다.",
+                                    "이 지역의 다른 시정촌과 같이 농업용수를 확보하기 위한 저수지가 많다.",
+                                    "또 골프장이 많은 것도 특징이다.",
+                                    "역사.",
+                                    "1955년에 조난정(庁南町), 니시촌(西村), 히가시촌(東村)과 미즈카미촌(水上村)의 일부가 합병해 조난정이 탄생했다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "조난정 (조난마치)()은 지바현 조세이군의 정이다. 보소반도를 동서로 나누는 구릉지대 안에 있고 평지는 적고 산이 많은 지형이다",
+                    "timestamp": 1696163719000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600074",
+                    "participantID": "E0010",
+                    "utterance": "조난정이 그런곳이었구나  알려줘서 고마워",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696163791000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "도움이 되셨나요? 도움이 되셨다니 다행이에요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696163801000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600074",
+                    "participantID": "E0010",
+                    "utterance": "동물을 키우는 걸 어떻게 생각해?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696163821000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "동물을 키우는건 정서적 교류에 좋은일이라고 생각합니다!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696163833000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600074",
+                    "participantID": "E0010",
+                    "utterance": "지난번 개그우먼이 고슴도치를 키우는걸 봤는데 너무 귀엽더라구. 그래서 난 요새 고슴도치를 한번 키워보면 어떨까 생각해",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": " 난 요새 고슴도치를 한번 키워보고 싶다",
+                    "timestamp": 1696163856000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "고슴도치도 좋은 반려동물이 될 수 있을꺼 같습니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696163894000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600074",
+                    "participantID": "E0010",
+                    "utterance": "그래? 그렇다면...한번 키워볼까? 네가 그렇게 말하니 더 고려해봐야겠는걸?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696163921000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "네! 나중 고슴고치를 키우시게되면 말씀해주세요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696163937000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 관광지명에 대한 지식을 배우고 있다",
+                    " 난 요새 고슴도치를 한번 키워보고 싶다"
+                ],
+                "wizard": [
+                    "조난정 (조난마치)()은 지바현 조세이군의 정이다. 보소반도를 동서로 나누는 구릉지대 안에 있고 평지는 적고 산이 많은 지형이다"
+                ],
+                "dialogSummary": "질문자는 조난정에 대해서 질문했고, 챗봇은 조난정 (조난마치)()은 지바현 조세이군의 정이다. 보소반도를 동서로 나누는 구릉지대 안에 있고 평지는 적고 산이 많은 지형이다라고 대답했다"
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "005520-1",
+            "prevTimeInfo": {
+                "timeNum": "2",
+                "timeUnit": "시간"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "005520-2",
+            "sessionKeywords": [
+                "*구 시바리큐 은사 정원*,*구 시바리큐 은사 정원*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600074",
+                    "participantID": "E0010",
+                    "utterance": "내가 지난번에 고슴도치를 키우고 싶다고 말했었나?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696163968000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "네 2시간전에 말씀해주셨어요! 결정하셨나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696163983000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600074",
+                    "participantID": "E0010",
+                    "utterance": "실은 내가 가족과 별로 애틋하지 않아서 그런거야",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 가족과 별로 애틋하지 않다",
+                    "timestamp": 1696164018000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "그러시군요.  가족과 애틋하지 않으시군요..",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696164037000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600074",
+                    "participantID": "E0010",
+                    "utterance": "암튼 그래.. 이번에도 질문할게 있어",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696164077000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "네! 질문해주세요! 전 항상 준비되어있습니다! ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696164089000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600074",
+                    "participantID": "E0010",
+                    "utterance": "구 시바리큐 은사 정원에 대해서 알려줄래?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696164110000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "도쿄 도립 구 시바 리큐 은사 정원(東京都立旧芝離宮恩賜庭園)은 도쿄도 미나토구 해안에 위치한 도립 정원이다. 에도 막부의 로주 오쿠보 다다토모(大久保忠朝)의 정원 라쿠주엔(楽寿園)으로 조성되어 궁내청이 관리하는 이궁을 거쳐 1924년에 도쿄시에 하사되었습니다",
+                    "context": {
+                        "query": "시바리큐",
+                        "contents": [
+                            {
+                                "documentID": "1094475",
+                                "documentTitle": "구 시바리큐 은사 정원",
+                                "content": [
+                                    "도쿄 도립 구 시바 리큐 은사 정원(東京都立旧芝離宮恩賜庭園)은 도쿄도 미나토구 해안에 위치한 도립 정원이다. 에도 막부의 로주 오쿠보 다다토모(大久保忠朝)의 정원 라쿠주엔(楽寿園)으로 조성되어 궁내청이 관리하는 이궁을 거쳐 1924년에 도쿄시에 하사되었다.",
+                                    "구 시바 리큐 은사 공원으로 공개되었다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            true
+                        ]
+                    ],
+                    "summary": "도쿄 도립 구 시바 리큐 은사 정원(東京都立旧芝離宮恩賜庭園)은 도쿄도 미나토구 해안에 위치한 도립 정원이다. 에도 막부의 로주 오쿠보 다다토모(大久保忠朝)의 정원 라쿠주엔(楽寿園)으로 조성되어 궁내청이 관리하는 이궁을 거쳐 1924년에 도쿄시에 하사되었다",
+                    "timestamp": 1696164182000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600074",
+                    "participantID": "E0010",
+                    "utterance": "다른곳에 정보가 별로 없었는데 너는 잘 알고 있구나!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696164222000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "네! 저는 지명에 대해 잘 아는 챗봇이니깐요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696164232000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600074",
+                    "participantID": "E0010",
+                    "utterance": "응! 큰 도움이 되었어 일본에 해안 도립공원이라는걸 알게 되었어!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696164269000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "이번에도 제가 대답한것이 도움이 되셨나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696164290000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600074",
+                    "participantID": "E0010",
+                    "utterance": "응! 자주 찾아오게 될꺼같은 느낌이야",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696164299000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "네! 언제든지 기다리고 있겠습니다!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696164309000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 가족과 별로 애틋하지 않다"
+                ],
+                "wizard": [
+                    "도쿄 도립 구 시바 리큐 은사 정원(東京都立旧芝離宮恩賜庭園)은 도쿄도 미나토구 해안에 위치한 도립 정원이다. 에도 막부의 로주 오쿠보 다다토모(大久保忠朝)의 정원 라쿠주엔(楽寿園)으로 조성되어 궁내청이 관리하는 이궁을 거쳐 1924년에 도쿄시에 하사되었다"
+                ],
+                "dialogSummary": "질문자는 구 시바리큐 은사 정원에 대해서 질문했고 챗봇은 도쿄 도립 구 시바 리큐 은사 정원(東京都立旧芝離宮恩賜庭園)은 도쿄도 미나토구 해안에 위치한 도립 정원이다. 에도 막부의 로주 오쿠보 다다토모(大久保忠朝)의 정원 라쿠주엔(楽寿園)으로 조성되어 궁내청이 관리하는 이궁을 거쳐 1924년에 도쿄시에 하사되었다고 대답했다"
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광지명에 대한 지식을 배우고 있다",
+                    " 난 요새 고슴도치를 한번 키워보고 싶다"
+                ],
+                "wizard": [
+                    "조난정 (조난마치)()은 지바현 조세이군의 정이다. 보소반도를 동서로 나누는 구릉지대 안에 있고 평지는 적고 산이 많은 지형이다"
+                ]
+            }
+        }
+    ]
+}

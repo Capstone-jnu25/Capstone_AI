@@ -1,0 +1,894 @@
+{
+  "FileInfo": {
+    "filename": "K4-00005-CL34353-CP22281-13-05-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0095",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대학원졸"
+    },
+    "speaker2": {
+      "participantID": "0034",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00005"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "34353",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 스포츠 TV를 자주 본다",
+        "나는 혈액형이 AB형이다",
+        "나는 야구를 자주 한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22281",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 원숭이에 관심이 없다",
+        "나는 경제학부 전공이다",
+        "나는 싱거운 음식을 싫어한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "13-05",
+    "topicType": "기후>계절/날씨",
+    "topicTitle": "하늘"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "4-00005-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "안녕하세요. 저는 30대 여자입니다. 반가워요^^",
+          "summary": "나는 30대 여자이다.",
+          "date": "2022-11-03",
+          "time": "12:45:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "안녕하세요. 저는 20대 여자입니다. 대화 즐겁게 해봐요!",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-11-03",
+          "time": "12:45:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "네ㅎㅎ 취미가 어떻게 돼요? 저는 스포츠TV를 자주 봐요ㅎㅎ",
+          "summary": "나는 스포츠 TV를 자주 본다.",
+          "date": "2022-11-03",
+          "time": "12:46:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "저는 필사하는 게 취미예요. 지금 과방에 있는데 친구가 자꾸 관심도 없는 원숭이 흉내를 내서 불쾌해요.",
+          "summary": "나는 필사하는 게 취미이다. 나는 과방에 있는데 친구가 관심도 없는 원숭이 흉내를 내서 불쾌하다.",
+          "date": "2022-11-03",
+          "time": "12:46:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "원숭이를 싫어하시나봐요. 혹시 야구는 좋아하세요? 제가 야구를 좋아해서 자주 하거든요.",
+          "summary": "나는 야구를 좋아해서 야구를 자주 한다.",
+          "date": "2022-11-03",
+          "time": "12:47:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "야구 관심은 없는데 집에 같이 살고 있는 오빠 때문에 대충 알고 있어요. 어느 팀 응원하세요?",
+          "summary": "나는 야구 관심은 없는데 집에 같이 살고 있는 오빠 때문에 대충 안다.",
+          "date": "2022-11-03",
+          "time": "12:48:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "저는 키움의 팬이에요ㅎㅎ 하시는 일은 어떻게 되세요??",
+          "summary": "나는 프로야구 키움의 팬이다.",
+          "date": "2022-11-03",
+          "time": "12:48:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "저는 아직 학생이에요. 경제학부 전공 중이에요. 무슨 일 하세요?",
+          "summary": "나는 아직 학생이다. 나는 경제학부를 전공한다.",
+          "date": "2022-11-03",
+          "time": "12:49:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "저는 제조업체에서 일을 하고 있어요ㅎㅎ 혈액형은 어떻게 돼요?",
+          "summary": "나는 제조업체에서 일하고 있다.",
+          "date": "2022-11-03",
+          "time": "12:50:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "저는 A형이에요. 그런데 혈액형은 왜요? 요즘은 혈액형 대신 MBTI 물어봐요.",
+          "summary": "나는 A형이다. 나는 요즘 혈액형 대신 MBTI를 물어본다고 생각한다.",
+          "date": "2022-11-03",
+          "time": "12:50:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "저는 혈액형이 AB형이거든요. MBTI는 INFP입니다ㅋㅋ 이런거 좋아하세요?",
+          "summary": "나는 혈액형이 AB형이다. 나는 MBTI가 INFP이다.",
+          "date": "2022-11-03",
+          "time": "12:51:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "아니요. 사실 혈액형, MBTI 다 관심 없어요. 점심은 뭐 드셨어요? 전 싱거운 음식 싫어하는데 학식에서 먹은 라면이 완전 싱거웠어서 별로였어요.",
+          "summary": "나는 혈액형, MBTI 다 관심이 없다. 나는 싱거운 음식을 싫어하는데 학식에서 먹은 라면이 정말 싱거웠어서 별로였다.",
+          "date": "2022-11-03",
+          "time": "12:52:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "저는 쌀국수를 먹었어요ㅋㅋ 제가 베트남가서 쌀국수에 반했거든요ㅋㅋㅋ",
+          "summary": "나는 쌀국수를 먹었다. 나는 베트남에 가서 쌀국수에 반했다.",
+          "date": "2022-11-03",
+          "time": "12:53:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "쌀국수 맛있겠네요. 저녁은 반드시 짠 음식을 먹어야겠어요. 전 다시 과제하러 가볼게요.",
+          "summary": "나는 저녁엔 반드시 짠 음식을 먹을 것이다.",
+          "date": "2022-11-03",
+          "time": "12:54:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "네 알겠습니다. 과제 열심히 하세요~~^^",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "12:55:47",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 스포츠 TV를 자주 본다.",
+          "나는 야구를 좋아해서 야구를 자주 한다.",
+          "나는 프로야구 키움의 팬이다.",
+          "나는 제조업체에서 일하고 있다.",
+          "나는 혈액형이 AB형이다. 나는 MBTI가 INFP이다.",
+          "나는 쌀국수를 먹었다. 나는 베트남에 가서 쌀국수에 반했다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 필사하는 게 취미이다. 나는 과방에 있는데 친구가 관심도 없는 원숭이 흉내를 내서 불쾌하다.",
+          "나는 야구 관심은 없는데 집에 같이 살고 있는 오빠 때문에 대충 안다.",
+          "나는 아직 학생이다. 나는 경제학부를 전공한다.",
+          "나는 A형이다. 나는 요즘 혈액형 대신 MBTI를 물어본다고 생각한다.",
+          "나는 혈액형, MBTI 다 관심이 없다. 나는 싱거운 음식을 싫어하는데 학식에서 먹은 라면이 정말 싱거웠어서 별로였다.",
+          "나는 저녁엔 반드시 짠 음식을 먹을 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00005-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "4-00005-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "안녕하세요. 1주일만에 연락드려요! 뭐하고 계셨어요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "12:58:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "저는 산책 중이었어요. 오늘 공강이거든요. 출근하셨어요?",
+          "summary": "나는 산책 중이었다. 나는 오늘 공강이다.",
+          "date": "2022-11-03",
+          "time": "12:58:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "네 출근했습니다. 오늘 하늘이 이쁘네요^^",
+          "summary": "나는 출근했다. 나는 오늘 하늘이 예쁘다고 생각한다.",
+          "date": "2022-11-03",
+          "time": "13:00:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "그러게요. 지금 산책하면서 계속 하늘 사진 찍고 있어요. 가을 하늘이 참 예쁘네요.",
+          "summary": "나는 지금 산책하면서 계속 하늘 사진 찍고 있었다. 나는 가을 하늘이 참 이쁘다고 생각한다.",
+          "date": "2022-11-03",
+          "time": "13:01:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "하늘이 어두우면 외출하기 싫어지더라구요. 하늘은 꼭 파래야 이쁘다고 생각해요.",
+          "summary": "나는 하늘이 어두우면 외출하기 싫어진다. 나는 하늘은 파래야 예쁘다고 생각한다.",
+          "date": "2022-11-03",
+          "time": "13:01:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "맞아요. 요즘 하늘 엄청 예쁜데 해는 일찍 져서 조금 섭섭해요.",
+          "summary": "나는 하늘이 엄청 이쁜데 해는 일찍 져서 조금 섭섭하다.",
+          "date": "2022-11-03",
+          "time": "13:01:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "저도요. 저는 하늘이 이쁘면 야구도 자주 하지만 가끔 연을 날려요ㅋㅋㅋ연 좋아하세요?",
+          "summary": "나는 하늘이 예쁘면 가끔 연을 날린다.",
+          "date": "2022-11-03",
+          "time": "13:02:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "연 엄청 어렸을 때 날려 보고 최근에 본 적도 없어요. 집에 연이 있으신 거예요?",
+          "summary": "나는 연을 어렸을 때 날려 보고 본 적이 없다.",
+          "date": "2022-11-03",
+          "time": "13:03:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "네 제가 전통놀이에 관심이 좀 있어서 집에 팽이랑 연이 있네요ㅎㅎ 전통놀이에 관심 있으세요?",
+          "summary": "나는 전통놀이에 관심이 조금 있어서 집에 팽이와 연이 있다.",
+          "date": "2022-11-03",
+          "time": "13:04:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "관심을 둬본 적은 없어요. 사실 제가 전통놀이 말고도 모든 것에 관심이 좀 적고 조용한 성격이에요.",
+          "summary": "나는 전통놀이 말고도 모든 것에 관심이 좀 적고 조용하다.",
+          "date": "2022-11-03",
+          "time": "13:04:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "그럴 수 있죠ㅎㅎ 저녁에는 하늘에 별이 좀 많았으면 좋겠어요. 밤 하늘의 펄 같아서요.",
+          "summary": "나는 저녁에 하늘에 별이 많았으면 좋겠다.",
+          "date": "2022-11-03",
+          "time": "13:05:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "혹시 어디 사세요? 저는 서울에 살고 있어서 밤이 되도 하늘에 별이 안 보여요.",
+          "summary": "나는 서울에 살고 있어서 밤이 돼도 하늘에 별이 안 보인다.",
+          "date": "2022-11-03",
+          "time": "13:05:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "강화도에 가면 밤에 별 잘 보여요ㅋㅋㅋ 나중에 한번 가보세요!",
+          "summary": "나는 강화도에 가면 밤에 별이 잘 보인다고 생각한다.",
+          "date": "2022-11-03",
+          "time": "13:06:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "강화도에 살고 계신 거예요? 대화 더 하고 싶은데 제가 지금 졸려서 나중에 연락 할게요.",
+          "summary": "나는 지금 졸리다.",
+          "date": "2022-11-03",
+          "time": "13:06:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "아니요. 예전에 놀러간 적이 있거든요. 다음에 또 대화해요^^",
+          "summary": "나는 예전에 강화도에 놀러 간 적이 있다.",
+          "date": "2022-11-03",
+          "time": "13:07:15",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 출근했다. 나는 오늘 하늘이 예쁘다고 생각한다.",
+          "나는 하늘이 어두우면 외출하기 싫어진다. 나는 하늘은 파래야 예쁘다고 생각한다.",
+          "나는 하늘이 예쁘면 가끔 연을 날린다.",
+          "나는 전통놀이에 관심이 조금 있어서 집에 팽이와 연이 있다.",
+          "나는 저녁에 하늘에 별이 많았으면 좋겠다.",
+          "나는 강화도에 가면 밤에 별이 잘 보인다고 생각한다.",
+          "나는 예전에 강화도에 놀러 간 적이 있다."
+        ],
+        "speaker2": [
+          "나는 산책 중이었다. 나는 오늘 공강이다.",
+          "나는 지금 산책하면서 계속 하늘 사진 찍고 있었다. 나는 가을 하늘이 참 이쁘다고 생각한다.",
+          "나는 하늘이 엄청 이쁜데 해는 일찍 져서 조금 섭섭하다.",
+          "나는 연을 어렸을 때 날려 보고 본 적이 없다.",
+          "나는 전통놀이 말고도 모든 것에 관심이 좀 적고 조용하다.",
+          "나는 서울에 살고 있어서 밤이 돼도 하늘에 별이 안 보인다.",
+          "나는 지금 졸리다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 스포츠 TV를 자주 본다.",
+          "나는 야구를 좋아해서 야구를 자주 한다.",
+          "나는 프로야구 키움의 팬이다.",
+          "나는 제조업체에서 일하고 있다.",
+          "나는 혈액형이 AB형이다. 나는 MBTI가 INFP이다.",
+          "나는 쌀국수를 먹었다. 나는 베트남에 가서 쌀국수에 반했다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 필사하는 게 취미이다. 나는 과방에 있는데 친구가 관심도 없는 원숭이 흉내를 내서 불쾌하다.",
+          "나는 야구 관심은 없는데 집에 같이 살고 있는 오빠 때문에 대충 안다.",
+          "나는 아직 학생이다. 나는 경제학부를 전공한다.",
+          "나는 A형이다. 나는 요즘 혈액형 대신 MBTI를 물어본다고 생각한다.",
+          "나는 혈액형, MBTI 다 관심이 없다. 나는 싱거운 음식을 싫어하는데 학식에서 먹은 라면이 정말 싱거웠어서 별로였다.",
+          "나는 저녁엔 반드시 짠 음식을 먹을 것이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00005-2",
+      "prevTimeInfo": {
+        "timeNum": "14",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "4-00005-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "안녕하세요. 14시간만에 연락드려요ㅎㅎ 뭐 하고 계셨어요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "13:10:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "집 청소하고 있었어요. 산책 나가고 싶었는데 하늘이 뿌연 걸 보니 미세먼지가 안 좋은 거 같아서 안 나갔어요.",
+          "summary": "나는 집 청소하고 있었다. 나는 산책 나가고 싶었는데 하늘이 뿌연 걸 보니 미세먼지가 안 좋아서 안 나갔다.",
+          "date": "2022-11-03",
+          "time": "13:11:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "네 오늘 미세먼지 심해서 저는 마스크 쓰고 출근했네요ㅠㅠ",
+          "summary": "나는 오늘 미세먼지가 심해서 마스크를 쓰고 출근했다.",
+          "date": "2022-11-03",
+          "time": "13:13:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "저는 오늘 오후 수업만 있어서 아직 집이에요. 어제까지만 해도 공기 좋았는데 하루 아침에 맑은 하늘이 사라졌네요.",
+          "summary": "나는 오늘 오후 수업만 있어서 아직 집이다. 나는 어제까지만 해도 공기가 좋았는데 하루아침에 맑은 하늘이 사라졌다.",
+          "date": "2022-11-03",
+          "time": "13:13:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "그러니까요. 저는 하늘에 따라서 기분도 달라지거든요. 살짝 우울하네요.",
+          "summary": "나는 하늘 상태에 따라 기분이 달라진다. 나는 오늘 살짝 우울하다.",
+          "date": "2022-11-03",
+          "time": "13:14:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "저두요. 저도 날씨 많이 타는 성격이에요. 하루에 일은 몇 시간 정도 하세요?",
+          "summary": "나는 날씨 많이 타는 성격이다.",
+          "date": "2022-11-03",
+          "time": "13:14:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "10시간 정도 일하고 있어요. 요즘 제품 재고수량을 맞춰야 되서 바쁘거든요.",
+          "summary": "나는 하루에 10시간 정도 일한다. 나는 요즘 제품 재고 수량을 맞춰야 돼서 바쁘다.",
+          "date": "2022-11-03",
+          "time": "13:15:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "전 그런 꼼꼼한 일을 자신 없어요. 제가 경제학부여도 맨날 계산 틀리거든요 하하.",
+          "summary": "나는 꼼꼼한 일은 자신 없다. 나는 경제학부여도 맨날 계산 틀린다.",
+          "date": "2022-11-03",
+          "time": "13:15:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "그래도 경제학과를 따라갈 순 없죠ㅎㅎ 집에서는 보통 뭐 하세요??",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "13:16:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "집에 있으면 살림 자주 해요. 다들 저 빼고 돈 벌고 있어서 집에서 살림 안 하면 괜히 눈치 보여요.",
+          "summary": "나는 집에 있으면 살림 자주 한다. 나는 돈을 안 벌고 있어서 집에서 살림 안 하면 눈치 보인다.",
+          "date": "2022-11-03",
+          "time": "13:16:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "그러시군요. 저는 살림 중에서는 다림질이 제일 어려워요ㅠㅠ 다림질 좋아하세요?",
+          "summary": "나는 살림 중 다림질이 제일 어렵다.",
+          "date": "2022-11-03",
+          "time": "13:17:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "좋아하진 않아요. 살림 할 때 다림질도 제가 하긴 하는데 덜렁거리다 화상 입을까봐 무서워요.",
+          "summary": "나는 다림질을 하는데 덜렁거리다 화상 입을까 봐 무섭다.",
+          "date": "2022-11-03",
+          "time": "13:17:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "저도요. 이제 뭐 하실 건가요??",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "13:18:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "이제 쓰레기 버리러 나가야 돼요. 나중에 대화 다시 해요!",
+          "summary": "나는 이제 쓰레기 버리러 나간다.",
+          "date": "2022-11-03",
+          "time": "13:18:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "네 알겠습니다. 나중에 또 대화해요~^^",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "13:19:08",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 오늘 미세먼지가 심해서 마스크를 쓰고 출근했다.",
+          "나는 하늘 상태에 따라 기분이 달라진다. 나는 오늘 살짝 우울하다.",
+          "나는 하루에 10시간 정도 일한다. 나는 요즘 제품 재고 수량을 맞춰야 돼서 바쁘다.",
+          "나는 살림 중 다림질이 제일 어렵다."
+        ],
+        "speaker2": [
+          "나는 집 청소하고 있었다. 나는 산책 나가고 싶었는데 하늘이 뿌연 걸 보니 미세먼지가 안 좋아서 안 나갔다.",
+          "나는 오늘 오후 수업만 있어서 아직 집이다. 나는 어제까지만 해도 공기가 좋았는데 하루아침에 맑은 하늘이 사라졌다.",
+          "나는 날씨 많이 타는 성격이다.",
+          "나는 꼼꼼한 일은 자신 없다. 나는 경제학부여도 맨날 계산 틀린다.",
+          "나는 집에 있으면 살림 자주 한다. 나는 돈을 안 벌고 있어서 집에서 살림 안 하면 눈치 보인다.",
+          "나는 다림질을 하는데 덜렁거리다 화상 입을까 봐 무섭다.",
+          "나는 이제 쓰레기 버리러 나간다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 스포츠 TV를 자주 본다.",
+          "나는 야구를 좋아해서 야구를 자주 한다.",
+          "나는 프로야구 키움의 팬이다.",
+          "나는 제조업체에서 일하고 있다.",
+          "나는 혈액형이 AB형이다. 나는 MBTI가 INFP이다.",
+          "나는 쌀국수를 먹었다. 나는 베트남에 가서 쌀국수에 반했다.",
+          "나는 출근했다. 나는 오늘 하늘이 예쁘다고 생각한다.",
+          "나는 하늘이 어두우면 외출하기 싫어진다. 나는 하늘은 파래야 예쁘다고 생각한다.",
+          "나는 하늘이 예쁘면 가끔 연을 날린다.",
+          "나는 전통놀이에 관심이 조금 있어서 집에 팽이와 연이 있다.",
+          "나는 저녁에 하늘에 별이 많았으면 좋겠다.",
+          "나는 강화도에 가면 밤에 별이 잘 보인다고 생각한다.",
+          "나는 예전에 강화도에 놀러 간 적이 있다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 필사하는 게 취미이다. 나는 과방에 있는데 친구가 관심도 없는 원숭이 흉내를 내서 불쾌하다.",
+          "나는 야구 관심은 없는데 집에 같이 살고 있는 오빠 때문에 대충 안다.",
+          "나는 아직 학생이다. 나는 경제학부를 전공한다.",
+          "나는 A형이다. 나는 요즘 혈액형 대신 MBTI를 물어본다고 생각한다.",
+          "나는 혈액형, MBTI 다 관심이 없다. 나는 싱거운 음식을 싫어하는데 학식에서 먹은 라면이 정말 싱거웠어서 별로였다.",
+          "나는 저녁엔 반드시 짠 음식을 먹을 것이다.",
+          "나는 산책 중이었다. 나는 오늘 공강이다.",
+          "나는 지금 산책하면서 계속 하늘 사진 찍고 있었다. 나는 가을 하늘이 참 이쁘다고 생각한다.",
+          "나는 하늘이 엄청 이쁜데 해는 일찍 져서 조금 섭섭하다.",
+          "나는 연을 어렸을 때 날려 보고 본 적이 없다.",
+          "나는 전통놀이 말고도 모든 것에 관심이 좀 적고 조용하다.",
+          "나는 서울에 살고 있어서 밤이 돼도 하늘에 별이 안 보인다.",
+          "나는 지금 졸리다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00005-3",
+      "prevTimeInfo": {
+        "timeNum": "15",
+        "timeUnit": "시간"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "4-00005-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "안녕하세요. 15시간만에 연락해요~~ 뭐 하고 계셔요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "13:22:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "학교 가고 있어요.  경제학부 수업이 있어서. 오늘은 하늘이 엄청 맑아요.",
+          "summary": "나는 학교 가고 있다. 나는 오늘 하늘이 맑다고 생각한다.",
+          "date": "2022-11-03",
+          "time": "13:22:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "그러게요. 하늘이 이쁘니 제가 다 기분이 좋네요ㅎㅎ",
+          "summary": "나는 오늘 하늘이 예뻐서 내 기분이 다 좋다.",
+          "date": "2022-11-03",
+          "time": "13:22:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "확실히 기온이 내려가야 하늘이 맑아지네요. 추운 건 싫어도 계속 추웠으면 좋겠어요.",
+          "summary": "나는 기온이 내려가야 하늘이 맑아진다고 생각한다.",
+          "date": "2022-11-03",
+          "time": "13:23:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "그러게요. 저는 하늘 사진을 카카오톡 프로필 배경으로 가끔 해놔요ㅋㅋㅋ",
+          "summary": "나는 하늘 사진을 카카오톡 프로필 배경으로 가끔 해둔다.",
+          "date": "2022-11-03",
+          "time": "13:24:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "저도 카카오톡 프로필 사진은 풍경 사진으로 해놔요. 제 얼굴 사진 SNS에 올리는 거 싫어요.",
+          "summary": "나는 카카오톡 프로필 사진은 풍경 사진으로 해놓는다.",
+          "date": "2022-11-03",
+          "time": "13:24:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "저도요. 저는 제 얼굴이 마음에 안들거든요. 나중에 코 수술하면 사진 올릴거에요ㅎㅎ",
+          "summary": "나는 내 얼굴이 마음에 안 든다. 나는 나중에 코 수술을 한 후 내 사진을 프로필 사진에 올릴 것이다.",
+          "date": "2022-11-03",
+          "time": "13:25:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "성형수술 무섭지 않을까요? 제가 예쁜 얼굴은 아닌데 성형수술은 무서워서 못 하겠어요.",
+          "summary": "나는 이쁜 얼굴은 아닌데 성형수술은 무서워서 못 하겠다.",
+          "date": "2022-11-03",
+          "time": "13:25:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "저도 겁이 많은데 다른 사람들 이뻐진거 보면 유혹되네요ㅠㅠ",
+          "summary": "나는 겁이 많지만 다른 사람들이 성형 후 예뻐진 것을 보면 유혹된다.",
+          "date": "2022-11-03",
+          "time": "13:25:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "혹시 SNS 하시나요? 저는 저도 모르게 남이랑 비교하게 돼서 카톡 빼고 SNS 다 탈퇴했어요.",
+          "summary": "나는 나도 모르게 남이랑 비교하게 돼서 SNS 다 탈퇴했다.",
+          "date": "2022-11-03",
+          "time": "13:26:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "SNS가 문제네요. 저도 SNS 끊어야겠어요ㅠㅠ",
+          "summary": "나는 SNS를 끊을 것이다.",
+          "date": "2022-11-03",
+          "time": "13:26:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "맞아요. 남이랑 비교해봤자 저한테 남는 게 없어요. 아침은 드시고 출근했어요?",
+          "summary": "나는 남이랑 비교해봤자 나한테 남는 게 없다.",
+          "date": "2022-11-03",
+          "time": "13:27:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "아니요. 배고파서 샌드위치 사 먹으려구요!",
+          "summary": "나는 아침 식사를 하지 않았다. 나는 배고파서 샌드위치를 사 먹을 것이다.",
+          "date": "2022-11-03",
+          "time": "13:27:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22281",
+          "participantID": "0034",
+          "utterance": "저도 학교 가면 학생식당에서 밥 먹으려고요. 오늘 하루도 힘내세요. 다음에 또 대화 했으면 좋겠어요.",
+          "summary": "나는 학교 가면 학생식당에서 밥 먹을 것이다.",
+          "date": "2022-11-03",
+          "time": "13:27:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34353",
+          "participantID": "0095",
+          "utterance": "저도요~~ 오늘 하루 행복하세요^^",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "13:28:03",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 오늘 하늘이 예뻐서 내 기분이 다 좋다.",
+          "나는 하늘 사진을 카카오톡 프로필 배경으로 가끔 해둔다.",
+          "나는 내 얼굴이 마음에 안 든다. 나는 나중에 코 수술을 한 후 내 사진을 프로필 사진에 올릴 것이다.",
+          "나는 겁이 많지만 다른 사람들이 성형 후 예뻐진 것을 보면 유혹된다.",
+          "나는 SNS를 끊을 것이다.",
+          "나는 아침 식사를 하지 않았다. 나는 배고파서 샌드위치를 사 먹을 것이다."
+        ],
+        "speaker2": [
+          "나는 학교 가고 있다. 나는 오늘 하늘이 맑다고 생각한다.",
+          "나는 기온이 내려가야 하늘이 맑아진다고 생각한다.",
+          "나는 카카오톡 프로필 사진은 풍경 사진으로 해놓는다.",
+          "나는 이쁜 얼굴은 아닌데 성형수술은 무서워서 못 하겠다.",
+          "나는 나도 모르게 남이랑 비교하게 돼서 SNS 다 탈퇴했다.",
+          "나는 남이랑 비교해봤자 나한테 남는 게 없다.",
+          "나는 학교 가면 학생식당에서 밥 먹을 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 스포츠 TV를 자주 본다.",
+          "나는 야구를 좋아해서 야구를 자주 한다.",
+          "나는 프로야구 키움의 팬이다.",
+          "나는 제조업체에서 일하고 있다.",
+          "나는 혈액형이 AB형이다. 나는 MBTI가 INFP이다.",
+          "나는 쌀국수를 먹었다. 나는 베트남에 가서 쌀국수에 반했다.",
+          "나는 출근했다. 나는 오늘 하늘이 예쁘다고 생각한다.",
+          "나는 하늘이 어두우면 외출하기 싫어진다. 나는 하늘은 파래야 예쁘다고 생각한다.",
+          "나는 하늘이 예쁘면 가끔 연을 날린다.",
+          "나는 전통놀이에 관심이 조금 있어서 집에 팽이와 연이 있다.",
+          "나는 저녁에 하늘에 별이 많았으면 좋겠다.",
+          "나는 강화도에 가면 밤에 별이 잘 보인다고 생각한다.",
+          "나는 예전에 강화도에 놀러 간 적이 있다.",
+          "나는 오늘 미세먼지가 심해서 마스크를 쓰고 출근했다.",
+          "나는 하늘 상태에 따라 기분이 달라진다. 나는 오늘 살짝 우울하다.",
+          "나는 하루에 10시간 정도 일한다. 나는 요즘 제품 재고 수량을 맞춰야 돼서 바쁘다.",
+          "나는 살림 중 다림질이 제일 어렵다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 필사하는 게 취미이다. 나는 과방에 있는데 친구가 관심도 없는 원숭이 흉내를 내서 불쾌하다.",
+          "나는 야구 관심은 없는데 집에 같이 살고 있는 오빠 때문에 대충 안다.",
+          "나는 아직 학생이다. 나는 경제학부를 전공한다.",
+          "나는 A형이다. 나는 요즘 혈액형 대신 MBTI를 물어본다고 생각한다.",
+          "나는 혈액형, MBTI 다 관심이 없다. 나는 싱거운 음식을 싫어하는데 학식에서 먹은 라면이 정말 싱거웠어서 별로였다.",
+          "나는 저녁엔 반드시 짠 음식을 먹을 것이다.",
+          "나는 산책 중이었다. 나는 오늘 공강이다.",
+          "나는 지금 산책하면서 계속 하늘 사진 찍고 있었다. 나는 가을 하늘이 참 이쁘다고 생각한다.",
+          "나는 하늘이 엄청 이쁜데 해는 일찍 져서 조금 섭섭하다.",
+          "나는 연을 어렸을 때 날려 보고 본 적이 없다.",
+          "나는 전통놀이 말고도 모든 것에 관심이 좀 적고 조용하다.",
+          "나는 서울에 살고 있어서 밤이 돼도 하늘에 별이 안 보인다.",
+          "나는 지금 졸리다.",
+          "나는 집 청소하고 있었다. 나는 산책 나가고 싶었는데 하늘이 뿌연 걸 보니 미세먼지가 안 좋아서 안 나갔다.",
+          "나는 오늘 오후 수업만 있어서 아직 집이다. 나는 어제까지만 해도 공기가 좋았는데 하루아침에 맑은 하늘이 사라졌다.",
+          "나는 날씨 많이 타는 성격이다.",
+          "나는 꼼꼼한 일은 자신 없다. 나는 경제학부여도 맨날 계산 틀린다.",
+          "나는 집에 있으면 살림 자주 한다. 나는 돈을 안 벌고 있어서 집에서 살림 안 하면 눈치 보인다.",
+          "나는 다림질을 하는데 덜렁거리다 화상 입을까 봐 무섭다.",
+          "나는 이제 쓰레기 버리러 나간다."
+        ]
+      }
+    }
+  ]
+}

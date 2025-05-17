@@ -1,0 +1,655 @@
+{
+  "FileInfo": {
+    "filename": "K3-00095-CL41171-CP30931-02-01-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0846",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "전문직",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "대학원졸"
+    },
+    "speaker2": {
+      "participantID": "0817",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00095"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "41171",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나의 거주지는 원주이다.",
+        "나는 홈트레이닝을 좋아한다.",
+        "나는 트로트 음악을 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "30931",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 초등학교 교사이다.",
+        "나는 주말에 친구를 만난다.",
+        "나는 음악 영화를 가끔 본다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "02-01",
+    "topicType": "주거와 생활",
+    "topicTitle": "부동산"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00095-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "안녕하세요. 저는 40대 여자이고 원주에 살고 있습니다.",
+          "summary": "나는 40대 여자이고 거주지는 원주이다.",
+          "date": "2022-11-03",
+          "time": "06:23:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "안녕하세요. 저는 30대 남자이고 초등학교 교사입니다.",
+          "summary": "나는 30대 남자이고 초등학교 교사이다.",
+          "date": "2022-11-03",
+          "time": "14:51:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "저는 홈트레이닝을 좋아해요. 님은 운동을 하시나요?",
+          "summary": "나는 홈트레이닝을 좋아한다.",
+          "date": "2022-11-03",
+          "time": "14:51:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "아 그렇군요. 저는 운동 보다는 음악 영화를 가끔 봐요.",
+          "summary": "나는 음악 영화를 가끔 본다.",
+          "date": "2022-11-03",
+          "time": "14:51:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "그렇구나, 그럼 음악 영화에 트로트도 나오나요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:51:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "아니요. 트로트는 안 나오죠. ㅋㅋ.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:51:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "저느 트로트를 싫어하거든요. 안 나오면 좋겠어요.",
+          "summary": "나는 트로트 음악을 싫어한다.",
+          "date": "2022-11-03",
+          "time": "14:51:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "네. 다행히 트로트는 안 나와요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:51:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "님은 주말에 뭘 하시나요? 선생님의 v-log 처럼 알려주세요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:52:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "저는 주말에 친구를 만나요. 님은요?",
+          "summary": "나는 주말에 친구를 만난다.",
+          "date": "2022-11-03",
+          "time": "14:52:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "저는 그냥 집에서 애를 보죠. 해방되고 싶다.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:52:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "아 그러시는구나. 지루하겠네요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:52:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "네, 그치만 선생님 고생보단 덜 할 거 같아요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:52:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "그렇구나. 서로 힘내고 파이팅합시다.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:52:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "네, 감사해요. 선생님도 주말 잘 보내고 힘내요!",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:53:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "네. 그럼 나중에 다시 이야기해요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:53:10",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 여자이고 거주지는 원주이다.",
+          "나는 홈트레이닝을 좋아한다.",
+          "나는 트로트 음악을 싫어한다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이고 초등학교 교사이다.",
+          "나는 음악 영화를 가끔 본다.",
+          "나는 주말에 친구를 만난다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00095-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00095-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "3일 만에 연락해요. 저는 이사하려고 부동산에 왔어요.",
+          "summary": "나는 부동산에 왔다.",
+          "date": "2022-11-03",
+          "time": "14:53:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "그렇군요. 갑자기 이사는 왜요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:53:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "좋은 집들이 주변에 많이 생겨서요.",
+          "summary": "나는 좋은 집들이 주변에 많이 생겼다.",
+          "date": "2022-11-03",
+          "time": "14:53:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "아 그렇구나. 요즘 좋은 집들이 많긴 하죠.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:53:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "요새 애들이 집을 가지고 나눈다고 하더라고요.",
+          "summary": "나는 애들이 요새 집을 가지고 나눈다는 이야기를 들었다.",
+          "date": "2022-11-03",
+          "time": "14:53:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "아 그렇군요. 그런 건 잘 몰라서요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:53:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "그래서 우리 애 기 죽이지 않으려고 해요.",
+          "summary": "나는 애 기를 죽이고 싶지 않다.",
+          "date": "2022-11-03",
+          "time": "14:53:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "아하. 네. 좋은 어머니이신 거 같아요.",
+          "summary": "나는 상대가 좋은 어머니인 것 같다.",
+          "date": "2022-11-03",
+          "time": "14:54:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "요새 새로운 말도 있더라고요.. 휴거 아세요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:54:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "몰라요. 휴거가 뭔데요? 궁금하네요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:54:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "휴먼시아 거지라는 말이래요.. 너무 놀랍지 않나요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:54:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "아 그렇구나. 신기한 용어네요.",
+          "summary": "나는 신기한 용어라고 생각한다.",
+          "date": "2022-11-03",
+          "time": "14:54:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "대체 요새 엄마들 뭘 가르치는지.... 한심하네요.",
+          "summary": "나는 요새 엄마들이 한심하다.",
+          "date": "2022-11-03",
+          "time": "14:54:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "그러게요.. 한심한 분들인 거 같네요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:54:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "그러면서도 이렇게 이사하는 저 또한 마찬가지죠.. 이따 연락 드릴게요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:54:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "네. 그럼 나중에 다시 이야기해요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:54:54",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 부동산에 왔다.",
+          "나는 좋은 집들이 주변에 많이 생겼다.",
+          "나는 애들이 요새 집을 가지고 나눈다는 이야기를 들었다.",
+          "나는 애 기를 죽이고 싶지 않다.",
+          "나는 요새 엄마들이 한심하다."
+        ],
+        "speaker2": [
+          "나는 상대가 좋은 어머니인 것 같다.",
+          "나는 신기한 용어라고 생각한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여자이고 거주지는 원주이다.",
+          "나는 홈트레이닝을 좋아한다.",
+          "나는 트로트 음악을 싫어한다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이고 초등학교 교사이다.",
+          "나는 음악 영화를 가끔 본다.",
+          "나는 주말에 친구를 만난다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00095-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00095-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "2시간 만에 연락해요.. 부동산 갔다고 했잖아요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:55:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "네. 그러셨죠. 잘 알아보셨나요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:55:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "너무 좋은 아파트들은 제 능력 밖이더라고요.",
+          "summary": "나는 좋은 아파트는 내 능력 밖이다.",
+          "date": "2022-11-03",
+          "time": "14:55:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "아 그렇구나. 그럼 어떻게 하시게요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:55:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "그래서.. 일단은 더 고민해보려고 하거든요.",
+          "summary": "나는 더 고민을 할 것이다.",
+          "date": "2022-11-03",
+          "time": "14:55:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "아 그러시구나. 좀 더 고민해보세요!",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:55:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "그걸로 왕따를 당하면 저도 아이도 속상할 거 아니에요.",
+          "summary": "나는 집 때문에 왕따를 당하면 나도 아이도 속상할 것 같다.",
+          "date": "2022-11-03",
+          "time": "14:55:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "그러게요.. 진짜 속상할 거 같아요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:55:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "그런 슬픈 일은 없으려면 집을 좋은 걸로 사야해요.",
+          "summary": "나는 집을 좋은 것으로 사야 한다고 생각한다.",
+          "date": "2022-11-03",
+          "time": "14:56:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "네.. 맞아요. 저도 그렇게 생각해요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:56:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "대출이라도 땡겨서 무리하게 집을 살까 싶네요.",
+          "summary": "나는 대출을 받을까 생각 중이다.",
+          "date": "2022-11-03",
+          "time": "14:56:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "근데 너무 무리는 하지 마세요..",
+          "summary": "나는 너무 무리하지 않으면 좋겠다.",
+          "date": "2022-11-03",
+          "time": "14:56:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "언젠가 집은 다 돈이 되기는 하잖아요... 아닌가요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:56:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "그렇기는 한데 무리하면 힘들어지죠.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:56:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41171",
+          "participantID": "0846",
+          "utterance": "저는 속상해서 마음이 힘드네요.. 잠을 좀 먼저 잘게요. 다음에 또 이야기를 나눠요.",
+          "summary": "나는 속상하다.",
+          "date": "2022-11-03",
+          "time": "14:56:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30931",
+          "participantID": "0817",
+          "utterance": "네. 그럼 나중에 다시 이야기해요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "14:56:57",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 좋은 아파트는 내 능력 밖이다.",
+          "나는 더 고민을 할 것이다.",
+          "나는 집 때문에 왕따를 당하면 나도 아이도 속상할 것 같다.",
+          "나는 집을 좋은 것으로 사야 한다고 생각한다.",
+          "나는 대출을 받을까 생각 중이다.",
+          "나는 속상하다."
+        ],
+        "speaker2": [
+          "나는 너무 무리하지 않으면 좋겠다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여자이고 거주지는 원주이다.",
+          "나는 홈트레이닝을 좋아한다.",
+          "나는 트로트 음악을 싫어한다.",
+          "나는 부동산에 왔다.",
+          "나는 좋은 집들이 주변에 많이 생겼다.",
+          "나는 애들이 요새 집을 가지고 나눈다는 이야기를 들었다.",
+          "나는 애 기를 죽이고 싶지 않다.",
+          "나는 요새 엄마들이 한심하다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이고 초등학교 교사이다.",
+          "나는 음악 영화를 가끔 본다.",
+          "나는 주말에 친구를 만난다.",
+          "나는 상대가 좋은 어머니인 것 같다.",
+          "나는 신기한 용어라고 생각한다."
+        ]
+      }
+    }
+  ]
+}

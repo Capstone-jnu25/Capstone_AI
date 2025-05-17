@@ -1,0 +1,617 @@
+{
+  "FileInfo": {
+    "filename": "K3-00083-CL21997-CP42128-09-04-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3732",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "전문직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "3755",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "전문직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00083"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "21997",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 가족은 3명이다",
+        "나는 펜싱부 동아리에 참여한다",
+        "나는 걷기를 가끔 한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "42128",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나는 요즘, 가끔 스트레스를 받는다",
+        "나는 달리기를 싫어한다",
+        "나는 양식을 싫어한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "09-04",
+    "topicType": "개인 및 관계>반려동물",
+    "topicTitle": "반려동물 용품"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00083-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "안녕하세요 저는 20대 입니다!",
+          "summary": "나는 20대입니다",
+          "date": "2022-10-24",
+          "time": "14:46:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "안녕하세요 저는 40대입니다.!",
+          "summary": "나는 40대이다",
+          "date": "2022-10-24",
+          "time": "14:47:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "반갑습니다 저는 20대 여성이에요",
+          "summary": "나는 20대 여성이다",
+          "date": "2022-10-24",
+          "time": "14:49:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "네 반가워요 저도 여성입니다~",
+          "summary": "나는 여자이다",
+          "date": "2022-10-24",
+          "time": "14:50:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "그러시군요! 저의 소개를 해볼게요 저의 가족은 3명이에요",
+          "summary": "나는 가족 3명이다",
+          "date": "2022-10-24",
+          "time": "14:55:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "우와 구성원이 어떻게 되시나요? 저는 5명입니다.",
+          "summary": "나는 가족이 5명이다",
+          "date": "2022-10-24",
+          "time": "15:02:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "우와 복작복작 재밌으시겠어요! 엄마 아빠 저 이렇게 셋입니다ㅎ",
+          "summary": "나는 엄마 아빠랑 산다",
+          "date": "2022-10-24",
+          "time": "15:07:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "그러시군요! 단란한 가정이네요. 음식은 뭐좋아하시나요 저는 양식을 싫어해요. 한식이 좋아요",
+          "summary": "나는 양식을 싫어하고 한식을 좋아한다",
+          "date": "2022-10-24",
+          "time": "15:12:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "한식 좋지요 저는 다 잘 먹어요ㅎㅎ 저는 걷기를 가끔 해요!",
+          "summary": "나는 걷는 걸 좋아한다",
+          "date": "2022-10-24",
+          "time": "15:13:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "그렇군요 저도 걷는건 좋아요 달리기를 싫어합니다.",
+          "summary": "나는 걷는 건 좋지만 달리기를 싫어한다",
+          "date": "2022-10-24",
+          "time": "15:14:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "아하 그러시군요! 저는 펜싱부 동아리에 참여해요.",
+          "summary": "나는 펜싱 부동 아리다",
+          "date": "2022-10-24",
+          "time": "15:28:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "정말요? 저도 펜싱을 배워보고 싶었는데. 일하는게 가끔 스트레스를 많이받아서요",
+          "summary": "나는 일하는 게 가끔 스트레스를 많이 받는다",
+          "date": "2022-10-24",
+          "time": "15:28:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "스트레스 풀기에 너무 좋아요 ㅎㅎ",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "15:33:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "그쵸? 스트레스 안받게 조심합시다!",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "15:39:40",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대입니다",
+          "나는 20대 여성이다",
+          "나는 가족 3명이다",
+          "나는 엄마 아빠랑 산다",
+          "나는 걷는 걸 좋아한다",
+          "나는 펜싱 부동 아리다"
+        ],
+        "speaker2": [
+          "나는 40대이다",
+          "나는 여자이다",
+          "나는 가족이 5명이다",
+          "나는 양식을 싫어하고 한식을 좋아한다",
+          "나는 걷는 건 좋지만 달리기를 싫어한다",
+          "나는 일하는 게 가끔 스트레스를 많이 받는다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00083-1",
+      "prevTimeInfo": {
+        "timeNum": "26",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00083-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "안녕하세요 이틀만인가요 어제 하루는 어떠셨나요",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "15:42:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "안녕하세요 잘 지내셨나요~ 어제는 푹 쉬었어요!",
+          "summary": "나는 어제는 푹 쉬었다",
+          "date": "2022-10-24",
+          "time": "17:48:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "푹쉬셨다니 다행이네요 저도 맛있는 거 먹고 강아지 산책 시켰어요ㅎ",
+          "summary": "나는 강아지를 산책시킨다",
+          "date": "2022-10-24",
+          "time": "17:58:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "강아지 키우시나봐요~ 몇마리 키우세요?",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "18:14:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "한 마리 키워요! 한 마리도 힘들답니다ㅠ 님은 반려동물 키우세요?",
+          "summary": "나는 강아지 한 마리 키운다",
+          "date": "2022-10-24",
+          "time": "20:06:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "네 저는 1살된 강아지를 키우고 있어요 귀여워요",
+          "summary": "나는 1살 된 강아지를 키우고 있는데 귀엽다",
+          "date": "2022-10-24",
+          "time": "21:08:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "어머 너무 귀엽겠네요~ 키워보니 필요한 게 한두개가 아니죠?",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "21:23:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "네 강아지 옷부터 시작해서 신발도 있더라구요 ㅎㅎ",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "21:25:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "먹는 것도 얼마나 까다로운지..ㅠㅋㅋ 반려동물용품점 자주 가시죠?",
+          "summary": "",
+          "date": "2022-10-24",
+          "time": "23:07:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "네 ㅎㅎ 반려동물용품점이 근처에 없어서 멀리까지가요",
+          "summary": "나는 반려동물 용품점이 근처에 없어서 멀리까지 간다",
+          "date": "2022-10-25",
+          "time": "07:24:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "아..가까우면 참 좋으실 텐데요ㅎㅎ저는 반려 동물 용품점에 가까이 있어서 자주 가요!",
+          "summary": "나는 반려 용품점에 자주 간다",
+          "date": "2022-10-25",
+          "time": "07:58:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "그러시군요! 반려동물 용품은 뭘 자주 사시나요?",
+          "summary": "",
+          "date": "2022-10-25",
+          "time": "13:52:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "주로 간식을 많이 구매하는 것 같아요~ 아 저 펜싱부 하러 가볼게요",
+          "summary": "나는 주로 간식을 구매한다",
+          "date": "2022-10-25",
+          "time": "13:54:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "그쵸 저도그래요 장난감도 많이 사구요 ㅎㅎ 네 안녕히 가세요",
+          "summary": "나는 장난감도 많이 산다",
+          "date": "2022-10-25",
+          "time": "18:10:36",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 강아지를 산책시킨다",
+          "나는 강아지 한 마리 키운다",
+          "나는 반려 용품점에 자주 간다",
+          "나는 주로 간식을 구매한다"
+        ],
+        "speaker2": [
+          "나는 어제는 푹 쉬었다",
+          "나는 1살 된 강아지를 키우고 있는데 귀엽다",
+          "나는 반려동물 용품점이 근처에 없어서 멀리까지 간다",
+          "나는 장난감도 많이 산다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대입니다",
+          "나는 20대 여성이다",
+          "나는 가족 3명이다",
+          "나는 엄마 아빠랑 산다",
+          "나는 걷는 걸 좋아한다",
+          "나는 펜싱 부동 아리다"
+        ],
+        "speaker2": [
+          "나는 40대이다",
+          "나는 여자이다",
+          "나는 가족이 5명이다",
+          "나는 양식을 싫어하고 한식을 좋아한다",
+          "나는 걷는 건 좋지만 달리기를 싫어한다",
+          "나는 일하는 게 가끔 스트레스를 많이 받는다"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00083-2",
+      "prevTimeInfo": {
+        "timeNum": "17",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00083-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "안녕하세요ㅎㅎ 17시간 만이네요~~ 어젠 잘 주무셨나요?",
+          "summary": "",
+          "date": "2022-10-25",
+          "time": "18:16:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "네~ 오랜만입니다! 잘 주무셨는지요 ㅎㅎ",
+          "summary": "",
+          "date": "2022-10-25",
+          "time": "18:17:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "네 푹 잤어요ㅎㅎ 강아지 때문에 일찍 깼어요!",
+          "summary": "나는 강아지를 키운다",
+          "date": "2022-10-25",
+          "time": "18:18:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "ㅎㅎ 강아지가 깨우던가요? 저희집 강아지는 아직 자고있네요",
+          "summary": "나는 강아지가 아직 자고 있다",
+          "date": "2022-10-25",
+          "time": "18:19:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "침대에 강아지 계단을 뒀더니 올라와서 깨우더라구요 하핫 애기라 잠이 많나봐요",
+          "summary": "",
+          "date": "2022-10-25",
+          "time": "18:23:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "그렇군요 ㅎㅎ 강아지랑 놀아주려면 장난감이 많아야돼요 ㅎㅎ",
+          "summary": "나는 강아지랑 놀아주려면 장난감이 많아야 된다",
+          "date": "2022-10-25",
+          "time": "18:24:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "아 맞아요ㅎㅎ 요즘은 노즈워크 장난감도 많더라구요!?",
+          "summary": "나는 강아지 장난감을 산다",
+          "date": "2022-10-25",
+          "time": "18:30:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "그건 어떤장난감인가요? 궁금하네요!",
+          "summary": "나는 어떤 장난감인지 궁금하다",
+          "date": "2022-10-25",
+          "time": "18:30:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "강아지가 좋아하는 사료나 간식을 숨겨두고 냄새로 찾게 하는 장난감이에요! ",
+          "summary": "나는 주로 노즈 워크 장난감을 산다",
+          "date": "2022-10-25",
+          "time": "18:32:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "아 ㅎㅎ재밌겠어요 저도 용품점에서 구매해봐야겠어요",
+          "summary": "나는 재밌어 보여서 나도 용품점에서 구매하고 싶다",
+          "date": "2022-10-25",
+          "time": "19:06:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "추천합니다! 강아지가 스트레스 해소와 성취감을 느끼는데 좋대요 ㅎㅎ",
+          "summary": "",
+          "date": "2022-10-25",
+          "time": "20:12:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "그렇군요 ㅎㅎㅎ 반려동물 씻길 때도 만만치않게 힘들던데  좋은 물건 파나요?",
+          "summary": "나는 반려동물 씻길 때도 만만치 않게 힘이 들었다",
+          "date": "2022-10-25",
+          "time": "21:38:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21997",
+          "participantID": "3732",
+          "utterance": "음 잘 모르겠어요 ㅎㅎ 반려동물 용품점 가면 한 번 찾아봐야겠네요!",
+          "summary": "나는 반려동물 용품점을 간다",
+          "date": "2022-10-25",
+          "time": "22:08:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42128",
+          "participantID": "3755",
+          "utterance": "네 좋은거 찾으면 알려주세요 좋은밤 되세요",
+          "summary": "",
+          "date": "2022-10-25",
+          "time": "22:33:30",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 강아지를 키운다",
+          "나는 강아지 장난감을 산다",
+          "나는 주로 노즈 워크 장난감을 산다",
+          "나는 반려동물 용품점을 간다"
+        ],
+        "speaker2": [
+          "나는 강아지가 아직 자고 있다",
+          "나는 강아지랑 놀아주려면 장난감이 많아야 된다",
+          "나는 어떤 장난감인지 궁금하다",
+          "나는 재밌어 보여서 나도 용품점에서 구매하고 싶다",
+          "나는 반려동물 씻길 때도 만만치 않게 힘이 들었다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대입니다",
+          "나는 20대 여성이다",
+          "나는 가족 3명이다",
+          "나는 엄마 아빠랑 산다",
+          "나는 걷는 걸 좋아한다",
+          "나는 펜싱 부동 아리다",
+          "나는 강아지를 산책시킨다",
+          "나는 강아지 한 마리 키운다",
+          "나는 반려 용품점에 자주 간다",
+          "나는 주로 간식을 구매한다"
+        ],
+        "speaker2": [
+          "나는 40대이다",
+          "나는 여자이다",
+          "나는 가족이 5명이다",
+          "나는 양식을 싫어하고 한식을 좋아한다",
+          "나는 걷는 건 좋지만 달리기를 싫어한다",
+          "나는 일하는 게 가끔 스트레스를 많이 받는다",
+          "나는 어제는 푹 쉬었다",
+          "나는 1살 된 강아지를 키우고 있는데 귀엽다",
+          "나는 반려동물 용품점이 근처에 없어서 멀리까지 간다",
+          "나는 장난감도 많이 산다"
+        ]
+      }
+    }
+  ]
+}

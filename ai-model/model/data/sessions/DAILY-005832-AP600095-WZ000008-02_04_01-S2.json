@@ -1,0 +1,871 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-005832-AP600095-WZ000008-02_04_01-S2.json",
+        "sessionLevel": "2"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0057",
+            "gender": "여성",
+            "age": "60대 이상",
+            "occupation": "주부",
+            "bPlace": "부산/대구/울산/경상",
+            "gPlace": "부산/대구/울산/경상",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "중졸",
+            "major": "기타"
+        },
+        "speaker2": {
+            "participantID": "F0057",
+            "gender": "여성",
+            "age": "30대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "행정"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "005832"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600095",
+            "personaFeatures": [
+                "나는 스포츠/게임의 인물에 대한 지식을 쌓고 있다.",
+                "나는 새벽에 운동한다",
+                "나는 콩국수를 즐겨 먹는다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000008",
+            "personaFeatures": [
+                "나는 인물에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_04_01",
+        "largeCategory": "취미",
+        "mediumCategory": "스포츠",
+        "smallCategory": "인물"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "005832-1",
+            "sessionKeywords": [
+                "*고즈루 마코토*,*고즈루 마코토*의 인물"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600095",
+                    "participantID": "E0057",
+                    "utterance": "내가 요새 새벽 운동을 하고 있어. 신선한 공기를 마시며 야구 배팅 연습을 하러 다니는 중이야. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 새벽에 운동한다",
+                    "timestamp": 1695965294000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000008",
+                    "participantID": "F0057",
+                    "utterance": "네 그러시군요. 그럼 야구선수가 궁금하신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695965316000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600095",
+                    "participantID": "E0057",
+                    "utterance": "응 맞아. 내가 스포츠 선수는 다 좋아하고 여러 유명 인물 찾는 중인데 우리나라 선수 중에도 정말 유명한 선수가 많이 존재하는 거 같아. 그 조선의 타자라 불리는 선수가 누구였지? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695965410000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000008",
+                    "participantID": "F0057",
+                    "utterance": "한국에서 조선의 타자라고 불리는 선수는 이대호 선수입니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695965444000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600095",
+                    "participantID": "E0057",
+                    "utterance": "아 맞아 이대호! 그 타자를 보고 열심히 나도 배팅 연습을 하고 있어. 일본에는 60살이 넘어서도 배팅연습을 한 선수가 있다는데 고즈루 마코토라고 이 선수에 대해 알고 있니? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695965534000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000008",
+                    "participantID": "F0057",
+                    "utterance": "고즈루 마코토는 야구계를 떠난 이후에 도쿄도 네리마구에서 건물 관리 회사를 경영했고 60세까지 배팅 센터에 다니면서 매일 200구 정도를 타격할 정도로 타격에 있어서 장인이나 다름없었습니다.",
+                    "context": {
+                        "query": "고즈루 마코토",
+                        "contents": [
+                            {
+                                "documentID": "971424",
+                                "documentTitle": "고즈루 마코토",
+                                "content": [
+                                    "고즈루 마코토(, 1922년 12월 17일 ~ 2003년 6월 2일)는 일본의 전 프로 야구 선수이자 야구 지도자이다.",
+                                    "시즌 타점·루타수·득점 등의 역대 1위 기록을 보유한 선수로도 알려져 있으며 아름다운 타격 폼과 풍모가 비슷하다는 이유로 ‘일본의 조 디마지오’라고 불렸다.",
+                                    "인물.",
+                                    "프로 입단 전.",
+                                    "이즈카 상업전수학교(현재의 이즈카 상업고등학교)를 거쳐 사회인 야구팀인 에 입단했다.",
+                                    "군수 공장을 위한 전직이 인정되지 않아 대학 진학을 명목으로 고향과 연관된 ‘이즈카 마코토’()라는 가명을 사용해 이를 등록명으로 사용하여 나고야군에 입단했는데, 장내 아나운서가 호명을 해도 자신이 아닌 것 같은 이상한 느낌이었다고 한다.",
+                                    "프로 야구 선수 시절.",
+                                    "1년차부터 주전으로 활약했으며 1944년에는 응소를 위해 구단에 참가하지 않았다.",
+                                    "말년에 고즈루는 “대학에서 공부할 생각보다는 야구를 하기 위해서 니혼 대학의 야간부에 다녔다”고 말했다.",
+                                    "그후 니혼 대학 경제학부를 수료했다.",
+                                    "1946년에 주부니혼군에 복귀했지만 1948년에 구단 대표였던 아카미네 마사시가 사임하면서 그 뒤를 쫓아 퇴단하더니 규에이 플라이어스로 이적했다.",
+                                    "그 동안 이후에 쇼치쿠 로빈스의 감독도 맡았던 닛타 교이치의 지도를 받아 허리의 회전을 이용해 다운 스윙으로 치는 ‘골프 스윙 타법’을 터득했다.",
+                                    "어깨를 으쓱 치키며 완력이 강한 선수가 많았던 당시 슬러거들 속에서 몸집이 작고 힘이 없던 고즈루의 허리의 회전을 이용한 부드러운 스윙은 신선한 타격 방식이었다.",
+                                    "닛타가 원래 골퍼였던 것도 있어서 ‘골프 스윙’은 당시에 유행어가 되기도 하였다",
+                                    "(그러나 동시에 그 명칭으로 인해 “아래로부터 어퍼 스윙으로 치는 타법”이라는 오해도 불렀다).",
+                                    "1949년에 다이에이 스타스로 이적한 후 방망이를 힘 없이 흔드는 감각을 익히고, 타격 장려를 위한 ‘래빗 볼’이라는 반발력 강한 공인구가 채택된 적도 있어 비약적으로 타격 성적이 향상되었다.",
+                                    "같은 해 타율 0.361로 수위 타자 타이틀을 획득했다.",
+                                    "1950년 쇼치쿠 로빈스로 이적해 이와모토 요시유키, 오카 도라오, 가나야마 지로 등과 함께 '수소 폭탄 타선'이라는 강력한 타선을 형성했다.",
+                                    "이 해에는 전년도에 후지무라 후미오가 기록했던 한 시즌 최다 홈런인 46개를 경신했으며 11월 2일 대 다이요 웨일스 전에서 3회 이마니시 렌타로를 상대로 좌측 담장을 넘기는 홈런을 만들어내며 일본 프로 야구 사상 첫 한 시즌 50개의 홈런을 작성했다.",
+                                    "시즌 내 130경기에 출장해 타율 0.355, 51홈런 161타점의 압도적인 성적으로 팀의 리그 우승에 공헌했다.",
+                                    "홈런·타점 2관왕과 MVP를 차지했으나 타율 0.362를 기록한 후지무라 후미오에 밀려 삼관왕은 놓치고 말았다.",
+                                    "하지만 시즌 막판 '추간 연골 헤르니아'라는 병으로 인해 일본 시리즈에서 활약하지 못했다.",
+                                    "이듬해인 1951년부터는 반발력이 낮아진 공인구와 병으로 인해 성적이 점점 나빠졌다.",
+                                    "당시엔 치료법도 없어 통증으로 인해 감각이 없어질 정도였다고 한다.",
+                                    "1953년에 히로시마 카프로 이적했다.",
+                                    "히로시마 감독이었던 이시모토 슈이치와 통 모금을 통해 자금을 모은 히로시마 시민의 열의에 의해 이적이 실현되었는데, 야구계의 대스타가 입단한 히로시마는 열광했다.",
+                                    "비록 왕년과 같은 힘은 발휘하지 못했지만, 이 해 개인 최다인 33도루를 기록하는 등 분투했고 팬들도 이에 응해 인기 투표 1위로 올스타전에 출장시켰다.",
+                                    "총 6년간 승률이 낮았던 당시의 팀을 지원했다.",
+                                    "1958년에 현역 은퇴를 선언했다.",
+                                    "타격 성적 뿐만 아니라, 통산 240도루를 기록한 빠른 발과 수비에서 강한 어깨로도 평가가 높았다.",
+                                    "그 후.",
+                                    "현역에서 은퇴한 이후에는 고쿠테쓰 스왈로스·산케이 스왈로스 1군 타격 코치(1964년 ~ 1965년)를 맡아 다카야마 다다카쓰와 후쿠토미 구니오 등을 키웠다.",
+                                    "1968년에는 한신 타이거스 1군 타격 코치로 부임하여 투수로서 입단한 구와노 하카루를 타자로 전향시켰다.",
+                                    "이듬해 1969년부터는 한신 타이거스 도쿄 주재 스카우트를 맡아 가케후 마사유키의 입단 테스트를 담당했고 1976년에 퇴단했다.",
+                                    "야구계를 떠난 이후에는 도쿄도 네리마구에서 건물 관리 회사를 경영했고 60세까지 배팅 센터에 다니면서 매일 200구 정도를 타격할 정도로 타격에 있어서 장인이나 다름없었다.",
+                                    "1980년에는 일본 야구 명예의 전당에 헌액됐으며, 2003년 6월 2일 심실세동으로 도쿄 도 도시마구에 있는 병원에서 향년 80세의 나이로 사망했다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false
+                        ]
+                    ],
+                    "summary": "고즈루 마코토는 야구계를 떠난 이후에 도쿄도 네리마구에서 건물 관리 회사를 경영했고 60세까지 배팅 센터에 다니면서 매일 200구 정도를 타격할 정도로 타격에 있어서 장인이나 다름없었다. ",
+                    "timestamp": 1695965644000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600095",
+                    "participantID": "E0057",
+                    "utterance": "와 은퇴 후에도 60살이 넘도록 200구 타격을 하시다니 대단한 체력을 갖고 계시네? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695965686000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000008",
+                    "participantID": "F0057",
+                    "utterance": "네 맞아요. 60살이 넘어서도 200구의 타격을 할 수 있는 건 정말 대단해요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695965729000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600095",
+                    "participantID": "E0057",
+                    "utterance": "응 그리고 그 선수가 골프 스윙 자세를 한 것도 유명하잖아. 맞지? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695965759000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000008",
+                    "participantID": "F0057",
+                    "utterance": "고즈루 마코토는 쇼치쿠 로빈스의 감독이 맡았던 닛타 교이치의 지도를 받아 허리의 회전을 이용해 다운 스윙으로 치는 ‘골프 스윙 타법’을 터득했습니다.",
+                    "context": {
+                        "query": "고즈루 마코토",
+                        "contents": [
+                            {
+                                "documentID": "971424",
+                                "documentTitle": "고즈루 마코토",
+                                "content": [
+                                    "고즈루 마코토(, 1922년 12월 17일 ~ 2003년 6월 2일)는 일본의 전 프로 야구 선수이자 야구 지도자이다.",
+                                    "시즌 타점·루타수·득점 등의 역대 1위 기록을 보유한 선수로도 알려져 있으며 아름다운 타격 폼과 풍모가 비슷하다는 이유로 ‘일본의 조 디마지오’라고 불렸다.",
+                                    "인물.",
+                                    "프로 입단 전.",
+                                    "이즈카 상업전수학교(현재의 이즈카 상업고등학교)를 거쳐 사회인 야구팀인 에 입단했다.",
+                                    "군수 공장을 위한 전직이 인정되지 않아 대학 진학을 명목으로 고향과 연관된 ‘이즈카 마코토’()라는 가명을 사용해 이를 등록명으로 사용하여 나고야군에 입단했는데, 장내 아나운서가 호명을 해도 자신이 아닌 것 같은 이상한 느낌이었다고 한다.",
+                                    "프로 야구 선수 시절.",
+                                    "1년차부터 주전으로 활약했으며 1944년에는 응소를 위해 구단에 참가하지 않았다.",
+                                    "말년에 고즈루는 “대학에서 공부할 생각보다는 야구를 하기 위해서 니혼 대학의 야간부에 다녔다”고 말했다.",
+                                    "그후 니혼 대학 경제학부를 수료했다.",
+                                    "1946년에 주부니혼군에 복귀했지만 1948년에 구단 대표였던 아카미네 마사시가 사임하면서 그 뒤를 쫓아 퇴단하더니 규에이 플라이어스로 이적했다.",
+                                    "그 동안 이후에 쇼치쿠 로빈스의 감독도 맡았던 닛타 교이치의 지도를 받아 허리의 회전을 이용해 다운 스윙으로 치는 ‘골프 스윙 타법’을 터득했다.",
+                                    "어깨를 으쓱 치키며 완력이 강한 선수가 많았던 당시 슬러거들 속에서 몸집이 작고 힘이 없던 고즈루의 허리의 회전을 이용한 부드러운 스윙은 신선한 타격 방식이었다.",
+                                    "닛타가 원래 골퍼였던 것도 있어서 ‘골프 스윙’은 당시에 유행어가 되기도 하였다",
+                                    "(그러나 동시에 그 명칭으로 인해 “아래로부터 어퍼 스윙으로 치는 타법”이라는 오해도 불렀다).",
+                                    "1949년에 다이에이 스타스로 이적한 후 방망이를 힘 없이 흔드는 감각을 익히고, 타격 장려를 위한 ‘래빗 볼’이라는 반발력 강한 공인구가 채택된 적도 있어 비약적으로 타격 성적이 향상되었다.",
+                                    "같은 해 타율 0.361로 수위 타자 타이틀을 획득했다.",
+                                    "1950년 쇼치쿠 로빈스로 이적해 이와모토 요시유키, 오카 도라오, 가나야마 지로 등과 함께 '수소 폭탄 타선'이라는 강력한 타선을 형성했다.",
+                                    "이 해에는 전년도에 후지무라 후미오가 기록했던 한 시즌 최다 홈런인 46개를 경신했으며 11월 2일 대 다이요 웨일스 전에서 3회 이마니시 렌타로를 상대로 좌측 담장을 넘기는 홈런을 만들어내며 일본 프로 야구 사상 첫 한 시즌 50개의 홈런을 작성했다.",
+                                    "시즌 내 130경기에 출장해 타율 0.355, 51홈런 161타점의 압도적인 성적으로 팀의 리그 우승에 공헌했다.",
+                                    "홈런·타점 2관왕과 MVP를 차지했으나 타율 0.362를 기록한 후지무라 후미오에 밀려 삼관왕은 놓치고 말았다.",
+                                    "하지만 시즌 막판 '추간 연골 헤르니아'라는 병으로 인해 일본 시리즈에서 활약하지 못했다.",
+                                    "이듬해인 1951년부터는 반발력이 낮아진 공인구와 병으로 인해 성적이 점점 나빠졌다.",
+                                    "당시엔 치료법도 없어 통증으로 인해 감각이 없어질 정도였다고 한다.",
+                                    "1953년에 히로시마 카프로 이적했다.",
+                                    "히로시마 감독이었던 이시모토 슈이치와 통 모금을 통해 자금을 모은 히로시마 시민의 열의에 의해 이적이 실현되었는데, 야구계의 대스타가 입단한 히로시마는 열광했다.",
+                                    "비록 왕년과 같은 힘은 발휘하지 못했지만, 이 해 개인 최다인 33도루를 기록하는 등 분투했고 팬들도 이에 응해 인기 투표 1위로 올스타전에 출장시켰다.",
+                                    "총 6년간 승률이 낮았던 당시의 팀을 지원했다.",
+                                    "1958년에 현역 은퇴를 선언했다.",
+                                    "타격 성적 뿐만 아니라, 통산 240도루를 기록한 빠른 발과 수비에서 강한 어깨로도 평가가 높았다.",
+                                    "그 후.",
+                                    "현역에서 은퇴한 이후에는 고쿠테쓰 스왈로스·산케이 스왈로스 1군 타격 코치(1964년 ~ 1965년)를 맡아 다카야마 다다카쓰와 후쿠토미 구니오 등을 키웠다.",
+                                    "1968년에는 한신 타이거스 1군 타격 코치로 부임하여 투수로서 입단한 구와노 하카루를 타자로 전향시켰다.",
+                                    "이듬해 1969년부터는 한신 타이거스 도쿄 주재 스카우트를 맡아 가케후 마사유키의 입단 테스트를 담당했고 1976년에 퇴단했다.",
+                                    "야구계를 떠난 이후에는 도쿄도 네리마구에서 건물 관리 회사를 경영했고 60세까지 배팅 센터에 다니면서 매일 200구 정도를 타격할 정도로 타격에 있어서 장인이나 다름없었다.",
+                                    "1980년에는 일본 야구 명예의 전당에 헌액됐으며, 2003년 6월 2일 심실세동으로 도쿄 도 도시마구에 있는 병원에서 향년 80세의 나이로 사망했다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "고즈루 마코토는 쇼치쿠 로빈스의 감독이 맡았던 닛타 교이치의 지도를 받아 허리의 회전을 이용해 다운 스윙으로 치는 ‘골프 스윙 타법’을 터득했다. ",
+                    "timestamp": 1695965854000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600095",
+                    "participantID": "E0057",
+                    "utterance": "그래 골프 스윙 타법 정말 자신만의 시그니처를 갖는 것도 대단한 것 같아! ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695965903000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000008",
+                    "participantID": "F0057",
+                    "utterance": "네 맞아요. 말씀대로 정말 대단한 거 같아요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695965944000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600095",
+                    "participantID": "E0057",
+                    "utterance": "시간이 벌써 이렇게 점심으로 요새 즐겨 먹는 콩국수 먹기로 했는데 나는 그럼 이만~",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 콩국수를 즐겨 먹는다.",
+                    "timestamp": 1695965990000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000008",
+                    "participantID": "F0057",
+                    "utterance": "네 궁금한 점이 있다면 다음에 또 질문해 주세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695966015000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 새벽에 운동한다",
+                    "나는 콩국수를 즐겨 먹는다."
+                ],
+                "wizard": [
+                    "고즈루 마코토는 야구계를 떠난 이후에 도쿄도 네리마구에서 건물 관리 회사를 경영했고 60세까지 배팅 센터에 다니면서 매일 200구 정도를 타격할 정도로 타격에 있어서 장인이나 다름없었다. ",
+                    "고즈루 마코토는 쇼치쿠 로빈스의 감독이 맡았던 닛타 교이치의 지도를 받아 허리의 회전을 이용해 다운 스윙으로 치는 ‘골프 스윙 타법’을 터득했다. "
+                ],
+                "dialogSummary": "야구 연습을 하는 질문자는 고즈루 마코토에 대해 질문 했고 챗봇은 고즈루 마코토는 야구계를 떠난 이후에 도쿄도 네리마구에서 건물 관리 회사를 경영했고 60세까지 배팅 센터에 다니면서 매일 200구 정도를 타격할 정도로 타격에 있어서 장인이나 다름없었고 쇼치쿠 로빈스의 감독이 맡았던 닛타 교이치의 지도를 받아 허리의 회전을 이용해 다운 스윙으로 치는 ‘골프 스윙 타법’을 터득했다고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "005832-1",
+            "prevTimeInfo": {
+                "timeNum": "2",
+                "timeUnit": "시간"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "005832-2",
+            "sessionKeywords": [
+                "*전송림*,*전송림*의 인물"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600095",
+                    "participantID": "E0057",
+                    "utterance": "아 맛있는 콩국수 잘 먹고 왔어~ 그새 2시간이나 지났잖아? 나 또 궁금한 사람이 생겼어",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695966183000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000008",
+                    "participantID": "F0057",
+                    "utterance": "네 누가 또 궁금하신가요? 저에게 물어보세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695966203000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600095",
+                    "participantID": "E0057",
+                    "utterance": "아 내가 연습하는 야구 배팅장 근처에 축구 연습장도 있거든. 축구선수 중에 너 북한 축구 선수도 잘 알고 있어? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695966285000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000008",
+                    "participantID": "F0057",
+                    "utterance": "네 저는 북한 축구 선수에 대해서도 알고 있어요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695966358000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600095",
+                    "participantID": "E0057",
+                    "utterance": "이번 아시안 게임을 보다보니 거기에 북한선수도 나오고 이름중에 전송림이라는 선수가 있는데 공격수인 거야. 내가 또 공격수들을 좋아하거든. 전송림에 대해 알려줘. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 아시안 게임을 본다",
+                    "timestamp": 1695966470000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000008",
+                    "participantID": "F0057",
+                    "utterance": "1985년 9월 19일 평양 출신으로 전송림은 조선민주주의인민공화국의 축구 선수이며, 포지션은 공격수입니다.",
+                    "context": {
+                        "query": "전송림",
+                        "contents": [
+                            {
+                                "documentID": "302371",
+                                "documentTitle": "전송림",
+                                "content": [
+                                    "전송림(1985년 9월 19일, 평양직할시 ~ )은 조선민주주의인민공화국의 축구 선수이며, 포지션은 공격수이다.",
+                                    "조선민주주의인민공화국 1부 리그의 소백수체육단에 소속되어 있다가 4.25체육단으로 이적하였고, 2008년 공화국선수권대회와 공화국창립기념일대회에서 우승을 차지하였다.",
+                                    "2009년 3월 지아 리그의 선양 둥진으로 이적하였다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "전송림은 1985년 9월 19일 평양 출신으로 조선민주주의인민공화국의 축구 선수이며, 포지션은 공격수이다.",
+                    "timestamp": 1695966581000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600095",
+                    "participantID": "E0057",
+                    "utterance": "아 85년생이면 생각보다 나이가 있구나. 내가 이전 영상을 봐서 그런지 아직 젊어 보였는데",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695966646000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000008",
+                    "participantID": "F0057",
+                    "utterance": "네 그러시군요. 과거 영상 속 인물에 대해 궁금하신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695966672000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600095",
+                    "participantID": "E0057",
+                    "utterance": "뭐 궁금한 사람들이야 많았지. 내가 좋아하는 스포츠에는 정말 재능있는 많은 선수들이 존재하고 그들을 알아가는 것 또한 큰 즐거움이야. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 스포츠의 인물에 대한 지식을 쌓고 있다.",
+                    "timestamp": 1695966721000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000008",
+                    "participantID": "F0057",
+                    "utterance": "네 맞아요. 재능있는 다양한 스포츠 선수들이 존재합니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695966791000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600095",
+                    "participantID": "E0057",
+                    "utterance": "응 오늘도 덕분에 전송림 선수에 대해 알게 되었어 고맙다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695966808000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000008",
+                    "participantID": "F0057",
+                    "utterance": "만족할 만한 답변을 드리고 도움이 되어 저도 기뻐요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695966840000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600095",
+                    "participantID": "E0057",
+                    "utterance": "응 그럼 다음에 또 궁금한 스포츠 선수 생기면 질문하러 올게!  안녕! ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695966859000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000008",
+                    "participantID": "F0057",
+                    "utterance": "네 다음에도 궁금한 인물이 있다면 질문해 주세요. 안녕!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695966886000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 아시안 게임을 본다",
+                    "나는 스포츠의 인물에 대한 지식을 쌓고 있다."
+                ],
+                "wizard": [
+                    "전송림은 1985년 9월 19일 평양 출신으로 조선민주주의인민공화국의 축구 선수이며, 포지션은 공격수이다."
+                ],
+                "dialogSummary": "질문자는 전송림에 대해 질문하였고 챗봇은 1985년 9월 19일 평양 출신으로 전송림은 조선민주주의인민공화국의 축구 선수이며, 포지션은 공격수라고 답변하였다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 새벽에 운동한다",
+                    "나는 콩국수를 즐겨 먹는다."
+                ],
+                "wizard": [
+                    "고즈루 마코토는 야구계를 떠난 이후에 도쿄도 네리마구에서 건물 관리 회사를 경영했고 60세까지 배팅 센터에 다니면서 매일 200구 정도를 타격할 정도로 타격에 있어서 장인이나 다름없었다. ",
+                    "고즈루 마코토는 쇼치쿠 로빈스의 감독이 맡았던 닛타 교이치의 지도를 받아 허리의 회전을 이용해 다운 스윙으로 치는 ‘골프 스윙 타법’을 터득했다. "
+                ]
+            }
+        }
+    ]
+}

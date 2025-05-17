@@ -1,0 +1,1654 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-004777-AP600047-WZ000001-01_05_10-S4.json",
+        "sessionLevel": "4"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0012",
+            "gender": "여성",
+            "age": "20대",
+            "occupation": "사무직",
+            "bPlace": "대전/세종/충청/강원",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "응용통계학"
+        },
+        "speaker2": {
+            "participantID": "F0012",
+            "gender": "여성",
+            "age": "20대",
+            "occupation": "사무직",
+            "bPlace": "부산/대구/울산/경상",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "응용통계학"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "004777"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600047",
+            "personaFeatures": [
+                "나는 영업/판매/운전에 대한 공부를 하고 있다.",
+                "내가 가장 설레던 때는 비행기를 탈 때이다",
+                "나는 간호사이다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000001",
+            "personaFeatures": [
+                "나는 영업/판매/운전에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "01_05_10",
+        "largeCategory": "직업",
+        "mediumCategory": "영업/판매/운전",
+        "smallCategory": "기타"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004777-1",
+            "sessionKeywords": [
+                "영업/판매/운전 내에서의 *언양휴게소*,*언양휴게소*"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "안녕! 내가 요즘 영업에 대한 공부를 하고 있던 중에 궁금한 점이 생겨서 찾아왔어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695798002000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "잘 찾아오셨네요. 저는 영업에 대해 잘 알고 있습니다. 제가 도움을 줄 수 있을 거예요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695798022000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "내가 궁금한 점을 물어봐도 되니?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695798032000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "네! 당연하죠. 편하게 물어봐주세요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695798042000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "언양휴게소에 대해서 알 수 있을까?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695798051000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "언양휴게소(彦陽休憩所, Eonyang Service area)은 대한민국의 울산광역시 울주군 언양읍 반곡리에 위치한 경부고속도로의 고속도로 휴게소예요.",
+                    "context": {
+                        "query": "언양휴게소",
+                        "contents": [
+                            {
+                                "documentID": "1021213",
+                                "documentTitle": "언양휴게소",
+                                "content": [
+                                    "언양휴게소(彦陽休憩所, Eonyang Service area)은 대한민국의 울산광역시 울주군 언양읍 반곡리에 위치한 경부고속도로의 고속도로 휴게소이다.",
+                                    "부산기점에서 44 km 떨어진 곳에 위치하며, 서울방향에만 휴게소가 존재한다.",
+                                    "주소는 울산광역시 울주군 언양읍 경부고속도로 44이다.",
+                                    "휴게소 안에 반구대암각화박물관이 전시 비치되어 있다.",
+                                    "원래는 양방향 모두 휴게소가 존재했으나, 부산방향 휴게소는 간이 휴게소로 운영되어 2011년 8월 25일 시설 노후로 인해 폐쇄되었고, 이 휴게소를 대체하기 위해 옛 통도사 나들목 부지에 통도사휴게소가 신설되었다.",
+                                    "2019년 현재 폐쇄된 부산방향 언양휴게소 부지는 태양열 발전소와 언양 졸음쉼터로 사용 중이다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "언양휴게소(彦陽休憩所, Eonyang Service area)은 대한민국의 울산광역시 울주군 언양읍 반곡리에 위치한 경부고속도로의 고속도로 휴게소이다.",
+                    "timestamp": 1695798069000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "오! 울산에 위치한 휴게소군요! 나중에 울산 쪽에 내려갈 때 이용하면 되겠어요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695798197000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "도움이 되는 정보였다니 정말 뿌듯하네요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695798211000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "내가 간호사여서 출장 갈 일이 많거든, 정말 유용한 정보였어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 간호사여서 출장 갈 일이 많다.",
+                    "timestamp": 1695798246000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "오 정말 멋있네요! 간호사 정말 멋있는 직업이죠.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799108000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "맞아. 근데 생각보다 내가 출장을 정말 많이 다녀.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799123000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "아 정말 피곤하시겠어요. 출장은 주로 어떻게 다니세요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799139000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "비행기로도 많이 다녀. 내가 출장하면서 가장 설레던 때는 비행기를 탈때야.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 출장하면서 가장 설레던 때는 비행기를 탈 때이다.",
+                    "timestamp": 1695799169000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "오! 정말 멋있네요! 비행기로 출장을 다닌다니 정말 멋있어요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799233000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 간호사여서 출장 갈 일이 많다.",
+                    "나는 출장하면서 가장 설레던 때는 비행기를 탈 때이다."
+                ],
+                "wizard": [
+                    "언양휴게소(彦陽休憩所, Eonyang Service area)은 대한민국의 울산광역시 울주군 언양읍 반곡리에 위치한 경부고속도로의 고속도로 휴게소이다."
+                ],
+                "dialogSummary": "질문자는 언양휴게소에 대해 질문했고, 챗봇은 언양휴게소(彦陽休憩所, Eonyang Service area)은 대한민국의 울산광역시 울주군 언양읍 반곡리에 위치한 경부고속도로의 고속도로 휴게소라고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "004777-1",
+            "prevTimeInfo": {
+                "timeNum": "6",
+                "timeUnit": "주"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004777-2",
+            "sessionKeywords": [
+                "영업/판매/운전 내에서의 *로티보이*,*로티보이*"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "안녕! 오랜만에 궁금한 곳이 생겨서 찾아왔어!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799614000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "반가워요! 6주일 만에 찾아주셨네요! 어떤 것이 궁금하신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799628000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "책을 읽다가 로티보이에 대해서 알고 싶어서 왔어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799646000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "로티보이(Rotiboy)는 말레이시아의 제빵점이에요.",
+                    "context": {
+                        "query": "로티보이",
+                        "contents": [
+                            {
+                                "documentID": "359493",
+                                "documentTitle": "로티보이",
+                                "content": [
+                                    "로티보이(Rotiboy)는 말레이시아의 제빵점이다.",
+                                    "번 이외에 커피, 차, 아이스크림 등도 판매한다.",
+                                    "개요 및 역사.",
+                                    "1998년 히로 탄(Hiro Tan)에 의해 전 세계에 번(bun)을 소개한 오리지널 브랜드로 싱가포르에 인터내셔널 본사가 있다.",
+                                    "말레이시아에서 사업을 시작하여, 싱가포르, 태국, 중화민국, 인도네시아에 이어 2007년 3월는 대한민국에도 진출하였다.",
+                                    "대한민국에서는 이화여자대학교 앞에서 첫 점포를 연 것을 시작으로 전국에 체인을 두고 있었으며, 큰 인기를 얻었다.",
+                                    "그러나 2012년 운영사의 부도로 인하여 사업자가 본사의 지사로 변경되었고, 매장 수도 많이 축소되었다.",
+                                    "로티보이의 빵은 빵 반죽 속에 버터필링이 되어있는 생지를 발효시킨 후, 그 위에 커피크림을 토핑해 오븐에 넣어 약 15분간 구워낸 빵으로 일반적으로 번(Bun)이라고 불린다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "로티보이(Rotiboy)는 말레이시아의 제빵점이다.",
+                    "timestamp": 1695799661000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "아 말레이시아 제빵점이구나! 다른 나라의 제빵점이구나.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799717000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "맞아요. 다른 나라의 제빵점이에요. 빵 좋아하시나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799771000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "응응 나는 샌드위치류를 좋아해. 아침 대용으로 먹기도 좋고, 소화 안될 때 저녁으로 먹기도 좋아서 즐겨 먹어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799791000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "맞아요. 샌드위치가 식사 대용이자 간식으로 먹기 좋은 음식이죠.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799805000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "응 나도 그렇게 생각해. 이야기하니깐 샌드위치 먹고싶다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799819000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "오늘 저녁에는 뭐 드세요? 샌드위치 괜찮죠.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799832000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "아 어제 사실 저녁에 샌드위치 이미 먹어서 오늘은 다른 거 먹을라고. 저녁 메뉴 샌드위치 빼고 추천해줘.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799851000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "그러면 고기 어떠세요? 저녁은 고기가 맛있죠.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799862000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "좋은 생각이야. 고기 괜찮은 것 같은데. 가족들한테 말해봐야겠어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799877000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "좋아요. 행복한 저녁 식사되길 바랄게요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799895000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [],
+                "wizard": [
+                    "로티보이(Rotiboy)는 말레이시아의 제빵점이다."
+                ],
+                "dialogSummary": "질문자는 로티보이에 대해서 질문했고 챗봇은 로티보이(Rotiboy)는 말레이시아의 제빵점이라고 말했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 간호사여서 출장 갈 일이 많다.",
+                    "나는 출장하면서 가장 설레던 때는 비행기를 탈 때이다."
+                ],
+                "wizard": [
+                    "언양휴게소(彦陽休憩所, Eonyang Service area)은 대한민국의 울산광역시 울주군 언양읍 반곡리에 위치한 경부고속도로의 고속도로 휴게소이다."
+                ]
+            }
+        },
+        {
+            "prevSessionID": "004777-2",
+            "prevTimeInfo": {
+                "timeNum": "6",
+                "timeUnit": "주"
+            },
+            "nthSession": "3",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004777-3",
+            "sessionKeywords": [
+                "영업/판매/운전 내에서의 *김천휴게소*,*김천휴게소*"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "안녕! 궁금한 휴게소가 또 생겨서 찾아왔어!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799920000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "6주일만에 저를 다시 찾아주셨네요! 다시 찾아와주셔서 기뻐요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799936000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "이번에는 김천휴게소에 대해 알려줘,",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695799950000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "김천휴게소(金泉休憩所, Gimcheon Service Area)은 경상북도 김천시 농소면 신촌리에 위치한 경부고속도로의 고속도로 휴게소예요.",
+                    "context": {
+                        "query": "김천휴게소",
+                        "contents": [
+                            {
+                                "documentID": "1022602",
+                                "documentTitle": "김천휴게소",
+                                "content": [
+                                    "김천휴게소(金泉休憩所, Gimcheon Service Area)은 경상북도 김천시 농소면 신촌리에 위치한 경부고속도로의 고속도로 휴게소이다.",
+                                    "부산기점에서 194km 떨어진 곳에 위치하며, 양방향 모두 휴게소가 존재한다.",
+                                    "2010년에 추풍령휴게소와 칠곡휴게소 간의 거리가 멀어서 생기는 불편함을 해소하기 위해 완공되었다.",
+                                    "서울 방향 휴게소의 주소는 경상북도 김천시 농소면 경부고속도로 194, 부산 방향의 주소는 경상북도 김천시 농소면 경부고속도로 193이다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "김천휴게소(金泉休憩所, Gimcheon Service Area)은 경상북도 김천시 농소면 신촌리에 위치한 경부고속도로의 고속도로 휴게소이다.",
+                    "timestamp": 1695799964000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "오 경상북도 김천에 있는 휴게소구나. 그쪽으로 별로 갈 일이 없는데. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800001000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "아하. 그러시군요. 다른 휴게소를 추천해드릴까요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800014000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "아니야. 사실 운전도 안해서 휴게소에 갈 일이 별로 없어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 사실 운전을 안한다",
+                    "timestamp": 1695800029000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "그러면 평소에는 주로 어떤 탈 것을 이용하시나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800045000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "평소에는 그냥 걸어다녀! 아니면 대중교통을 주로 이용하지.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 평소에 걸어다닌다. 나는 대중교통을 주로 이용한다",
+                    "timestamp": 1695800056000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "대중교통 관련된 업데이트된 기사 알려드릴까요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800069000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "응 필요해. 지하철 관련된 기사도 있을까?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800082000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "네. 있습니다. 신분당선이 23년 10월 7일부터 금액 인상 예정이 있다고 합니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800104000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "아하.. 안그래도 비싼데 버스를 많이 타고 다녀야겠다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800137000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "저도 그렇게 생각해요. 요즘 요금이 다 오르고 있네요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800153000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 사실 운전을 안한다",
+                    "나는 평소에 걸어다닌다. 나는 대중교통을 주로 이용한다"
+                ],
+                "wizard": [
+                    "김천휴게소(金泉休憩所, Gimcheon Service Area)은 경상북도 김천시 농소면 신촌리에 위치한 경부고속도로의 고속도로 휴게소이다."
+                ],
+                "dialogSummary": "질문자는 김천휴게소에 대해 질문하였고 챗봇은 김천휴게소(金泉休憩所, Gimcheon Service Area)은 경상북도 김천시 농소면 신촌리에 위치한 경부고속도로의 고속도로 휴게소라고 하였다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 간호사여서 출장 갈 일이 많다.",
+                    "나는 출장하면서 가장 설레던 때는 비행기를 탈 때이다."
+                ],
+                "wizard": [
+                    "언양휴게소(彦陽休憩所, Eonyang Service area)은 대한민국의 울산광역시 울주군 언양읍 반곡리에 위치한 경부고속도로의 고속도로 휴게소이다.",
+                    "로티보이(Rotiboy)는 말레이시아의 제빵점이다."
+                ]
+            }
+        },
+        {
+            "prevSessionID": "004777-3",
+            "prevTimeInfo": {
+                "timeNum": "4",
+                "timeUnit": "주"
+            },
+            "nthSession": "4",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004777-4",
+            "sessionKeywords": [
+                "영업/판매/운전 내에서의 *호프브로이하우스*,*호프브로이하우스*"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "너무 궁금한 게 생겼어!! 얼른 답장이 필요해!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800199000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "네! 무슨 일이신가요? 제가 도와드릴게요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800212000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "호프브로이하우스에 대해 알고싶어!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800233000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "호프브로이하우스는 세계에서 가장 유명한 양조장인 동시에 가장 큰 술집 중의 하나로 독일 뮌헨에 위치해 있어요.",
+                    "context": {
+                        "query": "호프브로이하우스",
+                        "contents": [
+                            {
+                                "documentID": "941336",
+                                "documentTitle": "호프브로이하우스",
+                                "content": [
+                                    "호프브로이하우스()는 세계에서 가장 유명한 양조장인 동시에 가장 큰 술집 중의 하나로 독일 뮌헨에 위치해 있다.",
+                                    "호프브로이하우스 또는 호프브레우하우스로 불린다.",
+                                    "역사.",
+                                    "초기.",
+                                    "1589년 빌헬름 5세 공작이 세웠던 이 맥주 양조장은 처음엔 이 곳에서 생산되는 술의 색으로 인해서 브라운 호프브로이하우스라 불렸다.",
+                                    "그의 뒤를 이어 막시밀리안 1세는 호프브로이하우스를 한 단계 발전시켜 맥주 맛을 개선하고 상업적인 면에서도 성공을 거뒀다.",
+                                    "막시밀리안 1세는 브라운 호프브로이하우스 외에도 플라츨에 맥주 양조장을 만들었는데, 이 곳은 여기서 독점적으로 생산되는 밀 맥주 색깔 덕분에 화이트 호프브로이하우스로 불렸다.",
+                                    "1808년에 이르러 브라운 호프브로이가 플라츨로 이동하여 화이트 호프브로이와 합쳐지게 된다 중기.",
+                                    "1828년, 루트비히 1세는 일반인도 호프브로이하우스를 이용할 수 있도록 하였고 가격도 파격적으로 낮추어 맥주판매량이 어마어마하게 급증하게 되었다.",
+                                    "때때로 수요를 채우지 못해 문을 닫는 사태까지 벌어지곤 했다.",
+                                    "1852년 막시밀리안 2세는 호프브로이하우스를 민영화하기로 결정하는 데 이유는 왕실 소속인 이 술집의 지나친 선전이 개인 선술집과 양조장을 무너뜨린다는 불만들때문이었다.",
+                                    "후기~현재.",
+                                    "1897년 막스 리트만이 현대적인 건물로 호프브로이하우스를 다시 지었다.",
+                                    "이 때의 모양이 현재까지도 유지되고 있다.",
+                                    "2차 세계 대전 당시 호프브로이하우스는 폭격으로 인해 일부를 제외하고 모두 파괴되었었다.",
+                                    "그러나 대규모 공습에도 불구하고, 호프브로이하우스 지하에는 많은 양의 맥주들이 안전하게 보관되어 있었다.",
+                                    "1958년 뮌헨 800주년 기념을 맞아 호프브로이는 새로운 홀의 모습으로 다시 만들어졌다.",
+                                    "1997년에는 오늘 날 우리가 알고 있는 현대적 건물과 레스토랑으로써 100주년 행사를 맞이했다.",
+                                    "뮌헨이 세계적인 도시가 되면서 호프브로이하우스 또한 꼭 한 번 가야할 관광명소로 주목받고 있다.",
+                                    "옥토버페스트에서 호프브로이하우스.",
+                                    "이곳에는 뮌헨의 가장 유명한 연간행사인 옥토버페스트 (Oktoberfest) 때에 두 번째로 큰 텐트를 운영하기도 한다.",
+                                    "2주간, 옥토버페스트는 100만여명의 방문객을 맥주 텐트 (Bierzelte) 와 각종 엔터테인먼트로 끌어들이고 있다.",
+                                    "1810년 10월 12일에 루트비히 황태자와 작센-힐트부어크하우젠의 테레제 공주와의 결혼을 기념하여 첫 번째 옥토버페스트가 열렸다."
+                                ]
+                            },
+                            {
+                                "documentID": "3755",
+                                "documentTitle": "맥주",
+                                "content": [
+                                    "맥주(麥酒, , )는 보리를 가공한 맥아(麥芽)를 발효한 술로서 알코올은 맥주의 종류에 따라, 2 ~ 8% 정도의 다양한 도수를 가진 술이다.",
+                                    "맥주의 어원은 '마신다'라는 의미의 라틴어 비베레(bibere)에서 유래하였다.",
+                                    "맥주는 고대 문명에서 농업의 번창함을 표현한 인류학적 증거라는 견해가 있다.",
+                                    "맥주는 기원전 3000년부터 양조되어, 세계에서 가장 오래된 알코올 음료로 알려져 있다.",
+                                    "수메르, 아시리아, 바빌로니아, 이집트 등지에서 보리와 밀을 경작하면서 맥주의 양조가 발달되었다.",
+                                    "함무라비 법전에서도 맥주에 관한 법률이 나와 있다.",
+                                    "역사.",
+                                    "총괄.",
+                                    "맥주는 인류가 유목 생활에서 정착 생활로 전환해 농경 생활을 하면서부터 만들어진 음료이다.",
+                                    "기원전 4000년경 메소포타미아의 수메르인들에 의해 탄생했다는 것이 현재 정설로 받아들여지고 있다.",
+                                    "수메르인들은 곡물로 만든 빵을 분쇄한 다음 맥아를 넣고 물을 부은 뒤 발효시키는 방법으로 맥주를 제조했다고 한다.",
+                                    "또한 기원전 3000년경부터는 이집트 지역에서도 맥주를 생산하기 시작했다.",
+                                    "이후 맥주는 그리스인과 로마인들에 의해 유럽으로 건너갔고, 중세 시대에는 수도원에서 맥주 양조를 담당했다.",
+                                    "수도사들이 금식 기간 동안 기분 좋은 맛을 내는 음료를 마시기 원했기 때문이었다.",
+                                    "8세기경 영국의 에일(ale)과 포터(porter)가 만들어졌고, 10세기경부터는 맥주에 쌉쌀한 맛을 내는 홉을 첨가했다.",
+                                    "맥주는 19세기 산업혁명 시기에 비약적인 발전을 했다.",
+                                    "영국의 제임스 와트가 만든 증기기관은 물의 이송과 맥아의 분쇄, 맥즙의 교반 등에 동력을 사용할 수 있게 하며 맥주의 대량 생산을 가능하게 했다.",
+                                    "또한 독일의 카를 폰 린데(Carl von Linde)는 냉동기를 발명해 겨울에만 만들 수 있었던 하면발효 맥주를 계절에 관계없이 양조할 수 있도록 했다.",
+                                    "프랑스의 루이 파스퇴르는 술이 효모의 작용에 의해 생성된다는 사실과 열처리 살균법을 발명했고, 덴마크의 에밀 한센(Emil Hansen)은 파스퇴르의 이론을 응용해 효모의 순수배양법을 개발하면서 맥주의 품질을 높였다.",
+                                    "우리나라에 처음 맥주가 들어온 것은 1883년이며 맥주를 우아(벗우, 아이아)로 표기하였는데 비어(beer)의 영어 발음을 한자로 표기한 것으로 추측된다.",
+                                    "한국 맥주 제조회사의 역사.",
+                                    "한국에서 맥주가 처음 생산된 것은 1933년 일본의 대일본맥주(주)가 조선맥주(하이트맥주 전신), 기린맥주(주)가 소화기린맥주(오비맥주 전신)를 설립하면서부터였다.",
+                                    "1945년 광복과 함께 두 맥주회사는 미군정에 의해 관리되었고, 1951년에 민간에 불하되었다.",
+                                    "1992년에는 진로쿠어스맥주(주)가 설립되면서 하이트맥주, OB맥주, 카스맥주 등 3개 회사에서 맥주를 양조했다.",
+                                    "이후 카스맥주가 OB맥주에 인수되었고, 현재는 하이트진로(주)와 OB맥주(주)에서 맥주를 생산하고 있다.",
+                                    "일본 삿포르 맥주회사 -&gt; 조선맥주(주) (1933) -&gt; 해방 후 독립, 크라운 맥주로 알려짐",
+                                    "-&gt; 한독맥주(주) 매수(1977) -&gt; 하이트맥주 개발, 시판 (1993) -&gt; 하이트 홀딩스(주)로 상호변경 (1998) 일본 기린 맥주회사 -&gt; 동양맥주(주) -&gt; 해방 후 독립 -&gt; OB맥주 상호변경 -&gt; 카스맥주(주) 흡수합병(1999) 양조.",
+                                    "보리와 밀을 가공한 엿기름을 더운 물에 담가 엿기름의 녹말을 당분으로 변화시킨다.",
+                                    "곡물 찌꺼기를 걸러낸 뒤 남은 맥아즙에 홉을 넣어 끓인다.",
+                                    "맥아즙이 서늘해지면 효모를 추가하여 발효시킨다.",
+                                    "효모는 당분을 에틸 알코올, 탄산 가스와 맥주의 맛에 영향을 주는 다른 성분으로 분해하는데, 이 과정을 발효라 한다.",
+                                    "병이나 캔 등에 담기 전에 효모를 없애기도 하며, 맥주를 몇 주나 몇 달간 놔둔다.",
+                                    "일정기간 저장·숙성한 후 여과하여 바로 제품화하면 생맥주가 되고, 병이나 캔에 넣어 저온살균 처리하면 오래 보관할 수 있는 맥주가 되는데, 그 공정은 다음과 같다.",
+                                    "원료.",
+                                    "맥주는 \"양조용수·보리·홉\" 등이 주원료로 된다.",
+                                    "나라와 지역에 따라 쌀·옥수수·녹말·당류 등을 녹말질 보충원료로 사용하며, 그 비율은 그 나라의 사정이나 기호에 따라 다르다(독일에서는 1815년 이후 수출맥주 이외의 하면발효맥주에는 부원료 사용이 금지되어 있다.).",
+                                    "종류.",
+                                    "맥주는 분류 기준에 따라 다양한 종류가 있으나 일반적으로는 상면발효 맥주와(에일, Ale) 하면발효 맥주로(라거, Lager) 나눌 수 있다.",
+                                    "상면 발효 맥주는 인류 문명 발생 이전부터 만들어진 맥주로서 발효 과정에서 사카로마이세스 세레비지에(SaccharomycesCerevisiae)라는 효모가 맥주 위로 거품처럼 뜬다.",
+                                    "이 맥주가 선사시대부터 만들어질 수 있었던 이유는 인위적인 발효온도를 설정할 수 있는 기술 없이도 가능했기 때문이며, 유럽 여러 나라에서는 지역별로 다양한 형태로 발전해 왔다.",
+                                    "독일의 바이스비어나 쾰쉬, 영국의 에일이나 스타우트, 포터 같은 맥주가 상면발효 맥주에 속한다.",
+                                    "상면발효맥주는 맥아농도가 높고, 10도에서 25도 사이의 상온에서 발효를 하기 때문에 색이 짙고 알코올 도수도 높은 편이다.",
+                                    "하면 발효 맥주는 19세기 중반에 처음 만들어진 맥주로서 상면발효 맥주보다 낮은 온도인 섭씨 12도 전후에서 발효하며, 발효 과정에서 사카로마이세스 카를스베르겐시스(Saccharomyces Carlsbergensis)라는 효모가 바닥으로 가라앉는다.",
+                                    "독일의 양조사인 조셉 그롤이 체코의 필센 지방에 있는 양조장에서 처음으로 양조에 성공했는데, 이 양조장의 지하 저장고가 서늘했기 때문에 양조가 가능했다.",
+                                    "하면 발효 맥주는 저온에서 발효를 하기 때문에 깨끗하고 부드러운 맛과 향이 특징이다.",
+                                    "전세계 맥주의 70%를 차지하고 있고, 라거(lager)가 대표적이다.",
+                                    "양조법에 따라서는 드라이(dry) 맥주, 디허스크(Dehusk) 맥주, 아이스(ice) 맥주로 구분되고, 살균여부에 따라서는 생맥주와 보통맥주로 나뉜다.",
+                                    "상면발효 맥주는 효모와 \"부유 단백질\" 등이 맥주에 떠 있기 때문에 일반적으로 탁하고 걸쭉한 맛을 내는 반면에 하면발효 맥주는 바닥에 가라앉은 효모와 부유 단백질을 제거하기 때문에 맑은 황금색을 띠는 것이 일반적이다.",
+                                    "또한 알코올 함량에 따라서 무알코올성 맥아 음료, 비알코올성 맥아 음료, 라이트 맥주 등으로 구분하기도 한다.",
+                                    "생산과 목적.",
+                                    "독일 바이에른에 베네딕토 Weihenstephan 맥주는 그 해로부터 문서가 홉 정원에 11조를 지불했음을 언급함으로써 768년에 그 근원을 찾을 수 있었다.",
+                                    "양조장은 1040년에 프 라이징시에 의해 허가를 받았고 따라서 세계에서 가장 오래된 양조장이 된다.",
+                                    "불연속적인 생산으로 가장 오래된 양조장은 993년에 설립된 체코의 Břevnov 수도원이다.",
+                                    "양조 산업은 여러 가지 지배적인 다국적 기업 및 지역 양조장에서 선술집에 이르는 수 천명의 작은 생산자들로 구성된글로벌 비지니스이다.",
+                                    "2006년 판매 기준 $294.5 billion(£ 147.7 억 달러)으로 세계 총 판매 수익을 생산하며 1천 3백 30억 리터 이상이(3백 50억 갤런)매년 팔리고 있다.",
+                                    "양조장 또는 공예 양조장은 제한된 양의 맥주를 생산하는 현대 양조장이다.",
+                                    "양조장이 생산할 수 있는 맥주 최대량은 지역 및 기관에 따라 다르지만 보통 한 해당 약 15,000 배럴(1.8 메가 리터, 396000 제국 갤런 또는 475000 미국 갤런)이다.",
+                                    "brewpub은 술집이나 다른 음식점들을 통합한 양조장 유형이다.",
+                                    "세계에서 가장 높은 밀도의 양조장은 대부분 프랑켄의 독일 지역에 있다.",
+                                    "특히 약 200양조장을 가진 오버프랑켄 현 지역에 있다.",
+                                    "집에서 양조를 하는 것은 많은 나라에서 규제와 금지 적용을 받고 있다.",
+                                    "Homebrewing에 대한 규제는 1963년에 영국에서 해제되었다.",
+                                    "또한 호주는 1972년에, 미국은 1978년에 법을 해제시켰다.",
+                                    "그러나 몇 개의 주에서는 생산을 제한하는 그들만의 법을 통과시키는 것이 허락되었다.",
+                                    "세계의 맥주.",
+                                    "미국, 독일, 덴마크, 아일랜드, 영국, 벨기에, 네덜란드 등지에서 생산되는 맥주는 세계적으로 유명하다.",
+                                    "특히 맥주의 흥행국 독일에서는 전국에 걸쳐 1,000 여종의 맥주가 있다고 한다.",
+                                    "영국은 맥주를 가장 많이 소비하는 국가이다.",
+                                    "뮌헨의 아우구스티너, 파울라너, 호프브로이하우스, 뢰벤브로이 등과 함부르크의 홀스텐, 아스트라, 하노버의 헤렌호이저, 브레멘의 벡스 맥주 등, 각 지역마다 독특한 양조 기술을 가지고 있는 편이다.",
+                                    "네덜란드에서는 UEFA 챔피언스리그의 공식 스폰서인 하이네켄 맥주가 유명하고, 덴마크에서는 한때 리버풀의 스폰서이자 한국에서도 잘 알려진 칼스버그 맥주가 유명하다.",
+                                    "아일랜드는 유명한 기록 책인 기네스 북을 발간하는 흑맥주 회사 기네스 맥주가 유명하고, 미국의 유명 맥주는 버드와이저, 밀러가 전 세계적으로 유명하다.",
+                                    "중국은 칭따오 맥주가 유명하다.",
+                                    "맥주 관련 축제.",
+                                    "국내 맥주 축제.",
+                                    "음악페스티벌과 맥주축제가 함께 진행된다.",
+                                    "국내의 맥주들은 물론 러시아, 중국, 일본 등 맥주를 만날 수 있는 ‘동북아 맥주 대전’과 세계의 다양한 맥주를 맛 볼 수 있는 행사가 열린다.",
+                                    "역대 최대 85개 업체가 참가한 대구 치킨 맥주 페스티벌에선 치킨을 25만 5000여 마리, 맥주는 25만 리터가 준비될 만큼 굉장히 큰 축제이다.",
+                                    "두류공원에서 개최됐다.",
+                                    "치킨을 주제로 한 패션쇼와 전설의 복면가왕, 닭싸움 대회, 수제 맥주와 칵테일 경연대회, 각종 버스킹 등으로 많은 이벤트가 있다.",
+                                    "무제한 맥주와 함께 부산 밤바다를 즐길 수 있는 축제다.",
+                                    "맥주를 마시면서 즐길 수 있는 다양한 이벤트 들이 있다.",
+                                    "인디 밴드의 음악과 댄스 팀들의 퍼포먼스도 볼 수 있다.",
+                                    "야구 생중계를 보며 맥주를 마실 수 있다.",
+                                    "음악페스티벌과 수제맥주축제가 한데 어우러진 축제다.",
+                                    "외국 맥주 축제.",
+                                    "일본 홋카이도에서 가장 큰 도시인 삿포르에서 매년 여름마다 ‘삿포르 맥주 축제’가 열린다.",
+                                    "삿포르 맥주를 비롯하여 아사히, 산토리, 기린 등 일본 유수의 맥주 브랜드들이 참가하기 때문에 각 브랜드마다 홋카이도 한정 맥주를 판매하는 등 평소에는 접하기 힘든 독특한 맥주와 먹거리를 즐길 수 있다.",
+                                    "칭다오 세계 맥주 축제는 아시아 최대 맥주 축제이자 세계 4대 맥주 축제로 인정받고 있다.",
+                                    "축제가 진행되는 동안 칭다오시에는 음주 대회를 비롯해 다양한 음식과 공연이 펼쳐진다.",
+                                    "한국에서 열리는 대구 치맥 페스티벌과 칭다오 국제 맥주 축제가 양도시를 대표하는 치킨/맥주 관련 축제라는 것을 공동으로 인식하고 축제 상호 간 우호 협력을 강화하여 이해 증진을 목적으로 하는 MOU협약을 최근에 맺었다고 한다.",
+                                    "독일의 맥주 축제인 옥토버페스트는 독일 뮌헨의 민속 축제이자, 세계에서 열리는 맥주 축제 중 가장 규모가 큰 축제이다.",
+                                    "민속 의상을 차려입은 시민과 방문객 8,000여 명이 어우러져 뮌헨 시내 7km를 가로지르는 시가행진이 큰 볼거리이다.",
+                                    "축제 기간에는 회전목마, 대관람차, 롤러코스터 같은 놀이기구 80여 종을 포함하여 서커스, 팬터마임, 영화 상영회, 음악회 등 남녀노소 함께 할 수 있는 볼거리가 운영된다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "호프브로이하우스는 세계에서 가장 유명한 양조장인 동시에 가장 큰 술집 중의 하나로 독일 뮌헨에 위치해 있다.",
+                    "timestamp": 1695800255000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "오! 내가 4주만에 왔는데도 너는 여전히 답변이 빠르구나. 좋은 답변 고마워.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800298000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "도움이 되셨다니 다행이에요. 또 궁금한 점은 없으신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800310000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "응응 이따가 저녁에 뭐할지 같이 고민해줘.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800357000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "좋아요! 오늘 저녁에 산책이나 자전거타기 어떠세요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800375000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "오! 산책 괜찮다! 요즘 날씨가 정말 좋더라고. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800390000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "맞아요. 산책하면서 힐링하시는 거 추천드릴게요. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800405000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "좋은 생각이야. 아이디어 줘서 고마워.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800414000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "별말씀을요. 언제나 궁금한 점이 생기시면 물어봐주세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800426000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600047",
+                    "participantID": "E0012",
+                    "utterance": "그래! 또 물어보러 찾아올게 안녕!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800440000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0012",
+                    "utterance": "네! 언제든지 도움을 드릴 준비가 되어있습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800455000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [],
+                "wizard": [
+                    "호프브로이하우스는 세계에서 가장 유명한 양조장인 동시에 가장 큰 술집 중의 하나로 독일 뮌헨에 위치해 있다."
+                ],
+                "dialogSummary": "질문자는 호프브로이하우스에 대해 질문했고, 챗봇은 호프브로이하우스는 세계에서 가장 유명한 양조장인 동시에 가장 큰 술집 중의 하나로 독일 뮌헨에 위치해 있다고 답변하였다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 간호사여서 출장 갈 일이 많다.",
+                    "나는 출장하면서 가장 설레던 때는 비행기를 탈 때이다.",
+                    "나는 사실 운전을 안한다",
+                    "나는 평소에 걸어다닌다. 나는 대중교통을 주로 이용한다"
+                ],
+                "wizard": [
+                    "언양휴게소(彦陽休憩所, Eonyang Service area)은 대한민국의 울산광역시 울주군 언양읍 반곡리에 위치한 경부고속도로의 고속도로 휴게소이다.",
+                    "로티보이(Rotiboy)는 말레이시아의 제빵점이다.",
+                    "김천휴게소(金泉休憩所, Gimcheon Service Area)은 경상북도 김천시 농소면 신촌리에 위치한 경부고속도로의 고속도로 휴게소이다."
+                ]
+            }
+        }
+    ]
+}

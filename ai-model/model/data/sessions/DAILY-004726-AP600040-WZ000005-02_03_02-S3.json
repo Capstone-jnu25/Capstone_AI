@@ -1,0 +1,1265 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-004726-AP600040-WZ000005-02_03_02-S3.json",
+        "sessionLevel": "3"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0011",
+            "gender": "여성",
+            "age": "30대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": null
+        },
+        "speaker2": {
+            "participantID": "F0011",
+            "gender": "여성",
+            "age": "30대",
+            "occupation": "사무직",
+            "bPlace": "대전/세종/충청/강원",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대학원졸",
+            "major": "수학과"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "004726"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600040",
+            "personaFeatures": [
+                "나는 관광/감상의 지명에 대한 서적을 읽고 있다.",
+                "나는 클래식 음악을 자주 듣는다",
+                "나는 실내에서 클라이밍하는 것을 좋아한다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000005",
+            "personaFeatures": [
+                "나는 지명에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_02",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "장소"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004726-1",
+            "sessionKeywords": [
+                "*영양읍*,*영양읍*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "안녕 내가 도서관에서 관광지명에 대한 책을 읽고있거든.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 관광지명에 대한 책을 읽고 있다.",
+                    "timestamp": 1695794012000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "안녕하세요, 관광지명에 대한 책을 읽고 계시는군요. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695794034000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "응 그 중에서 영양읍에 대해서 더 알고 싶어서 말이야. 영양군에 대해서 좀 말해줄래?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695794057000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "영양읍은 영양군의 군청 소재지이고, 북쪽에는 작약봉, 서쪽에는 행곡령이 동천과 반변천 사이를 남북으로 가로 막고 있으며, 동과 남은 500ｍ 내외의 산지로 되어 있어요.",
+                    "context": {
+                        "query": "영양읍",
+                        "contents": [
+                            {
+                                "documentID": "325275",
+                                "documentTitle": "영양읍",
+                                "content": [
+                                    "영양읍(英陽邑)은 영양군의 군청 소재지이다.",
+                                    "북쪽에는 작약봉, 서쪽에는 행곡령이 동천과 반변천 사이를 남북으로 가로 막고 있으며, 동과 남은 500ｍ 내외의 산지로 되어 있다.",
+                                    "동서 4km, 남북 2km 정도의 곡저평야에 위치하고 있으며, 남북으로 통한 도로가 하나 있을 뿐 그 밖의 교통은 불편한 편이다.",
+                                    "제재업이 많으며, 고추, 담배를 비롯하여 부근에서 나는 농림산물을 집산한다.",
+                                    "군내에는 일월산을 비롯하여 남이포, 송영당 봉감탑, 현동탑 등의 명승고적이 있다.",
+                                    "읍 소재지는 군청길 53이다."
+                                ]
+                            },
+                            {
+                                "documentID": "1481975",
+                                "documentTitle": "영양 삼지리 모전석탑",
+                                "content": [
+                                    "영양 삼지리 모전석탑(英陽 三池里 模塼石塔)는 경상북도 영양군 영양읍 삼지리에 있는 삼국시대의 모전석탑이다.",
+                                    "2013년 4월 8일 경상북도의 유형문화재 제471호로 지정되었다.",
+                                    "개요.",
+                                    "절벽을 이룬 산 중턱의 튀어나온 바윗돌 위에 서 있는 석탑으로, 벽돌 모양으로 다듬은 돌을 차곡차곡 쌓아 올린 모전 석탑이다.",
+                                    "탑은 큰 바위를 기단(基壇)삼아 그 위로 탑신(塔身)을 올려 놓은 모습이며, 원래 3층탑이었다고 하나 현재는 2층까지만 남아있다.",
+                                    "탑신의 1층 몸돌 앞면에는 불상을 모시는 방인 감실(龕室)이 설치되어 있는데, 이 안에서 신라 금동불상 4구가 나왔다고 하나 현재 전하고 있지 않다.",
+                                    "지붕돌은 아래·윗면이 모두 층단을 이루고 있다.",
+                                    "연대암 부근에 있었던 영혈사에 세워 두었던 탑으로 추정된다.",
+                                    "영혈사는 신라 삼국통일 이전에 창건된 사찰로 이 탑 또한 그 당시에 세운 것으로 보인다.",
+                                    "1998년 석탑 해체 보수시 석재 사리함과 사리 1과가 출토되었다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "영양읍은 영양군의 군청 소재지이고, 북쪽에는 작약봉, 서쪽에는 행곡령이 동천과 반변천 사이를 남북으로 가로 막고 있으며, 동과 남은 500ｍ 내외의 산지로 되어 있다.",
+                    "timestamp": 1695794122000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "영양읍은은 산지로 둘러싸여 있는 도시구나. 그 곳에 사시는 분들은 어떤 업종에 주로 종사하는지도 알고 있니?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695794569000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "영양읍에는 제재업이 많으며, 고추, 담배를 비롯하여 부근에서 나는 농림산물을 집산해요.",
+                    "context": {
+                        "query": "영양읍",
+                        "contents": [
+                            {
+                                "documentID": "325275",
+                                "documentTitle": "영양읍",
+                                "content": [
+                                    "영양읍(英陽邑)은 영양군의 군청 소재지이다.",
+                                    "북쪽에는 작약봉, 서쪽에는 행곡령이 동천과 반변천 사이를 남북으로 가로 막고 있으며, 동과 남은 500ｍ 내외의 산지로 되어 있다.",
+                                    "동서 4km, 남북 2km 정도의 곡저평야에 위치하고 있으며, 남북으로 통한 도로가 하나 있을 뿐 그 밖의 교통은 불편한 편이다.",
+                                    "제재업이 많으며, 고추, 담배를 비롯하여 부근에서 나는 농림산물을 집산한다.",
+                                    "군내에는 일월산을 비롯하여 남이포, 송영당 봉감탑, 현동탑 등의 명승고적이 있다.",
+                                    "읍 소재지는 군청길 53이다."
+                                ]
+                            },
+                            {
+                                "documentID": "1481975",
+                                "documentTitle": "영양 삼지리 모전석탑",
+                                "content": [
+                                    "영양 삼지리 모전석탑(英陽 三池里 模塼石塔)는 경상북도 영양군 영양읍 삼지리에 있는 삼국시대의 모전석탑이다.",
+                                    "2013년 4월 8일 경상북도의 유형문화재 제471호로 지정되었다.",
+                                    "개요.",
+                                    "절벽을 이룬 산 중턱의 튀어나온 바윗돌 위에 서 있는 석탑으로, 벽돌 모양으로 다듬은 돌을 차곡차곡 쌓아 올린 모전 석탑이다.",
+                                    "탑은 큰 바위를 기단(基壇)삼아 그 위로 탑신(塔身)을 올려 놓은 모습이며, 원래 3층탑이었다고 하나 현재는 2층까지만 남아있다.",
+                                    "탑신의 1층 몸돌 앞면에는 불상을 모시는 방인 감실(龕室)이 설치되어 있는데, 이 안에서 신라 금동불상 4구가 나왔다고 하나 현재 전하고 있지 않다.",
+                                    "지붕돌은 아래·윗면이 모두 층단을 이루고 있다.",
+                                    "연대암 부근에 있었던 영혈사에 세워 두었던 탑으로 추정된다.",
+                                    "영혈사는 신라 삼국통일 이전에 창건된 사찰로 이 탑 또한 그 당시에 세운 것으로 보인다.",
+                                    "1998년 석탑 해체 보수시 석재 사리함과 사리 1과가 출토되었다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "영양읍에는 제재업이 많으며, 고추, 담배를 비롯하여 부근에서 나는 농림산물을 집산한다.",
+                    "timestamp": 1695794597000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "영양고추가 유명하다는 말을 들어 본 것 같기도 하다. 알려줘서 고마워!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695794675000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "네, 그럼 영양읍에 여행가실건가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695794813000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "지금 당장은 아니고 나중에 기회되면 가보려고! 나 요즘 취미가 생겼어. 실내에서 클라이밍하는게 너무 좋아. 정말 신나",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 실내에서 클라이밍 하는 것을 좋아한다.",
+                    "timestamp": 1695794871000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "클라이밍 힘들다고 들었는데, 시작한지는 얼마나 되셨어요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695794932000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "나 이제 한 삼개월 정도 됐어. 친구가 하는 거 구경 갔다가 푹 빠져버렸어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695795029000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "클라이밍에 진심이시네요. 응원할게요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695795131000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "응! 아 맞다 영양읍  소재지 주소도 알려줄래? 나 미리 저장해 놓으려고",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695795218000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "읍 소재지는 군청길 53입니다.",
+                    "context": {
+                        "query": "영양읍",
+                        "contents": [
+                            {
+                                "documentID": "325275",
+                                "documentTitle": "영양읍",
+                                "content": [
+                                    "영양읍(英陽邑)은 영양군의 군청 소재지이다.",
+                                    "북쪽에는 작약봉, 서쪽에는 행곡령이 동천과 반변천 사이를 남북으로 가로 막고 있으며, 동과 남은 500ｍ 내외의 산지로 되어 있다.",
+                                    "동서 4km, 남북 2km 정도의 곡저평야에 위치하고 있으며, 남북으로 통한 도로가 하나 있을 뿐 그 밖의 교통은 불편한 편이다.",
+                                    "제재업이 많으며, 고추, 담배를 비롯하여 부근에서 나는 농림산물을 집산한다.",
+                                    "군내에는 일월산을 비롯하여 남이포, 송영당 봉감탑, 현동탑 등의 명승고적이 있다.",
+                                    "읍 소재지는 군청길 53이다."
+                                ]
+                            },
+                            {
+                                "documentID": "1481975",
+                                "documentTitle": "영양 삼지리 모전석탑",
+                                "content": [
+                                    "영양 삼지리 모전석탑(英陽 三池里 模塼石塔)는 경상북도 영양군 영양읍 삼지리에 있는 삼국시대의 모전석탑이다.",
+                                    "2013년 4월 8일 경상북도의 유형문화재 제471호로 지정되었다.",
+                                    "개요.",
+                                    "절벽을 이룬 산 중턱의 튀어나온 바윗돌 위에 서 있는 석탑으로, 벽돌 모양으로 다듬은 돌을 차곡차곡 쌓아 올린 모전 석탑이다.",
+                                    "탑은 큰 바위를 기단(基壇)삼아 그 위로 탑신(塔身)을 올려 놓은 모습이며, 원래 3층탑이었다고 하나 현재는 2층까지만 남아있다.",
+                                    "탑신의 1층 몸돌 앞면에는 불상을 모시는 방인 감실(龕室)이 설치되어 있는데, 이 안에서 신라 금동불상 4구가 나왔다고 하나 현재 전하고 있지 않다.",
+                                    "지붕돌은 아래·윗면이 모두 층단을 이루고 있다.",
+                                    "연대암 부근에 있었던 영혈사에 세워 두었던 탑으로 추정된다.",
+                                    "영혈사는 신라 삼국통일 이전에 창건된 사찰로 이 탑 또한 그 당시에 세운 것으로 보인다.",
+                                    "1998년 석탑 해체 보수시 석재 사리함과 사리 1과가 출토되었다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "읍 소재지는 군청길 53이다.",
+                    "timestamp": 1695795257000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 관광지명에 대한 책을 읽고 있다.",
+                    "나는 실내에서 클라이밍 하는 것을 좋아한다."
+                ],
+                "wizard": [
+                    "영양읍은 영양군의 군청 소재지이고, 북쪽에는 작약봉, 서쪽에는 행곡령이 동천과 반변천 사이를 남북으로 가로 막고 있으며, 동과 남은 500ｍ 내외의 산지로 되어 있다.",
+                    "영양읍에는 제재업이 많으며, 고추, 담배를 비롯하여 부근에서 나는 농림산물을 집산한다.",
+                    "읍 소재지는 군청길 53이다."
+                ],
+                "dialogSummary": "질문자는 영얍읍에 대하여 질문했고 챗봇은 영양읍은 영양군의 군청 소재지이고, 북쪽에는 작약봉, 서쪽에는 행곡령이 동천과 반변천 사이를 남북으로 가로 막고 있으며, 동과 남은 500ｍ 내외의 산지로 되어 있고, 제재업이 많으며, 고추, 담배를 비롯하여 부근에서 나는 농림산물을 집산한다고 대답하였고, 읍 소재지는 군청길 53이라고 답하였다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "004726-1",
+            "prevTimeInfo": {
+                "timeNum": "1",
+                "timeUnit": "주"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004726-2",
+            "sessionKeywords": [
+                "*칭저우시*,*칭저우시*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "안녕 잘 지냈니? 또 궁금하게 생겨서 말이야. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695795749000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "안녕하세요 이번엔 1주일만에 오셨네요! 어떤게 궁금하신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695795780000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "저번엔 영양읍에 대해서 물었었지? 이번엔 외국도시야, 칭저우시라는 도시에 대해서 우연히 알게되었거든 더 자세히 알고싶어서!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695795832000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "칭저우시는 중화인민공화국 산둥성 웨이팡 시의 현급 행정구역이에요. 칭저우는 역동적인 공업 도시이고 농산품 생산량 또한 크게 성장하고 있어요",
+                    "context": {
+                        "query": "칭저우시",
+                        "contents": [
+                            {
+                                "documentID": "349280",
+                                "documentTitle": "칭저우시",
+                                "content": [
+                                    "칭저우시()는 중화인민공화국 산둥성 웨이팡 시의 현급 행정구역이다.",
+                                    "넓이는 1569km2이고, 인구는 2007년 기준으로 900,000명이다.",
+                                    "칭저우는 역동적인 공업 도시이고 농산품 생산량 또한 크게 성장하고 있다.",
+                                    "지역 정부는 외국 자본을 유치하기 위한 개방 정책을 사용하고 있고 50개 이상의 나라, 지방과 강한 상업적 관계를 맺고 있다.",
+                                    "역사.",
+                                    "칭저우는 오래된 도시로 그 이름은 서경(書經)의 전국시대의 이야기로 구성된 우공(禹貢)편에 나타나며, 소설 삼국연의(三國演義)를 통해 한국어 발음 '청주(青州)'로 친숙한 지명이다.",
+                                    "그러나 도시의 역사는 수천 년 전에 동이족이 살던 지역의 일부였던 때까지 거슬러 올라간다.",
+                                    "행정 구역.",
+                                    "3개 가도, 9개 진을 관할한다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "칭저우시는 중화인민공화국 산둥성 웨이팡 시의 현급 행정구역이에요. 칭저우는 역동적인 공업 도시이고 농산품 생산량 또한 크게 성장하고 있다",
+                    "timestamp": 1695795852000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "공업도시인줄은 몰랐어. 알려줘서 고마워. 중국에 있으니까 도시 규모도 크려나?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695796138000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "넓이는 1569km2이고, 인구는 2007년 기준으로 900,000명이에요",
+                    "context": {
+                        "query": "칭저우시",
+                        "contents": [
+                            {
+                                "documentID": "349280",
+                                "documentTitle": "칭저우시",
+                                "content": [
+                                    "칭저우시()는 중화인민공화국 산둥성 웨이팡 시의 현급 행정구역이다.",
+                                    "넓이는 1569km2이고, 인구는 2007년 기준으로 900,000명이다.",
+                                    "칭저우는 역동적인 공업 도시이고 농산품 생산량 또한 크게 성장하고 있다.",
+                                    "지역 정부는 외국 자본을 유치하기 위한 개방 정책을 사용하고 있고 50개 이상의 나라, 지방과 강한 상업적 관계를 맺고 있다.",
+                                    "역사.",
+                                    "칭저우는 오래된 도시로 그 이름은 서경(書經)의 전국시대의 이야기로 구성된 우공(禹貢)편에 나타나며, 소설 삼국연의(三國演義)를 통해 한국어 발음 '청주(青州)'로 친숙한 지명이다.",
+                                    "그러나 도시의 역사는 수천 년 전에 동이족이 살던 지역의 일부였던 때까지 거슬러 올라간다.",
+                                    "행정 구역.",
+                                    "3개 가도, 9개 진을 관할한다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            true,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "칭저우시의 넓이는 1569km2이고, 인구는 2007년 기준으로 900,000명이다",
+                    "timestamp": 1695796154000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "우와 엄청난걸. 나 요즘 쉬는 시간에 음악감상한다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 쉬는 시간에 음악 감상을 한다.",
+                    "timestamp": 1695796248000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "음악감상이요? 주로 어떤 음악을 들으세요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695796262000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "나는 클래식 음악을 자주 듣고 있어. 마음을 안정시켜줘서 좋아",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 클래식 음악을 자주 듣는다.",
+                    "timestamp": 1695796311000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "주로 음악은 어떻게 들으세요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695796387000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "내가 이번에 헤드폰을 하나 샀거든, 그걸로 들으면 노이즈캔슬링 기능이 있어서 주변소리도 안들리고 음악에 집중할 수 있어서 좋아",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 헤드폰을 샀다.",
+                    "timestamp": 1695796426000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "음악을 정말 좋아하시나 보네요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695796497000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "어 맞아. 말한 김에 또 음악감상하러 가야겠다. 다음에 궁금한게 생기면 또 물어볼게",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695796559000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "네 언제든지 물어보셔도 됩니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695796576000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 쉬는 시간에 음악 감상을 한다.",
+                    "나는 클래식 음악을 자주 듣는다.",
+                    "나는 헤드폰을 샀다."
+                ],
+                "wizard": [
+                    "칭저우시는 중화인민공화국 산둥성 웨이팡 시의 현급 행정구역이에요. 칭저우는 역동적인 공업 도시이고 농산품 생산량 또한 크게 성장하고 있다",
+                    "칭저우시의 넓이는 1569km2이고, 인구는 2007년 기준으로 900,000명이다"
+                ],
+                "dialogSummary": "질문자는 칭저우시에 대해 질문하였고, 챗봇은 칭저우시는 중화인민공화국 산둥성 웨이팡 시의 현급 행정구역이다. 칭저우는 역동적인 공업 도시이고 농산품 생산량 또한 크게 성장하고 있다라고 답하였다"
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광지명에 대한 책을 읽고 있다.",
+                    "나는 실내에서 클라이밍 하는 것을 좋아한다."
+                ],
+                "wizard": [
+                    "영양읍은 영양군의 군청 소재지이고, 북쪽에는 작약봉, 서쪽에는 행곡령이 동천과 반변천 사이를 남북으로 가로 막고 있으며, 동과 남은 500ｍ 내외의 산지로 되어 있다.",
+                    "영양읍에는 제재업이 많으며, 고추, 담배를 비롯하여 부근에서 나는 농림산물을 집산한다.",
+                    "읍 소재지는 군청길 53이다."
+                ]
+            }
+        },
+        {
+            "prevSessionID": "004726-2",
+            "prevTimeInfo": {
+                "timeNum": "6",
+                "timeUnit": "주"
+            },
+            "nthSession": "3",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004726-3",
+            "sessionKeywords": [
+                "*푸안시*,*푸안시*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "안녕 나 저번에 칭저우시에 대해서 물어봤잖아. 이번엔 중국 다른 도시에 대해서 물어보려고!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797727000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "너무 오랜만이에요 6주만인걸요! 이번엔 어떤 도시에 대해서 궁금하신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797831000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "푸안시에 대해서 더 잘 알고 싶어서.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797860000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "푸안시는 중화인민공화국 푸젠성 닝더시의 현급 행정구역이고, 넓이는 1795km2이고, 인구는 2007년 기준으로 620,000명이에요!",
+                    "context": {
+                        "query": "푸안시",
+                        "contents": [
+                            {
+                                "documentID": "346666",
+                                "documentTitle": "푸안시",
+                                "content": [
+                                    "푸안시(, )는 중화인민공화국 푸젠성 닝더시의 현급 행정구역이다.",
+                                    "넓이는 1795km2이고, 인구는 2007년 기준으로 620,000명이다.",
+                                    "지리.",
+                                    "남쪽으로 자오청구, 서쪽으로 서우닝현, 저우닝현, 동쪽으로 저룽현, 샤푸현, 남쪽으로 자오청구와 접하며 북쪽으로 저장성과 접한다.",
+                                    "연평균 기온은 19.3°C, 연평균 강수량은 1548mm이다.",
+                                    "역사.",
+                                    "푸안현은 송나라 때인 1245년에 만들어졌다.",
+                                    "1989년 11월에 현급시로 승격되었다.",
+                                    "행정 구역.",
+                                    "3개 가도, 11개 진, 4개 향, 3개 민족향을 관할한다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "푸안시는 중화인민공화국 푸젠성 닝더시의 현급 행정구역이고, 넓이는 1795km2이고, 인구는 2007년 기준으로 620,000명이다.",
+                    "timestamp": 1695797894000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "내 지인이 이 곳으로 발령받았거든. 평균 기온은 어떻게 돼?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797958000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "연평균 기온은 19.3°C, 연평균 강수량은 1548mm입니다.",
+                    "context": {
+                        "query": "푸안시",
+                        "contents": [
+                            {
+                                "documentID": "346666",
+                                "documentTitle": "푸안시",
+                                "content": [
+                                    "푸안시(, )는 중화인민공화국 푸젠성 닝더시의 현급 행정구역이다.",
+                                    "넓이는 1795km2이고, 인구는 2007년 기준으로 620,000명이다.",
+                                    "지리.",
+                                    "남쪽으로 자오청구, 서쪽으로 서우닝현, 저우닝현, 동쪽으로 저룽현, 샤푸현, 남쪽으로 자오청구와 접하며 북쪽으로 저장성과 접한다.",
+                                    "연평균 기온은 19.3°C, 연평균 강수량은 1548mm이다.",
+                                    "역사.",
+                                    "푸안현은 송나라 때인 1245년에 만들어졌다.",
+                                    "1989년 11월에 현급시로 승격되었다.",
+                                    "행정 구역.",
+                                    "3개 가도, 11개 진, 4개 향, 3개 민족향을 관할한다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "푸안시의 연평균 기온은 19.3°C, 연평균 강수량은 1548mm이다",
+                    "timestamp": 1695797979000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "아 그렇구나. 덕분에 잘 알게되었어. 내 지인한테도 말해줘야겠다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695798008000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "네 알려 드릴 수 있어서 저도 기뻐요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695798146000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "나 한 번쯤 중국 자유여행도 가보고 싶은데, 언어가 너무 안통할까봐 걱정돼.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695798212000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "중국에서 특히 가보고 싶은 도시 있으세요? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695798246000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "나 가고 싶은 도시는 없는데, 상하이 디즈니랜드에 가보고 싶어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695798285000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "디즈니랜드에 가고 싶으시군요. 놀이공원을 좋아하세요? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695798314000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600040",
+                    "participantID": "E0011",
+                    "utterance": "어 나 놀이기구 타는 것 도 아주 좋아하고, 놀이공원의 행복한 분위기가 특히나 마음에 들어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 놀이기구 타는 것을 좋아하고 놀이공원의 행복한 분위기가 마음에 든다",
+                    "timestamp": 1695798362000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0011",
+                    "utterance": "디즈니랜드에 꼭 가시길 바라요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695798432000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 놀이기구 타는 것을 좋아하고 놀이공원의 행복한 분위기가 마음에 든다"
+                ],
+                "wizard": [
+                    "푸안시는 중화인민공화국 푸젠성 닝더시의 현급 행정구역이고, 넓이는 1795km2이고, 인구는 2007년 기준으로 620,000명이다.",
+                    "푸안시의 연평균 기온은 19.3°C, 연평균 강수량은 1548mm이다"
+                ],
+                "dialogSummary": "질문자는 푸안시에 대해 질문하였고, 챗봇은 푸안시는 중화인민공화국 푸젠성 닝더시의 현급 행정구역이고, 넓이는 1795km2이고, 인구는 2007년 기준으로 620,000명이라고 하였다. 또한 연평균 기온은 19.3°C, 연평균 강수량은 1548mm이라고 하였다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광지명에 대한 책을 읽고 있다.",
+                    "나는 실내에서 클라이밍 하는 것을 좋아한다.",
+                    "나는 쉬는 시간에 음악 감상을 한다.",
+                    "나는 클래식 음악을 자주 듣는다.",
+                    "나는 헤드폰을 샀다."
+                ],
+                "wizard": [
+                    "영양읍은 영양군의 군청 소재지이고, 북쪽에는 작약봉, 서쪽에는 행곡령이 동천과 반변천 사이를 남북으로 가로 막고 있으며, 동과 남은 500ｍ 내외의 산지로 되어 있다.",
+                    "영양읍에는 제재업이 많으며, 고추, 담배를 비롯하여 부근에서 나는 농림산물을 집산한다.",
+                    "읍 소재지는 군청길 53이다.",
+                    "칭저우시는 중화인민공화국 산둥성 웨이팡 시의 현급 행정구역이에요. 칭저우는 역동적인 공업 도시이고 농산품 생산량 또한 크게 성장하고 있다",
+                    "칭저우시의 넓이는 1569km2이고, 인구는 2007년 기준으로 900,000명이다"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,460 @@
+{
+  "FileInfo": {
+    "filename": "K2-00105-CL32863-CP33340-13-08-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "7760",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "판매직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "7774",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "기타",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00105"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "32863",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 저녁에 친구를 만난다.",
+        "나는 세관원이다.",
+        "나는 자주 나 자신이 한심하다.",
+        "나는 족발을 안 먹는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "33340",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 로큰롤 음악을 가끔 듣는다.",
+        "나는 색소폰을 배우고 싶다.",
+        "나는 등산을 자주 한다.",
+        "나는 스테이크를 안 먹는다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "13-08",
+    "topicType": "기후>계절/날씨",
+    "topicTitle": "환절기"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00105-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "32863",
+          "participantID": "7760",
+          "utterance": "안녕하세요? 저는 30대 남자에요. 제 직업은 세관원이에요.",
+          "summary": "나는 남자이다. 나는 30대이다. 나는 세관원이다.",
+          "date": "2022-10-08",
+          "time": "12:05:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33340",
+          "participantID": "7774",
+          "utterance": "안녕하세요? 저는 30대 남자에요.",
+          "summary": "나는 남자이다. 나는 30대이다.",
+          "date": "2022-10-08",
+          "time": "12:06:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32863",
+          "participantID": "7760",
+          "utterance": "반가워요. 지금 뭐하고 계세요? 저는 친구들을 만나서 기분전환을 하려고요. 하는 일마다 잘 안되서 자주 제 자신이 한심하게 느껴지거든요.",
+          "summary": "나는 자주 나 자신이 한심하다.",
+          "date": "2022-10-08",
+          "time": "12:07:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33340",
+          "participantID": "7774",
+          "utterance": "저는 로큰롤 음악을 들으려고요. 가끔 듣거든요.",
+          "summary": "나는 로큰롤 음악을 가끔 듣는다.",
+          "date": "2022-10-08",
+          "time": "12:08:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32863",
+          "participantID": "7760",
+          "utterance": "그렇군요. 오전에는 뭐 하실 건가요? 저는 족발을 안먹는데 친구가 족발 맛집에 같이 가자고 해서 한번 가보려고요.",
+          "summary": "나는 족발을 안 먹는다.",
+          "date": "2022-10-08",
+          "time": "12:09:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33340",
+          "participantID": "7774",
+          "utterance": "저는 섹소폰을 배우고 싶어서 섹소폰 학원을 알아보려고요.",
+          "summary": "나는 색소폰을 배우고 싶다.",
+          "date": "2022-10-08",
+          "time": "12:10:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32863",
+          "participantID": "7760",
+          "utterance": "오늘 오후에는 뭐 하실 거에요? 저는 친구를 만나려고요. 저는 보통 저녁에 친구를 만나요.",
+          "summary": "나는 저녁에 친구를 만난다.",
+          "date": "2022-10-08",
+          "time": "12:11:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33340",
+          "participantID": "7774",
+          "utterance": "저는 스테이크를 안먹는데 친구가 직접 만들어 준다고 해서 먹어보려고요.",
+          "summary": "나는 스테이크를 안 먹는다.",
+          "date": "2022-10-08",
+          "time": "12:12:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32863",
+          "participantID": "7760",
+          "utterance": "혹시 이번 주말에 뭐 하실 계획이세요?",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "12:13:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33340",
+          "participantID": "7774",
+          "utterance": "저는 등산을 하려고요. 평소에도 건강을 생각해서 자주 등산을 해요.",
+          "summary": "나는 등산을 자주 한다.",
+          "date": "2022-10-08",
+          "time": "12:14:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32863",
+          "participantID": "7760",
+          "utterance": "그렇군요. 근데 식사는 하셨나요??",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "12:15:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33340",
+          "participantID": "7774",
+          "utterance": "아직 안먹었어요. 저는 삼겹살이 먹고 싶어서 삼겹살을 먹으려고요.",
+          "summary": "나는 삼겹살을 먹을 생각이다.",
+          "date": "2022-10-08",
+          "time": "12:16:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32863",
+          "participantID": "7760",
+          "utterance": "저는 이제 친구를 만나러 가봐야겠네요.",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "12:17:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33340",
+          "participantID": "7774",
+          "utterance": "저도 마침 가봐야 했는데 잘 됐네요.",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "12:18:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32863",
+          "participantID": "7760",
+          "utterance": "그럼 다음에 또 연락하는 걸로 해요.",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "12:19:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33340",
+          "participantID": "7774",
+          "utterance": "네. 그렇게 해요. 좋은 하루 보내세요.",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "12:20:45",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 남자이다. 나는 30대이다. 나는 세관원이다.",
+          "나는 자주 나 자신이 한심하다.",
+          "나는 족발을 안 먹는다.",
+          "나는 저녁에 친구를 만난다."
+        ],
+        "speaker2": [
+          "나는 남자이다. 나는 30대이다.",
+          "나는 로큰롤 음악을 가끔 듣는다.",
+          "나는 색소폰을 배우고 싶다.",
+          "나는 스테이크를 안 먹는다.",
+          "나는 등산을 자주 한다.",
+          "나는 삼겹살을 먹을 생각이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00105-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00105-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "32863",
+          "participantID": "7760",
+          "utterance": "안녕하세요? 어제 그쪽이랑 대화가 너무 재밌어서 또 전화 드렸어요.",
+          "summary": "나는 대화가 너무 재밌었다.",
+          "date": "2022-10-08",
+          "time": "12:22:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33340",
+          "participantID": "7774",
+          "utterance": "안녕하세요? 저도 재밌었어요. 그쪽도 재밌으셨다니 좋네요. 어제 친구는 잘 만나고 오셨나요?",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "12:23:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32863",
+          "participantID": "7760",
+          "utterance": "네. 최근에 대화한 사람 중에 저랑 가장 이야기가 잘 통하는 것 같아요.",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "12:24:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33340",
+          "participantID": "7774",
+          "utterance": "하하. 정말요? 저도 그쪽이랑 대화하는 게 즐거워요.",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "12:25:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32863",
+          "participantID": "7760",
+          "utterance": "앞으로 자주 이야기 해요. 근데 오늘 아침에 뉴스속보 보셨나요?",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "12:26:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33340",
+          "participantID": "7774",
+          "utterance": "아니요. 늦잠자서 급하게 나오느라 못 봤어요. 무슨 내용이었나요?",
+          "summary": "나는 어제 늦잠을 자서 뉴스 속보를 못 봤다.",
+          "date": "2022-10-08",
+          "time": "12:27:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32863",
+          "participantID": "7760",
+          "utterance": "요즘 환절기라서 그런지 낮과 밤의 일교차가 크다고 하네요.",
+          "summary": "요즘 환절기라 낮과 밤의 일교차가 크다.",
+          "date": "2022-10-08",
+          "time": "12:28:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33340",
+          "participantID": "7774",
+          "utterance": "그렇군요. 어쩐지 낮에는 따뜻하고 저녁에는 쌀쌀하더라고요.",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "12:29:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32863",
+          "participantID": "7760",
+          "utterance": "저는 자다가 추워서 깬 적도 있어요.",
+          "summary": "나는 자다가 추워서 깬 적이 있다.",
+          "date": "2022-10-08",
+          "time": "12:30:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33340",
+          "participantID": "7774",
+          "utterance": "저도 그런 적이 있는데 똑같네요. 하하.",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "12:31:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32863",
+          "participantID": "7760",
+          "utterance": "그래서 요즘에는 잘 때 꼭 이불을 덮어요.",
+          "summary": "나는 요즘 잘 때 이불을 덮고 잔다.",
+          "date": "2022-10-08",
+          "time": "12:32:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33340",
+          "participantID": "7774",
+          "utterance": "저도 그래야겠네요. 좀 더 두꺼운 이불을 덮어야겠어요.",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "12:33:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32863",
+          "participantID": "7760",
+          "utterance": "저는 이제 병원에 가야해서 이만 가볼게요.",
+          "summary": "나는 병원에 가야 한다.",
+          "date": "2022-10-08",
+          "time": "12:34:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33340",
+          "participantID": "7774",
+          "utterance": "병원이요? 어디 아프신 거에요?",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "12:36:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32863",
+          "participantID": "7760",
+          "utterance": "아니요. 그냥 정기검진 때문에 가려고요.",
+          "summary": "나는 병원에 정기검진을 받으러 간다.",
+          "date": "2022-10-08",
+          "time": "12:37:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33340",
+          "participantID": "7774",
+          "utterance": "다행이네요. 그럼 검사 잘 받으시고 다음에 또 연락해요.",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "12:38:02",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 대화가 너무 재밌었다.",
+          "요즘 환절기라 낮과 밤의 일교차가 크다.",
+          "나는 자다가 추워서 깬 적이 있다.",
+          "나는 요즘 잘 때 이불을 덮고 잔다.",
+          "나는 병원에 가야 한다.",
+          "나는 병원에 정기검진을 받으러 간다."
+        ],
+        "speaker2": [
+          "나는 어제 늦잠을 자서 뉴스 속보를 못 봤다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 남자이다. 나는 30대이다. 나는 세관원이다.",
+          "나는 자주 나 자신이 한심하다.",
+          "나는 족발을 안 먹는다.",
+          "나는 저녁에 친구를 만난다."
+        ],
+        "speaker2": [
+          "나는 남자이다. 나는 30대이다.",
+          "나는 로큰롤 음악을 가끔 듣는다.",
+          "나는 색소폰을 배우고 싶다.",
+          "나는 스테이크를 안 먹는다.",
+          "나는 등산을 자주 한다.",
+          "나는 삼겹살을 먹을 생각이다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "FileInfo": {
+    "filename": "K2-00172-CL02193-CP01298-06-18-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0029",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0405",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00172"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "02193",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나의 가족은 2명이다.",
+        "나는 정이 많다.",
+        "나는 콩국수를 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "01298",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나의 거주지는 서울이다.",
+        "나는 청소하는 게 지루하다.",
+        "나는 헤드헌터이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "06-18",
+    "topicType": "교육",
+    "topicTitle": "유학"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00172-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "02193",
+          "participantID": "0029",
+          "utterance": "안녕하세요 저는 30대 남자입니다! 만나서 반갑습니다.",
+          "summary": "나는 30대 남자이다.",
+          "date": "2022-09-23",
+          "time": "02:18:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01298",
+          "participantID": "0405",
+          "utterance": "반가워요~ 저는 20대이고 저도 남자입니다! 만나서 반갑습니다.",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-09-23",
+          "time": "02:18:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02193",
+          "participantID": "0029",
+          "utterance": "이번 주말엔 무엇을 하며 보내시나요? 저는 가족 2명이랑 가족여행을 가기로 했답니다!",
+          "summary": "나는 이번 주말에 가족여행을 간다. 나의 가족은 2명이다.",
+          "date": "2022-09-23",
+          "time": "02:19:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01298",
+          "participantID": "0405",
+          "utterance": "집이 서울이라 집 앞에 @브랜드명1@를 가보려고 합니다 ㅎㅎ. 여행은 어디로 가시나요?",
+          "summary": "나의 거주지는 서울이다. 나는 이번 주말에 @브랜드명1@를 간다.",
+          "date": "2022-09-23",
+          "time": "02:19:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02193",
+          "participantID": "0029",
+          "utterance": "제주도로 갑니다~! 제주도 가보셨나요?",
+          "summary": "나는 가족여행을 제주도로 가기로 했다.",
+          "date": "2022-09-23",
+          "time": "02:19:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01298",
+          "participantID": "0405",
+          "utterance": "제가 헤드헌터인데 업무차 제주도에 자주 들렀습니다! 가면 고기국수를 꼭 먹습니다!",
+          "summary": "나는 헤드헌터이다. 제주도에 가면 고기국수를 꼭 먹는다.",
+          "date": "2022-09-23",
+          "time": "02:20:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02193",
+          "participantID": "0029",
+          "utterance": "고기국수 저도 좋아합니다~ 콩국수는 비려서 싫고 외에 면류는 다 좋아해요!",
+          "summary": "나는 고기국수를 좋아한다. 나는 콩국수를 싫어하지만 다른 면류는 좋아한다.",
+          "date": "2022-09-23",
+          "time": "02:20:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01298",
+          "participantID": "0405",
+          "utterance": "그러시군요! 제 아내는 콩국수를 좋아해서 가끔 제가 만들어 주곤 합니다 ㅎㅎ.",
+          "summary": "나는 기혼자다. 가끔 아내에게 콩국수를 만들어준다.",
+          "date": "2022-09-23",
+          "time": "02:20:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02193",
+          "participantID": "0029",
+          "utterance": "결혼하셨군요! 저는 청소가 귀찮아서 집에서 요리하질 않는데 대단하십니다 ㅠ.",
+          "summary": "나는 청소하는 것을 귀찮아한다. 나는 집에서 요리를 하지 않는다.",
+          "date": "2022-09-23",
+          "time": "02:21:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01298",
+          "participantID": "0405",
+          "utterance": "그쵸.. 요리 하는 건 좋은데 항상 청소하는게 너무 지루해서 문제입니다. 결혼안하셨나요?",
+          "summary": "나는 요리를 좋아한다. 나는 청소하는 것이 지루하다.",
+          "date": "2022-09-23",
+          "time": "02:21:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02193",
+          "participantID": "0029",
+          "utterance": "네 유학생활을 길게 하다보니 아직 안 했습니다 ㅎㅎ.",
+          "summary": "나는 유학생활을 했다. 나는 미혼이다.",
+          "date": "2022-09-23",
+          "time": "02:21:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01298",
+          "participantID": "0405",
+          "utterance": "어쩌다가 유학생활을 길게 하게 되셨나요?",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "02:21:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02193",
+          "participantID": "0029",
+          "utterance": "제가 정이 많은지 타지 친구들과 정이 들어 이래저래 같이 있다보니요~ 미팅이 있어서 다음에 연락드릴게요!",
+          "summary": "나는 정이 많다. 나는 해외에 오랫동안 있었다.",
+          "date": "2022-09-23",
+          "time": "02:22:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01298",
+          "participantID": "0405",
+          "utterance": "넵!! 오늘 대화 즐거웠습니다 다음에 또 얘기해요!",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "02:22:21",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 남자이다.",
+          "나는 이번 주말에 가족여행을 간다. 나의 가족은 2명이다.",
+          "나는 가족여행을 제주도로 가기로 했다.",
+          "나는 고기국수를 좋아한다. 나는 콩국수를 싫어하지만 다른 면류는 좋아한다.",
+          "나는 청소하는 것을 귀찮아한다. 나는 집에서 요리를 하지 않는다.",
+          "나는 유학생활을 했다. 나는 미혼이다.",
+          "나는 정이 많다. 나는 해외에 오랫동안 있었다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나의 거주지는 서울이다. 나는 이번 주말에 @브랜드명1@를 간다.",
+          "나는 헤드헌터이다. 제주도에 가면 고기국수를 꼭 먹는다.",
+          "나는 기혼자다. 가끔 아내에게 콩국수를 만들어준다.",
+          "나는 요리를 좋아한다. 나는 청소하는 것이 지루하다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00172-1",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00172-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "02193",
+          "participantID": "0029",
+          "utterance": "잘 지내셨나요? 벌써 한 주가 다 가네요~ 놀러 잘 다녀오셨죠?",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "02:22:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01298",
+          "participantID": "0405",
+          "utterance": "네! @브랜드명1@ 다녀왔는데 아주 재밌었습니다 ㅎㅎ 저번에 미팅은 잘 되셨나요??",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "02:23:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02193",
+          "participantID": "0029",
+          "utterance": "네! 제가 유학원에서 일하는데 미팅이라기보단 상담을 좀 하고왔어요~",
+          "summary": "나는 유학원에서 일한다. 나는 상담업무를 하였다.",
+          "date": "2022-09-23",
+          "time": "02:22:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01298",
+          "participantID": "0405",
+          "utterance": "그러시군요!! 상담온 학생이 많나요??",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "02:23:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02193",
+          "participantID": "0029",
+          "utterance": "네 아무래도 최근 유학을 원하는 학생들이 있어서 상담신청이 좀 들어오네요!",
+          "summary": "나는 최근 유학을 원하는 학생들이 많다고 생각한다.",
+          "date": "2022-09-23",
+          "time": "02:24:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01298",
+          "participantID": "0405",
+          "utterance": "유학생활을 오래 하셨는데 학생들에게 추천할만 한가요??",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "02:24:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02193",
+          "participantID": "0029",
+          "utterance": "결과적으로만 보면 추천드리고싶죠! 다만 언어 때문에 초기에는 어려움이 있을 수 있지만요.",
+          "summary": "나는 유학 초기에 언어문제로 어려움이 있을 수 있다고 생각한다.",
+          "date": "2022-09-23",
+          "time": "02:24:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01298",
+          "participantID": "0405",
+          "utterance": "그렇군요.. 그냥 학교생활 하기도 힘든데 해외에서 하려면 두배는 힘들 것 같네요.",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "02:24:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02193",
+          "participantID": "0029",
+          "utterance": "네 아무래도요.. 님은 유학에 대해 어떻게 생각하세요?",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "02:25:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01298",
+          "participantID": "0405",
+          "utterance": "유학을 하면서 견문을 넓히고 외국어 능력도 향상되는 측면에서 긍정적으로 생각합니다!",
+          "summary": "나는 유학에 대해 긍정적으로 생각한다.",
+          "date": "2022-09-23",
+          "time": "02:25:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02193",
+          "participantID": "0029",
+          "utterance": "맞아요. 타지에 가면 새로운 것들도 경험하고 외국어도 자연스레 늘지요!",
+          "summary": "나는 해외에서 외국어가 자연스럽게 발전된다고 생각한다.",
+          "date": "2022-09-23",
+          "time": "02:26:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01298",
+          "participantID": "0405",
+          "utterance": "기회되면 한 달 정도는 살아보고 싶네요 ㅎㅎ.",
+          "summary": "나는 외국에서 한 달 살아보고 싶다고 생각한다.",
+          "date": "2022-09-23",
+          "time": "02:26:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02193",
+          "participantID": "0029",
+          "utterance": "대신 치안이 좋은 국가에서 해보시길 추천드려요! 저는 또 상담일정이 있어서요. 또 연락드릴게요!",
+          "summary": "나는 치안이 좋은 국가에서의 유학이 좋다고 생각한다. 나는 상담업무를 할 예정이다.",
+          "date": "2022-09-23",
+          "time": "02:26:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01298",
+          "participantID": "0405",
+          "utterance": "네! 조언 감사드립니다!! ㅎㅎ 상담 잘 다녀오세요!!",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "02:27:00",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 유학원에서 일한다. 나는 상담업무를 하였다.",
+          "나는 최근 유학을 원하는 학생들이 많다고 생각한다.",
+          "나는 유학 초기에 언어문제로 어려움이 있을 수 있다고 생각한다.",
+          "나는 해외에서 외국어가 자연스럽게 발전된다고 생각한다.",
+          "나는 치안이 좋은 국가에서의 유학이 좋다고 생각한다. 나는 상담업무를 할 예정이다."
+        ],
+        "speaker2": [
+          "나는 유학에 대해 긍정적으로 생각한다.",
+          "나는 외국에서 한 달 살아보고 싶다고 생각한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 남자이다.",
+          "나는 이번 주말에 가족여행을 간다. 나의 가족은 2명이다.",
+          "나는 가족여행을 제주도로 가기로 했다.",
+          "나는 고기국수를 좋아한다. 나는 콩국수를 싫어하지만 다른 면류는 좋아한다.",
+          "나는 청소하는 것을 귀찮아한다. 나는 집에서 요리를 하지 않는다.",
+          "나는 유학생활을 했다. 나는 미혼이다.",
+          "나는 정이 많다. 나는 해외에 오랫동안 있었다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나의 거주지는 서울이다. 나는 이번 주말에 @브랜드명1@를 간다.",
+          "나는 헤드헌터이다. 제주도에 가면 고기국수를 꼭 먹는다.",
+          "나는 기혼자다. 가끔 아내에게 콩국수를 만들어준다.",
+          "나는 요리를 좋아한다. 나는 청소하는 것이 지루하다."
+        ]
+      }
+    }
+  ]
+}

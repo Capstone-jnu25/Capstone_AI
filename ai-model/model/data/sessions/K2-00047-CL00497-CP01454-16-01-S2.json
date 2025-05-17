@@ -1,0 +1,407 @@
+{
+  "FileInfo": {
+    "filename": "K2-00047-CL00497-CP01454-16-01-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0037",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0022",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00047"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "00497",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나는 고양이 두 마리를 키운다.",
+        "나는 요즘, 가끔 안도감이 든다.",
+        "나는 짬뽕을 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "01454",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나의 여자 형제는 학생이다.",
+        "나는 시츄 두 마리를 키운다.",
+        "나는 1년에 한두 번은 꼭 해외 여행을 한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "16-01",
+    "topicType": "미용과 건강>미용",
+    "topicTitle": "미용"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00047-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "00497",
+          "participantID": "0037",
+          "utterance": "반갑습니다 저는 40대 여자입니다~",
+          "summary": "나는 40대 여자이다.",
+          "date": "2022-08-24",
+          "time": "11:31:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01454",
+          "participantID": "0022",
+          "utterance": "반갑습니다! 저는 20대 남자입니다!",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-08-24",
+          "time": "11:32:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00497",
+          "participantID": "0037",
+          "utterance": "아 요즘 짬뽕싫은데 점심시간마다 짬뽕 먹자네요..",
+          "summary": "나는 짬뽕을 싫어한다.",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01454",
+          "participantID": "0022",
+          "utterance": "싫은데 왜그러는거에요.. 왜 싫다고 얘기를 했는데도..",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00497",
+          "participantID": "0037",
+          "utterance": "회사생활에 무슨 선택권이 있겠습니까..",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01454",
+          "participantID": "0022",
+          "utterance": "40대시면 그래도 어느정도 연차가 되지않으세요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00497",
+          "participantID": "0037",
+          "utterance": "그냥 흐름이 먹자고 하면 먹는거죠 뭐.. 주말인데도 이런생각을 ㅋㅋ.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01454",
+          "participantID": "0022",
+          "utterance": "그러니까요! 그냥 생각하지 말아요~!",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00497",
+          "participantID": "0037",
+          "utterance": "네~ 고양이이애들 털이나 빗어 줘야겠어요 ~",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01454",
+          "participantID": "0022",
+          "utterance": "고양이 키우시나봐요~ 저는 시츄 두마리를 키우는데.",
+          "summary": "나는 시츄 두 마리를 키운다.",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00497",
+          "participantID": "0037",
+          "utterance": "저는 고양이 두마리 키워요 ㅎㅎ.. 한번 만나야겠는데..",
+          "summary": "나는 고양이 두 마리를 키운다.",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01454",
+          "participantID": "0022",
+          "utterance": "그럼 바로 싸울것 같은데요ㅋㅋ.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00497",
+          "participantID": "0037",
+          "utterance": "그러니까요 ㅋㅋㅋ 여튼. 저는 고양이애들 좀 관리하러 가요~ 또 연락해요 !",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01454",
+          "participantID": "0022",
+          "utterance": "네 알겠습니다! 그럼 잘 하고 오세요~",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 여자이다.",
+          "나는 짬뽕을 싫어한다.",
+          "나는 고양이 두 마리를 키운다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 시츄 두 마리를 키운다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00047-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00047-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "00497",
+          "participantID": "0037",
+          "utterance": "안녕하세여 ~ 어제는 잘잤어요? 저는 너무 잘잠 !",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01454",
+          "participantID": "0022",
+          "utterance": "네 안녕하세요~ 저도 잘 잤습니다!ㅎㅎ 좋은아침!",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00497",
+          "participantID": "0037",
+          "utterance": "저는 오늘 머리좀 하러 가요~ 오랜만에 머리해요 !",
+          "summary": "나는 오늘 머리를 하러 간다.",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01454",
+          "participantID": "0022",
+          "utterance": "오~뭐 생각해두신 스타일이라도 있으세요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00497",
+          "participantID": "0037",
+          "utterance": "그냥 좀 정리좀 하고. 펌하려고요 ~",
+          "summary": "나는 오늘 펌을 한다.",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01454",
+          "participantID": "0022",
+          "utterance": "저는 펌이 잘 안나오는 머리인데..ㅋㅋ.",
+          "summary": "나는 펌이 잘 안 나오는 머리이다.",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00497",
+          "participantID": "0037",
+          "utterance": "요즘 그냥 ㅋㅋ 가끔 안도감 들어요.. 저는 펌이 진짜 잘나오는 머리라서..",
+          "summary": "나는 요즘, 가끔 안도감이 든다.",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01454",
+          "participantID": "0022",
+          "utterance": "좋겠네요! 머리가 가늘면 펌이 안되서 그럴걸 보면 부러워요ㅋㅋ.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00497",
+          "participantID": "0037",
+          "utterance": "네~ 그래서 막 오래 걸리지도 않네요.. 그쪽은 뭐하고 계셨어요?",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01454",
+          "participantID": "0022",
+          "utterance": "저는 1년에 한두 번은 꼭 해외 여행을 해서! 여행 계획 하고있어요.",
+          "summary": "나는 1년에 한두 번은 꼭 해외여행을 한다, 나는 여행 계획을 하고 있다.",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00497",
+          "participantID": "0037",
+          "utterance": "이야.. 저는 평생 몇번 안갔는데 1년에 한두번이라니 부럽네요.",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01454",
+          "participantID": "0022",
+          "utterance": "여동생이 학생인데! 대학생 취업준비 하기전에 같이 가요.",
+          "summary": "나의 여자 형제는 학생이다.",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00497",
+          "participantID": "0037",
+          "utterance": "오우~ 돈 두둑하게 챙기셔야겠네 !! 저는 나갈준비 할께요 ~",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01454",
+          "participantID": "0022",
+          "utterance": "네ㅎㅎ 그렇죠~ 그럼 나갈 준비 잘 하시고~ 또 연락해요!!",
+          "summary": "",
+          "date": "2022-08-24",
+          "time": "11:34:35",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 오늘 머리를 하러 간다.",
+          "나는 오늘 펌을 한다.",
+          "나는 요즘, 가끔 안도감이 든다."
+        ],
+        "speaker2": [
+          "나는 펌이 잘 안 나오는 머리이다.",
+          "나는 1년에 한두 번은 꼭 해외여행을 한다, 나는 여행 계획을 하고 있다.",
+          "나의 여자 형제는 학생이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여자이다.",
+          "나는 짬뽕을 싫어한다.",
+          "나는 고양이 두 마리를 키운다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 시츄 두 마리를 키운다."
+        ]
+      }
+    }
+  ]
+}

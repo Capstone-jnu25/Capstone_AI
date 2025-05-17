@@ -1,0 +1,514 @@
+{
+  "FileInfo": {
+    "filename": "K2-00164-CL02899-CP04450-09-03-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0036",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0315",
+      "gender": "남성",
+      "age": "50대",
+      "occupation": "자영업",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00164"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "02899",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나의 거주지는 서울이다.",
+        "나는 쌀국수를 즐겨 먹는다.",
+        "나는 시원한 날씨를 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "04450",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 50대이다.",
+        "나의 거주지는 경기도이다.",
+        "나는 액션 영화를 좋아한다.",
+        "나는 사무관이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "09-03",
+    "topicType": "개인 및 관계>반려동물",
+    "topicTitle": "반려동물"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "2-00164-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "처음 뵙겠습니다 저는 20대 여자입니다.",
+          "summary": "나는 20대 여자입니다.",
+          "date": "2022-09-06",
+          "time": "22:17:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "반가워요. 저는 50대 남자입니다.",
+          "summary": "나는 50대 남자이다.",
+          "date": "2022-09-06",
+          "time": "22:17:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "저는 경기도 수원에 살고 있어요 사시는 곳이 어딘가요?",
+          "summary": "나는 경기도 수원에 살고 있다.",
+          "date": "2022-09-06",
+          "time": "22:18:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "저는 강원도 강릉에 살고있어요.종교가 있나요?",
+          "summary": "나는 강원도 강릉에 살고 있다.",
+          "date": "2022-09-06",
+          "time": "22:18:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "저는 성당에 다니고 있어요. 좋아하는 음식 있나요?",
+          "summary": "나는 성당에 다니고 있다.",
+          "date": "2022-09-06",
+          "time": "22:19:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "저는 종교가 없어요.음식은 육계장 좋아합니다.",
+          "summary": "나는 종교 없다. 육개장 좋아한다.",
+          "date": "2022-09-06",
+          "time": "22:20:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "저는 쌀국수를 좋아합니다.",
+          "summary": "나는 쌀국수를 좋아한다.",
+          "date": "2022-09-06",
+          "time": "22:20:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "저는 포크음악을 좋아해요.",
+          "summary": "나는 포크음악 좋아한다.",
+          "date": "2022-09-06",
+          "time": "22:21:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "저는 힙합을좋아해요 운동은 하시나요?",
+          "summary": "나는 힙합을 좋아한다.",
+          "date": "2022-09-06",
+          "time": "22:22:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "저는 주말에 자전거를 타요.직업이 있나요?저는 사무관이에요.",
+          "summary": "나는 주말에 자전거를 탄다 나는 사무관이다.",
+          "date": "2022-09-06",
+          "time": "22:22:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "저는 성형외과의사입니다.저는 요가를 즐겨 하고 있어요.티비는 보시나요?",
+          "summary": "나는 성형외과의사다. 요가를 즐겨한다.",
+          "date": "2022-09-06",
+          "time": "22:24:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "저도 성형외과 상담 받아보고 싶어요.저는 @브랜드명1@에 하는 액션영화를 좋아해요.",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "22:25:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "저는 예능프로그램을 즐겨봐요.",
+          "summary": "나는 예능프로그램을 자주 본다.",
+          "date": "2022-09-06",
+          "time": "22:25:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "요즘 예능 우주오락실 재미있죠?",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "22:26:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "저도 그프로 좋아해요 영지가참 좋다.",
+          "summary": "나는 영지가 좋다.",
+          "date": "2022-09-06",
+          "time": "22:54:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "목소리가 너무커요.웃기기는 하더라구요.",
+          "summary": "영지 목소리가 너무 큰데 웃기 기는 한다.",
+          "date": "2022-09-06",
+          "time": "22:27:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "저는 말티즈 한 마리를 키워요. 오늘 대화 즐거웠습니다.",
+          "summary": "나는 몰티즈 한 마리를 키운다.",
+          "date": "2022-09-06",
+          "time": "22:29:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "귀엽겠네요.다음에 한번 보여주세요.또 봐요.",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "22:29:53",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자입니다.",
+          "나는 경기도 수원에 살고 있다.",
+          "나는 성당에 다니고 있다.",
+          "나는 쌀국수를 좋아한다.",
+          "나는 힙합을 좋아한다.",
+          "나는 성형외과의사다. 요가를 즐겨한다.",
+          "나는 예능프로그램을 자주 본다.",
+          "나는 영지가 좋다.",
+          "나는 몰티즈 한 마리를 키운다."
+        ],
+        "speaker2": [
+          "나는 50대 남자이다.",
+          "나는 강원도 강릉에 살고 있다.",
+          "나는 종교 없다. 육개장 좋아한다.",
+          "나는 포크음악 좋아한다.",
+          "나는 주말에 자전거를 탄다 나는 사무관이다.",
+          "영지 목소리가 너무 큰데 웃기 기는 한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00164-1",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "2-00164-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "5 일이 지났어요.너무 졸려요 커피한잔해야되겠네요 커피좋아 하시나요?",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "22:32:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "저도 커피 3잔째에요.잠을 못잤나봐요 저도 어제새벽 태풍때문에 4시간도 못잤어요.",
+          "summary": "어제 새벽 택배 때문에 4시간도 못 잤다 나는 커피를 세 잔이나 마셨다.",
+          "date": "2022-09-06",
+          "time": "22:33:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "아 그러세요. 저도 바람소리 깨서 계속 잠을 못 잤어요.",
+          "summary": "나는 바람소리에 잠을 못 잤다.",
+          "date": "2022-09-06",
+          "time": "22:37:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "저도 길고양이들 놀래서 힘들어할까봐 새벽에 배란다에 넣었어요.",
+          "summary": "ㄱㄹ고양이들 놀래까 봐 새벽에 베란다에 넣었다.",
+          "date": "2022-09-06",
+          "time": "22:38:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "저는 시원한 날씨를 좋아해요 어떤 날씨 좋아하세요.",
+          "summary": "나는 시원한 날씨를 좋아한다.",
+          "date": "2022-09-06",
+          "time": "22:37:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "저도 시원한 가을를 좋아해요.말티즈도 놀랬죠?",
+          "summary": "나는 시원한 가을 좋아한다.",
+          "date": "2022-09-06",
+          "time": "22:39:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "저도 말티즈가 놀래서 방에서 같이 있었어요.",
+          "summary": "나는 몰티즈 가 놀래서 방에서 같이 잤다.",
+          "date": "2022-09-06",
+          "time": "22:40:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "저는 길고양이들 밥주다보니 가족이 되버렸어요.",
+          "summary": "길 고양이들 밥 주다가 가족이 되었다.",
+          "date": "2022-09-06",
+          "time": "22:41:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "아 그러세요.여행은 자주 다니시나요?",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "22:41:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "여행은 계절마다 한번씩 가족여행을 다녀요.",
+          "summary": "나는 계절마다 한 번씩 가족여행을 간다.",
+          "date": "2022-09-06",
+          "time": "22:42:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "저는 맛집 여행을 즐겨요 취미는 있나요?",
+          "summary": "나는 맛집 여행을 즐긴다.",
+          "date": "2022-09-06",
+          "time": "22:44:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "저는 요즘 기타를 배우고있어요.",
+          "summary": "나는 요즘 기타를 배우고 있다.",
+          "date": "2022-09-06",
+          "time": "22:56:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "저는골프를 베우고 있어요. 기타 배운지는오래 되셨나요?",
+          "summary": "나는 골프를 배우고 있다.",
+          "date": "2022-09-06",
+          "time": "22:58:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "아니요 이제 서너달 정도라 힘들어요.",
+          "summary": "이제 배운 지 서너 달 정도 되었다.",
+          "date": "2022-09-06",
+          "time": "22:59:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "꾸준히 하시면잘 할수 있을거예요 .혈액형은요?",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "23:00:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "저는A형이라 조금 내성적이고 소극적입니다.",
+          "summary": "나는 A형이라 조금 내성적이고 소극적이다.",
+          "date": "2022-09-06",
+          "time": "23:01:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "02899",
+          "participantID": "0036",
+          "utterance": "저는O형ㅇㅂ니다. 다음에 또 봐요.",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "23:01:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04450",
+          "participantID": "0315",
+          "utterance": "네 대화 즐거웠어요.다음에 뵈요.",
+          "summary": "",
+          "date": "2022-09-06",
+          "time": "23:02:07",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 바람소리에 잠을 못 잤다.",
+          "나는 시원한 날씨를 좋아한다.",
+          "나는 몰티즈 가 놀래서 방에서 같이 잤다.",
+          "나는 맛집 여행을 즐긴다.",
+          "나는 골프를 배우고 있다."
+        ],
+        "speaker2": [
+          "어제 새벽 택배 때문에 4시간도 못 잤다 나는 커피를 세 잔이나 마셨다.",
+          "ㄱㄹ고양이들 놀래까 봐 새벽에 베란다에 넣었다.",
+          "나는 시원한 가을 좋아한다.",
+          "길 고양이들 밥 주다가 가족이 되었다.",
+          "나는 계절마다 한 번씩 가족여행을 간다.",
+          "나는 요즘 기타를 배우고 있다.",
+          "이제 배운 지 서너 달 정도 되었다.",
+          "나는 A형이라 조금 내성적이고 소극적이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자입니다.",
+          "나는 경기도 수원에 살고 있다.",
+          "나는 성당에 다니고 있다.",
+          "나는 쌀국수를 좋아한다.",
+          "나는 힙합을 좋아한다.",
+          "나는 성형외과의사다. 요가를 즐겨한다.",
+          "나는 예능프로그램을 자주 본다.",
+          "나는 영지가 좋다.",
+          "나는 몰티즈 한 마리를 키운다."
+        ],
+        "speaker2": [
+          "나는 50대 남자이다.",
+          "나는 강원도 강릉에 살고 있다.",
+          "나는 종교 없다. 육개장 좋아한다.",
+          "나는 포크음악 좋아한다.",
+          "나는 주말에 자전거를 탄다 나는 사무관이다.",
+          "영지 목소리가 너무 큰데 웃기 기는 한다."
+        ]
+      }
+    }
+  ]
+}

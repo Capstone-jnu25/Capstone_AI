@@ -1,0 +1,820 @@
+{
+  "FileInfo": {
+    "filename": "K4-00088-CL41327-CP42000-01-10-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3514",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "3172",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00088"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "41327",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나는 요즘, 가끔 남의 시선이 의식된다",
+        "내가 가장 기쁘던 때는 아이의 편지를 받았을 때이다",
+        "나는 CCM 음악을 싫어한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "42000",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나는 대기업 과장이다 ",
+        "나는 달리기를 가끔 한다",
+        "나는 앵무새 한 마리를 키운다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "01-10",
+    "topicType": "식음료",
+    "topicTitle": "커피"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00088-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "안녕하세요. 저는 40대 여성이예요.",
+          "summary": "나는 40대 여성이다",
+          "date": "2022-10-18",
+          "time": "13:57:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "안녕하세요~ 저도 40대 여성이예요",
+          "summary": "나는 40대 여성이다.",
+          "date": "2022-10-18",
+          "time": "13:58:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "저는 CCM 음악을 별로 안좋아해요!",
+          "summary": "나는 CCM 음악을 별로 안 좋아한다",
+          "date": "2022-10-18",
+          "time": "13:58:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "아 그러시군요~그럼 다른 취미는 없으세요? 저는 달리기를 가끔 해요",
+          "summary": "나는 달리기가 취미이다.",
+          "date": "2022-10-18",
+          "time": "14:00:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "저는 요즘 타인의 시선이 의식되서 취미활동을 하려고 생각해본적이 없네요",
+          "summary": "나는 요즘 타인의 시선이 의식된다",
+          "date": "2022-10-18",
+          "time": "14:01:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "저는 대기업 과장이라서 스트레스가 많은 편이라 달리기로 달래고있어요~ 직장 다니고 계시나요?",
+          "summary": "나는 대기업 과장이다.",
+          "date": "2022-10-18",
+          "time": "14:03:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "아니요 저는 아이를 키우고 있어요. 제가 가장 기쁘던 때는 아이의 편지를 받았을때랍니다",
+          "summary": "나는 아이를 키우고 있다. 나는 가장 기쁘던 때는 아이의 편지를 받았을 때이다.",
+          "date": "2022-10-18",
+          "time": "14:03:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "어머 아이가 편지를 잘 써주시나봐요~좋으시겠어요!! 반려동물은 안키우시나요?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "14:06:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "네 따로 키우는 건 없네요! 반려동물 키우세요?",
+          "summary": "나는 반려동물을 키우지 않는다",
+          "date": "2022-10-18",
+          "time": "14:06:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "네 저는 앵무새를 한마리 키우고있어요!! 앵무새와 대화 나눠보신적 있으신가요?",
+          "summary": "나는 앵무새 한 마리를 키우고 있다.",
+          "date": "2022-10-18",
+          "time": "14:07:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "아뇨 앵무새를 본적도 없네요~ 귀엽나요?",
+          "summary": "나는 앵무새를 본 적이 없다",
+          "date": "2022-10-18",
+          "time": "14:13:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "네~귀엽고 말도 잘 따라하고요! 가끔 대들어서 혼자 화낼때도 있어요 하하",
+          "summary": "나는 앵무새가 귀엽고 말도 잘 따라하고 가끔 대들어서 혼자 화낼때도 있다.",
+          "date": "2022-10-18",
+          "time": "14:15:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "아기 키우는 것 처럼 너무 귀여울 것 같아요!",
+          "summary": "나는 앵무새가 귀여울 것 같다",
+          "date": "2022-10-18",
+          "time": "14:21:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "네 맞아요 하하 앗 갑자기 급한일이 생겨서 나가봐야겠어요~다음에 다시 대화나눠요",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "14:22:30",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다",
+          "나는 CCM 음악을 별로 안 좋아한다",
+          "나는 요즘 타인의 시선이 의식된다",
+          "나는 아이를 키우고 있다. 나는 가장 기쁘던 때는 아이의 편지를 받았을 때이다.",
+          "나는 반려동물을 키우지 않는다",
+          "나는 앵무새를 본 적이 없다",
+          "나는 앵무새가 귀여울 것 같다"
+        ],
+        "speaker2": [
+          "나는 40대 여성이다.",
+          "나는 달리기가 취미이다.",
+          "나는 대기업 과장이다.",
+          "나는 앵무새 한 마리를 키우고 있다.",
+          "나는 앵무새가 귀엽고 말도 잘 따라하고 가끔 대들어서 혼자 화낼때도 있다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00088-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00088-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "벌써 하루가 지났네요~ 잘지내셨어요? 오늘도 앵무새와 대화를 하셨나요?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "14:25:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "네~별일 없이 잘 지냈어요~앵무새와 아침인사는 기본이예요. 잘 지내셨죠? ",
+          "summary": "나는 앵무새와 아침인사를 한다.",
+          "date": "2022-10-18",
+          "time": "14:26:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "네~ 회사 다니시면서 커피를 자주 드시나요?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "14:29:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "네~ 저는 커피를 정말 많이 먹고 좋아해요! 커피 좋아하세요?",
+          "summary": "나는 커피를 좋아한다.",
+          "date": "2022-10-18",
+          "time": "14:31:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "네 저도 정말 좋아해요! 특별히 좋아하는 커피 종류 있으세요?",
+          "summary": "나는 커피를 좋아한다",
+          "date": "2022-10-18",
+          "time": "14:31:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "저는 드립커피를 좋아해요~ 어떤종류 좋아하세요?",
+          "summary": "나는 드립 커피를 좋아한다.",
+          "date": "2022-10-18",
+          "time": "14:35:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "오 저는 라떼를 정말 좋아하거든요. 지금 같은 계절에 딱이예요.",
+          "summary": "나는 라테를 좋아한다",
+          "date": "2022-10-18",
+          "time": "14:37:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "라떼 좋죠~ 부드럽고 맛도 좋고요!! 저는 여름엔 콜드브루도 잘 마셔요! 드셔보셨죠?",
+          "summary": "나는 여름엔 콜드 브루를 마신다.",
+          "date": "2022-10-18",
+          "time": "14:37:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "네네 콜드브루도 라떼로 만들어 먹으면 정말 맛있더라구. 네네 콜드브루도 라떼로 만들어먹으면 정말 맛있더라구요. 운동할때 즐겨마셔요.",
+          "summary": "나는 콜드 브루 라테를 좋아한다",
+          "date": "2022-10-18",
+          "time": "14:38:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "콜드브루 라떼 정말 맛있는데 역시 아셨군요~~그럼 에스프레소 같은건 드시나요? 저는 에쏘는 영 못먹겠더라고요 ",
+          "summary": "나는 에스프레소를 못 먹는다.",
+          "date": "2022-10-18",
+          "time": "14:39:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "저는 요즘 도전해보고 있어요. 요즘 에스프레소바가 정말 많이 생겼더라구요",
+          "summary": "나는 에스프레소에 도전해 보고 있다",
+          "date": "2022-10-18",
+          "time": "14:41:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "아 그래요? 그런건 처음 들어봤어요~ 에스프레소 마시는게 인기인가 봐요?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "14:41:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "그런가봐요. 젊은 사람들 사이에서 아주 핫하다고 저희 애가 알려주더라구요.",
+          "summary": "나는 에스프레소 바가 핫하다는 걸 알고 있다",
+          "date": "2022-10-18",
+          "time": "14:44:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "아 그렇군요 다음에 한번 가봐야겠네요! 저 일이 있어서 이만 나가볼께요~다음에 다시 대화나눠요",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "14:47:03",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 커피를 좋아한다",
+          "나는 라테를 좋아한다",
+          "나는 콜드 브루 라테를 좋아한다",
+          "나는 에스프레소에 도전해 보고 있다",
+          "나는 에스프레소 바가 핫하다는 걸 알고 있다"
+        ],
+        "speaker2": [
+          "나는 앵무새와 아침인사를 한다.",
+          "나는 커피를 좋아한다.",
+          "나는 드립 커피를 좋아한다.",
+          "나는 여름엔 콜드 브루를 마신다.",
+          "나는 에스프레소를 못 먹는다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다",
+          "나는 CCM 음악을 별로 안 좋아한다",
+          "나는 요즘 타인의 시선이 의식된다",
+          "나는 아이를 키우고 있다. 나는 가장 기쁘던 때는 아이의 편지를 받았을 때이다.",
+          "나는 반려동물을 키우지 않는다",
+          "나는 앵무새를 본 적이 없다",
+          "나는 앵무새가 귀여울 것 같다"
+        ],
+        "speaker2": [
+          "나는 40대 여성이다.",
+          "나는 달리기가 취미이다.",
+          "나는 대기업 과장이다.",
+          "나는 앵무새 한 마리를 키우고 있다.",
+          "나는 앵무새가 귀엽고 말도 잘 따라하고 가끔 대들어서 혼자 화낼때도 있다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00088-2",
+      "prevTimeInfo": {
+        "timeNum": "9",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00088-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "9일이나 지났네요~ 잘 지냈나요?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "14:51:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "어머~그런가요? 시간참 빠르네요~ 잘지내셨죠?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "14:52:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "네네~ 저는 지금도 커피를 마시려고 하고 있어요.",
+          "summary": "나는 커피를 마시려고 하고 있다",
+          "date": "2022-10-18",
+          "time": "14:59:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "저는 요즘 커피에 부쩍 관심이 생겨서 주말에 다니는 바리스타 학원을 등록했어요!!",
+          "summary": "나는 커피에 관심이 생겨 주말에 다니는 바리스타 학원을 등록했다.",
+          "date": "2022-10-18",
+          "time": "15:00:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "와 대박이예요~~너무 멋있는걸요? 재밌나요?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "15:00:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "아직 두번밖에 안 갔지만 여러사람과 어울려서 배우니 재미있는것 같아요!",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "15:01:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "저도 한번 배워볼까요? 40대에도 할 수 있을까요?",
+          "summary": "나는 커피를 배워 보고 싶다",
+          "date": "2022-10-18",
+          "time": "15:01:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "어머~그럼요! 저도 하고 있는 걸요 하하 저희보다 연령때 높으신 분들도 많아요! ",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "15:02:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "와 진짜요? 저도 그럼 당장 등록을 하러 가봐야겠어요. 오전반 다니세요?",
+          "summary": "나는 바리스타 학원에 등록하러 가려한다",
+          "date": "2022-10-18",
+          "time": "15:02:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "네 주말 오전반에 다니고있어요! 지금 필기랑 함께 배우고 있는데요~ 커피의 역사부터 배우고 있어서 그것도 재미있어요 ",
+          "summary": "나는 주말 오전에 바리스타 학원을 다니고 있다.",
+          "date": "2022-10-18",
+          "time": "15:03:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "커피의 역사부터 다 배우는거군요. 회사 다니면서 빡세지 않으세요?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "15:04:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "회사일에 너무 치여있어서 취미라도 가져볼려고 알아보다 커피 좋아하니까 배우게 되었어요~",
+          "summary": "나는 회사일에 너무 치여있어서 취미라도 가져보려고 알아보다 커피를 좋아하니까 배우게 되었다.",
+          "date": "2022-10-18",
+          "time": "15:06:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "저도 바리스타 학원에 내일 당장 등록하러 가야겠어요!",
+          "summary": "나는 바리스타학원에 등록하겠다.",
+          "date": "2022-10-18",
+          "time": "15:07:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "잘 한번 알아보세요~ 저는 일이 생겨서 이만 나가볼게요 다음에 다시 대화 나눠요!",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "15:07:58",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 커피를 마시려고 하고 있다",
+          "나는 커피를 배워 보고 싶다",
+          "나는 바리스타 학원에 등록하러 가려한다",
+          "나는 바리스타학원에 등록하겠다."
+        ],
+        "speaker2": [
+          "나는 커피에 관심이 생겨 주말에 다니는 바리스타 학원을 등록했다.",
+          "나는 주말 오전에 바리스타 학원을 다니고 있다.",
+          "나는 회사일에 너무 치여있어서 취미라도 가져보려고 알아보다 커피를 좋아하니까 배우게 되었다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다",
+          "나는 CCM 음악을 별로 안 좋아한다",
+          "나는 요즘 타인의 시선이 의식된다",
+          "나는 아이를 키우고 있다. 나는 가장 기쁘던 때는 아이의 편지를 받았을 때이다.",
+          "나는 반려동물을 키우지 않는다",
+          "나는 앵무새를 본 적이 없다",
+          "나는 앵무새가 귀여울 것 같다",
+          "나는 커피를 좋아한다",
+          "나는 라테를 좋아한다",
+          "나는 콜드 브루 라테를 좋아한다",
+          "나는 에스프레소에 도전해 보고 있다",
+          "나는 에스프레소 바가 핫하다는 걸 알고 있다"
+        ],
+        "speaker2": [
+          "나는 40대 여성이다.",
+          "나는 달리기가 취미이다.",
+          "나는 대기업 과장이다.",
+          "나는 앵무새 한 마리를 키우고 있다.",
+          "나는 앵무새가 귀엽고 말도 잘 따라하고 가끔 대들어서 혼자 화낼때도 있다.",
+          "나는 앵무새와 아침인사를 한다.",
+          "나는 커피를 좋아한다.",
+          "나는 드립 커피를 좋아한다.",
+          "나는 여름엔 콜드 브루를 마신다.",
+          "나는 에스프레소를 못 먹는다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00088-3",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "주"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00088-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "벌써 5주나 지났네요~~ 잘 지내셨나요?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "15:11:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "벌써 그렇게 되었나요? 저는 커피 자격증 따고 신나 하던 중이예요 하하 학원은 가셨나요?",
+          "summary": "나는 커피 자격증을 땄다.",
+          "date": "2022-10-18",
+          "time": "15:12:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "네네 우선 상담만 받았고 아마 다음주 월요일부터 갈 것 같아요!!",
+          "summary": "나는 커피학원을 다음주 월요일 부터 다닌다.",
+          "date": "2022-10-18",
+          "time": "15:13:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "그러시군요~ 저는 벌벌 떨면서 시험을 봐서 떨어질줄 알았는데 다행히 붙었어요 하하 그래서 그런지 요즘 먹는 커피가 더 맛있게 느껴져요!!",
+          "summary": "나는 바리스타 시험에 붙었다.",
+          "date": "2022-10-18",
+          "time": "15:14:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "와 벌써 시험까지 보셨군요!! 저도 빨리 수업 듣고 싶네요.",
+          "summary": "나는 커피 수업을 빨리 듣고 싶다",
+          "date": "2022-10-18",
+          "time": "15:18:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "수업들으시면 새로운 커피도 많이 맛보게 되실 거예요~ 저는 요즘 아포가토에 푹 빠져있어요 하하",
+          "summary": "나는 요즘 아포가토에 빠져있다.",
+          "date": "2022-10-18",
+          "time": "15:19:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "아이스크림을 넣어서 만드는 커피 말씀하시는거죠?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "15:20:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "맞아요! 에스프레소를 못마셨는데 이렇게 먹으니 달콤하고 맛있더라고요! ",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "15:20:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "맞아요 에스프레소 못 먹는 사람한테 좋은 방법이겠어요. 학원에서 정말 많은 걸 배우시네요!",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "15:22:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "선생님께서 가끔 잘 안먹어 보는 커피를 만들어 주시더라고요~그래서 맛보게 되었어요!  참 커피 배우시면 라떼 아트도 해보실 테니 그것도 재미있으실거예요",
+          "summary": " 나는 라테아트가 재밌다.",
+          "date": "2022-10-18",
+          "time": "15:23:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "라떼 아트까지 배우나요? 와 생각보다 과정이 디테일 한걸요??",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "15:23:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "정말 섬세하게 배우는건 더 다른 과정이지만 하트정도는 배워요 하하 아마 신기하면서도 처음엔 힘드실 수 있어요",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "15:24:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41327",
+          "participantID": "3514",
+          "utterance": "저도 빨리 배워보고 싶어요. 저는 아트까지 배우는 건지 몰랐네요",
+          "summary": "나는 커피를 빨리 배워 보고 싶다",
+          "date": "2022-10-18",
+          "time": "15:29:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42000",
+          "participantID": "3172",
+          "utterance": "재미 있으실거예요~커피도 더 맛있고요^^ 저 이만 일이 있어서 나가볼게요~ 수업잘 들으세요",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "15:30:36",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 커피학원을 다음주 월요일 부터 다닌다.",
+          "나는 커피 수업을 빨리 듣고 싶다",
+          "나는 커피를 빨리 배워 보고 싶다"
+        ],
+        "speaker2": [
+          "나는 커피 자격증을 땄다.",
+          "나는 바리스타 시험에 붙었다.",
+          "나는 요즘 아포가토에 빠져있다.",
+          " 나는 라테아트가 재밌다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다",
+          "나는 CCM 음악을 별로 안 좋아한다",
+          "나는 요즘 타인의 시선이 의식된다",
+          "나는 아이를 키우고 있다. 나는 가장 기쁘던 때는 아이의 편지를 받았을 때이다.",
+          "나는 반려동물을 키우지 않는다",
+          "나는 앵무새를 본 적이 없다",
+          "나는 앵무새가 귀여울 것 같다",
+          "나는 커피를 좋아한다",
+          "나는 라테를 좋아한다",
+          "나는 콜드 브루 라테를 좋아한다",
+          "나는 에스프레소에 도전해 보고 있다",
+          "나는 에스프레소 바가 핫하다는 걸 알고 있다",
+          "나는 커피를 마시려고 하고 있다",
+          "나는 커피를 배워 보고 싶다",
+          "나는 바리스타 학원에 등록하러 가려한다",
+          "나는 바리스타학원에 등록하겠다."
+        ],
+        "speaker2": [
+          "나는 40대 여성이다.",
+          "나는 달리기가 취미이다.",
+          "나는 대기업 과장이다.",
+          "나는 앵무새 한 마리를 키우고 있다.",
+          "나는 앵무새가 귀엽고 말도 잘 따라하고 가끔 대들어서 혼자 화낼때도 있다.",
+          "나는 앵무새와 아침인사를 한다.",
+          "나는 커피를 좋아한다.",
+          "나는 드립 커피를 좋아한다.",
+          "나는 여름엔 콜드 브루를 마신다.",
+          "나는 에스프레소를 못 먹는다.",
+          "나는 커피에 관심이 생겨 주말에 다니는 바리스타 학원을 등록했다.",
+          "나는 주말 오전에 바리스타 학원을 다니고 있다.",
+          "나는 회사일에 너무 치여있어서 취미라도 가져보려고 알아보다 커피를 좋아하니까 배우게 되었다."
+        ]
+      }
+    }
+  ]
+}

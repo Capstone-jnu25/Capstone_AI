@@ -1,0 +1,685 @@
+{
+  "FileInfo": {
+    "filename": "K3-00022-CL51437-CP41827-15-04-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4032",
+      "gender": "여성",
+      "age": "60대 이상",
+      "occupation": "서비스직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "3975",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00022"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "51437",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 눈치가 없는 편이다",
+        "내 인생에서 가장 설레던 때는 자녀들과 여행을 할 때이다",
+        "나는 블루베리를 안 먹는다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "41827",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나는 만화가이다",
+        "나는 추운 날씨를 싫어한다",
+        "나는 SF 영화를 가끔 본다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "15-04",
+    "topicType": "시사/사회>타국가이슈(해외)",
+    "topicTitle": "백신"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "3-00022-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "안녕하세요. 저는 50대 여성입니다. 반갑습니다. 자기 소개 부탁드려요.",
+          "summary": "나는 50대 여성이다",
+          "date": "2022-11-01",
+          "time": "09:01:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "안녕하세요 저는 40대 여성입니다",
+          "summary": "나는 40대 여성이다.",
+          "date": "2022-11-02",
+          "time": "15:14:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "혹시 어떤 일을 하고 계신지 여쭤봐도 될까요? 제가 눈치가 없는 편이라 혹시 실례가 되지 않는다면, 어떤 일을 하시는 지가 궁금해서요.",
+          "summary": "나는 눈치가 없다",
+          "date": "2022-11-02",
+          "time": "20:56:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "저는 만화가예요 님은 무슨 일 하시나요?",
+          "summary": "나는 만화가이다.",
+          "date": "2022-11-03",
+          "time": "23:15:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "저는 여행 유튜버에요. 그래서 여행을 많이 다니는데, 제 인생에서 가장 설레던 때는 자녀들과 여행을 할 때 였던거 같아요.",
+          "summary": "나는 여행 유튜버이고 인생에서 가장 설레던 때는 자녀들과 여행을 할 때이다",
+          "date": "2022-11-03",
+          "time": "23:16:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "아 그러시군요 저는 여행보다는 집에 있는 걸 좋아해요. 저는 추운 날씨를 싫어하거든요",
+          "summary": "나는 추운 날씨를 싫아하고, 집에 있는 걸 좋아한다.",
+          "date": "2022-11-04",
+          "time": "14:46:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "맞아요. 추운날씨는 돌아다니기가 힘들죠. 저도 주로 겨울에는 집에 있는거 같아요. 혹시 좋아하는 음식 있으세요?",
+          "summary": "나는 겨울에 집에서 지낸다",
+          "date": "2022-11-04",
+          "time": "15:22:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "저는 로제파스타를 즐겨먹어요 님은요?",
+          "summary": "나는 로제 파스타를 즐겨 먹는다.",
+          "date": "2022-11-04",
+          "time": "15:26:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "저도 로제파스타를 많이 좋아하는데, 공통된 부분이 있네요. 근데 저는 요즘 블루베리를 안 먹어요.",
+          "summary": "나는 로제 파스타를 좋아하고 요즘 블루베리를 안 먹는다",
+          "date": "2022-11-04",
+          "time": "15:36:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "블루베리 정말 맛있는데 아쉽네요 저는 SF 영화를 가끔봐요 좋아하는 영화가 있으신가요?",
+          "summary": "나는 블루베리가 맛있고, sf영화를 가끔 본다.",
+          "date": "2022-11-04",
+          "time": "15:39:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "저는 액션 영화를 좋아해요. 최근에 노바디라는 영화를 봤어요.",
+          "summary": "나는 액션 영화를 좋아한다",
+          "date": "2022-11-04",
+          "time": "15:50:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "노바디 영화 참 재밌죠 저도 인상깊게 보았어요",
+          "summary": "나는 노바디라는 영화를 봤다.",
+          "date": "2022-11-04",
+          "time": "21:53:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "혹시 자녀는 몇명인지 여쭤봐도 될까요?",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "22:28:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "두 명이예요 마침 학교 끝날 시간이라 가봐야할 것 같네여",
+          "summary": "나는 자녀가 두 명이다.",
+          "date": "2022-11-05",
+          "time": "01:02:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "네 그럼 다음에 또 연락해요.",
+          "summary": "",
+          "date": "2022-11-05",
+          "time": "07:03:02",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다",
+          "나는 눈치가 없다",
+          "나는 여행 유튜버이고 인생에서 가장 설레던 때는 자녀들과 여행을 할 때이다",
+          "나는 겨울에 집에서 지낸다",
+          "나는 로제 파스타를 좋아하고 요즘 블루베리를 안 먹는다",
+          "나는 액션 영화를 좋아한다"
+        ],
+        "speaker2": [
+          "나는 40대 여성이다.",
+          "나는 만화가이다.",
+          "나는 추운 날씨를 싫아하고, 집에 있는 걸 좋아한다.",
+          "나는 로제 파스타를 즐겨 먹는다.",
+          "나는 블루베리가 맛있고, sf영화를 가끔 본다.",
+          "나는 노바디라는 영화를 봤다.",
+          "나는 자녀가 두 명이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00022-1",
+      "prevTimeInfo": {
+        "timeNum": "6",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "3-00022-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "6일만에 다시 연락드려요. 최근에 뉴스를 보니까 아직도 해외는 코로나가 심한거 같더라고요.",
+          "summary": "나는 해외의 코로나가 심하다는 뉴스를 최근에 보았다.\n",
+          "date": "2022-11-05",
+          "time": "09:19:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "아 그래요 거의 일주일이 흘렀군요 저는 최근에 코로나 백신 접종을 했어요",
+          "summary": "나는 최근에 코로나 백신 접종을 했다.",
+          "date": "2022-11-05",
+          "time": "11:46:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "저도 백신을 어제 3차까지 맞았어요. 해외에서 원숭이 두창도 번진다고 번진다고 하던데, 뉴스 보신적 있으신가요? 코로나도 있는데 원숭이 두창이라니 세상이 멸망하려나 봐요.",
+          "summary": "나는 어제 백신 3차를 맞았다. 나는 원숭이 두창도 번진다는 뉴스를 보았다.",
+          "date": "2022-11-05",
+          "time": "12:39:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "그래서 저는 백신은 꼭 맞는 편입니다 바이러스가 너무 무서워요 백신을 신뢰하시나요?",
+          "summary": "나는 백신을 꼭 맞는 편이다.",
+          "date": "2022-11-05",
+          "time": "13:49:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "저는 백신을 맞았는데도, 코로나에 걸렸거든요. 백신을 완전히 신뢰하진 않아요. 혹시 원숭이 두창도 백신이 있나요?",
+          "summary": "나는 백신을 맞았는데도 코로나에 걸려서 백신을 완전히 신뢰하진 않는다\n",
+          "date": "2022-11-05",
+          "time": "17:03:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "그건 잘 모르겠어요 백신이 맞으면 덜 아프다고는 하던데 확신하기는 어렵네요 저는 백신 연구가 더 활발해져야한다고 생각합니다.",
+          "summary": "나는 백신 연구가 더 활발해져야 한다고 생각한다.",
+          "date": "2022-11-05",
+          "time": "19:07:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "저도 백신 연구가 아주 중요하다고 생각해요. 대부분의 백신이 미국에서 생산되니까요. 우리나라도 자체 개발을 했으면 좋겠어요.",
+          "summary": "저는 백신 연구가 아주 중요하다고 생각한다.",
+          "date": "2022-11-05",
+          "time": "19:08:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "아 저도요 저는 한국도백신의 연구는 늘 하고 있지만 선진국을 따를 수 밖에 없다고 생각해요",
+          "summary": "나는 한국의 백신 연구는 선진국을 따를 수 없다고 생각한다.",
+          "date": "2022-11-05",
+          "time": "19:15:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "코로나 백신을 생산하는 국가가 어디 어디 있죠? 저는 미국, 중국만 알고 있는데, 혹시 아시는데 있으세요?",
+          "summary": "나는 미국 중국에서 코로나 백신을 생산하는 것을 알고 있다.",
+          "date": "2022-11-05",
+          "time": "19:17:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "음 독일이나 벨기에 영국등 유럽국가도 있는 것 같네요 ",
+          "summary": "",
+          "date": "2022-11-05",
+          "time": "19:18:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "제가 모르던 다양한 국가에서 백신을 생산하네요. 혹시 감기 백신도 해외 생산인가요?",
+          "summary": "나는 다양한 국가에서 백신을 생산하는지 모르고 있었다",
+          "date": "2022-11-05",
+          "time": "19:20:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "저는 지난주에 독감 백신도 접종하였어요. 혹시 독감 맞으셨나요? 독감 백신 또한 국내와 해외 고를 수가 있어요",
+          "summary": "나는 지난주에 독감 백신을 접종하였다.",
+          "date": "2022-11-05",
+          "time": "19:23:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "저는 오늘 독감 백신을 맞았는데, 제가 맞은 백신이 국내꺼인지 해외꺼인지 물어보지도 않았네요.",
+          "summary": "나는 오늘 독감 백신을 맞았다",
+          "date": "2022-11-05",
+          "time": "19:34:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "아 한 번 확인해보세요 저는 이만 가봐야할 것 같아요",
+          "summary": "",
+          "date": "2022-11-05",
+          "time": "19:36:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "네 다음에 연락 다시 주세요.",
+          "summary": "",
+          "date": "2022-11-05",
+          "time": "19:40:38",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 해외의 코로나가 심하다는 뉴스를 최근에 보았다.\n",
+          "나는 어제 백신 3차를 맞았다.",
+          "나는 원숭이 두창도 번진다는 뉴스를 보았다.",
+          "나는 백신을 맞았는데도 코로나에 걸려서 백신을 완전히 신뢰하진 않는다\n",
+          "저는 백신 연구가 아주 중요하다고 생각한다.",
+          "나는 미국 중국에서 코로나 백신을 생산하는 것을 알고 있다.",
+          "나는 다양한 국가에서 백신을 생산하는지 모르고 있었다",
+          "나는 오늘 독감 백신을 맞았다"
+        ],
+        "speaker2": [
+          "나는 최근에 코로나 백신 접종을 했다.",
+          "나는 백신을 꼭 맞는 편이다.",
+          "나는 백신 연구가 더 활발해져야 한다고 생각한다.",
+          "나는 한국의 백신 연구는 선진국을 따를 수 없다고 생각한다.",
+          "나는 지난주에 독감 백신을 접종하였다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다",
+          "나는 눈치가 없다",
+          "나는 여행 유튜버이고 인생에서 가장 설레던 때는 자녀들과 여행을 할 때이다",
+          "나는 겨울에 집에서 지낸다",
+          "나는 로제 파스타를 좋아하고 요즘 블루베리를 안 먹는다",
+          "나는 액션 영화를 좋아한다"
+        ],
+        "speaker2": [
+          "나는 40대 여성이다.",
+          "나는 만화가이다.",
+          "나는 추운 날씨를 싫아하고, 집에 있는 걸 좋아한다.",
+          "나는 로제 파스타를 즐겨 먹는다.",
+          "나는 블루베리가 맛있고, sf영화를 가끔 본다.",
+          "나는 노바디라는 영화를 봤다.",
+          "나는 자녀가 두 명이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00022-2",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "17",
+      "numberOfTurns": "8",
+      "sessionID": "3-00022-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "안녕하세요. 저번에 대화를 마치고 또 4일이 지났네요.",
+          "summary": "",
+          "date": "2022-11-05",
+          "time": "20:08:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "네 그렇네요 4일만에 날씨가 많이 추워졌어요",
+          "summary": "",
+          "date": "2022-11-05",
+          "time": "22:41:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "네. 그리고 오늘 뉴스를 보니까, 코로나가 다시 많이 발생을 하고 있더라고요. 그래서 오늘 백신을 맞고 왔어요.",
+          "summary": "나는 코로나가 다시 많이 발생한다는 뉴스를 보고 백신을 맞고 왔다",
+          "date": "2022-11-05",
+          "time": "22:44:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "아 백신을 또 맞으셨나요? 저는 주사가 무섭더라고요",
+          "summary": "나는 주사가 무섭다.",
+          "date": "2022-11-05",
+          "time": "22:44:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "네 이번에는 4차로 접종 맞았어요. 안 맞을려고 했는데, 생존하기 위해서는 맞아야 될 꺼 같더라고요.",
+          "summary": "나는 코로나 백신 4차 접종을 하였다",
+          "date": "2022-11-05",
+          "time": "22:45:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "맞아요 주사가 무서워도 저도 접종하게 되더라고요 백신 맞고 나서 저는 좀 아팠어요",
+          "summary": "나는 백신을 맞고 나서 아팠다.",
+          "date": "2022-11-05",
+          "time": "22:47:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "저도 백신 맞고 후유증인지, 어지럽고, 구토증세도 있고, 열도 나고 그랬어요. 휴식이 필요한거 같아요.",
+          "summary": "나는 백신을 맞고 구토 어지러움 열 등의 후유증이 있었다",
+          "date": "2022-11-05",
+          "time": "22:48:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "저도 백신 접종 후에는 일정을 잡지 않아요 항상 비타민을 신경써서 복용하고요",
+          "summary": "나는 백신 접종 후 비타민을 복용하고 있다.",
+          "date": "2022-11-05",
+          "time": "22:49:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "비타민씨가 도움이 되나요? 저는 접종 후 비타민씨를 안먹었었는데, 이번 기회에 먹어봐야겠어요.",
+          "summary": "나는 백신 접종 후에 비타민씨를 안 먹었다",
+          "date": "2022-11-05",
+          "time": "22:50:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "네 드셔보시면 좀 괜찮아지실 것 같아요. 저는 남을 챙겨주는 것을 좋아해서 가까이 사시면 비타민을 좀 챙겨드렸을텐데요",
+          "summary": "나는 남을 챙기는 걸 좋아한다.",
+          "date": "2022-11-05",
+          "time": "22:51:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "마음만으로도 너무 감사하네요. 지금 뉴스를 보니까 해외에서는 백신 부작용으로 두드러기랑 심근염이 많이 발생했다고 하네요. 혹시 다른 증상은 없으세요?",
+          "summary": "나는 백신 부작용에 관한 뉴스를 보았다",
+          "date": "2022-11-05",
+          "time": "22:55:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "네 다른 것은 없었어요 저는 백신 접종 후에 낮잠을 조금씩 자기도 해요",
+          "summary": "나는 백신 접종 후 낮잠을 조금씩 잔다.",
+          "date": "2022-11-05",
+          "time": "22:56:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "해외에서 심근염으로 사망했다는 뉴스 기사를 읽으니 너무 무섭네요. 이번 백신은 어느 회사껄로 맞으셨어요?",
+          "summary": "나는 백신 부작용으로 사망했다는 뉴스가 무서웠다",
+          "date": "2022-11-05",
+          "time": "22:58:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "아 저는 화이자요 저는 쭉 화이자를 맞아왔어요",
+          "summary": "나는 쭉 화이자 백신을 맞았다.",
+          "date": "2022-11-05",
+          "time": "22:59:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "저는 모더나를 맞았어요. 모더나가 부작용이 그나마 적다는 기사를 봤거든요.",
+          "summary": "나는 코로나 백신 중 모더나를 접종하였다",
+          "date": "2022-11-05",
+          "time": "23:00:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41827",
+          "participantID": "3975",
+          "utterance": "네네 저는 약속이 있어 그만 가봐야해여",
+          "summary": "나는 약속이 있다.",
+          "date": "2022-11-06",
+          "time": "01:00:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51437",
+          "participantID": "4032",
+          "utterance": "네 그럼 다음에 또 연락해요.",
+          "summary": "",
+          "date": "2022-11-06",
+          "time": "01:11:08",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 코로나가 다시 많이 발생한다는 뉴스를 보고 백신을 맞고 왔다",
+          "나는 코로나 백신 4차 접종을 하였다",
+          "나는 백신을 맞고 구토 어지러움 열 등의 후유증이 있었다",
+          "나는 백신 접종 후에 비타민씨를 안 먹었다",
+          "나는 백신 부작용에 관한 뉴스를 보았다",
+          "나는 백신 부작용으로 사망했다는 뉴스가 무서웠다",
+          "나는 코로나 백신 중 모더나를 접종하였다"
+        ],
+        "speaker2": [
+          "나는 주사가 무섭다.",
+          "나는 백신을 맞고 나서 아팠다.",
+          "나는 백신 접종 후 비타민을 복용하고 있다.",
+          "나는 남을 챙기는 걸 좋아한다.",
+          "나는 백신 접종 후 낮잠을 조금씩 잔다.",
+          "나는 쭉 화이자 백신을 맞았다.",
+          "나는 약속이 있다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다",
+          "나는 눈치가 없다",
+          "나는 여행 유튜버이고 인생에서 가장 설레던 때는 자녀들과 여행을 할 때이다",
+          "나는 겨울에 집에서 지낸다",
+          "나는 로제 파스타를 좋아하고 요즘 블루베리를 안 먹는다",
+          "나는 액션 영화를 좋아한다",
+          "나는 해외의 코로나가 심하다는 뉴스를 최근에 보았다.\n",
+          "나는 어제 백신 3차를 맞았다.",
+          "나는 원숭이 두창도 번진다는 뉴스를 보았다.",
+          "나는 백신을 맞았는데도 코로나에 걸려서 백신을 완전히 신뢰하진 않는다\n",
+          "저는 백신 연구가 아주 중요하다고 생각한다.",
+          "나는 미국 중국에서 코로나 백신을 생산하는 것을 알고 있다.",
+          "나는 다양한 국가에서 백신을 생산하는지 모르고 있었다",
+          "나는 오늘 독감 백신을 맞았다"
+        ],
+        "speaker2": [
+          "나는 40대 여성이다.",
+          "나는 만화가이다.",
+          "나는 추운 날씨를 싫아하고, 집에 있는 걸 좋아한다.",
+          "나는 로제 파스타를 즐겨 먹는다.",
+          "나는 블루베리가 맛있고, sf영화를 가끔 본다.",
+          "나는 노바디라는 영화를 봤다.",
+          "나는 자녀가 두 명이다.",
+          "나는 최근에 코로나 백신 접종을 했다.",
+          "나는 백신을 꼭 맞는 편이다.",
+          "나는 백신 연구가 더 활발해져야 한다고 생각한다.",
+          "나는 한국의 백신 연구는 선진국을 따를 수 없다고 생각한다.",
+          "나는 지난주에 독감 백신을 접종하였다."
+        ]
+      }
+    }
+  ]
+}

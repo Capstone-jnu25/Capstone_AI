@@ -1,0 +1,859 @@
+{
+  "FileInfo": {
+    "filename": "K4-00036-CL01711-CP01708-18-12-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0527",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0533",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00036"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "01711",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 거주지는 경기도이다.",
+        "나는 농구를 자주 한다.",
+        "나는 맛있는 음식을 먹으면 기분이 좋아진다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "01708",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 거주지는 경기도이다.",
+        "나는 깐풍기를 싫어한다.",
+        "나는 수화 통역가이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "18-12",
+    "topicType": "상거래 전반",
+    "topicTitle": "아울렛"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00036-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "안녕하세요 저는 20대 여자입니다 반가워요.",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-10-12",
+          "time": "00:16:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "처음뵙겠습니다 저는 20대 여자입니다 반가워요^^",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-10-12",
+          "time": "00:17:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "오 같은 여성을 만나니 대화가 수월하겠군요!",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:17:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "그러게요 심지거 같은 또래라 너무 반가운데요?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:17:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "그러니까요 우리 편하게 친구라고 불러도 될까요?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:18:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "좋아요! 그럼 자연스럽게 말놓는거 어떄? 친구잖아^^",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:18:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "오 화끈한 친구군^^ 너는 어디에 거주하고 있어?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:18:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "나는 경기도에 거주하고있어! 친구는?",
+          "summary": "나의 거주지는 경기도이다.",
+          "date": "2022-10-12",
+          "time": "00:18:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "오그래? 나도 경기도에 사는데 신기하다 우리친구야^^",
+          "summary": "나의 거주지는 경기도이다.",
+          "date": "2022-10-12",
+          "time": "00:19:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "그러게 같은 경기도 사람이였구나? 친구는 직장다녀?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:19:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "나는 직장은 안다니고~ 운동선수야 하하 너는?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:19:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "나는 수화 통역가야! 우와 어떤운동선수야 멋진데?",
+          "summary": "나는 수화 통역가이다.",
+          "date": "2022-10-12",
+          "time": "00:19:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "나는 농구선수야 농구를 즐겨하다보니~ 근데 와 너 멋있는 일을한다?",
+          "summary": "나는 농구를 자주 한다.",
+          "date": "2022-10-12",
+          "time": "00:20:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "그렇구나! 그럼 너 국가대표야? 영광인걸?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:20:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "그정도는 아니야~ 아직 아마추어야~ 나 연습좀 하고올게.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:20:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "운동하려면 자기관리엄청 잘해야한다던데 멋지다 나 잠깐 통화좀하고올게^^",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:20:40",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나의 거주지는 경기도이다.",
+          "나는 농구를 자주 한다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나의 거주지는 경기도이다.",
+          "나는 수화 통역가이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00036-1",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00036-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "미안~ 친구야~ 오래걸렸지 통화는 끊었어?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:20:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "응 그럼^^ 애인하고 통화좀하느라고~ 보고싶다네 자꾸.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:21:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "와 ,, 너 애인도 있어? 부럽구나.. 만난지 얼마나 됐어?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:21:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "이제 일년정도 만났어! 친구는 남친있니?",
+          "summary": "나는 애인과 일 년 정도 만났다.",
+          "date": "2022-10-12",
+          "time": "00:21:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "나는 나보다 키큰남자를 만난적이 없어서.. 애인을 본적이 없어 어딨어?",
+          "summary": "나는 애인이 없다.",
+          "date": "2022-10-12",
+          "time": "00:21:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "진짜? 너 키가 몇인데 너보다 키큰남자를 만난적이없어?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:22:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "나 이미터 조금 안돼~ 너는 남자친구랑 키 차이 많이나?",
+          "summary": "나는 키가 이미터 조금 안된다.",
+          "date": "2022-10-12",
+          "time": "00:22:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "크구나~ 나는 남친이랑 12센치 차이나는거같은데?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:22:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "진짜 부러운 연애다~ 나는 키때문에 남자옷도 잘 안맞아~",
+          "summary": "나는 키가 커서 남자 옷도 안 맞는다.",
+          "date": "2022-10-12",
+          "time": "00:22:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "진짜? 그럼 너 이상형이 키큰남자야? 뭐야?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:23:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "나는 나보다 일센티라도 키큰남자야~ 그리고 내 소원이 애인이랑 쇼핑해보기야.",
+          "summary": "나는 소원이 애인이랑 쇼핑하는 것이다.",
+          "date": "2022-10-12",
+          "time": "00:23:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "그럼 너 키커서 옷사는것도 좀 스트레스받겠구나?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:23:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "당연하지.. 아울렛에가도 맞는 옷이없어서 못사입어~",
+          "summary": "나는 아웃렛에도 맞는 옷이 없다.",
+          "date": "2022-10-12",
+          "time": "00:23:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "진짜 그럼 옷 맞춤으로 입어? 어떻게 돈많이들겠구나?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:24:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "나잠깐 통화좀 하고올게~ 기다려줘.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:24:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "알겠어 편하게 통화하고와 기다리고있을게^^",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:24:18",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 애인이 없다.",
+          "나는 키가 이미터 조금 안된다.",
+          "나는 키가 커서 남자 옷도 안 맞는다.",
+          "나는 소원이 애인이랑 쇼핑하는 것이다.",
+          "나는 아웃렛에도 맞는 옷이 없다."
+        ],
+        "speaker2": [
+          "나는 애인과 일 년 정도 만났다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나의 거주지는 경기도이다.",
+          "나는 농구를 자주 한다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나의 거주지는 경기도이다.",
+          "나는 수화 통역가이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00036-2",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00036-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "미안 오래걸렸지~ 우리 어디까지 얘기했지?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:24:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "너 옷맞춤으로 입냐고 내가 물어봤어!",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:24:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "맞아~ 나는 옷하나사도 진짜 비용이 많이들어~ 맞춤제작때문에.",
+          "summary": "나는 옷 할 때 비용이 많이 든다.",
+          "date": "2022-10-12",
+          "time": "00:24:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "진짜? 남자옷사서입기도해? 나는 아울렛에서 쇼핑자주하는데 ㅠㅠ.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:25:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "맞아 그렇기도해 너는 그럼 쇼핑을 어느정도해? 우리 경기도 살면 아울렛많잖아~",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:25:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "맞아 남양주아울렛으로 가는데 거기는 반려동물도 동반가능하다?",
+          "summary": "나는 남양주 아웃렛을 자주 간다.",
+          "date": "2022-10-12",
+          "time": "00:25:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "아그래? 그건 진짜 좋다~ 너 강아지를 키우나보구나.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:25:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "그래서 우리 강아지 개모차 하나 사줬어 태우고 같이 쇼핑다닐려고!",
+          "summary": "나는 개모차를 구입했다.",
+          "date": "2022-10-12",
+          "time": "00:26:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "와 진짜 누가 그걸끌고다니나했더니~ 여깄었네.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:26:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "아울렛에서 대여도 해주기도하는데 나는 강아지데리고 여기저기많이다녀서 하나 장만했어!",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:26:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "아 대여도 해주는구나~ 신기하다 진짜 아울렛은 편리하긴해~",
+          "summary": "나는 아웃렛 쇼핑이 편하다.",
+          "date": "2022-10-12",
+          "time": "00:26:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "맞아! 가격도 너무 착해!세일을많이해서 그런가! 나는 할인해서 사면 기분이 그렇게 좋더라.",
+          "summary": "나는 할인받아서 사면 기분이 좋다.",
+          "date": "2022-10-12",
+          "time": "00:27:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "맞아~ 나도 세일기간을 노려보는데 맞는 옷이 없어서 항상 빈손으로와.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:27:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "진짜 근데 옷말고도 살거많잖아! 나는 최근에 믹서기도 구입했어!",
+          "summary": "나는 최근에 믹서기를 구입했다.",
+          "date": "2022-10-12",
+          "time": "00:27:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "그래? 우와 친구야 나이제 끝나서 집가서 씻고 쉬고 다음에 연락할게~",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:27:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "삼만원주고 샀는데 잘샀지않아? 알겠어 이따가 연락줘^^",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:28:02",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 옷 할 때 비용이 많이 든다.",
+          "나는 아웃렛 쇼핑이 편하다."
+        ],
+        "speaker2": [
+          "나는 남양주 아웃렛을 자주 간다.",
+          "나는 개모차를 구입했다.",
+          "나는 할인받아서 사면 기분이 좋다.",
+          "나는 최근에 믹서기를 구입했다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나의 거주지는 경기도이다.",
+          "나는 농구를 자주 한다.",
+          "나는 애인이 없다.",
+          "나는 키가 이미터 조금 안된다.",
+          "나는 키가 커서 남자 옷도 안 맞는다.",
+          "나는 소원이 애인이랑 쇼핑하는 것이다.",
+          "나는 아웃렛에도 맞는 옷이 없다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나의 거주지는 경기도이다.",
+          "나는 수화 통역가이다.",
+          "나는 애인과 일 년 정도 만났다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00036-3",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00036-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "친구야~ 뭐해? 나 우울해서 연락했어~",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:28:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "왜우울해! 무슨일있어? 누가그랬어 누구야!",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:28:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "오늘 경기하는데 선수로 선발이 안됐거든~ 그래서 우울했어.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:28:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "정말? 너무 속상하겠네 기분전환해야지 뭘로 기분전환하지?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:28:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "나는 맛있는 음식을 먹으면 기분이 좋아지거든~",
+          "summary": "나는 맛있는 음식을 먹으면 기분이 좋아진다.",
+          "date": "2022-10-12",
+          "time": "00:28:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "진짜? 너 음식뭐좋아해? 내가 사줄게 이쒸~",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:29:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "우와 감동 ㅠㅠ 나는 짜장면 좋아해~ 내가 중식 킬러거든.",
+          "summary": "나는 중식을 좋아한다.",
+          "date": "2022-10-12",
+          "time": "00:29:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "아정말? 나는 깐풍기 싫어하는데 깐풍기 먹는건아니지?",
+          "summary": "나는 깐풍기를 싫어한다.",
+          "date": "2022-10-12",
+          "time": "00:29:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "깐풍기는... 너가 싫어한다면 나는 안먹어볼게^^",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:30:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "근데 너는 짜장면이좋아 짬뽕이좋아?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:30:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "야 그거 엄마가 좋아 아빠가 좋아잖아.. 못골라.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:30:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "그래? 나는 엄마가좋아아빠가 좋아 대답하기쉬운데?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:30:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "그냥 짬짜면 먹으면 안돼? 둘다 좋단말야!",
+          "summary": "나는 짬뽕, 짜장면 둘 다 좋다.",
+          "date": "2022-10-12",
+          "time": "00:30:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "그런대답은 없어 둘중에 하나만골라봐^^",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:30:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01711",
+          "participantID": "0527",
+          "utterance": "나그럼 짜장면^^ 말나온김에 @브랜드명1@좀 보고올게~ 덕분에 기분이 좋아졌어.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:31:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01708",
+          "participantID": "0533",
+          "utterance": "알겠어! 맛있는거 먹고 기분풀어! 그럼 또 연락하자^^",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "00:31:16",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 맛있는 음식을 먹으면 기분이 좋아진다.",
+          "나는 중식을 좋아한다.",
+          "나는 짬뽕, 짜장면 둘 다 좋다."
+        ],
+        "speaker2": [
+          "나는 깐풍기를 싫어한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나의 거주지는 경기도이다.",
+          "나는 농구를 자주 한다.",
+          "나는 애인이 없다.",
+          "나는 키가 이미터 조금 안된다.",
+          "나는 키가 커서 남자 옷도 안 맞는다.",
+          "나는 소원이 애인이랑 쇼핑하는 것이다.",
+          "나는 아웃렛에도 맞는 옷이 없다.",
+          "나는 옷 할 때 비용이 많이 든다.",
+          "나는 아웃렛 쇼핑이 편하다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나의 거주지는 경기도이다.",
+          "나는 수화 통역가이다.",
+          "나는 애인과 일 년 정도 만났다.",
+          "나는 남양주 아웃렛을 자주 간다.",
+          "나는 개모차를 구입했다.",
+          "나는 할인받아서 사면 기분이 좋다.",
+          "나는 최근에 믹서기를 구입했다."
+        ]
+      }
+    }
+  ]
+}

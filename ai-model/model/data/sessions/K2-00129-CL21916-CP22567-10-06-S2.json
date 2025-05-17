@@ -1,0 +1,456 @@
+{
+  "FileInfo": {
+    "filename": "K2-00129-CL21916-CP22567-10-06-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0659",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0670",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00129"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "21916",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 요즘, 가끔 상처를 받는다.",
+        "나는 풍물부 동아리에 참여한다.",
+        "나는 PC게임을 매일 한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22567",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 연인이 있지만 사이가 좋지 않다.",
+        "나는 식물을 키우는 것을 좋아한다.",
+        "나는 SF 영화를 자주 본다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "10-06",
+    "topicType": "여가와 오락>스포츠/레져",
+    "topicTitle": "월드컵"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00129-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21916",
+          "participantID": "0659",
+          "utterance": "안녕하세요? 저는 20대 여자에요.",
+          "summary": "나는 여자이다. 나는 20대이다.",
+          "date": "2022-10-02",
+          "time": "23:32:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22567",
+          "participantID": "0670",
+          "utterance": "안녕하세요? 저는 20대 여자에요.",
+          "summary": "나는 여자이다. 나는 20대이다.",
+          "date": "2022-10-02",
+          "time": "23:33:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21916",
+          "participantID": "0659",
+          "utterance": "반가워요. 지금 뭐하고 계세요?",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "23:34:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22567",
+          "participantID": "0670",
+          "utterance": "저는 식물에 물을 주려고요. 제가 식물 키우는 걸 좋아하거든요.",
+          "summary": "나는 식물을 키우는 것을 좋아한다.",
+          "date": "2022-10-02",
+          "time": "23:35:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21916",
+          "participantID": "0659",
+          "utterance": "그렇군요. 저는 PC 게임을 하려고요. 좋아해서 매 일 해요.",
+          "summary": "나는 PC게임을 매일 한다.",
+          "date": "2022-10-02",
+          "time": "23:36:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22567",
+          "participantID": "0670",
+          "utterance": "오늘 오후에는 뭐 하실 거에요?",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "23:37:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21916",
+          "participantID": "0659",
+          "utterance": "저는 풍물부 동아리에 참여하려고요.",
+          "summary": "나는 풍물부 동아리에 참여한다.",
+          "date": "2022-10-02",
+          "time": "23:38:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22567",
+          "participantID": "0670",
+          "utterance": "그렇군요. 저는 SF 영화를 보려고요. 평소에도 자 주 봐요.",
+          "summary": "나는 SF 영화를 자 주 본다.",
+          "date": "2022-10-02",
+          "time": "23:39:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21916",
+          "participantID": "0659",
+          "utterance": "혹시 이번 주말에 뭐 하실 계획이세요? 저는 최근에 인간관계 때문에 지쳐서 별거 아닌 말에도 쉽게 상처를 받아서 심리상담소에 가보려고요.",
+          "summary": "나는 요즘, 가끔 상처를 받는다.",
+          "date": "2022-10-02",
+          "time": "23:40:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22567",
+          "participantID": "0670",
+          "utterance": "저는 연인이랑 만나서 화해를 하려고요. 최근에 싸워서 사이가 별로 안좋거든요.",
+          "summary": "나는 연인이 있지만 사이가 좋지 않다.",
+          "date": "2022-10-02",
+          "time": "23:41:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21916",
+          "participantID": "0659",
+          "utterance": "그렇군요. 근데 식사는 하셨나요?",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "23:43:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22567",
+          "participantID": "0670",
+          "utterance": "저는 뜨끈한 순대국밥을 먹으려고요.",
+          "summary": "나는 순대국밥을 먹을 생각이다.",
+          "date": "2022-10-02",
+          "time": "23:44:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21916",
+          "participantID": "0659",
+          "utterance": "저는 이제 PC 게임을 하러 가봐야겠네요.",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "23:45:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22567",
+          "participantID": "0670",
+          "utterance": "그렇군요. 그럼 저도 이제 오늘 할 일을 하러 가봐야겠네요.",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "23:46:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21916",
+          "participantID": "0659",
+          "utterance": "나중에 또 연락하기로 해요.",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "23:47:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22567",
+          "participantID": "0670",
+          "utterance": "네. 그렇게 하기로 해요. 좋은 하루 되세요.",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "23:48:11",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 여자이다. 나는 20대이다.",
+          "나는 PC게임을 매일 한다.",
+          "나는 풍물부 동아리에 참여한다.",
+          "나는 요즘, 가끔 상처를 받는다."
+        ],
+        "speaker2": [
+          "나는 여자이다. 나는 20대이다.",
+          "나는 식물을 키우는 것을 좋아한다.",
+          "나는 SF 영화를 자 주 본다.",
+          "나는 연인이 있지만 사이가 좋지 않다.",
+          "나는 순대국밥을 먹을 생각이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00129-1",
+      "prevTimeInfo": {
+        "timeNum": "7",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00129-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21916",
+          "participantID": "0659",
+          "utterance": "안녕하세요? 잠깐 쉬다가 그쪽 생각이 나서 연락했어요. 일 주 일 만이네요.",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "23:50:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22567",
+          "participantID": "0670",
+          "utterance": "쉬는 시간이군요. 하하. 제가 보고 싶으셨나봐요. 저번에 PC 게임은 재밌게 하셨나요?",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "23:51:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21916",
+          "participantID": "0659",
+          "utterance": "네. 그정도 까지는 아니에요. 하하. 농담이에요. 뭐하고 계셨어요?",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "23:52:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22567",
+          "participantID": "0670",
+          "utterance": "저도 잠깐 쉬면서 머리를 식히고 있었어요.",
+          "summary": "나는 잠깐 쉬고 있다.",
+          "date": "2022-10-02",
+          "time": "23:53:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21916",
+          "participantID": "0659",
+          "utterance": "제가 요즘도 신문을 구독해서 아침에 받아서 보는데 오늘 신문 1면 기사 보셨나요?",
+          "summary": "나는 신문을 구독해서 본다.",
+          "date": "2022-10-02",
+          "time": "23:54:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22567",
+          "participantID": "0670",
+          "utterance": "아니요. 저는 신문을 구독하거나 찾아서 보진 않아서 모르겠네요. 무슨 내용이었어요?",
+          "summary": "나는 신문은 딱히 찾아서 보지 않는다.",
+          "date": "2022-10-02",
+          "time": "23:55:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21916",
+          "participantID": "0659",
+          "utterance": "우리나라가 월드컵에서 독 일을 3 대 0 으로 이겼다고 하네요.",
+          "summary": "우리나라가 월드컵에서 독 일을 3대 0으로 이겼다.",
+          "date": "2022-10-02",
+          "time": "23:56:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22567",
+          "participantID": "0670",
+          "utterance": "정말 대단하네요. 우리나라 선수들이 자랑스럽네요.",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "23:57:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21916",
+          "participantID": "0659",
+          "utterance": "독 일에서 모두 1군 선수들이 나온건데 이겼더라고요.",
+          "summary": "독 일은 모두 1군 선수들이 나왔다.",
+          "date": "2022-10-02",
+          "time": "23:58:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22567",
+          "participantID": "0670",
+          "utterance": "우리나라 선수들이 피나는 노력과 연습을 했나봐요.",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "23:59:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21916",
+          "participantID": "0659",
+          "utterance": "두 팀 모두 잘했지만 우리나라 감독이 전략을 잘 짠 것 같아요.",
+          "summary": "",
+          "date": "2022-10-03",
+          "time": "00:00:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22567",
+          "participantID": "0670",
+          "utterance": "저번 경기에 보여준 실력대로만 하면 2002년처럼 4강에 갈 수 있는 것 같네요.",
+          "summary": "",
+          "date": "2022-10-03",
+          "time": "00:01:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21916",
+          "participantID": "0659",
+          "utterance": "땀이 왜 이렇게 나는지 모르겠네요. 시원하게 샤워가 하고 싶네요. 이만 가봐야겠어요.",
+          "summary": "나는 샤워가 하고 싶다.",
+          "date": "2022-10-03",
+          "time": "00:02:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22567",
+          "participantID": "0670",
+          "utterance": "자 주 그러시면 병원에 한번 가보세요.",
+          "summary": "",
+          "date": "2022-10-03",
+          "time": "00:03:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21916",
+          "participantID": "0659",
+          "utterance": "제가 원래 몸에 열이 많아서 그럴 거에요. 걱정해 주셔서 감사합니다.",
+          "summary": "나는 몸에 열이 많다.",
+          "date": "2022-10-03",
+          "time": "00:04:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22567",
+          "participantID": "0670",
+          "utterance": "그렇군요. 그럼 다음에 또 뵈요.",
+          "summary": "",
+          "date": "2022-10-03",
+          "time": "00:05:45",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 신문을 구독해서 본다.",
+          "우리나라가 월드컵에서 독 일을 3대 0으로 이겼다.",
+          "독 일은 모두 1군 선수들이 나왔다.",
+          "나는 샤워가 하고 싶다.",
+          "나는 몸에 열이 많다."
+        ],
+        "speaker2": [
+          "나는 잠깐 쉬고 있다.",
+          "나는 신문은 딱히 찾아서 보지 않는다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 여자이다. 나는 20대이다.",
+          "나는 PC게임을 매일 한다.",
+          "나는 풍물부 동아리에 참여한다.",
+          "나는 요즘, 가끔 상처를 받는다."
+        ],
+        "speaker2": [
+          "나는 여자이다. 나는 20대이다.",
+          "나는 식물을 키우는 것을 좋아한다.",
+          "나는 SF 영화를 자 주 본다.",
+          "나는 연인이 있지만 사이가 좋지 않다.",
+          "나는 순대국밥을 먹을 생각이다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "FileInfo": {
+    "filename": "K2-00010-CL33488-CP33980-02-06-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0780",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "자영업",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0782",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "자영업",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00010"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "33488",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 TV 예능을 가끔 본다.",
+        "나는 중학교 영어 교사이다.",
+        "나는 다소 긍정적이다.",
+        "나는 짠 음식을 즐겨 먹는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "33980",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 생물학과를 전공했다.",
+        "나는 드럼을 배우고 싶다.",
+        "나는 매일 부끄러운 감정이 든다.",
+        "나는 결혼을 했다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "02-06",
+    "topicType": "주거와 생활",
+    "topicTitle": "이사"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00010-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33488",
+          "participantID": "0780",
+          "utterance": "안녕하세요 저는 30대 여자입니다. 대화 할 수 있을까요?",
+          "summary": "나는 30대 여성이다.",
+          "date": "2022-10-16",
+          "time": "18:28:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33980",
+          "participantID": "0782",
+          "utterance": "네, 반갑습니다. 저도 30대 여성입니다. 혹시 어떤 일을 하시나요?",
+          "summary": "나는 30대 여성이다.",
+          "date": "2022-10-16",
+          "time": "18:29:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33488",
+          "participantID": "0780",
+          "utterance": "저는 중학교 영어 교사에요 그쪽은 어떤일 하시나요?",
+          "summary": "나는 중학교 영어 교사이다.",
+          "date": "2022-10-16",
+          "time": "18:29:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33980",
+          "participantID": "0782",
+          "utterance": "저는 환경 연구소 연구원이에요. 대학 때 생물학과를 전공했는데 전공 따라 취업한 케이스에요.",
+          "summary": "나는 환경연구소 연구원이다. 나는 대학 때 생물학과를 전공했다.",
+          "date": "2022-10-16",
+          "time": "18:30:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33488",
+          "participantID": "0780",
+          "utterance": "우와 진짜 멋진 직업을 가지고 계시네요. 혹시 엠비티아이가 어떻게 되세요?",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "18:32:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33980",
+          "participantID": "0782",
+          "utterance": "저는 INFJ요. 근데 할 때마다 바뀌더라구요. 그쪽은요?",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "18:33:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33488",
+          "participantID": "0780",
+          "utterance": "저는 ENFP요. 그래서 다소 긍정적이라는 소리를 많이 들어요. 뭐하고 계셨나요?",
+          "summary": "나는 다소 긍정적이다.",
+          "date": "2022-10-16",
+          "time": "18:34:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33980",
+          "participantID": "0782",
+          "utterance": "오, 제가 부러워하는 성격이에요. 활기찬 성격. 저도 성격을 좀 바꿔보고자 얼마전부터 드럼을 배우는 곳을 알아보고 있어요.",
+          "summary": "나는 드럼을 배우고 싶어 한다.",
+          "date": "2022-10-16",
+          "time": "18:35:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33488",
+          "participantID": "0780",
+          "utterance": "와우 드럼 멋지네요. 음악에 일가견이 있으시나봐요. ㅎㅎ멋져요. 즐겨보시는 tv 프로그램 있으신가요?",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "18:36:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33980",
+          "participantID": "0782",
+          "utterance": "네, 저는 요즘 외국인들 나오는 예능 즐겨봐요. 외국인들이 어찌나 한국말을 잘하던지.. 그쪽은요?",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "18:38:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33488",
+          "participantID": "0780",
+          "utterance": "오 그런 것도 재미있겟네요 . 저는 tv예능은 가끔 봐요. 유퀴즈 같은.ㅎㅎ.",
+          "summary": "나는 tv 예능을 가끔 본다.",
+          "date": "2022-10-16",
+          "time": "18:40:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33980",
+          "participantID": "0782",
+          "utterance": "그거 재밌죠 ㅎ 영어교사이시면 영어 잘하시겠네요. 저희 연구소에도 외국인이 있는데 다른 직원들 다 영어 잘하는데 저만 못해서 요즘 부끄러운 감정이 들더라구요.",
+          "summary": "나는 영어를 못해서 요즘 매일 부끄러운 감정이 든다.",
+          "date": "2022-10-16",
+          "time": "18:42:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33488",
+          "participantID": "0780",
+          "utterance": "아 그냥 전공이니까 ㅎㅎ. 저는 요새 일본어 배워요 ㅎㅎ 일본어랑 중국어 잘하고 싶어서 ㅎㅎ 공부하러 가봐야겠네요.",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "18:44:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33980",
+          "participantID": "0782",
+          "utterance": "오, 저도 영어학원을 좀 알아봐야 겠어요. ㅎㅎ 다음에 또 이야기 나눠요!",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "18:45:07",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나는 중학교 영어 교사이다.",
+          "나는 다소 긍정적이다.",
+          "나는 tv 예능을 가끔 본다."
+        ],
+        "speaker2": [
+          "나는 30대 여성이다.",
+          "나는 환경연구소 연구원이다. 나는 대학 때 생물학과를 전공했다.",
+          "나는 드럼을 배우고 싶어 한다.",
+          "나는 영어를 못해서 요즘 매일 부끄러운 감정이 든다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00010-1",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00010-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33488",
+          "participantID": "0780",
+          "utterance": "ㅎㅎ 그동안 잘 지내셨어요? 저는 공부 열심히 한다해놓고 4일동안 일본어 한 장도 안봤네요. ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "18:46:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33980",
+          "participantID": "0782",
+          "utterance": "저도 영어학원 알아보려고 했는데..ㅎㅎ 드럼학원도 아직 못알아봤어요 ㅎ 이사계획이 있어서 부동산 다니느라고 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "18:47:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33488",
+          "participantID": "0780",
+          "utterance": "아 어디로 이사 할 계획이세요? 저도 빨리 돈모아서 이사해야하는데 투룸 알아보고 있어요 전.",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "18:47:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33980",
+          "participantID": "0782",
+          "utterance": "아, 제가 얼마전에 결혼을 했는데 지금 임시로 원룸에 살고 있어서, 신혼집 알아보는 중이에요~",
+          "summary": "나는 결혼을 했다. 나는 신혼집을 알아보고 있다.",
+          "date": "2022-10-16",
+          "time": "18:50:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33488",
+          "participantID": "0780",
+          "utterance": "아 그러시구나. ㅎㅎ 신혼 너무 부럽다 좋으시겠어요. ㅎㅎ 아파트 알아보세요?",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "18:50:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33980",
+          "participantID": "0782",
+          "utterance": "네~ 아직 아이는 없어서 작은 평수로 알아보고 있는데 전세로 구하기기 쉽지 않네요.",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "18:51:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33488",
+          "participantID": "0780",
+          "utterance": "투룸은 정말 구하기 너무 힘드네요 ㅠㅠ 아이고오..전 좀 더 보러 가야겠어요. ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "18:51:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33980",
+          "participantID": "0782",
+          "utterance": "투룸은 정말 전세구하기 쉽지 않겠어요. 이사비용도 만만치 않아서 이것 저것 다 고민이네요~",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "18:51:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33488",
+          "participantID": "0780",
+          "utterance": "전세 좀 알아 보셨나요? 전 영 4시간동안 봤는데도 매물이 없네요.",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "18:51:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33980",
+          "participantID": "0782",
+          "utterance": "아직 더 발품 팔아야할 것 같아요. 당장 다음달에 이사해야하는데 걱정이네요.",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "19:03:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33488",
+          "participantID": "0780",
+          "utterance": "아휴 집보다 이사센터 계약을 먼저 하셔야 할 판이네요...",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "19:05:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33980",
+          "participantID": "0782",
+          "utterance": "그러니까요. 거기다 저희 시어머니는 손 없는날로 잡으라고 하셔서.. 신경쓸 게 많네요 ㅎ.",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "19:05:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33488",
+          "participantID": "0780",
+          "utterance": "요새 손없는날 가격 진짜 비쌀텐데 ㅠㅠ 아이고 잘 알아보시구 좋은집 구하셔서 이사하시길 바랄께요~",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "19:06:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33980",
+          "participantID": "0782",
+          "utterance": "네네, 님도 좋은 투룸 구하시길 바래요!",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "19:06:30",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [],
+        "speaker2": [
+          "나는 결혼을 했다. 나는 신혼집을 알아보고 있다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나는 중학교 영어 교사이다.",
+          "나는 다소 긍정적이다.",
+          "나는 tv 예능을 가끔 본다."
+        ],
+        "speaker2": [
+          "나는 30대 여성이다.",
+          "나는 환경연구소 연구원이다. 나는 대학 때 생물학과를 전공했다.",
+          "나는 드럼을 배우고 싶어 한다.",
+          "나는 영어를 못해서 요즘 매일 부끄러운 감정이 든다."
+        ]
+      }
+    }
+  ]
+}

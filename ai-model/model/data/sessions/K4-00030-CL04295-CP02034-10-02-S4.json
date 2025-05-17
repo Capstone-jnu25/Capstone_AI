@@ -1,0 +1,807 @@
+{
+  "FileInfo": {
+    "filename": "K4-00030-CL04295-CP02034-10-02-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0048",
+      "gender": "남성",
+      "age": "50대",
+      "occupation": "서비스직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0084",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "기능직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00030"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "04295",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 50대이다.",
+        "나는 연인이 없고 외롭다.",
+        "나는 TV 드라마를 싫어한다.",
+        "나는 병원 코디네이터이다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "02034",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 가족과 만나면 싸우게 된다.",
+        "나는 TV 시사 프로그램을 싫어한다.",
+        "나는 매우 고집이 세다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "10-02",
+    "topicType": "여가와 오락>스포츠/레져",
+    "topicTitle": "야외 활동"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00030-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "안녕하십니까 저는 50대 남자입니다.",
+          "summary": "나는 50대 남자이다.",
+          "date": "2022-08-11",
+          "time": "12:26:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "안녕하세요.. 전 30대 남자입니다 반가워요.",
+          "summary": "나는 30대 남자이다.",
+          "date": "2022-08-11",
+          "time": "12:26:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "반가워요 처음 뵙겠습니다 저는 인천에 살고 있어요.",
+          "summary": "나의 거주지는 인천이다.",
+          "date": "2022-08-11",
+          "time": "12:26:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "저도 인천 사는데 이웃주민이네요.",
+          "summary": "나의 거주지는 인천이다.",
+          "date": "2022-08-11",
+          "time": "12:26:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "반갑네요 ㅎㅎ 저는 @주소1@에 살고있어요.",
+          "summary": "나는 @주소1@에 살고 있다.",
+          "date": "2022-08-11",
+          "time": "12:25:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "@주소1@이면 가깝네요 저는 @주소2@ 살아요.",
+          "summary": "나는 @주소2@에 살고 있다.",
+          "date": "2022-08-11",
+          "time": "12:26:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "아 그렇네요~ 어떤일을 하시나요 저는 병원 코디네이터를 해요.",
+          "summary": "나는 병원 코디네이터이다.",
+          "date": "2022-08-11",
+          "time": "12:26:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "전 시공쪽에서 일용직 노가다 합니다.",
+          "summary": "나는 건설업 종사자이다.",
+          "date": "2022-08-11",
+          "time": "12:27:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "그러시군요 요즘 일은 괜찮습니까?",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:27:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "아뇨... 경기가 안좋아져서 임금을 제대로 못받고 있네요.",
+          "summary": "나는 요즘 일이 힘들다.",
+          "date": "2022-08-11",
+          "time": "12:27:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "아이고 노동청은 한번 가보셨나요?",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:27:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "노동청 그런거 잘 알지도 못하고 신고하면 어디서 또 일을 합니까...ㅎㅎ.",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:28:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "그런건 제대로 처리 해야해요 꼭 한번 가보세요 저는 식사 좀 하고 올게요.",
+          "summary": "나는 노동청에 신고를 해야 한다 생각한다.",
+          "date": "2022-08-11",
+          "time": "12:28:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "예 식사 맛있게 하세요 저도 새참 먹으러 가봐야겠네요.",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:28:24",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 50대 남자이다.",
+          "나의 거주지는 인천이다.",
+          "나는 @주소1@에 살고 있다.",
+          "나는 병원 코디네이터이다.",
+          "나는 노동청에 신고를 해야 한다 생각한다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이다.",
+          "나의 거주지는 인천이다.",
+          "나는 @주소2@에 살고 있다.",
+          "나는 건설업 종사자이다.",
+          "나는 요즘 일이 힘들다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00030-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00030-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "오늘 식사는 좀 맛있게 하셨어요?",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:28:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "그냥 대충 입에 넣고 일 하는거죠 공사판에선.",
+          "summary": "나는 식사를 대충 했다.",
+          "date": "2022-08-11",
+          "time": "12:28:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "저는 평소에 혼자 살아서 집에서도 대충 먹게 되네요.",
+          "summary": "나는 혼자 산다.",
+          "date": "2022-08-11",
+          "time": "12:29:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "혼자 사시면 결혼은 아직 안하신건가요?",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:29:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "제가 애인도 없고 50까지 나이를 먹으니까 사람이 추레해지네요.",
+          "summary": "나는 외롭다.",
+          "date": "2022-08-11",
+          "time": "12:29:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "아이고... 저런 50까지 짝을 못찾으시다니 안타깝네요.",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:29:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "그러시면 님은 그래도 결혼은 하셨나요?",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:29:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "네 결혼은 했습니다만 가족과 사이가 그닥 좋진 않습니다.",
+          "summary": "나는 결혼을 했다.",
+          "date": "2022-08-11",
+          "time": "12:30:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "아 그렇군요... 참 그건 안타깝네요.",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:30:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "가족과 만나면 꼭 싸우게 되서요.",
+          "summary": "나는 가족과 만나면 싸우게 된다.",
+          "date": "2022-08-11",
+          "time": "12:30:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "저는 그래서 혼자 살면서 야외에서 운동을 많이 하게 되네요.",
+          "summary": "나는 야외 활동을 많이 한다.",
+          "date": "2022-08-11",
+          "time": "12:30:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "야외활동을 많이 하시면 짝을 찾기도 쉬우실텐데...?",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:31:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "뭐 그래도 혼자 자전거나 타고 그래서요 잘 안찾아지네요.",
+          "summary": "나는 밖에서 자전거를 탄다.",
+          "date": "2022-08-11",
+          "time": "12:31:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "아 자전거는 확실히 말 붙이기 힘드네요 저 다시 일 들어가봐야겠어요.",
+          "summary": "나는 다시 일을 해야 한다.",
+          "date": "2022-08-11",
+          "time": "12:31:37",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 혼자 산다.",
+          "나는 외롭다.",
+          "나는 야외 활동을 많이 한다.",
+          "나는 밖에서 자전거를 탄다."
+        ],
+        "speaker2": [
+          "나는 식사를 대충 했다.",
+          "나는 결혼을 했다.",
+          "나는 가족과 만나면 싸우게 된다.",
+          "나는 다시 일을 해야 한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 남자이다.",
+          "나의 거주지는 인천이다.",
+          "나는 @주소1@에 살고 있다.",
+          "나는 병원 코디네이터이다.",
+          "나는 노동청에 신고를 해야 한다 생각한다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이다.",
+          "나의 거주지는 인천이다.",
+          "나는 @주소2@에 살고 있다.",
+          "나는 건설업 종사자이다.",
+          "나는 요즘 일이 힘들다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00030-2",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00030-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "오늘은 주말인데 좀 쉬셨나요? 저는 좀 쉬고 있네요.",
+          "summary": "나는 쉬고 있다.",
+          "date": "2022-08-11",
+          "time": "12:31:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "저는 일감 들어오는 날에는 쉬는날이 따로 없습니다.",
+          "summary": "나는 잘 쉬지 못한다.",
+          "date": "2022-08-11",
+          "time": "12:32:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "그러시나요? 바쁘네요 저는 오늘 그래서 TV나 좀 보려고요.",
+          "summary": "나는 오늘 TV를 볼 것이다.",
+          "date": "2022-08-11",
+          "time": "12:32:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "주말인데 사이클 안타시고...TV에서 주로 뭘 보시나요?",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:32:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "저는 시사프로그램을 좋아해요 드라마 같은건 잘 안보네요.",
+          "summary": "나는 시사프로그램을 좋아한다.",
+          "date": "2022-08-11",
+          "time": "12:32:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "아 저는 그런거 싫어합니다... 가득이나 퍽퍽한 세상 안좋은일만 들려서요.",
+          "summary": "나는 TV 시사 프로그램을 싫어한다.",
+          "date": "2022-08-11",
+          "time": "12:33:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "저는 드라마 같은 허구성 없는 얘기만 보면 좀 보기 재미없더라고요.",
+          "summary": "나는 TV 드라마를 싫어한다.",
+          "date": "2022-08-11",
+          "time": "12:33:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "저도 좋아하진 않았지만 요즘은 차라리 그런 허구라도 좋으니 즐거웠으면 좋겠네요...",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:33:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "그러면 야외활동 하는 예능은 좀 보시나요?",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:33:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "야외활동은 제가 항상 야외에서 활동하니 기운빠져서 볼일 없지요~ㅎㅎ...",
+          "summary": "나는 항상 야외에서 활동한다.",
+          "date": "2022-08-11",
+          "time": "12:34:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "아 그렇군요 저는 밖에서 운동하거나 여행 가는 예능을 즐겨보거든요.",
+          "summary": "나는 야외 활동하는 예능을 즐겨본다.",
+          "date": "2022-08-11",
+          "time": "12:34:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "그런 버라이어티한 예능을 즐겨보시나봐요.",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:34:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "네 맞아요 그런게 제일 재밌네요 자주 보게 되더라고요.",
+          "summary": "나는 예능을 좋아한다.",
+          "date": "2022-08-11",
+          "time": "12:34:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "저도 옛날엔 1박2일 재밌게 봤는데... 저 부르네요 이만 가볼게요.",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:34:57",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 쉬고 있다.",
+          "나는 오늘 TV를 볼 것이다.",
+          "나는 시사프로그램을 좋아한다.",
+          "나는 TV 드라마를 싫어한다.",
+          "나는 야외 활동하는 예능을 즐겨본다.",
+          "나는 예능을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 잘 쉬지 못한다.",
+          "나는 TV 시사 프로그램을 싫어한다.",
+          "나는 항상 야외에서 활동한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 남자이다.",
+          "나의 거주지는 인천이다.",
+          "나는 @주소1@에 살고 있다.",
+          "나는 병원 코디네이터이다.",
+          "나는 노동청에 신고를 해야 한다 생각한다.",
+          "나는 혼자 산다.",
+          "나는 외롭다.",
+          "나는 야외 활동을 많이 한다.",
+          "나는 밖에서 자전거를 탄다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이다.",
+          "나의 거주지는 인천이다.",
+          "나는 @주소2@에 살고 있다.",
+          "나는 건설업 종사자이다.",
+          "나는 요즘 일이 힘들다.",
+          "나는 식사를 대충 했다.",
+          "나는 결혼을 했다.",
+          "나는 가족과 만나면 싸우게 된다.",
+          "나는 다시 일을 해야 한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00030-3",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "시간"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00030-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "아까는 어떤일로 불러가셨대요? 뭔 일 있나요?",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:35:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "어디 공구리를 잘못 쳤는지 저를 불러서요.",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:35:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "아이고 실수 하셨구나? 곤란하시겠어요.",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:35:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "아뇨 자꾸 주문한대로 하라는데 제가 평생 해오던 방식이 있어서 문제가 생기나봅니다.",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:36:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "아 문제는 아닌가보군요... 잘 모르는 분야라 그런가싶네요.",
+          "summary": "나는 시공을 잘 모른다.",
+          "date": "2022-08-11",
+          "time": "12:36:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "문제는 문제지요~ 이놈의 고집 때문에 그런거니 저도 알고는 있습니다.",
+          "summary": "나는 매우 고집이 세다.",
+          "date": "2022-08-11",
+          "time": "12:36:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "고집이 쎄면 같이 하는 일이 힘들거같은데 괜찮나요?",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:37:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "일만 힘든가요 그냥 인생이 피곤합니다 그치만 어쩌겠어요 성격인걸.",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:37:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "그런가요 저도 성격이 나이 먹으니까 많이 죽네요.",
+          "summary": "나는 나이를 먹고 성격이 얌전해졌다.",
+          "date": "2022-08-11",
+          "time": "12:37:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "저도 나이를 먹으면 좀 유해져야 할텐데 걱정입니다.",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:38:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "다 그러더라고요 저도 오늘은 자전거 좀 타고 올게요.",
+          "summary": "나는 밖에서 자전거를 탈것이다.",
+          "date": "2022-08-11",
+          "time": "12:38:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "네 운동 열심히 하시네요 다녀오세요.",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:38:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04295",
+          "participantID": "0048",
+          "utterance": "네 그러면 또 연락해요 운동 좋습니다~",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:38:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02034",
+          "participantID": "0084",
+          "utterance": "그래요 대화 즐거웠습니다 다음에 또 이야기 해요.",
+          "summary": "",
+          "date": "2022-08-11",
+          "time": "12:38:50",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 시공을 잘 모른다.",
+          "나는 나이를 먹고 성격이 얌전해졌다.",
+          "나는 밖에서 자전거를 탈것이다."
+        ],
+        "speaker2": [
+          "나는 매우 고집이 세다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 남자이다.",
+          "나의 거주지는 인천이다.",
+          "나는 @주소1@에 살고 있다.",
+          "나는 병원 코디네이터이다.",
+          "나는 노동청에 신고를 해야 한다 생각한다.",
+          "나는 혼자 산다.",
+          "나는 외롭다.",
+          "나는 야외 활동을 많이 한다.",
+          "나는 밖에서 자전거를 탄다.",
+          "나는 쉬고 있다.",
+          "나는 오늘 TV를 볼 것이다.",
+          "나는 시사프로그램을 좋아한다.",
+          "나는 TV 드라마를 싫어한다.",
+          "나는 야외 활동하는 예능을 즐겨본다.",
+          "나는 예능을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이다.",
+          "나의 거주지는 인천이다.",
+          "나는 @주소2@에 살고 있다.",
+          "나는 건설업 종사자이다.",
+          "나는 요즘 일이 힘들다.",
+          "나는 식사를 대충 했다.",
+          "나는 결혼을 했다.",
+          "나는 가족과 만나면 싸우게 된다.",
+          "나는 다시 일을 해야 한다.",
+          "나는 잘 쉬지 못한다.",
+          "나는 TV 시사 프로그램을 싫어한다.",
+          "나는 항상 야외에서 활동한다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,804 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-004795-AP600050-WZ000009-02_03_04-S2.json",
+        "sessionLevel": "2"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0010",
+            "gender": "여성",
+            "age": "40대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "요리"
+        },
+        "speaker2": {
+            "participantID": "F0010",
+            "gender": "남성",
+            "age": "50대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "천문학"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "004795"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600050",
+            "personaFeatures": [
+                "나는 관광/감상의 물품에 대한 교육을 받고 있다.",
+                "나는 저녁에 걸레질을 한다",
+                "나는 다소 진지하다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000009",
+            "personaFeatures": [
+                "나는 물품에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_04",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "사물"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004795-1",
+            "sessionKeywords": [
+                "*데루테루보즈*,*데루테루보즈*의 물품"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600050",
+                    "participantID": "E0010",
+                    "utterance": "영화를 보다가 일본에서 비올때 걸어놓는 하얀 인형이 있던데 혹시 들어봤어?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800563000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000009",
+                    "participantID": "F0010",
+                    "utterance": "데루테루보즈라는걸 말씀하시는것 같군요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800588000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600050",
+                    "participantID": "E0010",
+                    "utterance": "오 그것인건가? 알려줄수 있어?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800596000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000009",
+                    "participantID": "F0010",
+                    "utterance": "테루테루보즈는 맑은 날씨를 불러온다는 일본의 인형입니다",
+                    "context": {
+                        "query": "데루테루보즈",
+                        "contents": [
+                            {
+                                "documentID": "352733",
+                                "documentTitle": "데루테루보즈",
+                                "content": [
+                                    "테루테루보즈()는 맑은 날씨를 불러온다는 일본의 인형이다.",
+                                    "하얀 색 천에 눈사람의 머리모양을 하고 있으며, 처마 밑에 걸어두면 날씨가 맑아진다는 속설때문에 비가 내리면 걸어둔다.",
+                                    "반대로 거꾸로 매달아 놓으면 비가 내린다고도 하여 이럴 때는 후레후레보즈, 아메아메보즈, 루테루테보즈따위의 이름으로 부른다.",
+                                    "테루테루보즈는 눈만 그려져 있는데, 눈외에 입과 코등 얼굴을 자세히 그리게 되면 역시 비가 내린다고 한다.",
+                                    "테루테루보즈와 관련된 괴담도 존재하는데, 비가 많이 오던 한 일본의 마을에서 스님이 날씨를 맑게 해준다며 사람들에게 돈을 걷었지만 날씨가 맑아지지 않아 스님의 목을 쳐서 하얀천으로 감싸 어딘가에 걸어두었던 것에서 테루테루보즈가 유래되었다고 한다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "테루테루보즈는 맑은 날씨를 불러온다는 일본의 인형이다",
+                    "timestamp": 1695800618000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600050",
+                    "participantID": "E0010",
+                    "utterance": "그래 그거야 어찌 그렇게 잘알아?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800627000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000009",
+                    "participantID": "F0010",
+                    "utterance": "저는 물품에 대해 잘 아는 챗봇입니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800635000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600050",
+                    "participantID": "E0010",
+                    "utterance": "아 맞다 나  저녁에 걸레질 하러 가야 해",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 저녁에 걸레질을 한다",
+                    "timestamp": 1695800770000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000009",
+                    "participantID": "F0010",
+                    "utterance": "저녁에 걸레질을 하러 가시는군요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800776000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600050",
+                    "participantID": "E0010",
+                    "utterance": "물품에 대해 잘 아는 챗봇이라고? 나는 관광물품에 대한 교육을 받고 있는데 잘됫네",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 관광물품에 대한 교육을 받고 있다",
+                    "timestamp": 1695800927000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000009",
+                    "participantID": "F0010",
+                    "utterance": "네 궁금하신게 있으시면 언제든지 물어봐주세요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800938000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600050",
+                    "participantID": "E0010",
+                    "utterance": "그럼 아까 데루테루보즈에 대해서 더 알려주라",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800948000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000009",
+                    "participantID": "F0010",
+                    "utterance": "반대로 거꾸로 매달아 놓으면 비가 내린다고도 하여 이럴 때는 후레후레보즈, 아메아메보즈, 루테루테보즈따위의 이름으로 부릅니다",
+                    "context": {
+                        "query": "데루테루보즈",
+                        "contents": [
+                            {
+                                "documentID": "352733",
+                                "documentTitle": "데루테루보즈",
+                                "content": [
+                                    "테루테루보즈()는 맑은 날씨를 불러온다는 일본의 인형이다.",
+                                    "하얀 색 천에 눈사람의 머리모양을 하고 있으며, 처마 밑에 걸어두면 날씨가 맑아진다는 속설때문에 비가 내리면 걸어둔다.",
+                                    "반대로 거꾸로 매달아 놓으면 비가 내린다고도 하여 이럴 때는 후레후레보즈, 아메아메보즈, 루테루테보즈따위의 이름으로 부른다.",
+                                    "테루테루보즈는 눈만 그려져 있는데, 눈외에 입과 코등 얼굴을 자세히 그리게 되면 역시 비가 내린다고 한다.",
+                                    "테루테루보즈와 관련된 괴담도 존재하는데, 비가 많이 오던 한 일본의 마을에서 스님이 날씨를 맑게 해준다며 사람들에게 돈을 걷었지만 날씨가 맑아지지 않아 스님의 목을 쳐서 하얀천으로 감싸 어딘가에 걸어두었던 것에서 테루테루보즈가 유래되었다고 한다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            true,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "테루테루보즈는 맑은 날씨를 불러온다는 일본의 인형, 반대로 거꾸로 매달아 놓으면 비가 내린다고도 하여 이럴 때는 후레후레보즈, 아메아메보즈, 루테루테보즈따위의 이름으로 부른다",
+                    "timestamp": 1695800966000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600050",
+                    "participantID": "E0010",
+                    "utterance": "아 다른이름으로도 부르는구나 좋은 정보네",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695800984000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000009",
+                    "participantID": "F0010",
+                    "utterance": "좋은 정보가 되셨다니 저도 기쁘네요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695801005000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 저녁에 걸레질을 한다",
+                    "나는 관광물품에 대한 교육을 받고 있다"
+                ],
+                "wizard": [
+                    "테루테루보즈는 맑은 날씨를 불러온다는 일본의 인형이다",
+                    "테루테루보즈는 맑은 날씨를 불러온다는 일본의 인형, 반대로 거꾸로 매달아 놓으면 비가 내린다고도 하여 이럴 때는 후레후레보즈, 아메아메보즈, 루테루테보즈따위의 이름으로 부른다"
+                ],
+                "dialogSummary": "질문자는 데루테루보즈에 대해 질문하였고 챗봇은 테루테루보즈는 맑은 날씨를 불러온다는 일본의 인형이고 반대로 거꾸로 매달아 놓으면 비가 내린다고도 하여 이럴 때는 후레후레보즈, 아메아메보즈, 루테루테보즈따위의 이름으로 부른다고 하였다"
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "004795-1",
+            "prevTimeInfo": {
+                "timeNum": "6",
+                "timeUnit": "주"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004795-2",
+            "sessionKeywords": [
+                "*낚시찌*,*낚시찌*의 물품"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600050",
+                    "participantID": "E0010",
+                    "utterance": "저번에 물품에 대해서 잘 안다고 했지?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695801523000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000009",
+                    "participantID": "F0010",
+                    "utterance": "안녕하세요 6주일 만에 다시 오셨네요 네! 저는 물품에 대해 잘 아는 챗봇입니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695801538000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600050",
+                    "participantID": "E0010",
+                    "utterance": "그럼 낚시찌에 대해서 얘기 좀 해줄래?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695801583000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000009",
+                    "participantID": "F0010",
+                    "utterance": "낚시찌(, 종대)는 낚시 장비 중 하나로, 물고기가 미끼를 물면 알아차릴 수 있는 부표의 일종입니다",
+                    "context": {
+                        "query": "낚시찌",
+                        "contents": [
+                            {
+                                "documentID": "1062099",
+                                "documentTitle": "낚시찌",
+                                "content": [
+                                    "낚시찌(, 종대)는 낚시 장비 중 하나로, 물고기가 미끼를 물면 알아차릴 수 있는 부표의 일종이다.",
+                                    "역사.",
+                                    "낚시찌를 이용한 최초의 기록은 1946년 줄리아나 버너스가 쓴 《낚싯대를 사용한 낚시에 관하여》(Treatyse of fysshynge wyth an Angle)라는 서적에 등장한다."
+                                ]
+                            },
+                            {
+                                "documentID": "2952922",
+                                "documentTitle": "안트레아 그물",
+                                "content": [
+                                    "안트레아 그물()은 1913년 핀란드 공화국 카리알라 지협의 안트레아(현 러시아령 카멘노고르스크)에서 발견된 어망 유물이다.",
+                                    "제작연대는 기원전 8540년경으로 추적되며, 현재까지 발견된 어망 유물들 중 가장 오래된 축에 속한다.",
+                                    "현지 농민 안티 비롤라이넨(Antti Virolainen)이 1913년 가을 늪지대 초지에 골을 파는 작업을 하다 특이한 돌과 뼈들이 묻혀 있는 것을 발견했다.",
+                                    "1914년 7월 고고학자 사카리 팰시가 그 일대를 발굴했고, 그 과정에서 낚시찌 18개와 그물추 31개, 그물의 일부, 그 밖에 여러 석기와 골각기를 발견했다.",
+                                    "이 유물들은 안퀼루스호(지금의 발트해가 된 선사시대 북유럽의 거대 담수호) 바닥에 가라앉아 묻혔던 것이 발굴된 것인데, 아마 어부의 배가 뒤집히면서 어부의 도구 일체가 물에 빠졌던 것으로 생각된다.",
+                                    "그물은 버드나무로 만들었으며, 그 크기는 발견된 조각들의 개수로 미루어 길이 27-30 미터, 폭 1.3-1.5미터, 그물코 길이 6 센티미터로 추측된다.",
+                                    "이 정도 길이의 그물코는 연어나 브리임을 잡기 알맞다.",
+                                    "뤼샌솔무라는 양식으로 매듭지어졌는데, 이 매듭은 훨씬 후대의 에스토니아 일대의 발트핀족들도 사용한 매듭 양식이다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "낚시찌(종대)는 낚시 장비 중 하나로, 물고기가 미끼를 물면 알아차릴 수 있는 부표의 일종이다",
+                    "timestamp": 1695801601000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600050",
+                    "participantID": "E0010",
+                    "utterance": "내가 다소 진지한데,  가끔 최초기록이 궁금하더라 그것도 알려줘",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 다소 진지하다",
+                    "timestamp": 1695801648000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000009",
+                    "participantID": "F0010",
+                    "utterance": "낚시찌를 이용한 최초의 기록은 1946년 줄리아나 버너스가 쓴 《낚싯대를 사용한 낚시에 관하여》(Treatyse of fysshynge wyth an Angle)라는 서적에 등장합니다",
+                    "context": {
+                        "query": "낚시찌",
+                        "contents": [
+                            {
+                                "documentID": "1062099",
+                                "documentTitle": "낚시찌",
+                                "content": [
+                                    "낚시찌(, 종대)는 낚시 장비 중 하나로, 물고기가 미끼를 물면 알아차릴 수 있는 부표의 일종이다.",
+                                    "역사.",
+                                    "낚시찌를 이용한 최초의 기록은 1946년 줄리아나 버너스가 쓴 《낚싯대를 사용한 낚시에 관하여》(Treatyse of fysshynge wyth an Angle)라는 서적에 등장한다."
+                                ]
+                            },
+                            {
+                                "documentID": "2952922",
+                                "documentTitle": "안트레아 그물",
+                                "content": [
+                                    "안트레아 그물()은 1913년 핀란드 공화국 카리알라 지협의 안트레아(현 러시아령 카멘노고르스크)에서 발견된 어망 유물이다.",
+                                    "제작연대는 기원전 8540년경으로 추적되며, 현재까지 발견된 어망 유물들 중 가장 오래된 축에 속한다.",
+                                    "현지 농민 안티 비롤라이넨(Antti Virolainen)이 1913년 가을 늪지대 초지에 골을 파는 작업을 하다 특이한 돌과 뼈들이 묻혀 있는 것을 발견했다.",
+                                    "1914년 7월 고고학자 사카리 팰시가 그 일대를 발굴했고, 그 과정에서 낚시찌 18개와 그물추 31개, 그물의 일부, 그 밖에 여러 석기와 골각기를 발견했다.",
+                                    "이 유물들은 안퀼루스호(지금의 발트해가 된 선사시대 북유럽의 거대 담수호) 바닥에 가라앉아 묻혔던 것이 발굴된 것인데, 아마 어부의 배가 뒤집히면서 어부의 도구 일체가 물에 빠졌던 것으로 생각된다.",
+                                    "그물은 버드나무로 만들었으며, 그 크기는 발견된 조각들의 개수로 미루어 길이 27-30 미터, 폭 1.3-1.5미터, 그물코 길이 6 센티미터로 추측된다.",
+                                    "이 정도 길이의 그물코는 연어나 브리임을 잡기 알맞다.",
+                                    "뤼샌솔무라는 양식으로 매듭지어졌는데, 이 매듭은 훨씬 후대의 에스토니아 일대의 발트핀족들도 사용한 매듭 양식이다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            true
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "낚시찌를 이용한 최초의 기록은 1946년 줄리아나 버너스가 쓴 《낚싯대를 사용한 낚시에 관하여》(Treatyse of fysshynge wyth an Angle)라는 서적에 등장한다",
+                    "timestamp": 1695801657000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600050",
+                    "participantID": "E0010",
+                    "utterance": "아하! 서적에 처음 나왔었구나",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695801709000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000009",
+                    "participantID": "F0010",
+                    "utterance": "네 최초기록이 그렇다고 하네요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695801730000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600050",
+                    "participantID": "E0010",
+                    "utterance": "걸레질을 많이 했더니 팔이 아프다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 걸레질을 많이 했다",
+                    "timestamp": 1695801765000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000009",
+                    "participantID": "F0010",
+                    "utterance": "이런 걸레질을 많이 하셨군요... 힘드셨겠어요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695801778000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600050",
+                    "participantID": "E0010",
+                    "utterance": "그러게 그래도 반짝반짝한 바닥을 보니 속은 시원해",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695801790000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000009",
+                    "participantID": "F0010",
+                    "utterance": "네 깨끗한 바닥을 보면 보람을 느끼실것 같습니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695801805000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600050",
+                    "participantID": "E0010",
+                    "utterance": "그러게 청소하는게 가끔은 그렇게 보람을 느끼게 해주는것같아",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695801844000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000009",
+                    "participantID": "F0010",
+                    "utterance": "네! 그런맘으로 청소하시면 맘도 좋아지실거같습니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695801859000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 다소 진지하다",
+                    "나는 걸레질을 많이 했다"
+                ],
+                "wizard": [
+                    "낚시찌(종대)는 낚시 장비 중 하나로, 물고기가 미끼를 물면 알아차릴 수 있는 부표의 일종이다",
+                    "낚시찌를 이용한 최초의 기록은 1946년 줄리아나 버너스가 쓴 《낚싯대를 사용한 낚시에 관하여》(Treatyse of fysshynge wyth an Angle)라는 서적에 등장한다"
+                ],
+                "dialogSummary": "질문자는 낚시찌에 대해 질문하였고, 챗봇은 낚시찌(, 종대)는 낚시 장비 중 하나로, 물고기가 미끼를 물면 알아차릴 수 있는 부표의 일종이다 라고 답하였다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 저녁에 걸레질을 한다",
+                    "나는 관광물품에 대한 교육을 받고 있다"
+                ],
+                "wizard": [
+                    "테루테루보즈는 맑은 날씨를 불러온다는 일본의 인형이다",
+                    "테루테루보즈는 맑은 날씨를 불러온다는 일본의 인형, 반대로 거꾸로 매달아 놓으면 비가 내린다고도 하여 이럴 때는 후레후레보즈, 아메아메보즈, 루테루테보즈따위의 이름으로 부른다"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,449 @@
+{
+  "FileInfo": {
+    "filename": "K2-00131-CL11116-CP11706-20-03-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "50151",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "50074",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00131"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "11116",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 10대이다.",
+        "내가 사는 곳은 의정부이다",
+        "나는 건축가가 되고 싶다",
+        "나는 디스코 음악을 가끔 듣는다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "11706",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 10대이다.",
+        "내가 사는 곳은 창원이다",
+        "나는 예의가 바르다",
+        "나는 중식을 싫어한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "20-03",
+    "topicType": "예술문화 생활>영화/만화",
+    "topicTitle": "영화"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "2-00131-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "11116",
+          "participantID": "50151",
+          "utterance": "안녕하세요! 10대 여자에요 ㅎㅎ 반가워요~",
+          "summary": "나는 10대 여자이다.",
+          "date": "2022-10-31",
+          "time": "17:54:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11706",
+          "participantID": "50074",
+          "utterance": "반갑습니다!! 저도 10대 여자예요~~~",
+          "summary": "나는 10대 여자이다.",
+          "date": "2022-10-31",
+          "time": "17:54:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11116",
+          "participantID": "50151",
+          "utterance": "오 ㅎㅎ 비슷한 나잇대네요! 저는 의정부 사는데 어디 살아여?",
+          "summary": "나의 거주지는 의정부이다.",
+          "date": "2022-10-31",
+          "time": "17:55:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11706",
+          "participantID": "50074",
+          "utterance": "의정부요!!?ㅎㅎ 저는 창원에 살고 있답니다ㅎㅎ",
+          "summary": "나의 거주지는 창원이다.",
+          "date": "2022-10-31",
+          "time": "17:55:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11116",
+          "participantID": "50151",
+          "utterance": "오 ㅎㅎ 창원엔 뭐가 유명해요? 의정부엔 부대찌개가 유명한데..",
+          "summary": "",
+          "date": "2022-10-31",
+          "time": "17:55:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11706",
+          "participantID": "50074",
+          "utterance": "창원은 중식이 유명한데 저는 중식을 싫어한답니다..히히",
+          "summary": "나는 중식을 싫어한다.",
+          "date": "2022-10-31",
+          "time": "17:56:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11116",
+          "participantID": "50151",
+          "utterance": "아 중식 안 좋아하시는구나ㅠㅠ 좋아하는 음식은 뭐에요?",
+          "summary": "",
+          "date": "2022-10-31",
+          "time": "17:56:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11706",
+          "participantID": "50074",
+          "utterance": "저는 한식을 좋아해요! 특히 김치찌개~~ 뭐 좋아하세요!?",
+          "summary": "나는 한식을 좋아한다. 나는 김치찌개를 좋아한다.",
+          "date": "2022-10-31",
+          "time": "17:57:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11116",
+          "participantID": "50151",
+          "utterance": "김치찌개 좋아하시는구나~ 저는 비빔밥 좋아해요! ㅎㅎ 아 아직 학생인데 무슨 과 가실거에요?",
+          "summary": "나는 비빔밥을 좋아한다.",
+          "date": "2022-10-31",
+          "time": "17:58:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11706",
+          "participantID": "50074",
+          "utterance": "음.. 사회복지과에 관심이 많아요! 제 입으로 말하기 그렇지만 제가 정이 많고.. 예의가 바르거든요ㅎㅎ선생님은요?",
+          "summary": "나는 정이 많고 예의가 바른 성격이다. 나는 사회복지과에 관심이 많다.",
+          "date": "2022-10-31",
+          "time": "17:59:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11116",
+          "participantID": "50151",
+          "utterance": "오 ㅎㅎ 너무 좋은 성격인데요? 저는 건축가가 되고싶어서 건축학과를 지망하고 있어요! 곧 시험기간인데 공부는 열심히 하셨나요?",
+          "summary": "나는 건축가가 되고 싶다. 건축학과를 지망한다.",
+          "date": "2022-10-31",
+          "time": "18:00:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11706",
+          "participantID": "50074",
+          "utterance": "열심히는 하고 있는데.. 헤헤.. 이제 많이 쉬었으니까 공부해야죠!!!",
+          "summary": "나는 공부할 예정이다.",
+          "date": "2022-10-31",
+          "time": "18:01:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11116",
+          "participantID": "50151",
+          "utterance": "쉬고 있었나보네요!! 저도 쉬고 있었는데 공부할 생각에 머리가 아파요.. 일단 가끔 듣는 디스코 음악이나 들을까봐요ㅠㅠ 노래 좋아하세요?",
+          "summary": "나는 공부할 생각에 머리가 아프다. 디스코 음악을 가끔 듣는다.",
+          "date": "2022-10-31",
+          "time": "18:02:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11706",
+          "participantID": "50074",
+          "utterance": "디스코 음악 좋아하시나보네용~~ 저는 발라드 좋아하거든요! 한 곡 듣고 열공해야겠어요ㅎㅎ",
+          "summary": "나는 발라드를 좋아한다.",
+          "date": "2022-10-31",
+          "time": "18:02:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11116",
+          "participantID": "50151",
+          "utterance": "네 ㅎㅎ 발라드 좋아하시는구나! 그럼 저도 공부하고 올게요~~",
+          "summary": "나는 공부하러 갈 것이다.",
+          "date": "2022-10-31",
+          "time": "18:03:41",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 10대 여자이다.",
+          "나의 거주지는 의정부이다.",
+          "나는 비빔밥을 좋아한다.",
+          "나는 건축가가 되고 싶다. 건축학과를 지망한다.",
+          "나는 공부할 생각에 머리가 아프다. 디스코 음악을 가끔 듣는다.",
+          "나는 공부하러 갈 것이다."
+        ],
+        "speaker2": [
+          "나는 10대 여자이다.",
+          "나의 거주지는 창원이다.",
+          "나는 중식을 싫어한다.",
+          "나는 한식을 좋아한다. 나는 김치찌개를 좋아한다.",
+          "나는 정이 많고 예의가 바른 성격이다. 나는 사회복지과에 관심이 많다.",
+          "나는 공부할 예정이다.",
+          "나는 발라드를 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00131-1",
+      "prevTimeInfo": {
+        "timeNum": "28",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "2-00131-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "11116",
+          "participantID": "50151",
+          "utterance": "28시간만이네요! 공부 하고 계셨어요? 전 창원 구경왔어요! 창원 산다고 하셨죠?",
+          "summary": "나는 창원에 구경 왔다.",
+          "date": "2022-10-31",
+          "time": "18:05:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11706",
+          "participantID": "50074",
+          "utterance": "아 진짜요?ㅎㅎㅎ친구들이랑 놀러 오신건가요!?",
+          "summary": "",
+          "date": "2022-10-31",
+          "time": "18:05:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11116",
+          "participantID": "50151",
+          "utterance": "가족들이랑 같이 왔어요! 점심먹고 다시 올라가려구요ㅠㅠ 오늘은 뭐하세요?",
+          "summary": "나는 가족들이랑 같이 놀러 왔다.",
+          "date": "2022-10-31",
+          "time": "18:06:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11706",
+          "participantID": "50074",
+          "utterance": "저는 오랜만에 영화를 보려구요!! 선생님은 영화 좋아하시나요~",
+          "summary": "나는 오랜만에 영화를 볼 예정이다.",
+          "date": "2022-10-31",
+          "time": "18:07:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11116",
+          "participantID": "50151",
+          "utterance": "오 영화 좋죠~ 저는 영화 보는거 좋아해요! 어떤 장르 좋아해요?",
+          "summary": "나는 영화 보는 거 좋아한다.",
+          "date": "2022-10-31",
+          "time": "18:07:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11706",
+          "participantID": "50074",
+          "utterance": "코믹 영화 좋아해요!!!! 잔잔한거보다는 웃겨야 뭔가 기억에 잘 남는거 같아요!!",
+          "summary": "나는 코믹 영화를 좋아한다.",
+          "date": "2022-10-31",
+          "time": "18:08:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11116",
+          "participantID": "50151",
+          "utterance": "오 ㅎㅎ 코믹영화도 좋죠~ 저는 SF영화 좋아해요! 가장 좋아하는 영화도 있어요?",
+          "summary": "나는 SF영화를 좋아한다.",
+          "date": "2022-10-31",
+          "time": "18:09:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11706",
+          "participantID": "50074",
+          "utterance": "저는 최근에 공조를 재밌게 봤어요!!ㅋㅋㅋㅋ보셨나요?",
+          "summary": "나는 최근에 영화 공조를 봤다.",
+          "date": "2022-10-31",
+          "time": "18:10:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11116",
+          "participantID": "50151",
+          "utterance": "앗 저는 못봤어요ㅠㅠ 대충 어떤 내용이에요?",
+          "summary": "나는 공조를 못 봤다.",
+          "date": "2022-10-31",
+          "time": "18:10:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11706",
+          "participantID": "50074",
+          "utterance": "흠.. 얘기하자면 엄청 길어지는데ㅎㅎㅎ우선 @이름@이랑 @이름@와서.. 웃음부터 난달까요..?",
+          "summary": "나는 영화 공조에서@이름@가 기억에 남는다.",
+          "date": "2022-10-31",
+          "time": "18:12:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11116",
+          "participantID": "50151",
+          "utterance": "오 ㅎㅎ 맞아요~ 벌써 개안하는 느낌인데요?! ㅋㅋ 혹시 만화도 좋아하세요?",
+          "summary": "",
+          "date": "2022-10-31",
+          "time": "18:13:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11706",
+          "participantID": "50074",
+          "utterance": "만화는 짱구 엄청 많이 봤는데!! 선생님도 좋아하시나요~",
+          "summary": "나는 짱구를 많이 봤다.",
+          "date": "2022-10-31",
+          "time": "18:14:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11116",
+          "participantID": "50151",
+          "utterance": "오 ㅎㅎ 저도 짱구 자주 봤었어요~ 요즘도 생각나면 가끔 봐요 ㅋㅋㅋㅋ 투니버스 자주 보셨나봐요!",
+          "summary": "나는 짱구를 자주 봤다.",
+          "date": "2022-10-31",
+          "time": "18:14:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "11706",
+          "participantID": "50074",
+          "utterance": "맞아용 어렸을때 많이 봤어요!!저는 이제 곧 영화 시작해서 가봐야할거 같아요 ㅎㅎ",
+          "summary": "나는 영화를 보러 간다.",
+          "date": "2022-10-31",
+          "time": "18:15:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "11116",
+          "participantID": "50151",
+          "utterance": "네 좋아요 ㅎㅎ 영화 재밌게 보시고 다음에 또 대화해요!!",
+          "summary": "",
+          "date": "2022-10-31",
+          "time": "18:15:17",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 창원에 구경 왔다.",
+          "나는 가족들이랑 같이 놀러 왔다.",
+          "나는 영화 보는 거 좋아한다.",
+          "나는 SF영화를 좋아한다.",
+          "나는 공조를 못 봤다.",
+          "나는 짱구를 자주 봤다."
+        ],
+        "speaker2": [
+          "나는 오랜만에 영화를 볼 예정이다.",
+          "나는 코믹 영화를 좋아한다.",
+          "나는 최근에 영화 공조를 봤다.",
+          "나는 영화 공조에서@이름@가 기억에 남는다.",
+          "나는 짱구를 많이 봤다.",
+          "나는 영화를 보러 간다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 10대 여자이다.",
+          "나의 거주지는 의정부이다.",
+          "나는 비빔밥을 좋아한다.",
+          "나는 건축가가 되고 싶다. 건축학과를 지망한다.",
+          "나는 공부할 생각에 머리가 아프다. 디스코 음악을 가끔 듣는다.",
+          "나는 공부하러 갈 것이다."
+        ],
+        "speaker2": [
+          "나는 10대 여자이다.",
+          "나의 거주지는 창원이다.",
+          "나는 중식을 싫어한다.",
+          "나는 한식을 좋아한다. 나는 김치찌개를 좋아한다.",
+          "나는 정이 많고 예의가 바른 성격이다. 나는 사회복지과에 관심이 많다.",
+          "나는 공부할 예정이다.",
+          "나는 발라드를 좋아한다."
+        ]
+      }
+    }
+  ]
+}

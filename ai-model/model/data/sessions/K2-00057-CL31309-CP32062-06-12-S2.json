@@ -1,0 +1,419 @@
+{
+  "FileInfo": {
+    "filename": "K2-00057-CL31309-CP32062-06-12-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0757",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "자영업",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0751",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00057"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "31309",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 10년 후 박사 학위를 취득하는 것이 목표이다.",
+        "나는 핀란드에 가 보고 싶다.",
+        "나는 오렌지를 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "32062",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 산업디자인학과를 전공했다.",
+        "나는 걷기를 자주 한다.",
+        "나는 비빔냉면을 안 먹는다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "06-12",
+    "topicType": "교육",
+    "topicTitle": "도서관"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00057-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31309",
+          "participantID": "0757",
+          "utterance": "안녕하세요. 저는 30대 여성 입니다!",
+          "summary": "나는 30대 여성이다.",
+          "date": "2022-09-24",
+          "time": "15:55:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32062",
+          "participantID": "0751",
+          "utterance": "안녕하세요. 저도 30대 여성이에요! 재미있게 대화해요!",
+          "summary": "나는 30대 여성이다.",
+          "date": "2022-09-24",
+          "time": "15:56:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31309",
+          "participantID": "0757",
+          "utterance": "저는 지금 공부하다가 힘들어서 잠시 쉬는 중인데, 그 쪽은 뭐하고 계세요?",
+          "summary": "나는 공부를 하다 쉬는 중이다.",
+          "date": "2022-09-24",
+          "time": "15:57:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32062",
+          "participantID": "0751",
+          "utterance": "오! 저도 대학을 늦게 들어가서 지금 도서관에서 공부하고있어요. 다음주가 시험이거든요.",
+          "summary": "나는 대학을 늦게 입학했다. 나는 도서관에서 공부하고 있다. 나는 다음 주가 시험이다.",
+          "date": "2022-09-24",
+          "time": "15:58:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31309",
+          "participantID": "0757",
+          "utterance": "시험공부 열심히 하셔서 좋은 점수 받으세요! 저는 10년 뒤에 박사학위 따는게 목표라 열심히 해야 돼요.",
+          "summary": "나는 10년 뒤 박사 학위를 취득하는 것이 목표이다.",
+          "date": "2022-09-24",
+          "time": "15:59:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32062",
+          "participantID": "0751",
+          "utterance": "정말 멋지세요! 저는 박사는 엄두도 안나요.. 산업디자인학과를 전공했는데 여간어려운게 아니더라구요.",
+          "summary": "나는 산업디자인학과를 전공했다.",
+          "date": "2022-09-24",
+          "time": "16:00:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31309",
+          "participantID": "0757",
+          "utterance": "확실히 산업 쪽 전공이 공부하기에는 어려울 것 같아요. 식사는 하셨나요?",
+          "summary": "",
+          "date": "2022-09-24",
+          "time": "16:01:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32062",
+          "participantID": "0751",
+          "utterance": "아니요 아직 안먹었어요! 동기들이 냉면을 먹자는데, 저는 비빔냉면을 안먹거든요. 식사하셨어요?",
+          "summary": "나는 비빔냉면을 안 먹는다.",
+          "date": "2022-09-24",
+          "time": "16:02:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31309",
+          "participantID": "0757",
+          "utterance": "저는 지금 쉬면서 부모님과 과일 먹는 중인데, 오렌지가 있어서 다 골라내면서 먹고 있어요..",
+          "summary": "",
+          "date": "2022-09-24",
+          "time": "16:03:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32062",
+          "participantID": "0751",
+          "utterance": "오렌지를 왜 골라내세요? 오렌지 맛있는데!",
+          "summary": "",
+          "date": "2022-09-24",
+          "time": "16:04:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31309",
+          "participantID": "0757",
+          "utterance": "저는 오렌지 특유의 그 신맛이 입맛에 맞지가 않아서 좋아하지 않아요...",
+          "summary": "나는 오렌지의 신 맛을 좋아하지 않는다.",
+          "date": "2022-09-24",
+          "time": "16:05:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32062",
+          "participantID": "0751",
+          "utterance": "저희 어머님도 신거 별로 안좋아하시는데 비슷한 이유신거 같아요! 저는 이제 식사를 하러가야겠어요.",
+          "summary": "나의 어머니는 신 맛을 별로 안 좋아하신다.",
+          "date": "2022-09-24",
+          "time": "16:06:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31309",
+          "participantID": "0757",
+          "utterance": "저도 이제 쉴 만큼 쉬었으니 하던 공부 마저 하러 가야겠네요! 다음에 또 연락 드릴게요!",
+          "summary": "",
+          "date": "2022-09-24",
+          "time": "16:06:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32062",
+          "participantID": "0751",
+          "utterance": "네 조금있다가 뵈요! 저도 식사 마치고와서 다시 연락해요!",
+          "summary": "",
+          "date": "2022-09-24",
+          "time": "16:07:31",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나는 공부를 하다 쉬는 중이다.",
+          "나는 10년 뒤 박사 학위를 취득하는 것이 목표이다.",
+          "나는 오렌지의 신 맛을 좋아하지 않는다."
+        ],
+        "speaker2": [
+          "나는 30대 여성이다.",
+          "나는 대학을 늦게 입학했다. 나는 도서관에서 공부하고 있다. 나는 다음 주가 시험이다.",
+          "나는 산업디자인학과를 전공했다.",
+          "나는 비빔냉면을 안 먹는다.",
+          "나의 어머니는 신 맛을 별로 안 좋아하신다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00057-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00057-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31309",
+          "participantID": "0757",
+          "utterance": "공부 하다가 2시간 정도 했더니 또 힘들어서 연락 드려요! 식사는 맛있게 하셨나요?",
+          "summary": "",
+          "date": "2022-09-24",
+          "time": "16:08:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32062",
+          "participantID": "0751",
+          "utterance": "네네! 저는 걷는 걸 좋아해서, 지금 도서관 주변 산책 중이에요, 앉아만 있으면 답답하잖아요!",
+          "summary": "나는 걷는 것을 좋아한다. 나는 산책 중이다.",
+          "date": "2022-09-24",
+          "time": "16:09:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31309",
+          "participantID": "0757",
+          "utterance": "저도 집에서만 공부하려니 갑갑해서 도서관 가려고 준비중이에요!",
+          "summary": "나는 도서관을 가려고 준비 중이다.",
+          "date": "2022-09-24",
+          "time": "16:09:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32062",
+          "participantID": "0751",
+          "utterance": "맞아요! 저는 집에서는 공부가 잘안되서 무조건 도서관을 가요.",
+          "summary": "나는 집에서 공부가 잘 안 된다.",
+          "date": "2022-09-24",
+          "time": "16:11:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31309",
+          "participantID": "0757",
+          "utterance": "근데 도서관도 그 정숙한 분위기가 답답할 때가 있어요. 이럴 때마다 저는 핀란드에 한번 가보고 싶어요.",
+          "summary": "나는 도서관이 답답할 때가 있다. 나는 핀란드에 가보고 싶다.",
+          "date": "2022-09-24",
+          "time": "16:12:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32062",
+          "participantID": "0751",
+          "utterance": "핀란드요? 핀란드가 공부하기 좋은 분위기인가요? 처음들어서 궁금해요.",
+          "summary": "",
+          "date": "2022-09-24",
+          "time": "16:12:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31309",
+          "participantID": "0757",
+          "utterance": "핀란드 도서관은 좀 자유로운 분위기로 운영된다고 하더라구요. 공부만 하는 곳이 아니라 잡지같은 다양한 매체들이 많대요!",
+          "summary": "핀란드 도서관은 자유로운 분위기이다.",
+          "date": "2022-09-24",
+          "time": "16:13:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32062",
+          "participantID": "0751",
+          "utterance": "핀란드는 복지만 좋은 곳인 줄 알았는데, 정말 신기하네요. 그런 분위기라면 저도 가보고 싶어요!",
+          "summary": "나는 핀란드가 복지만 좋은 나라인 줄 알았다.",
+          "date": "2022-09-24",
+          "time": "16:14:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31309",
+          "participantID": "0757",
+          "utterance": "핀란드의 자유로운 분위기에서 공부하면 정말 좋을 것 같지 않나요? 꼭 한 번 가보고 싶어요.",
+          "summary": "나는 핀란드에 꼭 한 번 가보고 싶다.",
+          "date": "2022-09-24",
+          "time": "16:15:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32062",
+          "participantID": "0751",
+          "utterance": "네! 정말 흥미로운 사실이네요. 이렇게 대화하면 새로운 사실들을 알게 되어 정말 좋아요!",
+          "summary": "나는 새로운 사실들을 알게 되어 좋다.",
+          "date": "2022-09-24",
+          "time": "16:16:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31309",
+          "participantID": "0757",
+          "utterance": "저는 이제 도서관에 거의 다 도착했는데, 그 쪽도 산책 잘 즐기셨나요?",
+          "summary": "나는 도서관에 거의 다 도착했다.",
+          "date": "2022-09-24",
+          "time": "16:17:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32062",
+          "participantID": "0751",
+          "utterance": "네! 아까 먹은 점심이 다 소화된 것 같아요. 이제 들어가서 공부하려구요!",
+          "summary": "나는 도서관에 들어가 다시 공부할 예정이다.",
+          "date": "2022-09-24",
+          "time": "16:17:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31309",
+          "participantID": "0757",
+          "utterance": "대화 정말 즐거웠어요! 그럼 이제 저희 둘 다 힘내서 열심히 공부 시작해봐요!",
+          "summary": "",
+          "date": "2022-09-24",
+          "time": "16:17:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32062",
+          "participantID": "0751",
+          "utterance": "네. 오늘 하루도 열심히 사시고 화이팅입니다!",
+          "summary": "",
+          "date": "2022-09-24",
+          "time": "16:18:08",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 도서관을 가려고 준비 중이다.",
+          "나는 도서관이 답답할 때가 있다. 나는 핀란드에 가보고 싶다.",
+          "핀란드 도서관은 자유로운 분위기이다.",
+          "나는 핀란드에 꼭 한 번 가보고 싶다.",
+          "나는 도서관에 거의 다 도착했다."
+        ],
+        "speaker2": [
+          "나는 걷는 것을 좋아한다. 나는 산책 중이다.",
+          "나는 집에서 공부가 잘 안 된다.",
+          "나는 핀란드가 복지만 좋은 나라인 줄 알았다.",
+          "나는 새로운 사실들을 알게 되어 좋다.",
+          "나는 도서관에 들어가 다시 공부할 예정이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나는 공부를 하다 쉬는 중이다.",
+          "나는 10년 뒤 박사 학위를 취득하는 것이 목표이다.",
+          "나는 오렌지의 신 맛을 좋아하지 않는다."
+        ],
+        "speaker2": [
+          "나는 30대 여성이다.",
+          "나는 대학을 늦게 입학했다. 나는 도서관에서 공부하고 있다. 나는 다음 주가 시험이다.",
+          "나는 산업디자인학과를 전공했다.",
+          "나는 비빔냉면을 안 먹는다.",
+          "나의 어머니는 신 맛을 별로 안 좋아하신다."
+        ]
+      }
+    }
+  ]
+}

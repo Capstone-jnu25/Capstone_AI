@@ -1,0 +1,852 @@
+{
+  "FileInfo": {
+    "filename": "K4-00053-CL01823-CP00222-01-03-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0771",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0766",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00053"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "01823",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 거주지는 서울이다.",
+        "나는 어린이집 교사이다.",
+        "나는 클래식 음악을 좋아한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "00222",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 한의사이다.",
+        "나는 요즘, 가끔 슬프다.",
+        "나는 위스키를 좋아한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "01-03",
+    "topicType": "식음료",
+    "topicTitle": "음료"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00053-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "안녕하세요~ 저는 20대 여자입니다!! 잘부탁드려요!!",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-10-05",
+          "time": "21:17:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "안녕하세요 저는 20대 여자입니다 처음뵙겠습니다^^",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-10-05",
+          "time": "21:18:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "제가 이런대화는 처음이라 잘부탁드립니다!~",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:18:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "저두요^^~ 그래도 같은 20대라서 잘통할것같아요!",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:18:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "그러니까요 우리 편하게 선생님이라고 호칭을 정할까요?",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:19:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "그래요! 그게 좋겠어요! 선생님은 어디에 거주하고 게신가요?",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:19:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "저는 서울에 살고있어요~ 선생님은 어디에 사시나요?",
+          "summary": "나의 거주지는 서울이다.",
+          "date": "2022-10-05",
+          "time": "21:19:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "저는 전주에 거주하고있어요!! 하시는 일은 어떻게 되시나요?",
+          "summary": "나의 거주지는 전주이다.",
+          "date": "2022-10-05",
+          "time": "21:19:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "아 꽤 멀리 사는데요? 저는 어린이집 교사입니다~",
+          "summary": "나는 어린이집 교사이다.",
+          "date": "2022-10-05",
+          "time": "21:19:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "오우 마음이 되게 따뜻하실것같아요! 저는 한의사입니다!!",
+          "summary": "나는 한의사이다.",
+          "date": "2022-10-05",
+          "time": "21:19:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "와.. 대단하신분인데요? 젊은나이에 멋있어요.",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:20:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "에이 별말씀을요!! 보기엔 좋아보여도~ 저도 다 고충이 있어요.. 가끔 슬픕니다..흑흑.",
+          "summary": "나는 요즘, 가끔 슬프다.",
+          "date": "2022-10-05",
+          "time": "21:20:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "어머 왜요? 어떤일 떄문에 슬플일이 있으세요?",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:20:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "병원을 오픈을 했는데.. 제 생각만큼 병원 운영이 쉽지가 않네요.",
+          "summary": "나는 병원 운영이 힘들다.",
+          "date": "2022-10-05",
+          "time": "21:20:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "하 그렇죠 요즘 경기가 어렵죠~ 저 잠시 @이름1@ 낮잠좀 재울게요.",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:21:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "네~ 다녀오세효~~ 저 조용히 하고 있을게효~~~",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:21:18",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나의 거주지는 서울이다.",
+          "나는 어린이집 교사이다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나의 거주지는 전주이다.",
+          "나는 한의사이다.",
+          "나는 요즘, 가끔 슬프다.",
+          "나는 병원 운영이 힘들다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00053-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00053-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "선생님~ 저는 겨우 애들재우고 왔어요~",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:21:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "@이름1@은 부럽네요^^낮잠 시간도 정해져있고~ 그쵸?",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:21:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "@이름1@이 자는 시간이 저희 교사들은 티타임입니다~",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:21:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "오~ 제일 행복한 시간일수도있겠네요 어떤 차를 드시나요?",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:21:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "이게 어린이집교사만의 특혜죠? 저는 커피를 먹어요~",
+          "summary": "나는 커피를 먹는다.",
+          "date": "2022-10-05",
+          "time": "21:22:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "오 커피 좋아하시나보네요!! 저는 달달한 디저트 음료를 좋아하는데~",
+          "summary": "나는 달달한 디저트 음료를 좋아한다.",
+          "date": "2022-10-05",
+          "time": "21:22:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "선생님은 그럼 어떤음료를 즐겨 드시나요?",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:22:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "아.. 이것도 음료인가요? 주류 음료겠죠..? 저는 위스키를 좋아해요!",
+          "summary": "나는 위스키를 좋아한다.",
+          "date": "2022-10-05",
+          "time": "21:22:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "하하 술을 좋아하시는군요~ 애주가이신가봐요?",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:23:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "네~ 밥먹을때도 술을 항상..먹어요^^~선생님은 술 안좋아하세요?",
+          "summary": "나는 밥 먹을 때도 술을 항상 먹는다.",
+          "date": "2022-10-05",
+          "time": "21:23:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "저는 술냄새만 맡아도 취해요 그럼 평소에 술을 어느정도 먹는거에요?",
+          "summary": "나는 술 냄새만 맡아도 취한다.",
+          "date": "2022-10-05",
+          "time": "21:23:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "음.. 일주일에 네다섯번정도는 항상 취해서 집에 가요^^",
+          "summary": "나는 일주일에 네다섯 번 정도 취해서 집에 간다.",
+          "date": "2022-10-05",
+          "time": "21:23:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "에이~ 한의사시라면서 자기몸을 아껴야죠.",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:23:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "아 맞다...! 잠시 제가 한의사라는걸 잊었어요 하하 여태 다 농담입니다^^",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:24:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "저는 이제 @이름1@ 간식시간이라 다녀올게요~",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:24:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "네~ 다녀오세요^^~ 저도 진료보고있을게요!",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:24:29",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 커피를 먹는다.",
+          "나는 술 냄새만 맡아도 취한다."
+        ],
+        "speaker2": [
+          "나는 달달한 디저트 음료를 좋아한다.",
+          "나는 위스키를 좋아한다.",
+          "나는 밥 먹을 때도 술을 항상 먹는다.",
+          "나는 일주일에 네다섯 번 정도 취해서 집에 간다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나의 거주지는 서울이다.",
+          "나는 어린이집 교사이다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나의 거주지는 전주이다.",
+          "나는 한의사이다.",
+          "나는 요즘, 가끔 슬프다.",
+          "나는 병원 운영이 힘들다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00053-2",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00053-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "선생님~ 저는 이제 퇴근합니다~ 바쁘신가요?",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:24:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "저도 퇴근했어요! 이제 해방이네요? 퇴근 후에는 일정이 어떻게 되세요?",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:24:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "저는 곧장집으로가요~ 선생님 그나저나 애주가맞아요? 아니에요?",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:25:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "하하.. 어느정도는 진짜예요.. 오늘도 육회에 소주 먹고 가려구요.",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:25:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "와.. 요즘 같은 날씨에 육회에 소주..와.",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:25:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "술 냄새만 맡아도.. 취하신다고 하지 않으셨나요?",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:25:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "제가 한 때 친구랑 육회에 소주를 노상으로 많이먹었거든요 그게 생각이나네요.",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:26:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "아그래요..? 그래도 술을 아예 못하는분은 아니신가봐요!!",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:26:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "저는 그냥 음료수 먹었어요~ 술은 그냥 친구가 먹었구요~",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:26:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "아 그렇군요~ 취한 친구 뒷바라지하기 힘들지 않으셨어요?",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:26:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "그래도 가끔 미안하다고 북쳐주고 하는데~ 봐줘야죠.",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:27:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "북을 쳐줘요..? 개인기인가요? 그친구?ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:27:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "아닙니다 ㅎㅎ 제친구한테 개라뇨~ 말넘심입니다~",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:27:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "아 그런 개가 아닌데 하하... 오해예요^^~",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:28:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "저 안씻은 발바닥에 가시도 빼준 친구라..",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:28:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "오.. 진짜 친한친구인가 보네요~~우선 저 육회 집도착했으니 다음에 또 연락드릴게요^^",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:28:43",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나의 거주지는 서울이다.",
+          "나는 어린이집 교사이다.",
+          "나는 커피를 먹는다.",
+          "나는 술 냄새만 맡아도 취한다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나의 거주지는 전주이다.",
+          "나는 한의사이다.",
+          "나는 요즘, 가끔 슬프다.",
+          "나는 병원 운영이 힘들다.",
+          "나는 달달한 디저트 음료를 좋아한다.",
+          "나는 위스키를 좋아한다.",
+          "나는 밥 먹을 때도 술을 항상 먹는다.",
+          "나는 일주일에 네다섯 번 정도 취해서 집에 간다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00053-3",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00053-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "선생님 주말인데 뭐하고 지내세요? 오랜만이죠.",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:28:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "그러게요! 너무 오랜만이네요!~ 저한테 삐진줄알았어요!",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:29:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "아니에요~ 그날 육회는 잘 드셨어요? 애주가님?",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:29:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "하하 기억력도 좋으시네요~ 그럼요! 계란 노른자에 푹~ 찍어서 맛있게 먹었죠^^",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:29:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "와.. 진짜 상상만해도 무슨맛인지 알거같네요~",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:29:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "근데 선생님은 주말인데 뭐하고 계셨어요?",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:30:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "저는 오랜만에 여유좀 부릴려고 집에서 음악좀 듣고있었어요.",
+          "summary": "나는 집에서 음악을 듣고 있었다.",
+          "date": "2022-10-05",
+          "time": "21:30:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "오마나~~ 되게 교양있으시네요! 어떤 음악을 듣고 계셨는데요?",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:30:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "맞아요 제가 교양이 있어서~클래식을 즐겨 듣거든요.",
+          "summary": "나는 클래식 음악을 좋아한다.",
+          "date": "2022-10-05",
+          "time": "21:30:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "오호~ 저는 힙합을 좋아하는데~ 힙합은 관심 없으신가요?",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:30:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "어떤 힙한노래 좋아하시난요? 힙한한의사 멋있긴하네요.",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:30:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "아 저는 도끼 좋아해서 도끼 콘서트도 가고 그래요~",
+          "summary": "나는 래퍼 도끼를 좋아한다.",
+          "date": "2022-10-05",
+          "time": "21:30:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "와 진짜요? 되게 의외네요 뚝딱이 같이 생겼을거같은데.",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:31:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "저요..? 하하 말이 좀 지나치시네요~ 저 되게 미모의 한의사입니다!",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:31:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01823",
+          "participantID": "0771",
+          "utterance": "농담입니다~ 저는 그럼 남은 주말 여유를 부릴게요.",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:31:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00222",
+          "participantID": "0766",
+          "utterance": "그래요~ 푹 쉬고 내일부터 파이팅 하자구요^^",
+          "summary": "",
+          "date": "2022-10-05",
+          "time": "21:31:52",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 집에서 음악을 듣고 있었다.",
+          "나는 클래식 음악을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 래퍼 도끼를 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나의 거주지는 서울이다.",
+          "나는 어린이집 교사이다.",
+          "나는 커피를 먹는다.",
+          "나는 술 냄새만 맡아도 취한다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나의 거주지는 전주이다.",
+          "나는 한의사이다.",
+          "나는 요즘, 가끔 슬프다.",
+          "나는 병원 운영이 힘들다.",
+          "나는 달달한 디저트 음료를 좋아한다.",
+          "나는 위스키를 좋아한다.",
+          "나는 밥 먹을 때도 술을 항상 먹는다.",
+          "나는 일주일에 네다섯 번 정도 취해서 집에 간다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "FileInfo": {
+    "filename": "K2-00134-CL41120-CP51722-02-10-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0639",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0644",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00134"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "41120",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나는 요즘, 종종 신이 난다.",
+        "나는 새벽에 운동한다.",
+        "나는 컨트리 음악을 좋아한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "51722",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나의 거주지는 이천이다.",
+        "나는 멜로 영화를 자주 본다.",
+        "나는 일식을 즐겨 먹는다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "02-10",
+    "topicType": "주거와 생활",
+    "topicTitle": "주거 환경"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00134-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41120",
+          "participantID": "0639",
+          "utterance": "안녕하세요! 저는 40대 여자입니다. 자기소개 부탁합니다.",
+          "summary": "나는 40대 여자이다.",
+          "date": "2022-10-09",
+          "time": "17:16:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51722",
+          "participantID": "0644",
+          "utterance": "안녕하세요. 저는 50대 여자입니다. 반가워요.",
+          "summary": "나는 50대 여자이다.",
+          "date": "2022-10-09",
+          "time": "17:16:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41120",
+          "participantID": "0639",
+          "utterance": "저는 경기도 안성에 살고 있어요. 어디사시나요?",
+          "summary": "",
+          "date": "2022-10-09",
+          "time": "17:16:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51722",
+          "participantID": "0644",
+          "utterance": "안성에 사세요? 저는 경기도 이천에 살아요.",
+          "summary": "나의 거주지는 이천이다.",
+          "date": "2022-10-09",
+          "time": "17:17:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41120",
+          "participantID": "0639",
+          "utterance": "이천에 사시는군요. 이천은 공기가 참 맑지 않나요?",
+          "summary": "",
+          "date": "2022-10-09",
+          "time": "17:17:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51722",
+          "participantID": "0644",
+          "utterance": "맞아요. 이천이 공기도 좋아서 쌀도 맛있고 도자기도 유명하죠.",
+          "summary": "",
+          "date": "2022-10-09",
+          "time": "17:17:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41120",
+          "participantID": "0639",
+          "utterance": "그러게 말이에요. 공기좋은데서 운동하면 참 좋을것같아요. 저는 새벽에 운동을 하거든요.",
+          "summary": "나는 새벽에 운동한다.",
+          "date": "2022-10-09",
+          "time": "17:17:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51722",
+          "participantID": "0644",
+          "utterance": "새벽에 운동을 하신다니 참 부지런한 성격이시군요.",
+          "summary": "",
+          "date": "2022-10-09",
+          "time": "17:17:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41120",
+          "participantID": "0639",
+          "utterance": "네. 요즘 운동이 잘돼서 요즘 종종신이나요. 운동 안좋아하세요?",
+          "summary": "나는 요즘, 종종 신이 난다.",
+          "date": "2022-10-09",
+          "time": "17:17:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51722",
+          "participantID": "0644",
+          "utterance": "저는 농사를 짓다보니 몸이 힘들어 운동할 여력이 안되요.",
+          "summary": "나는 농사를 짓는다.",
+          "date": "2022-10-09",
+          "time": "17:18:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41120",
+          "participantID": "0639",
+          "utterance": "그럼 집에서 쉴때 뭐하면서 쉬시나요?",
+          "summary": "",
+          "date": "2022-10-09",
+          "time": "17:18:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51722",
+          "participantID": "0644",
+          "utterance": "저는 쉴때는 영화보는걸 좋아하는데 특히 멜로영화를 자주봐요.",
+          "summary": "나는 멜로 영화를 자주 본다.",
+          "date": "2022-10-09",
+          "time": "17:18:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41120",
+          "participantID": "0639",
+          "utterance": "그렇군요. 오늘도 힘드셨을텐데, 푹쉬시길 바래요.",
+          "summary": "",
+          "date": "2022-10-09",
+          "time": "17:18:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51722",
+          "participantID": "0644",
+          "utterance": "네, 오늘 이만 쉴께요. 다음에 대화해요.",
+          "summary": "",
+          "date": "2022-10-09",
+          "time": "17:18:58",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 여자이다.",
+          "나는 새벽에 운동한다.",
+          "나는 요즘, 종종 신이 난다."
+        ],
+        "speaker2": [
+          "나는 50대 여자이다.",
+          "나의 거주지는 이천이다.",
+          "나는 농사를 짓는다.",
+          "나는 멜로 영화를 자주 본다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00134-1",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00134-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41120",
+          "participantID": "0639",
+          "utterance": "5일동안 잘지내셨나요? 농사를 짓는다고 하셨는데, 농사는 잘되고 있나요?",
+          "summary": "",
+          "date": "2022-10-09",
+          "time": "17:19:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51722",
+          "participantID": "0644",
+          "utterance": "올해는 비가 많이와서 농사가 잘 안되서 걱정이 많아요.",
+          "summary": "",
+          "date": "2022-10-09",
+          "time": "17:19:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41120",
+          "participantID": "0639",
+          "utterance": "비가 많이오면 농사에 지장이 있죠. 농사지으시면 주거환경이 어떻게 되세요?",
+          "summary": "",
+          "date": "2022-10-09",
+          "time": "17:19:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51722",
+          "participantID": "0644",
+          "utterance": "저의 집이 구옥이라 이번 농사가 잘되면 주거환경을 바꾸려고 계획했었어요.",
+          "summary": "나의 집은 구옥이다.",
+          "date": "2022-10-09",
+          "time": "17:20:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41120",
+          "participantID": "0639",
+          "utterance": "어떤 식으로 주거환경을 바꾸실건가요? 집을 다시 지으실건가요?",
+          "summary": "",
+          "date": "2022-10-09",
+          "time": "17:20:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51722",
+          "participantID": "0644",
+          "utterance": "집을 다시 짓는것보다 다시 리모델링을 하려고했어요.",
+          "summary": "나는 리모델링을 하려고 한다.",
+          "date": "2022-10-09",
+          "time": "17:20:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41120",
+          "participantID": "0639",
+          "utterance": "리모델링으로 주거환경을 바꿔주는것도 참 좋죠.",
+          "summary": "",
+          "date": "2022-10-09",
+          "time": "17:20:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51722",
+          "participantID": "0644",
+          "utterance": "맞아요. 결혼한 @이름1@이 가끔올때 집이 오래되니 미안하기도했어요.",
+          "summary": "",
+          "date": "2022-10-09",
+          "time": "17:21:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41120",
+          "participantID": "0639",
+          "utterance": "이쁘게 리모델링하시길바래요. 농사지으실때 새참은 주로 뭘드시나요?",
+          "summary": "",
+          "date": "2022-10-09",
+          "time": "17:21:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51722",
+          "participantID": "0644",
+          "utterance": "제가 일식을 즐겨먹어서 우동같은 일식을 배달시켜먹어요.",
+          "summary": "나는 일식을 즐겨 먹는다.",
+          "date": "2022-10-09",
+          "time": "17:22:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41120",
+          "participantID": "0639",
+          "utterance": "와. 새참메뉴인데도 정말 맛있는걸 드시네요. 일하실때 듣는 음악은 없으세요?",
+          "summary": "",
+          "date": "2022-10-09",
+          "time": "17:22:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51722",
+          "participantID": "0644",
+          "utterance": "일할때는 힘들다보니 음악을 들으면서 일하기도해요. 음악좋아하세요?",
+          "summary": "나는 일하면서 음악을 듣는다.",
+          "date": "2022-10-09",
+          "time": "17:22:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41120",
+          "participantID": "0639",
+          "utterance": "저는 컨트리 음악을 좋아해요. 컨트리 음악을 듣고 일해보세요! 그럼 신나실거에요.",
+          "summary": "나는 컨트리 음악을 좋아한다.",
+          "date": "2022-10-09",
+          "time": "17:22:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51722",
+          "participantID": "0644",
+          "utterance": "좋은 말씀 감사해요. 덕분에 즐거웠어요.",
+          "summary": "",
+          "date": "2022-10-09",
+          "time": "17:22:43",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 컨트리 음악을 좋아한다."
+        ],
+        "speaker2": [
+          "나의 집은 구옥이다.",
+          "나는 리모델링을 하려고 한다.",
+          "나는 일식을 즐겨 먹는다.",
+          "나는 일하면서 음악을 듣는다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여자이다.",
+          "나는 새벽에 운동한다.",
+          "나는 요즘, 종종 신이 난다."
+        ],
+        "speaker2": [
+          "나는 50대 여자이다.",
+          "나의 거주지는 이천이다.",
+          "나는 농사를 짓는다.",
+          "나는 멜로 영화를 자주 본다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "FileInfo": {
+    "filename": "K2-00177-CL33699-CP33939-02-02-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0726",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "자영업",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0751",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00177"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "33699",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 흐린 날을 싫어한다.",
+        "나는 중학교 과학 교사이다.",
+        "나는 가끔 죄책감이 든다.",
+        "나는 순댓국을 안 먹는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "33939",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 장마철을 좋아한다.",
+        "나는 주말에 화장실을 청소한다.",
+        "나는 3년 전 일 때문에 죄책감이 든다.",
+        "나는 결혼을 안했다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "02-02",
+    "topicType": "주거와 생활",
+    "topicTitle": "아파트"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00177-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33699",
+          "participantID": "0726",
+          "utterance": "즐거운 대화 나눠요~~ 30대 여자에요 ^^",
+          "summary": "나는 30대 여자이다.",
+          "date": "2022-10-11",
+          "time": "23:00:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33939",
+          "participantID": "0751",
+          "utterance": "안녕하세요 저는 30대 여자입니다. 오늘 대화 재밌게해요.",
+          "summary": "나는 30대 여자이다.",
+          "date": "2022-10-11",
+          "time": "23:00:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33699",
+          "participantID": "0726",
+          "utterance": "네~ 선생님은 어떤 날씨 좋아하세요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "23:00:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33939",
+          "participantID": "0751",
+          "utterance": "저는 특이하게 장마철을 좋아해요 선생님은요 ?",
+          "summary": "나는 장마철을 좋아한다.",
+          "date": "2022-10-11",
+          "time": "23:00:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33699",
+          "participantID": "0726",
+          "utterance": "그러게요 특이하시네요 저는 흐린 날을 싫어해서 화창한 날씨 좋아해요!",
+          "summary": "나는 흐린 날을 싫어한다./나는 화창한 날씨를 좋아한다.",
+          "date": "2022-10-11",
+          "time": "23:01:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33939",
+          "participantID": "0751",
+          "utterance": "그렇구나 선생님은 혹시 결혼 하셨어요???",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "23:01:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33699",
+          "participantID": "0726",
+          "utterance": "네 ^^ 저는 결혼했어요 ㅎㅎ 선생님은요?",
+          "summary": "나는 결혼을 했다.",
+          "date": "2022-10-11",
+          "time": "23:03:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33939",
+          "participantID": "0751",
+          "utterance": "저는 3년전 일때문에 죄책감이 느껴져서 아직 결혼을 안 했어요.",
+          "summary": "나는 결혼을 안 했다./나는 3년 전 일 때문에 죄책감이 든다.",
+          "date": "2022-10-11",
+          "time": "23:03:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33699",
+          "participantID": "0726",
+          "utterance": "저도 가끔 죄책감을 느끼는데.. 저희 서로 죄최감을 내려놔요 ㅜㅜ.",
+          "summary": "나는 가끔 죄책감이 든다.",
+          "date": "2022-10-11",
+          "time": "23:04:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33939",
+          "participantID": "0751",
+          "utterance": "네 선생님 그럼 오늘 대화는 긍정적으로 이어가봅시다.!",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "23:04:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33699",
+          "participantID": "0726",
+          "utterance": "네!! 선생님은 안 먹는 음식 있으세요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "23:04:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33939",
+          "participantID": "0751",
+          "utterance": "저는 음식을 좋아해서 안 먹는 음식은 없어요 선생님은요?",
+          "summary": "나는 안 먹는 음식이 없다.",
+          "date": "2022-10-11",
+          "time": "23:04:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33699",
+          "participantID": "0726",
+          "utterance": "저는 순대국을 안 먹어요 약간 비린맛이 나더라구요 ㅜㅜ.",
+          "summary": "나는 순댓국을 안 먹는다.",
+          "date": "2022-10-11",
+          "time": "23:05:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33939",
+          "participantID": "0751",
+          "utterance": "아 그러시구나 오늘은 주말이니 하장실 청소하러 가야겠어요 다음에 다시 대화해용.",
+          "summary": "나는 주말에 화장실을 청소한다.",
+          "date": "2022-10-11",
+          "time": "23:05:27",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 흐린 날을 싫어한다./나는 화창한 날씨를 좋아한다.",
+          "나는 결혼을 했다.",
+          "나는 가끔 죄책감이 든다.",
+          "나는 순댓국을 안 먹는다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다.",
+          "나는 장마철을 좋아한다.",
+          "나는 결혼을 안 했다./나는 3년 전 일 때문에 죄책감이 든다.",
+          "나는 안 먹는 음식이 없다.",
+          "나는 주말에 화장실을 청소한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00177-1",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00177-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33699",
+          "participantID": "0726",
+          "utterance": "선생님 5일 만이에요! 5일전에 화장실 청소 한다고 하셨는데 깨끗하게 하셨어요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "23:05:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33939",
+          "participantID": "0751",
+          "utterance": "네 화장실 청소는 매일매일 해야겠더라구요 한번에 하려니까 허리 끊어질뻔했어요.",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "23:05:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33699",
+          "participantID": "0726",
+          "utterance": "저도 화장실청소는 잘 안하게 되더라구요..ㅋㅋ 거부감들어.",
+          "summary": "나는 화장실 청소를 잘 안 하게 된다.",
+          "date": "2022-10-11",
+          "time": "23:05:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33939",
+          "participantID": "0751",
+          "utterance": "그래도 한번에 몰아서 하는것 보다는 자주 하는게 좋아요.",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "23:06:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33699",
+          "participantID": "0726",
+          "utterance": "그건 그래요 ㅎㅎ 하 저는 직업이 중학교 과학 교사인데 이번에 시험문제 때문에 머리가 아프네요 ㅜㅜ.",
+          "summary": "나는 중학교 과학 교사이다.",
+          "date": "2022-10-11",
+          "time": "23:06:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33939",
+          "participantID": "0751",
+          "utterance": "머리 아프실만 하겠네요 아참 선생님은 아파트에 거주하세요 아니면 주택에 거주하세요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "23:06:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33699",
+          "participantID": "0726",
+          "utterance": "저는 아파트에 거주하고있어요 ㅎㅎ 선생님은요?",
+          "summary": "나는 아파트에서 살고 있다.",
+          "date": "2022-10-11",
+          "time": "23:06:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33939",
+          "participantID": "0751",
+          "utterance": "저는 주택에 거주하고 있는데 아파트로 이사가려고 알아보고있거든요 아파트 좋아요?",
+          "summary": "나는 주택에 거주한다./나는 이사 가려고 한다.",
+          "date": "2022-10-11",
+          "time": "23:07:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33699",
+          "participantID": "0726",
+          "utterance": "주택보단 아파트가 낫다고 생각해요 아 단점이라곤 층간소음 !",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "23:07:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33939",
+          "participantID": "0751",
+          "utterance": "아 층간소음이 그렇긴 하겠네요 주택은 너무 춥고 벌레도 많아서 못 살겠더라구요.",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "23:08:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33699",
+          "participantID": "0726",
+          "utterance": "맞아요 그리고 관리하기가 너무 힘들잖아요 ㅜㅜ.",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "23:08:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33939",
+          "participantID": "0751",
+          "utterance": "네 맞아요 아파트는 전체적으로 집이 따듯한거 같아요 그쵸?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "23:08:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33699",
+          "participantID": "0726",
+          "utterance": "너무 오래된 아파트만 아니면!! 저는 시험문제 뽑으러 가야해요!",
+          "summary": "나는 시험 문제를 뽑으러 간다.",
+          "date": "2022-10-11",
+          "time": "23:08:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33939",
+          "participantID": "0751",
+          "utterance": "네 선생님 일 마무리 잘 하시고 오늘대화 즐거웠어요!",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "23:09:04",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 화장실 청소를 잘 안 하게 된다.",
+          "나는 중학교 과학 교사이다.",
+          "나는 아파트에서 살고 있다.",
+          "나는 시험 문제를 뽑으러 간다."
+        ],
+        "speaker2": [
+          "나는 주택에 거주한다./나는 이사 가려고 한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 흐린 날을 싫어한다./나는 화창한 날씨를 좋아한다.",
+          "나는 결혼을 했다.",
+          "나는 가끔 죄책감이 든다.",
+          "나는 순댓국을 안 먹는다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다.",
+          "나는 장마철을 좋아한다.",
+          "나는 결혼을 안 했다./나는 3년 전 일 때문에 죄책감이 든다.",
+          "나는 안 먹는 음식이 없다.",
+          "나는 주말에 화장실을 청소한다."
+        ]
+      }
+    }
+  ]
+}

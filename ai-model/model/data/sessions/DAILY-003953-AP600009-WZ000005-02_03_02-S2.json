@@ -1,0 +1,900 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-003953-AP600009-WZ000005-02_03_02-S2.json",
+        "sessionLevel": "2"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0053",
+            "gender": "여성",
+            "age": "30대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "기타"
+        },
+        "speaker2": {
+            "participantID": "F0053",
+            "gender": "여성",
+            "age": "60대 이상",
+            "occupation": "주부",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "고졸",
+            "major": "기타"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "003953"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600009",
+            "personaFeatures": [
+                "나는 관광/감상의 지명에 대해 잘 알고 싶다.",
+                "나는 늘 주가에 관심을 갖고 있다",
+                "나는 실외에서 자전거 타는 것을 좋아한다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000005",
+            "personaFeatures": [
+                "나는 지명에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_02",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "장소"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "003953-1",
+            "sessionKeywords": [
+                "*칠곡면*,*칠곡면*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600009",
+                    "participantID": "E0053",
+                    "utterance": "안녕 나는 관광 지명에 대해 잘 알고 싶어서 궁금한 게 많아. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 관광 지명에 대해 잘 알고 싶다. ",
+                    "timestamp": 1695607797000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "안녕하세요? 저는 지명을 잘 알고 있습니다. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695607810000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600009",
+                    "participantID": "E0053",
+                    "utterance": "그래? 다행이네 그러면 궁금한 거 물어봐도 되겠다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695607827000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네 무엇이든 질문해 주세요. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695607841000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600009",
+                    "participantID": "E0053",
+                    "utterance": "그러면 칠곡면이라고 알아? 자세히 알려줄래?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695607857000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "칠곡면(七谷面)은 대한민국 경상남도 의령군의 면으로  넓이는 22.37km2이고, 인구는 2006년 기준으로 1,308명입니다. ",
+                    "context": {
+                        "query": "칠곡면",
+                        "contents": [
+                            {
+                                "documentID": "379930",
+                                "documentTitle": "칠곡면",
+                                "content": [
+                                    "칠곡면(七谷面)은 대한민국 경상남도 의령군의 면이다.",
+                                    "넓이는 22.37km2이고, 인구는 2006년 기준으로 1,308명이다.",
+                                    "연혁.",
+                                    "의령군에서 7km 떨어진 서쪽 면으로 자굴산이 남쪽으로 뻗어내려 펼쳐지면서 취락을 이룬 면이다.",
+                                    "국도 제20호선이 칠곡면 중심을 관통하고 진주시와 합천군을 통하는 삼거리가 있어 교통이 편리하다.",
+                                    "근래는 산지를 개발 단감단지를 조성하여 소득을 올리고, 한과·엿기름 등을 생산해 명성을 얻고 있다.",
+                                    "신라시대 장함현의 읍지였다고 하고 조선 중기 칠곡면으로 부르다가 조선 말 도북면에서 칠곡면으로 바꾸고 현재에 이르렀다."
+                                ]
+                            },
+                            {
+                                "documentID": "379801",
+                                "documentTitle": "가례면",
+                                "content": [
+                                    "가례면(嘉禮面)은 대한민국 경상남도 의령군의 면이다.",
+                                    "넓이는 35.55km2이고, 인구는 2006년 기준으로 2,171명이다.",
+                                    "연혁.",
+                                    "의령읍과 연접하고 칠곡면 사이에 있는 면으로서 예부터 살기 좋은 곳으로 이름 났다.",
+                                    "면 북쪽에 군내 최고인 자굴산(897m)이 자리 잡고 있으며, 골짝을 이루어 농경지가 그 사이에 있다.",
+                                    "최근에는 의령복지마을, 경남사회진흥연수원, 경남학생교육원 등 대단위 시설이 건립되어 발전하는 모습을 보여준다.",
+                                    "괴진리 우곡마을에 있는 서암저수지, 의령상수원 댐은 자굴산과 어울려 경치가 매우 아름답다.",
+                                    "현재 서암저수지의 확장 및 자굴산 권역 순환도로 개설공사가 연계 진행되고 있어 의령의 명소로 크게 부각될 것으로 기대된다.",
+                                    "원래는 퇴계 이황이 가례동천이라 새긴 바위글이 가례면 이름의 유래이고, 일가례면(갑을리, 양성리, 개승리, 괴진리, 수성리), 이가례면(가례리, 운암리, 대천리, 봉두리)으로 나누어 있다가, 1914년 읍면 통합시 1개 면이 되었다.",
+                                    "유래.",
+                                    "퇴계 이황이 처가(김해 허씨)가 있던 동네에서 낚시를 즐기기도 하고, 큰 바위에 가례동천이라 새겨 놓았다.",
+                                    "퇴계 이황이 이곳에서 머물렀다는 것을 알리기 위해 암각문이 있는 곳을 정비하고, 안내판을 설치하였다."
+                                ]
+                            },
+                            {
+                                "documentID": "220251",
+                                "documentTitle": "한과",
+                                "content": [
+                                    "한과(韓菓)는 한국의 전통 과자를 두루 일컫는 말이다.",
+                                    "조과(造果)라고도 하며, 과정류(果飣類)로도 부른다.",
+                                    "주로 곡물가루나, 과일, 식용 가능한 뿌리나 잎에 꿀, 엿, 설탕 등으로 달콤하게 만들어 후식으로 먹는다.",
+                                    "유과의 일종도 한과(漢菓)라 부르는데, 원래는 이쪽이 맞는 말이다.",
+                                    "서울의 예전 말이 한양(漢陽), 한강의 한자가 漢江 인 것과 마찬가지다.",
+                                    "한과를 韓菓라 쓰기 시작한건 비교적 최근의 일이다.",
+                                    "경상남도 의령군 칠곡면의 대표적인 특산물이다.",
+                                    "의령 한과는 칠곡면 자굴산자락에서 만들어진다.",
+                                    "자굴산 기슭의 맑고 깨끗한 물과 공기 땅에서오염되지 않은 땅에서 재배한 농산물과 조청이 함께 어우러져 만들어지는 것이다.",
+                                    "눈같이 희고 가뿐한 모양이 입에 넣으면 부서질듯 녹아내리는 맛을 지닌 유과는 세계 어느 과자와 비교 할 수 없는 우리나라 전통 과자이다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "칠곡면(七谷面)은 대한민국 경상남도 의령군의 면으로 넓이는 22.37km2이고, 인구는 2006년 기준으로 1,308명이다. ",
+                    "timestamp": 1695607879000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600009",
+                    "participantID": "E0053",
+                    "utterance": "의령에 있었구나. 어떤 특징이 있는지 더 알려줘.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695607930000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "국도 제20호선이 칠곡면 중심을 관통하고 진주시와 합천군을 통하는 삼거리가 있어 교통이 편리하고  근래는 산지를 개발 단감단지를 조성하여 소득을 올리고, 한과·엿기름 등을 생산해 명성을 얻고 있습니다. ",
+                    "context": {
+                        "query": "칠곡면",
+                        "contents": [
+                            {
+                                "documentID": "379930",
+                                "documentTitle": "칠곡면",
+                                "content": [
+                                    "칠곡면(七谷面)은 대한민국 경상남도 의령군의 면이다.",
+                                    "넓이는 22.37km2이고, 인구는 2006년 기준으로 1,308명이다.",
+                                    "연혁.",
+                                    "의령군에서 7km 떨어진 서쪽 면으로 자굴산이 남쪽으로 뻗어내려 펼쳐지면서 취락을 이룬 면이다.",
+                                    "국도 제20호선이 칠곡면 중심을 관통하고 진주시와 합천군을 통하는 삼거리가 있어 교통이 편리하다.",
+                                    "근래는 산지를 개발 단감단지를 조성하여 소득을 올리고, 한과·엿기름 등을 생산해 명성을 얻고 있다.",
+                                    "신라시대 장함현의 읍지였다고 하고 조선 중기 칠곡면으로 부르다가 조선 말 도북면에서 칠곡면으로 바꾸고 현재에 이르렀다."
+                                ]
+                            },
+                            {
+                                "documentID": "379801",
+                                "documentTitle": "가례면",
+                                "content": [
+                                    "가례면(嘉禮面)은 대한민국 경상남도 의령군의 면이다.",
+                                    "넓이는 35.55km2이고, 인구는 2006년 기준으로 2,171명이다.",
+                                    "연혁.",
+                                    "의령읍과 연접하고 칠곡면 사이에 있는 면으로서 예부터 살기 좋은 곳으로 이름 났다.",
+                                    "면 북쪽에 군내 최고인 자굴산(897m)이 자리 잡고 있으며, 골짝을 이루어 농경지가 그 사이에 있다.",
+                                    "최근에는 의령복지마을, 경남사회진흥연수원, 경남학생교육원 등 대단위 시설이 건립되어 발전하는 모습을 보여준다.",
+                                    "괴진리 우곡마을에 있는 서암저수지, 의령상수원 댐은 자굴산과 어울려 경치가 매우 아름답다.",
+                                    "현재 서암저수지의 확장 및 자굴산 권역 순환도로 개설공사가 연계 진행되고 있어 의령의 명소로 크게 부각될 것으로 기대된다.",
+                                    "원래는 퇴계 이황이 가례동천이라 새긴 바위글이 가례면 이름의 유래이고, 일가례면(갑을리, 양성리, 개승리, 괴진리, 수성리), 이가례면(가례리, 운암리, 대천리, 봉두리)으로 나누어 있다가, 1914년 읍면 통합시 1개 면이 되었다.",
+                                    "유래.",
+                                    "퇴계 이황이 처가(김해 허씨)가 있던 동네에서 낚시를 즐기기도 하고, 큰 바위에 가례동천이라 새겨 놓았다.",
+                                    "퇴계 이황이 이곳에서 머물렀다는 것을 알리기 위해 암각문이 있는 곳을 정비하고, 안내판을 설치하였다."
+                                ]
+                            },
+                            {
+                                "documentID": "220251",
+                                "documentTitle": "한과",
+                                "content": [
+                                    "한과(韓菓)는 한국의 전통 과자를 두루 일컫는 말이다.",
+                                    "조과(造果)라고도 하며, 과정류(果飣類)로도 부른다.",
+                                    "주로 곡물가루나, 과일, 식용 가능한 뿌리나 잎에 꿀, 엿, 설탕 등으로 달콤하게 만들어 후식으로 먹는다.",
+                                    "유과의 일종도 한과(漢菓)라 부르는데, 원래는 이쪽이 맞는 말이다.",
+                                    "서울의 예전 말이 한양(漢陽), 한강의 한자가 漢江 인 것과 마찬가지다.",
+                                    "한과를 韓菓라 쓰기 시작한건 비교적 최근의 일이다.",
+                                    "경상남도 의령군 칠곡면의 대표적인 특산물이다.",
+                                    "의령 한과는 칠곡면 자굴산자락에서 만들어진다.",
+                                    "자굴산 기슭의 맑고 깨끗한 물과 공기 땅에서오염되지 않은 땅에서 재배한 농산물과 조청이 함께 어우러져 만들어지는 것이다.",
+                                    "눈같이 희고 가뿐한 모양이 입에 넣으면 부서질듯 녹아내리는 맛을 지닌 유과는 세계 어느 과자와 비교 할 수 없는 우리나라 전통 과자이다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "국도 제20호선이 칠곡면 중심을 관통하고 진주시와 합천군을 통하는 삼거리가 있어 교통이 편리하고 근래는 산지를 개발 단감단지를 조성하여 소득을 올리고, 한과·엿기름 등을 생산해 명성을 얻고 있다. ",
+                    "timestamp": 1695607985000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600009",
+                    "participantID": "E0053",
+                    "utterance": "그렇구나. 자세히 알려줘서 고마워.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695608015000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네. 더 궁금한 검은 없으신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695608023000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600009",
+                    "participantID": "E0053",
+                    "utterance": "음 궁금한 건 없고 내가 실외에서 자전거 타는 걸 좋아해서 나중에 자전거 타고 가볼 수 있으면 좋겠다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 실외에서 자전거 타는 것을 좋아한다. ",
+                    "timestamp": 1695608049000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "자전거 타는 걸 좋아하시는 군요. 나중에 가보면 좋을  것 같습니다. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695608062000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600009",
+                    "participantID": "E0053",
+                    "utterance": "나중에 또 알고 싶은 지명이 있으면 물어볼게.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695608077000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네. 언제든 지명이 궁금하면 질문해 주세요. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695608087000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 관광 지명에 대해 잘 알고 싶다. ",
+                    "나는 실외에서 자전거 타는 것을 좋아한다. "
+                ],
+                "wizard": [
+                    "칠곡면(七谷面)은 대한민국 경상남도 의령군의 면으로 넓이는 22.37km2이고, 인구는 2006년 기준으로 1,308명이다. ",
+                    "국도 제20호선이 칠곡면 중심을 관통하고 진주시와 합천군을 통하는 삼거리가 있어 교통이 편리하고 근래는 산지를 개발 단감단지를 조성하여 소득을 올리고, 한과·엿기름 등을 생산해 명성을 얻고 있다. "
+                ],
+                "dialogSummary": "질문자가 칠곡면에 대해서 질문했고 챗봇은 칠곡면(七谷面)은 대한민국 경상남도 의령군의 면으로 넓이는 22.37km2이고, 인구는 2006년 기준으로 1,308명인 것과 국도 제20호선이 칠곡면 중심을 관통하고 진주시와 합천군을 통하는 삼거리가 있어 교통이 편리하고 근래는 산지를 개발 단감단지를 조성하여 소득을 올리고, 한과·엿기름 등을 생산해 명성을 얻고 있다고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "003953-1",
+            "prevTimeInfo": {
+                "timeNum": "5",
+                "timeUnit": "시간"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "003953-2",
+            "sessionKeywords": [
+                "*얀바루*,*얀바루*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600009",
+                    "participantID": "E0053",
+                    "utterance": "갑자기 자전거가 타고 싶어서 잠시 자전거를 타고 왔는데 벌써 5시간이 지났네? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695621840000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네 자전거를 타고 오셨군요. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695621902000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600009",
+                    "participantID": "E0053",
+                    "utterance": "자전거를 타다가 버스 배너 광고에서 얀바루라는 지역에 대해서 잠깐 봤는데 어떤 곳인지 자세히 설명해 줘. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695621950000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "얀바루는 오키나와현 오키나와 본섬 북부 지역 중 산이나 자연이 많이 남아있는 지역입니다.",
+                    "context": {
+                        "query": "얀바루",
+                        "contents": [
+                            {
+                                "documentID": "324214",
+                                "documentTitle": "얀바루",
+                                "content": [
+                                    "얀바루(}는 오키나와현 오키나와 본섬 북부 지역 중 산이나 자연이 많이 남아있는 지역을 가리킨다.",
+                                    "또는 오키나와 본섬의 나고시 이북을 가리키는 경우도 있다.",
+                                    "얀바루의 정의.",
+                                    "명확한 구분은 없지만 온나촌(恩納村)과 긴정(金武町)이 속한 이북이 그 범위이며, 이 지역은 산잔 시대의 호쿠잔 왕국 지배하의 지역과 동일하다.",
+                                    "중심도시는 나고시이다.",
+                                    "얀바루의 자연.",
+                                    "얀바루 이남의 중남부 지역이 융기 산호초로 된 낮은 구릉지로, 확실한 산은 존재하지 않고 강이 거의 없는데 반해, 이 지역은 낮으면서도 산맥과, 많은 하천이 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "얀바루는 오키나와현 오키나와 본섬 북부 지역 중 산이나 자연이 많이 남아있는 지역이다.",
+                    "timestamp": 1695647863000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600009",
+                    "participantID": "E0053",
+                    "utterance": "오키나와면 일본 맞지? 지명이 특이해서 궁금했는데 다른 특징이 있어?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695647927000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "얀바루 이남의 중남부 지역이 융기 산호초로 된 낮은 구릉지로, 확실한 산은 존재하지 않고 강이 거의 없는데 반해, 이 지역은 낮으면서도 산맥과, 많은 하천이 있습니다.",
+                    "context": {
+                        "query": "얀바루",
+                        "contents": [
+                            {
+                                "documentID": "324214",
+                                "documentTitle": "얀바루",
+                                "content": [
+                                    "얀바루(}는 오키나와현 오키나와 본섬 북부 지역 중 산이나 자연이 많이 남아있는 지역을 가리킨다.",
+                                    "또는 오키나와 본섬의 나고시 이북을 가리키는 경우도 있다.",
+                                    "얀바루의 정의.",
+                                    "명확한 구분은 없지만 온나촌(恩納村)과 긴정(金武町)이 속한 이북이 그 범위이며, 이 지역은 산잔 시대의 호쿠잔 왕국 지배하의 지역과 동일하다.",
+                                    "중심도시는 나고시이다.",
+                                    "얀바루의 자연.",
+                                    "얀바루 이남의 중남부 지역이 융기 산호초로 된 낮은 구릉지로, 확실한 산은 존재하지 않고 강이 거의 없는데 반해, 이 지역은 낮으면서도 산맥과, 많은 하천이 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true
+                        ]
+                    ],
+                    "summary": "얀바루 이남의 중남부 지역이 융기 산호초로 된 낮은 구릉지로, 확실한 산은 존재하지 않고 강이 거의 없는데 반해, 이 지역은 낮으면서도 산맥과, 많은 하천이 있다.",
+                    "timestamp": 1695647952000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600009",
+                    "participantID": "E0053",
+                    "utterance": "신기한 지형이네 나중에 한번 꼭 가보고 싶다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695647976000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네 나중에 가보시길 추천합니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695647987000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600009",
+                    "participantID": "E0053",
+                    "utterance": "내가 주식을 하고 있는데 그걸로 여행 자금 벌면 다녀올까 해.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 주식을 하고 있다.",
+                    "timestamp": 1695648021000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "주식을 하고 계시는 군요. 여행 자금을 벌어서 다녀오면 좋을 것 같습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695648041000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600009",
+                    "participantID": "E0053",
+                    "utterance": "응. 그래서 나는 늘 주가에 관심을 갖고 있어. 가끔은 귀찮기도 하지만",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 늘 주가에 관심을 갖고 있다.",
+                    "timestamp": 1695648060000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "주가에도 관심이 많으시다니 귀찮아도 대단해요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695648102000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600009",
+                    "participantID": "E0053",
+                    "utterance": "남들 다 하는 건데 뭘. 나중에 여행지 또 검색하게 되면 물어보러 올게",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695648124000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네 나중에 또 여행지에 대해서 물어봐 주세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695648133000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 주식을 하고 있다.",
+                    "나는 늘 주가에 관심을 갖고 있다."
+                ],
+                "wizard": [
+                    "얀바루는 오키나와현 오키나와 본섬 북부 지역 중 산이나 자연이 많이 남아있는 지역이다.",
+                    "얀바루 이남의 중남부 지역이 융기 산호초로 된 낮은 구릉지로, 확실한 산은 존재하지 않고 강이 거의 없는데 반해, 이 지역은 낮으면서도 산맥과, 많은 하천이 있다."
+                ],
+                "dialogSummary": "질문자가 얀바루에 대해 질문했고 챗봇은 얀바루는 오키나와현 오키나와 본섬 북부 지역 중 산이나 자연이 많이 남아있는 지역이고 얀바루 이남의 중남부 지역이 융기 산호초로 된 낮은 구릉지로, 확실한 산은 존재하지 않고 강이 거의 없는데 반해, 이 지역은 낮으면서도 산맥과, 많은 하천이 있다고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광 지명에 대해 잘 알고 싶다. ",
+                    "나는 실외에서 자전거 타는 것을 좋아한다. "
+                ],
+                "wizard": [
+                    "칠곡면(七谷面)은 대한민국 경상남도 의령군의 면으로 넓이는 22.37km2이고, 인구는 2006년 기준으로 1,308명이다. ",
+                    "국도 제20호선이 칠곡면 중심을 관통하고 진주시와 합천군을 통하는 삼거리가 있어 교통이 편리하고 근래는 산지를 개발 단감단지를 조성하여 소득을 올리고, 한과·엿기름 등을 생산해 명성을 얻고 있다. "
+                ]
+            }
+        }
+    ]
+}

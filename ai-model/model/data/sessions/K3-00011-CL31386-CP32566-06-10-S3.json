@@ -1,0 +1,599 @@
+{
+  "FileInfo": {
+    "filename": "K3-00011-CL31386-CP32566-06-10-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0984",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "1005",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00011"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "31386",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 매일 걸어서 출퇴근한다.",
+        "나는 핀란드에 가 보고 싶다.",
+        "나는 EDM 음악을 자주 듣는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "32566",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 중국어를 싫어한다.",
+        "나는 가끔 만족스럽다.",
+        "나는 동화책을 싫어한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "06-10",
+    "topicType": "교육",
+    "topicTitle": "수업"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00011-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "반가워요~ 저는 30대 여자랍니다!^^편하게 대화 나눠봐요.",
+          "summary": "나는 30대 여자이다.",
+          "date": "2022-10-21",
+          "time": "11:40:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "처음뵙겠습니다 저는 30대 여자입니다 반가워요^^",
+          "summary": "나는 30대 여자이다.",
+          "date": "2022-10-21",
+          "time": "11:40:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "매일 걸어서 출퇴근하느라 심심해서 들어와봤는데 또래네요?ㅎㅎ.",
+          "summary": "나는 매일 걸어서 출퇴근한다.",
+          "date": "2022-10-21",
+          "time": "11:40:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "오 직장이 집이랑 가까우신가봐요~ 부럽네요 ㅠㅠ.",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:40:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "선생님은 직장이랑 집이 거리가 있나요?ㅠㅠ.",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:40:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "저는 직장이랑 차타고 30분거리예요 ㅠㅠ힘들어서 퇴사 생각중이랍니다.",
+          "summary": "나는 퇴사를 생각하고 있다.",
+          "date": "2022-10-21",
+          "time": "11:41:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "아이고.. 퇴사하시면 앞으로 생계는 어쩌시려구요?",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:41:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "남편이 벌어다 주는 돈으로 생활해야죠! 임신계획중이거든요!",
+          "summary": "나는 임신 계획 중이다.",
+          "date": "2022-10-21",
+          "time": "11:41:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "오~ 결혼을 하셨군요? 결혼하신지는 얼마나 되셨어요?",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:42:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "결혼한지 4년차이네요! 애가 안생겨서 우울해요..",
+          "summary": "나는 결혼 4년 차이다.",
+          "date": "2022-10-21",
+          "time": "11:42:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "에이~ 우울해하지마세요! 조급해하면 더 스트레스 받잖아요..악순환이예요ㅠㅠ.",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:42:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "아무래도 그렇겠죠? ㅠㅠ 선생님은 결혼하셨나요?",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:43:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "저는 1년됐어요! 결혼한지..하핫 완전 신혼이죠?",
+          "summary": "나는 결혼한 지 1년 차이다.",
+          "date": "2022-10-21",
+          "time": "11:43:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "오 대화가 더 잘통할거같은데요? 그럼 저 운전해야해서 이따가 연락드릴게요!",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:43:34",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 매일 걸어서 출퇴근한다.",
+          "나는 결혼한 지 1년 차이다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다.",
+          "나는 퇴사를 생각하고 있다.",
+          "나는 임신 계획 중이다.",
+          "나는 결혼 4년 차이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00011-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00011-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "세시간정도 지났나요? 뭐하고 계세요?",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:43:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "저는 지금 업무중인데 업무메일이 다 중국어네요 ㅠㅠ 중국어 너무싫어요.",
+          "summary": "나는 중국어를 싫어한다.",
+          "date": "2022-10-21",
+          "time": "11:43:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "아아고.. 외국어 너무 어렵죠ㅠㅠ제가 대학교에서 영어 교수로 있거든요 하하.",
+          "summary": "나는 대학교 영어 교수이다.",
+          "date": "2022-10-21",
+          "time": "11:44:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "앗정말요? 교수님이셨군요! 하하 제가 제2외국어로 일본어를 들었거든요 ㅠ.",
+          "summary": "나는 제2외국어로 일본어를 들었다.",
+          "date": "2022-10-21",
+          "time": "11:44:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "아 그래요? 그래도 외국어랑 되게 근접하게 지내시네요?ㅋㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:44:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "네! 무역일하고있어서요~ 선생님은 유학다녀오셨어요?",
+          "summary": "나는 무역일을 하고 있다.",
+          "date": "2022-10-21",
+          "time": "11:45:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "네 저도 미국에서 유학생활 3년정도 했어요~",
+          "summary": "나는 미국에서 3년 정도 유학 생활을 했다.",
+          "date": "2022-10-21",
+          "time": "11:45:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "앗정말요? 그래서 영어를 잘하시나요? 대단하세요!",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:45:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "그러니까 교수가 됐겠죠?ㅎㅎ근데 요즘 @이름1@이 영어를 다 잘해서 수업할게 없어요...",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:45:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "저도 일때문에 계속 꾸준히 언어공부하고있어요!",
+          "summary": "나는 일 때문에 꾸준히 언어 공부를 한다.",
+          "date": "2022-10-21",
+          "time": "11:45:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "중국어 공부 하시는건가요? 저희 학교로도 어르신들이 외국어 수업 들어오세요ㅋㅋ대단하죠?",
+          "summary": "나의 학교에 어른들이 외국어 수업을 받으러 온다.",
+          "date": "2022-10-21",
+          "time": "11:46:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "네 맞아요! 평생교육원같은거 말씀하시는건가요?",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:46:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "아니요! 저희 학교에 어르신 대학생이 있어요! 늦깍이 대학생이세요^^",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:46:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "아 정말요 엄청 대단하신데요? 우선 인터넷강의수업들을 시간이라 수업 좀 듣고올게요!",
+          "summary": "나는 인터넷 강의 수업을 듣는다.",
+          "date": "2022-10-21",
+          "time": "11:47:15",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 대학교 영어 교수이다.",
+          "나는 미국에서 3년 정도 유학 생활을 했다.",
+          "나의 학교에 어른들이 외국어 수업을 받으러 온다."
+        ],
+        "speaker2": [
+          "나는 중국어를 싫어한다.",
+          "나는 제2외국어로 일본어를 들었다.",
+          "나는 무역일을 하고 있다.",
+          "나는 일 때문에 꾸준히 언어 공부를 한다.",
+          "나는 인터넷 강의 수업을 듣는다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 매일 걸어서 출퇴근한다.",
+          "나는 결혼한 지 1년 차이다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다.",
+          "나는 퇴사를 생각하고 있다.",
+          "나는 임신 계획 중이다.",
+          "나는 결혼 4년 차이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00011-2",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00011-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "5일만에 연락드리네요~ 주말인데 뭐하고 계세요?ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:47:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "저는 퇴사하고 요즘 너무 만족스러운 하루하루를 보내고있어요!",
+          "summary": "나는 가끔 만족스럽다.",
+          "date": "2022-10-21",
+          "time": "11:48:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "헉 퇴사를 결심하신거에요? 대단하신데요? 저는 EDM음악 자주 들어서 흥에 취해있어요!",
+          "summary": "나는 EDM 음악을 자주 듣는다.",
+          "date": "2022-10-21",
+          "time": "11:48:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "네 제가 임신을했거든요! 하하 어제 확인했어요!",
+          "summary": "나는 임신을 했다.",
+          "date": "2022-10-21",
+          "time": "11:48:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "와.. 진짜요? 와.. 너무 축하드려요!!!! 진짜 행복하시겠네요!!!!",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:48:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "감사해요! 제가 동화책을 싫어하는데 이제 친해져보려구요! 아이를 위해서요!",
+          "summary": "나는 동화책을 싫어한다.",
+          "date": "2022-10-21",
+          "time": "11:49:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "너무 좋은 부모가 될 것같아요~ㅎㅎ 안정기때까지는 엄청 조심하셔야겠네요!!",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:49:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "네! 선생님은 뭐하고 계셨나요? 오늘 일정없으세요?",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:49:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "저는 핀란드 여행을 가 보고싶어서 여행후기 찾아보고있었어요!!",
+          "summary": "나는 핀란드에 가 보고 싶다.",
+          "date": "2022-10-21",
+          "time": "11:49:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "오 여행계획중이신가봐요! 부럽네요! 저도 여행가고싶어요.",
+          "summary": "나는 여행을 가고 싶다.",
+          "date": "2022-10-21",
+          "time": "11:50:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "태교 여행 많이들 가던데~ 남편분이랑 한번 상의 해보세요^^",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:50:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "그래야겠어요! 비행기타는건 무리겠죠?",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:50:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31386",
+          "participantID": "0984",
+          "utterance": "음.. 그렇지 않을까요..?ㅠㅠ근데 요즘 자유롭게 많이 다니긴하던데..그것도 한번 알아보세요^^",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:51:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32566",
+          "participantID": "1005",
+          "utterance": "네 감사해요! 그럼 저 피곤해서 낮잠자러가야겠어요! 또연락나눠요!",
+          "summary": "",
+          "date": "2022-10-21",
+          "time": "11:51:11",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 EDM 음악을 자주 듣는다.",
+          "나는 핀란드에 가 보고 싶다."
+        ],
+        "speaker2": [
+          "나는 가끔 만족스럽다.",
+          "나는 임신을 했다.",
+          "나는 동화책을 싫어한다.",
+          "나는 여행을 가고 싶다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 매일 걸어서 출퇴근한다.",
+          "나는 결혼한 지 1년 차이다.",
+          "나는 대학교 영어 교수이다.",
+          "나는 미국에서 3년 정도 유학 생활을 했다.",
+          "나의 학교에 어른들이 외국어 수업을 받으러 온다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다.",
+          "나는 퇴사를 생각하고 있다.",
+          "나는 임신 계획 중이다.",
+          "나는 결혼 4년 차이다.",
+          "나는 중국어를 싫어한다.",
+          "나는 제2외국어로 일본어를 들었다.",
+          "나는 무역일을 하고 있다.",
+          "나는 일 때문에 꾸준히 언어 공부를 한다.",
+          "나는 인터넷 강의 수업을 듣는다."
+        ]
+      }
+    }
+  ]
+}

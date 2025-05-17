@@ -1,0 +1,418 @@
+{
+  "FileInfo": {
+    "filename": "K2-00106-CL22883-CP23739-02-07-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "1047",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "서비스직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "1058",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00106"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "22883",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 밤에 일기를 쓴다.",
+        "나는 사회복지학과 전공이다.",
+        "나는 K-POP 음악을 가끔 듣는다.",
+        "나는 토익스피킹 자격증을 준비한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "23739",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 아침에 커피를 마신다.",
+        "나는 공항에 가는 것을 싫어한다.",
+        "나는 판타지 영화를 가끔 본다.",
+        "나는 맥주를 좋아한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "02-07",
+    "topicType": "주거와 생활",
+    "topicTitle": "층간소음"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00106-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "22883",
+          "participantID": "1047",
+          "utterance": "잘 부탁드립니다. 저는 20대 남자이에요!",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-10-22",
+          "time": "16:57:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23739",
+          "participantID": "1058",
+          "utterance": "반가워요! 저도 20대 남자인데. 안녕하십니까~",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-10-22",
+          "time": "16:57:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "22883",
+          "participantID": "1047",
+          "utterance": "그러면 님은 무슨 일 하시는 분인가요?",
+          "summary": "",
+          "date": "2022-10-22",
+          "time": "16:58:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23739",
+          "participantID": "1058",
+          "utterance": "저는 백수에요.ㅋㅋ 모닝 커피 때리고 있습니다.",
+          "summary": "나는 아침에 커피를 마신다.",
+          "date": "2022-10-22",
+          "time": "16:58:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "22883",
+          "participantID": "1047",
+          "utterance": "저는 사회복지학 전공 하고 있어요 ㅎㅎ. 하이요~",
+          "summary": "나는 사회복지학과 전공이다.",
+          "date": "2022-10-22",
+          "time": "16:58:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23739",
+          "participantID": "1058",
+          "utterance": "아 그러시군요. 그럼 뭐 취미같은거 있으신가요?",
+          "summary": "",
+          "date": "2022-10-22",
+          "time": "16:58:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "22883",
+          "participantID": "1047",
+          "utterance": "저는 K-POP 음악을 가끔 들어요. 님은요?",
+          "summary": "나는 K-POP 음악을 가끔 듣는다.",
+          "date": "2022-10-22",
+          "time": "16:58:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23739",
+          "participantID": "1058",
+          "utterance": "저는 판타지 영화를 가끔 봅니다.ㅎ 영화 좋아하시나요.",
+          "summary": "나는 판타지 영화를 가끔 본다.",
+          "date": "2022-10-22",
+          "time": "16:58:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "22883",
+          "participantID": "1047",
+          "utterance": "네 ㅎㅎ. 영화 좋아하죠. 저도 액션 영화 자주봐요.",
+          "summary": "나는 액션 영화를 자주 본다.",
+          "date": "2022-10-22",
+          "time": "16:59:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23739",
+          "participantID": "1058",
+          "utterance": "액션영화 좋죠.ㅋㅋ 영화관에서 맥주랑 꼭 같이 봐요.",
+          "summary": "나는 맥주를 좋아한다.",
+          "date": "2022-10-22",
+          "time": "16:59:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "22883",
+          "participantID": "1047",
+          "utterance": "그러시구나. 요즘 맥주 팔죠 ㅋㅋ. 저도 좋아해요~",
+          "summary": "나는 맥주를 좋아한다.",
+          "date": "2022-10-22",
+          "time": "16:59:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23739",
+          "participantID": "1058",
+          "utterance": "ㅋㅋ 그럼 이제 밤인데 언제 주무시나요?",
+          "summary": "",
+          "date": "2022-10-22",
+          "time": "16:59:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "22883",
+          "participantID": "1047",
+          "utterance": "그러면 저는 @브랜드명1@ 스피킹 준비 하고 일기 쓰고 자려고요 ㅎㅎ.",
+          "summary": "나는 밤에 일기를 쓴다. 나는 @브랜드명2@ 자격증을 준비한다.",
+          "date": "2022-10-22",
+          "time": "16:59:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23739",
+          "participantID": "1058",
+          "utterance": "아 그러시구나.ㅋㅋ 되게 성실하시네요! 그럼 다음에 또 봐요~",
+          "summary": "",
+          "date": "2022-10-22",
+          "time": "17:00:14",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 사회복지학과 전공이다.",
+          "나는 K-POP 음악을 가끔 듣는다.",
+          "나는 액션 영화를 자주 본다.",
+          "나는 맥주를 좋아한다.",
+          "나는 밤에 일기를 쓴다. 나는 @브랜드명2@ 자격증을 준비한다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 아침에 커피를 마신다.",
+          "나는 판타지 영화를 가끔 본다.",
+          "나는 맥주를 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00106-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00106-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "22883",
+          "participantID": "1047",
+          "utterance": "이틀만입니다. 오늘은 뭐 하시고 계시나요?",
+          "summary": "",
+          "date": "2022-10-22",
+          "time": "17:00:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23739",
+          "participantID": "1058",
+          "utterance": "방가쓰. 저는 아랫집 때문에 스트레스 받아서 누워있어요.",
+          "summary": "나는 스트레스를 받는다.",
+          "date": "2022-10-22",
+          "time": "17:00:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "22883",
+          "participantID": "1047",
+          "utterance": "저는 오늘은 지금 공항 가고 있어요 ㅋㅋ. 놀러가요~",
+          "summary": "나는 공항에 간다.",
+          "date": "2022-10-22",
+          "time": "17:00:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23739",
+          "participantID": "1058",
+          "utterance": "아 그래요? 저는 공항만 가면 긴장되서 좀 싫더라구요.ㅋㅋ.",
+          "summary": "나는 공항에 가는 것을 싫어한다.",
+          "date": "2022-10-22",
+          "time": "17:01:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "22883",
+          "participantID": "1047",
+          "utterance": "그래요? 신기하다~ 근데 아랫집은 왜요?",
+          "summary": "",
+          "date": "2022-10-22",
+          "time": "17:01:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23739",
+          "participantID": "1058",
+          "utterance": "아랫집이 자꾸 시끄럽다고 올라오는데 너무한거 같아서요.",
+          "summary": "나는 아랫집과 갈등이 있다.",
+          "date": "2022-10-22",
+          "time": "17:01:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "22883",
+          "participantID": "1047",
+          "utterance": "왜요? 뭐 발소리가 들린대요? 아랫집에 뭐라 하나봐요.",
+          "summary": "",
+          "date": "2022-10-22",
+          "time": "17:01:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23739",
+          "participantID": "1058",
+          "utterance": "아니.. 발소리는 당연하고 무슨 키보드 소리가 들린대요...",
+          "summary": "",
+          "date": "2022-10-22",
+          "time": "17:01:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "22883",
+          "participantID": "1047",
+          "utterance": "아랫집에서 키보드 소리가 들려요? 그거 좀 이상하네요.",
+          "summary": "",
+          "date": "2022-10-22",
+          "time": "17:02:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23739",
+          "participantID": "1058",
+          "utterance": "그니까요... 아랫집에서 어떻게 키보드 소리가 들리냐구요!",
+          "summary": "",
+          "date": "2022-10-22",
+          "time": "17:02:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "22883",
+          "participantID": "1047",
+          "utterance": "저는 또 발소리나 세턱기 샤워 그런건줄 알았네요.",
+          "summary": "",
+          "date": "2022-10-22",
+          "time": "17:02:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23739",
+          "participantID": "1058",
+          "utterance": "오래된 아파트도 아니고 신축인데 샤워소리 들리는거도 이상해요...",
+          "summary": "나는 아파트에 산다.",
+          "date": "2022-10-22",
+          "time": "17:02:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "22883",
+          "participantID": "1047",
+          "utterance": "그러면 잘 해결 하셔야겠어요... 화이팅입니다.",
+          "summary": "",
+          "date": "2022-10-22",
+          "time": "17:02:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23739",
+          "participantID": "1058",
+          "utterance": "그래요... 그럼 다음에 또 봐요. 안녕히 계세요.",
+          "summary": "",
+          "date": "2022-10-22",
+          "time": "17:02:58",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 공항에 간다."
+        ],
+        "speaker2": [
+          "나는 스트레스를 받는다.",
+          "나는 공항에 가는 것을 싫어한다.",
+          "나는 아랫집과 갈등이 있다.",
+          "나는 아파트에 산다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 사회복지학과 전공이다.",
+          "나는 K-POP 음악을 가끔 듣는다.",
+          "나는 액션 영화를 자주 본다.",
+          "나는 맥주를 좋아한다.",
+          "나는 밤에 일기를 쓴다. 나는 @브랜드명2@ 자격증을 준비한다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 아침에 커피를 마신다.",
+          "나는 판타지 영화를 가끔 본다.",
+          "나는 맥주를 좋아한다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,625 @@
+{
+  "FileInfo": {
+    "filename": "K3-00042-CL31471-CP20931-01-08-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3210",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "50039",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00042"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "31471",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 경찰이다",
+        "나는 토끼 두 마리를 키운다",
+        "나는 자기계발서를 가끔 읽는다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "20931",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 맥주를 일주일에 서너번 마신다",
+        "나는 인류학과 전공이다",
+        "나는 K-POP 음악을 자주 듣는다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "01-08",
+    "topicType": "식음료",
+    "topicTitle": "레시피"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00042-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "안녕하세요 저는 30대 여성입니다.",
+          "summary": "나는 30대 여성이다",
+          "date": "2022-10-01",
+          "time": "11:33:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "안녕하세요 저는 20대 남자입니다 ",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-10-01",
+          "time": "11:33:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "동물 좋아하시나요? 저는 토끼를 좋아해서 토끼 2마리를 키우고 있어요.",
+          "summary": "나는 토끼 두 마리를 키운다",
+          "date": "2022-10-01",
+          "time": "11:34:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "토끼 귀엽겠어요 저는 동물보단 맥주를 좋아해요 일주일에 서너번은 먹는거 같아요",
+          "summary": "나는 맥주를 일주일에 서너 번 마신다.",
+          "date": "2022-10-01",
+          "time": "11:35:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "오! 좋네요. 저도 일 끝나고 가끔 자기계발서를 읽으면서 혼술을 한답니다.",
+          "summary": "나는 자기 계발서를 가끔 읽는다.",
+          "date": "2022-10-01",
+          "time": "11:35:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "독서 너무 좋죠 저는 인류학과 전공이라 관련서적을 주로 읽어요 ",
+          "summary": "나는 인류학 전공이다.",
+          "date": "2022-10-01",
+          "time": "11:36:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "인류학이라니 멋지네요. 저는 경찰이라서 독서보다는 운동을 더 좋아해요.",
+          "summary": "나는 경찰이다",
+          "date": "2022-10-01",
+          "time": "11:36:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "경찰 멋지네요 저도 운동 좋아해요 k-pop들으면서 달리기 하는걸 좋아해요",
+          "summary": "나는 K-pop을 들으며 달리기 하는 것을 좋아한다.",
+          "date": "2022-10-01",
+          "time": "11:37:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "저도 케이팝 좋아해요! 주로 운동할 때는 신나는 노래를 듣죠 그러면 뭔가 더 신나고 열심히 하게되는거같아요.",
+          "summary": "나는 케이팝을 좋아한다",
+          "date": "2022-10-01",
+          "time": "11:38:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "맞아요 음악이 주는 힘을 무시못하죠 ! 운동도 열심히 하는데 맥주를 일주일에 서너번씩 먹어서 큰일이에요",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "11:38:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "열심히 운동하고 마시는 맥주 한잔은 스트레스해소에도 도움이 될것같은 느낌이에요",
+          "summary": "나는 운동 후 맥주 한잔이 스트레스 좋다고 생각한다",
+          "date": "2022-10-01",
+          "time": "11:39:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "맞아요 하지만 뭐든 적당한게 좋은거 같아요 과유불급",
+          "summary": "나는 적당한 게 좋다.",
+          "date": "2022-10-01",
+          "time": "11:40:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "맞아요! 뭐든지 적당한게 좋아요.  취미가 뭐에요?",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "11:41:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "저는 케이팝들으면서 맥주 마시는거 좋아하고 운동도 취미에여",
+          "summary": "나는 운동이 취미이다.",
+          "date": "2022-10-01",
+          "time": "11:47:15",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다",
+          "나는 토끼 두 마리를 키운다",
+          "나는 자기 계발서를 가끔 읽는다.",
+          "나는 경찰이다",
+          "나는 케이팝을 좋아한다",
+          "나는 운동 후 맥주 한잔이 스트레스 좋다고 생각한다"
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 맥주를 일주일에 서너 번 마신다.",
+          "나는 인류학 전공이다.",
+          "나는 K-pop을 들으며 달리기 하는 것을 좋아한다.",
+          "나는 적당한 게 좋다.",
+          "나는 운동이 취미이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00042-1",
+      "prevTimeInfo": {
+        "timeNum": "47",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00042-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "2일 전에 저만의 레시피로 파스타를 만들어 먹었어요. 파스타 좋아하시나요?",
+          "summary": "나는 파스타를 좋아한다",
+          "date": "2022-10-01",
+          "time": "11:49:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "안녕하세요! 경찰님. 파스타 좋아해요 요새는 레시피를 쉽게 구할구 있어서 너무 편하고 좋아요",
+          "summary": "나는 파스타를 좋아한다.",
+          "date": "2022-10-01",
+          "time": "11:50:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "맞아요! 저는 인터넷으로 레시피 보고 따라하는데 생각보다 간편하고 보기 편하게 정리해놓아서 좋아요",
+          "summary": "나는 인터넷 레시피를 즐겨 이용한다",
+          "date": "2022-10-01",
+          "time": "11:50:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "맞아요 레시피를 따라해야 요리가 확실히 맛있더라구요 ㅎㅎ",
+          "summary": "나는 레시피를 따라 하면 요리가 더 맛있다고 생각한다.",
+          "date": "2022-10-01",
+          "time": "11:50:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "저는 가끔 실패할 때도 있어요. 맞는 재료가 없어서 비슷한 재료를 사용해서 그런가같아요 ",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "11:51:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "아 맞아요 저도 그런경험이 많아요 각 재료는 역시 제위치가 있나봐요",
+          "summary": "나는 요리할 때 정해진 재료가 중요하다고 생각한다.",
+          "date": "2022-10-01",
+          "time": "11:52:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "맞아요. 오늘은 인터넷에서 유명한 레시피를 보고 떡볶이를 해 먹으려고 재료를 정확하게 샀어요.",
+          "summary": "나는 떡볶이를 해 먹을 것이다",
+          "date": "2022-10-01",
+          "time": "11:53:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "떡볶이 맛있겠어요 오뎅도 같이 드시나요 ? ",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "11:54:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "당연하죠! 저는 떡볶이 만들 때 떡 어묵 양배추는 꼭 넣어요! 떡볶이에 꼭 넣는 재료 있나요?",
+          "summary": "나는 떡볶이에 양배추를 꼭 넣는다",
+          "date": "2022-10-01",
+          "time": "11:55:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "저는 떡볶이에 오뎅을 좋아해요 ! 거기에 맥주까지 ㅎㅎ",
+          "summary": "나는 떡볶이에 들어있는 어묵을 좋아한다.",
+          "date": "2022-10-01",
+          "time": "11:57:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "맥주를 정말 좋아하시네요! 그러면 다른 종류의 술도 좋아하시나요? 요즘은 여러 음료와 섞어서 만드는 술이 유행인거같아요! 인터넷에서 맛있어 보이는 레시피를 저장해놓았어요.",
+          "summary": "나는 인터넷 술 레시피를 저장했다",
+          "date": "2022-10-01",
+          "time": "11:58:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "오 맛있을거 같아요 저는 위스키 종류도 좋아해요 위스키 레시피를 알고부터 좋아지게 되더라구요 오랜기간 숙성을 해서 더 맛이 좋나봐요",
+          "summary": " 나는 위스키를 좋아한다. 나는 위스키가 숙성되면 더 맛있다고 생각한다.",
+          "date": "2022-10-01",
+          "time": "11:59:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "위스키와 잘 어울리는 음식이 있나요? 있다면 추천해주실수 있을까요?",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "12:00:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "위스키엔 간단한 과일이 좋은거 같아요 ",
+          "summary": "나는 위스키가 간단한 과일과 잘 어울린다고 생각한다.",
+          "date": "2022-10-01",
+          "time": "12:00:52",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 파스타를 좋아한다",
+          "나는 인터넷 레시피를 즐겨 이용한다",
+          "나는 떡볶이를 해 먹을 것이다",
+          "나는 떡볶이에 양배추를 꼭 넣는다",
+          "나는 인터넷 술 레시피를 저장했다"
+        ],
+        "speaker2": [
+          "나는 파스타를 좋아한다.",
+          "나는 레시피를 따라 하면 요리가 더 맛있다고 생각한다.",
+          "나는 요리할 때 정해진 재료가 중요하다고 생각한다.",
+          "나는 떡볶이에 들어있는 어묵을 좋아한다.",
+          "나는 위스키를 좋아한다.",
+          "나는 위스키가 숙성되면 더 맛있다고 생각한다.",
+          "나는 위스키가 간단한 과일과 잘 어울린다고 생각한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다",
+          "나는 토끼 두 마리를 키운다",
+          "나는 자기 계발서를 가끔 읽는다.",
+          "나는 경찰이다",
+          "나는 케이팝을 좋아한다",
+          "나는 운동 후 맥주 한잔이 스트레스 좋다고 생각한다"
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 맥주를 일주일에 서너 번 마신다.",
+          "나는 인류학 전공이다.",
+          "나는 K-pop을 들으며 달리기 하는 것을 좋아한다.",
+          "나는 적당한 게 좋다.",
+          "나는 운동이 취미이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00042-2",
+      "prevTimeInfo": {
+        "timeNum": "35",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00042-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "어제 근무끝나고 추천해주신 과일과 위스키를 먹었어요.",
+          "summary": "나는 어제 과일과 위스키를 먹었다",
+          "date": "2022-10-01",
+          "time": "12:03:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "어떠셨어요 ? 맛있게 드셨나요 ? ",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "12:04:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "네! 너무 좋았어요! 굉장히 매력있어서 다음에는 다른 레시피 도전해봐야겠어요.",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "12:05:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "다행이네요 ! 저도 어제 떡볶이랑 맥주한잔 했어요 덕분에요 ",
+          "summary": "나는 어제 떡볶이와 맥주 한잔을 먹었다.",
+          "date": "2022-10-01",
+          "time": "12:06:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "오늘은 부대찌개를 먹을예정이에요. 티비에서 추천 레시피를 똑같이 따라해보려고요.",
+          "summary": "나는 티브이 레시피를 따라 부대찌개를 먹을 것이다",
+          "date": "2022-10-01",
+          "time": "12:07:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "부대찌개 밥도둑이죠 저도 오늘 먹을 음식 레시피좀 찾아봐야겟어요",
+          "summary": "나는 오늘 먹을 레시피를 찾아볼 것이다.",
+          "date": "2022-10-01",
+          "time": "12:07:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "서로 찾은 레시피를 공유해도 좋을거같아요!",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "12:07:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "아 그것도 좋은 방법이네요 !! 저는 오늘은 야외에서 먹을 음식을 찾아봐야겟어요",
+          "summary": "나는 오늘 야외에서 먹을 음식을 찾아볼 것이다.",
+          "date": "2022-10-01",
+          "time": "12:08:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "야외에서는 역시 김밥아닐까요? 소풍가는 느낌이 아주 좋죠",
+          "summary": "나는 소풍에는 김밥이라 생각한다",
+          "date": "2022-10-01",
+          "time": "12:09:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "김밥 소풍 너무 좋네요 추천해주시는것마다 아주 맘에 들어요 감사해요",
+          "summary": "나는 김밥 소풍을 좋아한다.",
+          "date": "2022-10-01",
+          "time": "12:09:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "사실 제가 김밥이 갑자기 먹고싶었어요. 저는 김밥에 묵은지를 넣은걸 좋아해요 특별한 레시피는 아니지만 정말 맛있어요!",
+          "summary": "나는 김밥에 묵은지 넣는 걸 좋아한다",
+          "date": "2022-10-01",
+          "time": "12:10:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "오 저도 한번도전해봐야겠어요! 맛있을거 같아요",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "12:11:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31471",
+          "participantID": "3210",
+          "utterance": "혹시 추천해주실 비밀 레시피가 있나요? ",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "12:11:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20931",
+          "participantID": "50039",
+          "utterance": "음 글세여 전 결국은 라면스프같아요 ㅎㅎ",
+          "summary": "나는 라면수프가 최고의 비밀 레시피라고 생각한다.",
+          "date": "2022-10-01",
+          "time": "12:12:29",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 어제 과일과 위스키를 먹었다",
+          "나는 티브이 레시피를 따라 부대찌개를 먹을 것이다",
+          "나는 소풍에는 김밥이라 생각한다",
+          "나는 김밥에 묵은지 넣는 걸 좋아한다"
+        ],
+        "speaker2": [
+          "나는 어제 떡볶이와 맥주 한잔을 먹었다.",
+          "나는 오늘 먹을 레시피를 찾아볼 것이다.",
+          "나는 오늘 야외에서 먹을 음식을 찾아볼 것이다.",
+          "나는 김밥 소풍을 좋아한다.",
+          "나는 라면수프가 최고의 비밀 레시피라고 생각한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다",
+          "나는 토끼 두 마리를 키운다",
+          "나는 자기 계발서를 가끔 읽는다.",
+          "나는 경찰이다",
+          "나는 케이팝을 좋아한다",
+          "나는 운동 후 맥주 한잔이 스트레스 좋다고 생각한다",
+          "나는 파스타를 좋아한다",
+          "나는 인터넷 레시피를 즐겨 이용한다",
+          "나는 떡볶이를 해 먹을 것이다",
+          "나는 떡볶이에 양배추를 꼭 넣는다",
+          "나는 인터넷 술 레시피를 저장했다"
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 맥주를 일주일에 서너 번 마신다.",
+          "나는 인류학 전공이다.",
+          "나는 K-pop을 들으며 달리기 하는 것을 좋아한다.",
+          "나는 적당한 게 좋다.",
+          "나는 운동이 취미이다.",
+          "나는 파스타를 좋아한다.",
+          "나는 레시피를 따라 하면 요리가 더 맛있다고 생각한다.",
+          "나는 요리할 때 정해진 재료가 중요하다고 생각한다.",
+          "나는 떡볶이에 들어있는 어묵을 좋아한다.",
+          "나는 위스키를 좋아한다.",
+          "나는 위스키가 숙성되면 더 맛있다고 생각한다.",
+          "나는 위스키가 간단한 과일과 잘 어울린다고 생각한다."
+        ]
+      }
+    }
+  ]
+}

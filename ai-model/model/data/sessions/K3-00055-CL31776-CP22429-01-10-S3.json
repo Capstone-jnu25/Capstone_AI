@@ -1,0 +1,621 @@
+{
+  "FileInfo": {
+    "filename": "K3-00055-CL31776-CP22429-01-10-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3005",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "3023",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00055"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "31776",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 방송연출 보조이다",
+        "나는 실내에서 수영하는 것을 싫어한다",
+        "나는 햄버거를 안 먹는다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22429",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 남자 형제는 세무사이다",
+        "나는 종교학 전공이다",
+        "나는 양식을 안 먹는다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "01-10",
+    "topicType": "식음료",
+    "topicTitle": "커피"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00055-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "안녕하세요 저는 30대 여성입니다 .",
+          "summary": "나는 30대 여성이다.",
+          "date": "2022-10-18",
+          "time": "21:37:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "반가워요 저는 20대 여성이예요.",
+          "summary": "나는 20대 여성이다",
+          "date": "2022-10-18",
+          "time": "21:38:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "저는 방송연출 보조일을 하고 있어요 .학생이세요?",
+          "summary": "나는 방송 연출 보조일을 하고 있다.",
+          "date": "2022-10-18",
+          "time": "21:39:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "저는 종교학전공을 하고 졸업은했구요 지금은 취업을 준비중이예요",
+          "summary": "나는 종교학전공을 하고 취업준비 중이다",
+          "date": "2022-10-18",
+          "time": "21:47:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "요즘 세상에 취업하기 힘든것 같아요 ~ 좋은결과있길 바래봅니다",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "21:48:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "감사해요 저는 오빠가있는데 요즘 시대에 세무사에 취업을 했어요 축하해주실꺼죠?",
+          "summary": "나는 오빠가 세무사이다",
+          "date": "2022-10-18",
+          "time": "21:49:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "암요 축하해드려야죠~ 저는 실내에서 수영하는것을 싫어해요 ",
+          "summary": "나는 실내수영을 싫어한다.",
+          "date": "2022-10-18",
+          "time": "21:50:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "실내수영을 싫어하시면 바다수영은좋아하시나요? 저는 양식을 먹지않아요.",
+          "summary": "나는 양식을 먹지 않는다",
+          "date": "2022-10-18",
+          "time": "21:51:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "바다는 너무 좋죠~ 저는 햄버거를 안 먹어요",
+          "summary": "나는 햄버거를 안 먹는다.",
+          "date": "2022-10-18",
+          "time": "21:52:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "햄버거도 양식이라고해야되는거아닌가요? 전 양식말고는 다잘먹어요.",
+          "summary": "나는 양식 말고 다 잘 먹는다",
+          "date": "2022-10-18",
+          "time": "21:54:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "전 햄버거만 안먹고 다른건 다 잘먹어요 ~~분위기 좋은곳에서 칼질 하면 맛있는데요",
+          "summary": "나는 분위기 좋은 곳에서 칼질하는 게 맛있다.",
+          "date": "2022-10-18",
+          "time": "21:56:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "그러시군요. 저는 먹으면 항상 속이 안좋아져서 피하게되더라구요.",
+          "summary": "나는 양식을 먹으면 속이 안 좋다",
+          "date": "2022-10-18",
+          "time": "21:58:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "그럼 드시면 안되죠~~사실 한식이 더 맛있죠 !!우리것이 최고예요",
+          "summary": "나는 한식도 좋아한다.",
+          "date": "2022-10-18",
+          "time": "21:59:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "맞아요 매콤하고 짭짤한게 맛있어요 저는 야식을먹을까하는데 다음에이야기해요.",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:01:17",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나는 방송 연출 보조일을 하고 있다.",
+          "나는 실내수영을 싫어한다.",
+          "나는 햄버거를 안 먹는다.",
+          "나는 분위기 좋은 곳에서 칼질하는 게 맛있다.",
+          "나는 한식도 좋아한다."
+        ],
+        "speaker2": [
+          "나는 20대 여성이다",
+          "나는 종교학전공을 하고 취업준비 중이다",
+          "나는 오빠가 세무사이다",
+          "나는 양식을 먹지 않는다",
+          "나는 양식 말고 다 잘 먹는다",
+          "나는 양식을 먹으면 속이 안 좋다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00055-1",
+      "prevTimeInfo": {
+        "timeNum": "9",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00055-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "9일이 지났네요 잘 지내셨어요? 많이 추워졌어요 ",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:05:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "네 일주일 사이에 날씨가 너무추워졌네요 저는 어제 잠을 설쳐 오늘 아침부터 커피를 마셨어요.",
+          "summary": "나는 어제 잠을 설쳐 아침부터 커피를 마셨다",
+          "date": "2022-10-18",
+          "time": "22:07:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "모닝커피는 늘 마셔줘야지요 ~ 커피 좋아하세요?",
+          "summary": "나는 모닝커피를 늘 마신다.",
+          "date": "2022-10-18",
+          "time": "22:07:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "커피는 잘몰라요 그런데 요즘엔 한두잔씩 마실일이 생기다보니 조금씩 마시긴합니다.",
+          "summary": "나는 커피를 잘 모르지만 조금씩 마신다.",
+          "date": "2022-10-18",
+          "time": "22:08:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "저도 커피를 좋아하는데 카페인에 취약해 오후3시 이후로는 잘 마시지 않아요",
+          "summary": "나는 카페인에 취약해 3시 이후로는 커피를 마시지 않는다.",
+          "date": "2022-10-18",
+          "time": "22:11:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "저는 오후 1시이전에 먹어야 괜찮더라구요 이후에먹는 커피는 늘 잠을 못이뤘어요.",
+          "summary": "나는 오후 1시 이전에 커피를 마신다",
+          "date": "2022-10-18",
+          "time": "22:11:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "그래서 저는 너무 마시고 싶을때에는 디카페인을 마셔요 ~~",
+          "summary": "나는 너무 마시고 싶을 땐 디카페인을 마신다",
+          "date": "2022-10-18",
+          "time": "22:12:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "디카페인도 요즘은 카페인있는커피맛이 나더라구요. 저는 최근 몇년전만해도 커피를 아예먹질못했어요.",
+          "summary": "나는 최근 몇 년 전만 해도 커피를 마시지 못했다",
+          "date": "2022-10-18",
+          "time": "22:14:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "그렇군요 커피맛에 매력을 느끼면 빠져나올 수 없죠~~",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:14:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "한두번먹으니 뭔가 계속찾게되는게 커피도 중독이 있나봐요.",
+          "summary": "나는 커피도 중독이라 생각한다.",
+          "date": "2022-10-18",
+          "time": "22:15:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "그런거같죠? 또 느끼하거나 텁텁한음식을 먹고나면 커피가 더 생각나는것 같아요",
+          "summary": "나는 음식을 먹은 후 커피가 생각난다.",
+          "date": "2022-10-18",
+          "time": "22:15:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": " 커피는 어떤원두냐에 따라 맛도 다 틀리더라구요 신기한거같아요.",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:18:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "여러가지를 마셔보면 좋을것 같아요 따뜻한 커피가 생각나는 밤이네요",
+          "summary": "나는 지금 따뜻한 커피가 생각난다.",
+          "date": "2022-10-18",
+          "time": "22:19:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "내일마시면되겠어요 저두내일 이른 오전에커피를 마셔볼까해요 그럼이만 다음에이야기해요.",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "23:34:37",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 모닝커피를 늘 마신다.",
+          "나는 카페인에 취약해 3시 이후로는 커피를 마시지 않는다.",
+          "나는 너무 마시고 싶을 땐 디카페인을 마신다",
+          "나는 음식을 먹은 후 커피가 생각난다.",
+          "나는 지금 따뜻한 커피가 생각난다."
+        ],
+        "speaker2": [
+          "나는 어제 잠을 설쳐 아침부터 커피를 마셨다",
+          "나는 커피를 잘 모르지만 조금씩 마신다.",
+          "나는 오후 1시 이전에 커피를 마신다",
+          "나는 최근 몇 년 전만 해도 커피를 마시지 못했다",
+          "나는 커피도 중독이라 생각한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나는 방송 연출 보조일을 하고 있다.",
+          "나는 실내수영을 싫어한다.",
+          "나는 햄버거를 안 먹는다.",
+          "나는 분위기 좋은 곳에서 칼질하는 게 맛있다.",
+          "나는 한식도 좋아한다."
+        ],
+        "speaker2": [
+          "나는 20대 여성이다",
+          "나는 종교학전공을 하고 취업준비 중이다",
+          "나는 오빠가 세무사이다",
+          "나는 양식을 먹지 않는다",
+          "나는 양식 말고 다 잘 먹는다",
+          "나는 양식을 먹으면 속이 안 좋다"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00055-2",
+      "prevTimeInfo": {
+        "timeNum": "6",
+        "timeUnit": "주"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00055-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "벌써 6주가 흘렀어요 ~ 잘지내셨나요? 이제 겨울인것 같아요",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "12:29:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "아침 저녁으로는 정말 추워요 오늘은 너무추워 따뜻한커피를 마셨는데 저는 아무래도 아이스아메리카노가 좋은거같아요.",
+          "summary": "나는 아이스 아메리카노가 좋다",
+          "date": "2022-10-19",
+          "time": "12:38:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "맞아요 저도 늘 고민하는데 결국 아이스아메리카노를 선택하게 되더라구요 ~ 요즘은 라떼도 맛있는것 같아요",
+          "summary": "나는 주로 아메리카노를 마시지만 요즘은 라테도 맛있는 것 같다.",
+          "date": "2022-10-19",
+          "time": "12:43:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "저는 단걸 별로안좋아해서 라떼는 잘 안찾게되더라구요. 커피맛을 안지도 얼마안되서 아메리카노만 먹게되네요.",
+          "summary": "나는 단걸 별로 안 좋아한다",
+          "date": "2022-10-19",
+          "time": "18:28:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "그렇군요~라떼에 시럽을 빼면 괜찮은데 다음에 한번 도전해봐요 !!",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "19:13:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "다음엔 라떼에 도전해볼께요 요즘 분위기좋고 유명한커피집을 찾아다니는것도 하나의 유행처럼되어서 카페에 방문하면 웨이팅이 너무길어 힘들더라구요. ",
+          "summary": "나는 웨이팅 긴 카페는 힘들다",
+          "date": "2022-10-19",
+          "time": "20:59:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "그러니까요~ 소문만 좀 나면 우르르 다 모여드니…요즘은 커피와 베이커리를 함께 파는 곳이 많아진것 같아요",
+          "summary": "나는 요즘 커피와 베이커리를 함께 파는곳이 많아진것 같다고 생각한다.",
+          "date": "2022-10-19",
+          "time": "21:30:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "사람들이 다양한종류 식음료파는곳을 많이 찾는 거같아요 지난여름엔 수영장이 딸린 카페도 있더라구요",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "22:24:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "커피가 많은 문화를 바꿔놓은것 같아요 ~ 비싸도 맛만 좋으면 많이 찾으시는것 같네요",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "22:58:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "요즘엔 저렴한커피도 많이 나오더라구요 맛도 괜찮은게있기도해서 집앞에서 자주 사먹고있어요.",
+          "summary": "나는 저렴한 커피도 맛이 괜찮아 자주 사 먹는다",
+          "date": "2022-10-20",
+          "time": "00:40:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "루왁커피드셔보셨어요? 전 아직 먹어보지 못했어요 ~어떤맛일지 궁금하네요",
+          "summary": "나는 루왁커피맛이 궁금하다.",
+          "date": "2022-10-20",
+          "time": "09:16:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "루왁커피는 저도 이름만들어봤어요.커피종류와 이름이 다양해서 아직 다접해보진못했어요.",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "10:09:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31776",
+          "participantID": "3005",
+          "utterance": "커피도 공부를 할게 많은것 같아요 ~ 원두에 따라 맛이 천차만별이니 ..오늘은 바닐라라떼를 마셨어요 ",
+          "summary": "나는 오늘 바닐라 라테를 마셨다.",
+          "date": "2022-10-20",
+          "time": "12:13:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "저는 오늘도 아이스아메리카노를 마셨어요 일하러가봐야겠네요 그럼이만.",
+          "summary": "나는 오늘 아이스\n아메리카노를 마셨다",
+          "date": "2022-10-20",
+          "time": "14:55:39",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 주로 아메리카노를 마시지만 요즘은 라테도 맛있는 것 같다.",
+          "나는 요즘 커피와 베이커리를 함께 파는곳이 많아진것 같다고 생각한다.",
+          "나는 루왁커피맛이 궁금하다.",
+          "나는 오늘 바닐라 라테를 마셨다."
+        ],
+        "speaker2": [
+          "나는 아이스 아메리카노가 좋다",
+          "나는 단걸 별로 안 좋아한다",
+          "나는 웨이팅 긴 카페는 힘들다",
+          "나는 저렴한 커피도 맛이 괜찮아 자주 사 먹는다",
+          "나는 오늘 아이스\n아메리카노를 마셨다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나는 방송 연출 보조일을 하고 있다.",
+          "나는 실내수영을 싫어한다.",
+          "나는 햄버거를 안 먹는다.",
+          "나는 분위기 좋은 곳에서 칼질하는 게 맛있다.",
+          "나는 한식도 좋아한다.",
+          "나는 모닝커피를 늘 마신다.",
+          "나는 카페인에 취약해 3시 이후로는 커피를 마시지 않는다.",
+          "나는 너무 마시고 싶을 땐 디카페인을 마신다",
+          "나는 음식을 먹은 후 커피가 생각난다.",
+          "나는 지금 따뜻한 커피가 생각난다."
+        ],
+        "speaker2": [
+          "나는 20대 여성이다",
+          "나는 종교학전공을 하고 취업준비 중이다",
+          "나는 오빠가 세무사이다",
+          "나는 양식을 먹지 않는다",
+          "나는 양식 말고 다 잘 먹는다",
+          "나는 양식을 먹으면 속이 안 좋다",
+          "나는 어제 잠을 설쳐 아침부터 커피를 마셨다",
+          "나는 커피를 잘 모르지만 조금씩 마신다.",
+          "나는 오후 1시 이전에 커피를 마신다",
+          "나는 최근 몇 년 전만 해도 커피를 마시지 못했다",
+          "나는 커피도 중독이라 생각한다."
+        ]
+      }
+    }
+  ]
+}

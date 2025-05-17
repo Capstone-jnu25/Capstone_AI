@@ -1,0 +1,647 @@
+{
+  "FileInfo": {
+    "filename": "K3-00075-CL25773-CP50777-19-06-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4685",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "4247",
+      "gender": "남성",
+      "age": "40대",
+      "occupation": "사무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00075"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "25773",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 여자 형제는 간호사이다",
+        "나는 사무관이다",
+        "나는 노트북을 수집한다",
+        "나는 바닐라라떼를 좋아한다",
+        "나는 새를 좋아한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "50777",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 50대이다.",
+        "나는 도배공이다",
+        "나는 자전거를 좋아한다",
+        "나는 토끼 두 마리를 키운다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "19-06",
+    "topicType": "예술문화 생활>방송/연예",
+    "topicTitle": "라디오"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00075-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "안녕하세요. 20대 사무관 여성입니다.",
+          "summary": "나는 20대 사무관 여성이다",
+          "date": "2022-11-20",
+          "time": "19:20:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "안녕하세요 저는 50대 도배공으로 일하고 있는 남성입니다",
+          "summary": "나는 도배공으로 일하는 50대 남성이다",
+          "date": "2022-11-20",
+          "time": "23:07:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "도배공이시면 주말근무가 있으신 편인가요? 저희 언니는 간호사라 주말없이 일하면서 많이 힘들어하더라구요.",
+          "summary": "나는 간호사 일하는 언니가 주말 없이 일하는 게 힘들어하는 것을 보았다",
+          "date": "2022-11-21",
+          "time": "00:44:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "작업 요청이 있을 때 일하게 되어서 구분 없이 일하고 있습니다.",
+          "summary": "나는 작업 요청에 따라 시간 구분 없이 일한다",
+          "date": "2022-11-21",
+          "time": "12:53:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "그러시군요^^  저는 자연뷰가 좋은 카페에서 좋아하는 바닐라라떼를 마시는 것을 좋아해요. 그러기 위해서 주말에는 늘 야외로 나간답니다.",
+          "summary": "나는 카페에서 바닐라 라테 마시는 것을 좋아한다",
+          "date": "2022-11-21",
+          "time": "13:01:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "저는 집 가까운 곳에 산책하기 적당한 곳이 있어서 좋아하는 자전거를 타고 가곤 합니다",
+          "summary": "나는 집 가까운 곳에서 자전거를 탄다",
+          "date": "2022-11-21",
+          "time": "13:03:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "건강에도 좋겠어요. 야외로 나가면 요즘은 가을이다보니 떼지어가는 새무리를 자주 본답니다.",
+          "summary": "나는 요즈음 야외에서 떼 지어가는 새 무리를 자주 본다",
+          "date": "2022-11-21",
+          "time": "13:19:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "저는 강가에 낮게 날아다니는 새무리 본 것 같아요. 신기하고 멋진 모습이었어요",
+          "summary": "나는 강가에서 낮게 날아다니는 새무리를 본 적이 있다",
+          "date": "2022-11-21",
+          "time": "20:28:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "마음이 편해지는 것 같아서 좋아요.  저는 업무상 노트북을 많이 사용해서 그런지, 성능 좋은 노트북 수집을 좋아해요. 혹시 수집하시는 물건 있으세요?",
+          "summary": "나는 마음이 편해지는 것 새가 좋다 나는 업무상 노트북을 많이 사용해서 성능 좋은 노트북 수집을 한다",
+          "date": "2022-11-21",
+          "time": "21:09:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "저는 열쇠고리 모으는 것을 좋아합니다",
+          "summary": "나는 열쇠고리 모으는 것을 좋아한다",
+          "date": "2022-11-22",
+          "time": "00:05:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "열쇠고리는 모아두면 이쁠 것 같아요. 특히 여행다녀올 때는 기념도 되구요.",
+          "summary": "나는 여행 다녀올 때 기념품으로 열쇠고리도 모으는 게 좋을 것 같다",
+          "date": "2022-11-22",
+          "time": "08:41:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "작지만 그 물건 하나가 기억을 불러오는 열쇠가 되는 것 같아요",
+          "summary": "나는 작은 물건 하나가 기억을 불러온다고 생각한다",
+          "date": "2022-11-22",
+          "time": "11:23:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "맞아요. 그래서 저도 여행가면 기념품을 꼭 사와서 보관해요.",
+          "summary": "나는 여행 가면 기념품을 사서 보관한다",
+          "date": "2022-11-22",
+          "time": "11:28:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "저는 토끼 두 마리를 키우고 있어서 토끼 그림이 있는 기념품도 챙기는 편이에요. 다음에 또 얘기나눠요",
+          "summary": "나는 토끼 두 마리를 키우고 있다",
+          "date": "2022-11-22",
+          "time": "11:30:08",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 사무관 여성이다",
+          "나는 간호사 일하는 언니가 주말 없이 일하는 게 힘들어하는 것을 보았다",
+          "나는 카페에서 바닐라 라테 마시는 것을 좋아한다",
+          "나는 요즈음 야외에서 떼 지어가는 새 무리를 자주 본다",
+          "나는 마음이 편해지는 것 새가 좋다",
+          "나는 업무상 노트북을 많이 사용해서 성능 좋은 노트북 수집을 한다",
+          "나는 여행 다녀올 때 기념품으로 열쇠고리도 모으는 게 좋을 것 같다",
+          "나는 여행 가면 기념품을 사서 보관한다"
+        ],
+        "speaker2": [
+          "나는 도배공으로 일하는 50대 남성이다",
+          "나는 작업 요청에 따라 시간 구분 없이 일한다",
+          "나는 집 가까운 곳에서 자전거를 탄다",
+          "나는 강가에서 낮게 날아다니는 새무리를 본 적이 있다",
+          "나는 열쇠고리 모으는 것을 좋아한다",
+          "나는 작은 물건 하나가 기억을 불러온다고 생각한다",
+          "나는 토끼 두 마리를 키우고 있다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00075-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00075-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "잘 지내시죠? 3주가 후딱 지나가네요. 겨우 여유가 생겨 오랜만에 라디오를 들어봤어요.",
+          "summary": "나는 오랜만에 라디오를 들어봤다",
+          "date": "2022-11-22",
+          "time": "11:34:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "저도 라디오를 들어본 지 오래된 것 같네요.",
+          "summary": "나는 라디오를 들어본 지 오래되었다",
+          "date": "2022-11-22",
+          "time": "11:35:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "라디오의 사연도 추억을 생각나게 해주는 경우가 있더라구요. 오늘은 엄마와 딸에 대한 사연을  들으면서 엄마한테 더 잘해야겠구나 싶었어요.",
+          "summary": "나는 라디오 통해서 사연을 듣고 추억을 생각하게 되었고, 엄마한테 더 잘해야겠다고 생각했다",
+          "date": "2022-11-22",
+          "time": "11:36:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "학교 다니던 때에는 방학이 되면 라디오 아침 방송을 즐겨 들었었어요. 주로 청취자 사연을 많이 소개해 주었던게 생각나네요",
+          "summary": "나는 학교 다니던 시절 방학이면 라디오 아침방송을 즐겨 들었다 나는 청취자 사연 소개 하주던 것이 생각난다",
+          "date": "2022-11-22",
+          "time": "12:08:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "맞아요. 요새는 라디오로 주식, 경제 방송도 많이 들어요. 특히 출퇴근할 때요.",
+          "summary": "나는 출퇴근할 대 라디오로 주식, 경제방송을 많이 듣는다",
+          "date": "2022-11-22",
+          "time": "12:42:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "감성적인 내용을 다루는 라디오 프로그램보다는 실생황에 유익한 정보를 전하는 라디오 프로그램 쪽으로 선호도가 바뀌는 것 같아요",
+          "summary": "나는 요새 선호하는 라디오 프로그램은 실생활에 유익한 정보를 전하는 쪽인 건 같다",
+          "date": "2022-11-22",
+          "time": "13:51:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "요새 경제가 어려우니 더 그런듯 해요. 내년까지부터 경제불황이 시작이라는데 벌써 걱정이네요.",
+          "summary": "나는 경제 불황이 시작되는 것이 걱정된다",
+          "date": "2022-11-22",
+          "time": "14:03:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "어려울수록 사람들과 같이 이겨낼 수 있다는 의지가 필요한것 같아요",
+          "summary": "나는 어려울수록 사람들과 같이 이겨낼 수 있다는 의지가 필요하다고 생각한다",
+          "date": "2022-11-22",
+          "time": "20:45:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "저도 그렇게 생각해요. 이렇게 어려운 시기를 견디려면 절약밖에 없는 것 같아요.",
+          "summary": "나는 어려운 시기를 견디려면 절약을 해야 한다고 생각한다",
+          "date": "2022-11-22",
+          "time": "20:48:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "심야에 라디오 틀어놓고 일할 땐 많이 위안 받았던 경험이 있거든요",
+          "summary": "나는 심야에 라디오를 틀어놓고 일할 때 위안을 받았었다",
+          "date": "2022-11-22",
+          "time": "20:54:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "라디오의 순기능이네요. 오늘 오랜만에 라디오 한번 들어보시는 것도 좋겠네요.",
+          "summary": "나는 라디오 들어보는 것이 좋겠다고 생각한다",
+          "date": "2022-11-22",
+          "time": "21:10:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "자동차 운전할 때 라디오 들어 봐야 겠어요",
+          "summary": "나는 자동차 운전할 때 라디오를 들어볼 생각이다",
+          "date": "2022-11-22",
+          "time": "23:57:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "네. 참 좋은 것  같아요. 오늘 저도 한가해서 계속 들었네요.",
+          "summary": "나는 오늘 한가해서 라디오를 계속 들었다",
+          "date": "2022-11-23",
+          "time": "07:13:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "네 대화 즐거웠어요. 다음에 또 얘기나눠요",
+          "summary": ".",
+          "date": "2022-11-23",
+          "time": "08:18:00",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 오랜만에 라디오를 들어봤다",
+          "나는 라디오 통해서 사연을 듣고 추억을 생각하게 되었고, 엄마한테 더 잘해야겠다고 생각했다",
+          "나는 출퇴근할 대 라디오로 주식, 경제방송을 많이 듣는다",
+          "나는 경제 불황이 시작되는 것이 걱정된다",
+          "나는 어려운 시기를 견디려면 절약을 해야 한다고 생각한다",
+          "나는 라디오 들어보는 것이 좋겠다고 생각한다",
+          "나는 오늘 한가해서 라디오를 계속 들었다"
+        ],
+        "speaker2": [
+          "나는 라디오를 들어본 지 오래되었다",
+          "나는 학교 다니던 시절 방학이면 라디오 아침방송을 즐겨 들었다",
+          "나는 청취자 사연 소개 하주던 것이 생각난다",
+          "나는 요새 선호하는 라디오 프로그램은 실생활에 유익한 정보를 전하는 쪽인 건 같다",
+          "나는 어려울수록 사람들과 같이 이겨낼 수 있다는 의지가 필요하다고 생각한다",
+          "나는 심야에 라디오를 틀어놓고 일할 때 위안을 받았었다",
+          "나는 자동차 운전할 때 라디오를 들어볼 생각이다",
+          "."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 사무관 여성이다",
+          "나는 간호사 일하는 언니가 주말 없이 일하는 게 힘들어하는 것을 보았다",
+          "나는 카페에서 바닐라 라테 마시는 것을 좋아한다",
+          "나는 요즈음 야외에서 떼 지어가는 새 무리를 자주 본다",
+          "나는 마음이 편해지는 것 새가 좋다",
+          "나는 업무상 노트북을 많이 사용해서 성능 좋은 노트북 수집을 한다",
+          "나는 여행 다녀올 때 기념품으로 열쇠고리도 모으는 게 좋을 것 같다",
+          "나는 여행 가면 기념품을 사서 보관한다"
+        ],
+        "speaker2": [
+          "나는 도배공으로 일하는 50대 남성이다",
+          "나는 작업 요청에 따라 시간 구분 없이 일한다",
+          "나는 집 가까운 곳에서 자전거를 탄다",
+          "나는 강가에서 낮게 날아다니는 새무리를 본 적이 있다",
+          "나는 열쇠고리 모으는 것을 좋아한다",
+          "나는 작은 물건 하나가 기억을 불러온다고 생각한다",
+          "나는 토끼 두 마리를 키우고 있다"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00075-2",
+      "prevTimeInfo": {
+        "timeNum": "20",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00075-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "20시간만이죠 출근하실 때 라디오 들으셨어요? 저는 오늘도 주식 방송을 들었답니다.",
+          "summary": "나는 오늘 라디오 주식 방송을 들었다",
+          "date": "2022-11-23",
+          "time": "08:36:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "저는 방송사 어플로 하루 전 라디오 방송을 다시 들었어요",
+          "summary": "나는 방송사 어플로 하루 전 라디오 방송을 다시 듣는다",
+          "date": "2022-11-23",
+          "time": "08:40:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "라디오 앱들이 다양하게 나오더라구요. 활용하기 참 좋은 것 같아요.  시간을 굳이 맞추지 않더라도 원하는 프로그램을 다시 들을 수도 있더라구요.",
+          "summary": "나는 라디오 앱들이 다양한 기능이 있어서 유용하다고 생각한다 나는 라디오 앱으로 원하는 프로그램을 다시 듣는다",
+          "date": "2022-11-23",
+          "time": "08:44:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "라디오가 과거엔 일회성이었는데, 다시 들을 수 있는 것은 정말 좋은 것 같아요",
+          "summary": "나는 라디오를 다시 들을 수 있어서 좋다",
+          "date": "2022-11-23",
+          "time": "13:01:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "저도 같은 생각이에요. 그리고 모든지역 라디오를 들을 수 있는 장점도 있더라구요.",
+          "summary": "나는 라디오 앱으로 모든 지역 방송을 들을 수 있는 게 장점이라고 생각한다",
+          "date": "2022-11-23",
+          "time": "13:19:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "보이는 라디오를 운영하는 프로그램도 가끔씩 방송에 초대되는 게스트가 마음에 드는 사람이면 찾아보게 되더라구요",
+          "summary": "나는 초대되는 게스트가 마음에 들면 보이는 라디오를 찾아본다",
+          "date": "2022-11-23",
+          "time": "13:27:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "보이는 라디오는 좋은 것 같아요. 게스트와 적은 수의 방청객들의 상호반응이 실시간이라 재밌는 상황이 잘 만들어지더라구요.",
+          "summary": "나는 보이는 라디오에서 게스트와 방청객의 상호 호흡이 재밌게 생각한다",
+          "date": "2022-11-23",
+          "time": "13:33:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "라이브 음악도 라디오를 통해 들으면 또 다른 느낌을 주는 것 같아요",
+          "summary": "나는 라이브 음악도 라디오를 통해 들으면 색다른 느낌을 받는다",
+          "date": "2022-11-23",
+          "time": "13:35:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "맞아요. 혹시 자전거 타실 때도 라디오 들으신 적 있으세요? 그건 좀 위험해보였어요.",
+          "summary": "나는 자전거 탈 때 라디오 듣는 게 위험하다고 생각한다",
+          "date": "2022-11-23",
+          "time": "13:40:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "자전거 탈땐 음악을 거의 안들어요. 간혹 공원에 자전거 타면서 음악 크게 틀면서 가시는 분들 보면 좀 눈쌀을 찌푸리게 되더라구요",
+          "summary": "나는 자전거 탈 때 라디오를 듣지 않는다.",
+          "date": "2022-11-23",
+          "time": "20:05:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "맞아요. 저는 자기 전에 라다오를 들어야겠어요.",
+          "summary": "나는 자기 전에 라디오를 들으려고 한다",
+          "date": "2022-11-23",
+          "time": "22:11:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "심야시간에는 라디오에서 평상시에 러닝타임이 길어서 풀타임으로 못들었던 음악을 많이 들려주는게 좋더라구요",
+          "summary": "나는 심야시간에는 음악을 많이 들려주는 라디오가 좋다",
+          "date": "2022-11-23",
+          "time": "22:15:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25773",
+          "participantID": "4685",
+          "utterance": "네. 조용한 음악프로그램 찾아서 들어볼게요. 조언해주셔서 감사합니다",
+          "summary": "나는 조용한 음악프로 들으려고 한다",
+          "date": "2022-11-23",
+          "time": "22:25:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "50777",
+          "participantID": "4247",
+          "utterance": "네 대화 즐거웠어요.또 얘기 나눠요",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "22:41:49",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 오늘 라디오 주식 방송을 들었다",
+          "나는 라디오 앱들이 다양한 기능이 있어서 유용하다고 생각한다",
+          "나는 라디오 앱으로 원하는 프로그램을 다시 듣는다",
+          "나는 라디오 앱으로 모든 지역 방송을 들을 수 있는 게 장점이라고 생각한다",
+          "나는 보이는 라디오에서 게스트와 방청객의 상호 호흡이 재밌게 생각한다",
+          "나는 자전거 탈 때 라디오 듣는 게 위험하다고 생각한다",
+          "나는 자기 전에 라디오를 들으려고 한다",
+          "나는 조용한 음악프로 들으려고 한다"
+        ],
+        "speaker2": [
+          "나는 방송사 어플로 하루 전 라디오 방송을 다시 듣는다",
+          "나는 라디오를 다시 들을 수 있어서 좋다",
+          "나는 초대되는 게스트가 마음에 들면 보이는 라디오를 찾아본다",
+          "나는 라이브 음악도 라디오를 통해 들으면 색다른 느낌을 받는다",
+          "나는 자전거 탈 때 라디오를 듣지 않는다.",
+          "나는 심야시간에는 음악을 많이 들려주는 라디오가 좋다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 사무관 여성이다",
+          "나는 간호사 일하는 언니가 주말 없이 일하는 게 힘들어하는 것을 보았다",
+          "나는 카페에서 바닐라 라테 마시는 것을 좋아한다",
+          "나는 요즈음 야외에서 떼 지어가는 새 무리를 자주 본다",
+          "나는 마음이 편해지는 것 새가 좋다",
+          "나는 업무상 노트북을 많이 사용해서 성능 좋은 노트북 수집을 한다",
+          "나는 여행 다녀올 때 기념품으로 열쇠고리도 모으는 게 좋을 것 같다",
+          "나는 여행 가면 기념품을 사서 보관한다",
+          "나는 오랜만에 라디오를 들어봤다",
+          "나는 라디오 통해서 사연을 듣고 추억을 생각하게 되었고, 엄마한테 더 잘해야겠다고 생각했다",
+          "나는 출퇴근할 대 라디오로 주식, 경제방송을 많이 듣는다",
+          "나는 경제 불황이 시작되는 것이 걱정된다",
+          "나는 어려운 시기를 견디려면 절약을 해야 한다고 생각한다",
+          "나는 라디오 들어보는 것이 좋겠다고 생각한다",
+          "나는 오늘 한가해서 라디오를 계속 들었다"
+        ],
+        "speaker2": [
+          "나는 도배공으로 일하는 50대 남성이다",
+          "나는 작업 요청에 따라 시간 구분 없이 일한다",
+          "나는 집 가까운 곳에서 자전거를 탄다",
+          "나는 강가에서 낮게 날아다니는 새무리를 본 적이 있다",
+          "나는 열쇠고리 모으는 것을 좋아한다",
+          "나는 작은 물건 하나가 기억을 불러온다고 생각한다",
+          "나는 토끼 두 마리를 키우고 있다",
+          "나는 라디오를 들어본 지 오래되었다",
+          "나는 학교 다니던 시절 방학이면 라디오 아침방송을 즐겨 들었다",
+          "나는 청취자 사연 소개 하주던 것이 생각난다",
+          "나는 요새 선호하는 라디오 프로그램은 실생활에 유익한 정보를 전하는 쪽인 건 같다",
+          "나는 어려울수록 사람들과 같이 이겨낼 수 있다는 의지가 필요하다고 생각한다",
+          "나는 심야에 라디오를 틀어놓고 일할 때 위안을 받았었다",
+          "나는 자동차 운전할 때 라디오를 들어볼 생각이다",
+          "."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "FileInfo": {
+    "filename": "K2-00019-CL21540-CP21188-20-06-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0275",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0277",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "서비스직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00019"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "21540",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 오후에 SNS를 한다.",
+        "나는 약을 먹는 것을 싫어한다.",
+        "나는 줄넘기를 좋아한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "21188",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 연인이 있지만 사이가 좋지 않다.",
+        "나는 식물을 키우는 것을 좋아한다.",
+        "나는 SF 영화를 자주 본다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "20-06",
+    "topicType": "예술문화 생활>영화/만화",
+    "topicTitle": "OTT서비스"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00019-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21540",
+          "participantID": "0275",
+          "utterance": "안녕하세요 저는 20대 여자입니다.",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-09-05",
+          "time": "00:58:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21188",
+          "participantID": "0277",
+          "utterance": "안녕하세요 저는 20대 남자입니다 ㅎㅎ.",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-09-05",
+          "time": "00:59:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21540",
+          "participantID": "0275",
+          "utterance": "안녕하세요 선생님 ㅎㅎ 뭐하고계세요??",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:05:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21188",
+          "participantID": "0277",
+          "utterance": "아 저 @브랜드명1@로 @기타명1@ 보고있었어요 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:06:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21540",
+          "participantID": "0275",
+          "utterance": "@기타명1@ 그거 재밌다고 하던데 재밌어요??",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:07:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21188",
+          "participantID": "0277",
+          "utterance": "네! 진짜 재밌어요 ㅎㅎ 선생님도 시간 되실때 한번 봐보세요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:07:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21540",
+          "participantID": "0275",
+          "utterance": "네 ㅎ 선생님은 tv 자주 보시나봐요??",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:07:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21188",
+          "participantID": "0277",
+          "utterance": "네 드라마 보는것고 좋아하고 영화 보는것도 좋아합니다!",
+          "summary": "나는 tv 시청하는 거를 좋아한다.",
+          "date": "2022-09-05",
+          "time": "01:08:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21540",
+          "participantID": "0275",
+          "utterance": "어떤종류의 영화 좋아하세요??",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:09:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21188",
+          "participantID": "0277",
+          "utterance": "SF 종류의 영화를 좋아해서 그 장르쪽을 자주 찾아봐요!",
+          "summary": "나는 SF영화를 자주 본다.",
+          "date": "2022-09-05",
+          "time": "01:10:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21540",
+          "participantID": "0275",
+          "utterance": "아하 점심시간인데 점심식사하셨어요??",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:10:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21188",
+          "participantID": "0277",
+          "utterance": "네 먹었어요 점심시간만 지나면 너무 졸려요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:11:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21540",
+          "participantID": "0275",
+          "utterance": "식곤증은 피할수없죠.. 낮잠타임 가져볼까요??",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:11:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21188",
+          "participantID": "0277",
+          "utterance": "네 저희 쫌만 자다가 다시만나요!",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:12:27",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 tv 시청하는 거를 좋아한다.",
+          "나는 SF영화를 자주 본다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00019-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00019-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21540",
+          "participantID": "0275",
+          "utterance": "1시간이 지났네요 푹 주무셨어요??",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:13:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21188",
+          "participantID": "0277",
+          "utterance": "삼십분쯤 잤더니 2시간정도 잔거처럼 쌩쌩하네요 ㅎㅎ 쫌 주무셨어요??",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:13:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21540",
+          "participantID": "0275",
+          "utterance": "졸린데 참고 sns좀 했어요~ 오후에는 자기가 너무 아까워요.",
+          "summary": "나는 오후에 SNS를 한다.",
+          "date": "2022-09-05",
+          "time": "01:14:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21188",
+          "participantID": "0277",
+          "utterance": "저는 이제 잠좀 깰겸 슬슬 일어나서 움직여야겠어요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:15:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21540",
+          "participantID": "0275",
+          "utterance": "지금 하실일이 있으신가봐요??",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:15:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21188",
+          "participantID": "0277",
+          "utterance": "식물 키우는 것을 좋아해서 꽃을 몇종류 키우고있는데 물좀 주려구요~ 선생님은 뭐하세요?",
+          "summary": "나는 식물을 키우는 것을 좋아한다.",
+          "date": "2022-09-05",
+          "time": "01:16:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21540",
+          "participantID": "0275",
+          "utterance": "저도 졸려서 집앞 마당에서 줄넘기 하려구요 어렸을때부터 줄넘기하는거 좋아해서 꾸준히 했거든요.",
+          "summary": "나는 줄넘기를 좋아한다.",
+          "date": "2022-09-05",
+          "time": "01:17:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21188",
+          "participantID": "0277",
+          "utterance": "부지런하시네요 가벼운 운동이라도 꾸준히 하기 힘든데 말이죠.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:17:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21540",
+          "participantID": "0275",
+          "utterance": "어렸을때부터 몸이 안좋아서 약을 달고 살아서 트라우마라 할수도있고.. 그래서 약먹는거를 싫어해요.",
+          "summary": "나는 약 먹는 거를 싫어한다.",
+          "date": "2022-09-05",
+          "time": "01:18:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21188",
+          "participantID": "0277",
+          "utterance": "건강관리를 잘하셔야겠어요..",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:19:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21540",
+          "participantID": "0275",
+          "utterance": "선생님은 여자친구 있으세요???",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:19:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21188",
+          "participantID": "0277",
+          "utterance": "있는데 어제 크게 다퉈서 사이가 좋지다 않네요..",
+          "summary": "나는 연인이 있지만 사이가 좋지 않다.",
+          "date": "2022-09-05",
+          "time": "01:20:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21540",
+          "participantID": "0275",
+          "utterance": "제가 괜히 여쭤봤나요.. 너무 늦었네요 저는 자러 가볼께요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:21:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21188",
+          "participantID": "0277",
+          "utterance": "괜찮습니다 ㅎㅎ 좋은꿈 꾸세요~~",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "01:21:25",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 오후에 SNS를 한다.",
+          "나는 줄넘기를 좋아한다.",
+          "나는 약 먹는 거를 싫어한다."
+        ],
+        "speaker2": [
+          "나는 식물을 키우는 것을 좋아한다.",
+          "나는 연인이 있지만 사이가 좋지 않다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 tv 시청하는 거를 좋아한다.",
+          "나는 SF영화를 자주 본다."
+        ]
+      }
+    }
+  ]
+}

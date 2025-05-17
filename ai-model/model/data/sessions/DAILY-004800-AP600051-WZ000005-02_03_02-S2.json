@@ -1,0 +1,794 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-004800-AP600051-WZ000005-02_03_02-S2.json",
+        "sessionLevel": "2"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0012",
+            "gender": "여성",
+            "age": "20대",
+            "occupation": "사무직",
+            "bPlace": "대전/세종/충청/강원",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "응용통계학"
+        },
+        "speaker2": {
+            "participantID": "F0012",
+            "gender": "여성",
+            "age": "20대",
+            "occupation": "사무직",
+            "bPlace": "부산/대구/울산/경상",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "응용통계학"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "004800"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600051",
+            "personaFeatures": [
+                "나는 관광/감상의 지명에 대해 잘 알고 싶다.",
+                "나는 실내에서 수영하는 것을 싫어한다",
+                "나는 콘솔게임에 관심 없다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000005",
+            "personaFeatures": [
+                "나는 지명에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_02",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "장소"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004800-1",
+            "sessionKeywords": [
+                "*울진읍*,*울진읍*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600051",
+                    "participantID": "E0012",
+                    "utterance": "관광의 지명에 대해 잘 알고 싶어서 찾아왔어!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 관광의 지명에 대해 잘 알고 싶다.",
+                    "timestamp": 1695835501000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "오! 나는 지명에 대해 잘 알고 있어요. 도움이 될 수 있을 것입니다. 궁금한 지명이 무엇입니까?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695835581000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600051",
+                    "participantID": "E0012",
+                    "utterance": "나는 울진읍에 대해 궁금해. 알려줄 수 있니?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695835615000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "울진읍(蔚珍邑)은 울진군의 군청 소재지로 소계류의 하구 부근에 발달한 취락이에요.",
+                    "context": {
+                        "query": "울진읍",
+                        "contents": [
+                            {
+                                "documentID": "330073",
+                                "documentTitle": "울진읍",
+                                "content": [
+                                    "울진읍(蔚珍邑)은 울진군의 군청 소재지로 소계류의 하구 부근에 발달한 취락이다.",
+                                    "남쪽은 왕피천 하구에 연결되어 있기 때문에 비교적 넓은 평야지대이다.",
+                                    "이 지대는 해안단구가 발달되어 10ｍ 이상의 언덕에서도 바다 생물의 화석이 나오기도 한다.",
+                                    "북쪽 죽변은 외항으로 어업협동조합과 큰 통조림 공장이 있으며, 부근은 좋은 어업 기지이다.",
+                                    "울진에는 유원지로 이름난 연호정이 있고, 평해는 구읍이며, 역시 관동 팔경의 하나인 월송정이 있다.",
+                                    "평해 남쪽 후포는 어업으로 발달한 항구이다.",
+                                    "온전면에는 백암온천(白巖溫泉, 수온 42도)이 있는데 유황질이다.",
+                                    "또 근남면에는 관동 팔경의 하나인 망양정이 있다.",
+                                    "근남면 부근에는 석회암이 분포되어 지하 금강이라고 하는 성류굴(聖留窟, 길이 470ｍ)이 있는데, 동룡굴 못지 않은 석회동이 발달하여 관광객이 많이 온다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "울진읍(蔚珍邑)은 울진군의 군청 소재지로 소계류의 하구 부근에 발달한 취락이다.",
+                    "timestamp": 1695835707000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600051",
+                    "participantID": "E0012",
+                    "utterance": "오. 울진군의 군청 소재지구나. 몰랐던 사실이야.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695835755000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "새로운 정보를 알려드릴 수 있게 되어서 기뻐요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695835767000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600051",
+                    "participantID": "E0012",
+                    "utterance": "나도 새로운 정보를 얻을 수 있어서 유익한 시간이었어. 아 이번에 나는 바다를 가볼까 생각중이야.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695835813000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "오 정말요? 바다에 가시면 수영하고 놀아도 좋을 것 같아요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695835837000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600051",
+                    "participantID": "E0012",
+                    "utterance": "맞아. 나는 실내에서 수영하는 것을 싫어해. 그래서 바다에서 수영하는 것을 선호하는 편이야.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 실내에서 수영하는 것을 싫어한다.",
+                    "timestamp": 1695835862000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "오! 바다 수영하면 너무 멋지실 것 같아요! 실내에서 수영하는 것과 바다 수영의 매력은 전혀 다르죠.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695835908000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600051",
+                    "participantID": "E0012",
+                    "utterance": "맞아. 나는 바다수영의 매력을 알고나서 여름만 되면 바다를 더 찾게 되는 것 같아.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695835933000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "좋은 경험이 있으셔서 많이 찾게 되시는 것 같아요. 행복하게 지내는 것 같아서 저도 보기에 좋네요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695835962000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600051",
+                    "participantID": "E0012",
+                    "utterance": "맞아. 좋아하는 일이 있다는 것은 삶을 풍요롭게 해주는 것 같아.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695835992000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "맞아요. 저도 그렇게 생각해요. 삶을 풍요롭게 만드는 것은 일뿐만이 아니라 개인적인 시간을 잘 보낼 수록 더 풍요로워지는 것 같네요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695836031000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 관광의 지명에 대해 잘 알고 싶다.",
+                    "나는 실내에서 수영하는 것을 싫어한다."
+                ],
+                "wizard": [
+                    "울진읍(蔚珍邑)은 울진군의 군청 소재지로 소계류의 하구 부근에 발달한 취락이다."
+                ],
+                "dialogSummary": "질문자는 울집읍에 대해 질문했고, 챗봇은 울진읍(蔚珍邑)은 울진군의 군청 소재지로 소계류의 하구 부근에 발달한 취락이라고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "004800-1",
+            "prevTimeInfo": {
+                "timeNum": "5",
+                "timeUnit": "주"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004800-2",
+            "sessionKeywords": [
+                "*신녕면*,*신녕면*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600051",
+                    "participantID": "E0012",
+                    "utterance": "안녕! 궁금한 지명이 또 생겨서 물어보러 왔어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695836100000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "안녕하세요! 5주 전에 드린 지명 정보는 도움이 되었었나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695836126000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600051",
+                    "participantID": "E0012",
+                    "utterance": "응응 그때 충분히 도움을 받고 너무 좋아서, 이번에도 찾아왔어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695836145000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "저번에 제가 도움이 되셨다니 기분이 좋네요. 이번에는 어떤 지명이 궁금하신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695836166000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600051",
+                    "participantID": "E0012",
+                    "utterance": "이번에는 신녕면에 대해 알고 싶어!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695836179000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "신녕면(新寧面)은 대한민국 경상북도 영천시 서북부에 위치한 면이에요. 대표적인 특산물은 마늘과 양파가 있습니다.",
+                    "context": {
+                        "query": "신녕면",
+                        "contents": [
+                            {
+                                "documentID": "375391",
+                                "documentTitle": "신녕면",
+                                "content": [
+                                    "신녕면(新寧面)은 대한민국 경상북도 영천시 서북부에 위치한 면이다.",
+                                    "영천시의 유일한 대학인 성덕대학교가 위치하고 있으며, 신녕향교를 비롯한 권응수 장군유물관 등 많은 문화유적이 산재하고 팔공산 자락의 치산계곡과 캐러반캠핑장 등이 있어 관광지로도 유명하다.",
+                                    "대표적인 특산물은 마늘과 양파다.",
+                                    "넓이는 80.72km2이고, 인구는 2013년 기준으로 2,255명이다."
+                                ]
+                            },
+                            {
+                                "documentID": "1023816",
+                                "documentTitle": "영천 화남리 삼층석탑",
+                                "content": [
+                                    "영천 화남리 삼층석탑(永川 華南里 三層石塔)은 경상북도 영천시 신녕면에 있는 신라의 삼층석탑이다.",
+                                    "1980년 9월 16일 대한민국의 보물 제675호로 지정되었다.",
+                                    "이 탑은 통일신라시대의 삼층석탑으로 높이는 2.7m이다.",
+                                    "9세기에 조성된 것으로 허물어져 없어진, 옛 한광사 불전 앞에 동서로 서 있던 쌍탑 중의 하나이다.",
+                                    "상층기단 면석은 4매의 판석으로 구성했는데, 각 층의 탑신과 지붕돌은 각각 하나의 돌로 조성되었으며, 탑신에는 모서리 기둥만 새겨져 있으며 다른 아무런 조각이 없다.",
+                                    "지붕돌 지붕면의 경사가 경쾌하게 조각되었고 상륜부는 없어졌다.",
+                                    "하층 기단의 상태가 분명하지는 않지만 통일신라 석탑의 전형적인 양식을 따른 아담하고 간결한 석탑이다.",
+                                    "개요.",
+                                    "옛 한광사의 불전 앞에 동서로 서 있던 쌍탑 중 하나로, 이 탑의 기단석 한 면을 열자 그 안에서 석불좌상(보물 제676호)이 발견되었다.",
+                                    "1단의 기단(基壇) 위에 3층의 탑신(塔身)을 올린 모습으로 꼭대기에는 머리장식을 받치던 받침돌만 남아있다.",
+                                    "기단은 네 모서리와 가운데에, 탑신의 몸돌에는 네 모서리에 각각 기둥 모양을 본떠 새겼다.",
+                                    "지붕돌은 밑면에 4단의 받침을 두었으며, 낙수면은 약한 곡선을 그리며 경쾌하게 표현되었다.",
+                                    "이 탑은 통일신라시대인 9세기경에 만들어진 것으로, 각 층의 지붕돌과 몸돌은 하나의 돌로 조각한 전형적인 통일신라시대의 석탑양식을 따르고 있다."
+                                ]
+                            },
+                            {
+                                "documentID": "369994",
+                                "documentTitle": "산성면",
+                                "content": [
+                                    "산성면(山城面)은 대한민국 대구광역시 군위군의 면이다.",
+                                    "넓이는 36.77km2이고, 인구는 2017년 기준으로 1,432명이다.",
+                                    "부계면, 영천시 신녕면과 마주보고 있다.",
+                                    "화본역이 이곳에 위치하고 있다.",
+                                    "화본리에 위치한 화본마을이 안전행정부가 주관하는 '우리마을 향토자원 Best 30선'에 선정됐다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            true,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "신녕면(新寧面)은 대한민국 경상북도 영천시 서북부에 위치한 면이다. 대표적인 특산물은 마늘과 양파다.",
+                    "timestamp": 1695836212000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600051",
+                    "participantID": "E0012",
+                    "utterance": "오! 대표적인 특산물이 마늘과 양파구나! 이건 새로 알게되었네.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695836278000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "네 맞아요. 신녕면의 특산물이 마늘과 양파라고 하네요. 또 궁금한 점이 있으신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695836315000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600051",
+                    "participantID": "E0012",
+                    "utterance": "아니. 궁금한 점은 다 풀렸어. 근데 내 친구들이 다 콘솔게임을 하러가서 심심하네. 나랑 놀아줘. 나는 콘솔게임에 관심이 없거든.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 콘솔게임에 관심이 없다.",
+                    "timestamp": 1695836345000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "네. 좋아요! 콘솔 게임에 관심이 없으시군요. 콘솔게임 말고도 재미난 것은 이 세상에 많으니깐요..",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695836380000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600051",
+                    "participantID": "E0012",
+                    "utterance": "맞아. 나는 콘솔게임말고, 그냥 독서하는 게 더 좋은 것 같아.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695836409000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "우와. 독서를 좋아하신다니 너무 낭만적이에요. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695836426000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600051",
+                    "participantID": "E0012",
+                    "utterance": "아니야. 그냥 좋아하는 것 뿐인데, 요즘 날씨에 독서를 안할 수가 없잖아.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695836448000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "맞아요. 요즘 가을 날씨라서 독서하기 딱 좋은 계절인 것 같아요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695836463000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 콘솔게임에 관심이 없다."
+                ],
+                "wizard": [
+                    "신녕면(新寧面)은 대한민국 경상북도 영천시 서북부에 위치한 면이다. 대표적인 특산물은 마늘과 양파다."
+                ],
+                "dialogSummary": "질문자는 신녕면에 대해 질문했고, 챗봇은 신녕면(新寧面)은 대한민국 경상북도 영천시 서북부에 위치한 면이고, 대표적인 특산물은 마늘과 양파라고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광의 지명에 대해 잘 알고 싶다.",
+                    "나는 실내에서 수영하는 것을 싫어한다."
+                ],
+                "wizard": [
+                    "울진읍(蔚珍邑)은 울진군의 군청 소재지로 소계류의 하구 부근에 발달한 취락이다."
+                ]
+            }
+        }
+    ]
+}

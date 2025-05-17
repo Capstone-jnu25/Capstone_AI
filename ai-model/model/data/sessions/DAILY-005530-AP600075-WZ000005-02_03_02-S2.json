@@ -1,0 +1,976 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-005530-AP600075-WZ000005-02_03_02-S2.json",
+        "sessionLevel": "2"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0057",
+            "gender": "여성",
+            "age": "60대 이상",
+            "occupation": "주부",
+            "bPlace": "부산/대구/울산/경상",
+            "gPlace": "부산/대구/울산/경상",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "중졸",
+            "major": "기타"
+        },
+        "speaker2": {
+            "participantID": "F0057",
+            "gender": "여성",
+            "age": "30대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "행정"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "005530"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600075",
+            "personaFeatures": [
+                "나는 관광/감상의 지명에 대한 강의를 듣고 있다.",
+                "나는 딸기를 즐겨 먹는다",
+                "나는 EDM 음악을 가끔 듣는다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000005",
+            "personaFeatures": [
+                "나는 지명에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_02",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "장소"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "005530-1",
+            "sessionKeywords": [
+                "*푸옌성*,*푸옌성*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600075",
+                    "participantID": "E0057",
+                    "utterance": "안녕? 내가 요새 관광 가이드가 되고 싶어서 여러 지역에 대한 강의를 듣고 있어. 그래서 베트남에 가볼까 하는데 베트남 지명에 대해 너 잘 아니? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 관광 지명에 대한 강의를 듣고 있다.",
+                    "timestamp": 1695911615000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 그렇습니다. 저는 지명에 대해 잘 알고 있어요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695911628000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600075",
+                    "participantID": "E0057",
+                    "utterance": "내가 판다 푸바오를 좋아해서 그런지 베트남의 푸옌성이라는 지명이 귀에 꽂히더라고 여기에 대해 설명해줘. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695911670000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "바다를 낀 베트남 동쪽의 지정학적 위치를 한 푸옌성은 베트남 남중부 지방에 있는 성 단위 행정 구역이며 지하 자원, 국제 해양 수로 등으로 인해 경제 발전의 무한한 잠재력을 가지고 있습니다.",
+                    "context": {
+                        "query": "푸옌성",
+                        "contents": [
+                            {
+                                "documentID": "405542",
+                                "documentTitle": "푸옌성",
+                                "content": [
+                                    "푸옌성()은 베트남 남중부 지방에 있는 성 단위 행정 구역이다.",
+                                    "베트남 중앙에 있는 최동단의 성이다.",
+                                    "지리.",
+                                    "푸옌성은 북쪽으로 빈딘성과 경계를 이루며, 남쪽으로 카인호아성과 동쪽으로는 남중국해와 접경하고 있다.",
+                                    "푸옌에는 두 개의 도로가 있는데, 북쪽으로 까몽 도로와 남쪽으로 까도로가 있다.",
+                                    "이 지방의 지형은 서쪽으로 낮은 저지대(70%)와 비옥한 뚜이호아의 평원이 동쪽으로 자리를 잡고 있다.",
+                                    "이 성을 흘러가는 주요한 강은 다랑강이며, 다랑강은 중부 베트남에서 가장 큰 강이기도 하다.",
+                                    "그 외에 반탁강과 끼로강이 있다.",
+                                    "푸옌은 바다를 낀 베트남 동쪽의 지정학적 위치와 지하 자원, 국제 해양 수로 등으로 인해 경제 발전의 무한한 잠재력을 가지고 있다.",
+                                    "행정 구역.",
+                                    "1개의 타인포(성도), 1개의 시사, 7개의 현이 있다.",
+                                    "경제.",
+                                    "푸옌은 아직은 이렇다할 경제적인 발전을 이루지 못했으며, 농업과 어업, 농산물 가공업 등이 주요 경제 활동이다.",
+                                    "그러나 해안 지대, 평야, 그리고 언덕을 중심으로 경제 발전의 신호가 오가 있으며, 뚜이호아 시 근처에 《동딱 공항》과 《붕로만》이 남쪽으로 있고, 국도와 철로가 이 성을 지나간다.",
+                                    "조만간 푸옌은 중부 베트남의 허브가 될 가능성이 농후하며, 이 지방은 《남푸옌 경제구역》이라는 대규모의 경제구역을 형성하고 있다.",
+                                    "이곳은 베트남 정유업의 중심이 될 전망이며, 이 지방의 고소득원으로 기대되고 있다.",
+                                    "관광지.",
+                                    "년탑.",
+                                    "투이호아의 1번 국도 근처의 다랑강의 남쪽 제방 위의 년산 위에 년탑이 지어져 있다.",
+                                    "이곳은 11~12세기 초 참족 사람들이 제사를 드리던 곳이다.",
+                                    "4층 짜리 탑은 피라미드 모양을 일부 닮아 있다.",
+                                    "높이는 25m, 바닥 한변의 길이는 11m이다.",
+                                    "괴수 머리 모양이 위에 놓인 중앙의 문은 참족의 힌두교 문화와 피라미드의 융합을 보여준다.",
+                                    "프랑스 식민지 시기에 탑은 훼손되었다.",
+                                    "하지만 1960년 말 응오딘지엠 정권 때에 다시 지어졌다.",
+                                    "오늘날 남아있는 원본의 건축물은 1.3m 높이의 기반이 되는 석대인데 아래 부분이 연꽃으로 조각되어 있다.",
+                                    "또한 년산의 끝자락에는 3개의 고대 형상물이 나타나 있는 한 변이 5m인 정사각형 모양의 돌이 있다.",
+                                    "뚜꽝사.",
+                                    "뚜이호아시에서 북쪽으로 20km 떨어진 뚜이안현의 안단 마을의 다짱 산기슭에 있는 뚜꽝탑은 떠이선 왕조 꽝또안 황제의 통치기인 1797년에 지어졌다.",
+                                    "다짱탑으로도 불리기도 하는 이 탑은, 푸옌 지방에서 가장 잘 알려진 탑 중 하나이다.",
+                                    "람떼파의 불교 승려인 \"후이팝쭈옌\"에 의해 설립된 이 탑은 현재 람떼 불승 10대 세대에 의해 운영되고 있다.",
+                                    "까이강을 마주하고 있으면서, 해발 100m 높이에 서 있는데 그곳은 17세기 푸옌성의 중심지였다.",
+                                    "그곳에는 탑의 입구로 이어지는, 디딤돌로 포장된 위험한 길이 있다.",
+                                    "탑은 1889년 황제에 의해 가치있게 대우받았는데, 이후 1929년 타서 재가 되어버렸다.",
+                                    "그러고 나서 베트남 중부 여러 지방의 수많은 승려들에 의해 기금이 조성되어 다시 지어졌다.",
+                                    "1988년 다짱사의 사원이 복원되었다.",
+                                    "사원 뒤에는 탑 공원과 조상에게 예배드리는 장소가 있다.",
+                                    "탑들은 4가지의 신성한 동물들(용, 유니콘, 거북, 봉황)을 포함한 장식용의 그림들로 조각되어있다.",
+                                    "녹색의 망고 나무들이 탑을 둘러싸고 있으며, 달콤한 향과 맛의 다짱 망고는 푸옌의 특산물이다.",
+                                    "붕로만 (Ro Bay).",
+                                    "붕로만(灣)은 푸옌성의 남쪽, 뚜이호아 시에서 25km 떨어진 국도 쪽에 있다.",
+                                    "이것은 베트남 중부의 가장 아름다운 해안 풍경 중 하나이다.",
+                                    "혼바산에 둘러싸인 붕로만은 10,000톤 이상의 선박까지 댈 수 있는 깊은 만이다.",
+                                    "해안을 따라서는 혼무아 해변처럼 작고 아름다운 해변들이 있다.",
+                                    "봉푸산에 맞닿은 보호구역인 까산 북쪽의 자연보호구역이 로만 옆에 있다.",
+                                    "까산의 숲은 8,780ha이며, 풍부한 식물군과 동물군이 있는데, 191종의 식물, 22종의 동물, 55종의 새들이 있다.",
+                                    "숲속에는 꿩, 빨간얼굴원숭이, 티벳곰, 말레이곰, 천산갑, 검은 표범과 같은 희귀동물도 산다.",
+                                    "다지아 암초(Gành Đá Dĩa).",
+                                    "다지아 암초는 뚜이호아시에서 80km 북쪽으로 떨어진 뚜이안현 안닌동사 행정구역에 속하며 바다옆에 있다.",
+                                    "이러한 신기한 모양의 오각기둥의 돌들은 크고 똑바로 늘어서 있다.",
+                                    "이곳에는 물속에 반쯤잠긴 원통형의 돌도 있다.",
+                                    "60~80cm 높이의 돌기둥 35,000여개가 이곳에 있는 것으로 추정된다.",
+                                    "암초의 중앙의 비와 바닷물로 채워져있는 작은 틈에는 여러 색깔의 물고기들이 산다.",
+                                    "틈 주변에는 돌들이 특이한 각도로 솟아나와 있다.",
+                                    "파도는 바위에 부딪히면서 흰 거품으로 부서진다.",
+                                    "암초 앞에는 크고 깊은 동굴이 있는데, 100명 정도가 들어갈 수 있다.",
+                                    "이곳에는 비오는 때와 해일이 있는 때가 아니면 언제든지 갈 수 있다.",
+                                    "다지아 암초는 문화정보부에 의해 국립공원으로 지정되어 있다.",
+                                    "미이아 해변.",
+                                    "푸옌성 뚜이안현의 미아 해변은 하얀 모래와 코코넛 나무아래 흐르는 깨끗한 물로 아주 아름다운 곳이다.",
+                                    "해변 가까이에서는 근처의 큰 섬들을 볼 수 있다.",
+                                    "그중에서 혼쭈섬은 22ha의 아름다운 풍경과 바다 탐험 활동에 적당한 해변 생태계를 보여준다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "푸옌성은 베트남 남중부 지방에 있는 성 단위 행정 구역이며 바다를 낀 베트남 동쪽의 지정학적 위치와 지하 자원, 국제 해양 수로 등으로 인해 경제 발전의 무한한 잠재력을 가지고 있다.",
+                    "timestamp": 1695911797000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600075",
+                    "participantID": "E0057",
+                    "utterance": "아 베트남의 동쪽 바다를 끼고 있는 곳이구나. 아직 무한 잠재력을 갖고 있다며 개발하는 도시 중 하나 인가 보네? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695911886000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 맞아요. 푸옌은 아직은 이렇다할 경제적인 발전을 이루지 못했으며, 농업과 어업, 농산물 가공업 등이 주요 경제 활동이에요.",
+                    "context": {
+                        "query": "푸옌성",
+                        "contents": [
+                            {
+                                "documentID": "405542",
+                                "documentTitle": "푸옌성",
+                                "content": [
+                                    "푸옌성()은 베트남 남중부 지방에 있는 성 단위 행정 구역이다.",
+                                    "베트남 중앙에 있는 최동단의 성이다.",
+                                    "지리.",
+                                    "푸옌성은 북쪽으로 빈딘성과 경계를 이루며, 남쪽으로 카인호아성과 동쪽으로는 남중국해와 접경하고 있다.",
+                                    "푸옌에는 두 개의 도로가 있는데, 북쪽으로 까몽 도로와 남쪽으로 까도로가 있다.",
+                                    "이 지방의 지형은 서쪽으로 낮은 저지대(70%)와 비옥한 뚜이호아의 평원이 동쪽으로 자리를 잡고 있다.",
+                                    "이 성을 흘러가는 주요한 강은 다랑강이며, 다랑강은 중부 베트남에서 가장 큰 강이기도 하다.",
+                                    "그 외에 반탁강과 끼로강이 있다.",
+                                    "푸옌은 바다를 낀 베트남 동쪽의 지정학적 위치와 지하 자원, 국제 해양 수로 등으로 인해 경제 발전의 무한한 잠재력을 가지고 있다.",
+                                    "행정 구역.",
+                                    "1개의 타인포(성도), 1개의 시사, 7개의 현이 있다.",
+                                    "경제.",
+                                    "푸옌은 아직은 이렇다할 경제적인 발전을 이루지 못했으며, 농업과 어업, 농산물 가공업 등이 주요 경제 활동이다.",
+                                    "그러나 해안 지대, 평야, 그리고 언덕을 중심으로 경제 발전의 신호가 오가 있으며, 뚜이호아 시 근처에 《동딱 공항》과 《붕로만》이 남쪽으로 있고, 국도와 철로가 이 성을 지나간다.",
+                                    "조만간 푸옌은 중부 베트남의 허브가 될 가능성이 농후하며, 이 지방은 《남푸옌 경제구역》이라는 대규모의 경제구역을 형성하고 있다.",
+                                    "이곳은 베트남 정유업의 중심이 될 전망이며, 이 지방의 고소득원으로 기대되고 있다.",
+                                    "관광지.",
+                                    "년탑.",
+                                    "투이호아의 1번 국도 근처의 다랑강의 남쪽 제방 위의 년산 위에 년탑이 지어져 있다.",
+                                    "이곳은 11~12세기 초 참족 사람들이 제사를 드리던 곳이다.",
+                                    "4층 짜리 탑은 피라미드 모양을 일부 닮아 있다.",
+                                    "높이는 25m, 바닥 한변의 길이는 11m이다.",
+                                    "괴수 머리 모양이 위에 놓인 중앙의 문은 참족의 힌두교 문화와 피라미드의 융합을 보여준다.",
+                                    "프랑스 식민지 시기에 탑은 훼손되었다.",
+                                    "하지만 1960년 말 응오딘지엠 정권 때에 다시 지어졌다.",
+                                    "오늘날 남아있는 원본의 건축물은 1.3m 높이의 기반이 되는 석대인데 아래 부분이 연꽃으로 조각되어 있다.",
+                                    "또한 년산의 끝자락에는 3개의 고대 형상물이 나타나 있는 한 변이 5m인 정사각형 모양의 돌이 있다.",
+                                    "뚜꽝사.",
+                                    "뚜이호아시에서 북쪽으로 20km 떨어진 뚜이안현의 안단 마을의 다짱 산기슭에 있는 뚜꽝탑은 떠이선 왕조 꽝또안 황제의 통치기인 1797년에 지어졌다.",
+                                    "다짱탑으로도 불리기도 하는 이 탑은, 푸옌 지방에서 가장 잘 알려진 탑 중 하나이다.",
+                                    "람떼파의 불교 승려인 \"후이팝쭈옌\"에 의해 설립된 이 탑은 현재 람떼 불승 10대 세대에 의해 운영되고 있다.",
+                                    "까이강을 마주하고 있으면서, 해발 100m 높이에 서 있는데 그곳은 17세기 푸옌성의 중심지였다.",
+                                    "그곳에는 탑의 입구로 이어지는, 디딤돌로 포장된 위험한 길이 있다.",
+                                    "탑은 1889년 황제에 의해 가치있게 대우받았는데, 이후 1929년 타서 재가 되어버렸다.",
+                                    "그러고 나서 베트남 중부 여러 지방의 수많은 승려들에 의해 기금이 조성되어 다시 지어졌다.",
+                                    "1988년 다짱사의 사원이 복원되었다.",
+                                    "사원 뒤에는 탑 공원과 조상에게 예배드리는 장소가 있다.",
+                                    "탑들은 4가지의 신성한 동물들(용, 유니콘, 거북, 봉황)을 포함한 장식용의 그림들로 조각되어있다.",
+                                    "녹색의 망고 나무들이 탑을 둘러싸고 있으며, 달콤한 향과 맛의 다짱 망고는 푸옌의 특산물이다.",
+                                    "붕로만 (Ro Bay).",
+                                    "붕로만(灣)은 푸옌성의 남쪽, 뚜이호아 시에서 25km 떨어진 국도 쪽에 있다.",
+                                    "이것은 베트남 중부의 가장 아름다운 해안 풍경 중 하나이다.",
+                                    "혼바산에 둘러싸인 붕로만은 10,000톤 이상의 선박까지 댈 수 있는 깊은 만이다.",
+                                    "해안을 따라서는 혼무아 해변처럼 작고 아름다운 해변들이 있다.",
+                                    "봉푸산에 맞닿은 보호구역인 까산 북쪽의 자연보호구역이 로만 옆에 있다.",
+                                    "까산의 숲은 8,780ha이며, 풍부한 식물군과 동물군이 있는데, 191종의 식물, 22종의 동물, 55종의 새들이 있다.",
+                                    "숲속에는 꿩, 빨간얼굴원숭이, 티벳곰, 말레이곰, 천산갑, 검은 표범과 같은 희귀동물도 산다.",
+                                    "다지아 암초(Gành Đá Dĩa).",
+                                    "다지아 암초는 뚜이호아시에서 80km 북쪽으로 떨어진 뚜이안현 안닌동사 행정구역에 속하며 바다옆에 있다.",
+                                    "이러한 신기한 모양의 오각기둥의 돌들은 크고 똑바로 늘어서 있다.",
+                                    "이곳에는 물속에 반쯤잠긴 원통형의 돌도 있다.",
+                                    "60~80cm 높이의 돌기둥 35,000여개가 이곳에 있는 것으로 추정된다.",
+                                    "암초의 중앙의 비와 바닷물로 채워져있는 작은 틈에는 여러 색깔의 물고기들이 산다.",
+                                    "틈 주변에는 돌들이 특이한 각도로 솟아나와 있다.",
+                                    "파도는 바위에 부딪히면서 흰 거품으로 부서진다.",
+                                    "암초 앞에는 크고 깊은 동굴이 있는데, 100명 정도가 들어갈 수 있다.",
+                                    "이곳에는 비오는 때와 해일이 있는 때가 아니면 언제든지 갈 수 있다.",
+                                    "다지아 암초는 문화정보부에 의해 국립공원으로 지정되어 있다.",
+                                    "미이아 해변.",
+                                    "푸옌성 뚜이안현의 미아 해변은 하얀 모래와 코코넛 나무아래 흐르는 깨끗한 물로 아주 아름다운 곳이다.",
+                                    "해변 가까이에서는 근처의 큰 섬들을 볼 수 있다.",
+                                    "그중에서 혼쭈섬은 22ha의 아름다운 풍경과 바다 탐험 활동에 적당한 해변 생태계를 보여준다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "푸옌은 아직은 이렇다할 경제적인 발전을 이루지 못했으며, 농업과 어업, 농산물 가공업 등이 주요 경제 활동이다. ",
+                    "timestamp": 1695911918000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600075",
+                    "participantID": "E0057",
+                    "utterance": "아 아직 1차산업 위주의 도시구나. 그럼 농사로 뭐를 하는 곳일까? 나는 딸기를 좋아해서 즐겨 먹는데 거기는 딸기농사는 안 하겠지? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 딸기를 즐겨 먹는다.",
+                    "timestamp": 1695911972000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 딸기는 비닐하우스 등에서 많이 재배하며 한국의 딸기는 맛이 좋기로 유명해요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695912058000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600075",
+                    "participantID": "E0057",
+                    "utterance": "딸기 이야기하니까 또 딸기 먹고 싶다. 요새 새로운 지역에 대해 알아가는 기쁨이 생겼다고 할까? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695912110000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "저도 당신에게 도움이 되었다니 기쁘네요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695912162000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600075",
+                    "participantID": "E0057",
+                    "utterance": "응 진짜 고마워. 옆집에서 EDM 음악 듣나 봐. 여기까지 들리네 나도 가끔 EDM 음악 듣는데. 음악 들으러 가야 겠어. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 EDM 음악을 가끔 듣는다.",
+                    "timestamp": 1695912221000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 만족할 수 있는 답변을 드려 기뻐요. 더 질문은 없나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695912249000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600075",
+                    "participantID": "E0057",
+                    "utterance": "응 지명 공부하다 궁금한 거 있으면 또 연락할게! 다음에 봐",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695912270000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 알겠어요. 궁금한 점이 있다면 다시 질문해 주세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695912291000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 관광 지명에 대한 강의를 듣고 있다.",
+                    "나는 딸기를 즐겨 먹는다.",
+                    "나는 EDM 음악을 가끔 듣는다."
+                ],
+                "wizard": [
+                    "푸옌성은 베트남 남중부 지방에 있는 성 단위 행정 구역이며 바다를 낀 베트남 동쪽의 지정학적 위치와 지하 자원, 국제 해양 수로 등으로 인해 경제 발전의 무한한 잠재력을 가지고 있다.",
+                    "푸옌은 아직은 이렇다할 경제적인 발전을 이루지 못했으며, 농업과 어업, 농산물 가공업 등이 주요 경제 활동이다. "
+                ],
+                "dialogSummary": "관광 가이드가 되고 싶은 질문자는 베트남의 푸옌성에 대해 질문했고 챗봇은 푸옌성은 베트남 남중부 지방에 있는 성 단위 행정 구역이며 바다를 낀 베트남 동쪽의 지정학적 위치와 지하 자원, 국제 해양 수로 등으로 인해 경제 발전의 무한한 잠재력을 가지고 있으나, 아직은 이렇다 할 경제적인 발전을 이루지 못했으며, 농업과 어업, 농산물 가공업 등이 주요 경제 활동이라고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "005530-1",
+            "prevTimeInfo": {
+                "timeNum": "7",
+                "timeUnit": "주"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "005530-2",
+            "sessionKeywords": [
+                "*의령구름다리*,*의령구름다리*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600075",
+                    "participantID": "E0057",
+                    "utterance": "저번에 그렇게 이야기하고 7주일이나 지난 거야?  나 아직도 관광가이드 되기 위해 지명 공부하고 있거든. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695912465000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 오랜만이에요. 지명에 대해 궁금한 게 있나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695912479000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600075",
+                    "participantID": "E0057",
+                    "utterance": "7주 전에는 세계 여러 지역에 대해 공부했다면 요새는 한국에서 유명한 관광지에 대해서 공부를 하고 있어. 공부하다 의령쪽 알게 되었는데 여기 관광명소가 있더라? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 한국 관광지에 대해 공부하고 있다.",
+                    "timestamp": 1695912529000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 한국에도 다양한 관광명소가 있지요. 의령 지명에 대해 설명해 드릴까요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695912571000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600075",
+                    "participantID": "E0057",
+                    "utterance": "응 의령에 있는 의령구름다리가 나는 궁금하더라고. 의령 쪽에 대해 좀 자세한 설명해 줄 수 있니? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695912603000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "의령에 있는 하늘을 향해 높이 솟은 꿈의 구름다리는 충익사, 의령천, 남산 산림욕장을 연계한 새로운 관광명소로 거듭나고 있으며 자굴산에서 발원하여 흐르는 의령천과 벽화산 기슭에서 발원하여 흐르는 남천이 합류되는 삼각지로 의령군에서 공원화하여 2005년 건설하였습니다.",
+                    "context": {
+                        "query": "의령구름다리",
+                        "contents": [
+                            {
+                                "documentID": "1051418",
+                                "documentTitle": "의령구름다리",
+                                "content": [
+                                    "의령구름다리는 자굴산에서 발원하여 흐르는 의령천과 벽화산 기슭에서 발원하여 흐르는 남천이 합류되는 삼각지로 의령군에서 공원화하여 2005년 건설하였다.",
+                                    "하늘을 향해 높이 솟은 꿈의 구름다리는 충익사, 의령천, 남산 산림욕장을 연계한 새로운 관광명소로 거듭나고 있다.",
+                                    "남천 의령구름다리의 전설 이곳은 자굴산에서 발원하여 흐르는 의령천과 벽화산 기슭에서 발원하여 흐르는 남천이 합류되는 삼각지로 예부터「宜寧의 西泉」이라 불리었던 곳으로 동쪽에서 구룡(九龍)이 西泉의 發源地에서 솟구치는 용출수 수증기가 서남풍에 따라 남산의 동쪽에서 九龍이 노닐고 갔다하여 지금도 구룡마을이 있고, 이곳은 구름다리 주탑에서 동쪽으로 남강 정암진 솥바위가 있어 솥바위 반경 30리(12km)에서 부자가 난다는 전설과 함께 우리나라 경제인 가운데 삼성그룹 호암 이병철(의령군 정곡면), 효성그룹 만우 조홍제(함안군 군북면),LG그룹 연암 구인회(진주시 지수면)선생이 그 실제인물로 태어나 우리나라의 경제에 큰 기여를 하고 있으며, 이곳 구름다리(주탑)에서 동쪽 해뜰무렵 솥바위쪽을 바라보고 기원하면 아홉용(龍)의 기운을 받아 부자가 된다는 전설(傳說)이 있는 이곳에 의령군에서 공원화하여 의령구름다리를 건설하였다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            true,
+                            false
+                        ]
+                    ],
+                    "summary": "의령구름다리는 자굴산에서 발원하여 흐르는 의령천과 벽화산 기슭에서 발원하여 흐르는 남천이 합류되는 삼각지로 의령군에서 공원화하여 2005년 건설하였고 하늘을 향해 높이 솟은 꿈의 구름다리는 충익사, 의령천, 남산 산림욕장을 연계한 새로운 관광명소로 거듭나고 있다",
+                    "timestamp": 1695912692000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600075",
+                    "participantID": "E0057",
+                    "utterance": "하늘을 향해 높이 솟은 구름다리라니 진짜 관광 명소로 충분한 가치가 있다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695912789000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 맞아요. 의령에서 손에 꼽히는 관광명소예요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695912815000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600075",
+                    "participantID": "E0057",
+                    "utterance": "응 관광 가이드가 되기 위해서 꼭 가봐야 하는 곳 같아. EDM 음악에 맞춰 몸을 흔들며 다리를 건너는 것도 재미있지 않을까? 너무 위험한가? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695912866000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "다리 위에서 지나치게 몸을 흔드는 행동은 위험합니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695912893000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600075",
+                    "participantID": "E0057",
+                    "utterance": "알았어. 위험한 행동은 하지 않을게. 새로운 지역을 알게 되는 건 정말 재미있어. 나는 서울에서만 살아서 의령이 진짜 궁금 했거든. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695912950000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "네 의령에 대해 충분한 답변이 되셨나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695912976000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600075",
+                    "participantID": "E0057",
+                    "utterance": "응 덕분에 우리나라 지명과 관광명소를 알게 됐어. 알려줘 땡큐~",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695913023000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0057",
+                    "utterance": "만족할 수 있는 답변을 드려 다행이에요. 저도 땡큐예요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695913068000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 한국 관광지에 대해 공부하고 있다."
+                ],
+                "wizard": [
+                    "의령구름다리는 자굴산에서 발원하여 흐르는 의령천과 벽화산 기슭에서 발원하여 흐르는 남천이 합류되는 삼각지로 의령군에서 공원화하여 2005년 건설하였고 하늘을 향해 높이 솟은 꿈의 구름다리는 충익사, 의령천, 남산 산림욕장을 연계한 새로운 관광명소로 거듭나고 있다"
+                ],
+                "dialogSummary": "관광 가이드 준비중인 질문자는 의령구름다리에 대해 질문했고 챗봇은 의령구름다리는 자굴산에서 발원하여 흐르는 의령천과 벽화산 기슭에서 발원하여 흐르는 남천이 합류되는 삼각지로 의령군에서 공원화하여 2005년 건설하였고 하늘을 향해 높이 솟은 꿈의 구름다리는 충익사, 의령천, 남산 산림욕장을 연계한 새로운 관광명소로 거듭나고 있다고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광 지명에 대한 강의를 듣고 있다.",
+                    "나는 딸기를 즐겨 먹는다.",
+                    "나는 EDM 음악을 가끔 듣는다."
+                ],
+                "wizard": [
+                    "푸옌성은 베트남 남중부 지방에 있는 성 단위 행정 구역이며 바다를 낀 베트남 동쪽의 지정학적 위치와 지하 자원, 국제 해양 수로 등으로 인해 경제 발전의 무한한 잠재력을 가지고 있다.",
+                    "푸옌은 아직은 이렇다할 경제적인 발전을 이루지 못했으며, 농업과 어업, 농산물 가공업 등이 주요 경제 활동이다. "
+                ]
+            }
+        }
+    ]
+}

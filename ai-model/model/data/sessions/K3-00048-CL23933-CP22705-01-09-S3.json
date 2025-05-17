@@ -1,0 +1,649 @@
+{
+  "FileInfo": {
+    "filename": "K3-00048-CL23933-CP22705-01-09-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "1202",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "1198",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00048"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "23933",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 요즘, 가끔 초조하다.",
+        "나는 은행원이다.",
+        "나는 수필을 꾸준히 읽는다.",
+        "나의 거주지는 양주이다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22705",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 아버지는 자영업을 한다.",
+        "나는 영어에 관심이 없다.",
+        "나는 멜로 영화를 자주 본다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "01-09",
+    "topicType": "식음료",
+    "topicTitle": "주류"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00048-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "안녕하세요! 저는 20대 여자 은행원입니다.",
+          "summary": "나는 20대 여자 은행원이다.",
+          "date": "2022-10-20",
+          "time": "20:39:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "반가워요~ 저도 20대 여자입니다.",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-10-20",
+          "time": "20:39:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "무슨 일 하세요? 전 일한지 얼마 안 돼서 힘드네요.",
+          "summary": "나는 신규이다.",
+          "date": "2022-10-20",
+          "time": "20:40:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "저는 아버지가 자영업 하셔서 아버지 일 도와드리고 있어요. 은행원이면 힘드시겠어요.",
+          "summary": "나의 아버지는 자영업을 한다.",
+          "date": "2022-10-20",
+          "time": "20:40:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "네.. 돈에 연관된 일이다보니 실수할까봐 요즘은 초조하기까지 해요.",
+          "summary": "나는 요즘, 가끔 초조하다.",
+          "date": "2022-10-20",
+          "time": "20:41:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "그러시겠네요. 스트레스도 받으시겠네요..",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:41:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "네. 퇴근하고도 계속 했던 실수들이 생각나서 억지로 책까지 읽고있네요.",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:42:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "책 보면 좀 괜찮으신가요? 힐링되는 책 읽으세요~",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:42:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "요즘은 수필을 꾸준히 읽고 있어요~ 님은 취미가 뭐예요?",
+          "summary": "나는 수필을 꾸준히 읽는다.",
+          "date": "2022-10-20",
+          "time": "20:43:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "저는 영화 보는 거요~ 그래서 멜로 영화 자주 봐요.",
+          "summary": "나는 멜로 영화를 자주 본다.",
+          "date": "2022-10-20",
+          "time": "20:43:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "영화 좋죠~ 멜로 영화면 외국 작품들이 유명한게 많죠?",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:44:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "맞아요ㅎ 혹시 추천해 주실만한 영화 있나요?",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:45:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "음.. 영어 공부용으로 자막 없이 봐서 다 평타는 치는거 같았어요.",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:45:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "아ㅎㅎ 저는 영어에 관심이 없어서 무조건 자막 필수에요ㅎㅎ.",
+          "summary": "나는 영어에 관심이 없다.",
+          "date": "2022-10-20",
+          "time": "20:46:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "아하.. 전 출근 시간이라 이만 가볼게요~",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:46:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "네. 출근 잘 하시고 나중에 연락해요~",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:47:18",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자 은행원이다.",
+          "나는 신규이다.",
+          "나는 요즘, 가끔 초조하다.",
+          "나는 수필을 꾸준히 읽는다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나의 아버지는 자영업을 한다.",
+          "나는 멜로 영화를 자주 본다.",
+          "나는 영어에 관심이 없다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00048-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00048-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "양주는 대중교통이 불편하게 되어있어요. 2시간이나 걸렸어요.",
+          "summary": "나의 거주지는 양주이다.",
+          "date": "2022-10-20",
+          "time": "20:47:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "오우.. 출퇴근을 어디서 하시는 거예요?",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:47:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "양주에서 용산이요~ 근데 양주역 하나라.. 힘들어요.",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:48:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "양주에서 사시는 거예요? 멀리서 출퇴근하시네요..",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:48:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "네.. 지하철 역에 바로 붙어 있으면 그나마 괜찮은데 밥 먹으러가기도 힘들어요.",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:49:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "고생하시네요.. 회식도 잘 못하시겠네요.",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:50:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "회식하면 11시에 지하철 타러 가야 택시비를 좀 아낄 수 있어요..",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:51:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "경기도에서 출퇴근하는 게 만만치 않네요..",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:51:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "네.. 술을 편하게 마신지가 언젠지.. 하이볼 그것도 맛있어 보이던데.",
+          "summary": "나는 하이볼이 맛있게 보인다.",
+          "date": "2022-10-20",
+          "time": "20:52:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "아.. 저 오늘 지인이랑 하이볼 이야기했는데.. 먹고 싶었어요.",
+          "summary": "나는 하이볼이 먹고 싶다.",
+          "date": "2022-10-20",
+          "time": "20:53:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "얼@이름1@ 하이볼인가? 그거 드셔보셨어요?",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:53:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "아뇨.. 같이 먹으러 갈 사람이 없어서.. 님은 드셔보셨나요?",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:53:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "아니요.. 안 먹어봐서 먹어보고 싶어요..아버지는 어떤 자영업 어떤 업종이신거예요?",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:54:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "한식 전문점 운영하고 계세요.",
+          "summary": "나의 아버지는 한식 전문점을 운영하신다.",
+          "date": "2022-10-20",
+          "time": "20:55:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "맛있겠네요~ 나중에 놀러가고 싶네요. 퇴근시간이라 나중에 또 대화해요.",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:56:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "네~ 나중에 시간 되시면 놀러 오세요.",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:56:56",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나의 거주지는 양주이다.",
+          "나는 하이볼이 맛있게 보인다."
+        ],
+        "speaker2": [
+          "나는 하이볼이 먹고 싶다.",
+          "나의 아버지는 한식 전문점을 운영하신다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자 은행원이다.",
+          "나는 신규이다.",
+          "나는 요즘, 가끔 초조하다.",
+          "나는 수필을 꾸준히 읽는다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나의 아버지는 자영업을 한다.",
+          "나는 멜로 영화를 자주 본다.",
+          "나는 영어에 관심이 없다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00048-2",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "주"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00048-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "3주 만이네요~ 그동안 별 일 없으셨죠?",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:56:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "오랜만이에요. 아버지 도와드리느라 너무 바빴네요.",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:57:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "아버님이 자영업한다 하셨죠? 한식당 잘 되시나봐요 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:57:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "네. 요새 증류주에 관심있는 분들이 많으셔서 많이 찾아오세요.",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:58:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "증류주요? 증류주가 어떤 맛인가요?",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:58:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "음.. 다 맛이 다른데 일반 소주보다 깔끔하고 맛이 깊어요!",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:59:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "오 그건 좀 덜 취하나요? 안 먹어봐서 궁금하네요.",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "20:59:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "취하더라고요..ㅎ 저도 처음에 맛있어서 먹다가 훅 갔어요..",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "21:00:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "님의 한식당에 가야만 먹을 수 있나요? 저도 먹고싶네요.",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "21:00:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "다음에 시간 되실 때 언제든지 놀러오세요.",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "21:01:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "님은 어디사세요? 제가 사는 양주랑 먼가요?",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "21:01:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "저는 전주 살아요..ㅎ 전주 놀러 올 일 없으신가요?",
+          "summary": "나는 전주에 산다.",
+          "date": "2022-10-20",
+          "time": "21:02:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "전주.. 일단은 없지만 나중에 놀러가게 되면 꼭 들릴게요!",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "21:03:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "오시면 드시고 싶은 거 다 사드릴게요.",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "21:03:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "23933",
+          "participantID": "1202",
+          "utterance": "아 그럼 무조건 가아죠! ㅎㅎ 오늘은 피곤해서 먼저 자러갈게요.",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "21:04:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22705",
+          "participantID": "1198",
+          "utterance": "네. 다음에 전주 오시면 연락주세요~",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "21:04:28",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [],
+        "speaker2": [
+          "나는 전주에 산다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자 은행원이다.",
+          "나는 신규이다.",
+          "나는 요즘, 가끔 초조하다.",
+          "나는 수필을 꾸준히 읽는다.",
+          "나의 거주지는 양주이다.",
+          "나는 하이볼이 맛있게 보인다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나의 아버지는 자영업을 한다.",
+          "나는 멜로 영화를 자주 본다.",
+          "나는 영어에 관심이 없다.",
+          "나는 하이볼이 먹고 싶다.",
+          "나의 아버지는 한식 전문점을 운영하신다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "FileInfo": {
+    "filename": "K2-00007-CL51216-CP51739-09-07-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0598",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "주부",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0552",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "주부",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00007"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "51216",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 대학원에 재학 중이다.",
+        "나는 점심에 책을 읽는다.",
+        "나는 햄스터 한 마리를 키운다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "51739",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 요즘, 매일 편안하다.",
+        "나는 주말에 집에서 시간을 보낸다.",
+        "나는 파란색을 좋아한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "09-07",
+    "topicType": "개인 및 관계>반려동물",
+    "topicTitle": "동물병원"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "2-00007-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "안녕하세요. 50대 여자에요. 반가워요.",
+          "summary": "나는 50대 여자이다.",
+          "date": "2022-10-12",
+          "time": "10:24:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "안녕하세요. 반가워요. 저는 50대 여자랍니다.",
+          "summary": "나는 50대 여자이다.",
+          "date": "2022-10-12",
+          "time": "10:24:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "오늘 하루종일 연구실에 있을 것 같네요. 오늘 뭐하세요?",
+          "summary": "나는 하루 종일 연구실에 있을 예정이다.",
+          "date": "2022-10-12",
+          "time": "10:25:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "저는 주말이니 집에서 시간을 보내려고요. 연구원이세요?",
+          "summary": "나는 주말에 집에서 시간을 보낸다.",
+          "date": "2022-10-12",
+          "time": "10:26:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "대학원 다니고 있습니다. 님은 무슨일 하세요?",
+          "summary": "나는 대학원에 재학 중이다.",
+          "date": "2022-10-12",
+          "time": "10:26:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "저는 인테리어 업체에서 일합니다. 디자이너에요!",
+          "summary": "나는 인테리어 디자이너이다.",
+          "date": "2022-10-12",
+          "time": "10:26:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "그러시구나. 원래 점심에 책을 읽는데 오늘은 할게 많네요.",
+          "summary": "나는 점심에 책을 읽는다.",
+          "date": "2022-10-12",
+          "time": "10:27:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "많이 바쁘신가봐요. 하긴 대학원이면 바쁘기도 하겠네요. 점심도 못 드시나요?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:27:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "점심은 샌드위치로 때울려고요. 님은요?",
+          "summary": "나는 샌드위치를 먹을 예 쩡이다.",
+          "date": "2022-10-12",
+          "time": "10:28:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "저는 주말이니까 파스타를 해먹으려고요. 파스타를 좋아하거든요.",
+          "summary": "나는 파스타를 좋아한다.",
+          "date": "2022-10-12",
+          "time": "10:28:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "평소에 요리를 해드시나봐요. 요리를 잘하세요?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:29:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "꽤 하는 편이에요. 제가 집에 있는걸 좋아하다보니 집에서 해결하는게 좋더라고요.",
+          "summary": "나는 집에 있는 걸 좋아한다.",
+          "date": "2022-10-12",
+          "time": "10:29:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "집을 좋아하시나봐요. 저는 집에 잘 있지 않아서...ㅎ.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:30:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "네. 제가 파란색을 좋아해서 벽지를 파란색으로 했더니 요즘, 매일 편안해져 더 좋아요.",
+          "summary": "나는 요즘, 매일 편안하다. 나는 파란색을 좋아한다.",
+          "date": "2022-10-12",
+          "time": "10:31:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "애완동물 같은건 안키우세요? 저는 햄스터 한마리를 키워요.",
+          "summary": "나는 햄스터 한 마리를 키운다.",
+          "date": "2022-10-12",
+          "time": "10:31:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "애완동물은 안 키워요. 털이 날리는게 싫어서 말이죠..ㅎㅎ.",
+          "summary": "나는 애완동물을 키우지 않는다.",
+          "date": "2022-10-12",
+          "time": "10:31:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "그러시구나. 급하게 연락이와서 잠시 햄스터 데리고 동물병원좀 다녀올게요.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:32:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "네. 조심히 다녀오세요~ 저도 밥 먹고 있을게요.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:33:06",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 50대 여자이다.",
+          "나는 하루 종일 연구실에 있을 예정이다.",
+          "나는 대학원에 재학 중이다.",
+          "나는 점심에 책을 읽는다.",
+          "나는 샌드위치를 먹을 예 쩡이다.",
+          "나는 햄스터 한 마리를 키운다."
+        ],
+        "speaker2": [
+          "나는 50대 여자이다.",
+          "나는 주말에 집에서 시간을 보낸다.",
+          "나는 인테리어 디자이너이다.",
+          "나는 파스타를 좋아한다.",
+          "나는 집에 있는 걸 좋아한다.",
+          "나는 요즘, 매일 편안하다. 나는 파란색을 좋아한다.",
+          "나는 애완동물을 키우지 않는다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00007-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "2-00007-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "3시간이나 지났네요. 상황이 급박해서...죄송해요.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:33:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "햄스터는 괜찮은가요? 심각한 일은 아닌거죠?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:34:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "엄마가 햄스터가 계속 토를한다고 전화와서 급하게 다녀왔는데 별 일 아니래요.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:34:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "아하. 다행이네요. 동물병원이 가까이 있나봐요~ 그래도 다행이네요 정말 ㅜㅜ.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:34:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "네 자주 가는 동물병원이 다행히 가까워요. 식사는 잘 하셨나요?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:35:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "잘 못 했어요ㅜㅜ 제 애완동물도 아닌데 괜히 걱정이 들더라고요.. ㅜㅜ.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:36:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "죄송해요...괜한 걱정시켰네요. 이제 뭐하실 예정이세요?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:37:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "주말은 집에서 시간을 보내기 때문에 오늘은 독서 좀 하려고요.",
+          "summary": "나는 독서를 할 예정이다.",
+          "date": "2022-10-12",
+          "time": "10:37:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "책을 자주 읽으세요? 무슨책 읽으세요?",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:38:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "그냥 소설 책 읽어요. 가끔은 자서전도 읽고요. ㅎㅎ.",
+          "summary": "나는 소설책을 자주 읽는다. 나는 가끔 자서전을 읽는다.",
+          "date": "2022-10-12",
+          "time": "10:39:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "저는 정보서적 말고는 안읽어봐서 모르는데 재밌나요?",
+          "summary": "나는 정보 서적만 읽는다.",
+          "date": "2022-10-12",
+          "time": "10:41:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "정보서적 뭔가 멋있네요..ㅎㅎ 소설책 재미있죠. 제가 워낙 상상을 잘 해서요.",
+          "summary": "나는 상상을 잘한다.",
+          "date": "2022-10-12",
+          "time": "10:41:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "저는 이과성향이라 그런쪽으로는 부족하네요. 책좀 추천해주세요.",
+          "summary": "나는 이과이다.",
+          "date": "2022-10-12",
+          "time": "10:42:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "제가 다음에 쉽게 읽을 만한 소설책 추려서 추천해드릴게요.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:42:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "감사해요.저도 쉴때 책좀 읽어봐야겠네요.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:43:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "그래도 점심시간마다 책 읽으시니 그걸로도 충분하겠어요.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:43:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51216",
+          "participantID": "0598",
+          "utterance": "오늘 즐거웠습니다. 다음에 또 연락할게요.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:43:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51739",
+          "participantID": "0552",
+          "utterance": "네. 저도 즐거운 대화 했어요. 소설 책 추려서 연락드릴게요.",
+          "summary": "",
+          "date": "2022-10-12",
+          "time": "10:44:12",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 정보 서적만 읽는다.",
+          "나는 이과이다."
+        ],
+        "speaker2": [
+          "나는 독서를 할 예정이다.",
+          "나는 소설책을 자주 읽는다. 나는 가끔 자서전을 읽는다.",
+          "나는 상상을 잘한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여자이다.",
+          "나는 하루 종일 연구실에 있을 예정이다.",
+          "나는 대학원에 재학 중이다.",
+          "나는 점심에 책을 읽는다.",
+          "나는 샌드위치를 먹을 예 쩡이다.",
+          "나는 햄스터 한 마리를 키운다."
+        ],
+        "speaker2": [
+          "나는 50대 여자이다.",
+          "나는 주말에 집에서 시간을 보낸다.",
+          "나는 인테리어 디자이너이다.",
+          "나는 파스타를 좋아한다.",
+          "나는 집에 있는 걸 좋아한다.",
+          "나는 요즘, 매일 편안하다. 나는 파란색을 좋아한다.",
+          "나는 애완동물을 키우지 않는다."
+        ]
+      }
+    }
+  ]
+}

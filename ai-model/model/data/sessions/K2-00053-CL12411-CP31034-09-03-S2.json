@@ -1,0 +1,417 @@
+{
+  "FileInfo": {
+    "filename": "K2-00053-CL12411-CP31034-09-03-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3199",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "4425",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00053"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "12411",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 10대이다.",
+        "나의 생일은 9월이다",
+        "나는 기말고사를 보는 게 힘들다",
+        "나는 자전거를 자주 탄다",
+        "나는 다소 긍정적이다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "31034",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나의 거주지는 파주이다",
+        "나는 사진을 찍는 것을 좋아한다",
+        "나는 자기계발서를 좋아한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "09-03",
+    "topicType": "개인 및 관계>반려동물",
+    "topicTitle": "반려동물"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00053-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "12411",
+          "participantID": "3199",
+          "utterance": "안녕하세요. 저는 10대 여성입니다. ",
+          "summary": "나는 10대 여성이다.",
+          "date": "2022-11-12",
+          "time": "20:21:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31034",
+          "participantID": "4425",
+          "utterance": "반갑습니다. 저는 파주에 살고 있는 30대 남자 입니다.",
+          "summary": "나는 파주에 살고 있는 30대 남자이다.",
+          "date": "2022-11-13",
+          "time": "08:17:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "12411",
+          "participantID": "3199",
+          "utterance": "반가워요. 파주에 사시는군요. 저는 자전거를 자주 타는데 파주에서도 타보고싶네요. ",
+          "summary": "나는 자전거를 자주 탄다.",
+          "date": "2022-11-13",
+          "time": "10:43:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31034",
+          "participantID": "4425",
+          "utterance": "파주가 자전거 타기 좋다고 하더라구요.사진찍는걸 좋아하는데 사진 찍을곳도 많습니다.오늘 뭐 하시나요?",
+          "summary": "나는 사진을 찍는 것을 좋아한다",
+          "date": "2022-11-13",
+          "time": "10:55:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "12411",
+          "participantID": "3199",
+          "utterance": "저는 기말고사 공부해요. 기말고사 보는 게 힘드네요. ",
+          "summary": "나는 기말고사를 보는 게 힘들다.",
+          "date": "2022-11-13",
+          "time": "11:18:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31034",
+          "participantID": "4425",
+          "utterance": "기말고사 공부라니 힘드시겠어요. 시험 끝나면 어떤걸 하실 생각이세요?",
+          "summary": "",
+          "date": "2022-11-13",
+          "time": "14:40:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "12411",
+          "participantID": "3199",
+          "utterance": "그래도 괜찮아요. 제가 다소 긍정적이라서요ㅎㅎ 시험 끝나면 생일파티를 할거예요. 제 생일은 9월인데 그때 못했었거든요. ",
+          "summary": "나는 긍정적이다. 나는 생일파티를 할 계획이다. 나는 9월이 생일이다.",
+          "date": "2022-11-13",
+          "time": "18:50:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31034",
+          "participantID": "4425",
+          "utterance": "생일 이시군요! 축하드립니다. 저는 자기계발서 읽는걸 좋아 해서 시험 이후에 책 추천 해드릴려고 했는데 읽을 시간이 없으시겠네요.",
+          "summary": "나는 자기 계발서 읽는 것을 좋아한다.",
+          "date": "2022-11-14",
+          "time": "13:20:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "12411",
+          "participantID": "3199",
+          "utterance": "추천해주세요! 책도 읽으려고했어요ㅎㅎ",
+          "summary": "",
+          "date": "2022-11-14",
+          "time": "13:26:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31034",
+          "participantID": "4425",
+          "utterance": "역행자라는 책 추천 합니다. 한번 읽어 보세요 도움이 될겁니다.",
+          "summary": "나는 역행자 책을 추천한다.",
+          "date": "2022-11-15",
+          "time": "12:43:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "12411",
+          "participantID": "3199",
+          "utterance": "베스트셀러 아닌가요? 서점에서 봤어요! 한번 읽어봐야겠네요. ",
+          "summary": "",
+          "date": "2022-11-15",
+          "time": "12:54:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31034",
+          "participantID": "4425",
+          "utterance": "네 베스트 셀러 맞습니다. 식사 하셨나요?",
+          "summary": "",
+          "date": "2022-11-15",
+          "time": "13:36:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "12411",
+          "participantID": "3199",
+          "utterance": "아직이요. 오랜만에 갈비찜 시켰어요. ",
+          "summary": "",
+          "date": "2022-11-15",
+          "time": "17:53:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31034",
+          "participantID": "4425",
+          "utterance": "갈비찜 맛있겠네요. 저는 라면 먹었습니다. 식사 하시고 다음에 또 대화 해요.",
+          "summary": "",
+          "date": "2022-11-16",
+          "time": "11:47:52",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 10대 여성이다.",
+          "나는 자전거를 자주 탄다.",
+          "나는 기말고사를 보는 게 힘들다.",
+          "나는 긍정적이다.",
+          "나는 생일파티를 할 계획이다. 나는 9월이 생일이다."
+        ],
+        "speaker2": [
+          "나는 파주에 살고 있는 30대 남자이다.",
+          "나는 사진을 찍는 것을 좋아한다",
+          "나는 자기 계발서 읽는 것을 좋아한다.",
+          "나는 역행자 책을 추천한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00053-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00053-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "12411",
+          "participantID": "3199",
+          "utterance": "잘지내셨어요? 마지막 대화하고 벌써 이주가 지났네요",
+          "summary": "",
+          "date": "2022-11-17",
+          "time": "11:40:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31034",
+          "participantID": "4425",
+          "utterance": "정말 시간이 빠르게 가네요. 잘 지내 셨나요?",
+          "summary": "",
+          "date": "2022-11-18",
+          "time": "12:32:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "12411",
+          "participantID": "3199",
+          "utterance": "네 저는 잘 지냈어요. 그동안 저는 강아지 한마리를 키우게 됐어요. ",
+          "summary": "나는 강아지를 키우게 되었다.",
+          "date": "2022-11-18",
+          "time": "15:04:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31034",
+          "participantID": "4425",
+          "utterance": "강아지 너무 귀엽겠네요. 강아지는 어떤 종을 키우시나요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "14:28:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "12411",
+          "participantID": "3199",
+          "utterance": "저는 작은 시츄를 키우고 있어요. ",
+          "summary": "나는 시츄를 키우고 있다.",
+          "date": "2022-11-19",
+          "time": "16:51:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31034",
+          "participantID": "4425",
+          "utterance": "시츄 많이들 키우시더라구요. 사진 찍는걸 좋아하는데 시츄 사진을 한번 찍어 보고 싶네요.",
+          "summary": "나는 사진 찍는 것을 좋아한다.",
+          "date": "2022-11-19",
+          "time": "16:59:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "12411",
+          "participantID": "3199",
+          "utterance": "우리 시츄 사진 예쁘게 찍어주시면 좋겠네요! 강아지 좋아하세요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "18:11:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31034",
+          "participantID": "4425",
+          "utterance": "네 강아지 고양이 모두 좋아 합니다. 고양이는 2마리 키우고 있습니다. ",
+          "summary": "나는 고양이 두 마리를 키우고 있다.",
+          "date": "2022-11-20",
+          "time": "21:30:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "12411",
+          "participantID": "3199",
+          "utterance": "그렇군요. 고양이 키우기 어렵지 않나요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "10:27:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31034",
+          "participantID": "4425",
+          "utterance": "고양이는 생각보다 손이 덜가서 강아지보다는 편한것같아요~ 강아지 이름은 뭐라고지으셨어요?",
+          "summary": "나는 고양이가 강아지보다 키우기 편한 것 같다.",
+          "date": "2022-11-21",
+          "time": "19:05:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "12411",
+          "participantID": "3199",
+          "utterance": "강아지 이름은 츄츄 라고 지었어요. 고양이 이름은 뭐예요?",
+          "summary": "나는 강아지 이름을 츄츄라고 지었다.",
+          "date": "2022-11-21",
+          "time": "19:44:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31034",
+          "participantID": "4425",
+          "utterance": "하얀색 고양이 라서 @이름@ 라고 지었어요. 음식으로 지어야 오래산다는 속설이 있자나요. 저는 이만 약속이 있어서 나가봐야 할 것 같아요.",
+          "summary": "나의 고양이 이름은 @이름@이다.",
+          "date": "2022-11-22",
+          "time": "14:54:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "12411",
+          "participantID": "3199",
+          "utterance": "아 음식이름으로 지으면 좋군요. 약속 좋은 시간 보내세요~",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "16:38:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31034",
+          "participantID": "4425",
+          "utterance": "네 즐거웠습니다.다음에 또 봬요,.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "13:09:40",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 강아지를 키우게 되었다.",
+          "나는 시츄를 키우고 있다.",
+          "나는 강아지 이름을 츄츄라고 지었다."
+        ],
+        "speaker2": [
+          "나는 사진 찍는 것을 좋아한다.",
+          "나는 고양이 두 마리를 키우고 있다.",
+          "나는 고양이가 강아지보다 키우기 편한 것 같다.",
+          "나의 고양이 이름은 @이름@이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 10대 여성이다.",
+          "나는 자전거를 자주 탄다.",
+          "나는 기말고사를 보는 게 힘들다.",
+          "나는 긍정적이다.",
+          "나는 생일파티를 할 계획이다. 나는 9월이 생일이다."
+        ],
+        "speaker2": [
+          "나는 파주에 살고 있는 30대 남자이다.",
+          "나는 사진을 찍는 것을 좋아한다",
+          "나는 자기 계발서 읽는 것을 좋아한다.",
+          "나는 역행자 책을 추천한다."
+        ]
+      }
+    }
+  ]
+}

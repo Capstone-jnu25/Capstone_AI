@@ -1,0 +1,879 @@
+{
+  "FileInfo": {
+    "filename": "K4-00061-CL41330-CP22278-11-01-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "50003",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "50439",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "기타",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00061"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "41330",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나는 예능 PD이다",
+        "나는 정원을 가꾸는 것을 좋아한다",
+        "나는 전자기기를 잘 활용한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22278",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 물고기를 싫어한다",
+        "나는 필리핀으로 어학연수를 간다",
+        "나는 PC게임을 자주 한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "11-01",
+    "topicType": "여가와 오락>게임",
+    "topicTitle": "게임"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "17",
+      "numberOfTurns": "8",
+      "sessionID": "4-00061-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "안녕하세요! 저는 40대 여성입니다~ 만나서 반가워요",
+          "summary": "나는 40대 여성이다.",
+          "date": "2022-10-27",
+          "time": "12:48:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "반갑습니다! 저는 20대 여자랍니다ㅎㅎ",
+          "summary": "나는 20대 여자이다",
+          "date": "2022-10-27",
+          "time": "12:49:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "너무 예쁜 나이네요ㅎㅎ 저는 예능 PD로 일하고 있는데 직업이 뭔지 궁금하네요ㅎㅎ",
+          "summary": "나는 예능 pd이다.",
+          "date": "2022-10-27",
+          "time": "12:49:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "저는 아직 대학생이구.. 곧 필리핀으로 어학연수를 갑니다ㅎㅎ",
+          "summary": "나는 필리핀으로 어학연수를 간다",
+          "date": "2022-10-27",
+          "time": "12:50:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "우와 좋은 경험이 될거 같아요!ㅎㅎ 저는 해외는 못 나가봤거든요~ 그래서 나가보고 싶어요ㅎㅎ",
+          "summary": "나는 해외에 못 나가봐서 가보고 싶다.",
+          "date": "2022-10-27",
+          "time": "12:50:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "ㅎㅎ좋은경험이길 바래요.. 제가 물고기 싫어해서 안키웠는데 저 어학연수 간다니까 동생이 키운다고 하더라구요~ 반려동물 키우세요?",
+          "summary": "나는 물고기를 싫어한다",
+          "date": "2022-10-27",
+          "time": "12:51:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "저는 동물에 관심이 없어서ㅎㅎ 정원을 가꾸는 것을 더 좋아하는거 같아요ㅎㅎ",
+          "summary": "나는 동물에 관심이 없다. 나는 정원 가꾸는 것을 좋아한다.",
+          "date": "2022-10-27",
+          "time": "12:52:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "정원 가꾸는거 좋죠~~ 그럼 쉬는날에는 정원 가꾸는거 말고 또 뭐하세요? 취미 있으신가요",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "12:52:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "저는 전자기기를 잘 활용해서, 스마트워치 같은걸 모으는게 취미에요ㅎㅎ 혹시 관심있나요?",
+          "summary": "나는 전자기기를 잘 활용한다. 나는 스마트 워치 같은걸 모으는 게 취미이다.",
+          "date": "2022-10-27",
+          "time": "12:53:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "ㅎㅎ아니요..저는 pc게임을 자주 한답니다ㅎㅎㅎㅎ전자기기는 잘 활용 못해요..!!",
+          "summary": "나는 PC 게임을 자주 한다",
+          "date": "2022-10-27",
+          "time": "12:54:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "PC게임을 좋아하시는군요! 저도 한번씩 했었는데ㅎㅎ 어떤 게임을 주로 많이 하세요?",
+          "summary": "나는 pc게임을 한 번씩 했다.",
+          "date": "2022-10-27",
+          "time": "12:56:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "저는 사천성 많이해요! 사천성 아시나요 혹시..?ㅎㅎ",
+          "summary": "나는 쓰촨 성을 많이 한다",
+          "date": "2022-10-27",
+          "time": "12:57:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "오! 사천성 알죠! 저도 예전에 많이 했어요ㅎㅎ 지금도 PC게임으로 있는지는 몰랐네요ㅋㅋ",
+          "summary": "나는 쓰촨 성 예전에 많이 했다.",
+          "date": "2022-10-27",
+          "time": "13:01:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "ㅎㅎ진짜 재밌더라구요 시간가는지를 모르겠어요 게임하면~~",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:04:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "게임하면 아무래도 시간이 빨리가긴 하는거 같더라구요ㅋㅋ 저도 간만에 게임을 해보고 싶네요",
+          "summary": "나는 게임을 오래간만에 해보고 싶다.",
+          "date": "2022-10-27",
+          "time": "13:05:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "선생님도 시간나면 오랜만에 해보시는거 추천입니다!",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:05:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "네 그럴게요ㅎㅎ 한번 해보고 말씀 드리겠습니다ㅋㅋ 왠지 어려울거 같아요",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:09:11",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다.",
+          "나는 예능 pd이다.",
+          "나는 해외에 못 나가봐서 가보고 싶다.",
+          "나는 동물에 관심이 없다. 나는 정원 가꾸는 것을 좋아한다.",
+          "나는 전자기기를 잘 활용한다. 나는 스마트 워치 같은걸 모으는 게 취미이다.",
+          "나는 pc게임을 한 번씩 했다.",
+          "나는 쓰촨 성 예전에 많이 했다.",
+          "나는 게임을 오래간만에 해보고 싶다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다",
+          "나는 필리핀으로 어학연수를 간다",
+          "나는 물고기를 싫어한다",
+          "나는 PC 게임을 자주 한다",
+          "나는 쓰촨 성을 많이 한다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00061-1",
+      "prevTimeInfo": {
+        "timeNum": "8",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "4-00061-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "8일만이네요ㅎㅎ 왠지 간만인거 같은데 잘 지내고 계셨어요?",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:14:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "잘 지냈어요~~ 선생님은 뭐하고 지내셨나요!!!?ㅎㅎ",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:14:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "저는 요즘도 전자기기를 모으며 지냈는데 요즘은 또 취미가 하나 생겼지 뭐에요ㅋㅋ",
+          "summary": "나는 전자기기를 모으며 지냈다. 취미가 하나 생겼다.",
+          "date": "2022-10-27",
+          "time": "13:15:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "취미가 또 뭐생기셨나요~~~ 궁금하네요!!ㅎㅎ",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:15:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "스마트기기를 모으다 보니까 게임에도 취미가 생기더라구요ㅋㅋ 핸드폰 게임에 빠졌어요! 혹시 좋아하세요?",
+          "summary": "나는 핸드폰 게임에 빠졌다.",
+          "date": "2022-10-27",
+          "time": "13:16:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "핸드폰 게임도 좋아해요! 제가 사천성 한다고 하셨던거 기억 하시나요~ 핸드폰으로도 할 수 있더라구요!!^^",
+          "summary": "나는 핸드폰 게임을 좋아한다",
+          "date": "2022-10-27",
+          "time": "13:16:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "맞아요ㅎㅎ 핸드폰으로도 사천성을 하시는군요!ㅋㅋ 다른 게임은 좋아하시는거 없어요?",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:17:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "혹시 캔디크러쉬 아시나요..하하 저는 이걸 꾸준히 하고 있어요ㅎㅎ",
+          "summary": "나는 캔디 크러쉬를 꾸준히 한다",
+          "date": "2022-10-27",
+          "time": "13:17:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "보통 보드 게임 같은걸 많이 즐겨 하시나보네요ㅎㅎ 저랑 비슷한거 같아요ㅋㅋ",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:18:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "ㅎㅎ그러니까요~! 그런걸 좋아해요!오후에는 뭐하시려구요?ㅎㅎ",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:24:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "저는 오후에 아무래도 정원을 좀 가꿔야 할거 같아요ㅎㅎ 요즘 물을 안 줬더니 많이 시든거 같아요ㅜㅜ",
+          "summary": "나는 오후에 정원을 가꿀 예정이다.",
+          "date": "2022-10-27",
+          "time": "13:25:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "그럼 얼른 가보셔야 하는거 아닌가요ㅎㅎ전 사천성을 할 예정입니다!!",
+          "summary": "나는 쓰촨 성을 할 예정이다",
+          "date": "2022-10-27",
+          "time": "13:25:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "사천성만 하면 캔디크러쉬가 서운하겠어요ㅋㅋ 식사는 하셨어요?",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:26:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "헤헤 짜장면 시켰습니다 선생님은요!!? 식사 하셔야죠~",
+          "summary": "나는 짜장면을 시켰다",
+          "date": "2022-10-27",
+          "time": "13:26:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "네 저도 먹고나서 정원을 가꾸려구요! 그럼 식사 맛있게 하세요! ",
+          "summary": "나는 식사를 하고 정원을 가꿀 것이다.",
+          "date": "2022-10-27",
+          "time": "13:26:59",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 전자기기를 모으며 지냈다. 취미가 하나 생겼다.",
+          "나는 핸드폰 게임에 빠졌다.",
+          "나는 오후에 정원을 가꿀 예정이다.",
+          "나는 식사를 하고 정원을 가꿀 것이다."
+        ],
+        "speaker2": [
+          "나는 핸드폰 게임을 좋아한다",
+          "나는 캔디 크러쉬를 꾸준히 한다",
+          "나는 쓰촨 성을 할 예정이다",
+          "나는 짜장면을 시켰다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다.",
+          "나는 예능 pd이다.",
+          "나는 해외에 못 나가봐서 가보고 싶다.",
+          "나는 동물에 관심이 없다. 나는 정원 가꾸는 것을 좋아한다.",
+          "나는 전자기기를 잘 활용한다. 나는 스마트 워치 같은걸 모으는 게 취미이다.",
+          "나는 pc게임을 한 번씩 했다.",
+          "나는 쓰촨 성 예전에 많이 했다.",
+          "나는 게임을 오래간만에 해보고 싶다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다",
+          "나는 필리핀으로 어학연수를 간다",
+          "나는 물고기를 싫어한다",
+          "나는 PC 게임을 자주 한다",
+          "나는 쓰촨 성을 많이 한다"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00061-2",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "4-00061-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "또 하루가 지났네요ㅎㅎ 어제 짜장면은 맛있게 드셨나요?ㅎㅎ",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:29:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "넵!! 짜장면 맛있게 먹었어요~ 선생님은 뭐 드셨나요?",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:29:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "저는 싱거운 음식을 좋아하지 않아서 어제는 분식을 먹었습니다! 엄청 맛있더라구요ㅎㅎ",
+          "summary": "나는 싱거운 음식을 좋아하지 않는다.",
+          "date": "2022-10-27",
+          "time": "13:30:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "잘하셨네요~~ 오늘은 뭐하실예정인가요!!ㅎㅎ",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:30:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "오늘은 새로 산 전자기기를 이용해서 드라이브를 좀 해볼까 합니다ㅎㅎ 날씨가 좋아요",
+          "summary": "나는 새로 산 전자기기를 이용해서 드라이브할 예정이다.",
+          "date": "2022-10-27",
+          "time": "13:31:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "우와 전자기기를 이용해서 드라이브를 어떻게 하는거예요...?",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:31:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "스마트 기기로 네비를 쳐서 보는 방법으로요ㅎㅎ 새로 산거지만 잘 활용하니까 할수 있을거 같아요 ",
+          "summary": "나는 스마트기기를 잘 활용한다.",
+          "date": "2022-10-27",
+          "time": "13:33:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "선생님 진짜 활용 잘하시나봐요~ 저는 살짝 기계치거든요.. 저보다 훨씬 나으신데요?",
+          "summary": "나는 기계치다",
+          "date": "2022-10-27",
+          "time": "13:33:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "에이 아니에요ㅎㅎ 그냥 관심이 있으니 그런거죠! 관심이 있다면 아무래도 젊은분이 더 잘할걸요?",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:34:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "제가 관심이 없어서 그런가봐요 ㅎㅎ 전 오늘도 pc방 약속이 있답니다!",
+          "summary": "나는 오늘 PC방 약속이 있다",
+          "date": "2022-10-27",
+          "time": "13:34:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "PC방 약속이라니ㅋㅋ 또 가서 사천성 하시려고 그러죠! 이제는 말안해도 알거 같아요",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:35:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "딩동댕..역시 잘 아시네요! ㅎㅎ애들이랑 어울려 놀기에는 게임만한거 없잖아요!",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:35:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "ㅋㅋㅋ그건 맞죠! 근데 요즘 여자분들은 막 롤이나 배그도 하던데 그런건 관심 없으신가봐요ㅎㅎ ",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:38:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "네 그건 잘 못해요..하하 저 이제 게임하러 나가봐야겠어요 ㅎㅎ",
+          "summary": "나는 게임하러 나갈 거다",
+          "date": "2022-10-27",
+          "time": "13:38:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "그렇군요ㅎㅎ 그럼 게임 잘 하시고 다음엔 저랑도 같이 사천성 해봐요!ㅎㅎ",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:39:17",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 싱거운 음식을 좋아하지 않는다.",
+          "나는 새로 산 전자기기를 이용해서 드라이브할 예정이다.",
+          "나는 스마트기기를 잘 활용한다."
+        ],
+        "speaker2": [
+          "나는 기계치다",
+          "나는 오늘 PC방 약속이 있다",
+          "나는 게임하러 나갈 거다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다.",
+          "나는 예능 pd이다.",
+          "나는 해외에 못 나가봐서 가보고 싶다.",
+          "나는 동물에 관심이 없다. 나는 정원 가꾸는 것을 좋아한다.",
+          "나는 전자기기를 잘 활용한다. 나는 스마트 워치 같은걸 모으는 게 취미이다.",
+          "나는 pc게임을 한 번씩 했다.",
+          "나는 쓰촨 성 예전에 많이 했다.",
+          "나는 게임을 오래간만에 해보고 싶다.",
+          "나는 전자기기를 모으며 지냈다. 취미가 하나 생겼다.",
+          "나는 핸드폰 게임에 빠졌다.",
+          "나는 오후에 정원을 가꿀 예정이다.",
+          "나는 식사를 하고 정원을 가꿀 것이다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다",
+          "나는 필리핀으로 어학연수를 간다",
+          "나는 물고기를 싫어한다",
+          "나는 PC 게임을 자주 한다",
+          "나는 쓰촨 성을 많이 한다",
+          "나는 핸드폰 게임을 좋아한다",
+          "나는 캔디 크러쉬를 꾸준히 한다",
+          "나는 쓰촨 성을 할 예정이다",
+          "나는 짜장면을 시켰다"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00061-3",
+      "prevTimeInfo": {
+        "timeNum": "7",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "4-00061-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "일주일만에 연락이네요! 잘 지냈어요?ㅎㅎ 저는 요즘에 정원을 가꾸는 일이 지겨워져서 못지냈어요",
+          "summary": "나는 정원 가꾸는 일이 지겨워졌다.",
+          "date": "2022-10-27",
+          "time": "13:40:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "ㅎㅎ매일 하다보면 질리기 마련인거 같아요~ 저는 이제 곧 어학연수 가네요..",
+          "summary": "나는 곧 어학연수 간다",
+          "date": "2022-10-27",
+          "time": "13:41:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "어학연수라니 벌써 시간이 그렇게 됐나요? 전에 말씀해 주셨던 필리핀으로 가시는거에요?",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:43:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "맞아요!! 막상 날짜가 다가오니까 떨리고 두렵네요ㅠㅠ",
+          "summary": "나는 떨리고 두렵다",
+          "date": "2022-10-27",
+          "time": "13:43:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "괜찮아요~ 그래도 많은 경험을 쌓다보면 견문도 넓어지고 좋은 일만 경험하고 올거에요",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:44:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "그렇게 말씀해주시니까 감사하네요! 더 으쌰으쌰 해봐야겠어요~",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:45:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "저는 요즘에 좀 다른 취미를 만들어 보고 싶어요ㅎㅎ 게임 같은것도 질리고 왜이리 쳐지는지 모르겠네요ㅠㅠ",
+          "summary": "나는 다른 취미를 만들어 보고 싶다. 나는 게임이 질리고 쳐진다.",
+          "date": "2022-10-27",
+          "time": "13:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "날씨가 좋으니까 밖에서 활동하는거로 취미를 해보시면 어떨까요?",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:46:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "그것도 좋을거 같아요ㅎㅎ 너무 집에서 하는 취미만 즐겼었나봐요ㅎㅎ 전에 드라이브가 매우 좋았었거든요",
+          "summary": "나는 드라이브가 매우 좋았다.",
+          "date": "2022-10-27",
+          "time": "13:47:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "전 요즘 날씨에 피크닉 하는것도 재밌을거 같더라구요 ㅎㅎ..선생님은 피크닉 이런건 안좋아하시죠?",
+          "summary": "나는 피크닉 하는 것도 재밌을 거 같다",
+          "date": "2022-10-27",
+          "time": "13:47:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "저도 좋아해요! 피크닉 같은거요ㅎㅎ 특히나 가을 같이 선선한 날씨는 더 좋죠! ",
+          "summary": "나는 피크닉을 좋아한다.",
+          "date": "2022-10-27",
+          "time": "13:49:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "그렇죠 ㅎㅎ선생님은 어떤 게절을 좋아하시나요! 저는 가을을 좋아해요",
+          "summary": "나는 가을을 좋아한다",
+          "date": "2022-10-27",
+          "time": "13:49:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "저는 원래 비가 많이 오는 여름이 좋았어요ㅎㅎ 빗소리를 좋아해서요 근데 지금은 겨울이 더 좋습니다ㅎ",
+          "summary": "나는 여름이 좋았는데 이제는 겨울이 더 좋다.",
+          "date": "2022-10-27",
+          "time": "13:50:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22278",
+          "participantID": "50439",
+          "utterance": "그러시군요!! 저는 날씨도 좋은데 산책하러 나가봐야겠어요~~",
+          "summary": "나는 산책하러 가봐야겠다",
+          "date": "2022-10-27",
+          "time": "13:51:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41330",
+          "participantID": "50003",
+          "utterance": "오늘은 진짜 바람도 많이 안 불고 좋더라구요! 저도 말나온 김에 한번 다녀와야겠네요! 그럼 있다 뵈요!",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "13:51:46",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 정원 가꾸는 일이 지겨워졌다.",
+          "나는 다른 취미를 만들어 보고 싶다. 나는 게임이 질리고 쳐진다.",
+          "나는 드라이브가 매우 좋았다.",
+          "나는 피크닉을 좋아한다.",
+          "나는 여름이 좋았는데 이제는 겨울이 더 좋다."
+        ],
+        "speaker2": [
+          "나는 곧 어학연수 간다",
+          "나는 떨리고 두렵다",
+          "나는 피크닉 하는 것도 재밌을 거 같다",
+          "나는 가을을 좋아한다",
+          "나는 산책하러 가봐야겠다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다.",
+          "나는 예능 pd이다.",
+          "나는 해외에 못 나가봐서 가보고 싶다.",
+          "나는 동물에 관심이 없다. 나는 정원 가꾸는 것을 좋아한다.",
+          "나는 전자기기를 잘 활용한다. 나는 스마트 워치 같은걸 모으는 게 취미이다.",
+          "나는 pc게임을 한 번씩 했다.",
+          "나는 쓰촨 성 예전에 많이 했다.",
+          "나는 게임을 오래간만에 해보고 싶다.",
+          "나는 전자기기를 모으며 지냈다. 취미가 하나 생겼다.",
+          "나는 핸드폰 게임에 빠졌다.",
+          "나는 오후에 정원을 가꿀 예정이다.",
+          "나는 식사를 하고 정원을 가꿀 것이다.",
+          "나는 싱거운 음식을 좋아하지 않는다.",
+          "나는 새로 산 전자기기를 이용해서 드라이브할 예정이다.",
+          "나는 스마트기기를 잘 활용한다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다",
+          "나는 필리핀으로 어학연수를 간다",
+          "나는 물고기를 싫어한다",
+          "나는 PC 게임을 자주 한다",
+          "나는 쓰촨 성을 많이 한다",
+          "나는 핸드폰 게임을 좋아한다",
+          "나는 캔디 크러쉬를 꾸준히 한다",
+          "나는 쓰촨 성을 할 예정이다",
+          "나는 짜장면을 시켰다",
+          "나는 기계치다",
+          "나는 오늘 PC방 약속이 있다",
+          "나는 게임하러 나갈 거다"
+        ]
+      }
+    }
+  ]
+}

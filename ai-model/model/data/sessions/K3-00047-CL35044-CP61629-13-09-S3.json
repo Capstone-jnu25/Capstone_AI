@@ -1,0 +1,692 @@
+{
+  "FileInfo": {
+    "filename": "K3-00047-CL35044-CP61629-13-09-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4470",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "4544",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "자영업",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00047"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "35044",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나의 거주지는 포항이다",
+        "나는 언어학과를 전공했다",
+        "나는 플루트를 배우고 싶다",
+        "나는 매일 초조하다",
+        "나는 바나나를 즐겨 먹는다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "61629",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 60대 이상이다.",
+        "나는 외식 관련직에 종사했다",
+        "나는 스웨덴에 가 보고 싶다",
+        "나는 시를 꾸준히 읽는다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "13-09",
+    "topicType": "기후>계절/날씨",
+    "topicTitle": "폭염"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "17",
+      "numberOfTurns": "8",
+      "sessionID": "3-00047-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "안녕하세요. 포항에 살고있는 30대 여성입니다.",
+          "summary": "나는 포항에 사는 30대 여성이다",
+          "date": "2022-11-17",
+          "time": "11:26:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "안녕하세요  인천에 사는 60대 여성입니다 ",
+          "summary": "나는 인천에 사는 60대 여성이다.",
+          "date": "2022-11-18",
+          "time": "06:09:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "저는 영문학을 전공해서 번역일을 하고 있습니다. 요즘 일이 잘 안풀려서 매일 초조합니다. 무슨 일 하시나요?",
+          "summary": "나는 영문학을 전공한다",
+          "date": "2022-11-18",
+          "time": "13:11:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "그러시군요  저는 예전에 외식 관련직에  종사를 했어요 지금은 식당을 하고 있어요  한식 좋아  하나요",
+          "summary": "나는 외식 관련직에 종사했었다. 나는 식당을 하고 있고 한식을 좋아한다.",
+          "date": "2022-11-18",
+          "time": "21:22:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "한식 좋아하죠. 음식 만드는걸 좋아합니다. 주로 분식류이지만요.^^; 요즘 어르신들 악기도 많이 배우시던데 혹시 악기 다룰줄 아시나요? 저는 플루트를 배우고 싶습니다.",
+          "summary": "나는 플루트를 배우고 싶다",
+          "date": "2022-11-18",
+          "time": "21:28:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "악기는 못 다룹니다 저는  시를 꾸준히 읽습니다 책 읽는것 좋아 하세요 ",
+          "summary": "나는 시를 읽는다.",
+          "date": "2022-11-18",
+          "time": "22:19:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "그러시군요. 저는 바나나를 좋아해서 즐겨 먹습니다. 좋아하는 과일 있으세요?",
+          "summary": "나는 바나나를 좋아한다",
+          "date": "2022-11-18",
+          "time": "22:24:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "그러시군요  저는 사과를 좋아 해요 그리고 여행을 좋아 해요 저는 스웨덴에 가 보고 싶습니다  해외 여행 좋아 하세요 ",
+          "summary": "나는 여행을 좋아한다. 나는 스웨덴에 가보고 싶다.",
+          "date": "2022-11-19",
+          "time": "03:54:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "가보고 싶은것 많죠~ 스웨덴도 꼭 한번 가보고 싶습니다! 해외 어디 가보셨나요?",
+          "summary": "나는 가 보고 싶은 곳이 많다",
+          "date": "2022-11-19",
+          "time": "04:03:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "저는 동남아쪽으로 유럽쪽으로 10개 나라는 가 봤어요 식당 운영하며 틈 나는대로 강아지와  산책을 해요 산책 좋아 하세요 ",
+          "summary": "나는 강아지와 산책을 자주 한다.",
+          "date": "2022-11-19",
+          "time": "04:09:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "우와~ 많이 가보셨네요. 저도 산책 좋아합니다. 걷는걸 좋아해서 운동도 걷기운동을 하죠. 강아지 종이 어떻게 되나요? ",
+          "summary": "나는 걷는 운동을 한다",
+          "date": "2022-11-19",
+          "time": "20:11:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "맞아요 걷는 운동이  최고예요 푸들이예요 숫놈이구요 강아지가 있어서 덜 적적 해요",
+          "summary": "나의 강아지 종은 푸들이고 수컷이다.",
+          "date": "2022-11-19",
+          "time": "20:13:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "강아지가 잘 반겨주죠. 다른 가족들은 바쁘신가요?",
+          "summary": "나는 강아지가 잘 반겨준다고 생각한다.",
+          "date": "2022-11-19",
+          "time": "22:17:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "저는 딸2명중 1명은 시집갔고 1명은 미혼이고 남편은 공항에 근무해요 강아지가 좋은 말벗 이죠",
+          "summary": "나는 딸 2명이 있다. 나의 남편은 공항에 근무한다.",
+          "date": "2022-11-20",
+          "time": "09:39:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "그러시군요. 강아지를 정말 아끼시겠네요!^^ ",
+          "summary": "나는 강아지를 아낀다",
+          "date": "2022-11-21",
+          "time": "01:02:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "강아지를 가족처럼 아깝니다 저도바빠서 이만 나가 볼께요",
+          "summary": "나는 강아지를 가족처럼 아낀다.",
+          "date": "2022-11-21",
+          "time": "06:14:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "네 반가웠습니다. 다음에 또 뵈요.",
+          "summary": "나는 또 만나기로 했다",
+          "date": "2022-11-21",
+          "time": "10:31:00",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 포항에 사는 30대 여성이다",
+          "나는 영문학을 전공한다",
+          "나는 플루트를 배우고 싶다",
+          "나는 바나나를 좋아한다",
+          "나는 가 보고 싶은 곳이 많다",
+          "나는 걷는 운동을 한다",
+          "나는 강아지가 잘 반겨준다고 생각한다.",
+          "나는 강아지를 아낀다",
+          "나는 또 만나기로 했다"
+        ],
+        "speaker2": [
+          "나는 인천에 사는 60대 여성이다.",
+          "나는 외식 관련직에 종사했었다. 나는 식당을 하고 있고 한식을 좋아한다.",
+          "나는 시를 읽는다.",
+          "나는 여행을 좋아한다. 나는 스웨덴에 가보고 싶다.",
+          "나는 강아지와 산책을 자주 한다.",
+          "나의 강아지 종은 푸들이고 수컷이다.",
+          "나는 딸 2명이 있다. 나의 남편은 공항에 근무한다.",
+          "나는 강아지를 가족처럼 아낀다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00047-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "3-00047-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "안녕하세요. 1주일만이네요. 잘 지내셨어요? 요즘 경기가 안좋다는데 식당은 어떠신가요?",
+          "summary": "나는 1주일 만에 인사를 한다.",
+          "date": "2022-11-21",
+          "time": "22:59:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "반가워요 그런데로 되어요 단골이 있어서 세월이 빠르네요어그제 폭염 이었는데 날씨가 추운 겨울 이네요",
+          "summary": "나의 가게는 단골이 있어서 그런대로 운영된다.",
+          "date": "2022-11-21",
+          "time": "23:14:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "맞아요. 날씨가 너무 오락가락 하네요. 일교차도 너무 크고요. 매해 여름마다 폭염때문에 너무 힘드네요.",
+          "summary": "나는 여름마다 폭염 때문에 힘들다",
+          "date": "2022-11-21",
+          "time": "23:18:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "그러게요 기후 변화가 심하네요 아침저녁은 춥고 낮엔 덥고 요즘 날씨를 가늠하기가 어려워요",
+          "summary": "나는 요즘 날씨를 가늠하기 어렵다.",
+          "date": "2022-11-21",
+          "time": "23:22:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "뉴스를 보면 다른 나라들도 이상기후나 변덕스러운 날씨 때문에 힘들어 하더라구요 . 정말 지구가 망하는 날이 오는걸까요?ㅋ;;",
+          "summary": "나는 날씨가 이상기후가 생겨서 힘들다",
+          "date": "2022-11-21",
+          "time": "23:28:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": " 그렇지 않길  바래야지요 요즘엔 일기예보 날씨가 잘 안 맞네요",
+          "summary": "나는 요즘 일기예보 날씨가 잘 안 맞다.",
+          "date": "2022-11-21",
+          "time": "23:32:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "예측불허의 변화들때문에 그런게 아닐까요? 저는 혹한 보다 폭염이 더 견디기 어려운것 같습니다. @이름@님은 어떠세요?",
+          "summary": "나는 혹한보다 폭염이 더 견디기 힘든 것 같다",
+          "date": "2022-11-21",
+          "time": "23:36:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "올여름 폭염 때문에 힘들었죠 태국에서1련6개월 살다 왔는데 거기는 기후가 더 변화무쌍해요 갑자기 비가막 쏟아졌다가폭염이고 우리나라는 사계절이 있어서 좋아요",
+          "summary": "나는 태국에서 1년 6개월 살았다.",
+          "date": "2022-11-21",
+          "time": "23:42:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "맞아요. 우리나라 날씨 참 좋죠.근데  점점 우리나라도 이상기후가 나타나서 걱정입니다. 올여름 폭염과 폭우때문에 고생했잖아요. 우리나라도 태국처럼 날씨가 변하고 있는거같진 않나요?",
+          "summary": "나는 올여름 폭염과 폭우 때문에 고생했다",
+          "date": "2022-11-21",
+          "time": "23:47:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "맞아요 폭염에 폭우에 날씨를 가늠하기 힘들어요 지구가 뜨거워 지고 있다네요",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "00:03:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "그쵸. 지구 온도가 올라가니 여기저기서 폭염때문에 사람도 많이 죽고 문제가 심각한것 같습니다. 기후가 갑자기 좋아지게 할 수 도 없고 걱정이네요.",
+          "summary": "나는 지구 온난화 때문에 폭염으로 문제가 심각하다고 생각한다",
+          "date": "2022-11-22",
+          "time": "15:39:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "맞아요 우리나라 사계절도 또렷 하지가 않아요",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "16:00:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "점점 더  불분명해지는것 같습니다. 폭염중에도 너무 습하기도해서 더 못견디겠어요. 습한거 견딜만하신가요? ",
+          "summary": "나는 폭염 중에도 습해서 더 못 견디겠다",
+          "date": "2022-11-22",
+          "time": "23:16:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "습한건 싫죠 끈적여서. 저는 이만 시 읽으러 가볼께요.",
+          "summary": "나는 습한 건 끈적여서 싫다.",
+          "date": "2022-11-23",
+          "time": "05:45:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "네~ 오늘도 행복한 하루 보내세요! ",
+          "summary": "나는 당신이 행복한 하루를 보내길 바란다.",
+          "date": "2022-11-23",
+          "time": "14:23:15",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 1주일 만에 인사를 한다.",
+          "나는 여름마다 폭염 때문에 힘들다",
+          "나는 날씨가 이상기후가 생겨서 힘들다",
+          "나는 혹한보다 폭염이 더 견디기 힘든 것 같다",
+          "나는 올여름 폭염과 폭우 때문에 고생했다",
+          "나는 지구 온난화 때문에 폭염으로 문제가 심각하다고 생각한다",
+          "나는 폭염 중에도 습해서 더 못 견디겠다",
+          "나는 당신이 행복한 하루를 보내길 바란다."
+        ],
+        "speaker2": [
+          "나의 가게는 단골이 있어서 그런대로 운영된다.",
+          "나는 요즘 날씨를 가늠하기 어렵다.",
+          "나는 요즘 일기예보 날씨가 잘 안 맞다.",
+          "나는 태국에서 1년 6개월 살았다.",
+          "나는 습한 건 끈적여서 싫다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 포항에 사는 30대 여성이다",
+          "나는 영문학을 전공한다",
+          "나는 플루트를 배우고 싶다",
+          "나는 바나나를 좋아한다",
+          "나는 가 보고 싶은 곳이 많다",
+          "나는 걷는 운동을 한다",
+          "나는 강아지가 잘 반겨준다고 생각한다.",
+          "나는 강아지를 아낀다",
+          "나는 또 만나기로 했다"
+        ],
+        "speaker2": [
+          "나는 인천에 사는 60대 여성이다.",
+          "나는 외식 관련직에 종사했었다. 나는 식당을 하고 있고 한식을 좋아한다.",
+          "나는 시를 읽는다.",
+          "나는 여행을 좋아한다. 나는 스웨덴에 가보고 싶다.",
+          "나는 강아지와 산책을 자주 한다.",
+          "나의 강아지 종은 푸들이고 수컷이다.",
+          "나는 딸 2명이 있다. 나의 남편은 공항에 근무한다.",
+          "나는 강아지를 가족처럼 아낀다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00047-2",
+      "prevTimeInfo": {
+        "timeNum": "9",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "3-00047-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "안녕하세요. 9일만이네요. 인천은 요즘 날씨가 어떤가요? 포항은 아직도 덥네요.",
+          "summary": "나는 9일 만에 안부를 묻는다.",
+          "date": "2022-11-23",
+          "time": "16:57:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "반가워요 춥지는 않고 흐리네요그동안  어떻게 지내셨어요 ",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "19:41:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "포항에 비기 많이와서 물난리에 초조해하며 지냈습니다. 정말 기후가 이상해진것 같습니다. WHO에서 올해 여름 폭염으로 유럽에서 1만 5천명 가량이 숨졌다고 발표했던데 보셨나요?.",
+          "summary": "",
+          "date": "2022-11-23",
+          "time": "20:40:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "그런가요  아프리카도 폭염과 가뭄으로 피폐 해져서 너무 안타까워 요",
+          "summary": "나는 아프리카가 폭염과 가뭄으로 피폐해져서 너무 안타깝다.",
+          "date": "2022-11-23",
+          "time": "21:21:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "맞아요. 해가 지날수록 더 심해지기만 하네요. 내년엔 또 얼마나 폭염으로 힘들지 벌써부터 걱정됩니다. 폭염 대비 할 수 있는 방법이 있을까요?",
+          "summary": "나는 내년 폭염이 걱정된다",
+          "date": "2022-11-24",
+          "time": "00:12:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "그러게요 폭염은 에어컨.아이스크림.써큘레이터 선풍기로 잘 이겨 내야죠",
+          "summary": "나는 폭염을 에어컨, 아이스크림, 써큘레이터 선풍기로 잘 이겨 낼 거다.",
+          "date": "2022-11-24",
+          "time": "00:36:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "폭염일때는 절대 밖에 나가면 안되는것 같습니다. 노약자일수록 더 집에 있으야 겠습니다.",
+          "summary": "나는 폭염 때는 집에 있어야 된다고 생각한다",
+          "date": "2022-11-24",
+          "time": "18:55:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "그럼요 폭염은 노인이나 어린이들은 정말 조심 해야 해요",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "21:11:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "날씨가 너무 더울때 가게 매출에도 영향이 있으신가요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "23:53:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "맞아요  폭염때나폭우때 춥거나 덥거나 할때 매출 변화가 많죠",
+          "summary": "나는 폭염 때, 폭우 때, 춥거나 덥거나 할 때 매출 변화가 많다.",
+          "date": "2022-11-25",
+          "time": "05:26:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "추울때, 더울때 중 어느때 더 매출이 안나오나요?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "20:01:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "저희는 폭염때나 혹한때나 저희는 매출이 큰 차이가 안나요 단골이 많아요",
+          "summary": "나는 단골이 많아 폭염 때나 혹 한때나 매출이 큰 차이 안 난다.",
+          "date": "2022-11-25",
+          "time": "21:07:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "역시 단골장사시군요. 늘 사업 번창하시길 기원합니다!",
+          "summary": "",
+          "date": "2022-11-26",
+          "time": "02:45:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61629",
+          "participantID": "4544",
+          "utterance": "네 감사합니다  저는 바쁜일이 있어서 이만  가볼께요",
+          "summary": "",
+          "date": "2022-11-26",
+          "time": "07:53:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35044",
+          "participantID": "4470",
+          "utterance": "네~ 오늘도 행복한 하루 보내세요! ",
+          "summary": "",
+          "date": "2022-11-26",
+          "time": "10:13:15",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 9일 만에 안부를 묻는다.",
+          "나는 내년 폭염이 걱정된다",
+          "나는 폭염 때는 집에 있어야 된다고 생각한다"
+        ],
+        "speaker2": [
+          "나는 아프리카가 폭염과 가뭄으로 피폐해져서 너무 안타깝다.",
+          "나는 폭염을 에어컨, 아이스크림, 써큘레이터 선풍기로 잘 이겨 낼 거다.",
+          "나는 폭염 때, 폭우 때, 춥거나 덥거나 할 때 매출 변화가 많다.",
+          "나는 단골이 많아 폭염 때나 혹 한때나 매출이 큰 차이 안 난다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 포항에 사는 30대 여성이다",
+          "나는 영문학을 전공한다",
+          "나는 플루트를 배우고 싶다",
+          "나는 바나나를 좋아한다",
+          "나는 가 보고 싶은 곳이 많다",
+          "나는 걷는 운동을 한다",
+          "나는 강아지가 잘 반겨준다고 생각한다.",
+          "나는 강아지를 아낀다",
+          "나는 또 만나기로 했다",
+          "나는 1주일 만에 인사를 한다.",
+          "나는 여름마다 폭염 때문에 힘들다",
+          "나는 날씨가 이상기후가 생겨서 힘들다",
+          "나는 혹한보다 폭염이 더 견디기 힘든 것 같다",
+          "나는 올여름 폭염과 폭우 때문에 고생했다",
+          "나는 지구 온난화 때문에 폭염으로 문제가 심각하다고 생각한다",
+          "나는 폭염 중에도 습해서 더 못 견디겠다",
+          "나는 당신이 행복한 하루를 보내길 바란다."
+        ],
+        "speaker2": [
+          "나는 인천에 사는 60대 여성이다.",
+          "나는 외식 관련직에 종사했었다. 나는 식당을 하고 있고 한식을 좋아한다.",
+          "나는 시를 읽는다.",
+          "나는 여행을 좋아한다. 나는 스웨덴에 가보고 싶다.",
+          "나는 강아지와 산책을 자주 한다.",
+          "나의 강아지 종은 푸들이고 수컷이다.",
+          "나는 딸 2명이 있다. 나의 남편은 공항에 근무한다.",
+          "나는 강아지를 가족처럼 아낀다.",
+          "나의 가게는 단골이 있어서 그런대로 운영된다.",
+          "나는 요즘 날씨를 가늠하기 어렵다.",
+          "나는 요즘 일기예보 날씨가 잘 안 맞다.",
+          "나는 태국에서 1년 6개월 살았다.",
+          "나는 습한 건 끈적여서 싫다."
+        ]
+      }
+    }
+  ]
+}
