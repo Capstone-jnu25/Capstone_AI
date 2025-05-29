@@ -1,0 +1,413 @@
+{
+  "FileInfo": {
+    "filename": "K2-00175-CL31901-CP31204-06-18-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0316",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0282",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00175"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "31901",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 수학과를 전공했다.",
+        "나는 필라테스를 가끔 한다.",
+        "나는 블루베리를 좋아한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "31204",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 치위생사이다.",
+        "나는 작은 일에도 기쁘다.",
+        "나는 검은색을 싫어한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "06-18",
+    "topicType": "교육",
+    "topicTitle": "유학"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00175-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31901",
+          "participantID": "0316",
+          "utterance": "안녕하신가요! 저는 30대 여자이에요.",
+          "summary": "나는 30대 여자이다.",
+          "date": "2022-09-23",
+          "time": "15:59:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31204",
+          "participantID": "0282",
+          "utterance": "처음 뵙네요. 저는 30대 남자입니다.",
+          "summary": "나는 30대 남자이다.",
+          "date": "2022-09-23",
+          "time": "16:00:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31901",
+          "participantID": "0316",
+          "utterance": "오~ 남자분~ 어떤 일 하시는 분이려나요?",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "16:00:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31204",
+          "participantID": "0282",
+          "utterance": "저는 치위생사를 하고있어요~ 무슨일 하시나요?",
+          "summary": "나는 치위생사이다.",
+          "date": "2022-09-23",
+          "time": "16:00:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31901",
+          "participantID": "0316",
+          "utterance": "저는 수학과 나와서 대학원생이에요.",
+          "summary": "나는 수학과를 전공했다.",
+          "date": "2022-09-23",
+          "time": "16:00:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31204",
+          "participantID": "0282",
+          "utterance": "수학 잘하시겠네요. 저는 학창시절엔 수학 못했는데 ㅎㅎ.",
+          "summary": "나는 수학을 잘 못한다.",
+          "date": "2022-09-23",
+          "time": "16:00:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31901",
+          "participantID": "0316",
+          "utterance": "맞아요 ㅋㅋ. 그러면 뭐 좋아하시는거 있어요?",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "16:00:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31204",
+          "participantID": "0282",
+          "utterance": "저는 작은일에도 기뻐하는편이라 맛있는거만 먹어도 참 좋더라구요.",
+          "summary": "나는 작은 일에도 기쁘다.",
+          "date": "2022-09-23",
+          "time": "16:01:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31901",
+          "participantID": "0316",
+          "utterance": "오~ 긍정적이네요? 그러면 싫어하는건 또 있나요?",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "16:01:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31204",
+          "participantID": "0282",
+          "utterance": "저는 밝은걸 좋아해서 검정색도 싫어해요~ 그러고보니 좋아하는거 있으세요?",
+          "summary": "나는 검은색을 싫어한다.",
+          "date": "2022-09-23",
+          "time": "16:01:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31901",
+          "participantID": "0316",
+          "utterance": "ㅎㅎ. 저는 필라테스를 좀 가끔 하는데. 그게 좋더라고요.",
+          "summary": "나는 필라테스를 가끔 한다.",
+          "date": "2022-09-23",
+          "time": "16:01:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31204",
+          "participantID": "0282",
+          "utterance": "그러시구나~ 몸매가 좋으시겠어요. 관리는 어떻게 하시나요?",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "16:01:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31901",
+          "participantID": "0316",
+          "utterance": "다이어트중이라 블루베리도 자주 먹어요. 이게 입에 제일 좋네요~",
+          "summary": "나는 블루베리를 좋아한다.",
+          "date": "2022-09-23",
+          "time": "16:02:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31204",
+          "participantID": "0282",
+          "utterance": "오 그렇군요. 저도 블루베리 먹어봐야겠어요~",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "16:02:14",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 수학과를 전공했다.",
+          "나는 필라테스를 가끔 한다.",
+          "나는 블루베리를 좋아한다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이다.",
+          "나는 치위생사이다.",
+          "나는 수학을 잘 못한다.",
+          "나는 작은 일에도 기쁘다.",
+          "나는 검은색을 싫어한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00175-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00175-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31901",
+          "participantID": "0316",
+          "utterance": "3일만이네요? 반가워요. 오늘 비가 참 많이 오네요.",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "16:02:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31204",
+          "participantID": "0282",
+          "utterance": "저희지역은 비가 안오는데. 비가 많이 오시나봐요.",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "16:02:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31901",
+          "participantID": "0316",
+          "utterance": "그렇군요. 이럴때면 옛날 유학 시절이 생각나요.",
+          "summary": "나는 유학을 갔다 왔다.",
+          "date": "2022-09-23",
+          "time": "16:02:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31204",
+          "participantID": "0282",
+          "utterance": "무슨 일이셨나요? 참 궁금하기도 하네요.",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "16:03:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31901",
+          "participantID": "0316",
+          "utterance": "저는 영국에 유학을 했는데. 비가 많이 오는곳이잖아요.",
+          "summary": "나는 영국에서 유학을 했다.",
+          "date": "2022-09-23",
+          "time": "16:03:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31204",
+          "participantID": "0282",
+          "utterance": "네 ㅎㅎ 비가 참 많이오죠. 저는 미국에 유학을 가봤는데.",
+          "summary": "나는 미국에서 유학을 했다.",
+          "date": "2022-09-23",
+          "time": "16:03:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31901",
+          "participantID": "0316",
+          "utterance": "진짜요? 미국에 다녀오셨군요. 미국 안무섭나요?",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "16:03:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31204",
+          "participantID": "0282",
+          "utterance": "치안이 좀 걱정이긴 한데 안전한 지역에 있었답니다~",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "16:03:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31901",
+          "participantID": "0316",
+          "utterance": "저는 미국이 무서워서 영국으로 갔어요 ㅎㅎ.",
+          "summary": "나는 미국이 무섭다.",
+          "date": "2022-09-23",
+          "time": "16:03:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31204",
+          "participantID": "0282",
+          "utterance": "예~ 그러시군요. 영국도 발음 배우기 좋은곳이죠.",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "16:04:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31901",
+          "participantID": "0316",
+          "utterance": "영국 발은은 해도 잘 안늘더라고요 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "16:04:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31204",
+          "participantID": "0282",
+          "utterance": "귀족 발음이라 매체에서 보면 참 멋지더라구요.",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "16:04:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31901",
+          "participantID": "0316",
+          "utterance": "맞아요. 그러면 다음에 더 얘기해요. 저는 조사 좀 더 할게요~",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "16:04:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31204",
+          "participantID": "0282",
+          "utterance": "네 다음에 또 이야기하도록해요~ 반가웠어요.",
+          "summary": "",
+          "date": "2022-09-23",
+          "time": "16:04:50",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 유학을 갔다 왔다.",
+          "나는 영국에서 유학을 했다.",
+          "나는 미국이 무섭다."
+        ],
+        "speaker2": [
+          "나는 미국에서 유학을 했다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 수학과를 전공했다.",
+          "나는 필라테스를 가끔 한다.",
+          "나는 블루베리를 좋아한다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이다.",
+          "나는 치위생사이다.",
+          "나는 수학을 잘 못한다.",
+          "나는 작은 일에도 기쁘다.",
+          "나는 검은색을 싫어한다."
+        ]
+      }
+    }
+  ]
+}

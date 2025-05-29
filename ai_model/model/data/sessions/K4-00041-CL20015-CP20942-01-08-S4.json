@@ -1,0 +1,794 @@
+{
+  "FileInfo": {
+    "filename": "K4-00041-CL20015-CP20942-01-08-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0631",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0650",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "기타",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00041"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "20015",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나의 종교는 개신교이다.",
+        "나는 컴퓨터 하드웨어 기술자이다.",
+        "나는 로맨스 영화를 자주 본다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "20942",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나의 거주지는 진주이다.",
+        "나는 정치외교학부가 부전공이다.",
+        "나는 TV 예능을 가끔 본다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "01-08",
+    "topicType": "식음료",
+    "topicTitle": "레시피"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00041-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "반가워요~ 20대이고 남자입니다 ^^",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-10-07",
+          "time": "17:53:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "반갑습니다~ 저도 20대 입니다!! 남자이고요!",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-10-07",
+          "time": "17:53:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "님은 학생이실까요 직장인이실까요?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:53:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "저는 학생입니다~ ㅎㅎㅎ 님은요?",
+          "summary": "나는 학생이다.",
+          "date": "2022-10-07",
+          "time": "17:53:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "아하~! 저는 컴퓨터 하드웨어 기술자입니다!",
+          "summary": "나는 컴퓨터 하드웨어 기술자이다.",
+          "date": "2022-10-07",
+          "time": "17:54:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "오오~ 멋있는걸요~ 컴퓨터 잘하시겠어요~",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:54:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "ㅎㅎ 아무래도 직업이다보니요~ ㅋㅋ 전공은 뭐 하세요?",
+          "summary": "나는 컴퓨터에 자신이 있다.",
+          "date": "2022-10-07",
+          "time": "17:54:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "ㅋㅋㅋ그러게요~ 전공은 비밀입니다~ 부전공을 알려드릴게요~",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:54:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "ㅋㅋㅋ 오오~ 네네 알려주세요!!",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:54:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "저는 정치외교학부가 부전공입니다!! ㅎㅎㅎ.",
+          "summary": "나는 정치외교학부가 부전공이다.",
+          "date": "2022-10-07",
+          "time": "17:54:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "아니 그 어려운 공부가 부전공이라니.. 대단하신데요?",
+          "summary": "나는 정치외교학이 어렵다고 느낀다.",
+          "date": "2022-10-07",
+          "time": "17:54:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "ㅋㅋ 그렇게 말씀해주시니 뭐라도 된 것 같네요..",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:55:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "아 당연히 되는 거 이상이죠~ ㅋㅋ 아 잠시 후에 연락드려도 될까요?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:55:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "ㅎㅎㅎ넵! 잠시 후에 연락주셔도 됩니다~",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:55:25",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 컴퓨터 하드웨어 기술자이다.",
+          "나는 컴퓨터에 자신이 있다.",
+          "나는 정치외교학이 어렵다고 느낀다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 학생이다.",
+          "나는 정치외교학부가 부전공이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00041-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00041-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "죄송해요~ 저 종교행사가 곧 있어서 바쁘네요 ㅋㅋ.",
+          "summary": "나는 곧 종교행사가 있다.",
+          "date": "2022-10-07",
+          "time": "17:55:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "오오~ 종교인이신가요? ㅎㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:55:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "네네 저는 개신교 믿습니다 ㅎㅎ 종교 있으세요?",
+          "summary": "나의 종교는 개신교이다.",
+          "date": "2022-10-07",
+          "time": "17:55:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "그러시구나~ 저는 무교입니다!",
+          "summary": "나는 종교가 없다.",
+          "date": "2022-10-07",
+          "time": "17:55:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "그렇군요! 과학을 기본적으로 더 믿으시는 건가요 혹시..?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:56:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "음.. 그런 편입니다!! ㅎㅎㅎ.",
+          "summary": "나는 과학을 종교보다 더 믿는 편이다.",
+          "date": "2022-10-07",
+          "time": "17:56:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "오오~ 그렇군요! 뭐 정답은 없으니까요! ㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:56:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "맞아요~ ㅋㅋㅋ ㅎㅎ 뭐하시나요~",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:56:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "퇴근 후에 뭐 할지 생각중이에요~! ㅋㅋ 님은요?",
+          "summary": "나는 퇴근 후 무엇을 할지 생각 중이다.",
+          "date": "2022-10-07",
+          "time": "17:56:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "그러시구나~ 저는 가끔 보는 tv예능 보고 있어요!! ㅎㅎ.",
+          "summary": "나는 tv 예능을 가끔 본다.",
+          "date": "2022-10-07",
+          "time": "17:56:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "오호~ 예능 요즘 누가 재밌나요??",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:57:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "음~ @이름1@가 재일 재밌네요~ ㅎㅎ.",
+          "summary": "나는 @이름1@가 예능에서 재밌다고 생각한다.",
+          "date": "2022-10-07",
+          "time": "17:57:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "찾아서 보면서 가야겠네요 ㅋㅋ 있다가 얘기할게요~!",
+          "summary": "나는 추천받은 예능인을 보면서 귀가할 예정이다.",
+          "date": "2022-10-07",
+          "time": "17:57:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "네네~ ㅎㅎㅎ 조심히 들어가세요~~",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:57:31",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 곧 종교행사가 있다.",
+          "나의 종교는 개신교이다.",
+          "나는 퇴근 후 무엇을 할지 생각 중이다.",
+          "나는 추천받은 예능인을 보면서 귀가할 예정이다."
+        ],
+        "speaker2": [
+          "나는 종교가 없다.",
+          "나는 과학을 종교보다 더 믿는 편이다.",
+          "나는 tv 예능을 가끔 본다.",
+          "나는 @이름1@가 예능에서 재밌다고 생각한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 컴퓨터 하드웨어 기술자이다.",
+          "나는 컴퓨터에 자신이 있다.",
+          "나는 정치외교학이 어렵다고 느낀다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 학생이다.",
+          "나는 정치외교학부가 부전공이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00041-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00041-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "아 추천해주신 @이름1@ 너무 웃긴 거 아니에요? 미친 거 같아요 ㅋㅋ.",
+          "summary": "나는 추천받은 예능을 매우 재미있게 시청했다.",
+          "date": "2022-10-07",
+          "time": "17:57:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "ㅋㅋㅋ 재밌죠!! ㅎㅎㅎ 완전 재밌어요~",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:57:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "와~ 저 자주 보는 장르가 로맨스 영화인데 dvd 빌린거 못 볼 수도 있겠는데요? ㅋㅋ.",
+          "summary": "나는 로맨스 영화를 자주 본다. 나는 로맨스 영화 dvd를 대여했다.",
+          "date": "2022-10-07",
+          "time": "17:58:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "오오~ 그러시구나~ 왜요?? ㅠㅜ.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:58:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "예능 너무 미친듯이 웃겨요 ㅋㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:58:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "ㅋㅋㅋㅋ아아 그런 이유였군요!! ㅋㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:58:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "ㅋㅋㅋ 휴 이거 시즌 2도 나오는건가요??",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:59:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "음.. 그건 잘 모르겠네요~ 나왔으면 해요~",
+          "summary": "나는 즐겨보는 프로 시즌 2가 나왔으면 한다.",
+          "date": "2022-10-07",
+          "time": "17:59:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "저도 꼭 나왔음하네요 ㅠ 이제 뭐 하세요?",
+          "summary": "나는 추천받은 예능의 차기 시즌을 기대한다.",
+          "date": "2022-10-07",
+          "time": "17:59:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "이제~ 집 앞에 산책하려고 해요~~ ㅎㅎㅎ.",
+          "summary": "나는 산책을 할 예정이다.",
+          "date": "2022-10-07",
+          "time": "17:59:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "오~ 산책 보통 얼마나 하세요? ㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:59:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "보통 1-2시간 하는 편입니다~ ㅎㅎ.",
+          "summary": "나는 산책을 1-2시간 하는 편이다.",
+          "date": "2022-10-07",
+          "time": "17:59:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "그렇군요! 그럼 있다가 편하게 다시 얘기하시죠~! ㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:59:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "네네~ 있다가 편히 얘기하시죠~",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "17:59:59",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 추천받은 예능을 매우 재미있게 시청했다.",
+          "나는 로맨스 영화를 자주 본다. 나는 로맨스 영화 dvd를 대여했다.",
+          "나는 추천받은 예능의 차기 시즌을 기대한다."
+        ],
+        "speaker2": [
+          "나는 즐겨보는 프로 시즌 2가 나왔으면 한다.",
+          "나는 산책을 할 예정이다.",
+          "나는 산책을 1-2시간 하는 편이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 컴퓨터 하드웨어 기술자이다.",
+          "나는 컴퓨터에 자신이 있다.",
+          "나는 정치외교학이 어렵다고 느낀다.",
+          "나는 곧 종교행사가 있다.",
+          "나의 종교는 개신교이다.",
+          "나는 퇴근 후 무엇을 할지 생각 중이다.",
+          "나는 추천받은 예능인을 보면서 귀가할 예정이다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 학생이다.",
+          "나는 정치외교학부가 부전공이다.",
+          "나는 종교가 없다.",
+          "나는 과학을 종교보다 더 믿는 편이다.",
+          "나는 tv 예능을 가끔 본다.",
+          "나는 @이름1@가 예능에서 재밌다고 생각한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00041-3",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "시간"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00041-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "아이고 전 이제 누웠습니다~ ㅋㅋ 집이시죠?",
+          "summary": "나는 침실에 누워있다.",
+          "date": "2022-10-07",
+          "time": "18:00:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "네네~ ㅎㅎ 집입니다~ 님은 어디사시나요?",
+          "summary": "나는 지금 집이다.",
+          "date": "2022-10-07",
+          "time": "18:00:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "전 서울에 살아요~ ㅎㅎ 님은요?",
+          "summary": "나는 서울에 거주한다.",
+          "date": "2022-10-07",
+          "time": "18:00:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "그러시구나 저는 진주요~ ㅎㅎㅎ.",
+          "summary": "나의 거주지는 진주이다.",
+          "date": "2022-10-07",
+          "time": "18:00:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "오호 그렇군요! 아 맞다 내일 요리 해야 하는데..",
+          "summary": "나는 내일 요리를 할 예정이다.",
+          "date": "2022-10-07",
+          "time": "18:00:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "그럼 재료 사야겠네요? ㅎㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "18:00:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "그렇죠! 레시피 여러 가지 습득 어서 해야겠네요 ㅠ 자꾸 시켜먹기만 하니 ㅠ.",
+          "summary": "나는 배달보다 요리가 낫다고 생각한다. 나는 여러 레시피를 습득하려고 한다.",
+          "date": "2022-10-07",
+          "time": "18:01:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "ㅋㅋㅋ그러게요~ 저도 자꾸 시켜먹어서..",
+          "summary": "나는 자주 배달음식을 먹는다.",
+          "date": "2022-10-07",
+          "time": "18:01:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "레시피 이런거 익히기에 엄청 어렵진 않겠죠...?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "18:01:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "음.. 그래도 자세히 나와있으니 어렵진 않을겁니다!!",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "18:01:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "요리에 요 자도 모르니 참..ㅋㅋ 여러 창작을 하게 생겼습니다 ㅋㅋㅋ.",
+          "summary": "나는 요리를 잘 못 한다.",
+          "date": "2022-10-07",
+          "time": "18:01:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "불 조심만 잘 하면 되지요~~ ㅎㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "18:01:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20015",
+          "participantID": "0631",
+          "utterance": "그렇죠! 내일 결과물 사진으로 보여드릴게요~! ㅋㅋ 푹 쉬세요~!",
+          "summary": "나는 취침할 예정이다.",
+          "date": "2022-10-07",
+          "time": "18:02:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20942",
+          "participantID": "0650",
+          "utterance": "네네~ ㅎㅎㅎ궁금하네요 푹 쉬세요 님도!!",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "18:02:18",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 침실에 누워있다.",
+          "나는 서울에 거주한다.",
+          "나는 내일 요리를 할 예정이다.",
+          "나는 배달보다 요리가 낫다고 생각한다. 나는 여러 레시피를 습득하려고 한다.",
+          "나는 요리를 잘 못 한다.",
+          "나는 취침할 예정이다."
+        ],
+        "speaker2": [
+          "나는 지금 집이다.",
+          "나의 거주지는 진주이다.",
+          "나는 자주 배달음식을 먹는다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 컴퓨터 하드웨어 기술자이다.",
+          "나는 컴퓨터에 자신이 있다.",
+          "나는 정치외교학이 어렵다고 느낀다.",
+          "나는 곧 종교행사가 있다.",
+          "나의 종교는 개신교이다.",
+          "나는 퇴근 후 무엇을 할지 생각 중이다.",
+          "나는 추천받은 예능인을 보면서 귀가할 예정이다.",
+          "나는 추천받은 예능을 매우 재미있게 시청했다.",
+          "나는 로맨스 영화를 자주 본다. 나는 로맨스 영화 dvd를 대여했다.",
+          "나는 추천받은 예능의 차기 시즌을 기대한다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 학생이다.",
+          "나는 정치외교학부가 부전공이다.",
+          "나는 종교가 없다.",
+          "나는 과학을 종교보다 더 믿는 편이다.",
+          "나는 tv 예능을 가끔 본다.",
+          "나는 @이름1@가 예능에서 재밌다고 생각한다.",
+          "나는 즐겨보는 프로 시즌 2가 나왔으면 한다.",
+          "나는 산책을 할 예정이다.",
+          "나는 산책을 1-2시간 하는 편이다."
+        ]
+      }
+    }
+  ]
+}

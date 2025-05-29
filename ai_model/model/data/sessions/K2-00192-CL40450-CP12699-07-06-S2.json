@@ -1,0 +1,494 @@
+{
+  "FileInfo": {
+    "filename": "K2-00192-CL40450-CP12699-07-06-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "50215",
+      "gender": "남성",
+      "age": "40대",
+      "occupation": "전문직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "4514",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "기타",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00192"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "40450",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 방송 기자이다",
+        "나는 가을을 싫어한다",
+        "나는 컨트리 음악을 싫어한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "12699",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 10대이다.",
+        "내가 사는 곳은 경주이다",
+        "나는 웹 개발자가 되고 싶다",
+        "나는 수박을 싫어한다",
+        "나는 매일 질투가 난다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "07-06",
+    "topicType": "개인 및 관계>가족",
+    "topicTitle": "조카"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00192-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "40450",
+          "participantID": "50215",
+          "utterance": "안녕하세요 저는 40대 남성입니다",
+          "summary": "나는 40대 남자다.",
+          "date": "2022-11-11",
+          "time": "22:03:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12699",
+          "participantID": "4514",
+          "utterance": "안녕하세요. 저는 경주에 사는 10대 여성이에요.",
+          "summary": "나는 경주에 사는 10대 여성이다.",
+          "date": "2022-11-11",
+          "time": "22:12:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40450",
+          "participantID": "50215",
+          "utterance": "반가워요 제 소개를 하자면 저는 방송 기자입니다",
+          "summary": "나는 방송기자다.",
+          "date": "2022-11-11",
+          "time": "22:26:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12699",
+          "participantID": "4514",
+          "utterance": "방송 기자분이셨군요! 저는 웹 개발자가 꿈이에요.",
+          "summary": "나는 웹 개발자가 꿈이다.",
+          "date": "2022-11-11",
+          "time": "22:35:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40450",
+          "participantID": "50215",
+          "utterance": "웹 개발자도 좋은 직업이네요. 꿈이 멋지네요. 혹시 싫어하시는 계절이 있으신가요? 저는 가을을 싫어해요.",
+          "summary": "나는 가을이 싫다.",
+          "date": "2022-11-11",
+          "time": "22:45:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12699",
+          "participantID": "4514",
+          "utterance": "저는 여름이 싫어요. 모기와 벌레도 많고 너무 뜨겁고 더워요. 친구는 여름에 먹는 수박이 그렇게 맛있다고 하는데, 저는 수박도 싫고 여름도 싫어서 공감해줄 수 없어요.",
+          "summary": "나는 여름이 싫다. 나는 수박이 싫다.",
+          "date": "2022-11-11",
+          "time": "23:34:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40450",
+          "participantID": "50215",
+          "utterance": "아 그러시구나 저는 여름에는 수영이나 다양한 레저 활동을 좋아해서 여름은 좋아해요. 가을은 계절성 비염이 가을에 너무 심해져서 힘들어서 싫어하고요.",
+          "summary": "나는 여름에는 수영이나 다양한 레저 활동을 좋아해서 여름을 좋아한다. 나는 가을에 계절성 비염이 심해져서 힘들어서 싫다.",
+          "date": "2022-11-11",
+          "time": "23:44:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12699",
+          "participantID": "4514",
+          "utterance": "비염이 있으셔서 힘드시겠어요. 저도 비염때문에 고생하는데 친구는 비염이 없어서 고생 안하는 것을 보면 매일 질투가 나더라고요.",
+          "summary": "나는 비염이 있다.",
+          "date": "2022-11-12",
+          "time": "08:52:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40450",
+          "participantID": "50215",
+          "utterance": "그러게요 비염 없는 분들은 정말 축복 받은 것 같아요 혹시 취미 생활은 어떻게 되세요?",
+          "summary": "나는 비염 없는 사람은 축복 받았다고 생각한다.",
+          "date": "2022-11-12",
+          "time": "09:19:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12699",
+          "participantID": "4514",
+          "utterance": "저는 전시회를 구경하는 것이 취미에요. 님은 취미가 있으신가요?",
+          "summary": "나는 전시회를 구경하는 게 취미이다.",
+          "date": "2022-11-12",
+          "time": "09:32:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40450",
+          "participantID": "50215",
+          "utterance": "저는 음악을 듣는 걸 좋아해요. 대중가요 발라드 클래식 팝송 모두 좋아하지만 저는 컨트리 음악을 싫어합니다",
+          "summary": "나는 음악을 듣는 걸 좋아하고 컨트리 음악을 싫어한다.",
+          "date": "2022-11-12",
+          "time": "09:52:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12699",
+          "participantID": "4514",
+          "utterance": "아 저도 컨트리 음악은 좀 그런 것 같아요. 혹시 싫어하는 과일도 있으신가요?",
+          "summary": "",
+          "date": "2022-11-12",
+          "time": "11:43:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40450",
+          "participantID": "50215",
+          "utterance": "과일은 싫어하는 과일 없이 다 잘먹는데 특히 달콤한 열대과일을 좋아해요 님은 싫어하는 과일이 있으신가요?",
+          "summary": "나는 열대과일을 특히 좋아한다.",
+          "date": "2022-11-12",
+          "time": "11:53:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12699",
+          "participantID": "4514",
+          "utterance": "아까 말씀드린 수박 말고도 참외도 별로 안 좋아해요. 씨가 맛이 없어요.",
+          "summary": "나는 참외를 안 좋아한다.",
+          "date": "2022-11-12",
+          "time": "12:01:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40450",
+          "participantID": "50215",
+          "utterance": "여름에 나는 과일도 싫어하시니 여름을 싫어하실만 하네요.",
+          "summary": "",
+          "date": "2022-11-12",
+          "time": "12:43:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12699",
+          "participantID": "4514",
+          "utterance": "아, 저는 이제 학원 갈 시간이 되어서 가봐야할 것 같아요.",
+          "summary": "나는 학원에 다닌다.",
+          "date": "2022-11-12",
+          "time": "15:06:47",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자다.",
+          "나는 방송기자다.",
+          "나는 가을이 싫다.",
+          "나는 여름에는 수영이나 다양한 레저 활동을 좋아해서 여름을 좋아한다. 나는 가을에 계절성 비염이 심해져서 힘들어서 싫다.",
+          "나는 비염 없는 사람은 축복 받았다고 생각한다.",
+          "나는 음악을 듣는 걸 좋아하고 컨트리 음악을 싫어한다.",
+          "나는 열대과일을 특히 좋아한다."
+        ],
+        "speaker2": [
+          "나는 경주에 사는 10대 여성이다.",
+          "나는 웹 개발자가 꿈이다.",
+          "나는 여름이 싫다. 나는 수박이 싫다.",
+          "나는 비염이 있다.",
+          "나는 전시회를 구경하는 게 취미이다.",
+          "나는 참외를 안 좋아한다.",
+          "나는 학원에 다닌다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00192-1",
+      "prevTimeInfo": {
+        "timeNum": "27",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "2-00192-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "40450",
+          "participantID": "50215",
+          "utterance": "그제는 학원에 잘 다녀오셨어요? 저는 조카가 중학교에 입학한다고 해서 입학선물을 고르고 있네요",
+          "summary": "나는 조카의 중학교 입학 선물을 고르고 있다.",
+          "date": "2022-11-12",
+          "time": "15:49:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12699",
+          "participantID": "4514",
+          "utterance": "저랑 얼마 차이 안나네요. 조카라니 엄청 귀여우시겠어요. 어떤 선물을 생각하고 계세요?",
+          "summary": "",
+          "date": "2022-11-12",
+          "time": "16:15:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40450",
+          "participantID": "50215",
+          "utterance": "형님 딸인데 최신 스마트폰을 하나 사줄까 생각 중이에요. 조카랑 사이가 좋아서 저한테 애교도 많고 귀여워요",
+          "summary": "나는 조카에게 최신 스마트폰을 사주려고 한다. 나는 조카와 사이가 좋아서 애교도 많고 귀엽다.",
+          "date": "2022-11-12",
+          "time": "16:37:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12699",
+          "participantID": "4514",
+          "utterance": "어머나 , 스마트폰이라니. 큰 선물을 준비 중이시네요. 요즘 저희 또래는 아이폰을 많이 쓰는데 아이폰으로 사실 건가요?",
+          "summary": "나의 또래는 아이폰을 많이 쓴다",
+          "date": "2022-11-12",
+          "time": "17:05:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40450",
+          "participantID": "50215",
+          "utterance": "같이 가서 보려고요. @이름@님은 가족이 어떻게 되세요? ",
+          "summary": "",
+          "date": "2022-11-12",
+          "time": "17:18:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12699",
+          "participantID": "4514",
+          "utterance": "저는 부모님과 언니가 있어요. 친척들과도 친하게 지내죠. 이번에 사촌언니가 아이를 낳았는데 너무 귀여워요. @이름@님도 이 마음이시겠죠?",
+          "summary": "나는 부모님과 언니가 있고 친척들과도 친하게 지낸다. 나는 이번에 사촌언니가 아이를 낳았는데 너무 귀엽다.",
+          "date": "2022-11-12",
+          "time": "18:20:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40450",
+          "participantID": "50215",
+          "utterance": "네 아가때는 정말 너무 귀엽고 연약한 생명이 움직이는게 신기했어요 언니와는 사이가 좋나요? 자매끼리는 많이 싸운다고 들어서요",
+          "summary": "나는 아기 때 너무 귀엽고 연약한 생명이 움직이는 게 신기했다.",
+          "date": "2022-11-12",
+          "time": "19:21:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12699",
+          "participantID": "4514",
+          "utterance": "맞아요. 나이차가 많이 안나서 그런가 많이 싸워요. 그래서 나이차가 많이 나는 사촌언니와 친하게 지내죠.",
+          "summary": "나는 나이차가 많이 나는 사촌언니와 친하게 지낸다.",
+          "date": "2022-11-12",
+          "time": "19:22:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40450",
+          "participantID": "50215",
+          "utterance": "그렇군요. 저는 조카와는 자주 보기도 하고 성격이 비슷해서 잘 맞는 것 같아요. 벌써 중학생이라니 정말 빨리 크는 것 같아요.",
+          "summary": "나는 조카와 성격이 비슷해서 잘 맞는다.",
+          "date": "2022-11-12",
+          "time": "19:58:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12699",
+          "participantID": "4514",
+          "utterance": "저는 아직 실감이 안나요. 제 조카도 지금은 아기지만 나중에 @이름@님의 조카 분과 저처럼 10대가 되는 날이 오겠죠? 조카가 컸을 때 저도 조카와 성격이 비슷해서 잘 지내고 싶어요.",
+          "summary": "나는 조카가 커도 잘 지내고 싶다.",
+          "date": "2022-11-12",
+          "time": "22:32:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40450",
+          "participantID": "50215",
+          "utterance": "자주 보고 가족간에 자주 연락하고 하다 보면 어색함도 많이 사라지고 편해지는 것 같아요. 방송 기자다 보니 출장이 잦아서 못 볼때도 있는데 시간이 나면 보려고 노력했어요",
+          "summary": "나는 출장이 잦아서 조카를 못 볼때도 있지만 시간이 나면 보려고 노력했다.",
+          "date": "2022-11-12",
+          "time": "22:47:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12699",
+          "participantID": "4514",
+          "utterance": "조카 분이 중학생이면 좋아하시는 레저 활동도 같이 하시나요?",
+          "summary": "",
+          "date": "2022-11-12",
+          "time": "23:10:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40450",
+          "participantID": "50215",
+          "utterance": "여름에는 휴가 때 부모님 모시고 형님네 가족이랑 같이 놀러가요. 제트보트도 같이 타고 아무래도 같이 즐기는 편이죠",
+          "summary": "나는 조카와 휴가 때 부모님을 모시고 형님네 가족과 같이 놀러간다. 나는 조카와 제트보트를 같이 탄다.",
+          "date": "2022-11-12",
+          "time": "23:16:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12699",
+          "participantID": "4514",
+          "utterance": "나중에 제가 사는 경주에도 와보세요. 저는 나중에 조카가 크면 경주 이곳 저곳을 구경하는 것이 버킷리스트에요.",
+          "summary": "나는 조카가 크면 경주 이곳 저곳을 구경하고 싶다.",
+          "date": "2022-11-12",
+          "time": "23:22:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40450",
+          "participantID": "50215",
+          "utterance": "네 좋은 계획이네요. 저도 꼭 경주에 가볼께요. 경주에서 전시회 볼 때 @이름@님을 뵐 수도 있겠어요",
+          "summary": "나는 경주에 갈 계획이다.",
+          "date": "2022-11-12",
+          "time": "23:32:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12699",
+          "participantID": "4514",
+          "utterance": "나중에 만나게 되면 제가 싫어하는 수박 말고 다른 열대 과일로 만든 주스 같이 마셔요.",
+          "summary": "나는 조카와 열대과일로 만든 주스를 같이 마신다. 나는 수박을 싫어한다.",
+          "date": "2022-11-13",
+          "time": "00:53:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40450",
+          "participantID": "50215",
+          "utterance": "네 그렇게 해요. 파인애플 주스나 오렌지 주스 같이 마셔요",
+          "summary": "나는 파인애플 주스나 오렌지 주스를 같이 마신다.",
+          "date": "2022-11-13",
+          "time": "00:55:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "12699",
+          "participantID": "4514",
+          "utterance": "어머, 시간이 벌써 이렇게 되었네요. 이만 가봐야겠어요.",
+          "summary": "",
+          "date": "2022-11-13",
+          "time": "01:08:51",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 조카의 중학교 입학 선물을 고르고 있다.",
+          "나는 조카에게 최신 스마트폰을 사주려고 한다. 나는 조카와 사이가 좋아서 애교도 많고 귀엽다.",
+          "나는 아기 때 너무 귀엽고 연약한 생명이 움직이는 게 신기했다.",
+          "나는 조카와 성격이 비슷해서 잘 맞는다.",
+          "나는 출장이 잦아서 조카를 못 볼때도 있지만 시간이 나면 보려고 노력했다.",
+          "나는 조카와 휴가 때 부모님을 모시고 형님네 가족과 같이 놀러간다. 나는 조카와 제트보트를 같이 탄다.",
+          "나는 경주에 갈 계획이다.",
+          "나는 파인애플 주스나 오렌지 주스를 같이 마신다."
+        ],
+        "speaker2": [
+          "나의 또래는 아이폰을 많이 쓴다",
+          "나는 부모님과 언니가 있고 친척들과도 친하게 지낸다. 나는 이번에 사촌언니가 아이를 낳았는데 너무 귀엽다.",
+          "나는 나이차가 많이 나는 사촌언니와 친하게 지낸다.",
+          "나는 조카가 커도 잘 지내고 싶다.",
+          "나는 조카가 크면 경주 이곳 저곳을 구경하고 싶다.",
+          "나는 조카와 열대과일로 만든 주스를 같이 마신다. 나는 수박을 싫어한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자다.",
+          "나는 방송기자다.",
+          "나는 가을이 싫다.",
+          "나는 여름에는 수영이나 다양한 레저 활동을 좋아해서 여름을 좋아한다. 나는 가을에 계절성 비염이 심해져서 힘들어서 싫다.",
+          "나는 비염 없는 사람은 축복 받았다고 생각한다.",
+          "나는 음악을 듣는 걸 좋아하고 컨트리 음악을 싫어한다.",
+          "나는 열대과일을 특히 좋아한다."
+        ],
+        "speaker2": [
+          "나는 경주에 사는 10대 여성이다.",
+          "나는 웹 개발자가 꿈이다.",
+          "나는 여름이 싫다. 나는 수박이 싫다.",
+          "나는 비염이 있다.",
+          "나는 전시회를 구경하는 게 취미이다.",
+          "나는 참외를 안 좋아한다.",
+          "나는 학원에 다닌다."
+        ]
+      }
+    }
+  ]
+}

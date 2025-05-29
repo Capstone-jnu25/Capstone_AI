@@ -1,0 +1,515 @@
+{
+  "FileInfo": {
+    "filename": "K2-00178-CL50062-CP51721-03-04-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0716",
+      "gender": "남성",
+      "age": "40대",
+      "occupation": "판매직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0643",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "교직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00178"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "50062",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 50대이다.",
+        "나는 요즘, 매일 괴롭다.",
+        "나는 가족과 갈등 있을 때가 많다.",
+        "나는 소주를 좋아한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "51721",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 아무 데서나 잘 잔다.",
+        "나는 스포츠 TV를 가끔 본다.",
+        "나는 단감을 안 먹는다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "03-04",
+    "topicType": "교통",
+    "topicTitle": "전기차"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "2-00178-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "안녕하세요 ^^ 저는 50대 남자입니다~ 님은요?",
+          "summary": "나는 50대 남자이다.",
+          "date": "2022-10-01",
+          "time": "23:07:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "안녕하세요~^^ 저는 50대 여자입니다!",
+          "summary": "나는 50대 여자이다.",
+          "date": "2022-10-01",
+          "time": "23:07:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "저는 요즘 가족과 갈등 있을 때가 많아 괴롭네요.. 님은 어때요?",
+          "summary": "나는 요즘, 매일 괴롭다. 나는 가족과 갈등 있을 때가 많다.",
+          "date": "2022-10-01",
+          "time": "23:07:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "헉 무슨 갈등이 있으세요? 저는 가족들과 잘 지내는 편입니다.",
+          "summary": "나는 가족과 잘 지낸다.",
+          "date": "2022-10-01",
+          "time": "23:07:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "제가 소주를 좋아하거든요~ 근데 저희 가족은 제가 술마시는걸 안좋아합니다 허허..",
+          "summary": "나는 소주를 좋아한다. 나의 가족은 술을 좋아하지 않는다.",
+          "date": "2022-10-01",
+          "time": "23:08:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "그러면 갈등이 있을 만 하네요ㅋㅋ 저도 술먹는걸 좋아하거든요! 그 뒤가 문제지만요.",
+          "summary": "나는 술 먹는 것을 좋아한다.",
+          "date": "2022-10-01",
+          "time": "23:08:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "맞아요~ 술을 끊어야 하는데 어렵네요 ㅎㅎ 님은 요즘 고민 없으신가요?",
+          "summary": "나는 술을 끊는 것이 어렵다.",
+          "date": "2022-10-01",
+          "time": "23:08:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "제가 요새 기면증이 있는지.. 아무데서나 너무 잘 자서 고민입니다 ㅠ.",
+          "summary": "나는 아무 데서나 잘 잔다.",
+          "date": "2022-10-01",
+          "time": "23:09:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "잘 자면 좋은거 아닌가요? ㅎㅎ 아 혹시 밖에서도 주무시는 건가요?",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "23:09:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "네 버스에서도 자는 바람에 내릴 정거장도 놓친 적이 종종 있어요.",
+          "summary": "나는 잠을 자느라 내릴 정거장을 놓친 적이 있다.",
+          "date": "2022-10-01",
+          "time": "23:10:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "그럼 많이 고민이 되겠어요.. 병원은 가보셨나요?",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "23:10:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "네 병원에선 괜찮다더라구요 ㅎㅎ 그래서 그냥 포기하고 TV나 보며 시간을 보냅니다.",
+          "summary": "나는 TV를 보며 시간을 보낸다.",
+          "date": "2022-10-01",
+          "time": "23:10:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "괜찮다면 다행입니다.. TV 보는거 좋아하시나봐요? 저는 음악 프로 좋아합니다~",
+          "summary": "나는 TV로 음악 채널 보는 것을 좋아한다.",
+          "date": "2022-10-01",
+          "time": "23:11:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "저는 스포츠 TV를 가끔 봅니다~ 님은 그럼 노래 듣는걸 좋아하시나봐요?",
+          "summary": "나는 스포츠 TV를 가끔 본다.",
+          "date": "2022-10-01",
+          "time": "23:11:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "네 좋아해요! 저는 그중에서도 트로트가 참 좋더라고요 ㅎㅎ 님은요?",
+          "summary": "나는 음악 듣는 것을 좋아한다. 나는 트로트를 좋아한다.",
+          "date": "2022-10-01",
+          "time": "23:12:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "저도 트로트 좋아합니다ㅋㅋ 요새 미스터트롯 하던데 보셨어요?",
+          "summary": "나는 트로트를 좋아한다.",
+          "date": "2022-10-01",
+          "time": "23:12:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "예~ 제가 요즘 가장 자주 챙겨보는 프로그램입니다.",
+          "summary": "나는 미스터 트롯을 챙겨본다.",
+          "date": "2022-10-01",
+          "time": "23:12:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "아 남편이 과일 깎아 달라해서요~ 나중에 다시 연락드릴게요~",
+          "summary": "나의 남편은 과일을 깎아 달라고 한다.",
+          "date": "2022-10-01",
+          "time": "23:13:01",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 50대 남자이다.",
+          "나는 요즘, 매일 괴롭다. 나는 가족과 갈등 있을 때가 많다.",
+          "나는 소주를 좋아한다. 나의 가족은 술을 좋아하지 않는다.",
+          "나는 술을 끊는 것이 어렵다.",
+          "나는 TV로 음악 채널 보는 것을 좋아한다.",
+          "나는 음악 듣는 것을 좋아한다. 나는 트로트를 좋아한다.",
+          "나는 미스터 트롯을 챙겨본다."
+        ],
+        "speaker2": [
+          "나는 50대 여자이다.",
+          "나는 가족과 잘 지낸다.",
+          "나는 술 먹는 것을 좋아한다.",
+          "나는 아무 데서나 잘 잔다.",
+          "나는 잠을 자느라 내릴 정거장을 놓친 적이 있다.",
+          "나는 TV를 보며 시간을 보낸다.",
+          "나는 스포츠 TV를 가끔 본다.",
+          "나는 트로트를 좋아한다.",
+          "나의 남편은 과일을 깎아 달라고 한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00178-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "2-00178-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "남편한테 과일은 잘 챙겨드렸나요? ^^ 어떤거 챙겨드렸습니까~?",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "23:13:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "저는 단감 안먹는데 남편이 단감을 좋아해서요~ 귀찮지만 깎아주고 왔네요^^...",
+          "summary": "나는 단감을 안 먹는다.",
+          "date": "2022-10-01",
+          "time": "23:16:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "단감 맛있지 않나요 ? ㅎㅎ 저는 좋아합니다.. 오늘은 뭐하실 계획이에요?",
+          "summary": "나는 단감을 좋아한다.",
+          "date": "2022-10-01",
+          "time": "23:17:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "음 남편이랑 전시장에 가보려구요~ 차를 바꿀 예정이어서요.",
+          "summary": "나는 남편과 전시장에 갈 것이다.",
+          "date": "2022-10-01",
+          "time": "23:17:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "오~ 부럽네요 ㅎㅎ 어떤 차로 바꾸실 거에요?",
+          "summary": "나는 차를 바꾸는 것이 부럽다.",
+          "date": "2022-10-01",
+          "time": "23:17:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "요새 전기차가 좋다던데~ 고민이네요~ 님은 차 있으세요?",
+          "summary": "나는 전기차로 바꿀지 고민 중이다.",
+          "date": "2022-10-01",
+          "time": "23:19:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "네! 자차 있어요^^ 저는 지금 전기차 사용중입니다.",
+          "summary": "나는 전기차 사용 중이다.",
+          "date": "2022-10-01",
+          "time": "23:20:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "오 전기차 타보면 어떤가요? 호불호가 많이 갈리더라구요~",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "23:20:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "확실히 차가 조용해서 너무 좋아요~ 근데 충전소가 없을 땐 좀 당황스럽습니다 ㅎㅎ.",
+          "summary": "나는 전기차 사용이 만족스럽다.",
+          "date": "2022-10-01",
+          "time": "23:20:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "확실히 그건 단점이네요.. 전기차가 그렇게 조용하다던데 불편하진 않으세요?",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "23:21:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "저는 그점이 오히려 좋은거 같아요~ 아 님 사는 아파트에 전기차 충전존 있나요?",
+          "summary": "나는 전기차가 조용한 것이 장점이라 생각한다.",
+          "date": "2022-10-01",
+          "time": "23:21:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "아뇨 저희 아파트는 오래되서 충전존이 없어요.. 님네 아파트는 있나요?",
+          "summary": "나의 아파트는 오래돼서 전기 충전 공간이 없다.",
+          "date": "2022-10-01",
+          "time": "23:22:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "네 저희 아파트에는 있어요! 음.. 충전존이 없으면 이용이 불편하실텐데 괜찮으세요?",
+          "summary": "나의 아파트에는 전기차 충전존이 있다.",
+          "date": "2022-10-01",
+          "time": "23:22:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "전기차 사면 이사를 가야할 판입니다ㅋㅋ 전기차 많이 비싼가요?",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "23:22:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "비싼편이죠 ㅎㅎ 그래도 유지비는 덜드는 것 같기도 해요~",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "23:23:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "오 그건 좋으네요! 차 어디 회사꺼 구매 하셨어요? 저도 구매에 관심이 훅 생기네요.",
+          "summary": "나는 전기차 구매에 관심이 생겼다.",
+          "date": "2022-10-01",
+          "time": "23:23:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50062",
+          "participantID": "0716",
+          "utterance": "저는 @브랜드명1@ 구매했습니다~ 전기차도 장단점이 많으니깐 잘 알아보고 구매하세요!",
+          "summary": "나는 @브랜드명1@를 구매했다.",
+          "date": "2022-10-01",
+          "time": "23:24:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51721",
+          "participantID": "0643",
+          "utterance": "좋은차 사셨네요~ 저도 잘 알아보고 사야겠어요~",
+          "summary": "",
+          "date": "2022-10-01",
+          "time": "23:24:44",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 단감을 좋아한다.",
+          "나는 차를 바꾸는 것이 부럽다.",
+          "나는 전기차 사용 중이다.",
+          "나는 전기차 사용이 만족스럽다.",
+          "나는 전기차가 조용한 것이 장점이라 생각한다.",
+          "나의 아파트에는 전기차 충전존이 있다.",
+          "나는 @브랜드명1@를 구매했다."
+        ],
+        "speaker2": [
+          "나는 단감을 안 먹는다.",
+          "나는 남편과 전시장에 갈 것이다.",
+          "나는 전기차로 바꿀지 고민 중이다.",
+          "나의 아파트는 오래돼서 전기 충전 공간이 없다.",
+          "나는 전기차 구매에 관심이 생겼다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 남자이다.",
+          "나는 요즘, 매일 괴롭다. 나는 가족과 갈등 있을 때가 많다.",
+          "나는 소주를 좋아한다. 나의 가족은 술을 좋아하지 않는다.",
+          "나는 술을 끊는 것이 어렵다.",
+          "나는 TV로 음악 채널 보는 것을 좋아한다.",
+          "나는 음악 듣는 것을 좋아한다. 나는 트로트를 좋아한다.",
+          "나는 미스터 트롯을 챙겨본다."
+        ],
+        "speaker2": [
+          "나는 50대 여자이다.",
+          "나는 가족과 잘 지낸다.",
+          "나는 술 먹는 것을 좋아한다.",
+          "나는 아무 데서나 잘 잔다.",
+          "나는 잠을 자느라 내릴 정거장을 놓친 적이 있다.",
+          "나는 TV를 보며 시간을 보낸다.",
+          "나는 스포츠 TV를 가끔 본다.",
+          "나는 트로트를 좋아한다.",
+          "나의 남편은 과일을 깎아 달라고 한다."
+        ]
+      }
+    }
+  ]
+}

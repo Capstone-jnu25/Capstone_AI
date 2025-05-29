@@ -1,0 +1,782 @@
+{
+  "FileInfo": {
+    "filename": "K4-00071-CL92143-CP68026-06-18-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "21424",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "21058",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "자영업",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00071"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "92143",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나는 추운 날씨를 싫어한다.",
+        "나의 생일은 9월이다.",
+        "나는 요즘, 자주 느긋해진다.",
+        "나는 요리를 자주 한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "68026",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 팝 음악을 자주 듣는다.",
+        "나는 역사/문화 여행을 좋아한다.",
+        "나는 등산을 자주 한다.",
+        "나는 식물을 좋아한다.",
+        "나는 혈액형이 O형이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "06-18",
+    "topicType": "교육",
+    "topicTitle": "유학"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00071-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "안녕하세요 저는 40대여자에요 처음 뵐게요.",
+          "summary": "나는 40대 여성이다.",
+          "date": "2022-11-29",
+          "time": "21:47:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "저는 20대여자입니다 처음뵙겠습니다^^!",
+          "summary": "나는 20대 여성이다.",
+          "date": "2022-11-29",
+          "time": "21:47:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "제가 나이가 두배이상차이나도 양해부탁해요^^",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:47:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "아니에요~ 제가 O형이다보니 사교적이라 괜찮아요^^",
+          "summary": "나는 혈액형이 O형이다.",
+          "date": "2022-11-29",
+          "time": "21:47:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "아그럼 다행이네요^^ 혹시 관심사가 무엇인지 물어봐도 될까요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:47:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "저는 흠 뭐가있지! 저는 역사문화여행을 좋아해요!",
+          "summary": "나는 역사문화여행을 좋아한다.",
+          "date": "2022-11-29",
+          "time": "21:48:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "아그래요? 저도 여행은 좋아하는데 추운날씨를 싫어해서 잘 안가게 돼요.",
+          "summary": "나는 추운 날씨를 싫어한다.",
+          "date": "2022-11-29",
+          "time": "21:48:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "저는 추운날씨에도 등산을 자주가거든요!",
+          "summary": "나는 등산을 자주 한다.",
+          "date": "2022-11-29",
+          "time": "21:48:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "아 역시 젊으시네요 저는 날씨가 추워지면 느긋해져요.",
+          "summary": "나는 요즘 느긋해진다.",
+          "date": "2022-11-29",
+          "time": "21:48:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "하하 무슨말씀인지 알거같아요~ 느긋해진다는말.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:48:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "그쵸? 뭔가 굼벵이가 되는 기분이랄까요?ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:49:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "저는 이런날씨에는 팝음악 들으면 집중이 잘돼서 자주들어요.",
+          "summary": "나는 팝 음악을 자주 듣는다.",
+          "date": "2022-11-29",
+          "time": "21:49:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "아그래요? 제 생일9월달에 LP판으로 팝음악을 선물 받았던거같아요.",
+          "summary": "나의 생일은 9월이다.",
+          "date": "2022-11-29",
+          "time": "21:49:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "와 LP판 들으면 진짜 좋겠어요~ 저는 그럼 이제 수업다녀올게요.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:49:36",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다.",
+          "나는 추운 날씨를 싫어한다.",
+          "나는 요즘 느긋해진다.",
+          "나의 생일은 9월이다."
+        ],
+        "speaker2": [
+          "나는 20대 여성이다.",
+          "나는 혈액형이 O형이다.",
+          "나는 역사문화여행을 좋아한다.",
+          "나는 등산을 자주 한다.",
+          "나는 팝 음악을 자주 듣는다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00071-1",
+      "prevTimeInfo": {
+        "timeNum": "10",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00071-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "너무 오랜만에 연락을 드리죠? 10일만인가요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:49:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "네 맞아요^^ 잘지냈어요? 저는 새로운 소식을 드릴려구요~",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:50:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "네?? 어떤 소식을요?? 좋은 소식인가요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:50:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "아 저 유학가요! 어쩌다보니 이렇게 일이 됐거든요~",
+          "summary": "나는 유학을 간다,.",
+          "date": "2022-11-29",
+          "time": "21:50:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "아그라요? 그럼 저희 이제 연락을 못하는거에요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:50:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "빠르면 다음달정도 생각하면 되는데 빨리 가진 않을거에요!",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:50:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "그래두 아쉽긴하네요~ 원해서가는거니까요.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:51:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "하하 맞아요~ 경제적비용이 걸리긴하지만 다녀오기로했어요.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:51:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "그렇죠~ 그런데 유학은 어디로가시기로했나요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:51:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "아 이제서야 말씀해주네요! 저는 호주로 다녀옵니다^^!",
+          "summary": "나는 호주로 유학을 간다.",
+          "date": "2022-11-29",
+          "time": "21:51:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "호주요? 너무 부러운데요? 언제 돌아오시는거에요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:51:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "아마 가게되면 일년은 더 있다가 올거같아요!",
+          "summary": "나는 일년 더 있다가 한국으로 온다.",
+          "date": "2022-11-29",
+          "time": "21:51:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "그렇군요~ 그래도 가기전에는 꼭 말해줘요.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:52:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "알겠어요 나중에 연락드릴게요!",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:52:21",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [],
+        "speaker2": [
+          "나는 유학을 간다,.",
+          "나는 호주로 유학을 간다.",
+          "나는 일년 더 있다가 한국으로 온다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다.",
+          "나는 추운 날씨를 싫어한다.",
+          "나는 요즘 느긋해진다.",
+          "나의 생일은 9월이다."
+        ],
+        "speaker2": [
+          "나는 20대 여성이다.",
+          "나는 혈액형이 O형이다.",
+          "나는 역사문화여행을 좋아한다.",
+          "나는 등산을 자주 한다.",
+          "나는 팝 음악을 자주 듣는다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00071-2",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00071-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "4일이 지나고나니까 주말인데 뭐하고 있어요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:52:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "저는 유학가기전에 역사문화여행을 다녀와보려구요.",
+          "summary": "나는 역사/문화 여행을 가끔 간다.",
+          "date": "2022-11-29",
+          "time": "21:52:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "와 그것도 너무 좋겠는걸요? 어디로 가시랴구요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:53:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "일단은 지금 전주를 생각중이에요 전주는 다녀오셨어요?",
+          "summary": "나는 전주를 생각 중이다.",
+          "date": "2022-11-29",
+          "time": "21:53:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "당연하죠~ 전통이 살아있는 도시잖아요^^",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:53:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "오 맞아요~ 전주에는 언제가보셨어요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:53:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "저번에 남편휴가때 다녀왔거든요! 저같이 느긋한사람들이 살기좋은 도시인거같아요.",
+          "summary": "나는 자주 느긋해진다.",
+          "date": "2022-11-29",
+          "time": "21:53:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "하하 맞아요~ 그래서 전주가 양반의 도시라고 하잖아요~",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:54:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "그래서 그런거군요^^ 그럼 계획은 어느정도 짰어요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:54:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "제가 즉흥이라~ 그냥 계획없이 다녀오는걸 좋아해요^^",
+          "summary": "나는 즉흥 파이다.",
+          "date": "2022-11-29",
+          "time": "21:54:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "그렇군요! 저는 계획형이라~ 제가 다 계획을 짠답니다^^",
+          "summary": "나는 계획형이다.",
+          "date": "2022-11-29",
+          "time": "21:54:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "하하 그래요??? 저는 어차피 혼자 다녀올거라 괜찮아요.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:54:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "근데 대단하신거같아요~ 그럼 저는 집안일하러갑니다.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:54:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "네 알겠어요 그럼 나중에 또 연락줘요.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:55:06",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 자주 느긋해진다.",
+          "나는 계획형이다."
+        ],
+        "speaker2": [
+          "나는 역사/문화 여행을 가끔 간다.",
+          "나는 전주를 생각 중이다.",
+          "나는 즉흥 파이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다.",
+          "나는 추운 날씨를 싫어한다.",
+          "나는 요즘 느긋해진다.",
+          "나의 생일은 9월이다."
+        ],
+        "speaker2": [
+          "나는 20대 여성이다.",
+          "나는 혈액형이 O형이다.",
+          "나는 역사문화여행을 좋아한다.",
+          "나는 등산을 자주 한다.",
+          "나는 팝 음악을 자주 듣는다.",
+          "나는 유학을 간다,.",
+          "나는 호주로 유학을 간다.",
+          "나는 일년 더 있다가 한국으로 온다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00071-3",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "주"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00071-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "일주일만에 연락하죠??? 여행은 다녀오셨아요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:55:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "네^^ 기차타고 일박으로 다녀왔답니다.",
+          "summary": "나는 기차타고 여행을 다녀왔다.",
+          "date": "2022-11-29",
+          "time": "21:55:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "그렇군요 저는 날씨가 더더욱 추워져서 집밖에 나가가기 싫거든요.",
+          "summary": "나는 날씨가 추워져서 집밖에 나가기 싫다.",
+          "date": "2022-11-29",
+          "time": "21:55:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "아 하하 저는 유학가기전에 많이 해놔야해서 시간이 없어요.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:56:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "그렇군요~ 이젠 또 앞으로 뭐할계획이에요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:56:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "아 제가 등산을 자주하다보니~ 제주도에 한라산을 등반해볼까해요.",
+          "summary": "나는 등산을 자주 한다.",
+          "date": "2022-11-29",
+          "time": "21:56:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "이 겨울에요?? 너무 위험할거같은데요??",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:56:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "그냥 할수있는대까지만 해보려구요.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:56:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "와 진짜 젊은 분한테 많이 작아지네요.. ㅎ하하.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:56:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "아닙니다 이렇게 사람마다 가치관이 다르잖아요^^",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:57:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "하하 저번에 팝음악 좋아한다고했죠? 제가 9월달 생일에 받은 LP판 선물로 드릴게요.",
+          "summary": "나의 생일은 9월이다.",
+          "date": "2022-11-29",
+          "time": "21:57:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "아 그렇게까지요??? 아니에요 괜찮습니다^^",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:57:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "92143",
+          "participantID": "21424",
+          "utterance": "유학가시니까 가서 이렇게라도 들어요^^",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:57:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "68026",
+          "participantID": "21058",
+          "utterance": "고마워요 그럼 저는 다녀와서 연락드릴게요!",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:57:51",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 날씨가 추워져서 집밖에 나가기 싫다.",
+          "나의 생일은 9월이다."
+        ],
+        "speaker2": [
+          "나는 기차타고 여행을 다녀왔다.",
+          "나는 등산을 자주 한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다.",
+          "나는 추운 날씨를 싫어한다.",
+          "나는 요즘 느긋해진다.",
+          "나의 생일은 9월이다.",
+          "나는 자주 느긋해진다.",
+          "나는 계획형이다."
+        ],
+        "speaker2": [
+          "나는 20대 여성이다.",
+          "나는 혈액형이 O형이다.",
+          "나는 역사문화여행을 좋아한다.",
+          "나는 등산을 자주 한다.",
+          "나는 팝 음악을 자주 듣는다.",
+          "나는 유학을 간다,.",
+          "나는 호주로 유학을 간다.",
+          "나는 일년 더 있다가 한국으로 온다.",
+          "나는 역사/문화 여행을 가끔 간다.",
+          "나는 전주를 생각 중이다.",
+          "나는 즉흥 파이다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "FileInfo": {
+    "filename": "K3-00023-CL35794-CP40667-11-03-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "50161",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "4716",
+      "gender": "남성",
+      "age": "40대",
+      "occupation": "자영업",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00023"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "35794",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 멜로 영화를 가끔 본다",
+        "나는 건축학과를 전공했다",
+        "나는 저녁에 청소를 한다",
+        "나의 생일은 12월이다",
+        "나는 비 오는 날씨를 싫어한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "40667",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 반려동물 미용사이다",
+        "나는 주말에 근무하는 것을 싫어한다",
+        "나는 오렌지를 안 먹는다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "11-03",
+    "topicType": "여가와 오락>게임",
+    "topicTitle": "전통/민속놀이"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00023-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "안녕하세요 저는 30대 여성입니다",
+          "summary": "나는 30대 여성이다",
+          "date": "2022-11-27",
+          "time": "23:36:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "안녕하세요 저는 반려동물 미용사 40대 남성입니다",
+          "summary": "나는 반려동물 미용사이다\n나는 40대 남성이다",
+          "date": "2022-11-27",
+          "time": "23:55:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "전 건축학과를 전공했어요~ 멜로영화를 가끔 보는데 영화좋아하시나요?",
+          "summary": "나는 건축학과를 전공했고 가끔 멜로 영화를 본다",
+          "date": "2022-11-28",
+          "time": "01:49:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "네 요즘 장르안따지고 그동안 못본 영화와 드라마 정주행 중인데 재미있어요^^ 전 주말에 근무하는 것을 너무 싫어해요 주말 잘 보내셨나요?",
+          "summary": "나는 영화와 드라마 정주행중이다\n나는 주말근무를 싫어한다",
+          "date": "2022-11-28",
+          "time": "07:55:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "네~ 전 비오는 날씨를 싫어하는데 비가 내려서 조금 아쉽긴 했어요! 생일은 어떻게 되세요? 전 12월이에요",
+          "summary": "나는 비 오는 날씨를 싫어하는데 비가 내려서 조금 아쉽고 생일이 12월이다",
+          "date": "2022-11-28",
+          "time": "10:07:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "저는 10월이 생일입니다 오렌지를 안먹어요",
+          "summary": "내 생일은 10월이다\n나는 오렌지를 먹지 않는다",
+          "date": "2022-11-28",
+          "time": "11:24:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "오렌지를 안 좋아하시는군요! 저녁엔 뭐하세요? 전 저녁에 청소를 하려고요~",
+          "summary": "나는 저녁에 청소를 한다",
+          "date": "2022-11-28",
+          "time": "11:32:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "저는 청소는 싫어해요 이런습관은 안좋은걸 알면서도 못고치고 있어서 고민입니다",
+          "summary": "나는 청소를 싫어한다",
+          "date": "2022-11-28",
+          "time": "11:34:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "저도 청소를 좋아하진 않는데 집이 돌아서면 엉망이더라고요~",
+          "summary": "나는 청소를 좋아하진 않는다",
+          "date": "2022-11-28",
+          "time": "11:42:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "저는 사과를 좋아해요 좋아하는 음식 있으세요?",
+          "summary": "나는 사과를 좋아한다",
+          "date": "2022-11-28",
+          "time": "11:44:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "전 음식은 가리지 않고 다 잘 먹어요~ 저녁엔 청소하고나서 카레를 먹을까 생각중이에요! 좋아하시는 음식 있으신가요?",
+          "summary": "나는 음식은 다 잘 먹고 저녁에 청소하고 카레를 먹으려고 생각 중이다",
+          "date": "2022-11-28",
+          "time": "11:50:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "  저는 매운음식을 좋아합니다 ",
+          "summary": "나는 매운 음식을 좋아한다",
+          "date": "2022-11-28",
+          "time": "12:21:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "저도 예전엔 좋아했는데 요즘엔 줄이려고 노력하는 중이에요 ㅎㅎ",
+          "summary": "",
+          "date": "2022-11-28",
+          "time": "12:30:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "저 이만 약속이 있어서 가보겠습니다 좋은하루되세요 ",
+          "summary": "",
+          "date": "2022-11-28",
+          "time": "12:40:12",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다",
+          "나는 건축학과를 전공했고 가끔 멜로 영화를 본다",
+          "나는 비 오는 날씨를 싫어하는데 비가 내려서 조금 아쉽고 생일이 12월이다",
+          "나는 저녁에 청소를 한다",
+          "나는 청소를 좋아하진 않는다",
+          "나는 음식은 다 잘 먹고 저녁에 청소하고 카레를 먹으려고 생각 중이다"
+        ],
+        "speaker2": [
+          "나는 반려동물 미용사이다\n나는 40대 남성이다",
+          "나는 영화와 드라마 정주행중이다\n나는 주말근무를 싫어한다",
+          "내 생일은 10월이다\n나는 오렌지를 먹지 않는다",
+          "나는 청소를 싫어한다",
+          "나는 사과를 좋아한다",
+          "나는 매운 음식을 좋아한다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00023-1",
+      "prevTimeInfo": {
+        "timeNum": "45",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00023-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "45시간만에 연락드리네요 주말은 잘 지내셨나요?",
+          "summary": "",
+          "date": "2022-11-28",
+          "time": "12:56:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "네 아이들과 정관에 있는 박물관에 다녀왔어요",
+          "summary": "나는 아이들과 정관에 있는 박물관에 다녀왔다",
+          "date": "2022-11-28",
+          "time": "12:59:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "어떤 것을 전시하고 있었나요?",
+          "summary": "",
+          "date": "2022-11-28",
+          "time": "13:02:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "총 3층 건물인데 전시실이고 특별히 어린이 체험관 까지 있어서 좋았어요",
+          "summary": "",
+          "date": "2022-11-28",
+          "time": "13:03:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "아이들과 함께 가기엔 참 좋은 곳이었네요~ 전 주말에 전주에 다녀왔는데 한옥 숙소에서 하루 묵었어요!",
+          "summary": "나는 주말에 전주에 다녀왔는데 한옥 숙소에서 하루 묵었다",
+          "date": "2022-11-28",
+          "time": "13:06:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "저도 다녀온 적은 있는데 숙소에서 묵지는 못했네요 전통한복을 입고 동네를 다니면 기분이 좋더군요",
+          "summary": "나는 한복을 입고 동네를 다닐 때 기분이 좋았다",
+          "date": "2022-11-28",
+          "time": "13:08:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "맞아요 ㅎㅎ 요즘엔 다양한 한복을 대여해주더라고요! 그리고 숙소 마당에 널뛰기나 투호같은 민속놀이 체험도 가능하더라고요! 해 본 적 있으세요?",
+          "summary": "",
+          "date": "2022-11-28",
+          "time": "13:16:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "화살 통에 넣는 것과 애들이 고무줄 놀이를 해 본적 있습니다 ",
+          "summary": "나는 투호와 고무줄놀이를 해 본 적이 있다",
+          "date": "2022-11-28",
+          "time": "13:33:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "투호랑 고무줄 놀이 해 보셨군요! 전 이번에 처음해봤는데 신기하더라고요~ 어릴 땐 공기놀이는 해봤었어요!",
+          "summary": "나는 투호와 고무줄놀이를 이번에 처음 해봤다",
+          "date": "2022-11-28",
+          "time": "14:07:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "요즘 아이들이 스마트 폰으로만 시간을 보내잖아요 그래서 어릴적 전통 놀이를 알려주고 싶었어요 ",
+          "summary": "나는 아이들에게 전통놀이를 알려주고 싶었다",
+          "date": "2022-11-28",
+          "time": "14:22:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "그래서 이번에 박물관에 다녀오셨던 거로군요! 좋은 아버지이시네요~",
+          "summary": "",
+          "date": "2022-11-28",
+          "time": "14:23:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "요즘은 함께 놀 친구들이 다 학원에 있다보니 희망사항이지요",
+          "summary": "",
+          "date": "2022-11-28",
+          "time": "15:51:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "그렇군요ㅜ 아이들 키우기도 쉽지 않네요~",
+          "summary": "",
+          "date": "2022-11-28",
+          "time": "15:59:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "저 이제 약속이 있어서 그만 가보겠습니다",
+          "summary": "",
+          "date": "2022-11-28",
+          "time": "21:40:46",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 주말에 전주에 다녀왔는데 한옥 숙소에서 하루 묵었다",
+          "나는 투호와 고무줄놀이를 이번에 처음 해봤다"
+        ],
+        "speaker2": [
+          "나는 아이들과 정관에 있는 박물관에 다녀왔다",
+          "나는 한복을 입고 동네를 다닐 때 기분이 좋았다",
+          "나는 투호와 고무줄놀이를 해 본 적이 있다",
+          "나는 아이들에게 전통놀이를 알려주고 싶었다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다",
+          "나는 건축학과를 전공했고 가끔 멜로 영화를 본다",
+          "나는 비 오는 날씨를 싫어하는데 비가 내려서 조금 아쉽고 생일이 12월이다",
+          "나는 저녁에 청소를 한다",
+          "나는 청소를 좋아하진 않는다",
+          "나는 음식은 다 잘 먹고 저녁에 청소하고 카레를 먹으려고 생각 중이다"
+        ],
+        "speaker2": [
+          "나는 반려동물 미용사이다\n나는 40대 남성이다",
+          "나는 영화와 드라마 정주행중이다\n나는 주말근무를 싫어한다",
+          "내 생일은 10월이다\n나는 오렌지를 먹지 않는다",
+          "나는 청소를 싫어한다",
+          "나는 사과를 좋아한다",
+          "나는 매운 음식을 좋아한다"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00023-2",
+      "prevTimeInfo": {
+        "timeNum": "34",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00023-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "34시간 만에 연락드리네요~ 잘 지내셨나요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "12:41:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "네 쉬는동안 뭐하시면서 지내셨나요? 전 아이들에게 종이로 딱지를 접어서 노는 것을 알려줬어요",
+          "summary": "나는 아이들에게 딱지 접는 법을 알려주었다",
+          "date": "2022-11-29",
+          "time": "13:28:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "오 땍지치기 하셨군요! 아이들의 반응은 어땠나요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "17:05:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "엄청 재미 있게 놀아서 좋았어요. 이제 설날이 다가오네요.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "19:45:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "맞아요~ 어릴 때는 설날에 가족들끼리 윷놀이도 자주 하고 그랬었는데 그립네요",
+          "summary": "나는 어릴 때 설날에 가족과 윷놀이를 자주 했다",
+          "date": "2022-11-29",
+          "time": "19:46:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "조카랑 자식들 새뱃 돈이 또 빠져나가네요..",
+          "summary": "나는 세뱃돈 줄 것이 걱정된다",
+          "date": "2022-11-29",
+          "time": "19:48:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "어릴 땐 느끼지 못 한 어른들만의 고충이군요~ 전 아직은 주는 입장은 아니어서 몰랐네요 가족들끼리 모이면 보통 무얼하시나요?",
+          "summary": "나는 어릴 때 느끼지 못한 어른들만의 고충을 몰랐다",
+          "date": "2022-11-29",
+          "time": "21:11:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "고스톱 엄청 많이 치고요, 애들 모아서 윷놀이도 하죠",
+          "summary": "나는 설에 고스톱을 치거나 윷놀이를 한다",
+          "date": "2022-11-29",
+          "time": "21:31:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "역시 명절에 어른들은 고스톱을 많이 치는군요 ㅎㅎ 저희 집 모습과 크게 다르지 않네요~ 아이들은 한복도 입나요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:36:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "아이 한명 정도만 입고 나머지는 남자애들이라 쑥쓰러운지 그냥 안입어요",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:37:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "그렇군요 ㅎㅎ 저 어릴 때는 한복 많이 입었었는데 확실히 요즘엔 한복을 입는 집들도 줄어드는 추세네요~",
+          "summary": "나는 어릴 때는 한복을 많이 입었다",
+          "date": "2022-11-29",
+          "time": "21:46:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "그러게요 요즘은 한복을 거의 안 입더라고요",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:47:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "35794",
+          "participantID": "50161",
+          "utterance": "개량한복은 입어보신 적 있으세요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "21:59:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40667",
+          "participantID": "4716",
+          "utterance": "저 이만 약속이 있어서 가보겠습니다 좋은하루되세요 ",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "08:47:17",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 어릴 때 설날에 가족과 윷놀이를 자주 했다",
+          "나는 어릴 때 느끼지 못한 어른들만의 고충을 몰랐다",
+          "나는 어릴 때는 한복을 많이 입었다"
+        ],
+        "speaker2": [
+          "나는 아이들에게 딱지 접는 법을 알려주었다",
+          "나는 세뱃돈 줄 것이 걱정된다",
+          "나는 설에 고스톱을 치거나 윷놀이를 한다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다",
+          "나는 건축학과를 전공했고 가끔 멜로 영화를 본다",
+          "나는 비 오는 날씨를 싫어하는데 비가 내려서 조금 아쉽고 생일이 12월이다",
+          "나는 저녁에 청소를 한다",
+          "나는 청소를 좋아하진 않는다",
+          "나는 음식은 다 잘 먹고 저녁에 청소하고 카레를 먹으려고 생각 중이다",
+          "나는 주말에 전주에 다녀왔는데 한옥 숙소에서 하루 묵었다",
+          "나는 투호와 고무줄놀이를 이번에 처음 해봤다"
+        ],
+        "speaker2": [
+          "나는 반려동물 미용사이다\n나는 40대 남성이다",
+          "나는 영화와 드라마 정주행중이다\n나는 주말근무를 싫어한다",
+          "내 생일은 10월이다\n나는 오렌지를 먹지 않는다",
+          "나는 청소를 싫어한다",
+          "나는 사과를 좋아한다",
+          "나는 매운 음식을 좋아한다",
+          "나는 아이들과 정관에 있는 박물관에 다녀왔다",
+          "나는 한복을 입고 동네를 다닐 때 기분이 좋았다",
+          "나는 투호와 고무줄놀이를 해 본 적이 있다",
+          "나는 아이들에게 전통놀이를 알려주고 싶었다"
+        ]
+      }
+    }
+  ]
+}

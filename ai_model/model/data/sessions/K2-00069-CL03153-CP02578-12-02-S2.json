@@ -1,0 +1,489 @@
+{
+  "FileInfo": {
+    "filename": "K2-00069-CL03153-CP02578-12-02-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0084",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "기능직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0087",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00069"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "03153",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 가족과 사진을 많이 찍는다.",
+        "나는 된장찌개를 안 먹는다.",
+        "나는 축구를 좋아한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "02578",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 가족과 갈등 있을 때가 많다.",
+        "나는 매일 지하철로 출퇴근한다.",
+        "나는 위스키를 일주일에 두세 번 마신다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "12-02",
+    "topicType": "여가와 오락>여행",
+    "topicTitle": "여행지"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00069-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "안녕하세요 40대 남성입니다.",
+          "summary": "나는 40대 남자이다.",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "안녕하세요 30대 여자입니다.",
+          "summary": "나는 30대 여자이다.",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "이번에 가족 여행을 가려고 하는데 혹시 조언 좀 들을수 있을까요?",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "그럼 잘못 찾아오셨네요. 저는 가족과 갈등있을때가 많아요.",
+          "summary": "나는 가족과 갈등 있을 때가 많다.",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "아니 왜 그렇죠? 가족은 소중한 거잖아요.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "저는 매일 지하철로 출퇴근하거든요. 근데 매일 부모님과 싸워요.",
+          "summary": "나는 매일 지하철로 출퇴근한다.",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "그것참 힘들겠어요. 내가 갈등있었던건 된장찌개를 안 먹어서 싸운것밖에 없는데.",
+          "summary": "나는 된장찌개를 안 먹는다.",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "처음엔 사소한 것이었는데 이제는 웬수마냥 얼굴만 마주치면 싸우는것 같아요.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "그럴땐 화해 여행이라도 가보는게 어떨까요.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "화해는 커녕 여행 같이가는것도 허들이 너무 높네요.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "저는 가족들과 사진을 많이 찍어요. 왜 그런지 아세요?",
+          "summary": "나는 가족들과 사진을 많이 찍는다.",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "아뇨? 왜 그러시는데요? 가족이랑 사진찍은지도 오래됐네요.",
+          "summary": "나는 가족과 사진 찍은 지 오래되었다.",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "우리의 추억은 점차 잊혀지지만 사진은 영원히 남기 때문이에요.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "쉽게 공감하기 힘들군요. 사진은 지우면 사라져요.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "지우지 않으면 되죠. 그러면 영원히 남을수있어요.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "하아...저는 술이나 마셔야겠어요. 좀 기다려봐요.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다.",
+          "나는 된장찌개를 안 먹는다.",
+          "나는 가족들과 사진을 많이 찍는다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다.",
+          "나는 가족과 갈등 있을 때가 많다.",
+          "나는 매일 지하철로 출퇴근한다.",
+          "나는 가족과 사진 찍은 지 오래되었다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00069-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "20",
+      "numberOfTurns": "10",
+      "sessionID": "2-00069-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "1시간 지났네요, 어떤 술을 마시고있죠?",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "위스키에요. 이걸 일주일에 두세번 마시죠. 안그러면 버티기 힘들어요.",
+          "summary": "나는 위스키를 일주일에 두세 번 마신다.",
+          "date": "2022-08-06",
+          "time": "18:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "저런....술로 달래는건 몸에 좋지 않아요. 차라리 운동을 하는게 어때요?",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:44:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "운동은 잘 못하는걸요. 어떤 운동 말씀하시는건데요?",
+          "summary": "나는 운동을 잘 못한다.",
+          "date": "2022-08-06",
+          "time": "18:45:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "저는 축구를 좋아해요. 공을 차고 달리면 머리가 맑아지죠.",
+          "summary": "나는 축구를 좋아한다.",
+          "date": "2022-08-06",
+          "time": "18:45:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "으으 축구라면 질색이에요. 어릴때 충분히 했어요.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:45:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "구기운동이 다른사람과 하기 좋을거에요. 여행가서도 족구 할수있고.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:46:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "하긴 여행지에서 족구하는사람들 많이 보곤 했어요.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:46:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "술보다는 운동으로 스트레스를 해소하는게 좋을거에요.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:46:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "그렇게 말씀하시니 생각해@이름1@야겠네요.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:46:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "꼭 축구나 족구가 아니어도 좋으니 자기에게 맞는 운동 찾아보세요.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:46:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "그럴게요. 차라리 혼자 여행이나 갔다와야겠어요.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:47:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "가족들이랑은 안 가고요? 혼자요?",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:47:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "말했잔아요. 가족이랑 만나면 싸운다고. 그냥 혼자 가서 기분전환이나 할래요.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:48:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "음 술마시는거보단 그게 나을지도 모르죠. 어디로 갈 생각인가요?",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:48:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "글쎄요. 아직 정해둔게 없어요. 자연이나 보러갈까.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:48:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "날도 더운데 해안가로 가시는건 어떨까요.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:48:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "부산이나 동해안이생각나는군요. 근데 나는 사람많은건 질색이에요.",
+          "summary": "사람 많은 곳은 싫어한다.",
+          "date": "2022-08-06",
+          "time": "18:48:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03153",
+          "participantID": "0084",
+          "utterance": "그러면 남해안은 어떤가요? 의외로 볼게 많답니다.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:49:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02578",
+          "participantID": "0087",
+          "utterance": "한번 찾아보도록 할게요. 그럼 다음에 다시 애기하죠.",
+          "summary": "",
+          "date": "2022-08-06",
+          "time": "18:49:17",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 축구를 좋아한다."
+        ],
+        "speaker2": [
+          "나는 위스키를 일주일에 두세 번 마신다.",
+          "나는 운동을 잘 못한다.",
+          "사람 많은 곳은 싫어한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다.",
+          "나는 된장찌개를 안 먹는다.",
+          "나는 가족들과 사진을 많이 찍는다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다.",
+          "나는 가족과 갈등 있을 때가 많다.",
+          "나는 매일 지하철로 출퇴근한다.",
+          "나는 가족과 사진 찍은 지 오래되었다."
+        ]
+      }
+    }
+  ]
+}

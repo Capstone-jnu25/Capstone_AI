@@ -1,0 +1,821 @@
+{
+  "FileInfo": {
+    "filename": "K4-00090-CL91150-CP67108-03-09-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "31544",
+      "gender": "남성",
+      "age": "40대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "중졸"
+    },
+    "speaker2": {
+      "participantID": "30043",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00090"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "91150",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 주말에 친구를 만난다.",
+        "나는 혈액형이 A형이다.",
+        "나는 TV 뉴스를 좋아한다.",
+        "나는 딸기를 좋아한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "67108",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 아침에 빵을 먹는다.",
+        "나의 생일은 8월이다.",
+        "나는 가끔 만족스럽다.",
+        "나는 별로 좋아하는 음식이 없다.",
+        "나는 혈액형이 B형이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "03-09",
+    "topicType": "교통",
+    "topicTitle": "신호등/횡단보도"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00090-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "안녕하세요! 저는 40대 남성이예요. ㅎㅎ 반가워요~. ㅎㅎ.",
+          "summary": "나는 40대 남성이다.",
+          "date": "2022-11-21",
+          "time": "00:28:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "안녕하세요. 저는 20대 남자입니다!!! 반갑습니다!!",
+          "summary": "나는 20대 남성이다.",
+          "date": "2022-11-21",
+          "time": "00:28:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "저는 TV 뉴스를 좋아해서 보고 싶지만 꾹 참고 회사에서 일하고 있는데 당신은 뭘 하고 있었나요?",
+          "summary": "나는 TV 뉴스를 좋아한다. 나는 회사원이다.",
+          "date": "2022-11-21",
+          "time": "00:29:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "전 지금 아침 겸 점심으로 빵 먹고 있어요. 항상 식사로 빵을 먹거든요. 식사 챙기셨나요?",
+          "summary": "나는 아침에 빵을 먹는다.",
+          "date": "2022-11-21",
+          "time": "00:29:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "네. 저는 오늘 아침에 제 아내가 끓여주는 된장국에 현미밥으로 든든하게 아침을 먹었어요. ㅎㅎ.",
+          "summary": "나는 아내가 있다.",
+          "date": "2022-11-21",
+          "time": "00:30:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "좋을 것 같아요!! 저는 8월이 생일이라 미역국을 끓였는데 이게 남아서 매일 미역국을 먹어야 할 판이에요. ㅠㅠ.",
+          "summary": "나의 생일은 8월이다.",
+          "date": "2022-11-21",
+          "time": "00:30:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "얼마나 많이 끓이신건가요? ㅋㅋ 저는 주말에 친구를 만나는데 저라면 친구들에게 먹일 거예요. ㅋㅋㅋ.",
+          "summary": "나는 주말에 친구를 만난다.",
+          "date": "2022-11-21",
+          "time": "00:31:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "너무 많이 불려서 끓여버렸더니... ㅎㅎ 저는 친구들이 다 한식을 싫어해서요. B형이라 그런지 성격이 특이해서 친구도 별로 안 많아요.",
+          "summary": "나는 혈액형이 B형이다.",
+          "date": "2022-11-21",
+          "time": "00:32:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "아이고. ㅠㅠ 안타깝네요. 전 A형이지만 친구들이 많아서 한식을 좋아하는 친구들도 있어요. ㅎㅎ.",
+          "summary": "나는 혈액형이 A형이다. 나는 친구들이 많다. 나는 한식을 좋아하는 친구들이 있다.",
+          "date": "2022-11-21",
+          "time": "00:32:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "ㅎㅎ 부럽네요. 저는 그래도 삶이 가끔 만족스러워요. ㅎㅎ혹시 아이는 있으신가요?",
+          "summary": "나는 가끔 만족스럽다.",
+          "date": "2022-11-21",
+          "time": "00:33:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "네. 저는 아이 3명이 있어요. ㅎㅎ 아들 2명에 딸 1명이예요. ㅎㅎ.",
+          "summary": "나는 아들 2명과 딸 1명이 있다.",
+          "date": "2022-11-21",
+          "time": "00:34:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "아이가 많네요!! 지루할 틈 없으시겠어요. ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:35:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "맞아요. ㅎㅎ 그래서 항상 행복하죠. ㅎㅎ 직장상사가 저를 불러서 가봐야 할 것 같아요.",
+          "summary": "나는 항상 행복하다.",
+          "date": "2022-11-21",
+          "time": "00:36:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "좋아요!! 그럼 다음에 또 연락해주세요. ^^ 다음에 대화해요~",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:36:42",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 남성이다.",
+          "나는 TV 뉴스를 좋아한다. 나는 회사원이다.",
+          "나는 아내가 있다.",
+          "나는 주말에 친구를 만난다.",
+          "나는 혈액형이 A형이다. 나는 친구들이 많다. 나는 한식을 좋아하는 친구들이 있다.",
+          "나는 아들 2명과 딸 1명이 있다.",
+          "나는 항상 행복하다."
+        ],
+        "speaker2": [
+          "나는 20대 남성이다.",
+          "나는 아침에 빵을 먹는다.",
+          "나의 생일은 8월이다.",
+          "나는 혈액형이 B형이다.",
+          "나는 가끔 만족스럽다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00090-1",
+      "prevTimeInfo": {
+        "timeNum": "8",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00090-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "안녕하세요. 벌써 8시간이 지났네요. 저는 드디어 퇴근을 해서 제가 보고 싶어하던 TV 뉴스를 보고 있었어요. ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:37:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "그러시군요. 저는 지금 병원에 있어요. 일이 좀 있었거든요. ㅠㅠ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:37:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "세상에! 혹시 사고라도 났었나요? ㅠㅠ 괜찮으세요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:38:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "네, 횡단보도를 건너다가 신호위반을 한 차가 저를 살짝 쳐가지고요. 급하게 검사하러 왔어요.",
+          "summary": "나는 접촉 사고를 당했다.",
+          "date": "2022-11-21",
+          "time": "00:38:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "아이고. ㅠㅠ 많이 다친게 아니길 바래요. ㅠㅠ 정말 신호등을 무시하고 신호위반을 하는 사람들은 면허정지가 되면 좋겠네요!",
+          "summary": "나는 신호등을 무시하고 신호위반을 하는 사람들은 면허정지가 되어야 한다고 생각한다.",
+          "date": "2022-11-21",
+          "time": "00:39:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "저는 괜찮은데 교통사고는 혹시 뭔가 일이 생길 수도 있다 해서요. 차 사고 당한 적 있으신가요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:40:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "저는 다행히 지금까지 무사고예요. ㅠㅠ 오늘 사고 당하셔서 많이 놀랐나요?",
+          "summary": "나는 무사고이다.",
+          "date": "2022-11-21",
+          "time": "00:41:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "네. 저도 처음 당해보는 거라 깜짝 놀랐네요. 운전자가 지원해준다고 해서 CT도 찍어보는 중이에요.",
+          "summary": "나는 운전자가 지원해준다고 하여 CT를 찍어보았다.",
+          "date": "2022-11-21",
+          "time": "00:41:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "그렇군요. 보험사는 불렀나요? 과실 몇 대 몇 나올 것 같아요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:42:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "저는 손까지 들고 걸었던 거라 아마 100:0 나오지 않을까 싶어요. 희망 사항이지만요. ㅠㅠ.",
+          "summary": "나는 과실이 100:0이 나올 거라고 예측한다.",
+          "date": "2022-11-21",
+          "time": "00:42:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "그렇게 나오길 바래요. 경찰서가서 도로교통조사과(?)의 경찰관님에게 문의하면 정확하게 알게 되실 거예요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:43:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "한번 봐야겠어요. ㅠㅠ 정말 건널 때 조심하세요. 조금만 신경 안 써도 금방 벌어지더라고요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:43:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "맞아요. 평소에도 조심했는데 더 조심해야 겠어요. 교통사고 나면 정말 피곤해지잖아요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:44:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "네, 저는 그럼 이만 다른 검사 더 받아보러 가볼게요. 조심하세요~~!!!",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:44:43",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 신호등을 무시하고 신호위반을 하는 사람들은 면허정지가 되어야 한다고 생각한다.",
+          "나는 무사고이다."
+        ],
+        "speaker2": [
+          "나는 접촉 사고를 당했다.",
+          "나는 운전자가 지원해준다고 하여 CT를 찍어보았다.",
+          "나는 과실이 100:0이 나올 거라고 예측한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남성이다.",
+          "나는 TV 뉴스를 좋아한다. 나는 회사원이다.",
+          "나는 아내가 있다.",
+          "나는 주말에 친구를 만난다.",
+          "나는 혈액형이 A형이다. 나는 친구들이 많다. 나는 한식을 좋아하는 친구들이 있다.",
+          "나는 아들 2명과 딸 1명이 있다.",
+          "나는 항상 행복하다."
+        ],
+        "speaker2": [
+          "나는 20대 남성이다.",
+          "나는 아침에 빵을 먹는다.",
+          "나의 생일은 8월이다.",
+          "나는 혈액형이 B형이다.",
+          "나는 가끔 만족스럽다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00090-2",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00090-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "안녕하세요. 3일이 지났는데 검사 결과 나오셨나요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:45:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "네, 미세 골절 소견이 보여서 좀 쉬고 있어요. 문제 생길까봐요. ㅠㅠ.",
+          "summary": "나는 미세 골절 소견이 보였다.",
+          "date": "2022-11-21",
+          "time": "00:45:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "아이고. ㅠㅠ 그럼 지금 걸어다닐 수는 있나요? ㅠㅠ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:46:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "네, 그래도 어머니가 계속 휠체어 타래서 타고는 다녀요. ㅎㅎ 이거 되게 불편하거든요. 전 내리고 싶은데...",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:46:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "그렇군요. ㅠㅠ 당신의 사정을 듣고 이번주 주말에는 친구들과 만나서 마음 편히 놀지는 못 하겠네요. ㅠㅠ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:47:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "걱정해주셔서 감사해요. ㅎㅎ... 그래도 운전자분이 사과하러 꽃 사들고 오셔서 마음은 풀렸어요.",
+          "summary": "나를 친 운전자는 꽃을 사 가지고 왔다.",
+          "date": "2022-11-21",
+          "time": "00:47:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "오. 상대방 차주가 양심이 있는 분이 군요. ㅎㅎ 다행이예요. 당신은 지금 입원 중이신건가요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:48:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "네. 입원 중이라 조금 휴식기 갖는다 생각하고 놀고 있어요. 책도 많이 읽네요 ㅎㅎ.",
+          "summary": "나는 입원 중이다.",
+          "date": "2022-11-21",
+          "time": "00:48:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "오. 평소에 책 읽는 것을 좋아하셨나요? ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:49:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "네, 나름대로 많이 읽는 편이라 자부 가능합니다. ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:49:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "그렇군요. ㅎㅎ 저번에 당신이 아침에 빵을 먹는다고 하셨던거 같은데 입원한 요즘도 아침엔 빵을 먹나요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:50:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "아뇨, 환자식은 맛이 없어서 빵을 먹고 싶은데 환자식으로 먹는 와중이라 힘듭니다. ㅠㅠ.",
+          "summary": "나는 요새 아침을 환자식으로 먹는다.",
+          "date": "2022-11-21",
+          "time": "00:51:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "그렇군요. ㅠㅠ 속상하시겠어요. 나중에 퇴원하면 마음껏 빵을 드시길 바래요. ㅠㅠ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:51:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "네, 걱정 감사드립니다. 다음주엔 퇴원했으면 좋겠어요. ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:51:56",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [],
+        "speaker2": [
+          "나는 미세 골절 소견이 보였다.",
+          "나를 친 운전자는 꽃을 사 가지고 왔다.",
+          "나는 입원 중이다.",
+          "나는 요새 아침을 환자식으로 먹는다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남성이다.",
+          "나는 TV 뉴스를 좋아한다. 나는 회사원이다.",
+          "나는 아내가 있다.",
+          "나는 주말에 친구를 만난다.",
+          "나는 혈액형이 A형이다. 나는 친구들이 많다. 나는 한식을 좋아하는 친구들이 있다.",
+          "나는 아들 2명과 딸 1명이 있다.",
+          "나는 항상 행복하다.",
+          "나는 신호등을 무시하고 신호위반을 하는 사람들은 면허정지가 되어야 한다고 생각한다.",
+          "나는 무사고이다."
+        ],
+        "speaker2": [
+          "나는 20대 남성이다.",
+          "나는 아침에 빵을 먹는다.",
+          "나의 생일은 8월이다.",
+          "나는 혈액형이 B형이다.",
+          "나는 가끔 만족스럽다.",
+          "나는 접촉 사고를 당했다.",
+          "나는 운전자가 지원해준다고 하여 CT를 찍어보았다.",
+          "나는 과실이 100:0이 나올 거라고 예측한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00090-3",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "주"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00090-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "안녕하세요. 2주가 지났는데 이젠 퇴원하셨나요? ㅠㅠ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:52:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "네, 퇴원하고 과실 비율도 대충 나왔어요. ㅎㅎ 이제 휠체어에서도 내렸습니다. 그동안 잘 지내셨나요?",
+          "summary": "나는 이제 퇴원을 했다.",
+          "date": "2022-11-21",
+          "time": "00:52:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "네. 저는 그동안 좋아하는 TV 뉴스를 들으면서 잘 지냈어요. ㅎㅎ 주말엔 친구들도 만나면서 잘 지냈어요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:52:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "재밌었겠네요. 혹 친구분들이랑 특별히 즐기시는 취미가 따로 있으셨나요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:54:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "저는 TV 뉴스를 좋아하기 때문에 매일 가장 인상 깊었던 뉴스의 동영상이 @브랜드명1@에 있으면 친구들에게 공유해요.",
+          "summary": "나는 매일 가장 인상 깊었던 뉴스의 동영상이 @브랜드명1@에 있으면 친구들에게 공유한다.",
+          "date": "2022-11-21",
+          "time": "00:54:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "그럼 서로 토론하는 식으로 대화 나눠도 되겠어요. 지적인 취미를 갖고 계시네요. ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:55:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "토론도 가끔하죠! ㅎㅎ 이런 사건이 발생했는데 왜 이런 사건이 발생했을까라는 토론을 한 적이 있어요.",
+          "summary": "나는 토론을 한 적이 있다.",
+          "date": "2022-11-21",
+          "time": "00:56:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "저는 대학생 때 조별과제로 토론을 한 적이 있었는데 엄청 지쳤거든요. 그러면 그걸 가지고 글로 정리도 하시나요?",
+          "summary": "나는 대학교 토론 수업에서 지친 적이 있다.",
+          "date": "2022-11-21",
+          "time": "00:56:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "네. 저는 정리하는 걸 좋아해서 토론한 날에는 자기전에 어떤 토론을 했는지 정리해요. ㅎㅎ.",
+          "summary": "나는 정리하는 것을 좋아한다. 나는 토론한 날엔 자기 전에 어떤 토론을 했는지 정리한다.",
+          "date": "2022-11-21",
+          "time": "00:57:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "되게 성실하시네요. 직장에서도 금방 승진하시겠어요. 상사분이 예뻐하지 않으세요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:58:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "저를 예뻐하는 상사 분도 있지만 관심없어 하는 상사 분도 계세요. ㅎㅎ.",
+          "summary": "나는 나를 예뻐하는 상사가 있다는 것을 안다.",
+          "date": "2022-11-21",
+          "time": "00:58:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "그래도 예뻐하는 분이 계시잖아요. ㅎㅎ 분명 높은 자리 올라가실 겁니다. 목표가 있으세요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "00:59:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "저는 앞으로도 행복하게 사는게 목표예요. 아 참! 당신은 퇴원하셨으니까 이제 아침에 빵을 열심히 많이 먹었나요?",
+          "summary": "나는 앞으로 행복하게 사는 게 목표이다.",
+          "date": "2022-11-21",
+          "time": "00:59:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "네. 안 그래도 퇴원할 때 어머니가 빵을 잔뜩 사가지고 오셨어요. 그쪽도 꼭 횡단보도는 좌우 보면서 건너세요. ㅎㅎ....",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "01:00:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "91150",
+          "participantID": "31544",
+          "utterance": "그렇군요. 당신의 말을 기억해서 횡단보도 건널 때 조심할게요. ㅎㅎ 저는 이제 화장실이 급한데 가봐도 될까요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "01:01:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "67108",
+          "participantID": "30043",
+          "utterance": "네, 들어가보세요! 전 이제 퇴원한 자유를 즐기겠습니다. ㅎㅎ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "01:01:33",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 매일 가장 인상 깊었던 뉴스의 동영상이 @브랜드명1@에 있으면 친구들에게 공유한다.",
+          "나는 토론을 한 적이 있다.",
+          "나는 정리하는 것을 좋아한다. 나는 토론한 날엔 자기 전에 어떤 토론을 했는지 정리한다.",
+          "나는 나를 예뻐하는 상사가 있다는 것을 안다.",
+          "나는 앞으로 행복하게 사는 게 목표이다."
+        ],
+        "speaker2": [
+          "나는 이제 퇴원을 했다.",
+          "나는 대학교 토론 수업에서 지친 적이 있다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남성이다.",
+          "나는 TV 뉴스를 좋아한다. 나는 회사원이다.",
+          "나는 아내가 있다.",
+          "나는 주말에 친구를 만난다.",
+          "나는 혈액형이 A형이다. 나는 친구들이 많다. 나는 한식을 좋아하는 친구들이 있다.",
+          "나는 아들 2명과 딸 1명이 있다.",
+          "나는 항상 행복하다.",
+          "나는 신호등을 무시하고 신호위반을 하는 사람들은 면허정지가 되어야 한다고 생각한다.",
+          "나는 무사고이다."
+        ],
+        "speaker2": [
+          "나는 20대 남성이다.",
+          "나는 아침에 빵을 먹는다.",
+          "나의 생일은 8월이다.",
+          "나는 혈액형이 B형이다.",
+          "나는 가끔 만족스럽다.",
+          "나는 접촉 사고를 당했다.",
+          "나는 운전자가 지원해준다고 하여 CT를 찍어보았다.",
+          "나는 과실이 100:0이 나올 거라고 예측한다.",
+          "나는 미세 골절 소견이 보였다.",
+          "나를 친 운전자는 꽃을 사 가지고 왔다.",
+          "나는 입원 중이다.",
+          "나는 요새 아침을 환자식으로 먹는다."
+        ]
+      }
+    }
+  ]
+}

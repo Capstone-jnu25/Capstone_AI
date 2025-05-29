@@ -1,0 +1,1541 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-004645-AP600036-WZ000004-02_03_05-S3.json",
+        "sessionLevel": "3"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0012",
+            "gender": "여성",
+            "age": "20대",
+            "occupation": "사무직",
+            "bPlace": "대전/세종/충청/강원",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "응용통계학"
+        },
+        "speaker2": {
+            "participantID": "F0012",
+            "gender": "여성",
+            "age": "20대",
+            "occupation": "사무직",
+            "bPlace": "부산/대구/울산/경상",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "응용통계학"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "004645"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600036",
+            "personaFeatures": [
+                "나는 관광/감상의 단체에 대한 공부를 하고 있다.",
+                "나는 중국어 공부에 관심 없다",
+                "나는 연인이 없지만 신경 쓰지 않는다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000004",
+            "personaFeatures": [
+                "나는 단체에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_05",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "단체"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004645-1",
+            "sessionKeywords": [
+                "*그랜드 앰배서더 서울*,*그랜드 앰배서더 서울*의 단체"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "지금 관광/감상의 단체에 대한 공부를 하고 있던 중에 궁금한 점이 생겨서 물어보러 왔어!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 관광/감상의 단체에 대한 공부를 하고 있다.",
+                    "timestamp": 1695787394000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "네. 무엇이든 물어봐주세요. 저는 단체에 대해 잘 알고 있습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695787420000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "그랜드 앰배서더 서울에 대해서 알고싶어!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695787444000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "앰배서더 서울 풀만 호텔은 (구) 그랜드 앰배서더 서울 호텔로 1955년 금수장으로 시작하여 60여년의 역사를 가진 서울 중구 장충동에 위치한 특1급 호텔입니다.",
+                    "context": {
+                        "query": "앰배서더",
+                        "contents": [
+                            {
+                                "documentID": "1041273",
+                                "documentTitle": "그랜드 앰배서더 서울",
+                                "content": [
+                                    "앰배서더 서울 풀만 호텔은 (구) 그랜드 앰배서더 서울 호텔로 1955년 금수장으로 시작하여 60여년의 역사를 가진 서울 중구 장충동에 위치한 특1급 호텔이다.",
+                                    "2022년 1월, 2년간의 개보수 공사를 통해 새롭게 개관하였다.",
+                                    "층수는 지상 19층, 지하 2층이다.",
+                                    "객실.",
+                                    "앰배서더 서울 풀만 호텔은 269개의 객실과 49개의 레지던스로 이루어진 세련되고 현대적이며 럭셔리한 스타일의 객실을 새롭게 선보입니다.",
+                                    "레스토랑 &amp; 바.",
+                                    "앰배서더 서울 풀만 호텔은 다양한 미식가 고객님들 위해 다채로운 Gourmet 공간에서 특별한 도심 속 미식 여행을 선사합니다.",
+                                    "부대 서비스.",
+                                    "특급 호텔 최초로 웨딩을 시작했으며, 각종 연회, 회의, 세미나를 유치할 수 있는 그랜드 볼룸을 비롯, 트렌드에 맞춘 루프톱 연회장인 남산룸까지 크고 작은 연회장을 갖추고 있어 각종 연회를 진행한다.",
+                                    "또한 실외수영장, 실내수영장 및 골프연습장 등을 두루 갖춘 웰니스센터를 갖추고 있다."
+                                ]
+                            },
+                            {
+                                "documentID": "355300",
+                                "documentTitle": "카르맨 맥레이",
+                                "content": [
+                                    "카르멘 맥레이(Carmen McRae, 1922년 ~ 1994년)는 미국의 가수이다.",
+                                    "뉴욕주에서 태어났다.",
+                                    "노래와 피아노의 재능을 테디 윌슨 부인으로부터 인정받아 1944년에 베니 카터 악단의 가수로 출발하였다.",
+                                    "카운트 베이스를 거쳐 독립한 후로는 모던 재즈의 흑인가수로 명성을 떨쳤다.",
+                                    "그의 음반으로는 《리얼 앰배서더스》, 《온 스테이지》, 《샌프란시스코의 맥레이》, 《새의 노래》 등이 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "앰배서더 서울 풀만 호텔은 (구) 그랜드 앰배서더 서울 호텔로 1955년 금수장으로 시작하여 60여년의 역사를 가진 서울 중구 장충동에 위치한 특1급 호텔이다.",
+                    "timestamp": 1695787461000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "오 호텔이구나. 특1급 호텔이면 한번쯤 가봐야겠다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695787590000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "저도 이 호텔을 가보고 싶네요. 누구와 같이 가실 예정이세요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695787651000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "나는 연인이 없지만 딱히 신경쓰지않아. 아마 친구랑 갈 것 같네.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 연인이 없지만 신경 쓰지 않는다.",
+                    "timestamp": 1695787687000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "오 친구랑 가도 너무 좋죠! 요즘 호캉스도 많이 가더라고요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695787715000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "맞아. 나도 날이 덥거나 추울 때 호캉스를 즐기는 편이야.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695787733000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "오 정말 좋을 것 같아요. 날씨가 안좋을때 실내에서만 놀면 행복할 것 같네요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695787756000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "맞아. 조만간 그랜드 앱배서더 서울에 가서 친구들이랑 호캉스를 즐겨야겠어. 좋은 정보줘서 고마워",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695787779000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "별말씀을요. 다른 거 물어보고 싶은 거 있으시면 언제든지 물어봐주세요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695787796000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "그래!! 다음에도 잘 부탁해! 나는 이제 호텔에 대해서 더 알아보러 가야겠다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695787811000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "네!! 즐거운 호캉스가 되길 바랄게요! 오늘도 행복하세요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695787826000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 관광/감상의 단체에 대한 공부를 하고 있다.",
+                    "나는 연인이 없지만 신경 쓰지 않는다."
+                ],
+                "wizard": [
+                    "앰배서더 서울 풀만 호텔은 (구) 그랜드 앰배서더 서울 호텔로 1955년 금수장으로 시작하여 60여년의 역사를 가진 서울 중구 장충동에 위치한 특1급 호텔이다."
+                ],
+                "dialogSummary": "질문자는 그랜드 앰배서더 서울에 대해 물어봤고, 챗봇은 앰배서더 서울 풀만 호텔은 (구) 그랜드 앰배서더 서울 호텔로 1955년 금수장으로 시작하여 60여 년의 역사를 가진 서울 중구 장충동에 위치한 특1급 호텔이라고 대답했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "004645-1",
+            "prevTimeInfo": {
+                "timeNum": "7",
+                "timeUnit": "시간"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004645-2",
+            "sessionKeywords": [
+                "*중랑캠핑숲*,*중랑캠핑숲*의 단체"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "안녕! 호텔에 대해서 알아보다가 숲에 궁금한 점이 생겨서 다시 왔어!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695787858000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "오! 금방 저를 찾아주셨네요! 7시간동안 잘 지내셨나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695787879000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "응응 점심도 먹고 잘 보내고 있었지. 중랑캠핑숲에 대해 알고 싶은데, 혹시 알아?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695787926000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "중랑캠핑숲은 2010년 11월 20일 개원했으며 서울특별시 중랑구 망우로87길에 위치하고  있어요.",
+                    "context": {
+                        "query": "중랑캠핑숲",
+                        "contents": [
+                            {
+                                "documentID": "922993",
+                                "documentTitle": "중랑캠핑숲",
+                                "content": [
+                                    "중랑캠핑숲은 2010년 11월 20일 개원했으며 서울특별시 중랑구 망우로87길에 위치하고 있다.",
+                                    "총 면적이 179,666m²로 학생소풍 및 가족단위 피크닉을 주제로 한 체험형 공원이다.",
+                                    "건강한 숲을 주제로 한 생태공원이며 교양시설로 청소년독서실, 청소년커뮤니티센터, 생태학습존, 청소년문화전, 소규모 야외무대 설치 등 청소년 중심의 문화 공원으로 조성되었다.",
+                                    "시설안내.",
+                                    "가족 단위 오토캠핑이 가능한 가족캠프존(3만7200m²)과 청소년문화존(2만5300m²), 생태학습존(4만2000m²), 숲체험존(7만5166m²)의 4개 구역으로 구성됐다.",
+                                    "캠프존은 47면의 캠핑 사이트가 설치돼 하루 최대 200명 이상 이용 가능하다.",
+                                    "또한 캠핑장 내 주차가 가능하다.",
+                                    "가족캠핑장.",
+                                    "중랑가족캠핑장은 도시 속에서 자연을 만끽하며 캠핑을 즐길 수 있는 공간이다.",
+                                    "이곳은 가족단위 캠핑을 권장하기 위해 운영되는 공간이기 때문에 회사 등 단체의 친목 도모등을 위한 공간으로는 사용할 수 없다.",
+                                    "캠핑장은 예약이 가능하며 예약을 한 후 시설을 이용할 수 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "중랑캠핑숲은 2010년 11월 20일 개원했으며 서울특별시 중랑구 망우로87길에 위치하고 있다.",
+                    "timestamp": 1695787948000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "아~ 중랑구에 위치하고 있구나. 중랑구는 잘 안가봐서 몰라.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788025000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "아 정말요? 평소에는 다른 곳에서 주로 계시나봐요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788038000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "응 맞아. 평소에는 서초구에서 주로 지내는 편이야.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788051000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "아! 서초구도 볼 게 정말 많죠. 서초구에서는 평소에 뭐하세요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788079000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "아~ 서초구에 회사가 있어서 많이 가고있어! 빨리 주말이 와서 숲에가서 놀고싶네.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788109000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "그쵸. 직장인들은 원래 주말만 기다린다고 하더라고요. 저도 주말의 분위기를 좋아해요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788135000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "맞아. 나도 토요일 저녁의 분위기를 정말 좋아하는 편이야. 맛있는 것도 먹고 느긋하게 여유있는 날이 좋아.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788164000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "저도 그렇게 생각해요. 여유있는 삶의 정말 좋죠. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788176000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "맞아. 요즘은 워라벨 있는 삶이 최고인 것 같아. 다음에 또 궁금한 게  생기면 물어보러올게!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788243000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "네! 언제든지 저를 찾아와주세요! 이번주에도 행복한 주말이 되시길 바래요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788266000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [],
+                "wizard": [
+                    "중랑캠핑숲은 2010년 11월 20일 개원했으며 서울특별시 중랑구 망우로87길에 위치하고 있다."
+                ],
+                "dialogSummary": "질문자는 중랑캠핑숲에 대해 질문하였고, 챗봇은 중랑캠핑숲은 2010년 11월 20일 개원했으며 서울특별시 중랑구 망우로87길에 위치하고 있다고 답변하였다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광/감상의 단체에 대한 공부를 하고 있다.",
+                    "나는 연인이 없지만 신경 쓰지 않는다."
+                ],
+                "wizard": [
+                    "앰배서더 서울 풀만 호텔은 (구) 그랜드 앰배서더 서울 호텔로 1955년 금수장으로 시작하여 60여년의 역사를 가진 서울 중구 장충동에 위치한 특1급 호텔이다."
+                ]
+            }
+        },
+        {
+            "prevSessionID": "004645-2",
+            "prevTimeInfo": {
+                "timeNum": "1",
+                "timeUnit": "주"
+            },
+            "nthSession": "3",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004645-3",
+            "sessionKeywords": [
+                "*홀리데이 인*,*홀리데이 인*의 단체"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "안녕! 저번에 이어서 호텔에 대해서 궁금해서 물어보러 왔어!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788287000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "안녕하세요! 저번에 호텔에 대해서 정보를 드렸던 게 도움이 되셨나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788308000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "응 도움이 잘 되어서 이번에도 물어보러 왔지!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788326000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "도움이 되었었다니 정말 뿌듯하네요. 일주일밖에 안되었는데 저를 찾아주셔서 너무 감사해요! 이번에는 어떤 호텔이 궁금하신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788404000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "이번에는 홀리데이 인이 궁금해! 알려줄 수 있니?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788416000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "네. 당연하죠. 홀리데이 인(Holiday Inn)은 인터콘티넨털 호텔스 그룹이 운영하는 호텔 브랜드이에요.",
+                    "context": {
+                        "query": "홀리데이",
+                        "contents": [
+                            {
+                                "documentID": "967771",
+                                "documentTitle": "홀리데이 인",
+                                "content": [
+                                    "홀리데이 인(Holiday Inn)은 인터콘티넨털 호텔스 그룹이 운영하는 호텔 브랜드이다.",
+                                    "전세계에 1200개 이상의 홀리데이 인이 있다.",
+                                    "역사.",
+                                    "창업과 성장.",
+                                    "1951년 가족과 같이 자동차 여행을 간 사업가 케몬스 윌슨(Kemmons Wilson)은 비싸고 시설이 부족한 모텔들 때문에 불만이었다.",
+                                    "그는 미국 전역에 단순하고, 가족들에게 적합하고 무엇보다 표준화된 숙박 시설을 계획했다.",
+                                    "1952년 8월 그는 테네시주 멤피스에 첫 홀리데이 인을 개장했다.",
+                                    "곧 멤피스 주위에 3곳이 더 문을 열었고, 홀리데이 인은 프랜차이징 형태로 전국 고속도로 변에 문을 열기 시작했다.",
+                                    "방마다 텔레비전이 있고 건물에 식당과 수영장 딸려 있는 홀리데이 인은 1950년대에는 매우 혁명적인 곳이었다.",
+                                    "윌슨은 숙박객들이 어디서나 똑같은 경험을 하는데 특히 공을 들였다.",
+                                    "그때까지 미국에서 모텔은 불건전한 이미지였다.",
+                                    "독실한 기독교인이었던 윌슨은 모텔을 가족에게 적합한 건전한 이미지로 바꾸고 방마다 성경을 배치했다.",
+                                    "1972년 그는 잡지 타임의 표지 모델로 등장했다.",
+                                    "기사의 제목은 \"침대 30만개를 가진 남자\"였다.",
+                                    "그 해 홀리데이 인은 모든 미국의 주와 스위스에서 홍콩, 소련에 이르기까지 20개 국가에서 1,405개 호텔을 운영 중이었다.",
+                                    "위대한 간판.",
+                                    "홀리데이 인의 성공에는 '위대한 간판'이라 불리는 거대한 간판도 한 몫 했다.",
+                                    "15m에 달하는 이 간판은 고속도로변에 세워져, 눈길을 끄는 초록색, 빨간색, 노란색으로 장식되었다.",
+                                    "네온 사인과 깜빡이는 전구로 어두운 밤에도 볼 수 있었던 이 간판은 혼자서 다섯 가구가 사용하는 전력을 잡아먹었다.",
+                                    "윌슨은 '빈방 없음'이라는 간판을 달지 못하게 지시하고 끝까지 고객들에게 방을 찾아주도록 했다.",
+                                    "그는 방을 찾지 못한 여행객을 위해 30곳 넘는 호텔에 전화를 돌리기도 했다.",
+                                    "1979년 그가 은퇴하고 1980년대에 걸쳐 위대한 간판은 작고 경제적인 간판들로 교체되었다.",
+                                    "윌슨은 반대하지 않았지만 자신이 자랑스럽게 생각했던 간판이 사라지는 것을 슬퍼했다.",
+                                    "그는 2003년 사망하고 위대한 간판이 새겨진 묘비밑에 뭍혔다."
+                                ]
+                            },
+                            {
+                                "documentID": "1078343",
+                                "documentTitle": "홀리데이 인 서울",
+                                "content": [
+                                    "《홀리데이 인 서울》은 1997년에 개봉한 대한민국의 영화이다.",
+                                    "줄거리.",
+                                    "벨보이와 다리 모델, 택시 드라이버와 전화교환수...",
+                                    "그들의 사랑이 서울에서 시작된다!",
+                                    "호텔의 벨보이(김민종 분), 얼마전 실연을 당한 그는 호텔에 정기적으로 찾아오는 뇌혹적인 다리의 모델을 보게 된다.",
+                                    "그 이후로 그에게는 살아가야 할 이유가 생긴다.",
+                                    "그는 그녀의 다리를 보면 그녀의 모든 것을 예측할 수 있다.",
+                                    "그녀의 성격, 취미, 좋아하는 음식, 심지어 섹스 스타일까지.",
+                                    "가끔 그는 그녀의 아침식사를 위해 룸써비스를 한다.",
+                                    "그녀의 아침 얼굴은 신선하다.",
+                                    "가끔은 그녀의 구두를 수선하기도 하고 운이 좋으면 엘리베이터에서 그녀를 보기도 한다.",
+                                    "그녀의 직업은 다리 모델(진희경 분)이다.",
+                                    "그녀는 애인과 함께 정기적으로 호텔의 901호를 찾는다.",
+                                    "그와는 많은 이야기가 필요없다.",
+                                    "그의 따뜻한 체온은 피로한 그녀를 쉬게 해 주기 때문이다.",
+                                    "어느날, 그녀의 애인이 뺑소니 차에 치여 죽는다.",
+                                    "벨보이도 신문을 통해 그 소식을 알게 된다.",
+                                    "이제는 다리모델을 볼 수 없을 것이라고 생각할 때 그녀가 들어선다.",
+                                    "항상 그렇듯이 그녀는 알 듯 모를듯한 미소를 띄우며 901호 방을 예약하는데.",
+                                    "자신의 삶을 빨리 소비해 버리고 싶어하는 그녀는 호텔의 전화 교환수(최진실 분)다.",
+                                    "그녀에게 전화는 중요한 소통수단이다.",
+                                    "할리 데이비슨을 타는 그는 택시 드라이버(장동건 분)다.",
+                                    "불면증에 시달리는 그는 목적없이 도시의 밤을 질주한다.",
+                                    "그녀는 택시를 타면 행선지를 말하지 않는다.",
+                                    "그도 묻지 않는다.",
+                                    "그저 달릴 뿐이다.",
+                                    "한편, 최진실 자리에는 당초 김남주가 낙점되었으나 출연료 문제 때문에 무산됐다.",
+                                    "관객수.",
+                                    "※ 출처- KOBIS 영화관 입장권 통합 전산망"
+                                ]
+                            },
+                            {
+                                "documentID": "1030614",
+                                "documentTitle": "로맨틱 홀리데이",
+                                "content": [
+                                    "《로맨틱 홀리데이》()은 낸시 마이어스가 2006년에 제작, 감독한 로맨틱 코미디 영화이다.",
+                                    "캐머런 디애즈, 케이트 윈즐릿, 주드 로, 잭 블랙이 출연하였고 할리우드의 유명인사들이 카메오 출연하기도 하였다.",
+                                    "전세계적으로 2억 달러의 수익을 올리는 성공을 거두었고, 이 영화로 캐머런 디애즈는 ALMA 상 후보에, 케이트 윈즐릿은 아일랜드 영화 및 텔레비전 상 후보에 올랐다.",
+                                    "줄거리.",
+                                    "런던 데일리 텔레그래프지의 컬럼 편집자인 아이리스 심프킨스(케이트 윈즐릿 분)과 영화 예고편을 제작하는 회사를 운영하는 일벌레 어맨다 우즈(캐머런 디애즈 분)는 복잡한 개인생활에서 잠시나마 탈출하고자 연말에 집을 바꾸어 살기로 한다.",
+                                    "아이리스는 어맨다의 로스앤젤레스에 있는 멋진 저택에 만족하지만, 어맨다는 영국 셔리 지역에 있는 아이리스의 검소한 집에 조금 실망한다.",
+                                    "그러나 우연히 찾아온 아이리스의 오빠 그레이엄과 사랑에 빠지게 된 어맨다와 우연히 동네에서 길을 잃은 노인 아서 애벗(일라이 월릭 분)을 발견하고 그를 집까지 데려다 주다가 그가 유명한 영화 작가라는 것을 알고 친해지는 아이리스.",
+                                    "한편 어맨다의 집을 찾아온 어맨다 애인의 친구인 마일스 듀먼트(잭 블랙 분)와도 인사하게 된 아이리스.",
+                                    "두 여성의 연말은 점점 복잡하게 얽혀 간다."
+                                ]
+                            },
+                            {
+                                "documentID": "944159",
+                                "documentTitle": "에딘손 볼케스",
+                                "content": [
+                                    "에딘손 볼케스(, 1983년 7월 3일 ~ )은 도미니카 공화국 출신의 야구 선수이자, 전 미국 아메리칸 리그 텍사스 레인저스의 선수이다.",
+                                    "경력.",
+                                    "텍사스 레인저스.",
+                                    "2001년 10월 29일에 텍사스 레인저스와 계약을 맺는다.",
+                                    "2005년 8월 30일에 있었던 시카고 화이트삭스와의 경기에서 메이저 리그 데뷔를 한다.",
+                                    "데뷔전에서는 선발로 등판하여 4.2이닝 동안 5실점을 하여 패를 기록한다.",
+                                    "그 후 시즌에서는 6경기에 등판하여 0승 4패, 14.21의 방어율을 기록한다.",
+                                    "2006년에 시즌 2번째 등판이었던 8월 12일의 시애틀 매리너스와의 경기에서는 7이닝 동안 무실점을 기록하며 첫 승을 올리지만 그 후 5연패를 하며 시즌을 마친다.",
+                                    "2007년에는 제구난이 심각해서 마이너 리그 베이스볼에서 메커닉스를 개조하여 체인지업이 더 좋아진다.",
+                                    "마이너 리그 베이스볼에서는 14승 6패, 3.67을 기록하며 9월에 메이저 리그로 승격된다.",
+                                    "6경기에 등판하여 2승 1패, 4.50의 방어율을 기록하였으며, 시즌이 끝난 뒤에는 텍사스 레인저스 산하의 팀에 소속되어 있는 선수 중 최우수선수로 선정되었다.",
+                                    "신시내티 레즈.",
+                                    "2007년 12월 21일에 조쉬 해밀턴과의 트레이드에서 다니엘 레이 에레라와 함께 신시내티 레즈로 이적하게 된다.",
+                                    "이적한 볼케스는 애런 하랑, 브론슨 아로요의 뒤를 받치게 된다.",
+                                    "2008년에 있었던 스프링 캠프에서는 20이닝을 던지며 26개의 탈삼진을 기록하는데, 이때 내준 볼넷의 개수는 4개밖에 안됐다.",
+                                    "그 결과 선발 로테이션에 합류하여 4월과 5월에는 방어율 1점대를 기록했다.",
+                                    "7월 이후에는 월간 방어율이 4점대가 되었지만, 처음으로 메이저 리그 올스타전에 선출된다.",
+                                    "올스타전에서는 7회에 등판하여 1이닝 동안 맷 홀리데이에게 홈런을 맞는 등 2실점을 기록하지만 2개의 삼진을 잡아낸다.",
+                                    "시즌이 끝날때까지 17승, 3.21의 방어율, 206개의 탈삼진을 기록하며 에이스급의 투구를 보인다.",
+                                    "팀내에서는 다승, 방어율, 탈삼진이 1위를 기록한다.",
+                                    "2009년에는 6월 1일 이후에 등판이 없었으며, 8월 3일에 토미 존 수술을 받았다.",
+                                    "2010년 7월부터 8월정도에 복귀가 예상되었지만, 2010년 4월 20일에 경기력 향상에 효과가 있는 금지약물(performance-enhancing drug)에 대해서 양성반응이 나오며 21일부터 50경기 출장정지 처분을 받게 된다.",
+                                    "2013년 10월 31일에 FA가 된다.",
+                                    "샌디에이고 파드레스.",
+                                    "2011년 12월 17일에 있었던 맷 레이토스와의 4대1 트레이드로 야스마니 그랜달, 욘더 알론소, 브래드 박스버거와 함께 샌디에이고 파드레스로 이적하게 된다.",
+                                    "2013년에 27경기에 나와서 9승 10패, 6.01의 방어율을 기록하며 팀에서 방출되고 만다.",
+                                    "로스앤젤레스 다저스.",
+                                    "2013년 8월 30일에 샌디에이고 파드레스에서 방출당한 볼퀘즈를 로스앤젤레스 다저스가 영입한다.",
+                                    "3선발까지 강했던 다저스는 그 뒤를 받쳐줄 재목으로 볼케스에게 기대를 걸었지만 6경기에 나와서 0승 2패, 4.18의 방어율을 기록하며 기대에 미치지 못한다.",
+                                    "피츠버그 파이어리츠.",
+                                    "2013년 12월 13일에 피츠버그 파이리츠와 500만 달러에 1년계약을 맺는다.",
+                                    "2014년에는 32경기에 등판하여 13승 7패, 3.04를 기록한다.",
+                                    "시즌이 끝난 후 열린 내셔널 리그 와일트카드에서는 샌프란시스코 자이언츠를 상대로 선발등판하여 4회에 무사만루에서 브랜든 크로포드에게 만루홈런을 맞는 등 5이닝 동안 5실점을 하며 패를 기록한다.",
+                                    "오프시즌인 10월 30일에 FA가 된다.",
+                                    "캔자스시티 로열스.",
+                                    "2014년 12월 29일에 캔자스시티 로열스와 2년에 총액 2,000만 달러에 계약(2017년 1,000만 달러의 상호간의 합의에 이뤄지는 옵션 포함)을 맺는다.",
+                                    "선수로서의 특징.",
+                                    "90마일 초중반대의 포심 패스트볼과 90마일 초반의 싱커, 체인지업, 커브를 구사한다.",
+                                    "특히 체인지업은 페드로 마르티네스와 비교가 될 정도로 위력이 좋지만, 제구를 제대로 못하는 것이 문제이다."
+                                ]
+                            },
+                            {
+                                "documentID": "1034708",
+                                "documentTitle": "벨 (미녀와 야수)",
+                                "content": [
+                                    "벨(Belle)은 월트 디즈니 픽처스의 30번째 장편 애니메이션 영화 《미녀와 야수》의 등장인물이자, 다섯 번째 디즈니 프린세스이다.",
+                                    "가브리엘르수잔느 드 빌레느브의 동화 미녀와 야수에 등장하는 미녀를 모티브로 하여 창작되었다.",
+                                    "벨은 모험을 위해 예측 가능한 마을 생활을 버리고 싶어하는 여성이다.",
+                                    "그녀의 아버지 《모리스》가 냉당한 야수에 의해 감옥에 갇히자, 그 대가로 야수에게 자신의 자유를 제공한다.",
+                                    "야수와 함께 생활하며, 벨은 결국 그의 보기 흉한 외모에도 불구하고 야수를 사랑하는 법을 배운다.",
+                                    "주먹왕 랄프2에서 공주들의 대기실에서 다른 디즈니 공주(픽사 공주도 들어가지만)과 대기하는 모습을 보였다.",
+                                    "개발.",
+                                    "구상과 집필.",
+                                    "《월트 디즈니 프로덕션》의 첫 번째 장편 애니메이션 영화 《 백설공주와 일곱 난쟁이(1937) 》의 성공 이후, 영화 제작자 월트 디즈니는 《잔 마리 르프린스 드 봉모》의 동화 \"《미녀와 야수》\"를 장편 애니메이션으로 제작했다.",
+                                    "목소리.",
+                                    "디즈니는 처음에 여배우 캐스팅을 고려했었다.",
+                                    "디즈니는 캐릭터를 시대를 앞서간 여성으로 묘사하며 벨의 목소리가 '소녀보다는 여성처럼' 들리기를 원했다.",
+                                    "미국 여배우이자 가수인 《페이지 오하라》가 브로드웨이에서 공연을 하고 있을 때 뉴욕 타임즈에서 디즈니의 곧 있을 애니메이션 프로젝트인 미녀와 야수에 대한 기사를 읽었다.",
+                                    "스튜디오가 Belle의 주연을 위한 오디션을 개최하고 있고 작사가 Howard Ashman과 작곡가 Alan Menken의 요청에 따라 브로드웨이 공연자들을 특별히 모집 하고 있다는 사실을 알게 되자 , O'Hara는 즉시 그녀의 에이전트에게 그녀를 데려오라고 주장했다.",
+                                    "그리고 미국의 여배우이자 가수인 《페이지 오하라》가 성우를 맡게 되었다.",
+                                    "성격.",
+                                    "미녀와 야수 이전에 여성 캐릭터를 수동적인 존재로 묘사하는 디즈니의 전통은 이미 오래전부터 확립되어 있었다.",
+                                    "그러나 시나리오 작가 《린다 울버튼》은 1960년대와 1970년대에 자신이 경험한 여성 인권 운동에서 영감을 받아 벨을 주체적인 여성 캐릭터로 만들기로 결정했다.",
+                                    "벨은 지적이고 독서를 사랑하는 호기심 많은 여성으로 그려진다.",
+                                    "그리고 그녀는 다른 디즈니 공주들과는 달리 배우자에게 첫눈에 반하는 것이 아니라, 야수와 함께 생활하며 그의 외모보다는 성격과 따뜻한 성품에 반하게 된다.",
+                                    "디자인 및 애니메이션.",
+                                    "디즈니는 벨이 더 유럽적인 외모를 가지기를 원했기 때문에, 애니메이터들은 그녀를 더 통통한 입술, 좁은 눈, 더 어두은 눈썹으로 그렸다.",
+                                    "이는 영국의 여배우 《비비안 리》의 얼굴 특징에서 영감을 받았다.",
+                                    "벨의 노란색 드레스는 《오드리 햅번》이 영화 《로만 홀리데이》(1953)에서 입었던 유사한 의상에서 영감을 받았다.",
+                                    "또한, 벨은 개암나무 눈을 가진 디즈니 최초이자 유일한 공주로 남아있다.",
+                                    "출연 작품.",
+                                    "미녀와 야수 (1991년 애니메이션).",
+                                    "벨은 월트 디즈니 픽처스의 30번째 장편 애니메이션 영화《미녀와 야수》에 첫 등장했다.",
+                                    "마을 사람들은 그녀의 아름다움에 대해 입이 마르게 칭찬하지만, 책벌레에 사교적이지 않은 그녀를 괴짜 취급한다.",
+                                    "그녀는 자신의 지성을 인정해주지 않는 환경과 오만한 사냥꾼 개스톤, 그리고 지루한 시골 생활에 지친 상태였다.",
+                                    "어느날 아버지의 말이 기수 없이 집으로 돌아온 후, 그녀는 아버지를 찾아 기꺼이 숲속으로 모험을 떠난다.",
+                                    "그리고 아버지가 마법의 성 감옥에서 야수에게 잡혀있다는 사실을 알게되고, 아버지 대신 야수와 함께 성에서 생활하게 된다.",
+                                    "호기심 많은 벨은 몰래 성을 돌아다니다가 마법에 걸린 장미를 보게되고, 야수는 이에 불같이 화를 낸다.",
+                                    "결국 벨은 이에 더 이상 못참겠다며 도망치고, 얼마가지 않아 숲속에서 늑대 무리에게쫓겨 위험에 빠진다.",
+                                    "벨을 쫓아오던 야수는 늑대무리를 물리치지만 부상을 입고, 벨은 부상당한 야수가 건강을 회복할 수 있도록 도와준다.",
+                                    "벨은 처음에는 험악한 인상의 야수를 싫어하지만, 점차 야수를 받아들이고 결국 그와 친구가 된다.",
+                                    "There's something sweet, and almost kind But he was mean and he was coarse and unrefined And now he's dear, and so unsure I wonder why I didn't see it there before (그 뭐랄까, 참 다정하고 대체로 상냥해 그러나 그는 치사했고 야비했고 거칠었는데 이제 그는 소중한고로 불안정해 왜 전엔 이런 모습을 몰랐을까)",
+                                    "New, and a bit alarming Who'd have ever thought that this could be?",
+                                    "True, that he's no Prince Charming But there's something in him that I simply didn't see (새롭고, 좀 놀라워 이런 일이 생길 수 있으리라고 누가 상상했을까?",
+                                    "그래, 멋진 왕자님은 아니야 하지만 그에게는 내가 보지 못했던 무언가가 있어) 미녀와 야수 : 마법의 크리스마스 (1997).",
+                                    "홈비디오용 속편이며 비하인드 스토리를 다루고 있는 내용이다.",
+                                    "작중 시점은 왕자가 원래 모습을 되찾고 성대한 성탄절 축제를 열기 직전, 미세스 포트의 과거 회상으로 이야기가 시작되게 된다.",
+                                    "왕자와 그의 신하들이 어떻게 해서 모습이 바뀌었는지에 대한 구체적인 내막이 나오며, 왕자가 아직 야수였던 시절 성탄절이 다가오는 시점에 겪었던 일들을 미세스 포트의 회상으로 언급되게 된다.",
+                                    "악단장이 벨을 음해하려 했다는것을 눈치챈 야수(왕자)는 악단장을 처치하여 다시 평화를 되찾게 된다는 내용이며, 미세스 포트의 과거 회상을 취하고 있는 극중극 형식이다.",
+                                    "마지막에는 과거 회상이 끝나고 다시 현실 시점으로 되돌아와 왕자가 주변사람들을 위해 성대한 성탄절 파티를 개최함과 동시에, 칩(미세스 포트의 아들)에게는 이야기책을, 벨에게는 장미를 선물로 주면서 행복하게 끝난다.",
+                                    "미녀와 야수 (2017).",
+                                    "2017년 개봉한 미녀와 야수는 A급 여배우가 주연을 맡은 최초의 디즈니 리메이크 작품이다.",
+                                    "페미니스트이자 영화 해리포터로 유명해진 배우 엠마왓슨은 주체적이고 능동적인 벨의 성격을 반영하여 실사 영화에서 몇 가지 변경 사항을 제안했다.",
+                                    "의상 디자인 부분에서, 왓슨은 전통적인 공주드레스와 황금색 가운에 코르셋을 사용하는 것을 거부했다.",
+                                    "그 이유는 그런 의상이 그녀의 이동성을 제한했기 때문이다.",
+                                    "그리고 마을 장면에서도 벨에게 더 강인한 이미지를 주고자, 발레슈즈 대신 부츠를 요청했다.",
+                                    "그리고 왓슨의 영향으로 영화 속 벨을 단순히 책벌레가 아닌, 그녀의 아버지와 같은 발명가로 그려졌다.",
+                                    "그녀는 벨 역할을 맡아 2017년 MTV 무비 어워드에서 최우수 연기상을 수상했으며 엠파이어 어워드 여우주연상, 니켈로디언 키즈 초이스 어워드 \"가장 좋아하는 영화 배우\" 및 새턴 어워드 여우주연상 후보에 올랐다.",
+                                    "노래.",
+                                    "주제곡인 'Beauty and the Beast'는 제 64회 아카데미 시상식 음악상, 주제가상 수상작이다.",
+                                    "서로 맞지 않던 두 사람이 서로로 인해 변화해가며 사랑에 빠진다는 가사로, 사랑의 빠진 벨과 야수가 자신들만의 무도회에서 절정에 이른 순간에 나오는 곡이다.",
+                                    "그리고 이 장면은 90년대의 모든 디즈니 영화들 중에서도 명장면으로 꼽힌다."
+                                ]
+                            },
+                            {
+                                "documentID": "197677",
+                                "documentTitle": "크로켓",
+                                "content": [
+                                    "크로켓()은 다진 고기나 채소를 짓이긴 감자로 싼 뒤, 원통이나 원반 모양으로 만든 후 튀긴 음식의 한 종류이다.",
+                                    "크로켓이란 단어는 프랑스어 \"크로케트()\"에서 빌려온 말이며, 어원은 \"입으로 물다\"라는 뜻의 동사 \"croquer\"이다.",
+                                    "크로켓은 오늘날 세계 각지의 사람이 즐겨먹는 음식이 되었다.",
+                                    "사람들은 별미로 먹기도 하지만 대량 생산되는 즉석 식품(패스트 푸드) 형태로 먹기도 한다.",
+                                    "바깥쪽에는 짓이긴 감자 대신 말랑말랑한 빵이 쓰이기도 한다.",
+                                    "각국의 크로켓.",
+                                    "네덜란드.",
+                                    "네덜란드에서는 1800년대 이전만 해도 속에 고기나 채소를 넣어 만드는 프랑스식 별미로 간주하여 왔었다.",
+                                    "1800년대 들어서, 약한 불로 끓인(stewed) 고기 중 먹다 남은 것으로 크로켓을 만들기 시작하였다.",
+                                    "제2차 세계 대전 이후, 여러 식품 제조 업체가 속에 고기를 넣은 대량 생산용 크로켓을 제조·판매하기 시작하였다.",
+                                    "크로켓은 이내 패스트 푸드만큼 꽤 인기를 얻었다.",
+                                    "하지만 싸구려 음식에다가 속에 뭘 넣는지 의심을 사기 시작하면서, 크로켓 속에는 고기 찌꺼기와 도축 부산물이 들어간다는, 크로켓에 관한 네덜란드식 도시 전설이 생겨나기도 하였다.",
+                                    "라구식의 속 말고도, 패스트 푸드 식당에서는 삶은 계란, 국수, 쌀 등을 크로켓의 속으로 채워넣는다.",
+                                    "멕시코.",
+                                    "멕시코의 크로켓은 보통 참치나 감자로 만든다.",
+                                    "미국.",
+                                    "미국 플로리다주 탬파에서는, 크로켓을 양념한 게살과 딱딱한 쿠바식 빵으로 감싸 만든다.",
+                                    "이 고장에서는, 이 크로켓을 데블드 크랩(deviled crab, \"croqueta de jaiba\")이라고 부른다.",
+                                    "전통적인 뉴잉글랜드식 크로켓을 먹기도 하는데, 메이플-큐어드(maple-cured)식의 레프트오버 홀리데이 햄을 쓴다.",
+                                    "방글라데시.",
+                                    "방글라데시의 경우 알루-키키라는 음식과 마찬가지로, 알루-찹은 감자가 속에 들어간 크로켓이다.",
+                                    "주로 스낵으로서 방글라데시 전역에서 사람들이 즐겨 먹는다.",
+                                    "알루-찹의 한가운데에는 쇠고기가 조금 들어가고, 그 주위는 감자로 채워져 있다.",
+                                    "벨기에.",
+                                    "하르날크로켓이 유명하다.",
+                                    "브라질.",
+                                    "브라질에서는 주로 쇠고기를 가지고 크로켓을 만든다.",
+                                    "일부 브라질 고장에서는 독일식 요리로서 판매된다.",
+                                    "스페인.",
+                                    "스페인에서 크로켓은 크게 두 가지로 나눌 수 있는데, 첫째는 타파스이고, 두 번째는 베차멜이다.",
+                                    "닭고기로 속을 채운 것은 전형적인 타파스 요리이고, 속을 채우지 않은 베차멜은 스페인 일부 지방에서 먹는다.",
+                                    "인도.",
+                                    "인도에서는 감자로 속을 채운 크로켓을 알루-틱키라고 한다.",
+                                    "인도 북부에서 인도 사람들이 즐겨 먹는 음식이다.",
+                                    "인도 사람들은 크로켓을 스튜(stew)와 함께 곁들여 먹는다.",
+                                    "집에서 간식 삼아 먹기도 하는데, 길거리 주변에서 많이 판다.",
+                                    "알루-틱키는 때때로 커틀릿(cutlet)이라고도 한다.",
+                                    "즉석 식품인 야채 버거의 빵 부분을 크로켓으로 만들어 먹는다.",
+                                    "헝가리.",
+                                    "헝가리에서 \"Krokett\"은 체코식 크로켓과 비슷하며, 작은 원통 모양을 갖는다.",
+                                    "감자, 달걀, 밀가루, 버터, 소금으로 만들며 기름에 바삭하게 튀겨낸다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "홀리데이 인(Holiday Inn)은 인터콘티넨털 호텔스 그룹이 운영하는 호텔 브랜드이다.",
+                    "timestamp": 1695788434000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "오! 그룹에서 운영하는 호텔 브랜드였구나. 신기하다. 처음알게 된 사실이야.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788485000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "맞아요. 요즘 호텔 브랜드도 많은데, 그 중에 하나예요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788510000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "다음에 여기도 한번 가봐야겠어! 세상엔 가고싶은 곳이 참 많은 것 같아. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788539000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "맞아요! 놀거리들이 시간이 지남에 따라 형태가 변화하고, 더 다양해지는 것 같네요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788564000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "맞아. 신기하게 새로운 놀거리들이 계속 생기는 것 같아. 유행에 따라가기 힘들어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788581000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "맞아요. 요즘 유행하는 것들이  정말 많이 생겨나죠. 예를 들면 탕후루가 생각나네요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788619000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600036",
+                    "participantID": "E0012",
+                    "utterance": "맞아, 요즘 탕후루 유행하더라고. 탕후루 이야기하니깐 갑자기 사먹고 싶어졌어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788641000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000004",
+                    "participantID": "F0012",
+                    "utterance": "네! 탕후루 맛있게 드시고, 다음에 궁금한 점이 생기시면 또 찾아주세요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695788658000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [],
+                "wizard": [
+                    "홀리데이 인(Holiday Inn)은 인터콘티넨털 호텔스 그룹이 운영하는 호텔 브랜드이다."
+                ],
+                "dialogSummary": "질문자는 홀리데이 인에 대해 질문하였고, 챗봇은 홀리데이 인(Holiday Inn)은 인터콘티넨털 호텔스 그룹이 운영하는 호텔 브랜드이다.라고 답변하였다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광/감상의 단체에 대한 공부를 하고 있다.",
+                    "나는 연인이 없지만 신경 쓰지 않는다."
+                ],
+                "wizard": [
+                    "앰배서더 서울 풀만 호텔은 (구) 그랜드 앰배서더 서울 호텔로 1955년 금수장으로 시작하여 60여년의 역사를 가진 서울 중구 장충동에 위치한 특1급 호텔이다.",
+                    "중랑캠핑숲은 2010년 11월 20일 개원했으며 서울특별시 중랑구 망우로87길에 위치하고 있다."
+                ]
+            }
+        }
+    ]
+}

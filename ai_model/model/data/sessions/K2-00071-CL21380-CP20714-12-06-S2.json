@@ -1,0 +1,413 @@
+{
+  "FileInfo": {
+    "filename": "K2-00071-CL21380-CP20714-12-06-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0375",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0012",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00071"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "21380",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 여자 형제는 학생이다.",
+        "나는 중학교 국어 교사이다.",
+        "나는 배를 좋아한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "20714",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 매우 부정적이다.",
+        "나는 국악인이다.",
+        "나는 비 오는 날씨를 싫어한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "12-06",
+    "topicType": "여가와 오락>여행",
+    "topicTitle": "이동수단"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00071-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21380",
+          "participantID": "0375",
+          "utterance": "안녕하세요 저는 20대 여자입니다.",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-09-17",
+          "time": "14:28:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20714",
+          "participantID": "0012",
+          "utterance": "만나서 반가워요 저는 20대 남자입니다.^^",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-09-17",
+          "time": "19:52:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21380",
+          "participantID": "0375",
+          "utterance": "선생님 직업이 어떻게 되세요??",
+          "summary": "",
+          "date": "2022-09-17",
+          "time": "21:20:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20714",
+          "participantID": "0012",
+          "utterance": "저는 국악인 이에요 선생님은요?",
+          "summary": "나는 국악인이다.",
+          "date": "2022-09-17",
+          "time": "21:21:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21380",
+          "participantID": "0375",
+          "utterance": "저는 중학교 국어 교사에요~",
+          "summary": "나는 중학교 국어 교사이다.",
+          "date": "2022-09-17",
+          "time": "21:21:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20714",
+          "participantID": "0012",
+          "utterance": "아 그렇군요 선생님은 긍정적이세요 부정적이세요?",
+          "summary": "",
+          "date": "2022-09-17",
+          "time": "21:21:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21380",
+          "participantID": "0375",
+          "utterance": "저는 긍정적이에요~ 선생님은요?",
+          "summary": "나는 긍정적이다.",
+          "date": "2022-09-17",
+          "time": "21:23:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20714",
+          "participantID": "0012",
+          "utterance": "저는 부정적인 편이라 걱정이에요..",
+          "summary": "나는 매우 부정적이다.",
+          "date": "2022-09-17",
+          "time": "21:23:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21380",
+          "participantID": "0375",
+          "utterance": "부정적으로 생각하심 선생님만 피곤해요 제가 웃긴거 알려드릴까요?",
+          "summary": "",
+          "date": "2022-09-17",
+          "time": "21:23:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20714",
+          "participantID": "0012",
+          "utterance": "네 긍정적으로 생각 할 수 있도록 노력해야죠 웃긴게 뭔데요?",
+          "summary": "",
+          "date": "2022-09-17",
+          "time": "21:25:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21380",
+          "participantID": "0375",
+          "utterance": "제가 선생님인데 제 여자 동생이 저희학교 학생이에요^^",
+          "summary": "나의 여자 형제는 학생이다.",
+          "date": "2022-09-17",
+          "time": "21:26:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20714",
+          "participantID": "0012",
+          "utterance": "아 웃기네요 하하하 내일 여행가려고 계획 다 세워놨는데 비가 온다고해서 큰일이에요.",
+          "summary": "",
+          "date": "2022-09-17",
+          "time": "21:27:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21380",
+          "participantID": "0375",
+          "utterance": "어이쿠 저 수업 들어갔다 올께요~ 선생님.",
+          "summary": "나는 수업을 하러 간다.",
+          "date": "2022-09-17",
+          "time": "21:27:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20714",
+          "participantID": "0012",
+          "utterance": "아 네네 다녀오세요 화이팅!!!!!!",
+          "summary": "",
+          "date": "2022-09-17",
+          "time": "21:28:09",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 중학교 국어 교사이다.",
+          "나는 긍정적이다.",
+          "나의 여자 형제는 학생이다.",
+          "나는 수업을 하러 간다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 국악인이다.",
+          "나는 매우 부정적이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00071-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00071-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21380",
+          "participantID": "0375",
+          "utterance": "한시간 수업하고 오면 목이 너무 건조해요 비와서 여행은 어떻게해요? 비온대로 낭만도 있긴한데.",
+          "summary": "",
+          "date": "2022-09-17",
+          "time": "21:28:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20714",
+          "participantID": "0012",
+          "utterance": "비오는 날씨를 싫어해서 낭만이고 뭐고 없어요ㅎㅎ.",
+          "summary": "나는 비 오는 날씨를 싫어한다.",
+          "date": "2022-09-17",
+          "time": "21:29:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21380",
+          "participantID": "0375",
+          "utterance": "야외에요 숙소가?? 그런거 아님 갈만하지 않나요?",
+          "summary": "",
+          "date": "2022-09-17",
+          "time": "21:29:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20714",
+          "participantID": "0012",
+          "utterance": "야외는 아닌데 비오면 습한것도 싫고 캠핑도 하고 하려면 비가 안와야해요..",
+          "summary": "",
+          "date": "2022-09-17",
+          "time": "21:30:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21380",
+          "participantID": "0375",
+          "utterance": "아 그렇군요 좋아하는 과일 있으세요??",
+          "summary": "",
+          "date": "2022-09-17",
+          "time": "21:30:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20714",
+          "participantID": "0012",
+          "utterance": "저는 복숭아를 제일 좋아해요 선생님은요?",
+          "summary": "나는 복숭아를 좋아한다.",
+          "date": "2022-09-17",
+          "time": "21:31:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21380",
+          "participantID": "0375",
+          "utterance": "저는 배를 제일 좋아해요 달고 시원하고 아삭하고 ㅎㅎ.",
+          "summary": "나는 배를 좋아한다.",
+          "date": "2022-09-17",
+          "time": "21:32:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20714",
+          "participantID": "0012",
+          "utterance": "저는 이상하게 배를 싫어하지는 않는데 손이 많이 가진 않더라구요.",
+          "summary": "나는 배를 싫어하지는 않지만 잘 먹지 않는다.",
+          "date": "2022-09-17",
+          "time": "21:32:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21380",
+          "participantID": "0375",
+          "utterance": "그나저나 여행은 어디로가요?",
+          "summary": "",
+          "date": "2022-09-17",
+          "time": "21:33:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20714",
+          "participantID": "0012",
+          "utterance": "전북 진안 아세요? 끄족으로 놀러가요~~",
+          "summary": "나는 진안으로 놀러 간다.",
+          "date": "2022-09-17",
+          "time": "21:33:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21380",
+          "participantID": "0375",
+          "utterance": "아 거기에 어디 갈만한곳 있어요?",
+          "summary": "",
+          "date": "2022-09-17",
+          "time": "21:33:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20714",
+          "participantID": "0012",
+          "utterance": "네 진안쪽에 많아요^^ 선생님은 어디 안놀러가세요?",
+          "summary": "",
+          "date": "2022-09-17",
+          "time": "21:34:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21380",
+          "participantID": "0375",
+          "utterance": "네 요즘 바빠서요 저는 3교시 준비하러 가야겠어요.",
+          "summary": "나는 수업 준비를 하러 간다.",
+          "date": "2022-09-17",
+          "time": "21:34:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20714",
+          "participantID": "0012",
+          "utterance": "네 선생님 남은시간도 화이팅 하세요!!",
+          "summary": "",
+          "date": "2022-09-17",
+          "time": "21:34:24",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 배를 좋아한다.",
+          "나는 수업 준비를 하러 간다."
+        ],
+        "speaker2": [
+          "나는 비 오는 날씨를 싫어한다.",
+          "나는 복숭아를 좋아한다.",
+          "나는 배를 싫어하지는 않지만 잘 먹지 않는다.",
+          "나는 진안으로 놀러 간다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 중학교 국어 교사이다.",
+          "나는 긍정적이다.",
+          "나의 여자 형제는 학생이다.",
+          "나는 수업을 하러 간다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 국악인이다.",
+          "나는 매우 부정적이다."
+        ]
+      }
+    }
+  ]
+}

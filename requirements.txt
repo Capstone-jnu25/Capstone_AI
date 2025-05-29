@@ -1,0 +1,22 @@
+pillow
+tqdm
+matplotlib
+scikit-learn
+faiss-cpu
+selenium
+webdriver-manager
+pathvalidate
+requests
+beautifulsoup4
+konlpy
+joblib
+fastapi
+pydantic
+uvicorn
+python-multipart
+jinja2
+httpx
+transformers
+aiofiles
+pytest
+--no-deps git+https://github.com/openai/CLIP.git                                                                        ftfy regex tqdm 

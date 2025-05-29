@@ -1,0 +1,683 @@
+{
+  "FileInfo": {
+    "filename": "K3-00069-CL30182-CP22423-08-08-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0717",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0675",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "기타",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00069"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "30182",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 헤드헌터이다.",
+        "나는 사진을 찍는 것을 싫어한다.",
+        "나는 갈비를 안 먹는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22423",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 요즘, 항상 자신감이 생긴다.",
+        "나는 반려동물 미용사이다.",
+        "나는 헬스를 자주 한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "08-08",
+    "topicType": "개인 및 관계>연애/결혼",
+    "topicTitle": "이상형"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00069-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "반갑습니다ㅎㅎ30대 남자입니다.",
+          "summary": "나는 30대 남자이다.",
+          "date": "2022-10-11",
+          "time": "09:54:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "안녕하세요 ㅎㅎ 20대 여자입니다~",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-10-11",
+          "time": "09:54:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "20대시군요! 하시는일은 어떻게 되세요? 저는 헤드헌터입니다.",
+          "summary": "나는 헤드헌터이다.",
+          "date": "2022-10-11",
+          "time": "09:55:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "헤드헌터시군요..! 저는 반려동물 미용사입니다 ㅎㅎ.",
+          "summary": "나는 반려동물 미용사이다.",
+          "date": "2022-10-11",
+          "time": "09:55:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "ㅎㅎ멋진일 하시네요. 일 외적으로도 평소에 동물 좋아하시나요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "09:56:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "넵 좋아합니다 ㅎㅎ 너무 큰 짐승들만 아니면 좋아해요!",
+          "summary": "나는 큰 짐승을 제외한 동물을 좋아한다.",
+          "date": "2022-10-11",
+          "time": "09:56:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "ㅋㅋㅋ코끼리같은 말씀하시는걸까요!ㅋㅋㅋ반려동물 키우기도 하셔요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "09:56:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "넵 맞아요 ㅋㅋㅋㅋ 코끼리나 곰같은...ㅠㅠ 반려동물은 강쥐 한마리 따로 키우고 있습니다!",
+          "summary": "나는 강아지 한 마리를 키운다.",
+          "date": "2022-10-11",
+          "time": "09:57:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "ㅋㅋㅋ저도 너무 크면 무섭더라구요. 헉..강아지 이름은 뭐에요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "09:58:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "강아지 이름은 콩이에요! 눈이 콩처럼 생겼습니다 ㅎㅎ.",
+          "summary": "나는 강아지 이름을 콩이로 지어줬다.",
+          "date": "2022-10-11",
+          "time": "09:59:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "귀여울거같아요ㅠ평소에 콩이랑 산책도 자주 하시나요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "09:59:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "넵 ㅎㅎ 제가 헬스를 자주 하는데 콩이 산책도 시키느라 힘들어요....",
+          "summary": "나는 헬스를 자주 한다. 나는 강아지 산책을 자주 시킨다.",
+          "date": "2022-10-11",
+          "time": "09:59:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "ㅋㅋㅋ고생 많으시네요ㅋㅋㅋ추운날에도 산책 시켜주시는 편인가요? 요새 많이 추워졌잖아요.",
+          "summary": "나는 요즘 날씨가 춥다고 느낀다.",
+          "date": "2022-10-11",
+          "time": "10:00:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "맞아요.. 그치만 산책은 꼭 시켜줘야하니까 요즘도 나가긴 합니다! 무장하고 나가요ㅠㅠ.",
+          "summary": "나는 추운 날에도 강아지 산책을 시킨다.",
+          "date": "2022-10-11",
+          "time": "10:00:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "좋은 주인이시네요..전 식사하고 올게요! 안 먹는 갈비는 메뉴로 피해야겠습니다!",
+          "summary": "나는 갈비를 안 먹는다.",
+          "date": "2022-10-11",
+          "time": "10:01:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "넵 다녀오세요! 전 그럼 헬스 좀 하고 오겠습니다 ㅎㅎ.",
+          "summary": "나는 헬스를 하러 간다.",
+          "date": "2022-10-11",
+          "time": "10:01:48",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 남자이다.",
+          "나는 헤드헌터이다.",
+          "나는 요즘 날씨가 춥다고 느낀다.",
+          "나는 갈비를 안 먹는다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 반려동물 미용사이다.",
+          "나는 큰 짐승을 제외한 동물을 좋아한다.",
+          "나는 강아지 한 마리를 키운다.",
+          "나는 강아지 이름을 콩이로 지어줬다.",
+          "나는 헬스를 자주 한다. 나는 강아지 산책을 자주 시킨다.",
+          "나는 추운 날에도 강아지 산책을 시킨다.",
+          "나는 헬스를 하러 간다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00069-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00069-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "2시간만이죠~! 운동은 잘하고 오셨나요! 전 식사하고 왔습니다.",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "10:02:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "넵 ㅎㅎ 잘 다녀왔습니다! 갈비는 왜 안드시는건가요??",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "10:02:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "안 좋아하는 음식입니다ㅠ선생님은 고기류 중에 안 좋아하는 음식 있으세요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "10:03:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "아하..ㅠㅠ 저는 소고기를 별로 안 좋아해요.. 질긴걸 못 먹습니다ㅠㅠ.",
+          "summary": "나는 질긴 음식을 잘 못 먹어 소고기를 별로 좋아하지 않는다.",
+          "date": "2022-10-11",
+          "time": "10:03:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "그렇군요! 그럴 수 있지요ㅎㅎㅎ제 전 여자친구도 돼지고기를 더 좋아했어요. 참, 애인 있으세요?",
+          "summary": "나는 소고기보다 돼지고기를 선호하던 전 애인이 있다.",
+          "date": "2022-10-11",
+          "time": "10:04:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "그렇군요! 넵, 최근에 이상형인분과 연애 시작했습니다 ㅎㅎ.",
+          "summary": "나는 최근 연애를 시작했다.",
+          "date": "2022-10-11",
+          "time": "10:04:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "오ㅎㅎㅎ넘 좋은데요ㅎㅎ선생님 이상형은 어떻게 되세요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "10:04:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "저는 잘생기고 성격좋은 사람이요! 자신만의 신념이 있는 사람이 좋습니다 ㅎㅎ.",
+          "summary": "나는 상대방에게 나의 이상형을 설명했다.",
+          "date": "2022-10-11",
+          "time": "10:05:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "신념 중요하죠ㅎㅎ키 차이는 어느정도가 편하세요? 저는 저보다 큰 사람은 별롭니다ㅠ.",
+          "summary": "나는 나보다 키가 큰 사람은 이상형이 아니다.",
+          "date": "2022-10-11",
+          "time": "10:05:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "저는 저보다만 크면 됩니다 ㅎㅎ 만나봤을땐 177정도가 제일 좋았어요!",
+          "summary": "나는 나보다 크면 키는 상관이 없다.",
+          "date": "2022-10-11",
+          "time": "10:06:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "좋네요ㅎㅎㅎ오늘은 뭐하세요? 출근 일정 있으신가요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "10:06:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "오늘은 쉬는날이라 오랜만에 요리를 좀 해보려고요! ㅎㅎ.",
+          "summary": "나는 오랜만에 요리를 할 예정이다.",
+          "date": "2022-10-11",
+          "time": "10:07:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "요리..! 멋진 취미인데요. 만드실것도 정해두셨나요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "10:07:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "음.. 순두부찌개 해보려고요 ㅎㅎ 순두부찌개 좋아하시나요?",
+          "summary": "나는 순두부찌개를 요리할 예정이다.",
+          "date": "2022-10-11",
+          "time": "10:08:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "넘 좋아해요ㅠ짬뽕 순두부 쫄면이 맛있다던데ㅠ아직 못먹어봤네요. 저는 그럼 다시 근무하러 가보겠습니다!",
+          "summary": "나는 짬뽕 순두부 쫄면이 맛있다고 들었다.",
+          "date": "2022-10-11",
+          "time": "10:08:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "쫄면까지..! 넵 다녀오세요 ㅎㅎ 저는 요즘 요리가 잘돼서 항상 자신감이 생기네요! 자신있게 요리하고 오겠슴다!",
+          "summary": "나는 요즘, 항상 자신감이 생긴다. 나는 요리하러 간다.",
+          "date": "2022-10-11",
+          "time": "10:09:39",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 소고기보다 돼지고기를 선호하던 전 애인이 있다.",
+          "나는 나보다 키가 큰 사람은 이상형이 아니다.",
+          "나는 짬뽕 순두부 쫄면이 맛있다고 들었다."
+        ],
+        "speaker2": [
+          "나는 질긴 음식을 잘 못 먹어 소고기를 별로 좋아하지 않는다.",
+          "나는 최근 연애를 시작했다.",
+          "나는 상대방에게 나의 이상형을 설명했다.",
+          "나는 나보다 크면 키는 상관이 없다.",
+          "나는 오랜만에 요리를 할 예정이다.",
+          "나는 순두부찌개를 요리할 예정이다.",
+          "나는 요즘, 항상 자신감이 생긴다. 나는 요리하러 간다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 남자이다.",
+          "나는 헤드헌터이다.",
+          "나는 요즘 날씨가 춥다고 느낀다.",
+          "나는 갈비를 안 먹는다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 반려동물 미용사이다.",
+          "나는 큰 짐승을 제외한 동물을 좋아한다.",
+          "나는 강아지 한 마리를 키운다.",
+          "나는 강아지 이름을 콩이로 지어줬다.",
+          "나는 헬스를 자주 한다. 나는 강아지 산책을 자주 시킨다.",
+          "나는 추운 날에도 강아지 산책을 시킨다.",
+          "나는 헬스를 하러 간다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00069-2",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00069-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "1일만이네요 어젠 잘 쉬셨나요! 요즘 항상 생기는 자신감으로 요리 잘하셨구요?!",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "10:10:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "넵 ㅎㅎ 맛있게 잘 된것 같아서 뿌듯합니다 ㅎㅎ 출근 하셨나요? 헤드헌터라고 하셨죠?",
+          "summary": "나는 요리를 잘 만들어 뿌듯하다.",
+          "date": "2022-10-11",
+          "time": "10:10:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "ㅎㅎㅎ너무 다행이네요. 맞아요. 제 직업 기억하고 계시네요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "10:10:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "넵 ㅎㅎ 제가 한 기억력 하거든요! 갈비 안 드신다고 한것도 기억하고 있습니다!",
+          "summary": "나는 기억력이 좋다.",
+          "date": "2022-10-11",
+          "time": "10:11:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "ㅋㅋㅋㅋ오ㅋㅋㅋ남자친구분이 좋아하실거 같아요. 오늘은 출근하셨나요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "10:11:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "ㅋㅋㅋㅋㅋㅋㅋ앗.. 맞아요 ㅋㅋㅋㅋ 넵, 오늘은 출근했습니다 ㅠㅠ.",
+          "summary": "나는 오늘 출근했다.",
+          "date": "2022-10-11",
+          "time": "10:11:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "ㅎㅎㅎ저도 근무 중입니다ㅠ퇴근은 보통 몇시에 하세요? 전 18시!",
+          "summary": "나는 평소 18시에 퇴근한다.",
+          "date": "2022-10-11",
+          "time": "10:12:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "저도 6시에 퇴근합니다! 얼른 퇴근하고 싶네요ㅠㅠ.",
+          "summary": "나는 6시에 퇴근한다.",
+          "date": "2022-10-11",
+          "time": "10:12:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "저랑 같군요ㅎㅎ퇴근하면 하실 계획 있나요? 전 오늘 퇴근해도 친구와 할일이 있습니다ㅠ.",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "10:13:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "앗... 바쁘시군요ㅠㅠ 저는 밀린 공부를 좀 해보려고 합니다..!",
+          "summary": "나는 퇴근하고 밀린 공부를 할 예정이다.",
+          "date": "2022-10-11",
+          "time": "10:14:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "공부 좋지요ㅎㅎㅎ저는 친구가 출사를 가보자고 하더라구요..전 사진 찍는거 싫어하는데ㅠ어떤 공부하시려구요?",
+          "summary": "나는 사진을 찍는 것을 싫어한다.",
+          "date": "2022-10-11",
+          "time": "10:14:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "헉.. 사진 찍는건 왜 싫어하시는지 궁금하네요! 저는 영어 공부좀 하려고요!",
+          "summary": "나는 영어 공부를 할 예정이다.",
+          "date": "2022-10-11",
+          "time": "10:15:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "어릴때부터 찍히는걸 싫어해서 그런지 찍는것도 내키지 않더라구요. 선생님은 사진 찍는거 좋아하세요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "10:15:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "앗... ㅠㅠ 그럴 수 있겠네요.. 저는 사진 찍는거 좋아해요!",
+          "summary": "나는 사진 찍는 것을 좋아한다.",
+          "date": "2022-10-11",
+          "time": "10:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30182",
+          "participantID": "0717",
+          "utterance": "다음에 찍으신 사진 자랑해주세요ㅎㅎㅎ전 그럼 오늘도 근무하러 가보겠습니다. 선생님도 파이팅입니다!",
+          "summary": "나는 일 하러 간다.",
+          "date": "2022-10-11",
+          "time": "10:16:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22423",
+          "participantID": "0675",
+          "utterance": "넵 좋습니다 ㅎㅎ 저도 근무하러 가볼게요ㅠㅠ 파이팅이에요!!",
+          "summary": "나는 근무하러 간다.",
+          "date": "2022-10-11",
+          "time": "10:16:43",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 평소 18시에 퇴근한다.",
+          "나는 사진을 찍는 것을 싫어한다.",
+          "나는 일 하러 간다."
+        ],
+        "speaker2": [
+          "나는 요리를 잘 만들어 뿌듯하다.",
+          "나는 기억력이 좋다.",
+          "나는 오늘 출근했다.",
+          "나는 6시에 퇴근한다.",
+          "나는 퇴근하고 밀린 공부를 할 예정이다.",
+          "나는 영어 공부를 할 예정이다.",
+          "나는 사진 찍는 것을 좋아한다.",
+          "나는 근무하러 간다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 남자이다.",
+          "나는 헤드헌터이다.",
+          "나는 요즘 날씨가 춥다고 느낀다.",
+          "나는 갈비를 안 먹는다.",
+          "나는 소고기보다 돼지고기를 선호하던 전 애인이 있다.",
+          "나는 나보다 키가 큰 사람은 이상형이 아니다.",
+          "나는 짬뽕 순두부 쫄면이 맛있다고 들었다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 반려동물 미용사이다.",
+          "나는 큰 짐승을 제외한 동물을 좋아한다.",
+          "나는 강아지 한 마리를 키운다.",
+          "나는 강아지 이름을 콩이로 지어줬다.",
+          "나는 헬스를 자주 한다. 나는 강아지 산책을 자주 시킨다.",
+          "나는 추운 날에도 강아지 산책을 시킨다.",
+          "나는 헬스를 하러 간다.",
+          "나는 질긴 음식을 잘 못 먹어 소고기를 별로 좋아하지 않는다.",
+          "나는 최근 연애를 시작했다.",
+          "나는 상대방에게 나의 이상형을 설명했다.",
+          "나는 나보다 크면 키는 상관이 없다.",
+          "나는 오랜만에 요리를 할 예정이다.",
+          "나는 순두부찌개를 요리할 예정이다.",
+          "나는 요즘, 항상 자신감이 생긴다. 나는 요리하러 간다."
+        ]
+      }
+    }
+  ]
+}

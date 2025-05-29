@@ -1,0 +1,427 @@
+{
+  "FileInfo": {
+    "filename": "K2-00132-CL51266-CP32414-08-09-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3292",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "주부",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "3279",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00132"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "51266",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 요즘, 가끔 부끄러운 감정이 든다",
+        "나는 동료와 잘 어울린다",
+        "나는 막걸리를 싫어한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "32414",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 10년 후 창업하는 것이 목표이다",
+        "나는 스웨덴에 가 보고 싶다",
+        "나는 커피를 마시지 않는다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "08-09",
+    "topicType": "개인 및 관계>연애/결혼",
+    "topicTitle": "결혼관"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00132-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "51266",
+          "participantID": "3292",
+          "utterance": "안녕하세요. 저는 50대 여성입니다",
+          "summary": "나는 50대 여성이다.",
+          "date": "2022-10-07",
+          "time": "13:32:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32414",
+          "participantID": "3279",
+          "utterance": "안녕하세요. 저는 30대 여성입니다.",
+          "summary": "나는 30대 여성이다",
+          "date": "2022-10-07",
+          "time": "13:38:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51266",
+          "participantID": "3292",
+          "utterance": "네, 저는 직장인인데 혹시 무슨 일 하시나요?",
+          "summary": "나는 직장인이다.",
+          "date": "2022-10-07",
+          "time": "16:08:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32414",
+          "participantID": "3279",
+          "utterance": "저는 10년 후 창업이 목표라 현재 관련 공부를 하고 있는 학생이에요.",
+          "summary": "나는 10년 후 창업하는 것이 목표이다. 나는 학생이다.",
+          "date": "2022-10-07",
+          "time": "16:13:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51266",
+          "participantID": "3292",
+          "utterance": "그렇군요. 저는 동료들과 잘 어울려서 만족스럽지만 창업하신다니 부럽네요. 혹시 음주가무는 하시나요?",
+          "summary": "나는 동료들과 잘 어울린다.",
+          "date": "2022-10-07",
+          "time": "16:13:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32414",
+          "participantID": "3279",
+          "utterance": "저는 술을 못해요. 커피도 안 마셔서 대신 차를 즐겨요.",
+          "summary": "나는 술을 못한다. 나는 커피를 마시지 않는다. 나는 차를 즐겨 마신다.",
+          "date": "2022-10-07",
+          "time": "16:15:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51266",
+          "participantID": "3292",
+          "utterance": "저는 술을 좋아하지만 막걸리를 싫어해요. 맛이 없더라구요.",
+          "summary": "나는 술을 좋아한다. 나는 막걸리를 싫어한다.",
+          "date": "2022-10-07",
+          "time": "16:19:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32414",
+          "participantID": "3279",
+          "utterance": "맛이 다 다르니 그럴 수 있겠네요. 저는 술값을 아껴서 여행을 다녀요.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:32:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51266",
+          "participantID": "3292",
+          "utterance": "너무 좋은데요? 술 많이 마시는 제 자신을 생각할 때 요즘, 가끔 부끄러운 감정이 들어요",
+          "summary": "나는 요즘, 가끔 부끄러운 감정이 든다.",
+          "date": "2022-10-07",
+          "time": "16:46:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32414",
+          "participantID": "3279",
+          "utterance": "좋아하는 건 즐기며 해도 괜찮은 거 같아요. 저는 스웨덴에 가 보는 게 꿈인데 비용이 만만치 않더라고요.",
+          "summary": "나는 스웨덴에 가 보고 싶다.",
+          "date": "2022-10-07",
+          "time": "16:49:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51266",
+          "participantID": "3292",
+          "utterance": "네 맞아요. 술을 마신 카드 명세서를 볼 때면 깜짝 놀라요.  ㅎㅎ",
+          "summary": "나는 카드 명세서를 보며 놀란다.",
+          "date": "2022-10-08",
+          "time": "10:49:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32414",
+          "participantID": "3279",
+          "utterance": "저도 여행가면 쇼핑을 많이 해서 지출이 많아져요.",
+          "summary": "나는 여행지에서 쇼핑을 많이 해서 지출이 많아진다",
+          "date": "2022-10-08",
+          "time": "13:05:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51266",
+          "participantID": "3292",
+          "utterance": "그렇군요. 지출을 아껴야 하는데 쉽지 않아요",
+          "summary": "나는 지출을 줄이는 게 어렵다.",
+          "date": "2022-10-08",
+          "time": "22:36:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32414",
+          "participantID": "3279",
+          "utterance": "요즘 물가도 올라서 아끼기 더 어렵죠. 저는 약속이 있어서 이만 가볼게요.",
+          "summary": "나는 약속이 있다.",
+          "date": "2022-10-08",
+          "time": "22:59:10",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다.",
+          "나는 직장인이다.",
+          "나는 동료들과 잘 어울린다.",
+          "나는 술을 좋아한다. 나는 막걸리를 싫어한다.",
+          "나는 요즘, 가끔 부끄러운 감정이 든다.",
+          "나는 카드 명세서를 보며 놀란다.",
+          "나는 지출을 줄이는 게 어렵다."
+        ],
+        "speaker2": [
+          "나는 30대 여성이다",
+          "나는 10년 후 창업하는 것이 목표이다. 나는 학생이다.",
+          "나는 술을 못한다. 나는 커피를 마시지 않는다. 나는 차를 즐겨 마신다.",
+          "나는 스웨덴에 가 보고 싶다.",
+          "나는 여행지에서 쇼핑을 많이 해서 지출이 많아진다",
+          "나는 약속이 있다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00132-1",
+      "prevTimeInfo": {
+        "timeNum": "6",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00132-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "51266",
+          "participantID": "3292",
+          "utterance": "6주만에 보네요. 창업 공부는 잘 되가시나요?",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "23:02:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32414",
+          "participantID": "3279",
+          "utterance": "안녕하세요. 저는 잘 지냈어요. 시간이 그렇게나 흘렀는 줄 몰랐어요.",
+          "summary": "나는 잘 지냈다.",
+          "date": "2022-10-08",
+          "time": "23:06:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51266",
+          "participantID": "3292",
+          "utterance": "네, 시간이 참 빠르죠. 아 님은 결혼 하셨나요?",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "23:07:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32414",
+          "participantID": "3279",
+          "utterance": "저는 아직 미혼이에요. 아직 결혼관을 정하지 못해서 결혼을 할지 말지 고민중이에요.",
+          "summary": "나는 미혼이다. 나는 결혼관을 정하지 못했다.",
+          "date": "2022-10-08",
+          "time": "23:08:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51266",
+          "participantID": "3292",
+          "utterance": "네, 특히 요즘은 과거와 달라서 개인의 가치관에 따라 결혼관도 달라지는 것 같아요",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "23:11:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32414",
+          "participantID": "3279",
+          "utterance": "맞아요. 결혼이 필수인 시대는 아닌 것 같아요. 저희 이모도 비혼주의자세요.",
+          "summary": "나의 이모는 비혼 주의이다.",
+          "date": "2022-10-08",
+          "time": "23:12:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51266",
+          "participantID": "3292",
+          "utterance": "네 ㅎㅎ 저도 결혼을 한다고 안외로워지는건 아니라고 생각해요.",
+          "summary": "나는 결혼을 해도 외로울 수 있다고 생각한다.",
+          "date": "2022-10-08",
+          "time": "23:13:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32414",
+          "participantID": "3279",
+          "utterance": "그렇죠. 저도 연애 중이긴 한데 때때로 외로울 때가 있어요.",
+          "summary": "나는 연애 중이지만 때때로 외로운 때가 있다",
+          "date": "2022-10-08",
+          "time": "23:15:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51266",
+          "participantID": "3292",
+          "utterance": "네 맞아요. 저는 과거로 돌아간다면 결혼 안할거에요. 좀 더 제 인생에 집중하고 싶어요",
+          "summary": "나는 과거로 돌아가면 결혼하지 않을 것이다. 나는 내 인생에 더 집중하고 싶다.",
+          "date": "2022-10-08",
+          "time": "23:17:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32414",
+          "participantID": "3279",
+          "utterance": "결혼하고 육아하면 개인시간이 거의 없다고 하더라고요. 제 친구들은 다 결혼했거든요.",
+          "summary": "나의 친구들은 다 결혼을 했다.",
+          "date": "2022-10-08",
+          "time": "23:18:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51266",
+          "participantID": "3292",
+          "utterance": "네 맞아요. 하루 24시간이 정말 모잘라요. 그래서 저는 결혼이란건 뭘까 하고 생각하게 되네요",
+          "summary": "나는 결혼이란 뭘까 생각한다.",
+          "date": "2022-10-08",
+          "time": "23:19:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32414",
+          "participantID": "3279",
+          "utterance": "정말 좋은 사람 만나면 결혼을 해도 좋을 거 같긴한데 아직 잘 모르겠어요.",
+          "summary": "",
+          "date": "2022-10-08",
+          "time": "23:20:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "51266",
+          "participantID": "3292",
+          "utterance": "네 맞아요. 저는 혼인신고 전에 동거하는 것도 방법이라고 생각해요",
+          "summary": "나는 혼인신고 전에 동거하는 것도 방법이라고 생각한다.",
+          "date": "2022-10-08",
+          "time": "23:26:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "32414",
+          "participantID": "3279",
+          "utterance": "저도 동거에 동의해요. 저 오늘 심야영화를 보기로 해서 이만 가볼게요.",
+          "summary": "나는 오늘 약속이 있다.",
+          "date": "2022-10-08",
+          "time": "23:28:18",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 결혼을 해도 외로울 수 있다고 생각한다.",
+          "나는 과거로 돌아가면 결혼하지 않을 것이다. 나는 내 인생에 더 집중하고 싶다.",
+          "나는 결혼이란 뭘까 생각한다.",
+          "나는 혼인신고 전에 동거하는 것도 방법이라고 생각한다."
+        ],
+        "speaker2": [
+          "나는 잘 지냈다.",
+          "나는 미혼이다. 나는 결혼관을 정하지 못했다.",
+          "나의 이모는 비혼 주의이다.",
+          "나는 연애 중이지만 때때로 외로운 때가 있다",
+          "나의 친구들은 다 결혼을 했다.",
+          "나는 오늘 약속이 있다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다.",
+          "나는 직장인이다.",
+          "나는 동료들과 잘 어울린다.",
+          "나는 술을 좋아한다. 나는 막걸리를 싫어한다.",
+          "나는 요즘, 가끔 부끄러운 감정이 든다.",
+          "나는 카드 명세서를 보며 놀란다.",
+          "나는 지출을 줄이는 게 어렵다."
+        ],
+        "speaker2": [
+          "나는 30대 여성이다",
+          "나는 10년 후 창업하는 것이 목표이다. 나는 학생이다.",
+          "나는 술을 못한다. 나는 커피를 마시지 않는다. 나는 차를 즐겨 마신다.",
+          "나는 스웨덴에 가 보고 싶다.",
+          "나는 여행지에서 쇼핑을 많이 해서 지출이 많아진다",
+          "나는 약속이 있다."
+        ]
+      }
+    }
+  ]
+}

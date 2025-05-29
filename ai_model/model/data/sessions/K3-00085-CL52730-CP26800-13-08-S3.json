@@ -1,0 +1,637 @@
+{
+  "FileInfo": {
+    "filename": "K3-00085-CL52730-CP26800-13-08-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4181",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "50564",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00085"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "52730",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 주부이다",
+        "나는 친구와 자주 만난다",
+        "나는 맥주를 좋아한다",
+        "나는 TV 뉴스를 자주 본다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "26800",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 어머니는 주부이다",
+        "나는 요즘, 작은 일에도 기쁘다",
+        "나는 헬스를 좋아한다",
+        "나의 생일은 9월이다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "13-08",
+    "topicType": "기후>계절/날씨",
+    "topicTitle": "환절기"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00085-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "안녕하세요 저는 50대 여성입니다. 만나서 반가워요. ",
+          "summary": "나는 50대 여성이다.",
+          "date": "2022-12-08",
+          "time": "10:04:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "안녕하세요. 저는 20대 여성입니다. 반갑습니다. 님은 생일이 언제이신가요? 저는 9월이에요~",
+          "summary": "나는 20대 여성이다 나는 9월이 생일이다",
+          "date": "2022-12-08",
+          "time": "10:43:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "저는 주부로 지내고 있어요. 님은 직장에 다니시나요? ",
+          "summary": "나는 주부이다.",
+          "date": "2022-12-08",
+          "time": "10:48:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "아니요 저는 아직 학생이에요~! 저의 어머니도 주부이세요 ㅎㅎ 저는 헬스를 좋아하는데, 님은 좋아하시는 운동 있으세요?",
+          "summary": "나는 학생이다. 나의 어머니는 주부이다\n 나는 헬스를 좋아한다",
+          "date": "2022-12-08",
+          "time": "10:54:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "아 운동을 좋아하시는군요. 저는 운동보다는 친구와 자주 만나러 밖으로 나가는 편이에요. 쉬실 때 무엇을 하세요? ",
+          "summary": "나는 친구와 자주 만나러 밖으로 나가는 편이다.",
+          "date": "2022-12-08",
+          "time": "10:55:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "저는 주로 운동을 하거나 가족과 시간을 보내요 ㅎㅎ 요즘 친구들을 만나시면 주로 무엇을 하시나요?",
+          "summary": "나는 주로 운동을 하거나 가족과 시간을 보낸다",
+          "date": "2022-12-08",
+          "time": "11:13:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "저는 친구와 만나면 맥주를 마셔요. 맥주를 좋아하거든요. 집에서 가족들과 얘기하면서 시간을 보내시나요? ",
+          "summary": "나는 맥주를 좋아해서 친구와 즐겨마신다.",
+          "date": "2022-12-08",
+          "time": "11:15:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "네~ 주로 식사나 디저트를 먹으면서 가족과 하루 이야기도 하고~ 대화를 많이해요! 요즘 맥주 종류도 엄청 다양하더라구요. 선호하시는 맥주 있으신가요?",
+          "summary": "나는 가족과 하루 이야기도 하고 대화도 많이 한다",
+          "date": "2022-12-08",
+          "time": "11:20:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "저는 에일맥주 좋아해요. 상큼한 느낌이 들어서요. TV 뉴스를 자주 보거든요. TV보면서 맥주마시는 시간이 좋아요. ",
+          "summary": "나는 에일맥주를 좋아하며, TV 보면서 맥주 마시는 시간이 좋다.",
+          "date": "2022-12-08",
+          "time": "11:38:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "그럼 이번에 축구 보셨을 때도 에일 맥주 마시면서 보셨겠네요?!ㅎㅎ 저도 에일맥주 좋아해요! 저는 요즘 작은 일에도 기쁨을 느껴요. 이렇게 먹고 싶은 것. 마시고 싶은 것을 즐기는게 행복인 것 같아요.",
+          "summary": "나는 에일맥주 좋아한다 나는 요즘 작은 일에도 기쁨을 느낀다",
+          "date": "2022-12-08",
+          "time": "11:40:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "맞아요. 맛있는 음식 먹고 좋은 사람들 만나면서 지내는게 힐링인 것 같아요. 아침은 드셨나요? ",
+          "summary": "나는 맛있는 음식 먹고 좋은 사람들 만나면서 힐링한다.",
+          "date": "2022-12-08",
+          "time": "11:41:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "저는 아침은 안먹고 아점으로 끼니를 해결하는 편이에요. 님은 오늘 점심에 뭐 드실 예정이신가요?",
+          "summary": "나는 아침을 안 먹고 아점으로 끼니를 해결한다",
+          "date": "2022-12-08",
+          "time": "11:42:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "저는 날씨가 추워서 뜨거운 국물이 있는 음식을 먹을 예정이에요. 님, 맛있는 점심식사 하세요. ",
+          "summary": "나는 날씨가 추워서 뜨거운 국물이 있는 음식을 먹을 예정이다.",
+          "date": "2022-12-08",
+          "time": "11:43:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "오늘처럼 추운 날씨에 딱이네요!ㅎㅎ 나중에 뭐 드셨는지도 말씀해주세요! 맛점하세요~",
+          "summary": "",
+          "date": "2022-12-08",
+          "time": "11:43:57",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다.",
+          "나는 주부이다.",
+          "나는 친구와 자주 만나러 밖으로 나가는 편이다.",
+          "나는 맥주를 좋아해서 친구와 즐겨마신다.",
+          "나는 에일맥주를 좋아하며, TV 보면서 맥주 마시는 시간이 좋다.",
+          "나는 맛있는 음식 먹고 좋은 사람들 만나면서 힐링한다.",
+          "나는 날씨가 추워서 뜨거운 국물이 있는 음식을 먹을 예정이다."
+        ],
+        "speaker2": [
+          "나는 20대 여성이다",
+          "나는 9월이 생일이다",
+          "나는 학생이다. 나의 어머니는 주부이다\n",
+          "나는 헬스를 좋아한다",
+          "나는 주로 운동을 하거나 가족과 시간을 보낸다",
+          "나는 가족과 하루 이야기도 하고 대화도 많이 한다",
+          "나는 에일맥주 좋아한다",
+          "나는 요즘 작은 일에도 기쁨을 느낀다",
+          "나는 아침을 안 먹고 아점으로 끼니를 해결한다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00085-1",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00085-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "안녕하세요. 4주만에 뵙네요. 잘 지내셨죠? ",
+          "summary": "",
+          "date": "2022-12-08",
+          "time": "12:02:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "네~ 오랜만이네요. 전 잘 지냈습니다! 최근에 눈도 오고, 환절기라 날씨가 갑자기 추워진 것 같아요!",
+          "summary": "나는 환절기라 날씨가 갑자기 추워졌다고 생각한다",
+          "date": "2022-12-08",
+          "time": "12:07:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "맞아요. 환절기라 몸이 힘드네요. 제 아이들이 학교 끝나고 집에 오면 결석한 아이들이 많다고 해요. 감기 걸린 아이들이 많대요.  제 친구들도 자주 만나는데 내일 만나기로 한 친구가 목감기에 걸려 못나온다고 하네요.  ",
+          "summary": "나는 환절기라 몸이 힘들다.",
+          "date": "2022-12-08",
+          "time": "12:15:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "어머... 애들이 면연력이 좀 더 약해서 더 감기에 잘 걸리나보네요 ㅠㅠ 님은 건강 괜찮으신가요? 전 약간 감기기운이 있는 것 같더라구요 ㅠ",
+          "summary": "나는 아이들이 더 쉽게 감기에 걸린다고 생각한다 나는 약간 감기 기운이 있다",
+          "date": "2022-12-08",
+          "time": "13:19:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "아, 그러시군요. 힘드시겠어요. 저도 12월 초에 감기 기운이 있어서 병원에 가서 약을 먹었어요. 갑자기 날씨가 추워지니 안좋았던 부분이 아프더라고요. ",
+          "summary": "나는 12월 초에 감기 기운이 있어서 병원에서 약을 처방받아먹었다.",
+          "date": "2022-12-08",
+          "time": "13:21:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "그러셨군요ㅠㅠ 지금은 좀 괜찮으세요? 저도 한동안 감기기운때문에 따뜻한 물이랑 생강차를 자주 타먹고 있는데 좀 괜찮아지더라구요.",
+          "summary": "나는 따뜻한 물과 생강차를 자주 마셔서 괜찮아졌다",
+          "date": "2022-12-08",
+          "time": "13:23:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "맞아요. 따뜻한 물을 자주 마시면 감기에 좋아요. 저는 맥주를 좋아하는데, 감기 때는 맥주를 못마셔서 아쉬웠어요. 님도 어서 나으셔서 에일맥주 드실 수 있으시면 좋겠어요. ",
+          "summary": "나는 감기 때문에 맥주를 못 마셔서 아쉬웠다.",
+          "date": "2022-12-08",
+          "time": "13:32:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "하하 그래도 요즘 목도리도 잘하니까 많이 호전됐어요!ㅎㅎ",
+          "summary": "나는 목도리도 잘해서 괜찮아졌다",
+          "date": "2022-12-08",
+          "time": "13:35:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "다행이에요. 환절기를 잘 보내는 방법이 없나 궁금해서 찾아봐도, 결국 스트레스 안받고 푹 자는게 좋은 것 같아요. ",
+          "summary": "나는 환절기를 잘 보내는 방법이 스트레스를 안 받고 푹 자는 게 좋은 것 같다.",
+          "date": "2022-12-08",
+          "time": "13:36:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "맞아요~! 환절기에도 면연력 떨어지지 않게 건강관리하는게 최우선인것 같아요!",
+          "summary": "나는 환절기에 건강관리가 최우선이라 생각한다.",
+          "date": "2022-12-08",
+          "time": "13:39:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "네, 갑자기 추워지면 면역이 뚝 떨어져서 안아프던 곳도 아프더라고요. 이제 조금씩 몸을 챙겨야 할 것 같아요. ",
+          "summary": "나는 갑자기 추워지면 면역이 뚝 떨어져서 안 아프던 곳도 아프다.",
+          "date": "2022-12-08",
+          "time": "13:43:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "맞아요 ㅠ 이럴 때일 수록 건강식도 잘 챙겨드시면 좋을 듯해요!",
+          "summary": "나는 환절기에 건강식도 챙겨 먹어야 한다고 생각한다",
+          "date": "2022-12-08",
+          "time": "13:52:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "네, 환절기를 무사히 이겨내고 따뜻한 겨울 맞이하시길 바라요. ",
+          "summary": "",
+          "date": "2022-12-08",
+          "time": "13:53:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "네!ㅎㅎ 저도 이만 할 일이 있어서 먼저 가볼게요! 대화 즐거웠어요!",
+          "summary": "",
+          "date": "2022-12-08",
+          "time": "14:04:20",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 환절기라 몸이 힘들다.",
+          "나는 12월 초에 감기 기운이 있어서 병원에서 약을 처방받아먹었다.",
+          "나는 감기 때문에 맥주를 못 마셔서 아쉬웠다.",
+          "나는 환절기를 잘 보내는 방법이 스트레스를 안 받고 푹 자는 게 좋은 것 같다.",
+          "나는 갑자기 추워지면 면역이 뚝 떨어져서 안 아프던 곳도 아프다."
+        ],
+        "speaker2": [
+          "나는 환절기라 날씨가 갑자기 추워졌다고 생각한다",
+          "나는 아이들이 더 쉽게 감기에 걸린다고 생각한다",
+          "나는 약간 감기 기운이 있다",
+          "나는 따뜻한 물과 생강차를 자주 마셔서 괜찮아졌다",
+          "나는 목도리도 잘해서 괜찮아졌다",
+          "나는 환절기에 건강관리가 최우선이라 생각한다.",
+          "나는 환절기에 건강식도 챙겨 먹어야 한다고 생각한다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다.",
+          "나는 주부이다.",
+          "나는 친구와 자주 만나러 밖으로 나가는 편이다.",
+          "나는 맥주를 좋아해서 친구와 즐겨마신다.",
+          "나는 에일맥주를 좋아하며, TV 보면서 맥주 마시는 시간이 좋다.",
+          "나는 맛있는 음식 먹고 좋은 사람들 만나면서 힐링한다.",
+          "나는 날씨가 추워서 뜨거운 국물이 있는 음식을 먹을 예정이다."
+        ],
+        "speaker2": [
+          "나는 20대 여성이다",
+          "나는 9월이 생일이다",
+          "나는 학생이다. 나의 어머니는 주부이다\n",
+          "나는 헬스를 좋아한다",
+          "나는 주로 운동을 하거나 가족과 시간을 보낸다",
+          "나는 가족과 하루 이야기도 하고 대화도 많이 한다",
+          "나는 에일맥주 좋아한다",
+          "나는 요즘 작은 일에도 기쁨을 느낀다",
+          "나는 아침을 안 먹고 아점으로 끼니를 해결한다"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00085-2",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "주"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00085-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "안녕하세요. 1주일만에 뵙네요. 잘 지내셨죠? ",
+          "summary": "",
+          "date": "2022-12-08",
+          "time": "14:25:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "네~ 전 요즘 환절기라 그런지 감기기운이 있더라구요 ㅠ 님은 어떻게 지내셨나요?",
+          "summary": "나는 요즘 환절기라 감기 기운이 있다",
+          "date": "2022-12-08",
+          "time": "14:26:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "네, 저도 환절기 때문에 비염이 생겨서 고생하고 있어요. ",
+          "summary": "나는 환절기로 비염에 생겨서 고생하고 있다",
+          "date": "2022-12-08",
+          "time": "14:49:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "아고.. 원래 비염이 있으셨나요?? 저도 알레르기 비염이 있거든요 ㅠ",
+          "summary": "나는 알레르기 비염이 있다",
+          "date": "2022-12-08",
+          "time": "14:58:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "네, 친구와 만나기로 했는데, 이번에는 제가 비염이 너무 심해서 못만날 것 같아요. 비염약이 계속 졸리네요. ",
+          "summary": "나는 비염이 심해서 친구를 못 만날 것 같다",
+          "date": "2022-12-08",
+          "time": "15:11:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "어머 그정도 이신건가요?? 병원은 가보셨나요?",
+          "summary": "",
+          "date": "2022-12-08",
+          "time": "15:26:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "네, 비염약을 받아왔는데, 많이 졸리네요. 비염약과 술은 같이 먹지 말라고 해서 아쉬워하고 있어요. 맥주를 좋아하거든요",
+          "summary": "나는 비염약 때문에 술을 못 먹어서 아쉽다",
+          "date": "2022-12-08",
+          "time": "15:27:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "하하 비염약 먹을 때 맥주 못드셔서 아쉬우시겠어요 ㅠ 이럴 때 일 수록 따뜻하게 입고 드셔야해요~",
+          "summary": "",
+          "date": "2022-12-08",
+          "time": "15:42:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "네, 환절기 때 코가 제일 먼저 아는 것 같아요. 님은 괜찮으신가요? ",
+          "summary": "",
+          "date": "2022-12-08",
+          "time": "15:51:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "저도 콧물이 제일 먼저 나더라구요. 아니면 막히거나 ㅋㅋ 님도 그러시나요?",
+          "summary": "나는 콧물이 제일 먼저 난다",
+          "date": "2022-12-08",
+          "time": "15:56:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "저도 그래요. 환절기 때 안좋은 곳이 제일 많이 아파서 병원에 자주 가게 되네요. ",
+          "summary": "나는 환절기라 병원에 자주 간다",
+          "date": "2022-12-08",
+          "time": "15:57:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "맞아요~ 저도 그렇고 님도 몸관리 잘 하셔서 회복되셨으면 좋겠네요",
+          "summary": "",
+          "date": "2022-12-08",
+          "time": "15:57:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "52730",
+          "participantID": "4181",
+          "utterance": "네, 환절기 항상 조심하라는 말을 새기고 있어요.님과의 대화 즐거웠습니다.",
+          "summary": "",
+          "date": "2022-12-08",
+          "time": "15:58:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26800",
+          "participantID": "50564",
+          "utterance": "네! 저도 대화 즐거웠습니다. 이만 가볼게요",
+          "summary": "",
+          "date": "2022-12-08",
+          "time": "15:58:32",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 환절기로 비염에 생겨서 고생하고 있다",
+          "나는 비염이 심해서 친구를 못 만날 것 같다",
+          "나는 비염약 때문에 술을 못 먹어서 아쉽다",
+          "나는 환절기라 병원에 자주 간다"
+        ],
+        "speaker2": [
+          "나는 요즘 환절기라 감기 기운이 있다",
+          "나는 알레르기 비염이 있다",
+          "나는 콧물이 제일 먼저 난다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다.",
+          "나는 주부이다.",
+          "나는 친구와 자주 만나러 밖으로 나가는 편이다.",
+          "나는 맥주를 좋아해서 친구와 즐겨마신다.",
+          "나는 에일맥주를 좋아하며, TV 보면서 맥주 마시는 시간이 좋다.",
+          "나는 맛있는 음식 먹고 좋은 사람들 만나면서 힐링한다.",
+          "나는 날씨가 추워서 뜨거운 국물이 있는 음식을 먹을 예정이다.",
+          "나는 환절기라 몸이 힘들다.",
+          "나는 12월 초에 감기 기운이 있어서 병원에서 약을 처방받아먹었다.",
+          "나는 감기 때문에 맥주를 못 마셔서 아쉬웠다.",
+          "나는 환절기를 잘 보내는 방법이 스트레스를 안 받고 푹 자는 게 좋은 것 같다.",
+          "나는 갑자기 추워지면 면역이 뚝 떨어져서 안 아프던 곳도 아프다."
+        ],
+        "speaker2": [
+          "나는 20대 여성이다",
+          "나는 9월이 생일이다",
+          "나는 학생이다. 나의 어머니는 주부이다\n",
+          "나는 헬스를 좋아한다",
+          "나는 주로 운동을 하거나 가족과 시간을 보낸다",
+          "나는 가족과 하루 이야기도 하고 대화도 많이 한다",
+          "나는 에일맥주 좋아한다",
+          "나는 요즘 작은 일에도 기쁨을 느낀다",
+          "나는 아침을 안 먹고 아점으로 끼니를 해결한다",
+          "나는 환절기라 날씨가 갑자기 추워졌다고 생각한다",
+          "나는 아이들이 더 쉽게 감기에 걸린다고 생각한다",
+          "나는 약간 감기 기운이 있다",
+          "나는 따뜻한 물과 생강차를 자주 마셔서 괜찮아졌다",
+          "나는 목도리도 잘해서 괜찮아졌다",
+          "나는 환절기에 건강관리가 최우선이라 생각한다.",
+          "나는 환절기에 건강식도 챙겨 먹어야 한다고 생각한다"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "FileInfo": {
+    "filename": "K2-00070-CL01099-CP00358-15-02-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0038",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0036",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00070"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "01099",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 종교가 없다.",
+        "나는 정원을 가꾸는 게 지루하다.",
+        "나는 항공 관제사이다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "00358",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 야구 선수이다.",
+        "나는 재즈 음악을 싫어한다.",
+        "나는 동물을 싫어한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "15-02",
+    "topicType": "시사/사회>타국가이슈(해외)",
+    "topicTitle": "재해 및 재난"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00070-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01099",
+          "participantID": "0038",
+          "utterance": "안녕하세요 저는 20대 남자입니다.",
+          "summary": "20대 남자이다.",
+          "date": "2022-07-28",
+          "time": "21:55:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00358",
+          "participantID": "0036",
+          "utterance": "안녕하세요 저는 30대 여자입니다.",
+          "summary": "30대 여자이다.",
+          "date": "2022-07-28",
+          "time": "21:56:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01099",
+          "participantID": "0038",
+          "utterance": "이번에 일본에서 대지진이 일어났다는데 뉴스 보셨어요?",
+          "summary": "일본에서 대지진이 일어났다.",
+          "date": "2022-07-28",
+          "time": "21:57:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00358",
+          "participantID": "0036",
+          "utterance": "네 일본에서는 지진이 흔한데 이번껀 규모가 크다고 하더라고요.",
+          "summary": "",
+          "date": "2022-07-28",
+          "time": "21:57:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01099",
+          "participantID": "0038",
+          "utterance": "저희 형이 일본에 사는데 연락이 안되가지고 걱정이되네요.",
+          "summary": "일본에 친형이 산다.",
+          "date": "2022-07-28",
+          "time": "21:57:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00358",
+          "participantID": "0036",
+          "utterance": "큰일이네요. 많이 걱정되시겠어요. 계속 전화 해보세요.",
+          "summary": "",
+          "date": "2022-07-28",
+          "time": "21:59:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01099",
+          "participantID": "0038",
+          "utterance": "네 항공관제사일을 하는데 일본가는비행기들도 모두 연착이네요.",
+          "summary": "항공관제사 일을 한다.",
+          "date": "2022-07-28",
+          "time": "21:59:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00358",
+          "participantID": "0036",
+          "utterance": "아무쪼록 피해 없이 끝났으면 좋겠어요.",
+          "summary": "",
+          "date": "2022-07-28",
+          "time": "22:01:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01099",
+          "participantID": "0038",
+          "utterance": "종교가 없는데 아무일없기를 기도하게 되네요.",
+          "summary": "종교가 없다.",
+          "date": "2022-07-28",
+          "time": "22:02:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00358",
+          "participantID": "0036",
+          "utterance": "방금 티비 봤는데 다행히 피해가 별로 없다네요.",
+          "summary": "",
+          "date": "2022-07-28",
+          "time": "22:04:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01099",
+          "participantID": "0038",
+          "utterance": "정말 다행히네요 저도 형이 아무일없다고 연락왔어요.",
+          "summary": "형에게 연락이 왔다.",
+          "date": "2022-07-28",
+          "time": "22:04:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00358",
+          "participantID": "0036",
+          "utterance": "정말 다행이에요 한시름 놓으셨겠어요.",
+          "summary": "",
+          "date": "2022-07-28",
+          "time": "22:05:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01099",
+          "participantID": "0038",
+          "utterance": "맞아요 다른분들도 아무런 피해가 없으면 좋겠네요.",
+          "summary": "",
+          "date": "2022-07-28",
+          "time": "22:05:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00358",
+          "participantID": "0036",
+          "utterance": "제가 아는 분도 일본에 사셔서 방금 통화 했는데 대피소에 계시대요 규모에 비해서 인명피해가 적어서 다행이에요.",
+          "summary": "일본에 지인이 산다.",
+          "date": "2022-07-28",
+          "time": "22:06:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01099",
+          "participantID": "0038",
+          "utterance": "그 분들도 얼른 일상으로 돌아가셨으면 좋겠어요.",
+          "summary": "",
+          "date": "2022-07-28",
+          "time": "22:06:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00358",
+          "participantID": "0036",
+          "utterance": "그러니까요 빨리 피해복구가 이뤄졌으면 좋겠네요.",
+          "summary": "",
+          "date": "2022-07-28",
+          "time": "22:07:08",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "20대 남자이다.",
+          "일본에서 대지진이 일어났다.",
+          "일본에 친형이 산다.",
+          "항공관제사 일을 한다.",
+          "종교가 없다.",
+          "형에게 연락이 왔다."
+        ],
+        "speaker2": [
+          "30대 여자이다.",
+          "일본에 지인이 산다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00070-1",
+      "prevTimeInfo": {
+        "timeNum": "7",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00070-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01099",
+          "participantID": "0038",
+          "utterance": "아 오늘 야구경기보러가는날인데 비가오네요.",
+          "summary": "",
+          "date": "2022-07-28",
+          "time": "22:07:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00358",
+          "participantID": "0036",
+          "utterance": "경기 있는데 비오면 정말 싫죠 저는 야구선수라 비오는 날이 유독 더 싫네요.",
+          "summary": "나는 야구 선수이다.",
+          "date": "2022-07-28",
+          "time": "22:08:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01099",
+          "participantID": "0038",
+          "utterance": "와 여자분이신데 야구선수인건 처음봐요 정말 멋지네요.",
+          "summary": "여자야구선수를 처음 본다.",
+          "date": "2022-07-28",
+          "time": "22:08:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00358",
+          "participantID": "0036",
+          "utterance": "어릴 때부터 아빠랑 캐치볼 하던게 어쩌다 보니 이렇게 됐네요.",
+          "summary": "",
+          "date": "2022-07-28",
+          "time": "22:09:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01099",
+          "participantID": "0038",
+          "utterance": "재능이 있으신가봐요.저도 어릴때 야구를 했었는데 재능이 없어서 그만뒀거든요.",
+          "summary": "어릴 때 야구를 했다.",
+          "date": "2022-07-28",
+          "time": "22:09:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00358",
+          "participantID": "0036",
+          "utterance": "저도 재능은 없는데 워낙 어릴때부터 해서 할 줄 아는게 이것 뿐이에요 야구 말고 다른 취미가 있으신가요?",
+          "summary": "",
+          "date": "2022-07-28",
+          "time": "22:11:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01099",
+          "participantID": "0038",
+          "utterance": "네 저는 재즈음악을 좋아해요. 그쪽은요?",
+          "summary": "재즈음악을 좋아한다.",
+          "date": "2022-07-28",
+          "time": "22:12:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00358",
+          "participantID": "0036",
+          "utterance": "저는 음악 중에서 재즈 음악 빼고 다 좋아해요.",
+          "summary": "재즈 음악을 싫어한다.",
+          "date": "2022-07-28",
+          "time": "22:12:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01099",
+          "participantID": "0038",
+          "utterance": "싫어하는 특별한 이유가 있으신가요??",
+          "summary": "",
+          "date": "2022-07-28",
+          "time": "22:12:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00358",
+          "participantID": "0036",
+          "utterance": "아무래도 다른 음악보다 접하기 어렵다 보니 안익숙해서 그런것도 있는 것 같아요.",
+          "summary": "",
+          "date": "2022-07-28",
+          "time": "22:12:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01099",
+          "participantID": "0038",
+          "utterance": "아하 그럴수있겠네요.저는 강아지가 정원을 어지럽혀서 정리하고 와야겠네요.",
+          "summary": "강아지를 키운다.",
+          "date": "2022-07-28",
+          "time": "22:13:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00358",
+          "participantID": "0036",
+          "utterance": "그럴때 정말 짜증나죠 저도 어릴 때 고양이를 키웠었는데 정이 안가더라고요 그래서 그 이후로는 안키웠어요.",
+          "summary": "동물을 싫어한다.",
+          "date": "2022-07-28",
+          "time": "22:14:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01099",
+          "participantID": "0038",
+          "utterance": "안그래도 정원을 가꾸는건 지루한테 이럴 땐 강아지가 좀 밉네요.",
+          "summary": "정원을 가꾸는 게 지루하다.",
+          "date": "2022-07-28",
+          "time": "22:15:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00358",
+          "participantID": "0036",
+          "utterance": "강아지들은 원래 말썽꾸러기라고 하더라고요.",
+          "summary": "",
+          "date": "2022-07-28",
+          "time": "22:16:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01099",
+          "participantID": "0038",
+          "utterance": "제가 그래도 사랑으로 잘 길러보려구요.",
+          "summary": "",
+          "date": "2022-07-28",
+          "time": "22:17:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "00358",
+          "participantID": "0036",
+          "utterance": "가족이니까 어쩔 수 없죠 화이팅.",
+          "summary": "",
+          "date": "2022-07-28",
+          "time": "22:18:19",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "여자야구선수를 처음 본다.",
+          "어릴 때 야구를 했다.",
+          "재즈음악을 좋아한다.",
+          "강아지를 키운다.",
+          "정원을 가꾸는 게 지루하다."
+        ],
+        "speaker2": [
+          "나는 야구 선수이다.",
+          "재즈 음악을 싫어한다.",
+          "동물을 싫어한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "20대 남자이다.",
+          "일본에서 대지진이 일어났다.",
+          "일본에 친형이 산다.",
+          "항공관제사 일을 한다.",
+          "종교가 없다.",
+          "형에게 연락이 왔다."
+        ],
+        "speaker2": [
+          "30대 여자이다.",
+          "일본에 지인이 산다."
+        ]
+      }
+    }
+  ]
+}

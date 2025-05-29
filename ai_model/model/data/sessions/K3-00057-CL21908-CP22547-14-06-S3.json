@@ -1,0 +1,539 @@
+{
+  "FileInfo" : {
+    "filename" : "K3-00057-CL21908-CP22547-14-06-S3.json",
+    "sessionLevel" : "3"
+  },
+  "participantsInfo" : {
+    "numberOfParticipants" : "2",
+    "speaker1" : {
+      "participantID" : "0966",
+      "gender" : "여성",
+      "age" : "20대",
+      "occupation" : "무직",
+      "bPlace" : "서울/경기/인천",
+      "gPlace" : "서울/경기/인천",
+      "rPlace" : "서울/경기/인천",
+      "educationLevel" : "고졸"
+    },
+    "speaker2" : {
+      "participantID" : "0968",
+      "gender" : "여성",
+      "age" : "20대",
+      "occupation" : "무직",
+      "bPlace" : "서울/경기/인천",
+      "gPlace" : "서울/경기/인천",
+      "rPlace" : "서울/경기/인천",
+      "educationLevel" : "대졸"
+    }
+  },
+  "multisessionInfo" : {
+    "multisessionID" : "3-00057"
+  },
+  "personaInfo" : {
+    "clInfo" : {
+      "personaID" : "21908",
+      "personaFeatures" : [ "나는 여자이다.", "나는 20대이다.", "나는 다른 사람을 잘 배려한다.", "나는 합창단 동아리에 관심 있다.", "나는 스마트폰을 리뷰하는 것을 좋아한다." ],
+      "speakerType" : "speaker1"
+    },
+    "cpInfo" : {
+      "personaID" : "22547",
+      "personaFeatures" : [ "나는 여자이다.", "나는 20대이다.", "나의 종교는 개신교이다.", "나는 봉사활동을 하는 것을 좋아한다.", "나는 새로운 음식을 찾는 게 재미있다." ],
+      "speakerType" : "speaker2"
+    }
+  },
+  "topicInfo" : {
+    "topicID" : "14-06",
+    "topicType" : "시사/사회>사회이슈(국내)",
+    "topicTitle" : "주식"
+  },
+  "sessionInfo" : [ {
+    "prevSessionID" : null,
+    "prevTimeInfo" : {
+      "timeNum" : null,
+      "timeUnit" : null
+    },
+    "nthSession" : "1",
+    "numberOfUtterances" : "16",
+    "numberOfTurns" : "8",
+    "sessionID" : "3-00057-1",
+    "dialog" : [ {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "안녕하세요! 저는 20대 여자입니다!",
+      "summary" : "나는 20대 여자이다.",
+      "date" : "2022-10-16",
+      "time" : "20:17:31",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "안녕하세요. 저도 20대 여자입니다.",
+      "summary" : "나는 20대 여자이다.",
+      "date" : "2022-10-16",
+      "time" : "20:17:42",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "내일 일정 어떻게 되세요? 저는 관심 있는 합창 동아리 구경하러 가려고 해요.",
+      "summary" : "나는 내일 관심 있는 합창 동아리 구경하러 간다.",
+      "date" : "2022-10-16",
+      "time" : "20:18:11",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "전 종교가 개신교인데 거기서 하는 봉사활동하러 가요.",
+      "summary" : "나는 종교가 개신교이다. 나는 봉사 활동하러 간다.",
+      "date" : "2022-10-16",
+      "time" : "20:18:36",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "우와. 좋은 일 하시네요! 무슨 봉사활동인가요?",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:19:00",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "봉사활동하는 걸 좋아해요.ㅎㅎ 교육봉사입니다.",
+      "summary" : "나는 봉사 활동하는 걸 좋아한다. 교육봉사를 한다.",
+      "date" : "2022-10-16",
+      "time" : "20:19:20",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "@이름1@ 가르쳐주는 봉사인가요? 대단해요.",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:19:49",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "슬라임도 만들고 여러 활동 진행하고 재밌어요.",
+      "summary" : "나는 봉사에서 슬라임을 만들었다.",
+      "date" : "2022-10-16",
+      "time" : "20:20:15",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "저도 다른 사람 배려하는 데에는 소질이 있는데 다음에 참여해보고 싶어요..!!",
+      "summary" : "나는 다른 사람을 잘 배려한다. 나는 봉사활동에 참여해보고 싶다.",
+      "date" : "2022-10-16",
+      "time" : "20:20:29",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "좋은 생각이에요. 생각보다 훨씬 뿌듯할 거예요.",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:20:43",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "진짜 그럴 것 같아요. 오늘은 뭐 하세요? 저는 조금 있으면 스마트폰 택배 오면 리뷰할 예정이에요ㅎㅎ.",
+      "summary" : "나는 스마트폰 리뷰하는 것을 좋아한다.",
+      "date" : "2022-10-16",
+      "time" : "20:21:13",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "저는 새로운 음식 먹으러 다니는 거 좋아해서 오늘도 그럴 것 같아요.",
+      "summary" : "나는 새로운 음식을 먹는 걸 좋아한다.",
+      "date" : "2022-10-16",
+      "time" : "20:21:34",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "무슨 새로운 음식에 도전하실 예정인가요??",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:21:51",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "오늘은 네팔 음식 도전해 보려고 합니다.",
+      "summary" : "나는 오늘 네팔 음식을 먹을 거다.",
+      "date" : "2022-10-16",
+      "time" : "20:22:00",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "오...생소한데 저도 기대돼요!! 잠시만요! 저는 지금 택배가 와서요. 받고 리뷰하고 올게요!",
+      "summary" : "나는 택배를 받으러 간다.",
+      "date" : "2022-10-16",
+      "time" : "20:22:14",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "택배깡은 늘 설레죠. 잘 먹고 올게요.",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:22:31",
+      "terminate" : "true"
+    } ],
+    "sessionPersonaSummary" : {
+      "speaker1" : [ "나는 20대 여자이다.", "나는 내일 관심 있는 합창 동아리 구경하러 간다.", "나는 다른 사람을 잘 배려한다. 나는 봉사활동에 참여해보고 싶다.", "나는 스마트폰 리뷰하는 것을 좋아한다.", "나는 택배를 받으러 간다." ],
+      "speaker2" : [ "나는 20대 여자이다.", "나는 종교가 개신교이다. 나는 봉사 활동하러 간다.", "나는 봉사 활동하는 걸 좋아한다. 교육봉사를 한다.", "나는 봉사에서 슬라임을 만들었다.", "나는 새로운 음식을 먹는 걸 좋아한다.", "나는 오늘 네팔 음식을 먹을 거다." ]
+    },
+    "prevAggregatedpersonaSummary" : {
+      "speaker1" : [ ],
+      "speaker2" : [ ]
+    }
+  }, {
+    "prevSessionID" : "3-00057-1",
+    "prevTimeInfo" : {
+      "timeNum" : "1",
+      "timeUnit" : "일"
+    },
+    "nthSession" : "2",
+    "numberOfUtterances" : "16",
+    "numberOfTurns" : "8",
+    "sessionID" : "3-00057-2",
+    "dialog" : [ {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "어제 네팔 음식은 어떠셨나요? 저는 지금 합창 동아리 다녀왔네요.",
+      "summary" : "나는 지금 합창 동아리에 다녀왔다.",
+      "date" : "2022-10-16",
+      "time" : "20:22:59",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "좀 생소하긴 한데 재료도 다양하고 좋았어요. 합창 재밌겠네요!!",
+      "summary" : "네팔 음식 재료가 다양했다.",
+      "date" : "2022-10-16",
+      "time" : "20:23:19",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "네. 재밌어보이길래 가입하고 왔어요. 지금은 뭐 하고 계셨어요?",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:23:51",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "저는 얼마전에 산 주식 보고 있었네요.",
+      "summary" : "난 얼마 전에 산 주식을 보고 있다.",
+      "date" : "2022-10-16",
+      "time" : "20:24:06",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "주식하시나요?? 요즘 저 빼고 다 주식하는 기분이네요...",
+      "summary" : "나는 주식을 안 한다.",
+      "date" : "2022-10-16",
+      "time" : "20:24:19",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "주식 재밌어보여서 시작했는데 호락호락하지 않네요.",
+      "summary" : "나는 주식이 재밌어 보여서 시작했다.",
+      "date" : "2022-10-16",
+      "time" : "20:24:37",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "어디에 넣으셨어요? 사실 말해도 잘 이해 못하지만요..",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:24:57",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "저는 항공 관련 주식 투자했습니다.",
+      "summary" : "나는 항공 관련 주식에 투자했다.",
+      "date" : "2022-10-16",
+      "time" : "20:25:12",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "오.... 항공하면 @브랜드명1@밖에 생각 안 나네요ㅠ.",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:25:30",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "코로나 여행제한 풀려서 주가 오를 것 같아서 샀어요.",
+      "summary" : "나는 코로나 여행제한이 풀려서 항공 주가가 오를 것 같아서 샀다.",
+      "date" : "2022-10-16",
+      "time" : "20:25:46",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "현명하신데요?? 저도 호기심에 주식 사보고 싶어요.",
+      "summary" : "나는 주식을 사보고 싶다.",
+      "date" : "2022-10-16",
+      "time" : "20:26:06",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "한 번 사보시는 것도 추천드립니다.",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:26:25",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "근데 망할까봐 실행으로 옮길 생각조차 안 해봤네요...",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:26:53",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "저는 아빠가 항공주 사는 거 반대하셨는데 어떻게 될지 궁금하네요.ㅋㅋ.",
+      "summary" : "나는 아빠가 항공주 사는 걸 반대했다.",
+      "date" : "2022-10-16",
+      "time" : "20:27:02",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "나중에 잘 되면 슬쩍 알려주세용ㅎㅎㅎㅎㅎ.",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:27:25",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "저도 망할까봐 부담없는 금액 넣었어요. 네.ㅋㅋㅋ.",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:27:31",
+      "terminate" : "true"
+    } ],
+    "sessionPersonaSummary" : {
+      "speaker1" : [ "나는 지금 합창 동아리에 다녀왔다.", "나는 주식을 안 한다.", "나는 주식을 사보고 싶다." ],
+      "speaker2" : [ "네팔 음식 재료가 다양했다.", "난 얼마 전에 산 주식을 보고 있다.", "나는 주식이 재밌어 보여서 시작했다.", "나는 항공 관련 주식에 투자했다.", "나는 코로나 여행제한이 풀려서 항공 주가가 오를 것 같아서 샀다.", "나는 아빠가 항공주 사는 걸 반대했다." ]
+    },
+    "prevAggregatedpersonaSummary" : {
+      "speaker1" : [ "나는 20대 여자이다.", "나는 내일 관심 있는 합창 동아리 구경하러 간다.", "나는 다른 사람을 잘 배려한다. 나는 봉사활동에 참여해보고 싶다.", "나는 스마트폰 리뷰하는 것을 좋아한다.", "나는 택배를 받으러 간다." ],
+      "speaker2" : [ "나는 20대 여자이다.", "나는 종교가 개신교이다. 나는 봉사 활동하러 간다.", "나는 봉사 활동하는 걸 좋아한다. 교육봉사를 한다.", "나는 봉사에서 슬라임을 만들었다.", "나는 새로운 음식을 먹는 걸 좋아한다.", "나는 오늘 네팔 음식을 먹을 거다." ]
+    }
+  }, {
+    "prevSessionID" : "3-00057-2",
+    "prevTimeInfo" : {
+      "timeNum" : "1",
+      "timeUnit" : "일"
+    },
+    "nthSession" : "3",
+    "numberOfUtterances" : "16",
+    "numberOfTurns" : "8",
+    "sessionID" : "3-00057-3",
+    "dialog" : [ {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "어제 봉사 활동은 어떠셨나요?? 재밌었을 것 같아요.",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:27:48",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "봉사활동에서 가루쿡했는데 좋았어요.",
+      "summary" : "봉사활동에서 가루쿡을 했다.",
+      "date" : "2022-10-16",
+      "time" : "20:28:08",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "봉사활동에서 그런 거 하다니. 저는 그거 학생 때 했던 것 같아요.",
+      "summary" : "나는 학생 때 가루쿡을 했다.",
+      "date" : "2022-10-16",
+      "time" : "20:28:32",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "그러셨구나. @이름1@이라고 혹시 아시나요?",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:28:32",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "@이름1@ 보면 덩달아 순수해지는 기분 들 것 같아요.",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:29:04",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "ㅋㅋㅋ @브랜드명2@의 폐헤도 정말 많죠. 아 저희 때는 안 그랬는데ㅋㅋㅋㅋ.",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:29:50",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "ㅋㅋㅋ. 세대 차이가 꽤나 크게 느껴지는 것 같아요.",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:30:10",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "맞아요... 요즘은 하도 빨리 변해서 3년 차이도 큰 것 같아요.",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:30:26",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "정말 공감합니다. 제 동생이랑 두 살 차이인데도 뭔가 달라요.",
+      "summary" : "나는 동생과 두 살 차이 난다.",
+      "date" : "2022-10-16",
+      "time" : "20:30:46",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "저는 동생이랑 여섯살 차이나서 대화하기 힘들어요ㅋㅋ...",
+      "summary" : "나는 동생과 6살 차이 난다.",
+      "date" : "2022-10-16",
+      "time" : "20:31:10",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "그럴 것 같아요.. 제 동생은 메타버스 아이돌 좋아하던데 전 아예 처음 봤어요.ㅋㅋ.",
+      "summary" : "내 동생은 메타버스 아이돌을 좋아한다.",
+      "date" : "2022-10-16",
+      "time" : "20:31:31",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "우와 신기해요ㅋㅋㅋㅋ. 요즘 그런 거 예능도 있잖아요.",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:32:03",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "솔직히 메타버스 아이돌에 거부감 드는 거 보면 저도 꼰대 된 기분이에요.ㅋㅋ.",
+      "summary" : "나는 메타버스 아이돌에 거부감이 든다.",
+      "date" : "2022-10-16",
+      "time" : "20:32:06",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "사실 저도입니다... 아직 적응하려면 좀 걸릴 것 같아요.",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:32:23",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker1",
+      "personaID" : "21908",
+      "participantID" : "0966",
+      "utterance" : "맞습니다. 좀 더 발전할 수 있길 기대합니다.",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:32:40",
+      "terminate" : "false"
+    }, {
+      "speaker" : "speaker2",
+      "personaID" : "22547",
+      "participantID" : "0968",
+      "utterance" : "네 다음에 또봬요~",
+      "summary" : "",
+      "date" : "2022-10-16",
+      "time" : "20:32:40",
+      "terminate" : "true"
+    } ],
+    "sessionPersonaSummary" : {
+      "speaker1" : [ "나는 학생 때 가루쿡을 했다.", "나는 동생과 두 살 차이 난다.", "내 동생은 메타버스 아이돌을 좋아한다.", "나는 메타버스 아이돌에 거부감이 든다." ],
+      "speaker2" : [ "봉사활동에서 가루쿡을 했다.", "나는 동생과 6살 차이 난다." ]
+    },
+    "prevAggregatedpersonaSummary" : {
+      "speaker1" : [ "나는 20대 여자이다.", "나는 내일 관심 있는 합창 동아리 구경하러 간다.", "나는 다른 사람을 잘 배려한다. 나는 봉사활동에 참여해보고 싶다.", "나는 스마트폰 리뷰하는 것을 좋아한다.", "나는 택배를 받으러 간다.", "나는 지금 합창 동아리에 다녀왔다.", "나는 주식을 안 한다.", "나는 주식을 사보고 싶다." ],
+      "speaker2" : [ "나는 20대 여자이다.", "나는 종교가 개신교이다. 나는 봉사 활동하러 간다.", "나는 봉사 활동하는 걸 좋아한다. 교육봉사를 한다.", "나는 봉사에서 슬라임을 만들었다.", "나는 새로운 음식을 먹는 걸 좋아한다.", "나는 오늘 네팔 음식을 먹을 거다.", "네팔 음식 재료가 다양했다.", "난 얼마 전에 산 주식을 보고 있다.", "나는 주식이 재밌어 보여서 시작했다.", "나는 항공 관련 주식에 투자했다.", "나는 코로나 여행제한이 풀려서 항공 주가가 오를 것 같아서 샀다.", "나는 아빠가 항공주 사는 걸 반대했다." ]
+    }
+  } ]
+}

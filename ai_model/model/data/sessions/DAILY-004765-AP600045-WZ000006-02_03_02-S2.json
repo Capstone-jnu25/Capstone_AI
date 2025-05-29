@@ -1,0 +1,862 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-004765-AP600045-WZ000006-02_03_02-S2.json",
+        "sessionLevel": "2"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0012",
+            "gender": "여성",
+            "age": "20대",
+            "occupation": "사무직",
+            "bPlace": "대전/세종/충청/강원",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "응용통계학"
+        },
+        "speaker2": {
+            "participantID": "F0012",
+            "gender": "여성",
+            "age": "20대",
+            "occupation": "사무직",
+            "bPlace": "부산/대구/울산/경상",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "응용통계학"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "004765"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600045",
+            "personaFeatures": [
+                "나는 관광/감상의 유적에 대한 정보를 습득하고 있다.",
+                "나의 여자 형제는 한의사이다",
+                "나는 실외에서 자전거 타는 것을 싫어한다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000006",
+            "personaFeatures": [
+                "나는 유적에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_02",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "장소"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004765-1",
+            "sessionKeywords": [
+                "*경암루*,*경암루*의 유적"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600045",
+                    "participantID": "E0012",
+                    "utterance": "요즘 관광 유적에 대한 정보를 습득하는 중인데, 궁금한 것이 생겨서 물어보러 왔어!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 관광 유정에 대한 정보를 습득하고 있다.",
+                    "timestamp": 1695797336000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000006",
+                    "participantID": "F0012",
+                    "utterance": "반갑습니다. 어떤 유적이 궁금하신가요? 저는 유적이 대해 잘 알고 있어서 도움을 드릴 수 있습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797359000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600045",
+                    "participantID": "E0012",
+                    "utterance": "경암루에 대해 알 수 있을까? ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797381000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000006",
+                    "participantID": "F0012",
+                    "utterance": "경암루(景岩樓)는 황해북도 사리원시 경암동에 있는 조선시대 누정이에요.",
+                    "context": {
+                        "query": "경암루",
+                        "contents": [
+                            {
+                                "documentID": "313316",
+                                "documentTitle": "경암루",
+                                "content": [
+                                    "경암루(景岩樓)는 황해북도 사리원시 경암동에 있는 조선시대 누정이다.",
+                                    "사리원시 중심에 솟은 명승지인 경암산의 북쪽 기슭에 자리잡고 있는 아담하고 아름다운 정자이다.",
+                                    "《봉산군지》에 보면 경암루는 1798년(정조 22년)에 봉산군 관아건물로 지은 동헌인데, 원래는 군내 통성면 목정리에 있던 것을 1917년에 이곳으로 옮겼다.",
+                                    "현재 남아 있는 건물은 전쟁 중에 파괴되었던 것을 1954년과 1955년 2차례에 걸쳐 대대적인 보수공사를 하여 옛 모습을 되찾도록 하였다.",
+                                    "정면 3칸(8.36m), 측면 2칸(4.94m)의 겹처마 합작집인데, 바닥에는 널마루를 깔고 사방 돌아가면서 난간을 둘렀고 중단청을 하였다.",
+                                    "천장은 소란반자와 굵은 나무를 건너지르고 그 위에 나무개비를 바로 펴놓은 다음 이를 엮어 진흙으로 두껍게 바른 고미천장의 두 가지 형식을 조화있게 배합하였다.",
+                                    "비탈진 산자락에 붙여 지었기 때문에 뒤는 1층이고, 앞은 2층으로 되어 있다.",
+                                    "2층에는 나무 흘림기둥을 세우고, 1층에는 네모난 화강석기둥을 세웠으며, 모든 기둥들을 정면·측면 할 것 없이 같은 간격으로 벌려 놓았다.",
+                                    "기둥 위에는 꽃가지형의 2익공두공을 얹고, 액방 위에는 연꽃무늬화반을 놓았으며 모루단청으로 장식했다.",
+                                    "경암루는 건축솜씨도 뛰어나지만 경암산의 아름다운 자연경치, 시내를 바라보는 전망이 조화를 이루었다고 평가된다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "경암루(景岩樓)는 황해북도 사리원시 경암동에 있는 조선시대 누정이다.",
+                    "timestamp": 1695797399000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600045",
+                    "participantID": "E0012",
+                    "utterance": "오! 황해북도 있는 누정이었구나. 그래서 내가 생소했던 거였어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797438000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000006",
+                    "participantID": "F0012",
+                    "utterance": "맞아요. 흔히 접할 수 있는 유적은 아닌 것 같네요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797450000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600045",
+                    "participantID": "E0012",
+                    "utterance": "맞아 나는 유적지에 대해 구경다니는 것을 좋아해서 제법 많이 안다고 생각했는데 경암루는 생소했어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797479000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000006",
+                    "participantID": "F0012",
+                    "utterance": "충분히 그러실 수 있어요. 유적지에 대해 평소 관심이 많으신가봐요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797498000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600045",
+                    "participantID": "E0012",
+                    "utterance": "맞아. 나는 차타고 유적지를 보러다녀. 왜냐하면 나는 실외에서 자전거 타는 것은 싫어하거든.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 실외에서 자전거 타는 것을 싫어한다.",
+                    "timestamp": 1695797516000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000006",
+                    "participantID": "F0012",
+                    "utterance": "아하! 그런 분들도 꽤 많은 것 같아요 .",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797535000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600045",
+                    "participantID": "E0012",
+                    "utterance": "맞아. 내 여동생도 나와 똑같이 실외에서 자전거 타는 것을 싫어해.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797556000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000006",
+                    "participantID": "F0012",
+                    "utterance": "충분히 그러실 수 있죠. 동생분이랑 공통점이 있으시네요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797576000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600045",
+                    "participantID": "E0012",
+                    "utterance": "맞아. 근데 내 여자형제는 공부를 잘해서 한의사야. 이건 차이점이지.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나의 여자 형제는 공부를 잘해서 한의사이다.",
+                    "timestamp": 1695797591000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000006",
+                    "participantID": "F0012",
+                    "utterance": "오! 정말 대단하세요! 정말 멋지시네요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797632000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 관광 유정에 대한 정보를 습득하고 있다.",
+                    "나는 실외에서 자전거 타는 것을 싫어한다.",
+                    "나의 여자 형제는 공부를 잘해서 한의사이다."
+                ],
+                "wizard": [
+                    "경암루(景岩樓)는 황해북도 사리원시 경암동에 있는 조선시대 누정이다."
+                ],
+                "dialogSummary": "질문자는 경암루에 대해 질문했고, 챗봇은 경암루(景岩樓)는 황해북도 사리원시 경암동에 있는 조선시대 누정이라고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "004765-1",
+            "prevTimeInfo": {
+                "timeNum": "2",
+                "timeUnit": "시간"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004765-2",
+            "sessionKeywords": [
+                "*서울 구 러시아 공사관*,*서울 구 러시아 공사관*의 유적"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600045",
+                    "participantID": "E0012",
+                    "utterance": "안녕! 또 궁금한 점이 생겨서 금방 오게 되었어!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797649000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000006",
+                    "participantID": "F0012",
+                    "utterance": "아까 도움드렸던 것 괜찮았나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797661000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600045",
+                    "participantID": "E0012",
+                    "utterance": "응 그래서 또 물어볼라고 2시간밖에 안지났지만 오게되었어. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797681000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000006",
+                    "participantID": "F0012",
+                    "utterance": "이번에는 어떤 것이 궁금하신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797691000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600045",
+                    "participantID": "E0012",
+                    "utterance": "이번에는 서울 구 러시아 공사관에 대해 알려줘.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797700000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000006",
+                    "participantID": "F0012",
+                    "utterance": "러시아 공사관은 경운궁과 미국·영국 등 서양 국가의 공관 등이 집중적으로 위치한 정동을 내려다 볼 수 있는 언덕 위에 자리잡고 있어요.",
+                    "context": {
+                        "query": "러시아 공사관",
+                        "contents": [
+                            {
+                                "documentID": "303383",
+                                "documentTitle": "서울 구 러시아 공사관",
+                                "content": [
+                                    "구 러시아 공사관(舊 러시아 公使館)은 한러수호조약이 체결된 1885년에 착공되어 1890년 준공되었다.",
+                                    "이 건물은 경복궁과 경운궁 등 서울 4대문 안을 내려다 볼 수 있는 정동의 고지대에 입지했으며, 그 건물 규모나 대지 규모에서 미국·영국·프랑스·독일 공사관보다 컸다.",
+                                    "19세기 말 고종은 일본 세력을 견제하기 위하여 서양 세력을 이용하려 하였는데, 이 서양 국가 중에 러시아를 특히 중시했다.",
+                                    "러시아 공사관은 경운궁과 미국·영국 등 서양 국가의 공관 등이 집중적으로 위치한 정동을 내려다 볼 수 있는 언덕 위에 자리잡고 있었다.",
+                                    "역사.",
+                                    "을미사변으로 명성황후가 일본에 의해 시해된 후, 이에 위협을 느낀 고종은 1896년 2월 세자(순종)와 함께 러시아 공사관으로 피신하게 된다.",
+                                    "이 사건을 아관파천(俄館播遷)이라 부른다.",
+                                    "러시아 공사관은 국권 피탈 이후 1925년부터 해방 이후 1950년까지 소비에트 연방 영사관으로 이용되기도 하였다.",
+                                    "1950년 6.25 전쟁으로 인해 건물의 대부분이 파괴되었으며 현재는 외벽 일부와 3층 전망탑만 남아 있다.",
+                                    "이후 탑신만 남아 있다가 1973년 현재의 모습으로 복원됐다.",
+                                    "1977년 사적 제253호로 지정됐고, 1981년에는 조경 공사로 주변 환경이 정비됐다.",
+                                    "1987년에는 공사관 탑신 아래에 정동공원이 조성됐다.",
+                                    "바로 이 공원에서 계단을 따라 오르면 러시아공사관터가 나온다."
+                                ]
+                            },
+                            {
+                                "documentID": "1409906",
+                                "documentTitle": "로런스 올리펀트",
+                                "content": [
+                                    "로런스 올리펀트(Laurence Oliphant, 1829년 8월 3일 - 1888년 12월 23일)는 영국의 작가, 여행작가, 외교관, 신비주의자이다.",
+                                    "1870년에 출판된 풍자소설 《디카딜리》(\"Piccadilly\")의 작가로 알려져 있지만, 말년에는 심령주의 선지자인 토머스 레이크 해리스의 영향을 받았다.",
+                                    "생애.",
+                                    "로런스는 아버지 앤서니 올리펀트 경(Sir Anthony Oliphant, 1793년 – 1859년)의 독자였다.",
+                                    "스코틀랜드의 지주 계급이었지만, 1829년에 로런스가 탄생했을 때, 아버지는 케이프 식민지의 법무장관(attorney-general)이었다.",
+                                    "8살 때 어머니 마리아와 함께 영국으로 일단 귀국했다.",
+                                    "아버지는 그 즉시 대법원장으로 실론으로 전근을 갔기 때문에 올리펀트도 1841년 말 실론으로 향했다.",
+                                    "이후 콜롬보에서 지내게 된다.",
+                                    "올리펀트 부자는 중국에서 30개의 차나무를 실론으로 수입하여 ‘누와라 엘리야’(Nuwara Eliya)라는 자신의 토지에서 재배한 것으로 알려져 있다.",
+                                    "1846년부터 1848년에 걸쳐 부모님과 함께 유럽을 여행하였다.",
+                                    "처음에는 캠브리지 대학에 진학할 생각이었지만, 결국 실론으로 돌아왔다.",
+                                    "그래서 아버지의 개인 비서로 일하기 시작했다.",
+                                    "1851년, 올리펀트는 당시 네팔의 재상이었던 장 바하두르 쿤와르를 따라 콜롬보에서 네팔로 갔다.",
+                                    "거기에서의 경험을 바탕으로 최초의 소설인 《카트만두 여행》(\"A Journey to Katmandu\", 1852년)을 썼다.",
+                                    "이후 각지를 취재해 《블랙우드 매거진》, 《타임》, 《데일리 뉴스》 등에 자주 기고를 하는 기고가가 되었다.",
+                                    "러시아, 미국대륙 여행.",
+                                    "1851년 말에 처녀작 출판을 위해 영국으로 귀국했다.",
+                                    "차기작 출판을 위해 러시아로 여행을 떠났다.",
+                                    "변장을 하고 세바스토폴에 불법 침입하여 그 결과를 흑해 〈러시아령 연안〉(\"The Russian Shores of the Black Sea\", 1853년)으로 출판했다.",
+                                    "1853년부터 1861년까지 간헐적으로 엘긴 백작 제임스 브루스의 비서로 수행하며 캐나다와 미국에 동행하여, 최초의 임무로 워싱턴 DC에서 캐나다 상호 조약의 협상에 입회하여, 링컨도 만났다.",
+                                    "1855년 1월에 귀국, 뉴캐슬 공작과 함께 크림 전쟁 중인 터키에 갔다.",
+                                    "1856년 말부터 1857년에 걸쳐서는 윌리엄 워커에 의한 환 카리브 해 제국의 건설에 참여했지만, 계획은 실패했다.",
+                                    "중국, 일본.",
+                                    "엘긴 백작이 제2차 아편 전쟁(1856년 - 1860년)의 원정군의 사령관이 되면서 올리펀트는 개인 비서로 청나라에 동행했다.",
+                                    "도중, 일본과의 통상 조약을 체결하기 위해 일행은 1858년 7월 30일에 상하이를 4척의 함대로 출발하여, 8월 3일(안세이 5년)에 나가사키에 도착하여, 8월 12일에는 시나가와 앞바다에 정박했다.",
+                                    "8월 26일에 〈영일수호통상조약〉이 체결되었다.",
+                                    "약 1개월 전에 〈미일수호통상조약〉이 체결되었기 때문에 협상은 비교적 순조롭게 진행되었다.",
+                                    "올리펀트가 이 때의 모습을 정리하여 《엘긴 경의 일본사절록》으로 출판했다.",
+                                    "그는 어린 시절을 보냈던 남아프리카에 네덜란드 사람이 많았기 때문에 올리펀트는 네덜란드어를 말할 수 있었다.",
+                                    "엘긴과 극동 방문 후 외무장관 존 러셀(초대 러셀 백작)에게 일본 근무를 희망한다고 건의하여, 31세에 일본 대사관 직원으로 임명되었다, 1861년(분큐 원년)에는 러더퍼드 올콕으로부터 재일본 영국공사관의 공사로 임명되었다.",
+                                    "올콕이 휴가를 다서 영국에 가 있는 동안 대리 공사를 맡을 예정이었다.",
+                                    "올리펀트는 1861년 6월 말에 에도에 도착했다.",
+                                    "7월 5일 새벽 공사관은 양이파 낭인들에게 습격을 당한 제1차 도젠지 사건이 발생했다.",
+                                    "권총은 여행 가방에 넣은 채로 있었기 때문에, 올리펀트는 말채찍을 집어들었다.",
+                                    "어둠 때문에 치명적인 타격을 받는 것은 아니었지만, 몇 군데 부상 치료를 위해 배로 보내졌다.",
+                                    "결국 이 사건 때문에 귀국하게 되었는데, 올리펀트에게는 중요한 임무가 주어졌다.",
+                                    "당시 에도 막부는 양이 운동에 시달리고 있었고, 니가타, 효고, 에도, 오사카의 개항과 개발 연기를 요청했다.",
+                                    "올콕은 원래 그 요청에 반대하는 입장이었지만, 8월 14일과 8월 15일에 올콕, 올리펀트, 영국동인도 함대 사령관 제임스 호프, 노중 안도 노부마사, 와카도시요리, 사카이 다만니다에 통역을 더한 비밀 회담이 열렸다.",
+                                    "이 자리에서 올콕은 일본의 속사정을 이해하고, 개항을 연기하는데 찬성하는 입장으로 전환하게 된다.",
+                                    "귀국한 올리펀트에게는 정책 변경을 영국 정부에 전달하고 동의를 얻는 역할이 주어졌다.",
+                                    "올리펀트는 조선에 들른 후 영국으로 귀국했다.",
+                                    "조선에서 러시아 군함이 마을에서 떨어진 바다를 점령하고 있는 것을 발견하고, 이들을 철수시켰다.",
+                                    "또한, 팔 부상이 완전히 낫지 않아 후유증이 남았다.",
+                                    "귀국과 미국 이민.",
+                                    "1865년, 영국으로 돌아 와 하원의원으로 선출되었지만, 의원으로서 눈에 띄는 활동을 하지는 못했다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "러시아 공사관은 경운궁과 미국·영국 등 서양 국가의 공관 등이 집중적으로 위치한 정동을 내려다 볼 수 있는 언덕 위에 자리잡고 있었다.",
+                    "timestamp": 1695797730000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600045",
+                    "participantID": "E0012",
+                    "utterance": "오! 신기하다! 정동을 내려다 볼 수 있는 언덕 위에 자리하고 있다니 처음 알게되는 정보야.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797782000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000006",
+                    "participantID": "F0012",
+                    "utterance": "새로운 정보를 알려드리게 되어서 뿌듯하네요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797798000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600045",
+                    "participantID": "E0012",
+                    "utterance": "나도 새로운 정보를 습득할 수 있게 되어서 너무 좋네. 나는 공부하는 것을 좋아하는 편이거든",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797848000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000006",
+                    "participantID": "F0012",
+                    "utterance": "오 정말 대단해요! 공부를 좋아하시다니 정말 멋있으시네요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797861000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600045",
+                    "participantID": "E0012",
+                    "utterance": "응 나는 스트레스를 받으면 수학 문제를 풀어, 그럼 머리가 맑아지거든",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 스트레스를 받으면 수학 문제를 푼다.",
+                    "timestamp": 1695797875000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000006",
+                    "participantID": "F0012",
+                    "utterance": "대단하세요! 저도 본받고 싶은 생각이 드는 걸요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797888000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600045",
+                    "participantID": "E0012",
+                    "utterance": "내 친구들도 나를 따라하던데 충분히 너도 할 수 있을거야.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797901000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000006",
+                    "participantID": "F0012",
+                    "utterance": "저도 노력해볼게요. 좋은 행동인 것 같네요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695797915000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 스트레스를 받으면 수학 문제를 푼다."
+                ],
+                "wizard": [
+                    "러시아 공사관은 경운궁과 미국·영국 등 서양 국가의 공관 등이 집중적으로 위치한 정동을 내려다 볼 수 있는 언덕 위에 자리잡고 있었다."
+                ],
+                "dialogSummary": "질문자는 서울 구 러시아 공사관에 대해 질문하였고 챗봇은 러시아 공사관은 경운궁과 미국·영국 등 서양 국가의 공관 등이 집중적으로 위치한 정동을 내려다 볼 수 있는 언덕 위에 자리잡고 있다고 답변하였다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광 유정에 대한 정보를 습득하고 있다.",
+                    "나는 실외에서 자전거 타는 것을 싫어한다.",
+                    "나의 여자 형제는 공부를 잘해서 한의사이다."
+                ],
+                "wizard": [
+                    "경암루(景岩樓)는 황해북도 사리원시 경암동에 있는 조선시대 누정이다."
+                ]
+            }
+        }
+    ]
+}

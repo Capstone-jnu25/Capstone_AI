@@ -1,0 +1,413 @@
+{
+  "FileInfo": {
+    "filename": "K2-00081-CL33755-CP34085-15-06-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0757",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "자영업",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0736",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00081"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "33755",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 매일 주식을 사고 판다.",
+        "나는 측량사이다.",
+        "나는 실외에서 축구하는 것을 싫어한다.",
+        "나는 와인을 최근에 끊었다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "34085",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 가을을 좋아한다.",
+        "나는 캐나다에 가 보고 싶다.",
+        "나는 현실이 비통하다.",
+        "나는 신 음식을 즐겨 먹는다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "15-06",
+    "topicType": "시사/사회>타국가이슈(해외)",
+    "topicTitle": "전쟁"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00081-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33755",
+          "participantID": "0757",
+          "utterance": "안녕하십니까! 저는 30대 여자입니다.",
+          "summary": "나는 30대 여자이다.",
+          "date": "2022-10-10",
+          "time": "10:13:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "34085",
+          "participantID": "0736",
+          "utterance": "반갑습니다. 저도 30대 여자입니다.",
+          "summary": "나는 30대 여자이다.",
+          "date": "2022-10-10",
+          "time": "10:14:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33755",
+          "participantID": "0757",
+          "utterance": "저는 측량사입니다. 어떤 일을 하고 계신가요?",
+          "summary": "나는 측량사이다.",
+          "date": "2022-10-10",
+          "time": "10:14:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "34085",
+          "participantID": "0736",
+          "utterance": "저는 지금 직장에서 일을 하고 있습니다.",
+          "summary": "나는 직장인이다.",
+          "date": "2022-10-10",
+          "time": "10:14:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33755",
+          "participantID": "0757",
+          "utterance": "그렇군요. 저는 매일 주식을 사고 팔아요. 혹시 주식에 관심 있으세요?",
+          "summary": "나는 매일 주식을 사고 판다.",
+          "date": "2022-10-10",
+          "time": "10:14:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "34085",
+          "participantID": "0736",
+          "utterance": "아니요 저는 주식에는 관심이 없네요. 주식은 잘 되가나요?",
+          "summary": "나는 주식에 관심이 없다.",
+          "date": "2022-10-10",
+          "time": "10:14:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33755",
+          "participantID": "0757",
+          "utterance": "그냥 그럭저럭 잘 되는거같아요. 더 대박났으면 좋겠어요. 오늘은 일하고 계시죠?",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "10:15:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "34085",
+          "participantID": "0736",
+          "utterance": "다행이네요. 더 대박 나시길 바래요. 네 오늘 일하고 있는데 곧 정규직 심사를 해요ㅠ 근데 저는 가망이 없네요ㅠ.",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "10:15:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33755",
+          "participantID": "0757",
+          "utterance": "아 지금은 비정규직이신가요?ㅠㅠ 아니예요 잘 될수도 있죠.",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "10:16:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "34085",
+          "participantID": "0736",
+          "utterance": "네 지금은 비정규직이요ㅠ저는 고졸이라서 정규직이 될수 없을것같다고 그러더라고요. 이런 현실이 비통하네요ㅠ.",
+          "summary": "나는 비정규직이다, 나는 고졸이다, 나는 현실이 비통하다.",
+          "date": "2022-10-10",
+          "time": "10:16:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33755",
+          "participantID": "0757",
+          "utterance": "열심히 하시면 될거 같아요. 학력으로만 결정하는건 안되는거같아요ㅠ.",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "10:17:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "34085",
+          "participantID": "0736",
+          "utterance": "근데 학력을 본다고 하더라고요ㅠ 저 말고 다 대졸이예요ㅠ.",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "10:17:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33755",
+          "participantID": "0757",
+          "utterance": "속상하시겠네요ㅠ그럼 다음에 또 연락드릴게요.",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "10:17:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "34085",
+          "participantID": "0736",
+          "utterance": "네 속상하네요ㅠ 그럼 다음에 연락해요.",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "10:17:54",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 측량사이다.",
+          "나는 매일 주식을 사고 판다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다.",
+          "나는 직장인이다.",
+          "나는 주식에 관심이 없다.",
+          "나는 비정규직이다, 나는 고졸이다, 나는 현실이 비통하다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00081-1",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00081-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33755",
+          "participantID": "0757",
+          "utterance": "안녕하세요! 4주일만이네요. 저는 요즘도 주식을 매일 사고 팔아요. 혹시 정규직 심사는 잘 되었나요?",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "10:18:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "34085",
+          "participantID": "0736",
+          "utterance": "아니요ㅠ 저는 정규직에서 떨어졌어요. 그럴줄 알았네요.",
+          "summary": "나는 정규직으로 불합격했다.",
+          "date": "2022-10-10",
+          "time": "10:18:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33755",
+          "participantID": "0757",
+          "utterance": "다른 더 좋은 회사가 많아요. 너무 속상해하지마세요ㅠ 그나저나 해외 전쟁은 아직도 진행중인가봐요? 뉴스를 보는데 소식보고 마음이 안 좋네요.",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "10:19:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "34085",
+          "participantID": "0736",
+          "utterance": "네 나중에 이직도 고민을 해봐야겠어요ㅠ 해외 전쟁은 지금도 하고 있더라고요.",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "10:19:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33755",
+          "participantID": "0757",
+          "utterance": "@이름1@이 너무 많은 피해를 봐서 속상하네요ㅠㅠ 저는 오늘 쉬는날이예요. 뭐하고 계셨어요?",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "10:20:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "34085",
+          "participantID": "0736",
+          "utterance": "그러게요ㅠ 저도 속상했네요. 오늘은 쉬는날이여서 피크닉을 나왔어요.",
+          "summary": "나는 피크닉을 나왔다.",
+          "date": "2022-10-10",
+          "time": "10:20:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33755",
+          "participantID": "0757",
+          "utterance": "그러시군요? 저도 운동을 나왔어요. 제가 실외에서 축구하는 것을 싫어해서 실내 축구장을 왔어요. 오늘 피크닉하기에 날씨가 좋나요?",
+          "summary": "나는 실외에서 축구하는 것을 싫어한다.",
+          "date": "2022-10-10",
+          "time": "10:21:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "34085",
+          "participantID": "0736",
+          "utterance": "제가 즐겨 먹는 신음식도 챙겨서 나왔어요. 레몬에이드 레몬 젤리를 챙겼네요. 저는 가을을 좋아해요. 가을은 피크닉하기 좋은 날씨이죠.",
+          "summary": "나는 신 음식을 즐겨 먹는다, 나는 가을을 좋아한다.",
+          "date": "2022-10-10",
+          "time": "10:21:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33755",
+          "participantID": "0757",
+          "utterance": "가을이라 날씨가 진짜 좋네요. 저는 요즘 건강이 좀 안좋은거 같아서 와인을 최근에 끊었어요. 오늘 축구도 열심히 해야겠어요.",
+          "summary": "나는 와인을 최근에 끊었다.",
+          "date": "2022-10-10",
+          "time": "10:22:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "34085",
+          "participantID": "0736",
+          "utterance": "건강에 안 좋으시면 잘 끊으신것같네요. 운동도 열심히 하세요.",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "10:23:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33755",
+          "participantID": "0757",
+          "utterance": "네 더 건강을 챙겨야갰어요. 오늘 피크닉 재밌으시겠어요?",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "10:23:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "34085",
+          "participantID": "0736",
+          "utterance": "네 재밌어요. 지금 피크닉 하면서 캐나다 여행 브이로그를 보고 있는데 캐나다에 가 보고 싶네요.",
+          "summary": "나는 캐나다에 가 보고 싶다.",
+          "date": "2022-10-10",
+          "time": "10:24:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33755",
+          "participantID": "0757",
+          "utterance": "다음에는 캐나다로 여행도 갈수 있으시길 바랍니다. 또 연락드릴게요!",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "10:24:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "34085",
+          "participantID": "0736",
+          "utterance": "네 그럼 좋겠네요 오늘 하루 잘 보내시고 다음에 또 연락해요.",
+          "summary": "",
+          "date": "2022-10-10",
+          "time": "10:24:39",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 실외에서 축구하는 것을 싫어한다.",
+          "나는 와인을 최근에 끊었다."
+        ],
+        "speaker2": [
+          "나는 정규직으로 불합격했다.",
+          "나는 피크닉을 나왔다.",
+          "나는 신 음식을 즐겨 먹는다, 나는 가을을 좋아한다.",
+          "나는 캐나다에 가 보고 싶다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 측량사이다.",
+          "나는 매일 주식을 사고 판다."
+        ],
+        "speaker2": [
+          "나는 30대 여자이다.",
+          "나는 직장인이다.",
+          "나는 주식에 관심이 없다.",
+          "나는 비정규직이다, 나는 고졸이다, 나는 현실이 비통하다."
+        ]
+      }
+    }
+  ]
+}

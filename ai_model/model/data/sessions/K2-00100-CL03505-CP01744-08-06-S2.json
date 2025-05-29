@@ -1,0 +1,422 @@
+{
+  "FileInfo": {
+    "filename": "K2-00100-CL03505-CP01744-08-06-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0093",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0116",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00100"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "03505",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나의 거주지는 서울이다.",
+        "나는 중식을 즐겨 먹는다.",
+        "나는 수필을 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "01744",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 거주지는 경기도이다.",
+        "나는 식물을 키우고 싶다.",
+        "나는 EDM 음악을 가끔 듣는다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "08-06",
+    "topicType": "개인 및 관계>연애/결혼",
+    "topicTitle": "데이트"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00100-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03505",
+          "participantID": "0093",
+          "utterance": "안녕하세요 저는 43살 남자입니다^^ 반가워요.",
+          "summary": "나는 40대 남자이다.",
+          "date": "2022-08-13",
+          "time": "13:23:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01744",
+          "participantID": "0116",
+          "utterance": "안녕하세요! 저는 23살 여자입니다~ 말씀편하게하세요.",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-08-13",
+          "time": "13:23:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03505",
+          "participantID": "0093",
+          "utterance": "그러면 반말하겠습니다! 내일 와이프랑 데이트를 어디가야할지 모르겠네.",
+          "summary": "나는 내일 아내랑 데이트를 갈 생각이다.",
+          "date": "2022-08-13",
+          "time": "13:23:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01744",
+          "participantID": "0116",
+          "utterance": "여자라면 예쁜 카페좋아잖아요! 그런데 찾아보시고 가시는게 어떠세요?",
+          "summary": "나는 식물을 좋아하고 식물원을 자주 간다.",
+          "date": "2022-08-13",
+          "time": "13:23:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03505",
+          "participantID": "0093",
+          "utterance": "그럴까? 그러면 우리가 중식을 즐겨 먹으니까 맛있는 중식당 갔다가 예쁜 카페를 가야겠다 ㅎㅎ.",
+          "summary": "나는 중식을 즐겨먹는데 중식당을 갔다가 예쁜 카페를 갈 것이다.",
+          "date": "2022-08-13",
+          "time": "13:23:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01744",
+          "participantID": "0116",
+          "utterance": "완벽한데요? 아주 좋은 데이트 보낼것같아요^^ 저는 데이트를 자주 못하는데 부러워요 ㅜㅜ.",
+          "summary": "나는 데이트를 자주 못한다.",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03505",
+          "participantID": "0093",
+          "utterance": "왜? 부모님들이 조금 보수적이신 편인가?",
+          "summary": "",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01744",
+          "participantID": "0116",
+          "utterance": "아니요... 저는 경기도에 사는데 그 친구는 서울이라서ㅜㅜ 그래도 2주에 한번정도 데이트합니다 ㅎㅎ.",
+          "summary": "나는 경기도에 살고 남자 친구는 서울에 살고 있으며 2주에 한번 데이트를 한다.",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03505",
+          "participantID": "0093",
+          "utterance": "2주에 한번이라니 힘들겠네... 내가 서울사거든? 나중에 거기로 데이트오면 내가 쏠게!",
+          "summary": "나는 서울에 살고 데이트를 서울로 하게 되면 쏘기로 했다.",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01744",
+          "participantID": "0116",
+          "utterance": "진짜요? 저희가 안그래도 학생이라서 데이트비용이 만만치가 않은데 그래주시면 땡큐베리죠~",
+          "summary": "나는 남자 친구랑 같이 대학생이고 데이트 비용이 만만치 않다.",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03505",
+          "participantID": "0093",
+          "utterance": "그치...대학생이면 그런게 조금 버겁지 ㅎㅎ 나도 다 겪어봐서 다 알어 ㅎㅎ.",
+          "summary": "나도 옛날에 이럴 때가 있었다.",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01744",
+          "participantID": "0116",
+          "utterance": "그러면 혹시 대학생때 만난 여자친구분이 지금의 아내분이신가요?",
+          "summary": "",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03505",
+          "participantID": "0093",
+          "utterance": "응응! 내 첫사랑이자 마지막 사랑 ㅎㅎ 호랑이도 제말하면 온다더니 와이프가 부르는구만 다음에 연락할게~",
+          "summary": "지금의 아내가 내 첫사랑이자 마지막 사랑이다.",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01744",
+          "participantID": "0116",
+          "utterance": "네네! 나중에 연락하시고 내일 데이트 잘 보내세요!!",
+          "summary": "",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다.",
+          "나는 내일 아내랑 데이트를 갈 생각이다.",
+          "나는 중식을 즐겨먹는데 중식당을 갔다가 예쁜 카페를 갈 것이다.",
+          "나는 서울에 살고 데이트를 서울로 하게 되면 쏘기로 했다.",
+          "나도 옛날에 이럴 때가 있었다.",
+          "지금의 아내가 내 첫사랑이자 마지막 사랑이다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 식물을 좋아하고 식물원을 자주 간다.",
+          "나는 데이트를 자주 못한다.",
+          "나는 경기도에 살고 남자 친구는 서울에 살고 있으며 2주에 한번 데이트를 한다.",
+          "나는 남자 친구랑 같이 대학생이고 데이트 비용이 만만치 않다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00100-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00100-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03505",
+          "participantID": "0093",
+          "utterance": "이틀 전에 말해준 말덕분에 데이트 성공했네^^ 와이프가 예쁜카페를 엄청 좋아하더라고.",
+          "summary": "예쁜 카페에서 아내는 좋아했고 데이트는 성곡적이었다.",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01744",
+          "participantID": "0116",
+          "utterance": "다행이네요 ㅎㅎ 저 고민이 있어요 식물을 키우고 싶은데 기숙사 생활한단말이죠 키울까요? 말까요?",
+          "summary": "나는 식물을 키우고 싶은데 기숙사 생활해서 고민이 된다.",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03505",
+          "participantID": "0093",
+          "utterance": "음~내가 또 식물박사지 기숙사생활하니까 작고 다육식물로 키우는게 좋을것같은데?",
+          "summary": "나는 기숙사생활로 인해서 작은 다육식물을 추천했다.",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01744",
+          "participantID": "0116",
+          "utterance": "그럴까요? 작은거는 괜찮겠죠? ㅎㅎ 기숙사생활하니까 불편한게 한둘이아니네요 ㅜㅜ.",
+          "summary": "기숙사 생활이 많이 불편하다.",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03505",
+          "participantID": "0093",
+          "utterance": "맞아...옛날에 내 룸메가 수필을 읽겠다고 밤에 불을 켜놓는거야 나는 자야하는데... 그래서 이제 수필이 싫어 ㅎㅎ.",
+          "summary": "옛날에 룸메이트가 밤에 불을 켜고 수필을 읽어서 많이 불편했었으며 그로 인해 수필이 싫어졌다.",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01744",
+          "participantID": "0116",
+          "utterance": "우와...진짜 많이 불편하셨겠어요 ㅠㅠ 저는 EDM노래를 매일 크게 듣는데 기숙사 생활하면서 가끔밖에 못들어요 ㅜㅜ.",
+          "summary": "나는 EDM노래를 매일 들었지만 기숙사생활로 인해서 가끔밖에 못 듣는다.",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03505",
+          "participantID": "0093",
+          "utterance": "그렇구만... 그레도 배려심이 좋네 ㅎㅎ 내 옛날 룸메는 흐흐흐.",
+          "summary": "",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01744",
+          "participantID": "0116",
+          "utterance": "ㅋㅋㅋㅋ맞다! 대학다닐때 연애얘기 좀 해주세요ㅎㅎ.",
+          "summary": "",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03505",
+          "participantID": "0093",
+          "utterance": "별거 없어! ㅋㅋㅋㅋ 미팅으로 만나서 첫눈에 반해가지고 내가 데이트하자고 많이 매달렸어.",
+          "summary": "지금의 와이프랑 미팅으로 만났고 데이트하자고 많이 매달렸다.",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01744",
+          "participantID": "0116",
+          "utterance": "아 진짜요? 많이 좋아하셨나봐요^^ 그래서 지금도 이렇게 다정하신가.",
+          "summary": "",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03505",
+          "participantID": "0093",
+          "utterance": "하하하 내가 좀 다정해! 그리고 아직도 좋아 ㅎㅎ 너는 어떻게 만났어?",
+          "summary": "나는 지금도 아내가 좋다.",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01744",
+          "participantID": "0116",
+          "utterance": "저는 친구였다가 연인으로 발전했어요 ㅋㅋㅋㅋ 세상에 남녀사이에 친구는 없다니깐요!!",
+          "summary": "나는 남녀 사이에 친구가 없다고 생각한다.",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03505",
+          "participantID": "0093",
+          "utterance": "ㅋㅋㅋㅋㅋ 맞아! 내 주변만 봐도 그래 아내한테 전화가 오네! 다음에 연락할게.",
+          "summary": "",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01744",
+          "participantID": "0116",
+          "utterance": "네네~ 다음에 꼭 연락해요~ 같이 이렇게 연락하면 재미있네요.",
+          "summary": "",
+          "date": "2022-08-13",
+          "time": "16:28:07",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "예쁜 카페에서 아내는 좋아했고 데이트는 성곡적이었다.",
+          "나는 기숙사생활로 인해서 작은 다육식물을 추천했다.",
+          "옛날에 룸메이트가 밤에 불을 켜고 수필을 읽어서 많이 불편했었으며 그로 인해 수필이 싫어졌다.",
+          "지금의 와이프랑 미팅으로 만났고 데이트하자고 많이 매달렸다.",
+          "나는 지금도 아내가 좋다."
+        ],
+        "speaker2": [
+          "나는 식물을 키우고 싶은데 기숙사 생활해서 고민이 된다.",
+          "기숙사 생활이 많이 불편하다.",
+          "나는 EDM노래를 매일 들었지만 기숙사생활로 인해서 가끔밖에 못 듣는다.",
+          "나는 남녀 사이에 친구가 없다고 생각한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남자이다.",
+          "나는 내일 아내랑 데이트를 갈 생각이다.",
+          "나는 중식을 즐겨먹는데 중식당을 갔다가 예쁜 카페를 갈 것이다.",
+          "나는 서울에 살고 데이트를 서울로 하게 되면 쏘기로 했다.",
+          "나도 옛날에 이럴 때가 있었다.",
+          "지금의 아내가 내 첫사랑이자 마지막 사랑이다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 식물을 좋아하고 식물원을 자주 간다.",
+          "나는 데이트를 자주 못한다.",
+          "나는 경기도에 살고 남자 친구는 서울에 살고 있으며 2주에 한번 데이트를 한다.",
+          "나는 남자 친구랑 같이 대학생이고 데이트 비용이 만만치 않다."
+        ]
+      }
+    }
+  ]
+}

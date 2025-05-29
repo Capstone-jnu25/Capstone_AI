@@ -1,0 +1,675 @@
+{
+  "FileInfo": {
+    "filename": "K3-00053-CL21691-CP21066-17-13-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0719",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0660",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "기타",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00053"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "21691",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 햄스터 두 마리를 키운다.",
+        "나는 쇼핑호스트이다.",
+        "나는 사과를 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "21066",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나의 거주지는 부산이다.",
+        "나는 인생에서 가장 기쁘던 때는 라식 수술을 했을 때이다.",
+        "나는 TV 시사 프로그램을 자주 본다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "17-13",
+    "topicType": "미용과 건강>건강",
+    "topicTitle": "영양제"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00053-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "안녕하세요 저는 20대 여자입니다. 저는 현직 쇼핑호스트로 일하고 있습니다. 반가워요 ^^",
+          "summary": "나는 20대 여성이다. 나는 쇼핑호스트이다.",
+          "date": "2022-10-02",
+          "time": "08:16:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "안녕하세요 저는 20대 남자입니다. 부산에 살고 있습니다!",
+          "summary": "나는 20대 남성이다. 나의 거주지는 부산이다.",
+          "date": "2022-10-02",
+          "time": "08:17:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "오호.. 안녕하세요? 부산에 몇 번 놀러 간 적 있었는데 ㅋㅋㅋ 반갑네요.",
+          "summary": "나는 부산에 놀러 가 본 적이 있다.",
+          "date": "2022-10-02",
+          "time": "08:17:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "부산에 자주들 놀러오시죠 ㅋㅋ 보통 해운대나 뭐...?",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "08:17:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "아 맞아요 해운대 으... 가봤는데 사람들 진짜 많더라구요?",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "08:17:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "사실 해운대 말고 더 놀 만한 곳이 많아요 ㅋㅋ 서면이라든가?",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "08:18:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "그렇져 ㅋㅋ 1번가 2번가 다 가봤습니다 ㅋㅋㅋ.",
+          "summary": "나는 서면 1번가 를 가 봤다. 나는 서면 2번가를 가 봤다.",
+          "date": "2022-10-02",
+          "time": "08:18:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "오오 ㅋㅋㅋ 자주 와보셨나 보네요. 추천해드릴 것도 없겠어요.",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "08:18:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "원래 여행은 잘 안 다니는데 거의 집순이에 가까워요... 정말 오랫만에 간거라 ㅋㅋ.",
+          "summary": "나는 여행을 잘 안 간다. 나는 집순이다. 나는 여행을 오랜만에 갔다.",
+          "date": "2022-10-02",
+          "time": "08:18:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "저도 부산 말고는 어디 나가본 적이 많이 없습니다 ㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "08:18:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "근데 부산 사투리는 너무쌔서 ㅠ... 한번식 기가 눌러요.",
+          "summary": "나는 부산 사투리에 한번 식 기가 눌린다.",
+          "date": "2022-10-02",
+          "time": "08:19:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "ㅠㅠ친구랑 대화하면 다른 지방이나 서울 사람들이 싸우지 말라고 하는데 그냥 대화하는 거예요...",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "08:19:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "ㅋㅋㅋㅋㅋ 아 저도 당연히 이해하죠!... 앗 근데 혹시 식사는 하셨어요?",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "08:19:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "아 지금 먹으러 가려고요 ㅋㅋ 님은 식사하셨어요?",
+          "summary": "나는 식사할 예정이다.",
+          "date": "2022-10-02",
+          "time": "08:19:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "저도 인제 슬슬 먹으러 갈려고 합니다. ㅎ 먹고 연락 드릴게요~",
+          "summary": "나는 밥을 먹으러 갈 예정이다. 나는 밥을 먹고 연락할 예정이다.",
+          "date": "2022-10-02",
+          "time": "08:20:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "네 알겠습니다 그럼 맛밥하시고 이따가 봐요~",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "08:20:17",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다. 나는 쇼핑호스트이다.",
+          "나는 부산에 놀러 가 본 적이 있다.",
+          "나는 서면 1번가 를 가 봤다. 나는 서면 2번가를 가 봤다.",
+          "나는 여행을 잘 안 간다. 나는 집순이다. 나는 여행을 오랜만에 갔다.",
+          "나는 부산 사투리에 한번 식 기가 눌린다.",
+          "나는 밥을 먹으러 갈 예정이다. 나는 밥을 먹고 연락할 예정이다."
+        ],
+        "speaker2": [
+          "나는 20대 남성이다. 나의 거주지는 부산이다.",
+          "나는 식사할 예정이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00053-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00053-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "오우... 식사는 맛있게 하셨어요? 저는 잘 갔다왔습니다 ㅋ.",
+          "summary": "나는 밥을 다 먹었다.",
+          "date": "2022-10-02",
+          "time": "08:20:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "어우 배부르네요. 걷기도 귀찮아요 ㅋㅋ 얼른 집에 들어가야지...",
+          "summary": "나는 배부르다. 나는 걷기 귀찮다. 나는 귀가 중이다.",
+          "date": "2022-10-02",
+          "time": "08:20:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "저는 일 만 안하면 거의 집에 있어서.. 집이 최곱니다 ㅋ.",
+          "summary": "나는 집이 최고다.",
+          "date": "2022-10-02",
+          "time": "08:20:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "ㅋㅋㅋ역시 집순이! 근데 쇼핑호스트면 사람 만나는 거 좋아할 거 같은 인상이었는데.",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "08:21:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "대다수가 그렇긴 한데 저는 직업이랑 별개로 집에 있는거 좋아해요.",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "08:21:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "그렇군요... 사람 만나는 거 싫어하면 직업이 잘 안 맞진 않으세요?",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "08:21:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "이상하게 직업이랑은 잘 맞는디... 이번 소개 할 아이템도 지금 정보 확인 하고 있었어요.",
+          "summary": "나는 소개할 아이템을 확인 중이었다.",
+          "date": "2022-10-02",
+          "time": "08:21:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "ㅋㅋㅋ그건 좀 신기하네요. 어우 이제 집에 도착했습니다!",
+          "summary": "나는 집에 도착했다.",
+          "date": "2022-10-02",
+          "time": "08:22:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "아 지금요? 저는 항상 집인지라 ㅋㅋㅋ...",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "08:22:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "집 바로 밑에 있는 가게에 다녀와서 ㅋㅋ 금방 올라왔죠. 오자말자 TV 켜고 눕기 ㅋㅋ.",
+          "summary": "나는 TV를 켰다.",
+          "date": "2022-10-02",
+          "time": "08:23:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "그럼 금방 다녀 오셨겟네요.. 저는 TV는 잘 안 봐서 TV에 대해 잘 모르겠어요.",
+          "summary": "나는 TV를 잘 안 본다.",
+          "date": "2022-10-02",
+          "time": "08:23:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "아... 쇼핑호스트신데도??? 저는 시사 프로그램 자주 봐요.",
+          "summary": "나는 TV 시사 프로그램을 자주 본다.",
+          "date": "2022-10-02",
+          "time": "08:23:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "아 시사 프로그램 잘 보시는구나.. 저는 크게 흥미가 없어요 .. 저는 동물 키우는거 좋아해서 ㅎㅎ..",
+          "summary": "나는 동물을 키우는 걸 좋아한다.",
+          "date": "2022-10-02",
+          "time": "08:24:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "오 동물? 귀여워서 저도 좋아합니다. 혹시 뭐 키우고 계세요?",
+          "summary": "나는 동물을 좋아한다.",
+          "date": "2022-10-02",
+          "time": "08:24:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "저는 햄토리 2마리 키우고 있어요 ㅎ 쪼꼬미인데 아주 귀여워요 생소하죠?",
+          "summary": "나는 햄토리 두 마리를 키운다.",
+          "date": "2022-10-02",
+          "time": "08:24:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "햄토리 ㅋㅋㅋ 햄스터 말하는 거 맞죠 귀엽겠네요. 아 저 잠시만요 맥주 엎질러서 좀 ㅠㅠ;",
+          "summary": "나는 맥주를 엎질렀다.",
+          "date": "2022-10-02",
+          "time": "08:24:53",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 밥을 다 먹었다.",
+          "나는 집이 최고다.",
+          "나는 소개할 아이템을 확인 중이었다.",
+          "나는 TV를 잘 안 본다.",
+          "나는 동물을 키우는 걸 좋아한다.",
+          "나는 햄토리 두 마리를 키운다."
+        ],
+        "speaker2": [
+          "나는 배부르다. 나는 걷기 귀찮다. 나는 귀가 중이다.",
+          "나는 집에 도착했다.",
+          "나는 TV를 켰다.",
+          "나는 TV 시사 프로그램을 자주 본다.",
+          "나는 동물을 좋아한다.",
+          "나는 맥주를 엎질렀다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다. 나는 쇼핑호스트이다.",
+          "나는 부산에 놀러 가 본 적이 있다.",
+          "나는 서면 1번가 를 가 봤다. 나는 서면 2번가를 가 봤다.",
+          "나는 여행을 잘 안 간다. 나는 집순이다. 나는 여행을 오랜만에 갔다.",
+          "나는 부산 사투리에 한번 식 기가 눌린다.",
+          "나는 밥을 먹으러 갈 예정이다. 나는 밥을 먹고 연락할 예정이다."
+        ],
+        "speaker2": [
+          "나는 20대 남성이다. 나의 거주지는 부산이다.",
+          "나는 식사할 예정이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00053-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00053-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "일부러 턴 길게 연락드렸어요.. 제가 아까 너무 제 말만 한거 같아서 ㅠ..;",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "08:26:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "어우 몸에 맥주 냄새가 배서 진동을 하네요... 네? 아니에요 전혀요 ㅋㅋ.",
+          "summary": "나는 몸에 맥주 냄새가 뱄다.",
+          "date": "2022-10-02",
+          "time": "08:26:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "아직도요? 헐 2시간 지났는데 많이 흘리셨나봅니다..",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "08:26:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "한 캔을 그냥 다 쏟아버려가지고 ㅋㅋㅋ ㅠㅠ 한모금도 못 마셨네요.",
+          "summary": "나는 맥주를 못 마셨다.",
+          "date": "2022-10-02",
+          "time": "08:27:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "헐;;;; 어떻합니까.. 좋아하시는걸 다 쏟아버리셧네 ㅠ 저 때문인거 같슴다..",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "08:27:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "별수 없죠... 아우ㅋㅋ 어쩌다 이런 실수를 했는지... 님과 대화가 재밌어서 집중했나봐요 ㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "08:27:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "저는 그래도 내일 일 할꺼 보면서 하고 있었는데 너무 제 생각만 한 듯 하네요 ㅠ.",
+          "summary": "나는 일 하며 대화 중이었다.",
+          "date": "2022-10-02",
+          "time": "08:28:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "ㅠㅠ저만 진심이었던 건가요... 는 농담입니다 ㅠㅠㅋ.",
+          "summary": "",
+          "date": "2022-10-02",
+          "time": "08:28:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "그럼 저도 일은 잠시 보류하고 눈이 퍽퍽해서 인공 눈물좀 넣으러 가야겠어요..; 눈이 자주 아파서리..",
+          "summary": "나는 일을 보류한다. 나는 인공 눈물을 넣을 예정이다. 나는 눈이 자주 아프다.",
+          "date": "2022-10-02",
+          "time": "08:29:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "어... 눈이 많이 안 좋으신가봐요? 저도 몇년 전까지는 건조증 땜에 고생했는데...",
+          "summary": "나는 몇 년 전 안구건조증이 있었다.",
+          "date": "2022-10-02",
+          "time": "08:30:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "네 많이 안 좋은 편이에요.. 근데 거기다가 렌즈까지 오랫동안끼니 힘드네요..",
+          "summary": "나는 렌즈를 오랫동안 사용했다.",
+          "date": "2022-10-02",
+          "time": "08:30:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "어우 라식 생각은 없으세요? 전 라식하고 나서 세상이 달라졌는데... 제 인생에서 가장 기뻤던 순간인ㅠㅠㅋ.",
+          "summary": "나는 라식을 했다. 나는 인생에서 가장 기쁘던 때는 라식 수술을 했을 때이다.",
+          "date": "2022-10-02",
+          "time": "08:30:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "저도 라섹 고려중이에요... 다들 편하다던데.. 건강도 챙겨야하고 하니까..",
+          "summary": "나는 라섹을 고려중이다.",
+          "date": "2022-10-02",
+          "time": "08:31:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "넵넵 강추드립니다. 건강... 아 맞다 아까 맥주 쏟으면서 영양제도 같이 엎었는데 챙겨먹는 거 깜빡했네요.",
+          "summary": "나는 영양제를 쏟았다.",
+          "date": "2022-10-02",
+          "time": "08:32:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21691",
+          "participantID": "0719",
+          "utterance": "앗 저는 엄마가 사과 깎아 준다고 해서 가서 후식으로 먹어야겠어요.. 사과 싫어하는데.. 엄마가 깎아주신 성의가 있으니 조금이라도 먹어야 겠습니다..",
+          "summary": "나는 엄마가 있다. 나의 엄마가 사과를 깎아줬다. 나는 사과를 싫어한다.",
+          "date": "2022-10-02",
+          "time": "08:33:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "21066",
+          "participantID": "0660",
+          "utterance": "아구 저런ㅎㅎ 네 챙겨드시고 저도 식사도 좀 하고 나중에 다시 연락드릴게요ㅎㅎ.",
+          "summary": "나는 식사할 예정이다.",
+          "date": "2022-10-02",
+          "time": "08:33:22",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 일 하며 대화 중이었다.",
+          "나는 일을 보류한다. 나는 인공 눈물을 넣을 예정이다. 나는 눈이 자주 아프다.",
+          "나는 렌즈를 오랫동안 사용했다.",
+          "나는 라섹을 고려중이다.",
+          "나는 엄마가 있다. 나의 엄마가 사과를 깎아줬다. 나는 사과를 싫어한다."
+        ],
+        "speaker2": [
+          "나는 몸에 맥주 냄새가 뱄다.",
+          "나는 맥주를 못 마셨다.",
+          "나는 몇 년 전 안구건조증이 있었다.",
+          "나는 라식을 했다. 나는 인생에서 가장 기쁘던 때는 라식 수술을 했을 때이다.",
+          "나는 영양제를 쏟았다.",
+          "나는 식사할 예정이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다. 나는 쇼핑호스트이다.",
+          "나는 부산에 놀러 가 본 적이 있다.",
+          "나는 서면 1번가 를 가 봤다. 나는 서면 2번가를 가 봤다.",
+          "나는 여행을 잘 안 간다. 나는 집순이다. 나는 여행을 오랜만에 갔다.",
+          "나는 부산 사투리에 한번 식 기가 눌린다.",
+          "나는 밥을 먹으러 갈 예정이다. 나는 밥을 먹고 연락할 예정이다.",
+          "나는 밥을 다 먹었다.",
+          "나는 집이 최고다.",
+          "나는 소개할 아이템을 확인 중이었다.",
+          "나는 TV를 잘 안 본다.",
+          "나는 동물을 키우는 걸 좋아한다.",
+          "나는 햄토리 두 마리를 키운다."
+        ],
+        "speaker2": [
+          "나는 20대 남성이다. 나의 거주지는 부산이다.",
+          "나는 식사할 예정이다.",
+          "나는 배부르다. 나는 걷기 귀찮다. 나는 귀가 중이다.",
+          "나는 집에 도착했다.",
+          "나는 TV를 켰다.",
+          "나는 TV 시사 프로그램을 자주 본다.",
+          "나는 동물을 좋아한다.",
+          "나는 맥주를 엎질렀다."
+        ]
+      }
+    }
+  ]
+}

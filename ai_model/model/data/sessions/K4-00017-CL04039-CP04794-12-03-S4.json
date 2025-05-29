@@ -1,0 +1,895 @@
+{
+  "FileInfo": {
+    "filename": "K4-00017-CL04039-CP04794-12-03-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0914",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0922",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00017"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "04039",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나의 거주지는 서울이다.",
+        "나는 요즘, 매일 질투가 난다.",
+        "나는 한의사이다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "04794",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 연인이 없고 외롭다.",
+        "나는 TV 드라마를 싫어한다.",
+        "나는 병원 코디네이터이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "12-03",
+    "topicType": "여가와 오락>여행",
+    "topicTitle": "여행 계획"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00017-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "안녕하세요^^ 저는 40대 여자입니다. 반가워요^^",
+          "summary": "나는 40대 여자다.",
+          "date": "2022-10-29",
+          "time": "21:40:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "반가워요^^~ 저는 50대 여자입니다. 어디 살고 계세요?",
+          "summary": "나는 50대 여자다.",
+          "date": "2022-10-29",
+          "time": "21:40:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "저요? 저는 서울에 거주중이에요.",
+          "summary": "나는 서울에 산다.",
+          "date": "2022-10-29",
+          "time": "21:40:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "직장도 서울에서 다니세요? 전 옆도시 병원으로 출퇴근하거든요.",
+          "summary": "나는 병원으로 출퇴근을 한다.",
+          "date": "2022-10-29",
+          "time": "21:40:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "서울에서 한의원을 하고 있어요^^ 병원에서 무슨 일을 하세요?",
+          "summary": "나는 서울에서 한의원을 한다.",
+          "date": "2022-10-29",
+          "time": "21:41:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "저는 병원 코디네이터 일을 하고 있어요. 동종 업계네요!",
+          "summary": "나는 병원 코디네이터이다.",
+          "date": "2022-10-29",
+          "time": "21:41:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "그러게요, 반가워요ㅋㅋㅋㅋ 그러고보니 드라마 좀 보세요?",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:42:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "저는 TV 드라마를 싫어해서 드라마를 안 봐요.",
+          "summary": "나는 TV 드라마를 싫어한다.",
+          "date": "2022-10-29",
+          "time": "21:42:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "진짜요? 드라마 안 보는 사람은 처음이라 신기하네요.",
+          "summary": "나는 드라마 안 보는 사람은 처음이다.",
+          "date": "2022-10-29",
+          "time": "21:42:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "제가 연인이 없는데, 드라마 속 커플만 보면 외로워져서 못보겠더라고요^^;;",
+          "summary": "나는 연인이 없다. 나는 드라마 속 커플을 보면 외로워진다.",
+          "date": "2022-10-29",
+          "time": "21:42:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "그러면 미혼이거나 비혼이신 건가요?",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:43:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "정확히는 돌싱이에요. 전 남편하고는 이혼했었어요.",
+          "summary": "나는 돌싱이다. 나는 남편과 이혼했다.",
+          "date": "2022-10-29",
+          "time": "21:43:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "그거 부럽네요... 저 요즘 싱글인 사람만 보면 매일 질투나거든요ㅋㅋ.",
+          "summary": "나는 싱글인 사람에게 질투를 느낀다.",
+          "date": "2022-10-29",
+          "time": "21:43:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "혹시라도 싱글의 삶을 고민중이시라면, 과감하게 저지르는게 도움이 된다고 말을 하고 싶어요.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:43:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "용기가 없는 제가 좀 싫네요^^ㅜ 아, 저 약국 열 시간이 돼서 이만 가볼게요.",
+          "summary": "나는 용기가 없다. 나는 약국 열 시간이 됐다.",
+          "date": "2022-10-29",
+          "time": "21:44:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "다녀오세요~ 저도 지금 환자분들이 몰려오고 계시긴 하네요ㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:44:37",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 여자다.",
+          "나는 서울에 산다.",
+          "나는 서울에서 한의원을 한다.",
+          "나는 드라마 안 보는 사람은 처음이다.",
+          "나는 싱글인 사람에게 질투를 느낀다.",
+          "나는 용기가 없다. 나는 약국 열 시간이 됐다."
+        ],
+        "speaker2": [
+          "나는 50대 여자다.",
+          "나는 병원으로 출퇴근을 한다.",
+          "나는 병원 코디네이터이다.",
+          "나는 TV 드라마를 싫어한다.",
+          "나는 연인이 없다. 나는 드라마 속 커플을 보면 외로워진다.",
+          "나는 돌싱이다. 나는 남편과 이혼했다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00017-1",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00017-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "아유, 무슨 점심까지 쉴 틈도 없을 줄은 몰랐어요.",
+          "summary": "나는 점심까지 쉴 틈이 없었다.",
+          "date": "2022-10-29",
+          "time": "21:45:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "그러게요, 거의 4~5시간만에 뵙네요.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:45:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "이제 12시 40분인데 점심은 잘 드시고 오셨어요?",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:45:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "지금 다같이 점심 먹고 들어가는 길이에요.",
+          "summary": "나는 점심을 먹고 들어가는 길이다.",
+          "date": "2022-10-29",
+          "time": "21:45:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "저는 혼밥하느라 외로운데ㅜ 다같이 무슨 이야기 하시고 계세요?",
+          "summary": "나는 혼밥 하느라 외롭다.",
+          "date": "2022-10-29",
+          "time": "21:46:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "저희 지금 다음 연휴에 뭐할거냐는 이야기 하고 있어요.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:46:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "다음 연휴요? 하긴, 곧이긴 하네요.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:46:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "지금 가볍게 여행 다녀오는 건 어떠냐는 이야기도 나오고 있어요.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:46:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "여행 계획 세우기엔 살짝 좀 늦은 시기 아닌가요?",
+          "summary": "나는 여행 계획 세우기에 살짝 늦은 시기라고 생각한다.",
+          "date": "2022-10-29",
+          "time": "21:47:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "멀리 가는 게 아니라면 지금 여행 계획 세워도 괜찮으니까요ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:47:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "하긴 연휴라고 해서 멀리 여행 갈 이유도 없으니까요.",
+          "summary": "나는 연휴라고 멀리 여행 갈 이유가 없다고 생각한다.",
+          "date": "2022-10-29",
+          "time": "21:47:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "저도 가볍게 강릉으로 한 번 여행가볼까 하고 있어요^^",
+          "summary": "나는 강릉으로 여행을 가볼까 생각 중이다.",
+          "date": "2022-10-29",
+          "time": "21:47:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "강릉이면 당일치기로도 다녀오실 수 있으시겠어요.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:47:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "맞아요, 저도 수도권에 사는지라 가능할 것 같아요ㅋㅋ.",
+          "summary": "나는 수도권에 산다.",
+          "date": "2022-10-29",
+          "time": "21:48:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "저도 여행 가고 싶네요~ 저는 그럼 슬슬 다시 진료 준비 하러 가야겠어요.",
+          "summary": "나는 여행에 가고 싶다. 나는 진료 준비하러 갈 것이다.",
+          "date": "2022-10-29",
+          "time": "21:48:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "퇴근까지 서로 화이팅해요! 다녀오세요^^",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:48:58",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 점심까지 쉴 틈이 없었다.",
+          "나는 혼밥 하느라 외롭다.",
+          "나는 여행 계획 세우기에 살짝 늦은 시기라고 생각한다.",
+          "나는 연휴라고 멀리 여행 갈 이유가 없다고 생각한다.",
+          "나는 여행에 가고 싶다. 나는 진료 준비하러 갈 것이다."
+        ],
+        "speaker2": [
+          "나는 점심을 먹고 들어가는 길이다.",
+          "나는 강릉으로 여행을 가볼까 생각 중이다.",
+          "나는 수도권에 산다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여자다.",
+          "나는 서울에 산다.",
+          "나는 서울에서 한의원을 한다.",
+          "나는 드라마 안 보는 사람은 처음이다.",
+          "나는 싱글인 사람에게 질투를 느낀다.",
+          "나는 용기가 없다. 나는 약국 열 시간이 됐다."
+        ],
+        "speaker2": [
+          "나는 50대 여자다.",
+          "나는 병원으로 출퇴근을 한다.",
+          "나는 병원 코디네이터이다.",
+          "나는 TV 드라마를 싫어한다.",
+          "나는 연인이 없다. 나는 드라마 속 커플을 보면 외로워진다.",
+          "나는 돌싱이다. 나는 남편과 이혼했다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00017-2",
+      "prevTimeInfo": {
+        "timeNum": "7",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00017-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "저는 이제서야 병원 문 닫고 퇴근중이에요~ 좋은 저녁^^",
+          "summary": "나는 퇴근 중이다.",
+          "date": "2022-10-29",
+          "time": "21:49:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "부럽다, 저는 오늘 야간근무예요~ 저랑 바꿔주세요.",
+          "summary": "나는 오늘 야간근무이다.",
+          "date": "2022-10-29",
+          "time": "21:50:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "안타깝게도 제가 아직 싱글이 아니라서 집에 가봐야 하네요ㅜㅜ.",
+          "summary": "나는 싱글이 아니다.",
+          "date": "2022-10-29",
+          "time": "21:50:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "제가 남편 잠시 떠맡고 있을게요^^",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:50:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "무료 베이비시터 해주시는 건가요?ㅋㅋㅋㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:51:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "대신 야간근무 해주시는거니까 무료는 아니쥬ㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:51:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "흠, 손주까지 봐주시면 제가 봐드릴 순 있어요^^",
+          "summary": "나는 손주가 있다.",
+          "date": "2022-10-29",
+          "time": "21:51:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "손주요? 40대라고 하시지 않으셨어요?",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:51:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "저희 아가가 좀 크게 사고를 쳐서요...^^;;",
+          "summary": "나의 자식은 사고를 쳐서 아이를 낳았다.",
+          "date": "2022-10-29",
+          "time": "21:51:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "아이고, 그래서 이혼을 못하고 계시구나.",
+          "summary": "나는 손주 때문에 이혼을 못하고 있다.",
+          "date": "2022-10-29",
+          "time": "21:52:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "맞아요. 가끔 이게 부모님 이혼을 막기 위한 딸의 계략인건가 싶기도 해요.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:52:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "따님이 똑똑하신데요? 아주 효과적으로 막았네요.",
+          "summary": "나는 상대방의 딸이 똑똑하다고 생각한다.",
+          "date": "2022-10-29",
+          "time": "21:52:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "그러니까 말이에요. 그 머리로 @소속1@나 갈 것이지.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:52:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "@소속1@ 갈 실력으로 계획을 세운 걸지도요.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:53:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "ㅋㅋㅋㅋㅋ누굴 닮았는지요, 원. 저는 이제 손주좀 봐주고 올게요.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:53:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "어째 퇴근이 아니라 다시 출근을 하시는 것 같으시네요 ㅜㅜ.",
+          "summary": "나는 손주를 보는 것이 출근과 같다고 생각한다.",
+          "date": "2022-10-29",
+          "time": "21:54:10",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 퇴근 중이다.",
+          "나는 싱글이 아니다.",
+          "나는 손주가 있다.",
+          "나의 자식은 사고를 쳐서 아이를 낳았다."
+        ],
+        "speaker2": [
+          "나는 오늘 야간근무이다.",
+          "나는 손주 때문에 이혼을 못하고 있다.",
+          "나는 상대방의 딸이 똑똑하다고 생각한다.",
+          "나는 손주를 보는 것이 출근과 같다고 생각한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여자다.",
+          "나는 서울에 산다.",
+          "나는 서울에서 한의원을 한다.",
+          "나는 드라마 안 보는 사람은 처음이다.",
+          "나는 싱글인 사람에게 질투를 느낀다.",
+          "나는 용기가 없다. 나는 약국 열 시간이 됐다.",
+          "나는 점심까지 쉴 틈이 없었다.",
+          "나는 혼밥 하느라 외롭다.",
+          "나는 여행 계획 세우기에 살짝 늦은 시기라고 생각한다.",
+          "나는 연휴라고 멀리 여행 갈 이유가 없다고 생각한다.",
+          "나는 여행에 가고 싶다. 나는 진료 준비하러 갈 것이다."
+        ],
+        "speaker2": [
+          "나는 50대 여자다.",
+          "나는 병원으로 출퇴근을 한다.",
+          "나는 병원 코디네이터이다.",
+          "나는 TV 드라마를 싫어한다.",
+          "나는 연인이 없다. 나는 드라마 속 커플을 보면 외로워진다.",
+          "나는 돌싱이다. 나는 남편과 이혼했다.",
+          "나는 점심을 먹고 들어가는 길이다.",
+          "나는 강릉으로 여행을 가볼까 생각 중이다.",
+          "나는 수도권에 산다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00017-3",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "시간"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00017-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "안녕하세요... 벌써 밤이 이렇게.. 되었네요...",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:54:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "헉, 지금까지 생존에 성공하셨네요!",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:54:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "손주가 아직 잠을 못자고 있거든요...^^!",
+          "summary": "나의 손주는 아직 못 자고 있다.",
+          "date": "2022-10-29",
+          "time": "21:54:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "애기가 잠자리에 좀 까다로운 기준이 있나봐요.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:55:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "맞아요. 눕히기만 하면 울고불고 난리가 난다니까요. 잘 때까지 안고 있어야 해요.",
+          "summary": "나는 손주를 잘 때까지 안고 있어야 한다.",
+          "date": "2022-10-29",
+          "time": "21:55:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "잠들고 나서야 눕힐 수 있다면 되게 피곤하시겠어요.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:55:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "그뿐만이 아니에요. 한 술 더 뜨죠.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:56:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "아, 설마.. 손주분에게 \"그게\" 달려있나요?!",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:56:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "맞아요. 등에 센서라도 달려있는지 아주 등센서가 작동하기만 하면 발광을 한다니까요.",
+          "summary": "나의 손주는 등 센서가 달려있다.",
+          "date": "2022-10-29",
+          "time": "21:56:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "아이고.. 그러면 잠도 못주무시겠어요.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:56:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "어쩌겠어요, 아기 안고 앉아서 졸아야죠 뭐.",
+          "summary": "나는 손주를 안고 존다.",
+          "date": "2022-10-29",
+          "time": "21:57:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "딸아이랑 남편은 뭐하고 있대요?",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:57:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "남편놈은 존재 가치도 없고, 딸아이는 대학생이라 한창 시험공부중이래요.",
+          "summary": "나의 남편은 존재 가치가 없다. 나의 딸은 대학생이다.",
+          "date": "2022-10-29",
+          "time": "21:57:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "싱글이 되고 싶으실만 하는데요? 고생이 많으시네요...",
+          "summary": "나는 상대방이 싱글이 되고 싶을 만하다고 생각한다.",
+          "date": "2022-10-29",
+          "time": "21:57:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04039",
+          "participantID": "0914",
+          "utterance": "아, 애기가 또 울고 있어요. 달래고 올게요...",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:58:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "04794",
+          "participantID": "0922",
+          "utterance": "오시지 않으셔도 돼요. 좀 쉬시는 게 좋으실 듯...ㅜㅜ.",
+          "summary": "",
+          "date": "2022-10-29",
+          "time": "21:58:23",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나의 손주는 아직 못 자고 있다.",
+          "나는 손주를 잘 때까지 안고 있어야 한다.",
+          "나의 손주는 등 센서가 달려있다.",
+          "나는 손주를 안고 존다.",
+          "나의 남편은 존재 가치가 없다. 나의 딸은 대학생이다."
+        ],
+        "speaker2": [
+          "나는 상대방이 싱글이 되고 싶을 만하다고 생각한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여자다.",
+          "나는 서울에 산다.",
+          "나는 서울에서 한의원을 한다.",
+          "나는 드라마 안 보는 사람은 처음이다.",
+          "나는 싱글인 사람에게 질투를 느낀다.",
+          "나는 용기가 없다. 나는 약국 열 시간이 됐다.",
+          "나는 점심까지 쉴 틈이 없었다.",
+          "나는 혼밥 하느라 외롭다.",
+          "나는 여행 계획 세우기에 살짝 늦은 시기라고 생각한다.",
+          "나는 연휴라고 멀리 여행 갈 이유가 없다고 생각한다.",
+          "나는 여행에 가고 싶다. 나는 진료 준비하러 갈 것이다.",
+          "나는 퇴근 중이다.",
+          "나는 싱글이 아니다.",
+          "나는 손주가 있다.",
+          "나의 자식은 사고를 쳐서 아이를 낳았다."
+        ],
+        "speaker2": [
+          "나는 50대 여자다.",
+          "나는 병원으로 출퇴근을 한다.",
+          "나는 병원 코디네이터이다.",
+          "나는 TV 드라마를 싫어한다.",
+          "나는 연인이 없다. 나는 드라마 속 커플을 보면 외로워진다.",
+          "나는 돌싱이다. 나는 남편과 이혼했다.",
+          "나는 점심을 먹고 들어가는 길이다.",
+          "나는 강릉으로 여행을 가볼까 생각 중이다.",
+          "나는 수도권에 산다.",
+          "나는 오늘 야간근무이다.",
+          "나는 손주 때문에 이혼을 못하고 있다.",
+          "나는 상대방의 딸이 똑똑하다고 생각한다.",
+          "나는 손주를 보는 것이 출근과 같다고 생각한다."
+        ]
+      }
+    }
+  ]
+}

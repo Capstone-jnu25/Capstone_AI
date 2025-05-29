@@ -1,0 +1,763 @@
+{
+  "FileInfo": {
+    "filename": "K4-00068-CL90232-CP91871-17-12-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "32203",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "서비스직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대학원졸"
+    },
+    "speaker2": {
+      "participantID": "31288",
+      "gender": "남성",
+      "age": "40대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00068"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "90232",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 검은색을 좋아한다.",
+        "나의 생일은 3월이다.",
+        "나는 자신감이 넘친다.",
+        "나는 토마토파스타를 좋아한다.",
+        "나는 혈액형이 B형이다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "91871",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 R&B 음악을 가끔 듣는다.",
+        "나는 뉴질랜드에 가봤다.",
+        "나는 매우 유머러스하다.",
+        "나의 생일은 1월이다.",
+        "나는 혈액형이 O형이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "17-12",
+    "topicType": "미용과 건강>건강",
+    "topicTitle": "한약"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00068-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "헬로헬로~ 저는 30대 여성입니다.",
+          "summary": "나는 30대 여성이다.",
+          "date": "2022-11-24",
+          "time": "09:36:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "넵 하@이름1@! 저는 40대 남자입니다.",
+          "summary": "나는 40대 남성이다.",
+          "date": "2022-11-24",
+          "time": "09:36:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "40대시군요. 그쪽은 혹시 옷사는거 좋아하세요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:36:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "옷이요? 그냥 그런거 같아요. 그쪽은요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:36:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "저는 옷 좋아해요. 특히 검정색을 좋아해서, 집에 검정옷이 많아요.",
+          "summary": "나는 검은색을 좋아한다.",
+          "date": "2022-11-24",
+          "time": "09:37:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "아아 그렇군요. 검정색 좋아하시는구나. 저도 검정 좋아합니다.",
+          "summary": "나는 검정색을 좋아한다.",
+          "date": "2022-11-24",
+          "time": "09:37:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "아 그래요? 취향이 겹쳐서 좋네요. 제 생일인 3월때도 많이 받았거든요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:37:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "그랬군요! 너무 기뻤겠어요~",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:37:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "감사합니다. 그럼 그쪽은 취미가 어떻게되요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:38:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "아 저는 R&B 음악을 가끔 듣고요. 재미있는 채널들을 자주 봅니다. 제가 매우 유머러스해서 그런 채널을 좋아해요.",
+          "summary": "나는 R&B 음악을 가끔 듣는다. 나는 매우 유머러스하다.",
+          "date": "2022-11-24",
+          "time": "09:38:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "유머 채널들은 재밌죠! 저는 @기타명@ 동영상 채널 많이 봐요.",
+          "summary": "나는 @기타명@ 동영상 채널을 많이 본다.",
+          "date": "2022-11-24",
+          "time": "09:39:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "아 그러시구나! 저도 그 채널도 많이 봅니다!",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:39:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "그럼 전 이만 가봐야겠네요. 슬슬 가봐야 할것 같아서요. 담에 또 자세한 이야기 해요!",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:39:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "네 알겠습니다! 그럼 좋은 하루 되세요~",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:40:03",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나는 검은색을 좋아한다.",
+          "나는 @기타명@ 동영상 채널을 많이 본다."
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 검정색을 좋아한다.",
+          "나는 R&B 음악을 가끔 듣는다. 나는 매우 유머러스하다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00068-1",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00068-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "5일정도 지났죠? 안녕하세요. 잘 지내셨어요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:40:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "반갑습니다. 자주 연락하니 좋네요!",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:40:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "그쪽은 그러고보니 혈액형이 어떻게 되요? 저는 B형인데 말이죠. 그래서 검정색을 좋아하는것 같기도 하고요.",
+          "summary": "나는 검정색을 좋아한다. 나는 혈액형이 B형이다.",
+          "date": "2022-11-24",
+          "time": "09:40:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "아 저는 O형입니다. 다르긴 하지만 취향은 비슷하네요.",
+          "summary": "나는 혈액형이 O형이다.",
+          "date": "2022-11-24",
+          "time": "09:40:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "아 O형이시구나. 그럼 최근에 건강은 괜찮으세요? 저는 요즘 살짝 기력이 허약한것 같더라고요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:41:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "건강이요? 환절기라 유의하고는 있어요. 아.. 그러시구나...",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:41:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "네. 그래서 한약이라도 지어먹을까 생각중이에요. 제가 원래 자신감이 넘치는데 오늘 조금 힘들더라고요.",
+          "summary": "나는 자신감이 넘친다.",
+          "date": "2022-11-24",
+          "time": "09:41:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "아 그정도였나요? 그렇다면 한약도 좋겠어요. 제가 뉴질랜드에 가봤는데, 거기도 한약 비슷한 걸 지어서 먹곤 하더라고요.",
+          "summary": "나는 뉴질랜드에 가봤다.",
+          "date": "2022-11-24",
+          "time": "09:42:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "아 그래요? 뉴질랜드에 그런게 있어요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:42:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "네 그런게 있더라고요. 양의가 대부분이긴 하지만, 한의같이 이것저것 달여서 먹는 곳도 있었어요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:42:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "뭐 완전 한의학과 같진 않곘지만 민간요법이 있나보네요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:42:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "네 그런가봐요. 저도 몰랐던거라 신기하더라고요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:43:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "그럼 저는 이만 가볼게요. 기회되면 다음에 또 연락해요~",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:43:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "네 알겠습니다. 다음에 봐요!",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:45:56",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 검정색을 좋아한다. 나는 혈액형이 B형이다.",
+          "나는 자신감이 넘친다."
+        ],
+        "speaker2": [
+          "나는 혈액형이 O형이다.",
+          "나는 뉴질랜드에 가봤다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나는 검은색을 좋아한다.",
+          "나는 @기타명@ 동영상 채널을 많이 본다."
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 검정색을 좋아한다.",
+          "나는 R&B 음악을 가끔 듣는다. 나는 매우 유머러스하다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00068-2",
+      "prevTimeInfo": {
+        "timeNum": "25",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00068-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "하루 정도 지난것 같은데 맞나요? 안녕하세요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:45:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "네 그러네요! 25시간 지났어요. 안녕하세요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:46:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "아 어제 얘기한 한약 지어서 먹을까했는데 좀 포기하려고요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:46:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "아 그래요? 왜 포기하려고요??",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:46:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "가격이 너무 비싸서요. 먹는다고 뭔가 기력이 세진다는 느낌도 못받겠더라고요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:47:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "아... 가격이 좀 비싸긴 하죠.. ㅠㅠ 그렇군요. 아쉽긴 하네요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:47:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "그러게요. 이럴때는 그냥 음악이나 좀 들어야겠어요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:47:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "음악 좋죠. 저는 R&B 들으면 좀 진정이 되더라고요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:48:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "아 R&B 음악 좀 듣는다고 하셨었죠? 저는 R&B 쪽은 잘 몰라서요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:48:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "네 맞습니다. 그럼 그쪽은 어떤 음악 주로 들으세요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:48:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "저는 보통 발라드 쪽 음악 많이 들어요.",
+          "summary": "나는 발라드 음악을 많이 듣는다.",
+          "date": "2022-11-24",
+          "time": "09:48:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "아 발라드 들으시는군요? 발라드도 심신 안정에 도움을 주죠.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:49:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "네. 그런것 같아요. 그럼 전 이만 가볼게요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:49:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "네 저도 그럼 가보겠습니다. 안녕히 계세요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:49:15",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 발라드 음악을 많이 듣는다."
+        ],
+        "speaker2": []
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나는 검은색을 좋아한다.",
+          "나는 @기타명@ 동영상 채널을 많이 본다.",
+          "나는 검정색을 좋아한다. 나는 혈액형이 B형이다.",
+          "나는 자신감이 넘친다."
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 검정색을 좋아한다.",
+          "나는 R&B 음악을 가끔 듣는다. 나는 매우 유머러스하다.",
+          "나는 혈액형이 O형이다.",
+          "나는 뉴질랜드에 가봤다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00068-3",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "주"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00068-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "아 최근에 바빠서 한달정도동안 연락을 못드렸네요.",
+          "summary": "나는 최근에 바빴다.",
+          "date": "2022-11-24",
+          "time": "09:49:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "와 오랜만입니다. 요즘 몸 상태는 어떠세요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:49:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "아 요즘은 괜찮아요. 제가 원래 자신감하나로 살아가고 있었거든요.",
+          "summary": "나는 원래 자신감 하나로 살아가고 있었다.",
+          "date": "2022-11-24",
+          "time": "09:49:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "아 다행이네요. 지난번에 한약 얘기 하셔서 좀 걱정이 됐거든요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:49:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "괜찮아요. 한약이야 뭐 잠깐 기력이 허약할때 먹는거니까요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:50:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "네 그렇긴 하죠. 그나저나 혹시 그 유머 동영상 채널 보셨어요? @기타명1@요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:50:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "아 그쪽 채널은 안보긴 했는데 왜그러시죠?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:50:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "여기도 꽤나 재밌더라고요. 추천드리고 싶어서요.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:50:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "나중에 기회되면 또 봐봐야겠네요. 요즘 조회수 잘나오나봐요?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:51:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "네 그러더라고요. 요즘 강자로 떠오르고 있죠! 덕분에 저도 유머러스하게 살고 있어요!",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:51:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "무슨 느낌의 채널이에요? 페이크 다큐? 아니면 그냥 유머 채널?",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:51:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "아 둘 다 하더라고요. 다양해서 좋았어요 저는.",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:51:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90232",
+          "participantID": "32203",
+          "utterance": "좋네요. 그럼 그 채널 보고 올게요. 이따 또 연락 드릴게요~",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:51:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "91871",
+          "participantID": "31288",
+          "utterance": "알겠습니다. 후기가 너무 기대되네요!",
+          "summary": "",
+          "date": "2022-11-24",
+          "time": "09:52:07",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 최근에 바빴다.",
+          "나는 원래 자신감 하나로 살아가고 있었다."
+        ],
+        "speaker2": []
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나는 검은색을 좋아한다.",
+          "나는 @기타명@ 동영상 채널을 많이 본다.",
+          "나는 검정색을 좋아한다. 나는 혈액형이 B형이다.",
+          "나는 자신감이 넘친다.",
+          "나는 발라드 음악을 많이 듣는다."
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 검정색을 좋아한다.",
+          "나는 R&B 음악을 가끔 듣는다. 나는 매우 유머러스하다.",
+          "나는 혈액형이 O형이다.",
+          "나는 뉴질랜드에 가봤다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "FileInfo": {
+    "filename": "K2-00109-CL00995-CP01906-14-05-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0028",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0081",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00109"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "00995",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 가족과 주로 카톡으로 이야기를 한다.",
+        "나는 측량사이다.",
+        "나는 커피를 매일 2잔 이상 마신다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "01906",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 아버지는 선생님이다.",
+        "나는 맥주를 일주일에 서너 번 마신다.",
+        "나는 줄넘기를 가끔 한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "14-05",
+    "topicType": "시사/사회>사회이슈(국내)",
+    "topicTitle": "재해 및 재난"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00109-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "00995",
+          "participantID": "0028",
+          "utterance": "안녕하세요? 저는 20대 남자입니다. 제 직업은 측량사에요.",
+          "summary": "나는 남자이다. 나는 20대이다. 나는 측량사이다.",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01906",
+          "participantID": "0081",
+          "utterance": "안녕하세요? 저는 20대 여자입니다.",
+          "summary": "나는 여자이다. 나는 20대이다.",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00995",
+          "participantID": "0028",
+          "utterance": "그렇군요. 지금 뭐하고 계세요? 저는 커피를 마시고 있어요. 저는 커피를 좋아해서 매일 2잔 이상 마셔요.",
+          "summary": "나는 매일 커피를 2잔 이상 마신다.",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01906",
+          "participantID": "0081",
+          "utterance": "커피를 좋아하시는 군요. 저는 맥주를 좋아해서 일주일에 서너 번 마셔요. 지금은 그냥 워서 쉬고 있어요.",
+          "summary": "나는 맥주를 일주일에 서너 번 마신다.",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00995",
+          "participantID": "0028",
+          "utterance": "저도 술을 좋아해서 가끔 마셔요.",
+          "summary": "나는 술을 좋아한다.",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01906",
+          "participantID": "0081",
+          "utterance": "나중에 같이 마셔요. 근데 오늘 오후에는 뭐 하실거에요? 저는 건강을 생각해서 줄넘기를 할까 생각 중이에요. 가끔 하거든요.",
+          "summary": "나는 줄넘기를 가끔 한다.",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00995",
+          "participantID": "0028",
+          "utterance": "줄넘기가 건강에 좋다고 저도 들었던 것 같아요. 저는 오후에 가족회의가 있어요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01906",
+          "participantID": "0081",
+          "utterance": "그러면 다 같이 모여서 말하는 건가요?",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00995",
+          "participantID": "0028",
+          "utterance": "아니요. 저는 가족이랑 주로 메신저로 이야기를 해서 가족메신저방에서 해요.",
+          "summary": "나는 가족과 주로 메신저로 이야기를 한다.",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01906",
+          "participantID": "0081",
+          "utterance": "서로 사이가 좋은가봐요. 제 아버지는 선생님이신데 그래서 평소에 저한테 엄하게 하셔서 저는 아버지랑 어색해요.",
+          "summary": "나의 아버지는 선생님이다.",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00995",
+          "participantID": "0028",
+          "utterance": "그래도 먼저 살갑게 다가가시면 잘 해주실 거에요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01906",
+          "participantID": "0081",
+          "utterance": "네. 자식인 제가 먼저 다가가려고요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00995",
+          "participantID": "0028",
+          "utterance": "죄송한데 화장실에 가봐야겠어요.",
+          "summary": "나는 화장실이 가고 싶다.",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01906",
+          "participantID": "0081",
+          "utterance": "저랑 대화하느라 참으신건 아니죠?",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00995",
+          "participantID": "0028",
+          "utterance": "아니에요. 방금 가고 싶어졌어요. 그럼 전 가볼게요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01906",
+          "participantID": "0081",
+          "utterance": "네. 가보세요. 나중에 또 연락해요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 남자이다. 나는 20대이다. 나는 측량사이다.",
+          "나는 매일 커피를 2잔 이상 마신다.",
+          "나는 술을 좋아한다.",
+          "나는 가족과 주로 메신저로 이야기를 한다.",
+          "나는 화장실이 가고 싶다."
+        ],
+        "speaker2": [
+          "나는 여자이다. 나는 20대이다.",
+          "나는 맥주를 일주일에 서너 번 마신다.",
+          "나는 줄넘기를 가끔 한다.",
+          "나의 아버지는 선생님이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00109-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00109-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "00995",
+          "participantID": "0028",
+          "utterance": "안녕하세요? 1시간 만인가요? 아까 대화 즐거웠어요.",
+          "summary": "나는 대화가 즐거웠다.",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01906",
+          "participantID": "0081",
+          "utterance": "안녕하세요? 저도 즐거웠어요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00995",
+          "participantID": "0028",
+          "utterance": "1시간 전에 처음 대화 나눈건데 오래 알고 지낸 친구 같은 느낌이 들었어요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01906",
+          "participantID": "0081",
+          "utterance": "그랬군요. 저도 그런 느낌이 들었는데 신기하네요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00995",
+          "participantID": "0028",
+          "utterance": "근데 어제 밤에 한 뉴스 보셨어요?",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01906",
+          "participantID": "0081",
+          "utterance": "아니요. 못 봤어요. 어떤 내용이었어요?",
+          "summary": "나는 밤에 한 뉴스를 못 봤다.",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00995",
+          "participantID": "0028",
+          "utterance": "강원도에 산불이 크게 났다는 내용이었어요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01906",
+          "participantID": "0081",
+          "utterance": "정말요? 얼마나 크게 났나요?",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00995",
+          "participantID": "0028",
+          "utterance": "네. 산 하나를 다 태우고 겨우 진화됐대요.",
+          "summary": "산불은 산 하나를 다 태웠다.",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01906",
+          "participantID": "0081",
+          "utterance": "그래도 불이 꺼졌다니 다행이네요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00995",
+          "participantID": "0028",
+          "utterance": "인명피해는 없었다고 하네요.",
+          "summary": "산불로 인한 인명피해는 없었다.",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01906",
+          "participantID": "0081",
+          "utterance": "정말 다행이네요. 소방관들도 무사해서 다행이에요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00995",
+          "participantID": "0028",
+          "utterance": "꼭 받아야 하는 연락이 와서 가봐야겠네요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01906",
+          "participantID": "0081",
+          "utterance": "얼른 가보세요. 다음에 또 연락해요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "00995",
+          "participantID": "0028",
+          "utterance": "네. 그렇게 해요. 좋은 하루 보내세요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "01906",
+          "participantID": "0081",
+          "utterance": "그쪽도 좋은 하루 보내세요.",
+          "summary": "",
+          "date": "2022-08-30",
+          "time": "11:45:47",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 대화가 즐거웠다.",
+          "산불은 산 하나를 다 태웠다.",
+          "산불로 인한 인명피해는 없었다."
+        ],
+        "speaker2": [
+          "나는 밤에 한 뉴스를 못 봤다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 남자이다. 나는 20대이다. 나는 측량사이다.",
+          "나는 매일 커피를 2잔 이상 마신다.",
+          "나는 술을 좋아한다.",
+          "나는 가족과 주로 메신저로 이야기를 한다.",
+          "나는 화장실이 가고 싶다."
+        ],
+        "speaker2": [
+          "나는 여자이다. 나는 20대이다.",
+          "나는 맥주를 일주일에 서너 번 마신다.",
+          "나는 줄넘기를 가끔 한다.",
+          "나의 아버지는 선생님이다."
+        ]
+      }
+    }
+  ]
+}

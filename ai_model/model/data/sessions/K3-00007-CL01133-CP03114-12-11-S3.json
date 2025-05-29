@@ -1,0 +1,687 @@
+{
+  "FileInfo": {
+    "filename": "K3-00007-CL01133-CP03114-12-11-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0142",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "50008",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00007"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "01133",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나의 가족은 1명이다.",
+        "나는 걷기를 싫어한다.",
+        "나는 다소 고집이 세다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "03114",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나의 종교는 불교이다.",
+        "나는 전자기기의 장단점을 분석한다.",
+        "나는 요즘, 가끔 환멸을 느낀다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "12-11",
+    "topicType": "여가와 오락>여행",
+    "topicTitle": "MT"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00007-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "안녕하세요! 저는 20대 남자입니다!",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-09-05",
+          "time": "22:42:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "저는 불교를 믿는 30대 여자입니다.",
+          "summary": "나는 불교를 믿는다. 나는 30대 여자이다.",
+          "date": "2022-09-05",
+          "time": "22:42:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "반갑습니다. 저는 무교네요. 혹시 오후에는 뭐 하세요?",
+          "summary": "나는 무교이다.",
+          "date": "2022-09-05",
+          "time": "22:42:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "요즘 가끔 환멸을 느끼는 터라 불교나 유교 서적 읽으려고요.",
+          "summary": "나는 요즘 가끔 환멸을 느낀다. 나는 불교나 유교 서적을 읽을 것이다.",
+          "date": "2022-09-05",
+          "time": "22:42:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "그런 걸 읽으면 심리 안정에 도움이 되나요?",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "22:43:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "옛 성현들의 책들을 읽다보면 마음에 무지개가 피더라고요..^^",
+          "summary": "옛 성현들의 책을 읽으면 마음에 무지개가 핀다.",
+          "date": "2022-09-05",
+          "time": "22:43:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "멋지세요..!! 저는 오후에 약속이 있는데 걷는 게 너무 싫어서 나가기 싫어요.",
+          "summary": "나는 오후에 약속이 있는데 나가기 싫다. 나는 걷기를 싫어한다.",
+          "date": "2022-09-05",
+          "time": "22:44:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "오오, 그럴 때가 있죠. 사실 제 진짜 취미는 전자기기 장단점 분석하고 블로그에 올리는 건데, 웃기죠?",
+          "summary": "나는 전자기기 장단점을 분석한다. 나는 블로그에 전자기기 관련 포스팅을 올린다.",
+          "date": "2022-09-05",
+          "time": "22:44:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "전자기기에 대해 잘 아시나봐요. 저는 하나도 몰라요.",
+          "summary": "나는 전자기기를 하나도 모른다.",
+          "date": "2022-09-05",
+          "time": "22:45:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "네. 관심이 많네요..^^ 지출도 꽤나 하고요.",
+          "summary": "나는 전자기기에 관심이 많고 지출도 꽤나 한다.",
+          "date": "2022-09-05",
+          "time": "22:45:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "최근에는 뭘 사셨어요? 저는 블로그 추천글 봐도 고집이 세서 그냥 그때 끌리는 걸로 사요.",
+          "summary": "나는 고집이 세다. 그때 끌리는 걸 산다.",
+          "date": "2022-09-05",
+          "time": "22:46:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "아아.. ㅋㅋ 최근엔 새로 나온 맥북에어를 구매했네요.",
+          "summary": "나는 최근에 새로 나온 맥북에어를 구매했다.",
+          "date": "2022-09-05",
+          "time": "22:46:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "부러워요... 저도 @브랜드명1@ 출입권 갖고 싶네요!! 저는 약속 다녀오고 다시 연락드리죠!!",
+          "summary": "나는 약속을 다녀오고 다시 연락하길 약속한다.",
+          "date": "2022-09-05",
+          "time": "22:46:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "ㅋㅋㅋ @브랜드명1@ 출입권이라니 말씀이 너무 웃기네요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "22:46:53",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 무교이다.",
+          "나는 오후에 약속이 있는데 나가기 싫다. 나는 걷기를 싫어한다.",
+          "나는 전자기기를 하나도 모른다.",
+          "나는 고집이 세다. 그때 끌리는 걸 산다.",
+          "나는 약속을 다녀오고 다시 연락하길 약속한다."
+        ],
+        "speaker2": [
+          "나는 불교를 믿는다. 나는 30대 여자이다.",
+          "나는 요즘 가끔 환멸을 느낀다. 나는 불교나 유교 서적을 읽을 것이다.",
+          "옛 성현들의 책을 읽으면 마음에 무지개가 핀다.",
+          "나는 전자기기 장단점을 분석한다. 나는 블로그에 전자기기 관련 포스팅을 올린다.",
+          "나는 전자기기에 관심이 많고 지출도 꽤나 한다.",
+          "나는 최근에 새로 나온 맥북에어를 구매했다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00007-1",
+      "prevTimeInfo": {
+        "timeNum": "7",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "3-00007-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "저는 친구 만나고 왔어요. 그동안 뭐 하고 계셨어요??",
+          "summary": "나는 친구를 만나고 왔다.",
+          "date": "2022-09-05",
+          "time": "22:47:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "저는 그 동안 맥북에어 만지고 있었네요.ㅋㅋ.",
+          "summary": "나는 그동안 맥북에어를 만지고 있었다.",
+          "date": "2022-09-05",
+          "time": "22:47:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "맥북으로 뭐를 할 수 있나요??",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "22:47:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "만져보고 또 포스팅 올리려고요. 영상편집이요! 그나저나 제 여동생은 대학교 MT간다고 하네요.ㅋㅋ.",
+          "summary": "나는 맥북으로 영상편집을 한다. 내 여동생은 대학교 MT에 간다.",
+          "date": "2022-09-05",
+          "time": "22:47:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "안그래도 요즘 MT 많이 가더라고요. 저는 안 갔어요.",
+          "summary": "나는 MT를 가지 않았다.",
+          "date": "2022-09-05",
+          "time": "22:48:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "오오, 코로나 이후로 첫 MT인데 안 가시다니요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "22:48:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "저는 사람 많은 건 딱 질색이에요.",
+          "summary": "나는 사람 많은 걸 싫어한다.",
+          "date": "2022-09-05",
+          "time": "22:49:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "아... 저도 나름 공감하네요. 사람 많으면 거의 숨 막히죠.",
+          "summary": "나는 사람이 많으면 숨 막힌다.",
+          "date": "2022-09-05",
+          "time": "22:49:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "그리고 전 가족이 1명이라 집에 혼자 두고 가면 마음이 좀 그래요.",
+          "summary": "나는 가족이 1명이다. 집에 가족 1명을 두고 가면 마음이 안 좋다.",
+          "date": "2022-09-05",
+          "time": "22:50:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "아아.. 그러시겠네요..ㅠㅠ 저 때는 MT때 냄비에 소주나 막걸리 가득 담아서 강제로 마시고 그랬어요.ㅋㅋ.",
+          "summary": "나 때는 MT 때 냄비에 술을 가득 담아 강제로 마셨다.",
+          "date": "2022-09-05",
+          "time": "22:50:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "아직도 그러는 학교 꽤 있어요ㅋㅋㅋㅋㅋㅋ. 전 그게 너무 싫어요.",
+          "summary": "나는 그런 MT문화가 싫다.",
+          "date": "2022-09-05",
+          "time": "22:50:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "그러니까요.. 그래서 거의 인원의 반 정도가 토를 했다는..ㅋㅋ ㅠ.",
+          "summary": "MT에서 인원의 반 정도가 토를 했다.",
+          "date": "2022-09-05",
+          "time": "22:51:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "너무 싫어요..... 전 여러개 만들었겠어요ㅋㅋ.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "22:52:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "ㅋㅋㅋㅋㅋ 으악.. 이런.. 저도 그때 토한 게 떠올라요.",
+          "summary": "나는 MT에서 토했던 기억이 떠오른다.",
+          "date": "2022-09-05",
+          "time": "22:52:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "주변 사람 토하는 거 정말 감당 안 돼요ㅠㅠ.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "22:52:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "그러게요. 요즘은 그래도 그런 일이 없어서 가물가물해요.ㅋㅋ.",
+          "summary": "나는 요즘 주변 사람이 술 먹고 토하는 일이 없다.",
+          "date": "2022-09-05",
+          "time": "22:53:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "저는 이만 시간이 늦어서 자러 가볼게요.",
+          "summary": "나는 시간이 늦어 자러 간다.",
+          "date": "2022-09-05",
+          "time": "22:53:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "네!! 저도 내일 출근해야하니 얼른 자볼게요.",
+          "summary": "나는 내일 출근한다.",
+          "date": "2022-09-05",
+          "time": "22:53:26",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 친구를 만나고 왔다.",
+          "나는 MT를 가지 않았다.",
+          "나는 사람 많은 걸 싫어한다.",
+          "나는 가족이 1명이다. 집에 가족 1명을 두고 가면 마음이 안 좋다.",
+          "나는 그런 MT문화가 싫다.",
+          "나는 시간이 늦어 자러 간다."
+        ],
+        "speaker2": [
+          "나는 그동안 맥북에어를 만지고 있었다.",
+          "나는 맥북으로 영상편집을 한다. 내 여동생은 대학교 MT에 간다.",
+          "나는 사람이 많으면 숨 막힌다.",
+          "나 때는 MT 때 냄비에 술을 가득 담아 강제로 마셨다.",
+          "MT에서 인원의 반 정도가 토를 했다.",
+          "나는 MT에서 토했던 기억이 떠오른다.",
+          "나는 요즘 주변 사람이 술 먹고 토하는 일이 없다.",
+          "나는 내일 출근한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 무교이다.",
+          "나는 오후에 약속이 있는데 나가기 싫다. 나는 걷기를 싫어한다.",
+          "나는 전자기기를 하나도 모른다.",
+          "나는 고집이 세다. 그때 끌리는 걸 산다.",
+          "나는 약속을 다녀오고 다시 연락하길 약속한다."
+        ],
+        "speaker2": [
+          "나는 불교를 믿는다. 나는 30대 여자이다.",
+          "나는 요즘 가끔 환멸을 느낀다. 나는 불교나 유교 서적을 읽을 것이다.",
+          "옛 성현들의 책을 읽으면 마음에 무지개가 핀다.",
+          "나는 전자기기 장단점을 분석한다. 나는 블로그에 전자기기 관련 포스팅을 올린다.",
+          "나는 전자기기에 관심이 많고 지출도 꽤나 한다.",
+          "나는 최근에 새로 나온 맥북에어를 구매했다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00007-2",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00007-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "잘 주무셨나요? 지금 출근하셨나요??",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "22:53:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "네!! 이제 막 출근해서 자리에 앉았네요~..",
+          "summary": "나는 이제 막 출근해서 자리에 앉았다.",
+          "date": "2022-09-05",
+          "time": "22:54:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "힘드시겠어요.... 무슨 일 하세요?",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "22:55:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "사실 제가 엔지니어링을 하고 있어서, 사양 좋은 전자기기가 필수네요.",
+          "summary": "나는 엔지니어링을 한다. 나는 사양 좋은 전자기기가 필수이다.",
+          "date": "2022-09-05",
+          "time": "22:55:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "아 그래서 그런거였군요. 멋지십니다.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "22:55:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "ㅎㅎ. 감사해요. 공학 공부는 할 수록 재밌어요.",
+          "summary": "나는 공학 공부가 할수록 재밌다.",
+          "date": "2022-09-05",
+          "time": "22:55:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "배움의 끝은 정말 없나봐요. 많이 바쁘세요??",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "22:55:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "네. 매일 머리를 굴려야하니 바쁘네요.ㅋㅋ.",
+          "summary": "나는 매일 머리를 굴려야 해서 바쁘다.",
+          "date": "2022-09-05",
+          "time": "22:56:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "이제 연락 많이 못하시겠어요...",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "22:56:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "물리 공식유도해야해요. 좀 있다가요.ㅋㅋ.",
+          "summary": "나는 좀 있다가 물리 공식 유도를 해야 한다.",
+          "date": "2022-09-05",
+          "time": "22:56:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "바쁘시네요. 몇분만 더 하다가 일하러 가세요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "22:57:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "네..^^ 진짜 파도파도 이 분야는 끝이 없더라고요.. 겸손해집니다..",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "22:57:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "진짜 존경스럽습니다... 저도 열심히 공부해야겠어요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "22:57:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "그나저나 요즘 부업인 블로그로 버는 돈이 더 많아서 고민이에요.ㅋㅋ.",
+          "summary": "나는 부업인 블로그로 버는 돈이 더 많다.",
+          "date": "2022-09-05",
+          "time": "22:57:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "01133",
+          "participantID": "0142",
+          "utterance": "두 분야 다 잡고 계신다니 멋지세요. 이제 일하러 가시나요? 저는 공부하러 가보겠습니다ㅎㅎ.",
+          "summary": "나는 공부하러 간다.",
+          "date": "2022-09-05",
+          "time": "22:57:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "03114",
+          "participantID": "50008",
+          "utterance": "네.. 좋은 대화였네요.. 다음에 또 연락드릴게요!!ㅎㅎ.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "22:58:00",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 공부하러 간다."
+        ],
+        "speaker2": [
+          "나는 이제 막 출근해서 자리에 앉았다.",
+          "나는 엔지니어링을 한다. 나는 사양 좋은 전자기기가 필수이다.",
+          "나는 공학 공부가 할수록 재밌다.",
+          "나는 매일 머리를 굴려야 해서 바쁘다.",
+          "나는 좀 있다가 물리 공식 유도를 해야 한다.",
+          "나는 부업인 블로그로 버는 돈이 더 많다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 무교이다.",
+          "나는 오후에 약속이 있는데 나가기 싫다. 나는 걷기를 싫어한다.",
+          "나는 전자기기를 하나도 모른다.",
+          "나는 고집이 세다. 그때 끌리는 걸 산다.",
+          "나는 약속을 다녀오고 다시 연락하길 약속한다.",
+          "나는 친구를 만나고 왔다.",
+          "나는 MT를 가지 않았다.",
+          "나는 사람 많은 걸 싫어한다.",
+          "나는 가족이 1명이다. 집에 가족 1명을 두고 가면 마음이 안 좋다.",
+          "나는 그런 MT문화가 싫다.",
+          "나는 시간이 늦어 자러 간다."
+        ],
+        "speaker2": [
+          "나는 불교를 믿는다. 나는 30대 여자이다.",
+          "나는 요즘 가끔 환멸을 느낀다. 나는 불교나 유교 서적을 읽을 것이다.",
+          "옛 성현들의 책을 읽으면 마음에 무지개가 핀다.",
+          "나는 전자기기 장단점을 분석한다. 나는 블로그에 전자기기 관련 포스팅을 올린다.",
+          "나는 전자기기에 관심이 많고 지출도 꽤나 한다.",
+          "나는 최근에 새로 나온 맥북에어를 구매했다.",
+          "나는 그동안 맥북에어를 만지고 있었다.",
+          "나는 맥북으로 영상편집을 한다. 내 여동생은 대학교 MT에 간다.",
+          "나는 사람이 많으면 숨 막힌다.",
+          "나 때는 MT 때 냄비에 술을 가득 담아 강제로 마셨다.",
+          "MT에서 인원의 반 정도가 토를 했다.",
+          "나는 MT에서 토했던 기억이 떠오른다.",
+          "나는 요즘 주변 사람이 술 먹고 토하는 일이 없다.",
+          "나는 내일 출근한다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "FileInfo": {
+    "filename": "K2-00180-CL32646-CP33150-19-03-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "2211",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "기타",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "2226",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00180"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "32646",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 국어교육과를 전공했다.",
+        "나는 국내여행에 관심 없다.",
+        "나는 실외에서 승마하는 것을 좋아한다.",
+        "나는 거북이를 키우고 싶다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "33150",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 중국어에 관심 있지만 배울 시간이 없다.",
+        "나는 학원 수학 강사이다.",
+        "내가 가장 기쁘던 때는 대학을 합격했을 때이다.",
+        "나는 탕수육를 좋아한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "19-03",
+    "topicType": "예술문화 생활>방송/연예",
+    "topicTitle": "예능"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "2-00180-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "안녕하세요 저는 30대 남자입니다.",
+          "summary": "나는 30대 남자이다.",
+          "date": "2022-10-18",
+          "time": "22:14:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "안녕하세요 저도 30대 남자이니다. 뭐하시는 분이세요?",
+          "summary": "나는 30대 남자이다.",
+          "date": "2022-10-18",
+          "time": "22:14:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "반가워요! 저는 국어교육과를 전공했는데 지금은 헬스트레이너에요!",
+          "summary": "나는 국어교육과를 전공했다. 나는 헬스 트레이너이다.",
+          "date": "2022-10-18",
+          "time": "22:15:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "저는 학원 수학강사인데, 중국어에 관심이 너무 많은데 시간이 안나서 고민이네요. 어디서 헬스 하십니까?",
+          "summary": "나는 학원 수학강사이다. 나는 중국어에 관심 있지만 배울 시간이 없다.",
+          "date": "2022-10-18",
+          "time": "22:15:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "그러시군요! 저는 일산에서 근무해요! 저는 헬스 말고도 밖에서 승마하는걸 좋아하는데 말 타보셨어요?",
+          "summary": "나는 실외에서 승마하는 것을 좋아한다.",
+          "date": "2022-10-18",
+          "time": "22:16:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "아니요. 정말 타고싶긴하네요. 사실 제가 대학에 합격해서 제일 기쁘던 시절에 제주도에서 타볼 기회가 있긴했는데 못탔어요.",
+          "summary": "나는 가장 가장 기쁘던 때는 대학을 합격했을 때이다.",
+          "date": "2022-10-18",
+          "time": "22:17:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "그렇군요... 저는 요즘 재밋는게 없네요 그래서 거북이를 한마리 키우고 싶어요!",
+          "summary": "나는 거북이를 키우고 싶다. 나는 요즘 재밌는 게 없다.",
+          "date": "2022-10-18",
+          "time": "22:17:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "거북이 키우시는거 재밌어요 제가 해봐서 압니다. 배 안고프세요?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:18:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "저 배고파서 햄버거 먹으려구요! 식사 하셨나요?",
+          "summary": "나는 햄버거를 먹을 예정이다.",
+          "date": "2022-10-18",
+          "time": "22:18:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "저는 탕수육 좋아한는데, 혼자먹어야해서 저도 햄버거나 먹어야겠네요.",
+          "summary": "나는 탕수육을 좋아한다.",
+          "date": "2022-10-18",
+          "time": "22:19:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "탕수육 맛있죠... 탕수육에 연태고량주 한잔 딱 먹으면 좋겠네요!",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:19:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "연태 고량주 안먹어봤는데 맛있나요?",
+          "summary": "나는 연태 고량주를 안 먹어봤다.",
+          "date": "2022-10-18",
+          "time": "22:20:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "술에서 꽃향이 나서 저는 좋아합니다.",
+          "summary": "나는 연태 고량주를 좋아한다.",
+          "date": "2022-10-18",
+          "time": "22:20:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "시적이시네요. 근데 헬스 트레이너신데 술 좋아하시면 힘드신거 아니예요?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:21:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "시즌때만 술 안먹고 비시즌에는 술 가끔 마셔요^^",
+          "summary": "나는 시즌 때만 술을 안 먹는다.",
+          "date": "2022-10-18",
+          "time": "22:21:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "아 대회도 나가시나요? 몸이 엄청 좋으시겠는데요?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:22:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "지금은 비시즌이라 돼지에요... 저 상담 좀 하고 올게요!",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:22:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "농담도 잘하시네요. 네 다녀오세요.",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:22:47",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 남자이다.",
+          "나는 국어교육과를 전공했다. 나는 헬스 트레이너이다.",
+          "나는 실외에서 승마하는 것을 좋아한다.",
+          "나는 거북이를 키우고 싶다. 나는 요즘 재밌는 게 없다.",
+          "나는 햄버거를 먹을 예정이다.",
+          "나는 연태 고량주를 좋아한다.",
+          "나는 시즌 때만 술을 안 먹는다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이다.",
+          "나는 학원 수학강사이다. 나는 중국어에 관심 있지만 배울 시간이 없다.",
+          "나는 가장 가장 기쁘던 때는 대학을 합격했을 때이다.",
+          "나는 탕수육을 좋아한다.",
+          "나는 연태 고량주를 안 먹어봤다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00180-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "2-00180-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "오늘 상담이 많네요. 벌써 2시간이 지났네요... 뭐하시나요?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:23:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "지금 학원와서 강의 준비하고 있습니다.",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:23:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "그러시군요! 선생님은 주말에 뭐하세요?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:23:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "주말에 저는 티비하루종일 틀어놓고 안나갑니다. 선생님은요?",
+          "summary": "나는 주말에 티브이를 하루 종일 본다.",
+          "date": "2022-10-18",
+          "time": "22:24:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "저는 예능을 자주 봐요! 예능 좋아하세요?",
+          "summary": "나는 예능을 자주 본다.",
+          "date": "2022-10-18",
+          "time": "22:24:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "저 무한도전 진짜 좋아하는데 아시죠? 무한도전.",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:24:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "무한도전 오랜만에 듣네요! 그게 그래도 제일 최장수 프로 아니였나요?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:25:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "네 끝나긴했는데, 워낙 방송을 많이해서 옛날거 찾아서 보고 있어요.",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:25:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "저도 가끔 다시보기로 예전꺼 보는데! 마녀사냥2 하는거 아세요?",
+          "summary": "나는 가끔 다시 보기로 예능을 찾아본다.",
+          "date": "2022-10-18",
+          "time": "22:25:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "아니 그 명작이 다시합니까? 언제요?",
+          "summary": "나는 마녀 사장이 명작이라고 생각한다.",
+          "date": "2022-10-18",
+          "time": "22:26:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "저도 얼마전에 티비 틀었는데 다시 하더라구요! 그게 제 최애 프로에요!",
+          "summary": "나는 마녀사냥 2 프로를 가장 좋아한다.",
+          "date": "2022-10-18",
+          "time": "22:26:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "그린라이트 다시 볼 수 있겠네요. 근데 참 재밌는게 많긴 많아요.",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:26:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "맞아요. 근데 요즘은 티비 보다 @브랜드명1@를 더 많이 보는것 같아요.",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:27:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "@브랜드명1@도 참 좋죠 어떤거 구독하세요? 저는 요즘 침착맨 보는데 혹시 아세요?",
+          "summary": "나는 @브랜드명1@로 침착 맨을 자주 본다.",
+          "date": "2022-10-18",
+          "time": "22:27:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "그게 뭐에요? 저는 터키즈 자주 봅니다^^",
+          "summary": "나는 @브랜드명1@로 터키즈를 자주 본다.",
+          "date": "2022-10-18",
+          "time": "22:28:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "아 그 튀르키예즈 @이름1@ 나오는거요? 너무 재밌죠. 침착맨 모르시면 한번 보세요.",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:28:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "32646",
+          "participantID": "2211",
+          "utterance": "네 다음에 봐볼게요^^ 저 이제 PT 가야해서 다음에 또 연락드릴게요!",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:28:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33150",
+          "participantID": "2226",
+          "utterance": "네 오늘도 부자되십시오! 또 연락해요 우리.",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "22:28:58",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 예능을 자주 본다.",
+          "나는 가끔 다시 보기로 예능을 찾아본다.",
+          "나는 마녀사냥 2 프로를 가장 좋아한다.",
+          "나는 @브랜드명1@로 터키즈를 자주 본다."
+        ],
+        "speaker2": [
+          "나는 주말에 티브이를 하루 종일 본다.",
+          "나는 마녀 사장이 명작이라고 생각한다.",
+          "나는 @브랜드명1@로 침착 맨을 자주 본다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 남자이다.",
+          "나는 국어교육과를 전공했다. 나는 헬스 트레이너이다.",
+          "나는 실외에서 승마하는 것을 좋아한다.",
+          "나는 거북이를 키우고 싶다. 나는 요즘 재밌는 게 없다.",
+          "나는 햄버거를 먹을 예정이다.",
+          "나는 연태 고량주를 좋아한다.",
+          "나는 시즌 때만 술을 안 먹는다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이다.",
+          "나는 학원 수학강사이다. 나는 중국어에 관심 있지만 배울 시간이 없다.",
+          "나는 가장 가장 기쁘던 때는 대학을 합격했을 때이다.",
+          "나는 탕수육을 좋아한다.",
+          "나는 연태 고량주를 안 먹어봤다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "FileInfo": {
+    "filename": "K4-00003-CL20162-CP20845-19-04-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0682",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "기타",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0689",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00003"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "20162",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나의 거주지는 순천이다.",
+        "나는 영양사이다.",
+        "나는 공포 영화를 자주 본다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "20845",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 요즘, 가끔 행복하다.",
+        "나는 국어국문학 전공이다.",
+        "나는 줄넘기를 자주 한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "19-04",
+    "topicType": "예술문화 생활>방송/연예",
+    "topicTitle": "노래"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00003-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "안녕하세요~ 만나서 참 반갑네요! 20대 남자에요 ㅋㅋ.",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-10-07",
+          "time": "16:24:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "네 안녕하세요, 저는 20대 남자입니다. 만나서 반갑습니다.",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-10-07",
+          "time": "16:24:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "ㅎㅎ 저는 요즘 기분이 너무 좋습니다! 행복하네요.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:24:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "그러시군요, 어떤 이유 때문에 기쁘신지 여쭤봐도 될까요?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:24:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "제가 하고 있는 일이 너무 잘 되고 있어서요!",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:24:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "캬..! 정말 좋은 소식인데요, 어떤 일을 하시고 계시나요?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:24:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "저는 영양사를 하고 있는데, 이게 돈을 은근 많이 법니다!",
+          "summary": "나는 영양사이다.",
+          "date": "2022-10-07",
+          "time": "16:24:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "우와 정말 좋네요, 어떤 일을 하는거죠? 구체적으로요.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:24:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "ㅋㅋ 저는 돈을 벌게 되면 제가 좋아하는 일 하는데 써요.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:24:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "그렇군요!! 그러면 어떤 일을 주로 하시는 걸까요?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:24:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "예를 들면 제가 좋아하는 맛있는 음식을 먹는 겁니다!",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:25:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "오오! 어떤 음식을 좋아하시는지 정말 궁금한데요?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:25:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "저는 스테이크를 참 좋아해요 ㅋㅋ 그쪽은 스테이크 좋아하나요?",
+          "summary": "나는 스테이크를 좋아한다.",
+          "date": "2022-10-07",
+          "time": "16:25:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "그러시군요! 저도 스테이크 정말 좋아합니다! 또 연락해요.",
+          "summary": "나는 스테이크를 좋아한다.",
+          "date": "2022-10-07",
+          "time": "16:25:26",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 영양사이다.",
+          "나는 스테이크를 좋아한다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 스테이크를 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00003-1",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00003-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "ㅎㅎ 저는 어제도 스테이크를 맛있게 먹었어요! 그쪽은요?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:25:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "저도 맛있게 먹었네요, 저는 요즘 가끔 행복해요.",
+          "summary": "나는 요즘 가끔 행복하다.",
+          "date": "2022-10-07",
+          "time": "16:25:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "ㅎㅎ 그러시군요! 그러면 그쪽은 왜 그렇게 생각하죠?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:25:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "제게 좋은 일들일 많이 생기고 있는 것 때문에요!",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:25:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "오.. 정말이신가요?? 그러면 특별한 일들이 있나요?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:25:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "첫 번째로는 제 전공 공부가 잘되고 있어서 좋네요~",
+          "summary": "나는 공부를 잘한다.",
+          "date": "2022-10-07",
+          "time": "16:26:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "아하 그렇군요! ㅋ 그럼 그쪽은 어떤 공부를 하나요?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:26:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "저는 국어국문학 전공을 하고 있는데, 너무 잘되고 있어요!",
+          "summary": "나는 국어국문학 전공이다.",
+          "date": "2022-10-07",
+          "time": "16:26:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "오오 ㅋㅋ 공부를 잘 하고 계시다니 정말 부럽습니다!",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:26:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "제가 공부법이 남들과 조금 다르기 때문이라고 생각들어요.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:26:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "오오 예를 들면 어떤 공부법을 사용하시고 계시는데요?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:26:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "저는 주로 별별 공부법을 사용합니다!! 너무 좋네요.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:26:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "아하 ㅜㅜ 사실 저는 공부를 못 했는데 꿀팁을 얻었네요!",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:26:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "네네 정말 좋은 공부법이죠~ 또 연락주세용.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:26:53",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [],
+        "speaker2": [
+          "나는 요즘 가끔 행복하다.",
+          "나는 공부를 잘한다.",
+          "나는 국어국문학 전공이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 영양사이다.",
+          "나는 스테이크를 좋아한다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 스테이크를 좋아한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00003-2",
+      "prevTimeInfo": {
+        "timeNum": "6",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00003-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "ㅎㅎ 일주일이 약간 안 되는 시간동안 공부는 잘 했나요?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:27:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "네 안녕하세요, 저는 잘 지냈네요! 그쪽은요?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:27:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "ㅜㅜ 저는 요즘 하고 싶은 일을 마음대로 못해 슬퍼요!",
+          "summary": "나는 슬프다.",
+          "date": "2022-10-07",
+          "time": "16:27:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "그러시군요 ㅠㅠ 어떤 일 때문에 힘드신지 여쭤봐도 될까요?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:27:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "저는 영화관에 가고 싶은데 근처에 영화관이 없네요.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:27:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "정말 힘드실 것 같다는 생각이 드네요, 왜 못가는거죠?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:27:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "저는 순천에 살고 있는데 여기가 낙후되어서요!",
+          "summary": "나의 거주지는 순천이다.",
+          "date": "2022-10-07",
+          "time": "16:27:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "그렇군요 ㅠㅠ 그쪽은 주로 어떤 영화를 자주 보시나요?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:27:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "ㅋㅋ 저는 공포 영화를 자주 보고 있습니다! 좋네요~",
+          "summary": "나는 공포 영화를 자주 본다.",
+          "date": "2022-10-07",
+          "time": "16:27:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "우와.. 저는 사실 공포영화라면 치가 떨리고 살이 부들댑니다.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:27:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "ㅋㅋ 그러신가요? 그럼 그쪽은 왜 공포 영화를 싫어하죠?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:27:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "공포영화를 정말 무서워하고 있기 때문이에요..!!",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:28:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "아하 ㅜㅜ 그러시군요! 그럼 그쪽은 안 보시면 되겠어요!",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:28:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "네네 알겠습니다, 즐겁게 보시고 오세요! 또 연락해요 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:28:13",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 슬프다.",
+          "나의 거주지는 순천이다.",
+          "나는 공포 영화를 자주 본다."
+        ],
+        "speaker2": []
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 영양사이다.",
+          "나는 스테이크를 좋아한다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 스테이크를 좋아한다.",
+          "나는 요즘 가끔 행복하다.",
+          "나는 공부를 잘한다.",
+          "나는 국어국문학 전공이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00003-3",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00003-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "ㅎㅎ 전 어제도 공포 영화를 봤습니다! 재미있네요~",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:28:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "네 안녕하세요, 저는 요즘 운동을 하고 있습니다!",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:28:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "ㅜㅜ 그러신가요?? 그러면 그쪽은 어떤 운동을 하고 계시는데요?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:28:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "주로 줄넘기를 자주 하고 있는데 이유가 있어요.",
+          "summary": "나는 줄넘기를 자주 한다.",
+          "date": "2022-10-07",
+          "time": "16:28:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "아하.. 그러시군요! 그럼 어떤 이유 떄문에 하시고 있죠?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:28:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "제가 좋아하는 가수가 줄넘기를 자주 해서요~!",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:28:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "와 ㅋㅋ 정말 팬심이 가득하네요! 어떤 가수인가요?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:28:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "에드시런이요 ㅎㅎ 그쪽은 에드시런을 좋아하시나요?",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:29:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "ㅜㅜ 사실 전 에드시런이 가수 중에 가장 싫어요.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:29:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "그러시군요, 저는 에드시런의 노래가 너무 좋던데 왜 그럴까요 ㅠㅠ.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:29:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "열등감이 들어서요! 저도 노래를 잘 하고 싶어서요.",
+          "summary": "나는 열등감이 있다.",
+          "date": "2022-10-07",
+          "time": "16:29:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "그런 이유가 있었군요!! 그쪽도 노래를 좋아하시는군요~",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:29:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20162",
+          "participantID": "0682",
+          "utterance": "ㅜㅜ 어쩔 수 없습니다! 제가 이렇게 태어나 버렸으니요 ㅜㅜ.",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:29:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20845",
+          "participantID": "0689",
+          "utterance": "오늘 정말 즐거운 대화 나누었네요! 또 연락드릴게요~!",
+          "summary": "",
+          "date": "2022-10-07",
+          "time": "16:29:33",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 열등감이 있다."
+        ],
+        "speaker2": [
+          "나는 줄넘기를 자주 한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 영양사이다.",
+          "나는 스테이크를 좋아한다.",
+          "나는 슬프다.",
+          "나의 거주지는 순천이다.",
+          "나는 공포 영화를 자주 본다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 스테이크를 좋아한다.",
+          "나는 요즘 가끔 행복하다.",
+          "나는 공부를 잘한다.",
+          "나는 국어국문학 전공이다."
+        ]
+      }
+    }
+  ]
+}

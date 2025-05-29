@@ -1,0 +1,1144 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-004164-AP600012-WZ000005-02_03_02-S3.json",
+        "sessionLevel": "3"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0053",
+            "gender": "여성",
+            "age": "30대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "기타"
+        },
+        "speaker2": {
+            "participantID": "F0053",
+            "gender": "여성",
+            "age": "60대 이상",
+            "occupation": "주부",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "고졸",
+            "major": "기타"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "004164"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600012",
+            "personaFeatures": [
+                "나는 관광/감상의 지명에 대한 강의를 듣고 있다.",
+                "나는 홈트레이닝을 싫어한다",
+                "나는 클래식 음악을 자주 듣는다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000005",
+            "personaFeatures": [
+                "나는 지명에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_02",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "장소"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004164-1",
+            "sessionKeywords": [
+                "*청나일 폭포*,*청나일 폭포*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "음 관광지 중에 궁금한 곳이 있는데 물어봐도 되려나.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695651074000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "그럼요. 저는 지명에 대해 잘 알고 있으니 무엇이든 물어보세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695651091000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "내가 관광, 감상의 지명에 대한 강의를 듣고 있는데 청나일 폭포를 조사해야 되거든.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 관광, 감상의 지명에 대한 강의를 듣고 있다.",
+                    "timestamp": 1695651166000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "청나일 폭포 말씀이신가요? 청나일 폭포(Blue Nile Falls)는 에티오피아의 청나일강에 있는 폭포이며, 암하라어로 \"연기가 나는 물\" 또는\"불의는연기을지닌 티스 이사트(Tis Issat)라는 이름으로도 불립니다.",
+                    "context": {
+                        "query": "청나일 폭포",
+                        "contents": [
+                            {
+                                "documentID": "1079289",
+                                "documentTitle": "청나일 폭포",
+                                "content": [
+                                    "청나일 폭포(Blue Nile Falls)는 에티오피아의 청나일강에 있는 폭포이며, 암하라어로 \"연기가 나는 물\" 또는\"불의는연기을지닌 티스 이사트(Tis Issat)라는 이름으로도 불린다.",
+                                    "타나호에서 발원하는 청나일강의 상류에 위치하며, 에티오피아에서 가장 유명한 관광 명소 중 하나이다.",
+                                    "낙차는 37 미터에서 45 미터 정도이며, 4개의 폭포 줄기로 이루어진다.",
+                                    "보통 건기에 가늘게 조금씩 흐르다가 우기시에 400 미터 이상 넓어지지만, 2003년 이후로 타나 호에 세워진 수력발전소에서 우기를 제외하고 수량을 조절하기 때문에 유수량이 줄어들었다.",
+                                    "청나일 폭포는 타나 호와 청나일강 중·하류의 생태계를 분리시키는 역할을 하며, 이로 인해 타나 호에서 독자적인 풍토성 동물군이 서식하게 되었다.",
+                                    "청나일 폭포에서 하류로 약간 내려가면 1626년 수세뇨스 1세가 건설한 돌다리가 있으며, 마넬 데 알메이다에 의하면 돌다리는 에티오피아의 가톨릭 선교사인 아폰소 멘데스가 인도에서 초빙해 온 공예사가 강의 지류 부근에 있는 석회로 만들었다고 한다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "청나일 폭포(Blue Nile Falls)는 에티오피아의 청나일강에 있는 폭포이며, 암하라어로 \"연기가 나는 물\" 또는\"불의는연기을지닌 티스 이사트(Tis Issat)라는 이름으로도 불린다.",
+                    "timestamp": 1695651199000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "물어보니까 다 나오네. 청나일강에 있는 폭포라서 청나일 폭포구나.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695651238000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네. 그렇습니다. 타나호에서 발원하는 청나일강의 상류에 위치하며, 에티오피아에서 가장 유명한 관광 명소 중 하나입니다.",
+                    "context": {
+                        "query": "청나일 폭포",
+                        "contents": [
+                            {
+                                "documentID": "1079289",
+                                "documentTitle": "청나일 폭포",
+                                "content": [
+                                    "청나일 폭포(Blue Nile Falls)는 에티오피아의 청나일강에 있는 폭포이며, 암하라어로 \"연기가 나는 물\" 또는\"불의는연기을지닌 티스 이사트(Tis Issat)라는 이름으로도 불린다.",
+                                    "타나호에서 발원하는 청나일강의 상류에 위치하며, 에티오피아에서 가장 유명한 관광 명소 중 하나이다.",
+                                    "낙차는 37 미터에서 45 미터 정도이며, 4개의 폭포 줄기로 이루어진다.",
+                                    "보통 건기에 가늘게 조금씩 흐르다가 우기시에 400 미터 이상 넓어지지만, 2003년 이후로 타나 호에 세워진 수력발전소에서 우기를 제외하고 수량을 조절하기 때문에 유수량이 줄어들었다.",
+                                    "청나일 폭포는 타나 호와 청나일강 중·하류의 생태계를 분리시키는 역할을 하며, 이로 인해 타나 호에서 독자적인 풍토성 동물군이 서식하게 되었다.",
+                                    "청나일 폭포에서 하류로 약간 내려가면 1626년 수세뇨스 1세가 건설한 돌다리가 있으며, 마넬 데 알메이다에 의하면 돌다리는 에티오피아의 가톨릭 선교사인 아폰소 멘데스가 인도에서 초빙해 온 공예사가 강의 지류 부근에 있는 석회로 만들었다고 한다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": " 타나호에서 발원하는 청나일강의 상류에 위치하며, 에티오피아에서 가장 유명한 관광 명소 중 하나이다.",
+                    "timestamp": 1695651306000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "좋네. 에티오피아라고 하니까 가면 맛있는 커피도 먹을 수 있을 것 같네.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695651336000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네 에티오피아입니다. 커피를 좋아하시나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695651404000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "나는 커피도 좋아하지만 카페 가는 것을 좋아해서 자주 가는 편이야.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 카페 가는 것을 좋아한다.",
+                    "timestamp": 1695651559000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "카페를 자주 가시는 군요. 어떤 카페 가는 것을 좋아하는지 궁금하네요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695651623000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "카페는 일단 음악이 중요해. 나는 클래식 음악을 자주 들어서 시끄러운 가요가 나오는 곳보다는 클래식 나오는 곳이 좋더라.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 클래식 음악을 자주 듣는다.",
+                    "timestamp": 1695651658000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "클래식 음악을 자주 들으시는 군요. 클래식이 나오는 곳을 좋아하시고요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695651698000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "응 나중에 그런 카페가 있는지도 물어보러 올 수도 있어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695651741000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네. 그럼 나중에 또 물어보러 와 주세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695651816000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 관광, 감상의 지명에 대한 강의를 듣고 있다.",
+                    "나는 카페 가는 것을 좋아한다.",
+                    "나는 클래식 음악을 자주 듣는다."
+                ],
+                "wizard": [
+                    "청나일 폭포(Blue Nile Falls)는 에티오피아의 청나일강에 있는 폭포이며, 암하라어로 \"연기가 나는 물\" 또는\"불의는연기을지닌 티스 이사트(Tis Issat)라는 이름으로도 불린다.",
+                    " 타나호에서 발원하는 청나일강의 상류에 위치하며, 에티오피아에서 가장 유명한 관광 명소 중 하나이다."
+                ],
+                "dialogSummary": "질문자는 청나일 폭포에 대해 질문했고 챗봇은 \"청나일 폭포 말씀이신가요? 청나일 폭포(Blue Nile Falls)는 에티오피아의 청나일강에 있는 폭포이며, 암하라어로 \"연기가 나는 물\" 또는\"불의는연기을지닌 티스 이사트(Tis Issat)라는 이름으로도 불린다.타나호에서 발원하는 청나일강의 상류에 위치하며, 에티오피아에서 가장 유명한 관광 명소 중 하나이다.\"라고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "004164-1",
+            "prevTimeInfo": {
+                "timeNum": "6",
+                "timeUnit": "시간"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004164-2",
+            "sessionKeywords": [
+                "*토코다카사우리아*,*토코다카사우리아*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "또 왔어. 공부하다가 또 물어볼 게 생겼거든.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695651931000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "아까 청나일 폭포에 대한 정보는 도움이 되셨나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695651963000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "6시간 전에 물어본 건데 기억하고 있네? 덕분에 도움이 많이 됐어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695651975000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "그럼요. 도움이 되셨다니 다행입니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695651990000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "이번에는 진짜 어려울 수도 있어. 토코다카사우리아에 대해서 검색해줘.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652007000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "토코다카사우리아()는 이탈리아 아브루초주 페스카라도에 위치한 코무네로 도시의 중심지는 몇세기 동안 토코(Tocco)라고 알려졌고, 다카사우리아(da Casauria)는 1861년 이후에 도시 명칭에 추가되었습니다.",
+                    "context": {
+                        "query": "토코다카사우리아",
+                        "contents": [
+                            {
+                                "documentID": "1083278",
+                                "documentTitle": "토코다카사우리아",
+                                "content": [
+                                    "토코다카사우리아()는 이탈리아 아브루초주 페스카라도에 위치한 코무네다.",
+                                    "도시의 중심지는 몇세기 동안 토코(Tocco)라고 알려졌고, 다카사우리아(da Casauria)는 1861년 이후에 도시 명칭에 추가되었다.",
+                                    "페스카라 강과 작은 개천 아롤레(Arolle) 사이에 있는 작은 언덕에 위치해있다.",
+                                    "신진대사에 영향을 주는 마이엘라 허브를 섞어 만든 술인 센테르베가 여기서 생산된다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            true,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "토코다카사우리아는 이탈리아 아브루초주 페스카라도에 위치한 코무네로 도시의 중심지는 몇세기 동안 토코(Tocco)라고 알려졌고, 다카사우리아(da Casauria)는 1861년 이후에 도시 명칭에 추가되었다.",
+                    "timestamp": 1695652032000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "우와 이번에도 척하면 척이네. 여기는 또 이탈리아구나.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652050000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네. 토코다카사우리아는 이탈리아에 있습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652085000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "이탈리아도 한번 꼭 가보고 싶네. 여기도 멋진 카페가 많을 것 같아.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 이탈리아가 가보고 싶다.",
+                    "timestamp": 1695652114000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "카페 가는 것을 좋아한다고 하셨죠. 이탈리아도 한번 가보면 좋으실 것 같아요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652129000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "이탈리아도 음식에 자부심이 있는 곳이니까 커피도 분명 맛있을 것 같아. 진짜 여행으로 가볼까?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652160000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "이탈리아 여행을 가신다면 제가 도움이 될 것 같습니다. 저는 지명에 대해 잘 알고 있어요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652179000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "응 지명에 대해 진짜 잘 알고 있는 것 같아. 나중에 여행 계획 세우게 되면 꼭 물어보러 올게.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652199000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네. 여행 계획 세우게 되면 무엇이든 물어보세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652216000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 이탈리아가 가보고 싶다."
+                ],
+                "wizard": [
+                    "토코다카사우리아는 이탈리아 아브루초주 페스카라도에 위치한 코무네로 도시의 중심지는 몇세기 동안 토코(Tocco)라고 알려졌고, 다카사우리아(da Casauria)는 1861년 이후에 도시 명칭에 추가되었다."
+                ],
+                "dialogSummary": "질문자는 토코다카사우리아에 대해 질문했고 챗봇은 토코다카사우리아()는 이탈리아 아브루초주 페스카라도에 위치한 코무네로 도시의 중심지는 몇세기 동안 토코(Tocco)라고 알려졌고, 다카사우리아(da Casauria)는 1861년 이후에 도시 명칭에 추가되었다고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광, 감상의 지명에 대한 강의를 듣고 있다.",
+                    "나는 카페 가는 것을 좋아한다.",
+                    "나는 클래식 음악을 자주 듣는다."
+                ],
+                "wizard": [
+                    "청나일 폭포(Blue Nile Falls)는 에티오피아의 청나일강에 있는 폭포이며, 암하라어로 \"연기가 나는 물\" 또는\"불의는연기을지닌 티스 이사트(Tis Issat)라는 이름으로도 불린다.",
+                    " 타나호에서 발원하는 청나일강의 상류에 위치하며, 에티오피아에서 가장 유명한 관광 명소 중 하나이다."
+                ]
+            }
+        },
+        {
+            "prevSessionID": "004164-2",
+            "prevTimeInfo": {
+                "timeNum": "2",
+                "timeUnit": "시간"
+            },
+            "nthSession": "3",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004164-3",
+            "sessionKeywords": [
+                "*대천해수욕장*,*대천해수욕장*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "나야 또 왔어. 이탈리아 여행 찾아보다가 당장 갈 수 있는 여름 휴가 계획이나 세울까 해서 말이야.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652328000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "2시간 만에 오셨네요. 이탈리아 여행보다 여름 휴가 계획을 세우시는 건가요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652380000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "응응 생각해 보니까 여름에는 역시 바다를 가야겠다는 생각이 들어서 말이야.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652406000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "여름에는 바다를 가는 게 좋을 것 같습니다. 가고 싶은 바다가 있으신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652418000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "유명한 곳으로 가려고 하는데 대천해수욕장 어때? 자세히 알려줘.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652440000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "대천해수욕장(大川海水浴場)은 충청남도 보령시 신흑동 일원에 위치한 해수욕장으로 전국 해수욕장 중 규모, 시설면에서 최고로 손꼽히는 여름휴양지로  한해 천만 명에 이르는 관광객의 발길이 끊이지 않으며, 매년 7월 마다 개최되는 보령머드축제가 유명해요.",
+                    "context": {
+                        "query": "대천해수욕장",
+                        "contents": [
+                            {
+                                "documentID": "346097",
+                                "documentTitle": "대천해수욕장",
+                                "content": [
+                                    "대천해수욕장(大川海水浴場)은 충청남도 보령시 신흑동 일원에 위치한 해수욕장으로 전국 해수욕장 중 규모, 시설면에서 최고로 손꼽히는 여름휴양지이다.",
+                                    "한해 천만 명에 이르는 관광객의 발길이 끊이지 않으며, 매년 7월 마다 개최되는 보령머드축제가 유명하다.",
+                                    "서해안 최고의 휴양지이자 국제적 관광명소로 자리 매김을 하고 있다.",
+                                    "규모면에서 백사장의 길이가 3.5km, 폭 100m에 달하는 대형 해수욕장이다.",
+                                    "백사장 남쪽에 기암괴석이 잘 발달되어 있어 비경을 연출하고 있으며, 수온 역시 적당하여 기분좋은 해수욕을 즐길 수 있다.",
+                                    "대천 해수욕장의 모래질은 동양에서 유일한 패각분으로 조개껍질이 오랜 세월을 지나는 동안 잘게 부서져 모래로 변모한 것이다.",
+                                    "규사로 된 백사장이 몸에 달라붙는 점에 비해 패각분은 부드러우면서 물에 잘 씻기는 장점을 갖고 있다.",
+                                    "안타까운 사건이 있었는데 1997년 9월에 유괴되 살해당한 박초롱초롱빛나리가 이곳에 유해가 뿌려졌다."
+                                ]
+                            },
+                            {
+                                "documentID": "327408",
+                                "documentTitle": "관광우편날짜도장",
+                                "content": [
+                                    "관광우편날짜도장(觀光郵便날짜圖章) 또는 줄여서 관광인(觀光印)은 날짜도장의 한 종류로 우체국의 이름과 날짜 외에 해당 우체국 주변의 명소나 고적, 문화재 등과 관련있는 도안이 새겨져 있다.",
+                                    "역사.",
+                                    "한국 최초의 관광우편날짜도장은 일제강점기때 만들어졌다.",
+                                    "1931년 10월 20일부터 쓰기 시작했다.",
+                                    "대한민국 정부 수립 후 최초의 관광우편날짜도장은 1958년 5월 20일 서울중앙우체국에서 사용되었다.",
+                                    "그러나 1954년 8월 1일에 대천우체국 대천해수욕장임시출장소에서 사용한 날짜도장을 최초의 관광우편날짜도장으로 보는 수집가도 있다.",
+                                    "과거에는 관광통신일부인(觀光通信日附印)이라고 불렀으나 우정사업본부는 2014년 12월부터 일본제 한자어를 순화하기 위해 이름을 관광우편날짜도장으로 바꾸었다.",
+                                    "1958년 8월에 관광우편날짜도장 사용관서는 16개국이었다.",
+                                    "2019년 11월 5일 기준으로 427개국에서 488개의 관광우편날짜도장을 쓰고 있다.",
+                                    "각국의 관광우편날짜도장.",
+                                    "일본에서는 풍경입통신일부인(風景入通信日付印) 또는 줄여서 풍경인(風景印)을 사용한다.",
+                                    "1931년 7월 7일에 일본 체신성 고시로 풍경입통신일부인 제도가 만들어졌으며, 7월 10일에 후지산 우체국과 후지산 북 우체국에서 처음으로 쓰기 시작했다.",
+                                    "2018년 1월 1일 기준으로 11,139개국에 배치돼 있다.",
+                                    "독일과 스위스, 중화민국, 캐나다에서도 사용하고 있으며, 중화인민공화국에서는 풍경일착(風景日戳)이라고 불리는 일부인을 사용하고 있다.",
+                                    "류큐 열도 미국민정부에서도 관광우편날짜도장을 썼다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "대천해수욕장(大川海水浴場)은 충청남도 보령시 신흑동 일원에 위치한 해수욕장으로 전국 해수욕장 중 규모, 시설면에서 최고로 손꼽히는 여름휴양지로 한해 천만 명에 이르는 관광객의 발길이 끊이지 않으며, 매년 7월 마다 개최되는 보령머드축제가 유명하다.",
+                    "timestamp": 1695652470000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "전국에서 최고로 손꼽힌다고? 사람 진짜 많겠다. 나 몸매에 자신 없는데.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 몸매에 자신이 없다.",
+                    "timestamp": 1695652513000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네. 서해안 최고의 휴양지이자 국제적 관광명소로 자리 매김을 하고 있다고 합니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652541000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "급하게 운동이라도 해야 하나. 여름이나 야외 운동은 덥고 나는 홈트레이닝은 싫어하는데",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 홈트레이닝을 싫어한다.",
+                    "timestamp": 1695652586000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "여름이라 야외 운동은 더울 것 같습니다. 홈트레이닝은 싫어하시는 군요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652617000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "어쩔 수 없이 헬스장이라도 등록해야 겠네. 올 여름에는 꼭 바다를 가고 싶거든.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 올 여름에 바다를 가고 싶다.",
+                    "timestamp": 1695652676000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네. 헬스장에 등록하고 바다에 꼭 가시면 좋겠습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652779000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600012",
+                    "participantID": "E0053",
+                    "utterance": "응 그럼 결심한 김에 지금 등록하러 가야겠다. 나중에 또 물어보러 올게.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652807000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0053",
+                    "utterance": "네. 나중에 언제든 물어보러 오세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695652818000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 몸매에 자신이 없다.",
+                    "나는 홈트레이닝을 싫어한다.",
+                    "나는 올 여름에 바다를 가고 싶다."
+                ],
+                "wizard": [
+                    "대천해수욕장(大川海水浴場)은 충청남도 보령시 신흑동 일원에 위치한 해수욕장으로 전국 해수욕장 중 규모, 시설면에서 최고로 손꼽히는 여름휴양지로 한해 천만 명에 이르는 관광객의 발길이 끊이지 않으며, 매년 7월 마다 개최되는 보령머드축제가 유명하다."
+                ],
+                "dialogSummary": "질문자는 대천해수욕장에 대해 질문하였고 챗봇은 대천해수욕장(大川海水浴場)은 충청남도 보령시 신흑동 일원에 위치한 해수욕장으로 전국 해수욕장 중 규모, 시설면에서 최고로 손꼽히는 여름휴양지로 한해 천만 명에 이르는 관광객의 발길이 끊이지 않으며, 매년 7월 마다 개최되는 보령머드축제가 유명하다고 답변하였다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광, 감상의 지명에 대한 강의를 듣고 있다.",
+                    "나는 카페 가는 것을 좋아한다.",
+                    "나는 클래식 음악을 자주 듣는다.",
+                    "나는 이탈리아가 가보고 싶다."
+                ],
+                "wizard": [
+                    "청나일 폭포(Blue Nile Falls)는 에티오피아의 청나일강에 있는 폭포이며, 암하라어로 \"연기가 나는 물\" 또는\"불의는연기을지닌 티스 이사트(Tis Issat)라는 이름으로도 불린다.",
+                    " 타나호에서 발원하는 청나일강의 상류에 위치하며, 에티오피아에서 가장 유명한 관광 명소 중 하나이다.",
+                    "토코다카사우리아는 이탈리아 아브루초주 페스카라도에 위치한 코무네로 도시의 중심지는 몇세기 동안 토코(Tocco)라고 알려졌고, 다카사우리아(da Casauria)는 1861년 이후에 도시 명칭에 추가되었다."
+                ]
+            }
+        }
+    ]
+}

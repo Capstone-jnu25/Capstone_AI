@@ -1,0 +1,882 @@
+{
+  "FileInfo": {
+    "filename": "K4-00029-CL21505-CP52049-07-07-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3787",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "4001",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "주부",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00029"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "21505",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 친구와 자주 만난다",
+        "나는 드론 동아리에 참여한다",
+        "나는 배구를 싫어한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "52049",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 외식 관련직에 종사한다",
+        "나는 캘리그래피 동호회에 관심 없다",
+        "나는 사과를 안 먹는다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "07-07",
+    "topicType": "개인 및 관계>가족",
+    "topicTitle": "가족 사랑"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00029-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "안녕하세요. 저는 20대 여성입니다.",
+          "summary": "나는 20대 여자이다. \n",
+          "date": "2022-11-02",
+          "time": "13:59:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "안녕하세요 저는 외식 관련직에 종사하고 있는 50대 여성입니다",
+          "summary": "나는 외식 관련직에 종사한다. 나는 50대 여성이다.",
+          "date": "2022-11-02",
+          "time": "14:06:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "반가워요~ 저는 아직 학생이예요~ 저는 요즘에 드론 동아리 활동으로 친구들을 자주 만나고 있어요. 좋아하는 취미 있으세요?",
+          "summary": "나는 학생이다. 나는 친구와 자주 만난다. 나는 드론 동아리에 참여한다. \n",
+          "date": "2022-11-02",
+          "time": "14:11:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "저는 캘리그래피를 취미로 하고 있어요 그러나 나는 캘리그래피 동호회에는 관심이 없어요.",
+          "summary": "나는 캘리그래피가 취미이다. 나는 캘리그래피 동호회에 관심 없다",
+          "date": "2022-11-02",
+          "time": "14:13:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "글씨 잘 쓰시는 분들 보면 부럽더라고요. 저는 스포츠는 거의 다 좋아하는데 배구는 이상하게 싫더라고요.  스포츠 좋아하세요?",
+          "summary": "나는 배구를 싫어한다. \n",
+          "date": "2022-11-02",
+          "time": "14:24:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "저는 야구를 좋아합니다 예전엔 구장에 가서 자주 봤었죠",
+          "summary": "나는 야구를 좋아한다.",
+          "date": "2022-11-02",
+          "time": "14:25:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "저도 야구장가는 거 좋아해요. 사실 야구도 좋지만 가서 맛있는 음식 먹는 걸 더 좋아해요^^",
+          "summary": "나는 야구장에 가는 것을 좋아한다. 나는 맛있는 음식 먹는 것을 좋아한다. \n",
+          "date": "2022-11-02",
+          "time": "14:25:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "낮경기때는 응원하면서 같이 먹는 시원한 치맥이 최고죠 ㅎ",
+          "summary": "나는 낮 경기 응원하면서 치킨과 맥주를 먹는 것을 좋아한다.",
+          "date": "2022-11-02",
+          "time": "14:26:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "맞아요. 특히 맥주와 치킨의 조합은 끝내주죠^^ 저는 특히 치킨을 좋아해요 .",
+          "summary": "나는 치킨을 좋아한다. \n",
+          "date": "2022-11-02",
+          "time": "14:28:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "치킨 맞있죠 저는 양념치킨을 더 좋아해요 매운거 먹고 사과 먹으면 좋다는데 저는 사과를 안 먹어요",
+          "summary": "나는 양념치킨을 좋아한다. 나는 사과를 안 먹는다.",
+          "date": "2022-11-02",
+          "time": "14:29:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "매운거 먹고 사과 먹으면 좋대요? 저도 한번 해봐야겠네요~ 그러면 어떤 과일 좋아하세요?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "14:31:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "매운 맛이 덜해진다던데요?ㅎ 저는 새콤한 자두 좋아해요",
+          "summary": "나는 자두를 좋아한다.",
+          "date": "2022-11-02",
+          "time": "14:32:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "저는 자두도 좋아해요. 그러고 보니 저는 음식을 거의 다 좋아하는 것 같네요^^",
+          "summary": "나는 음식을 다 좋아한다. \n",
+          "date": "2022-11-02",
+          "time": "14:34:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "ㅎㅎㅎ저도 먹는걸 좋아해서 대부분 좋아합니다",
+          "summary": "나는 먹는 것을 좋아한다. \n",
+          "date": "2022-11-02",
+          "time": "14:34:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "저랑 비슷하시네요^^ 벌써 시간이 이렇게 되었네요~",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "14:35:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "네 저는 이만 가볼게요 남은 하루 잘 보내시고 또 대화 나누어요",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "14:38:36",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다. \n",
+          "나는 학생이다. 나는 친구와 자주 만난다. 나는 드론 동아리에 참여한다. \n",
+          "나는 배구를 싫어한다. \n",
+          "나는 야구장에 가는 것을 좋아한다. 나는 맛있는 음식 먹는 것을 좋아한다. \n",
+          "나는 치킨을 좋아한다. \n",
+          "나는 음식을 다 좋아한다. \n"
+        ],
+        "speaker2": [
+          "나는 외식 관련직에 종사한다. 나는 50대 여성이다.",
+          "나는 캘리그래피가 취미이다. 나는 캘리그래피 동호회에 관심 없다",
+          "나는 야구를 좋아한다.",
+          "나는 낮 경기 응원하면서 치킨과 맥주를 먹는 것을 좋아한다.",
+          "나는 양념치킨을 좋아한다. 나는 사과를 안 먹는다.",
+          "나는 자두를 좋아한다.",
+          "나는 먹는 것을 좋아한다. \n"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00029-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00029-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "안녕하세요 지난주에 대화하고 일주일 만이네요^^ 어떻게 지내셨어요?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "14:41:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "안녕하세요 1주만이네요 잘 지내셨어요?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "14:42:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "네. 저는 얼마 전에 가족들과 단풍 구경을 다녀왔어요~",
+          "summary": "나는 가족들과 단풍여행을 다녀왔다. \n",
+          "date": "2022-11-02",
+          "time": "14:42:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "즐거운 여행 되셨어요? 가족들과 나들이 가는건 정말 좋은거 같아요 함께 한다는건좋으니까요",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "14:44:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "맞아요. 이번에는 내장산으로 갔는데 단풍이 너무 이쁘고 좋더라고요. 오랜만에 가족들과 시간을 함께 보내니 너무 좋더라고요~",
+          "summary": "나는 내장산을 다녀왔다. 나는 가족들과 시간을 보내 좋았다. \n",
+          "date": "2022-11-02",
+          "time": "14:45:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "가족들과 화목하시네요 저희는 주말 저녁에는 외식을 해요",
+          "summary": "나는 주말 저녁에 가족들과 외식을 한다.",
+          "date": "2022-11-02",
+          "time": "14:48:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "저는 친구들도 자주 만나는데 가족들이랑도 많은 시간을 보내는 것 같아요.  주말 저녁 외식에 주로 뭐 드세요?",
+          "summary": "나는 친구와 자주 만난다. 나는 가족들과 많은 시간을 보낸다. \n",
+          "date": "2022-11-02",
+          "time": "14:49:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "고기죠!ㅎㅎ 삼겹살 지글지글 구워서 애들은 밥먹고 저랑 남편은 소주랑 ㅎ",
+          "summary": "나는 고기를 먹는다.",
+          "date": "2022-11-02",
+          "time": "14:50:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "오~ 남편이랑 소주 한잔 너무 좋은데요! 역시 외식은 무조건 고기인가봐요 ㅎ 아이는 둘이예요? 아이들은 몇 살 이예요?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "15:17:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "아들 하나 딸 하나 인데  둘 다 대학생이예요",
+          "summary": "나는 대학생 아들과 딸이 있다.",
+          "date": "2022-11-02",
+          "time": "17:12:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "너무 좋으시겠어요~ 둘 다 대학생이라니, 저랑 나이가 비슷할 수도 있겠네요. 남편 분이랑 사이는 어떠세요? 소주 한잔 하실 정도면 사랑도 넘치시겠네요^^",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "17:18:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "그렇죠 20대이니 비슷할 수도 있겠네요 남편이랑은 잘 지내고 있어요 몇년전부터 집에서 뭐든 하게 되니 더 그런거 같네요",
+          "summary": "나는 남편이랑 잘 지낸다.",
+          "date": "2022-11-02",
+          "time": "19:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "아무래도 코로나 터지고 나서 가족들과 보내는 시간이 많아 진 것 같아요. ",
+          "summary": "나는 가족들과 시간을 많이 보낸다. \n",
+          "date": "2022-11-02",
+          "time": "19:44:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "@이름@은 부모님과 함께사세요? 형제는 있으세요?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "19:46:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "네 저는 부모님이랑 살아요. 오빠는 장가를 가서 분가 했어요. 저는 약속이 있어서 가 봐야할 것 같아요. 다음에 또 이야기 나눠요~",
+          "summary": "나는 부모님과 같이 산다. 나의 남자 형제는 결혼을 했다. \n",
+          "date": "2022-11-02",
+          "time": "19:47:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "네  잘 다녀오세요 대화 즐거웠습니다 ",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "19:49:01",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 가족들과 단풍여행을 다녀왔다. \n",
+          "나는 내장산을 다녀왔다. 나는 가족들과 시간을 보내 좋았다. \n",
+          "나는 친구와 자주 만난다. 나는 가족들과 많은 시간을 보낸다. \n",
+          "나는 가족들과 시간을 많이 보낸다. \n",
+          "나는 부모님과 같이 산다. 나의 남자 형제는 결혼을 했다. \n"
+        ],
+        "speaker2": [
+          "나는 주말 저녁에 가족들과 외식을 한다.",
+          "나는 고기를 먹는다.",
+          "나는 대학생 아들과 딸이 있다.",
+          "나는 남편이랑 잘 지낸다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다. \n",
+          "나는 학생이다. 나는 친구와 자주 만난다. 나는 드론 동아리에 참여한다. \n",
+          "나는 배구를 싫어한다. \n",
+          "나는 야구장에 가는 것을 좋아한다. 나는 맛있는 음식 먹는 것을 좋아한다. \n",
+          "나는 치킨을 좋아한다. \n",
+          "나는 음식을 다 좋아한다. \n"
+        ],
+        "speaker2": [
+          "나는 외식 관련직에 종사한다. 나는 50대 여성이다.",
+          "나는 캘리그래피가 취미이다. 나는 캘리그래피 동호회에 관심 없다",
+          "나는 야구를 좋아한다.",
+          "나는 낮 경기 응원하면서 치킨과 맥주를 먹는 것을 좋아한다.",
+          "나는 양념치킨을 좋아한다. 나는 사과를 안 먹는다.",
+          "나는 자두를 좋아한다.",
+          "나는 먹는 것을 좋아한다. \n"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00029-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "주"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "4-00029-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "안녕하세요 오랜만이네요. 그간 어떻게 지내셨어요?2주만에 연락드리네요 ㅎ",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "19:52:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "안녕하세요 2주만이네요 항상 가족들과 시간을 보내고 여행도 가고 했어요",
+          "summary": "나는 가족들과 시간을 보내고 여행을 갔다.",
+          "date": "2022-11-02",
+          "time": "19:54:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "여행은 어디로 다녀오셨어요? 저도 여행가고 싶어요~",
+          "summary": "나는 여행을 가고 싶다. \n",
+          "date": "2022-11-02",
+          "time": "19:54:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "경주에 다녀왔어요 불국사에 다녀왔어요",
+          "summary": "나는 경주 불국사에 다녀왔다.",
+          "date": "2022-11-02",
+          "time": "19:55:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "경주는 어릴 때 수학여행으로 가고 20살 때 가족끼리 갔었는데, 너무 좋았던 기억이 있어요~ 이번 여행은 어떠셨어요?",
+          "summary": "나는 수학여행을 경주로 다녀왔다. \n",
+          "date": "2022-11-02",
+          "time": "19:56:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "절에 가니 기분도 한결 편안해지고 보리빵 간식도 먹고 재미있었어요",
+          "summary": "나는 보리빵 간식을 먹었다. \n",
+          "date": "2022-11-02",
+          "time": "20:02:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "재미있었다니 저도 경주 가고 싶네요. 예전에 아빠가 경주 갔다가 염주로 된 팔찌 사주셨는데 아직도 가지고 있어요^^  아빠가 항상 어디 여행가면 기념품을 사주셨거든요.",
+          "summary": " 나의 아버지는 기념품을 사준다,",
+          "date": "2022-11-02",
+          "time": "20:03:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "다정하신 아버지시네요 아버지를 닮아 결혼해도 가족들에게 다정하실거 같아요",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "20:04:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "저희 아버지가 예스맨이예요. 가족들이 원하는 건 잘 들어주시고 다정하세요. 저도 그런 남자 만나고 싶어요~",
+          "summary": "나는 다정한 남자를 만나고 싶다. \n",
+          "date": "2022-11-02",
+          "time": "20:05:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "좋은 아내, 엄마가 되실 거예요 화목한 가정에서 자라셔서요 딸들의 이상형은 아빠죠?ㅎㅎ",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "20:06:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "어릴 때는 아빠 같은 남자 만나고 싶었어요. 남편 분도 다정하시죠?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "20:06:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "저희남편도 아이들이랑 저에게 항상 다정해요 ",
+          "summary": "나는 다정한 남편이 있다.",
+          "date": "2022-11-02",
+          "time": "20:09:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "그러면 집안 분위기도 너무 좋을 것 같아요. 가족들이 편안해야 저도 편안해지는 것 같아요. ",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "20:10:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "가족이 화목해야 사회에서도 적응 잘하는 사람으로 발전 할수 있는거 같아요",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "20:14:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "맞아요. 그런 것 같아요. 저는 친구 만나러 나가볼게요.",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "20:15:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "즐거운 대화였습니다 친구들과 재미있게 보내세요",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "20:16:19",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 여행을 가고 싶다. \n",
+          "나는 수학여행을 경주로 다녀왔다. \n",
+          "나의 아버지는 기념품을 사준다,",
+          "나는 다정한 남자를 만나고 싶다. \n"
+        ],
+        "speaker2": [
+          "나는 가족들과 시간을 보내고 여행을 갔다.",
+          "나는 경주 불국사에 다녀왔다.",
+          "나는 보리빵 간식을 먹었다. \n",
+          "나는 다정한 남편이 있다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다. \n",
+          "나는 학생이다. 나는 친구와 자주 만난다. 나는 드론 동아리에 참여한다. \n",
+          "나는 배구를 싫어한다. \n",
+          "나는 야구장에 가는 것을 좋아한다. 나는 맛있는 음식 먹는 것을 좋아한다. \n",
+          "나는 치킨을 좋아한다. \n",
+          "나는 음식을 다 좋아한다. \n",
+          "나는 가족들과 단풍여행을 다녀왔다. \n",
+          "나는 내장산을 다녀왔다. 나는 가족들과 시간을 보내 좋았다. \n",
+          "나는 친구와 자주 만난다. 나는 가족들과 많은 시간을 보낸다. \n",
+          "나는 가족들과 시간을 많이 보낸다. \n",
+          "나는 부모님과 같이 산다. 나의 남자 형제는 결혼을 했다. \n"
+        ],
+        "speaker2": [
+          "나는 외식 관련직에 종사한다. 나는 50대 여성이다.",
+          "나는 캘리그래피가 취미이다. 나는 캘리그래피 동호회에 관심 없다",
+          "나는 야구를 좋아한다.",
+          "나는 낮 경기 응원하면서 치킨과 맥주를 먹는 것을 좋아한다.",
+          "나는 양념치킨을 좋아한다. 나는 사과를 안 먹는다.",
+          "나는 자두를 좋아한다.",
+          "나는 먹는 것을 좋아한다. \n",
+          "나는 주말 저녁에 가족들과 외식을 한다.",
+          "나는 고기를 먹는다.",
+          "나는 대학생 아들과 딸이 있다.",
+          "나는 남편이랑 잘 지낸다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00029-3",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "주"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00029-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "안녕하세요 오랜만이네요. 어떻게 지내셨어요? 4주가 금방지나가네요 ",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "20:20:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "안녕하세요 4주만이네요  잘 지내셨어요?",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "20:23:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "네 잘 지냈어요. 얼마 전에 오빠네 신혼 집에 놀러 갔다 왔어요~",
+          "summary": "나는 남자 형제 집에 다녀왔다. \n",
+          "date": "2022-11-02",
+          "time": "20:23:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "남매들은 크면 잘 안 친하게 지내던데 @이름@남매는 잘지내시네요",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "20:25:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "사실 저도 어릴 때는 오빠랑 사이가 그렇게 좋지는 않았어요. 엄청 싸웠거든요. 근데 오빠가 결혼하고 따로 사니 오빠가 좀 잘 챙겨주는 것 같아요.",
+          "summary": "나는 남자 형제와 어릴 적 사이가 좋지 않았다.",
+          "date": "2022-11-02",
+          "time": "20:26:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "저희 애들은 반대예요 어릴 땐 친구처럼 잘 지내더니 성인이 되니 그렇지 않아 아쉽네요 서로 결혼하고 나면 형제애가 애틋해 질까요?ㅎㅎ",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "20:27:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "아마 그러지 않을까요? 어릴 때 친구처럼 지냈으니 더 쉬울 꺼 예요~ 같이 살때는 오빠가 가족 사랑을 잘 모르더니 이제 따로 사니 효자가 된 것 같기도 하고 그래요 ㅎ",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "20:29:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "성인이 되서도 사이가 돈독해지길 바라봅니다 ㅎ 아내에게도 잘하시겠어요 오빠가?",
+          "summary": "나는 아이들이 성인이 되어서 사이가 돈독해지길 바란다.",
+          "date": "2022-11-02",
+          "time": "20:31:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "모르겠어요. 워낙 무뚝뚝한 성격이라 저희는 다 다정하고 그러는데 오빠만 성격이 무뚝뚝해요. 저희 없을 때는 자상하게 해주겠죠? ㅎ",
+          "summary": "나의 남자 형제는 무뚝뚝하다. \n",
+          "date": "2022-11-02",
+          "time": "20:32:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "가족들 앞에서 부끄러워서 못하고 없을 때는 잘하실거 같은데요",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "20:34:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "그랬으면 좋겠어요. 저도 여자지만 진짜 가정적이고 다정한 남자가 좋자나요~ ",
+          "summary": "나는 가정적이고 다정한 남자 좋다",
+          "date": "2022-11-02",
+          "time": "20:35:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "저도 다정한 남자 좋아해요 ㅎ 가정적이고 다정하면 더 바랄게 없을 거 같아요",
+          "summary": "나는 다정한 남자가 좋다.",
+          "date": "2022-11-02",
+          "time": "20:38:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21505",
+          "participantID": "3787",
+          "utterance": "저도요 저도 결혼할 때 꼭 다정하고 가족 사랑 넘치는 남편 만나고 싶어요^^",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "20:39:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52049",
+          "participantID": "4001",
+          "utterance": "저도 그러고 싶네요 대화 즐거웠어요 ",
+          "summary": "",
+          "date": "2022-11-02",
+          "time": "20:43:17",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 남자 형제 집에 다녀왔다. \n",
+          "나는 남자 형제와 어릴 적 사이가 좋지 않았다.",
+          "나의 남자 형제는 무뚝뚝하다. \n",
+          "나는 가정적이고 다정한 남자 좋다"
+        ],
+        "speaker2": [
+          "나는 아이들이 성인이 되어서 사이가 돈독해지길 바란다.",
+          "나는 다정한 남자가 좋다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다. \n",
+          "나는 학생이다. 나는 친구와 자주 만난다. 나는 드론 동아리에 참여한다. \n",
+          "나는 배구를 싫어한다. \n",
+          "나는 야구장에 가는 것을 좋아한다. 나는 맛있는 음식 먹는 것을 좋아한다. \n",
+          "나는 치킨을 좋아한다. \n",
+          "나는 음식을 다 좋아한다. \n",
+          "나는 가족들과 단풍여행을 다녀왔다. \n",
+          "나는 내장산을 다녀왔다. 나는 가족들과 시간을 보내 좋았다. \n",
+          "나는 친구와 자주 만난다. 나는 가족들과 많은 시간을 보낸다. \n",
+          "나는 가족들과 시간을 많이 보낸다. \n",
+          "나는 부모님과 같이 산다. 나의 남자 형제는 결혼을 했다. \n",
+          "나는 여행을 가고 싶다. \n",
+          "나는 수학여행을 경주로 다녀왔다. \n",
+          "나의 아버지는 기념품을 사준다,",
+          "나는 다정한 남자를 만나고 싶다. \n"
+        ],
+        "speaker2": [
+          "나는 외식 관련직에 종사한다. 나는 50대 여성이다.",
+          "나는 캘리그래피가 취미이다. 나는 캘리그래피 동호회에 관심 없다",
+          "나는 야구를 좋아한다.",
+          "나는 낮 경기 응원하면서 치킨과 맥주를 먹는 것을 좋아한다.",
+          "나는 양념치킨을 좋아한다. 나는 사과를 안 먹는다.",
+          "나는 자두를 좋아한다.",
+          "나는 먹는 것을 좋아한다. \n",
+          "나는 주말 저녁에 가족들과 외식을 한다.",
+          "나는 고기를 먹는다.",
+          "나는 대학생 아들과 딸이 있다.",
+          "나는 남편이랑 잘 지낸다.",
+          "나는 가족들과 시간을 보내고 여행을 갔다.",
+          "나는 경주 불국사에 다녀왔다.",
+          "나는 보리빵 간식을 먹었다. \n",
+          "나는 다정한 남편이 있다."
+        ]
+      }
+    }
+  ]
+}

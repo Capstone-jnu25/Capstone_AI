@@ -1,0 +1,430 @@
+{
+  "FileInfo": {
+    "filename": "K2-00136-CL61006-CP61477-10-07-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "8990",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "중졸"
+    },
+    "speaker2": {
+      "participantID": "7478",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00136"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "61006",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 60대 이상이다.",
+        "나의 거주지는 안산이다.",
+        "나는 발라드 음악을 자주 듣는다.",
+        "나는 신 음식을 안 먹는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "61477",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 60대 이상이다.",
+        "나는 매우 부정적이다.",
+        "나는 코미디 영화를 가끔 본다.",
+        "나는 수박을 안 먹는다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "10-07",
+    "topicType": "여가와 오락>스포츠/레져",
+    "topicTitle": "운동 경기"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00136-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "61006",
+          "participantID": "8990",
+          "utterance": "반갑습니다. 안녕하세요. 저는 60대 여자입니다.",
+          "summary": "나는 60대 여자이다.",
+          "date": "2022-10-15",
+          "time": "00:14:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61477",
+          "participantID": "7478",
+          "utterance": "반갑네요. 저도 60대 여자 입니다.",
+          "summary": "나는 60대 여자이다.",
+          "date": "2022-10-15",
+          "time": "00:15:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61006",
+          "participantID": "8990",
+          "utterance": "저는 익산에 살고 있는데 어디 사시나요?",
+          "summary": "나는 익산에 살고 있다.",
+          "date": "2022-10-15",
+          "time": "00:15:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61477",
+          "participantID": "7478",
+          "utterance": "저는 안산에 살고 있어요.",
+          "summary": "나는 안산에 산다.",
+          "date": "2022-10-15",
+          "time": "00:15:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61006",
+          "participantID": "8990",
+          "utterance": "저는 뮤지컬 영화를 좋아하는데 영화는 가끔 보시나요?",
+          "summary": "나는 뮤지컬 영화를 좋아한다.",
+          "date": "2022-10-15",
+          "time": "00:15:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61477",
+          "participantID": "7478",
+          "utterance": "저는 코미디 영화를 가끔 봅니다.",
+          "summary": "나는 코미디 영화를 가끔 본다.",
+          "date": "2022-10-15",
+          "time": "00:15:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61006",
+          "participantID": "8990",
+          "utterance": "그러시군요. 저는 발라드 음악을 자주 듣는데 어떤 음악 좋아하세요?",
+          "summary": "나는 발라드 음악을 자주 듣는다.",
+          "date": "2022-10-15",
+          "time": "00:16:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61477",
+          "participantID": "7478",
+          "utterance": "저는 트로트를 좋아해요. 즐겨 들어요.",
+          "summary": "나는 트로트 좋아한다.",
+          "date": "2022-10-15",
+          "time": "00:16:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61006",
+          "participantID": "8990",
+          "utterance": "저도 가끔은 트로트 음악을 들어요. 저는 신 음식을 안 먹고 매운 음식을 좋아하는데 매운 음식 잘 드시나요?",
+          "summary": "나는 신 음식을 안 먹고 매운 음식을 좋아한다.",
+          "date": "2022-10-15",
+          "time": "00:16:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61477",
+          "participantID": "7478",
+          "utterance": "저는 매운 음식을 좋아해요. 싱거운거는 싫고요.",
+          "summary": "나는 매운 음식 좋아한다.",
+          "date": "2022-10-15",
+          "time": "00:17:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61006",
+          "participantID": "8990",
+          "utterance": "확실히 자극적인 음식이 맛있긴 해요. 저는 복숭아를 좋아하는데 어떤 과일 좋아하세요?",
+          "summary": "나는 복숭아를 좋아한다.",
+          "date": "2022-10-15",
+          "time": "00:17:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61477",
+          "participantID": "7478",
+          "utterance": "맞아요. 저는 사과를 좋아하고 수박을 안 먹어요. 수박알러지 있어요.",
+          "summary": "나는 사과 좋아하고 수박 안 먹는다.",
+          "date": "2022-10-15",
+          "time": "00:18:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61006",
+          "participantID": "8990",
+          "utterance": "저도 얼마 전에 수박 알러지가 있다는 얘기를 들었어요. 오늘 대화 즐거웠어요.",
+          "summary": "나는 얼마 전에 수박 알레르기가 있다는 얘기를 들었다.",
+          "date": "2022-10-15",
+          "time": "00:18:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61477",
+          "participantID": "7478",
+          "utterance": "맞아요. 수박만 봐도 힘들어요. 즐거운 대화였습니다.",
+          "summary": "나는 수박만 봐도 힘들다.",
+          "date": "2022-10-15",
+          "time": "00:18:54",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 60대 여자이다.",
+          "나는 익산에 살고 있다.",
+          "나는 뮤지컬 영화를 좋아한다.",
+          "나는 발라드 음악을 자주 듣는다.",
+          "나는 신 음식을 안 먹고 매운 음식을 좋아한다.",
+          "나는 복숭아를 좋아한다.",
+          "나는 얼마 전에 수박 알레르기가 있다는 얘기를 들었다."
+        ],
+        "speaker2": [
+          "나는 60대 여자이다.",
+          "나는 안산에 산다.",
+          "나는 코미디 영화를 가끔 본다.",
+          "나는 트로트 좋아한다.",
+          "나는 매운 음식 좋아한다.",
+          "나는 사과 좋아하고 수박 안 먹는다.",
+          "나는 수박만 봐도 힘들다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00136-1",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00136-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "61006",
+          "participantID": "8990",
+          "utterance": "정말 오랜만이네요. 저는 한 달 동안 딸아이 집에 있었어요.",
+          "summary": "나는 한 달 동안 딸아이 집에 가 있었다.",
+          "date": "2022-10-15",
+          "time": "00:19:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61477",
+          "participantID": "7478",
+          "utterance": "정말 오랜만이네요. 딸이랑 좋은 시간 보내셨네요.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "00:19:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61006",
+          "participantID": "8990",
+          "utterance": "네 딸아이가 한 달 동안 연수를 간다고 해서 손주도 봐 주고 집안 일을 해 주고 왔어요.",
+          "summary": "나는 딸아이가 연수를 가서 손주를 봐주고 집안일을 해 줬다.",
+          "date": "2022-10-15",
+          "time": "00:20:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61477",
+          "participantID": "7478",
+          "utterance": "눈에 넣어도 안 아픈 손주를 실컷 보고 오셨겠네요.",
+          "summary": "손주를 실컷 보고 오셨겠다.",
+          "date": "2022-10-15",
+          "time": "00:21:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61006",
+          "participantID": "8990",
+          "utterance": "내 마음 같아서는 더 있고 싶었는데 제가 요즘 게이트볼에 빠져서 참석한다고 일찍 올라왔어요.",
+          "summary": "나는 요즘 게이트볼에 빠져 있다.",
+          "date": "2022-10-15",
+          "time": "00:22:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61477",
+          "participantID": "7478",
+          "utterance": "게이트볼 좋아하시는군요. 저는 요즘 골프에 빠져 있거든요.",
+          "summary": "나는 요즘 골프에 빠져 있다.",
+          "date": "2022-10-15",
+          "time": "00:22:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61006",
+          "participantID": "8990",
+          "utterance": "그러시군요. 게이트볼은 간편하게 즐길 수 있어서 괜찮은 것 같아요.",
+          "summary": "게이트볼 간편하게 즐길 수 있어서 좋다.",
+          "date": "2022-10-15",
+          "time": "00:23:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61477",
+          "participantID": "7478",
+          "utterance": "게이트볼도 비용이 꽤 많이 든다고 들었어요.",
+          "summary": "게이트볼 비용이 많이 든다.",
+          "date": "2022-10-15",
+          "time": "00:23:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61006",
+          "participantID": "8990",
+          "utterance": "맞아요. 요즘은 운동을 하려면 돈이 있어야 되더라고요. 필드에는 자주 나가시나요?",
+          "summary": "요즘은 운동을 하려면 돈이 있어야 한다.",
+          "date": "2022-10-15",
+          "time": "00:24:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61477",
+          "participantID": "7478",
+          "utterance": "아직은 초보라서, 스크린 골프만 치고 있어요.",
+          "summary": "나는 스크린 골프 치고 있다.",
+          "date": "2022-10-15",
+          "time": "00:24:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61006",
+          "participantID": "8990",
+          "utterance": "그러시군요 저는 성격이 소심해서 공을 칠 때 옆 사람에게 자주 물어봐요.",
+          "summary": "나는 성격이 소심해서 공을 칠 때 옆 사람에게 자주 물어본다.",
+          "date": "2022-10-15",
+          "time": "00:25:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61477",
+          "participantID": "7478",
+          "utterance": "저는 매우 부정적이라서, 자꾸 안 좋은 생각만 하게 돼요.",
+          "summary": "나는 매우 부정적이다.",
+          "date": "2022-10-15",
+          "time": "00:25:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61006",
+          "participantID": "8990",
+          "utterance": "마음을 편히 가지셔서 좋은 생각만 해 보세요. 오늘 대화 즐거웠어요.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "00:26:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "61477",
+          "participantID": "7478",
+          "utterance": "조언 감사합니다 .즐거운 시간이었습니다.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "00:26:26",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 한 달 동안 딸아이 집에 가 있었다.",
+          "나는 딸아이가 연수를 가서 손주를 봐주고 집안일을 해 줬다.",
+          "나는 요즘 게이트볼에 빠져 있다.",
+          "게이트볼 간편하게 즐길 수 있어서 좋다.",
+          "요즘은 운동을 하려면 돈이 있어야 한다.",
+          "나는 성격이 소심해서 공을 칠 때 옆 사람에게 자주 물어본다."
+        ],
+        "speaker2": [
+          "손주를 실컷 보고 오셨겠다.",
+          "나는 요즘 골프에 빠져 있다.",
+          "게이트볼 비용이 많이 든다.",
+          "나는 스크린 골프 치고 있다.",
+          "나는 매우 부정적이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 60대 여자이다.",
+          "나는 익산에 살고 있다.",
+          "나는 뮤지컬 영화를 좋아한다.",
+          "나는 발라드 음악을 자주 듣는다.",
+          "나는 신 음식을 안 먹고 매운 음식을 좋아한다.",
+          "나는 복숭아를 좋아한다.",
+          "나는 얼마 전에 수박 알레르기가 있다는 얘기를 들었다."
+        ],
+        "speaker2": [
+          "나는 60대 여자이다.",
+          "나는 안산에 산다.",
+          "나는 코미디 영화를 가끔 본다.",
+          "나는 트로트 좋아한다.",
+          "나는 매운 음식 좋아한다.",
+          "나는 사과 좋아하고 수박 안 먹는다.",
+          "나는 수박만 봐도 힘들다."
+        ]
+      }
+    }
+  ]
+}

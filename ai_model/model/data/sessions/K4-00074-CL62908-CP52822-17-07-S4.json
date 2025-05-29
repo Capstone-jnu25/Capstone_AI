@@ -1,0 +1,840 @@
+{
+  "FileInfo": {
+    "filename": "K4-00074-CL62908-CP52822-17-07-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4943",
+      "gender": "남성",
+      "age": "60대 이상",
+      "occupation": "기능직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "4808",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00074"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "62908",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 60대 이상이다.",
+        "나는 액션 영화를 자주 본다",
+        "나는 가을을 싫어한다",
+        "나는 TV 교육 프로그램을 자주 본다",
+        "나는 정원을 가꾸는 것을 좋아한다",
+        "나는 멜론을 좋아한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "52822",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 주부이다",
+        "나는 힐링 여행을 자주 간다",
+        "나는 무슨 일이든지 빨리 한다",
+        "나는 댄스 음악을 가끔 듣는다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "17-07",
+    "topicType": "미용과 건강>건강",
+    "topicTitle": "보험"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00074-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "안녕하세요 저는 60대 남성 입니다",
+          "summary": "나는 60대 남성입니다.",
+          "date": "2022-11-29",
+          "time": "16:36:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "안녕하세요? 저는 50대 여성입니다.",
+          "summary": "나는 50대 여성이다",
+          "date": "2022-11-29",
+          "time": "16:36:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "저는 액션 영화가 신나서 좋아요",
+          "summary": "나는 액션 영화가 좋다",
+          "date": "2022-11-29",
+          "time": "16:38:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "저는 영화는 잘 안보고 댄스음악을 가끔 들어요. ",
+          "summary": "나는 댄스 음악을 가끔 듣는다",
+          "date": "2022-11-29",
+          "time": "16:38:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "그래요 저는 봄보다 가을을 싫어하는데 어떤계절 좋아해요",
+          "summary": "나는 봄보다 가을을 싫어한다.",
+          "date": "2022-11-29",
+          "time": "16:39:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "전 봄 가을 둘다 좋아해요. 그래서 그 계절엔 힐링 여행을 자주 가요. 어떤 일을 하세요?",
+          "summary": "나는 봄 가을을 좋아하고 힐링 여행을 자주 간다.",
+          "date": "2022-11-29",
+          "time": "16:40:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "저는 은퇴하고 정원을 가꾸면서 시간 보내요",
+          "summary": "나는 은퇴 후 정원을 가꾼다.",
+          "date": "2022-11-29",
+          "time": "16:40:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": " 좋으시네요. 저는 주부입니다. 저희 남편도 정년이 10년도 남지 않아서 제가 뭐라도 해야하나 하고 있어요.",
+          "summary": "나는 뭐라도 해야하나 하고 있다.",
+          "date": "2022-11-29",
+          "time": "16:41:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "또 저는 수박보다 멜론이 더 좋아요",
+          "summary": "나는 멜론을 좋아한다.",
+          "date": "2022-11-29",
+          "time": "16:42:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "과일은 좋아하시나봐요. 저는 귤을 좋아해요.",
+          "summary": "나는 귤을 좋아한다",
+          "date": "2022-11-29",
+          "time": "16:43:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "귤도 좋지요 tv교육프로그램 보는것도 좋아해요",
+          "summary": "나는 tv교육프로그램 보는 걸 좋아한다.",
+          "date": "2022-11-29",
+          "time": "16:43:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "저는 손이 빨라서 무슨일이든 빨리 하는 편이라 무언가 손으로 하는 일을 해보고 싶은데 어떤걸 해야할지 아직 못 찾고 있어요.",
+          "summary": "나는 손으로 하는 일을 잘한다",
+          "date": "2022-11-29",
+          "time": "17:04:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "손재주가 아주 뛰어나신가 봅니다",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "17:25:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "네 저 저녁준비해야해서 다음에 또 뵈여",
+          "summary": "나는 저녁을 준비해야 한다",
+          "date": "2022-11-29",
+          "time": "17:29:45",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 60대 남성입니다.",
+          "나는 액션 영화가 좋다",
+          "나는 봄보다 가을을 싫어한다.",
+          "나는 은퇴 후 정원을 가꾼다.",
+          "나는 멜론을 좋아한다.",
+          "나는 tv교육프로그램 보는 걸 좋아한다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다",
+          "나는 댄스 음악을 가끔 듣는다",
+          "나는 봄 가을을 좋아하고 힐링 여행을 자주 간다.",
+          "나는 뭐라도 해야하나 하고 있다.",
+          "나는 귤을 좋아한다",
+          "나는 손으로 하는 일을 잘한다",
+          "나는 저녁을 준비해야 한다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00074-1",
+      "prevTimeInfo": {
+        "timeNum": "18",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00074-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "18시간 많이 내요 뭘 하고 계셨어요",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "16:01:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "아이들 간식 주고 조금 쉬고 있었어요.",
+          "summary": "나는 아이들 간식 주고 쉬고 있었다.",
+          "date": "2022-11-30",
+          "time": "16:01:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "어린 아이들이 집에 있나 봐요",
+          "summary": "나는 어린아이들이 집에 있는지 궁금하다.",
+          "date": "2022-11-30",
+          "time": "16:02:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "아니요 초등이랑 중딩이 있었요",
+          "summary": "나는 초등학생이랑 중학생 아이가 있다",
+          "date": "2022-11-30",
+          "time": "16:03:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "그렇군요 어린 아이들을 보려면 힘이 들텐데",
+          "summary": "나는 어린아이들을 보려면 힘이 들 거라 생각된다.",
+          "date": "2022-11-30",
+          "time": "16:12:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "네 일상이긴 한데 요즘 체력이 많이 딸리는게 느껴져서 운동을 시작해야겠어요",
+          "summary": "나는 운동을 시작해야겠다",
+          "date": "2022-11-30",
+          "time": "16:15:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "운동 좋죠 그리고 건강 보험은 많이 들어 놓으셨어요",
+          "summary": "나는 건강 보험을 많이 들어 놓았는지 물었다.",
+          "date": "2022-11-30",
+          "time": "16:17:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "네 저흰 보험은 알차게 잘 들어놔서 도움을 많이 받고 있어요",
+          "summary": "나는 보험을 알차게 들어 놨다",
+          "date": "2022-11-30",
+          "time": "16:18:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "아주 현명하게 살아가시는군요 부럽네요",
+          "summary": "나는 아주 현명하게 살아가시는 모습이 부럽다고 했다.",
+          "date": "2022-11-30",
+          "time": "16:18:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "개인적으로 보험에 대해서는 잘 몰라요 친한 지인분이 설계사신데 양심껏 잘 가입해 주셨더라고요",
+          "summary": "나는 개인적으로 보험을 잘 모른다",
+          "date": "2022-11-30",
+          "time": "16:25:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "주변에 보험 설계사 분들이 계시니까 편할 때도 있었어요",
+          "summary": "나는 주변에 보험 설계사 분들이 계시니까 편할 때도 있었다.",
+          "date": "2022-11-30",
+          "time": "16:27:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "아무래도 이런일들은 전문가를 믿고 하는 수 밖에 없는거 같아요.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "16:34:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "맞아요 저도 뭐가 무슨 말인지 알아들을 수도 없었어요",
+          "summary": "나는 무슨 말인지 알아들을 수가 없었다.",
+          "date": "2022-11-30",
+          "time": "16:35:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "유익한 대화중이었는데 미안해요 갑자기 일이 생겨서요 다음에 뵈요",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "16:37:34",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 어린아이들이 집에 있는지 궁금하다.",
+          "나는 어린아이들을 보려면 힘이 들 거라 생각된다.",
+          "나는 건강 보험을 많이 들어 놓았는지 물었다.",
+          "나는 아주 현명하게 살아가시는 모습이 부럽다고 했다.",
+          "나는 주변에 보험 설계사 분들이 계시니까 편할 때도 있었다.",
+          "나는 무슨 말인지 알아들을 수가 없었다."
+        ],
+        "speaker2": [
+          "나는 아이들 간식 주고 쉬고 있었다.",
+          "나는 초등학생이랑 중학생 아이가 있다",
+          "나는 운동을 시작해야겠다",
+          "나는 보험을 알차게 들어 놨다",
+          "나는 개인적으로 보험을 잘 모른다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 60대 남성입니다.",
+          "나는 액션 영화가 좋다",
+          "나는 봄보다 가을을 싫어한다.",
+          "나는 은퇴 후 정원을 가꾼다.",
+          "나는 멜론을 좋아한다.",
+          "나는 tv교육프로그램 보는 걸 좋아한다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다",
+          "나는 댄스 음악을 가끔 듣는다",
+          "나는 봄 가을을 좋아하고 힐링 여행을 자주 간다.",
+          "나는 뭐라도 해야하나 하고 있다.",
+          "나는 귤을 좋아한다",
+          "나는 손으로 하는 일을 잘한다",
+          "나는 저녁을 준비해야 한다"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00074-2",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "주"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00074-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "오주 만에 뵙네요 그동안 잘 지내셨어요",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "16:40:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "네 그동안 오주라는 시간이 흘렀네요",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "16:41:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "지난 번에 보험 얘기를 하다 말았는데 계속 하시죠",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "16:42:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "저는 아들이 있다보니 보험 혜택을 많이 보게 되네요",
+          "summary": "나는 아들이 있어서 보험 혜택을 많이 본다",
+          "date": "2022-11-30",
+          "time": "16:52:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "아들이 있는 것과 보험 혜택이 상관관계가 있나요",
+          "summary": "나는 아들이 있는 것과 보험 혜택이 상관관계가 있는지 궁금하다.",
+          "date": "2022-11-30",
+          "time": "16:53:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "남자아이들은 아무래도 노는게 거칠다 보니깐 다치는 경우가 많아요.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "16:58:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "맞아요 저희 아들도 예전에 넘어져서 골절상을입은적이 있어요 있어요",
+          "summary": "나도 아들이 예전에 넘어져서 골절상을 입은 적이 있다.",
+          "date": "2022-11-30",
+          "time": "16:59:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "아들 키우는 집들은 다들 그런가보군요. 실비 보험이 필수에요.",
+          "summary": "나는 아들 키우는 집은 실비보험이 필수라고 생각한다",
+          "date": "2022-11-30",
+          "time": "17:04:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "네 그래서 어린이보험도 많이 들고 했죠 예전에",
+          "summary": "나는 어린이보험도 많이 들곤 했다.",
+          "date": "2022-11-30",
+          "time": "17:05:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "네 저는 요즘 간병보험을 좀 들어놔야하나 고민이에요",
+          "summary": "나는 요즘 간병보험을 들어야 하나 고민한다",
+          "date": "2022-11-30",
+          "time": "17:08:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "저도 아직 간병보험은 들지 않았어요",
+          "summary": "나는 아직 간병보험을 들지 않았다",
+          "date": "2022-11-30",
+          "time": "17:09:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "우리 나이가 벌써 간병보험을 걱정할 나이인가 싶네요.",
+          "summary": "나는 내 나이가 간병보험을 걱정할 나이인가 싶다.",
+          "date": "2022-11-30",
+          "time": "17:11:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "맞아요 세월이 참 빨라요 그렇죠",
+          "summary": "나는 세월이 참 빠른 거 같다.",
+          "date": "2022-11-30",
+          "time": "17:12:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "네.. 이제는 주름도 제법 많이 생겨서 걱정이고 흰머리도 한달에 한번씩 염색을 해야하네요",
+          "summary": "나는 한 달에 한 번씩 염색을 한다",
+          "date": "2022-11-30",
+          "time": "17:14:07",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 아들이 있는 것과 보험 혜택이 상관관계가 있는지 궁금하다.",
+          "나도 아들이 예전에 넘어져서 골절상을 입은 적이 있다.",
+          "나는 어린이보험도 많이 들곤 했다.",
+          "나는 아직 간병보험을 들지 않았다",
+          "나는 세월이 참 빠른 거 같다."
+        ],
+        "speaker2": [
+          "나는 아들이 있어서 보험 혜택을 많이 본다",
+          "나는 아들 키우는 집은 실비보험이 필수라고 생각한다",
+          "나는 요즘 간병보험을 들어야 하나 고민한다",
+          "나는 내 나이가 간병보험을 걱정할 나이인가 싶다.",
+          "나는 한 달에 한 번씩 염색을 한다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 60대 남성입니다.",
+          "나는 액션 영화가 좋다",
+          "나는 봄보다 가을을 싫어한다.",
+          "나는 은퇴 후 정원을 가꾼다.",
+          "나는 멜론을 좋아한다.",
+          "나는 tv교육프로그램 보는 걸 좋아한다.",
+          "나는 어린아이들이 집에 있는지 궁금하다.",
+          "나는 어린아이들을 보려면 힘이 들 거라 생각된다.",
+          "나는 건강 보험을 많이 들어 놓았는지 물었다.",
+          "나는 아주 현명하게 살아가시는 모습이 부럽다고 했다.",
+          "나는 주변에 보험 설계사 분들이 계시니까 편할 때도 있었다.",
+          "나는 무슨 말인지 알아들을 수가 없었다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다",
+          "나는 댄스 음악을 가끔 듣는다",
+          "나는 봄 가을을 좋아하고 힐링 여행을 자주 간다.",
+          "나는 뭐라도 해야하나 하고 있다.",
+          "나는 귤을 좋아한다",
+          "나는 손으로 하는 일을 잘한다",
+          "나는 저녁을 준비해야 한다",
+          "나는 아이들 간식 주고 쉬고 있었다.",
+          "나는 초등학생이랑 중학생 아이가 있다",
+          "나는 운동을 시작해야겠다",
+          "나는 보험을 알차게 들어 놨다",
+          "나는 개인적으로 보험을 잘 모른다"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00074-3",
+      "prevTimeInfo": {
+        "timeNum": "14",
+        "timeUnit": "시간"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00074-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "벌써 14시 간만 이군요 뭐 하고 계셨어요",
+          "summary": "",
+          "date": "2022-12-01",
+          "time": "11:51:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "네 그 사이 흰머리가 너무 보여서 염색을 좀 하고 왔어요 ",
+          "summary": "나는 염색을 하고 왔다",
+          "date": "2022-12-01",
+          "time": "14:37:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "흰머리 염색을 하시는군요 혹시 눈이 나빠지지는 않나요",
+          "summary": "나는 염색으로 눈이 나빠지지 않는지 물었다.",
+          "date": "2022-12-01",
+          "time": "14:41:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "큰 영향이 미치는건 잘 모르겠어요. 흰머리가 오히려 너무 거슬려서요",
+          "summary": "나는 흰머리가 거슬린다",
+          "date": "2022-12-01",
+          "time": "14:42:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "맞아요 나도 40대부터 염색을 했거든요",
+          "summary": "나는 40대부터 염색을 했다.",
+          "date": "2022-12-01",
+          "time": "14:43:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "그래도 늦게 하셨네요. 전 유전인지 30살 중반넘어가니 흰머리가 생기기 시작했거든요",
+          "summary": "나는 30살 중반 넘어가니 흰머리가 생겼다",
+          "date": "2022-12-01",
+          "time": "14:46:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "흰머리가 유전 인 건 맞는 거 같아요 저도 부모님이 일찍 머리가 하얗게 되셨거든요",
+          "summary": "나는 흰머리가 유전 인 건 맞는 거 같다. 부모님이 일찍 머리가 하얗게 되었다.",
+          "date": "2022-12-01",
+          "time": "14:51:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "네 그전엔 멋내기로 염색을 했다면 이제는 흰머리 감추기 위한 선택이 아닌 필수가 되었어요",
+          "summary": "",
+          "date": "2022-12-01",
+          "time": "14:51:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "맞아요 매번 해야 할 때마다 약간 서글픈 생각도 들었어요",
+          "summary": "나는 매번 흰머리 염색을 할 때마다 서글프다.",
+          "date": "2022-12-01",
+          "time": "14:52:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "매번하는 염색이 지겨워 이번엔 최대한 버텨봤는데... 흰머리로 10살은 들어 보이는 느낌이 들었어요. 미용적인면에서 안 할 수가 없더라고요",
+          "summary": "나는 매번하는 염색이 지겨워 이번엔 최대한 버텨봤는데 흰머리로 10살은 들어 보이는 느낌이 들었다.",
+          "date": "2022-12-01",
+          "time": "15:01:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "저도 은퇴하고 나서는 염색을 최대한 늦춰서 하는 편이에요",
+          "summary": "나는 은퇴하고 염색을 최대한 늦춰서 하는 편이다.",
+          "date": "2022-12-01",
+          "time": "15:02:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "저도 그러고 싶은데 거울을 보면 참을 수가 없더라고요",
+          "summary": "나는 거울을 보면 참을 수가 없다",
+          "date": "2022-12-01",
+          "time": "15:09:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "62908",
+          "participantID": "4943",
+          "utterance": "확실히 흰머리는 나이가 들어 보이는게 사실이죠",
+          "summary": "나는 확실히 흰머리가 나이 들어 보이게 하는 게 사실이라고 본다.",
+          "date": "2022-12-01",
+          "time": "15:09:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52822",
+          "participantID": "4808",
+          "utterance": "벌써 시간이 다음에 다시 이야기 하도록 해요",
+          "summary": "",
+          "date": "2022-12-01",
+          "time": "15:11:20",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 염색으로 눈이 나빠지지 않는지 물었다.",
+          "나는 40대부터 염색을 했다.",
+          "나는 흰머리가 유전 인 건 맞는 거 같다. 부모님이 일찍 머리가 하얗게 되었다.",
+          "나는 매번 흰머리 염색을 할 때마다 서글프다.",
+          "나는 은퇴하고 염색을 최대한 늦춰서 하는 편이다.",
+          "나는 확실히 흰머리가 나이 들어 보이게 하는 게 사실이라고 본다."
+        ],
+        "speaker2": [
+          "나는 염색을 하고 왔다",
+          "나는 흰머리가 거슬린다",
+          "나는 30살 중반 넘어가니 흰머리가 생겼다",
+          "나는 매번하는 염색이 지겨워 이번엔 최대한 버텨봤는데 흰머리로 10살은 들어 보이는 느낌이 들었다.",
+          "나는 거울을 보면 참을 수가 없다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 60대 남성입니다.",
+          "나는 액션 영화가 좋다",
+          "나는 봄보다 가을을 싫어한다.",
+          "나는 은퇴 후 정원을 가꾼다.",
+          "나는 멜론을 좋아한다.",
+          "나는 tv교육프로그램 보는 걸 좋아한다.",
+          "나는 어린아이들이 집에 있는지 궁금하다.",
+          "나는 어린아이들을 보려면 힘이 들 거라 생각된다.",
+          "나는 건강 보험을 많이 들어 놓았는지 물었다.",
+          "나는 아주 현명하게 살아가시는 모습이 부럽다고 했다.",
+          "나는 주변에 보험 설계사 분들이 계시니까 편할 때도 있었다.",
+          "나는 무슨 말인지 알아들을 수가 없었다.",
+          "나는 아들이 있는 것과 보험 혜택이 상관관계가 있는지 궁금하다.",
+          "나도 아들이 예전에 넘어져서 골절상을 입은 적이 있다.",
+          "나는 어린이보험도 많이 들곤 했다.",
+          "나는 아직 간병보험을 들지 않았다",
+          "나는 세월이 참 빠른 거 같다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다",
+          "나는 댄스 음악을 가끔 듣는다",
+          "나는 봄 가을을 좋아하고 힐링 여행을 자주 간다.",
+          "나는 뭐라도 해야하나 하고 있다.",
+          "나는 귤을 좋아한다",
+          "나는 손으로 하는 일을 잘한다",
+          "나는 저녁을 준비해야 한다",
+          "나는 아이들 간식 주고 쉬고 있었다.",
+          "나는 초등학생이랑 중학생 아이가 있다",
+          "나는 운동을 시작해야겠다",
+          "나는 보험을 알차게 들어 놨다",
+          "나는 개인적으로 보험을 잘 모른다",
+          "나는 아들이 있어서 보험 혜택을 많이 본다",
+          "나는 아들 키우는 집은 실비보험이 필수라고 생각한다",
+          "나는 요즘 간병보험을 들어야 하나 고민한다",
+          "나는 내 나이가 간병보험을 걱정할 나이인가 싶다.",
+          "나는 한 달에 한 번씩 염색을 한다"
+        ]
+      }
+    }
+  ]
+}

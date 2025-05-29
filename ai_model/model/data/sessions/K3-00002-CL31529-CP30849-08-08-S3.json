@@ -1,0 +1,649 @@
+{
+  "FileInfo": {
+    "filename": "K3-00002-CL31529-CP30849-08-08-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0701",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0764",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00002"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "31529",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 친구와 자주 만난다.",
+        "나는 생각하는 게 귀찮다.",
+        "나는 블루베리를 안 먹는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "30849",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나의 거주지는 대구이다.",
+        "나는 자주 눈물이 난다.",
+        "나는 흐린 날을 좋아한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "08-08",
+    "topicType": "개인 및 관계>연애/결혼",
+    "topicTitle": "이상형"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00002-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "안녕하세요 저는 30대 여자입니다. 저는 회사원입니다 반가워요 !",
+          "summary": "나는 30대 여성이다. 나는 회사원이다.",
+          "date": "2022-10-06",
+          "time": "16:04:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "안녕하세요 저는 30대 남자입니다. 대구에 살고 있습니다.",
+          "summary": "나는 30대 남성이다. 나의 거주지는 대구이다.",
+          "date": "2022-10-06",
+          "time": "16:04:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "오호.. 대구에 사시는군요? ㅎㅎㅎ 대구에 사는 남자들이 그렇게 잘생겼다고 하던뎅?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:04:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "글쎄요... 저는 그냥 대프리카에 사는 탄감자인 거 같습니다...",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:05:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "그런가요? ㅋㅋ 흑감자라고 부르겠습니다... 감자씨 식사는 하셨어요?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:05:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "외모에는 자신 없습니다 ㅠㅠ... 감자는 지금 데굴데굴 굴러서 식당 가는 길이에요.",
+          "summary": "나는 외모에 자신이 없다. 나는 식당에 가는 길이다.",
+          "date": "2022-10-06",
+          "time": "16:05:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "아 그러시구나... ㅋㅋㅋ 날도 더울텐데 괜찮아요?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:05:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "안 그래도 대구는 오늘도 정말 덥네요... 전 이래서 흐린 날이 좋아요... 거기도 맑나요?",
+          "summary": "나는 흐린 날을 좋아한다.",
+          "date": "2022-10-06",
+          "time": "16:06:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "넵.. 아주 청아할 정도로 맑고.. 따뜻하네요... 이런날은 생각하는게 귀찮아져요..ㅋㅋ.",
+          "summary": "나는 생각하는 게 귀찮다.",
+          "date": "2022-10-06",
+          "time": "16:06:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "하지만 이렇게 덥지는 않겠죠... ㅋㅋㅋ아 귀차니즘...? 그럼 저는 니즘씨라고 부를게요.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:06:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": ";;;;;; 니즘씨라니 대구 남자식 드립인가요? ㅋㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:06:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "감자씨도 이상하거든요 ㅠㅠ 차라리 님이라고 불러주세요 ㅠㅠ.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:07:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "알겠어요 그냥 님이라고 부를게요 ㅋㅋㅋㅋ 저는 잠시 친구 만나러 나왔는데 식사하셔야 되지 않아요?",
+          "summary": "나는 친구를 만나러 나왔다.",
+          "date": "2022-10-06",
+          "time": "16:07:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "네 이제 곧 식당에 도착할 거 같아서... 그럼 저희는 다음에 뵐까요?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:07:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "넵 그렇게 하져~ 수고하세요 맛있게 드시구용.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:07:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "넵 님도 친구분이랑 재밌게 노시고요. 다음에 봐요.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:08:09",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다. 나는 회사원이다.",
+          "나는 생각하는 게 귀찮다.",
+          "나는 친구를 만나러 나왔다."
+        ],
+        "speaker2": [
+          "나는 30대 남성이다. 나의 거주지는 대구이다.",
+          "나는 외모에 자신이 없다. 나는 식당에 가는 길이다.",
+          "나는 흐린 날을 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00002-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00002-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "어제는 친구 만나서 수다 떤다고 다음날 연락 드렸네용 자주 만나는데도 욀케 할 말이 많은지.. ㅋㅋㅋ.",
+          "summary": "나는 친구와 자주 만난다.",
+          "date": "2022-10-06",
+          "time": "16:08:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "안녕하세요? 와... 저 어제 갔던 식당에서 무슨 일이 있었냐면요...",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:08:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "네??? 갑자기..? 네 한번 말씀 해주세요.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:08:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "완전 @이름1@ 닮은 여자를 봤어요... 목소리 이쁘고... 진짜 제 이상형...",
+          "summary": "나는 어제 이상형인 여자를 봤다.",
+          "date": "2022-10-06",
+          "time": "16:08:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "저 아니에요? 저도 어제 밥 집 갔엇는데..?",
+          "summary": "나는 어제 밥 집을 갔다.",
+          "date": "2022-10-06",
+          "time": "16:09:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "아 친구랑 같이 왔던데 그 옆에 있던 흰감자가 님이었나...?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:09:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "아~ 여성 외모 비하 발언이신거죠..? 잘 들었습니다 ㅋㅋ 이런분인지 몰랐네요~",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:09:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "이걸 이렇게?;; 아무튼 어제 눈호강 제대로 했네요 ㄷㄷ.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:10:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "그 정도였어요? 잠깐 봐도 인상에 남을 만한...?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:10:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "사실 그 여자분 번호도 따왔어요... 주시더라구요 저한테???",
+          "summary": "나는 이상형 여자의 번호를 받았다.",
+          "date": "2022-10-06",
+          "time": "16:10:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "거짓말 하지마세요.. 탄 감자인데.. 어떻게.. 혹시 담구는거 아니에요??? 조심하세요 진짜...",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:10:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "아 그런가...? 감자조림 만들려고 받아준 건가... 근데 솔직히 연락하기 겁나서 못하고 있어요...",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:10:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "ㅋㅋㅋㅋㅋㅋ 오케이 그렇다 칩시다.. 번호 딸 용기는 있는데 겁나서 연락은 못하겠어요??",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:10:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "ㅠㅠ그때는 제정신이 아니어서 그냥 가서 용기내서 물어봤는데 지금은... ㅠㅠ;;",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:11:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "알겠어욬ㅋㅋ 저 일단 잠시 엄마한테 전화왔어요 전화좀 하구요 일단.",
+          "summary": "나는 엄마한테 전화가 왔다.",
+          "date": "2022-10-06",
+          "time": "16:11:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "헝... 네... 그럼 다음에 연락 주세요 ㅠㅠ; 저도 하던 게 있어서...",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:11:38",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 친구와 자주 만난다.",
+          "나는 어제 밥 집을 갔다.",
+          "나는 엄마한테 전화가 왔다."
+        ],
+        "speaker2": [
+          "나는 어제 이상형인 여자를 봤다.",
+          "나는 이상형 여자의 번호를 받았다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다. 나는 회사원이다.",
+          "나는 생각하는 게 귀찮다.",
+          "나는 친구를 만나러 나왔다."
+        ],
+        "speaker2": [
+          "나는 30대 남성이다. 나의 거주지는 대구이다.",
+          "나는 외모에 자신이 없다. 나는 식당에 가는 길이다.",
+          "나는 흐린 날을 좋아한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00002-2",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00002-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "아~ 진짜 엄마 잔소리.. 계속 블루베리 몸에 좋다고 먹으라고 먹지도 않는데 우째요 이거.. 남아있는거 많은데.",
+          "summary": "나는 엄마한테 잔소리를 들었다. 나는 블루베리를 안 먹는다.",
+          "date": "2022-10-06",
+          "time": "16:11:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "ㅠㅠ.....님...........저는 님 전화하는 동안 결국 그 여자한테 연락을 해봤는데요....",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:12:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "내 얘긴 듣지도 않는구먼 네 얘기 한번 해봐요..;;;",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:12:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "연락하니까 없는 번호라고 떠요 ㅠㅠㅠㅠㅠㅠ흐윽 ㅠㅠㅠㅠㅠㅠ이럴줄알았어 ㅠㅠ.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:12:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "ㅋㅋ 아고 힘내세요 ㅋㅋㅋㅋ;;;; 아이구 ㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:13:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "못생긴 게 죈가요 ㅠㅠㅠ 죄는 맞지만 ㅠㅠ 하... 이 얼굴 땜에 자주 눈물이 나네요...",
+          "summary": "나는 자주 눈물이 난다.",
+          "date": "2022-10-06",
+          "time": "16:13:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "죄는 아니에요... 당신은 좋은 사람이에요.. 얼굴이 망가진게 왜요??",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:13:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "이상형이었는데... 흑흑... ㅠㅠ 그냥 평생 솔로로 살아야겠어요...",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:13:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "힘들겠지만 좋게 생각해요.. 생긴게 문제 있는게 왜요.. 머 얼굴 망가질수도 잇지.. 문젭니까??",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:14:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "그러는 님은 사실 남자친구 있는 거 아니에요? 이 기만자...",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:14:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "있죠 저는.. 제 남친은 생긴건 평범한데 착해요..",
+          "summary": "나는 남자 친구가 있다. 나의 남자 친구 생김새는 평범하다.",
+          "date": "2022-10-06",
+          "time": "16:14:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "ㅠㅠㅠㅠ세상은 역시 불공평해... 저런 사람도 애인이 있는데 흐흑...",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:14:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "ㅋㅋㅋㅋ 저런사람요? 뭐지..? 갈구는거요..?",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:14:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "님처럼 착하고 마음씨 좋고 남을 배려할 줄 아는 사람이란 뜻이에요... ㅠㅠ.",
+          "summary": "",
+          "date": "2022-10-06",
+          "time": "16:14:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31529",
+          "participantID": "0701",
+          "utterance": "으구 ㅋㅋㅋ 하여튼 맘 좀 잘 챙기고 쉬고 있어요 일단 빨래좀 정리하고 올게요.",
+          "summary": "나는 빨래를 정리할 예정이다.",
+          "date": "2022-10-06",
+          "time": "16:15:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30849",
+          "participantID": "0764",
+          "utterance": "ㅠㅠ하...네 충격이 커서 좀 쉬고 싶네요... 나중에 봐요....",
+          "summary": "나는 충격이 크다.",
+          "date": "2022-10-06",
+          "time": "16:15:19",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 엄마한테 잔소리를 들었다. 나는 블루베리를 안 먹는다.",
+          "나는 남자 친구가 있다. 나의 남자 친구 생김새는 평범하다.",
+          "나는 빨래를 정리할 예정이다."
+        ],
+        "speaker2": [
+          "나는 자주 눈물이 난다.",
+          "나는 충격이 크다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다. 나는 회사원이다.",
+          "나는 생각하는 게 귀찮다.",
+          "나는 친구를 만나러 나왔다.",
+          "나는 친구와 자주 만난다.",
+          "나는 어제 밥 집을 갔다.",
+          "나는 엄마한테 전화가 왔다."
+        ],
+        "speaker2": [
+          "나는 30대 남성이다. 나의 거주지는 대구이다.",
+          "나는 외모에 자신이 없다. 나는 식당에 가는 길이다.",
+          "나는 흐린 날을 좋아한다.",
+          "나는 어제 이상형인 여자를 봤다.",
+          "나는 이상형 여자의 번호를 받았다."
+        ]
+      }
+    }
+  ]
+}

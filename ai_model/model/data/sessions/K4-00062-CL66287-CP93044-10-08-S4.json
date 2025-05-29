@@ -1,0 +1,797 @@
+{
+  "FileInfo": {
+    "filename": "K4-00062-CL66287-CP93044-10-08-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "31740",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "30553",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "무직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00062"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "66287",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 테니스를 싫어한다.",
+        "나는 혈액형이 O형이다.",
+        "나는 재즈 음악을 싫어한다.",
+        "나는 양식을 좋아한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "93044",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나의 생일은 8월이다.",
+        "나는 주말에 빨래를 한다.",
+        "나는 의외로 혼자 있는 것을 좋아한다.",
+        "나는 설거지하는 것을 싫어한다.",
+        "나는 혈액형이 A형이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "10-08",
+    "topicType": "여가와 오락>스포츠/레져",
+    "topicTitle": "신기록"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00062-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "안녕하세요 저는 20대 남자입니다.",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-11-21",
+          "time": "16:26:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "안녕하세요. 저는 40대 여자입니다.",
+          "summary": "나는 40대 여자이다.",
+          "date": "2022-11-21",
+          "time": "16:26:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "반가워요! 혹시 운동 좋아하세요? 저는 테니스를 치다가 손목을 다쳐서 테니스를 싫어해요!",
+          "summary": "나는 테니스를 싫어한다.",
+          "date": "2022-11-21",
+          "time": "16:27:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "저는 의외로 혼자 있는 것을 좋아해서 운동보다는 집순이 쪽에 가까워요.",
+          "summary": "나는 의외로 혼자 있는 것을 좋아한다.",
+          "date": "2022-11-21",
+          "time": "16:27:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "그렇군요! 저는 O형이라 친화력이 좋아요! 무슨 형이세요?",
+          "summary": "나는 혈액형이 O형이다.",
+          "date": "2022-11-21",
+          "time": "16:28:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "저는 A형이라 소심해서 그런가봐요. 오늘은 주말이라 집에서 빨래를 해요. 주말마다 하거든요.",
+          "summary": "나는 혈액형이 A형이다. 나는 주말에 빨래를 한다.",
+          "date": "2022-11-21",
+          "time": "16:28:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "한번에 몰아서 하시는 성격이시가봐요! 혹시 음악 좋아하시나요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:29:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "네 제가 자주 세탁기 돌리는걸 싫어해서요. 음악은 그냥 대중가요만 듣네요. 뭐 좋아하세요?",
+          "summary": "나는 세탁기 자주 돌리지 않는다. 음악은 대중가요를 듣는다.",
+          "date": "2022-11-21",
+          "time": "16:29:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "저는 재즈 음악을 싫어해요. 뭔가 우울하더라구요...",
+          "summary": "나는 재즈 음악을 싫어한다.",
+          "date": "2022-11-21",
+          "time": "16:30:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "그러시군요. 생일이 언제신가요? 저는 8월이라서 이번달인데..",
+          "summary": "나의 생일은 8월이다.",
+          "date": "2022-11-21",
+          "time": "16:30:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "저는 12월이에요! 한 겨울이 생일이죠!",
+          "summary": "나의 생일은 12월이다.",
+          "date": "2022-11-21",
+          "time": "16:31:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "오~ 저랑 비슷하게 방학이네요! 저는 생일마다 방학이라서 항상 축하를 잘 못받았었어요ㅠ.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:31:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "저도 그래요! 저는 이제 점심 좀 먹고 올게요!",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:32:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "그래요. 그러면 다음에 또 연락하기로 해요!",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:32:13",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 테니스를 싫어한다.",
+          "나는 혈액형이 O형이다.",
+          "나는 재즈 음악을 싫어한다.",
+          "나의 생일은 12월이다."
+        ],
+        "speaker2": [
+          "나는 40대 여자이다.",
+          "나는 의외로 혼자 있는 것을 좋아한다.",
+          "나는 혈액형이 A형이다. 나는 주말에 빨래를 한다.",
+          "나는 세탁기 자주 돌리지 않는다. 음악은 대중가요를 듣는다.",
+          "나의 생일은 8월이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00062-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00062-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "어제는 제가 바빴네요! 오늘도 혼자 있으신가요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:32:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "네 오늘은 집에서 TV를 보는데 골프방송이 재밌어서 보고 있어요.",
+          "summary": "나는 골프 방송을 보고 있다.",
+          "date": "2022-11-21",
+          "time": "16:32:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "골프를 좋아하시나봐요? 혹시 골프도 치시나요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:33:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "골프는 혼자 열심히해도 되니까 괜찮더라구요. 가끔 연습하러 나가요.",
+          "summary": "나는 가끔 골프 연습을 한다.",
+          "date": "2022-11-21",
+          "time": "16:33:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "연습장으로 가시는거에요? 아니면 스크린 골프 같은걸 하시나요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:33:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "연습장인데, 초록색 그물망 쳐져있는 그런곳이에요. 자주 보셨죠?",
+          "summary": "나는 골프 연습장에 간다.",
+          "date": "2022-11-21",
+          "time": "16:34:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "네! 자주 봤어요! 혹시 비거리? 이런 신기록이 있으세요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:34:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "제가 여자라 그런지 많이 안나가고 제일 많이 나간게, 170m 정도인것 같은데, 골프치나요?",
+          "summary": "나는 비거리가 170m이다.",
+          "date": "2022-11-21",
+          "time": "16:35:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "아니요! 그냥 비거리라는 단어만 알아요 ㅎㅎ 근데 170m면 엄청 잘하시는거 아니에요?",
+          "summary": "나는 골프를 잘 모른다.",
+          "date": "2022-11-21",
+          "time": "16:35:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "딱 한번 그렇게 나왔어요ㅎㅎ 사실 평소에는 150m정도인 것 같아요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:35:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "그렇군요! 저는 3대 운동 신기록은 있네요!",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:36:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "그건 요즘에 유투브에서 많이 보는데 3대 몇이냐고 많이 물어보더라구요. 몇이에요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:36:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "저는 3대 300이 신기록이에요! 저 그럼 운동 좀 다녀올게요!",
+          "summary": "나는 3대 300이다.",
+          "date": "2022-11-21",
+          "time": "16:37:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "우와 대단하네요. 저도 TV를 마저 봐야겠어요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:37:28",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 골프를 잘 모른다.",
+          "나는 3대 300이다."
+        ],
+        "speaker2": [
+          "나는 골프 방송을 보고 있다.",
+          "나는 가끔 골프 연습을 한다.",
+          "나는 골프 연습장에 간다.",
+          "나는 비거리가 170m이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 테니스를 싫어한다.",
+          "나는 혈액형이 O형이다.",
+          "나는 재즈 음악을 싫어한다.",
+          "나의 생일은 12월이다."
+        ],
+        "speaker2": [
+          "나는 40대 여자이다.",
+          "나는 의외로 혼자 있는 것을 좋아한다.",
+          "나는 혈액형이 A형이다. 나는 주말에 빨래를 한다.",
+          "나는 세탁기 자주 돌리지 않는다. 음악은 대중가요를 듣는다.",
+          "나의 생일은 8월이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00062-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00062-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "2일이 지났네요! 골프 연습은 잘하셨나요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:37:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "안그래도 엊그제 골프TV보고 연습장에 다녀왔답니다.",
+          "summary": "나는 어제 골프 연습장에 다녀왔다.",
+          "date": "2022-11-21",
+          "time": "16:37:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "대단하세요! 혹시 가족관계가 어떻게 되세요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:38:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "저는 부모님이랑 남동생이 있는데, 혼자를 좋아해서 따로 살고 있어요. 선생님은요?",
+          "summary": "나는 혼자 살고 있다.",
+          "date": "2022-11-21",
+          "time": "16:38:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "저는 여동생이 있어요! 저는 아직 부모님이랑 같이 살아요!",
+          "summary": "나는 여동생이 있다. 나는 부모님과 같이 산다.",
+          "date": "2022-11-21",
+          "time": "16:39:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "그렇군요. 그러면 동생이랑 사이가 좋나요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:39:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "예전에는 좋았는데 요즘 여동생이 정신을 못차리고 살아서 사이가 안좋아요!",
+          "summary": "나는 여동생과 사이가 안 좋다.",
+          "date": "2022-11-21",
+          "time": "16:40:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "저런....혹시 동생도 대학생이에요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:40:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "여동생을 고등학생인데 얘가 사춘기가 심하게 온 것 같아요...",
+          "summary": "나의 여동생은 고등학생이다.",
+          "date": "2022-11-21",
+          "time": "16:40:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "그전에는 착했는데, 최근에 뭔가 많이 변했어요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:40:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "얼마전에 담배가 교복에서 나왔어요... 하하하.",
+          "summary": "나의 여동생은 담배를 피운다.",
+          "date": "2022-11-21",
+          "time": "16:40:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "헐... 그건 좀 문제가 되겠네요. 부모님도 아세요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:41:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "아니요! 저만 알아요! 저 잠시 일 좀 보고 올게요!",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:41:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "알겠어요. 잘 다녀오시고 다음에 연락주시죠.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:41:54",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 여동생이 있다. 나는 부모님과 같이 산다.",
+          "나는 여동생과 사이가 안 좋다.",
+          "나의 여동생은 고등학생이다.",
+          "나의 여동생은 담배를 피운다."
+        ],
+        "speaker2": [
+          "나는 어제 골프 연습장에 다녀왔다.",
+          "나는 혼자 살고 있다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 테니스를 싫어한다.",
+          "나는 혈액형이 O형이다.",
+          "나는 재즈 음악을 싫어한다.",
+          "나의 생일은 12월이다.",
+          "나는 골프를 잘 모른다.",
+          "나는 3대 300이다."
+        ],
+        "speaker2": [
+          "나는 40대 여자이다.",
+          "나는 의외로 혼자 있는 것을 좋아한다.",
+          "나는 혈액형이 A형이다. 나는 주말에 빨래를 한다.",
+          "나는 세탁기 자주 돌리지 않는다. 음악은 대중가요를 듣는다.",
+          "나의 생일은 8월이다.",
+          "나는 골프 방송을 보고 있다.",
+          "나는 가끔 골프 연습을 한다.",
+          "나는 골프 연습장에 간다.",
+          "나는 비거리가 170m이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00062-3",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00062-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "어제는 제가 너무 바빠서 오늘 연락드려요! 뭐하세요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:41:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "저는 오늘도 TV를 보고 있네요. 선생님은 뭐하시나요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:42:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "저는 운동을 하고 왔어요! 개운하네요!",
+          "summary": "나는 운동을 한다.",
+          "date": "2022-11-21",
+          "time": "16:44:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "오 저번에 300대 드신다더니, 보통 몇시간씩 운동하세요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:44:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "저는 2시간 정도 하는것 같아요 ㅎㅎ 운동은 안하세요?",
+          "summary": "나는 2시간 정도 운동을 한다.",
+          "date": "2022-11-21",
+          "time": "16:44:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "저는 연습장만 다녀와도 너무 힘들어요. 선생님도 보충제랑 드시면서 하나요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:44:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "아니요! 저는 그런거 안먹습니다. 그게 간에 안좋다고 하더라구요!",
+          "summary": "나는 보충제를 안 먹는다.",
+          "date": "2022-11-21",
+          "time": "16:45:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "운동을 몇년째 하신거에요? 몸이 엄청 좋으실 것 같아요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:45:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "저 이제 3달됐어요 ㅎㅎ 아직 헬린이 입니다.",
+          "summary": "나는 헬스 3개월을 했다.",
+          "date": "2022-11-21",
+          "time": "16:45:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "아.. 제가 잘 몰라서 300든다길래 오래하신줄 알았어요. 저는 3대 100도 안될걸요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:46:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "아니에요! 아마 더 하실 수 있을거에요! 저도 엄청 못하는 편이거든요!",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:46:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "저는 사실 생수통도 무거워서... 무거운거 들기 싫어요! 근육 생기는거도 싫어요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:46:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66287",
+          "participantID": "31740",
+          "utterance": "그럼 뭐 어쩔수 없죠. 저는 이제 샤워 하러 갈게요!",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:47:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93044",
+          "participantID": "30553",
+          "utterance": "네 오늘도 수고하셨어요. 그러면 다음에 뵙도록 할게요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "16:47:30",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 운동을 한다.",
+          "나는 2시간 정도 운동을 한다.",
+          "나는 보충제를 안 먹는다.",
+          "나는 헬스 3개월을 했다."
+        ],
+        "speaker2": []
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 테니스를 싫어한다.",
+          "나는 혈액형이 O형이다.",
+          "나는 재즈 음악을 싫어한다.",
+          "나의 생일은 12월이다.",
+          "나는 골프를 잘 모른다.",
+          "나는 3대 300이다.",
+          "나는 여동생이 있다. 나는 부모님과 같이 산다.",
+          "나는 여동생과 사이가 안 좋다.",
+          "나의 여동생은 고등학생이다.",
+          "나의 여동생은 담배를 피운다."
+        ],
+        "speaker2": [
+          "나는 40대 여자이다.",
+          "나는 의외로 혼자 있는 것을 좋아한다.",
+          "나는 혈액형이 A형이다. 나는 주말에 빨래를 한다.",
+          "나는 세탁기 자주 돌리지 않는다. 음악은 대중가요를 듣는다.",
+          "나의 생일은 8월이다.",
+          "나는 골프 방송을 보고 있다.",
+          "나는 가끔 골프 연습을 한다.",
+          "나는 골프 연습장에 간다.",
+          "나는 비거리가 170m이다.",
+          "나는 어제 골프 연습장에 다녀왔다.",
+          "나는 혼자 살고 있다."
+        ]
+      }
+    }
+  ]
+}

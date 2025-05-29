@@ -1,0 +1,805 @@
+{
+  "FileInfo": {
+    "filename": "K4-00079-CL41260-CP42077-15-01-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3118",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "전문직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "3479",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "전문직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00079"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "41260",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나의 거주지는 대구이다",
+        "나는 다림질하는 것을 좋아한다",
+        "나는 키위를 좋아한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "42077",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나는 정이 많다",
+        "나는 등산을 좋아한다",
+        "나는 공포 영화를 싫어한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "15-01",
+    "topicType": "시사/사회>타국가이슈(해외)",
+    "topicTitle": "사건 및 사고"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "4-00079-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "반갑습니다. 저는 대구에 사는 40대 여성입니다.",
+          "summary": "나는 대구에 산다. 나는 40대 여자이다.",
+          "date": "2022-10-15",
+          "time": "15:22:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "안녕하세요.등산을 좋아하는  40대 여성입니다.",
+          "summary": "나는 40대 여성이다.",
+          "date": "2022-10-15",
+          "time": "15:24:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "그러시군요. 저는 주부라 요리도 좋아하고 특히 다림질하는 것을 좋아해요.  직업은 무엇인지요? ",
+          "summary": "나는 주부이다. 나는 다림질하는 것을 좋아한다.",
+          "date": "2022-10-15",
+          "time": "15:26:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "다림질이 힘든데 좋아하신다니 깔끔한 성격이시군요. 베이비 시터 입니다. 그래서 그런지   정이 많습니다.",
+          "summary": " 나는 베이비 시터다.",
+          "date": "2022-10-15",
+          "time": "15:31:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "베이비 시터면 아이들 좋아하시겠네요.  아이들 돌보시면  힘들지 않으신지요?  ",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "15:54:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "힘들지만 보람도 있어요.   베피시터는 아이를 안기도 하고 해서 전 제가 좋아하는 등산을 하면서 힘을 길러요.",
+          "summary": "나는 등산을 좋아한다",
+          "date": "2022-10-15",
+          "time": "15:56:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "그러시군요. 정신적.신체적으로 체력도 되야 덜 힘드니까요.  전 키위를 좋아해서 오늘 키위 요거트를 만들어서 먹고 있어요.  좋아하는 음식은 무엇인지요?",
+          "summary": "나는 키위를 좋아한다.",
+          "date": "2022-10-15",
+          "time": "16:01:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "키위를 무척 좋아하시나봐요. 키워요거트까지 만들어 먹는거 보니. 젼 수박을 좋아해요.",
+          "summary": "나는 수박을 좋아한다.",
+          "date": "2022-10-15",
+          "time": "16:02:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "네.  수박도 좋지요~  특히 수박은  여름의 대표 과일로 여러가지 효능도 많고...  ",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "16:09:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "더운 여름에 선풍기 틀어놓고 수박 먹으며 영화보면  극락이 여기죠. 전 영화를 좋아하지만 공포 영화는 안봐요. 무서워서 싦어요.",
+          "summary": " 나는 공포 영화를 싫어한다\n",
+          "date": "2022-10-15",
+          "time": "16:13:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "좋죠~  저도 예전에 공포 영화를 보기도 했지만, 지금은 잔잔한 내용의 영화나  드라마를 좋아해요.",
+          "summary": "나는 영화나 드라마를 좋아한다.",
+          "date": "2022-10-15",
+          "time": "16:18:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "저도 그래요.로맨스 드라마를  우리가 가장 많이 보는 것같아요. ",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "16:19:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "로맨스 좋아하시나봐요?  저는 사람사는 이야기나 감동을 주는 내용을 좋아해요.",
+          "summary": "나는 감동을 주는 내용을 좋아한다.",
+          "date": "2022-10-15",
+          "time": "17:40:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "굉장히 마음이 따뜻한 분이시군요. 제가 잠시  자리를 비워도 괜찮을까요?  ",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "18:13:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "그럼요~  다음에 다시 즐거운 대화 기대할께요.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "19:14:45",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 대구에 산다. 나는 40대 여자이다.",
+          "나는 주부이다. 나는 다림질하는 것을 좋아한다.",
+          "나는 키위를 좋아한다.",
+          "나는 영화나 드라마를 좋아한다.",
+          "나는 감동을 주는 내용을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 40대 여성이다.",
+          "나는 베이비 시터다.",
+          "나는 등산을 좋아한다",
+          "나는 수박을 좋아한다.",
+          "나는 공포 영화를 싫어한다\n"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00079-1",
+      "prevTimeInfo": {
+        "timeNum": "7",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "4-00079-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "어느새 7일만의 대화입니다.  해외 이슈중 자식 등골 빼는 부모 잔혹사…브리트니 스피어스의 과거라는 기사에 대해  이야기 나눌까하는데 괜찮으신지요?",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "20:57:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "엄청 기대되는데요? 무섭기는 하지만.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "20:59:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "기사에 의하면  아버지로부터 수년간 경제적 갈취는 물론, 정신적 학대를 당했던 브리트니 스피어스 사건으로  자식을 그저 돈벌이 수단으로 생각했다는 점이 안타깝죠.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "21:03:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "음.. 부모로서의 역할이 뮌지 잘 모르는 아버지인거 같아요.부모는 내 자식을 보호해 줘야 하는데.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "21:04:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "자식을 키우는 입장에서 안타깝죠.  결국 2021년 9월 미국 로스앤젤레스고등법원은 아버지 제이미의 후견인 지휘를 박탈했고,  법정 다툼 끝에 13년 만에 아버지의 손아귀에서 벗어나 자유를 되찾았다고 하니 다행이지요.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "21:10:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "아버지의 손아귀에서 벗어났다지만 정신적 후유증으로  얼마나 힘들까요?",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "21:12:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "그러게요.  이런 사건을 접하면서 부모의 역활이 참 중요하다는 걸 다시 생각하게 되네요.",
+          "summary": "나는 부모의 역할이 중요하다고 생각한다.",
+          "date": "2022-10-15",
+          "time": "21:13:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "정말 가정에서 부모가 어떻게 아이들 가정교육을 시키느냐가 그 아이가 사회에 나가서 당당하게 사느냐와 직결되는건데..",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "21:29:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "맞습니다.  인성이 좋은 부모는 자식 또한 자연스럽게 영향을 받기때문에  중요하죠.",
+          "summary": "나는 부모로부터 , 인성을 자식이 영향을 받는다고 생각한다.",
+          "date": "2022-10-15",
+          "time": "21:32:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "우리나라에선 예의범절이라는걸 예전엔 철저히 교육을 한것 같은데 요즘은 좀 안타까워요.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "21:40:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "요즘은 아이도 안낳는 추세고 외동도 많아서 일부 부모들이 너무 감싸는 경향도 있어서 버릇없는 아이들도 많은 것같아요.  시터일 하시면서 그런 부분으로 힘드신 적은 없으신지요?",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "21:44:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "돌봐주지 못한다는 죄책감으로 무조건 오냐오냐 키워서 그런지 좀 그런 경향들이  있긴해요. 다는 아니지만.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "21:54:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "참 안 좋은 육아 방식인데,  그런 아이들 돌보시다보면 힘드시겠어요.  그런 아이들이 나중에 어떻게 될지를 생각한다면 그런 부모님들도 좀 바뀌어야 한다고 생각해요.   ",
+          "summary": "나는 부모들이 아이들을 대하는 방식이 바뀌어야 한다고 생각한다.",
+          "date": "2022-10-15",
+          "time": "22:05:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "제가 베이비시터일을 하다보니 아이들에게 조금이나마 도움이 되도록 해야겠죠. 저 잠시 자리 비울께요.죄송해요. 잠시 후에 봬요.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "22:07:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "네.  다음 기회에 더 좋은 대화 나누어요.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "22:10:19",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 부모의 역할이 중요하다고 생각한다.",
+          "나는 부모로부터 , 인성을 자식이 영향을 받는다고 생각한다.",
+          "나는 부모들이 아이들을 대하는 방식이 바뀌어야 한다고 생각한다."
+        ],
+        "speaker2": []
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 대구에 산다. 나는 40대 여자이다.",
+          "나는 주부이다. 나는 다림질하는 것을 좋아한다.",
+          "나는 키위를 좋아한다.",
+          "나는 영화나 드라마를 좋아한다.",
+          "나는 감동을 주는 내용을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 40대 여성이다.",
+          "나는 베이비 시터다.",
+          "나는 등산을 좋아한다",
+          "나는 수박을 좋아한다.",
+          "나는 공포 영화를 싫어한다\n"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00079-2",
+      "prevTimeInfo": {
+        "timeNum": "9",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "4-00079-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "대화 나눈지 9시간이 지났네요. 해외 사건을 통해 부모의 역활이 중요하다고 생각하는것 대해 이야기 나누었었는데,  이어서 좋은 부모에 대해 더 이야기 나누고자 합니다.  ",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "22:27:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "9시간이나 지났다고요? 시간 짬 빠릅니다.좋은 부모얘기 저도 관심 많아요. ",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "22:29:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "혹시  스카이캐슬이라는 드라마 보신적 있으신지요?",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "22:33:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "물론이죠. 사회적 관심이 엄청났던  드라마죠.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "22:34:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "맞아요.  우리 나라의 입시 제도와 학벌등... 아이들 인생을 부모의 지나친 욕심 때문에  망치게 하는 내용으로 현실의 세태를 잘 반영한 드라마였죠. ",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "22:37:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "우리 나라의 학벌주의에 대해 어떻게  생각하시나요?",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "22:39:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "개인적으로 너무 심하다고 생각해요.  능력이 우선인데요.  전 아이들이 자유롭게 여유를 가지고 자신이 하고싶은 것을 하면서 능력을 키워나가는게 바람직하다고 생각해요.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "22:47:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "능력자들이 정당하게 자기의 위치를 찿아가는 날이 오길 기대해봅니다. 자기가 좋아하고 잘 하는 일을 하는게 젤 행복한거 같아요.님은 아이들이 그렇게 커 나갈 수 있게 해주시는거 같아요.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "22:53:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "그런편입니다.  아이들은 부모의 소유물이 아닌 하나의 인격체이니까요. 스스로의 선택을 존중해 주는편입니다.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "23:10:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "당연한걸 당연하게  생각하지 못하는게 안타까워요.그게 다 부모의 욕심일텐데.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "23:12:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "부모가  이루지 못한 꿈을   자식들에게 강요하는 건 아니라고 생각해요. 특히 원하지도 않는데 ",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "23:15:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "맞습니다. 아이들은 아이들의 삶이 따로 있는데 . ",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "23:31:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "저랑 같은 생각을 하시니 더 반갑네요. 나쁜 부모는 신고시 친권 박탈도 되니 다행이구요.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "23:55:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "부모를 신고하는 사태까진 만들지 말아야죠. 잠시 자리 떠야겠어요. 죄송합니다. 좋은 주제 가지고 좋은 말씀 감사합니다.",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "00:06:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "그래야죠.  좋은 시간 보내시고 다음에 뵙겠습니다.",
+          "summary": "",
+          "date": "2022-10-16",
+          "time": "11:17:46",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 대구에 산다. 나는 40대 여자이다.",
+          "나는 주부이다. 나는 다림질하는 것을 좋아한다.",
+          "나는 키위를 좋아한다.",
+          "나는 영화나 드라마를 좋아한다.",
+          "나는 감동을 주는 내용을 좋아한다.",
+          "나는 부모의 역할이 중요하다고 생각한다.",
+          "나는 부모로부터 , 인성을 자식이 영향을 받는다고 생각한다.",
+          "나는 부모들이 아이들을 대하는 방식이 바뀌어야 한다고 생각한다."
+        ],
+        "speaker2": [
+          "나는 40대 여성이다.",
+          "나는 베이비 시터다.",
+          "나는 등산을 좋아한다",
+          "나는 수박을 좋아한다.",
+          "나는 공포 영화를 싫어한다\n"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00079-3",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "4-00079-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "날씨가 추워졌어요. 시간이 흘러 벌써 2일만의 대화입니다.  잘 지내셨는지요?",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "07:44:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "안녕하세요. 2일만에 다시 뵙니다. 반가워요.  잘 지내셨어요?",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "22:18:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "네. 갑자기 추워진 날씨에 걱정스럽네요.  추운 날은 마음도 춥고  특히 경제적으로 어려운 분들은 난방등  걱정도 많을텐데요.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "22:33:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "어려운 분들한텐 따뜻할때 보단 추울때 더 힘들죠.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "22:35:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "맞아요.  예전 뉴스에 부모가 아이를 방치. 내복 차림으로 추운 날 밖에  나갔다가 누군가 신고를 하는둥  안좋은 소식도 있었죠.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "22:40:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "이런 소식을 접할때 도대체 그 부모는 무슨 생각으로 방치를 했을까 분노가 치밀어 오릅니다.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "22:41:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "무책임 한거죠.  아이 키우는 입장에서 참 이해가 안되죠.  그럴거면 왜 낳았는지?   부모로서  자격이 없는거죠.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "22:44:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "아이를 방치하고 뭘 하는  걸까요? 궁금하네요. 이해가 정도를 벗어나는 행동이죠.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "22:49:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "본인 인생 즐기거나 우울증 등 여러 이유가 있더라구요.  그래서 가까운 이웃등이 관심갖고  신고를 하면  분리해서 시설로 보내 보호 받는다고 하네요.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "22:52:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "참 슬픈 얘기네요.  부모가  될 준비가 안돼있으면서 아이를 낳았나봐요.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "23:02:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "이런 사건이 터질 때마다 부모로서 아이들한테 더 잘 해야겠다는 생각이 들어요.  ",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "23:04:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "너무나도 귀한 내 자식들이잖아요.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "23:10:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "그럼요~   님은 마음이 따뜻해 보여서 본인 아이뿐만 아니라  돌보는 아이들이 행복할 것같다는 생각이 드네요.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "23:13:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "42077",
+          "participantID": "3479",
+          "utterance": "님도 마음이 따뜻한 분 같아요. 저  잠시 자리 비울께요. 대화 유익했어요. 감사합니다.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "23:18:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41260",
+          "participantID": "3118",
+          "utterance": "해외 이슈를 통해 부모.자식의 관계 및 이런저런 대화 즐거웠습니다. 늘 건강하세요.",
+          "summary": "",
+          "date": "2022-10-17",
+          "time": "23:25:40",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 대구에 산다. 나는 40대 여자이다.",
+          "나는 주부이다. 나는 다림질하는 것을 좋아한다.",
+          "나는 키위를 좋아한다.",
+          "나는 영화나 드라마를 좋아한다.",
+          "나는 감동을 주는 내용을 좋아한다.",
+          "나는 부모의 역할이 중요하다고 생각한다.",
+          "나는 부모로부터 , 인성을 자식이 영향을 받는다고 생각한다.",
+          "나는 부모들이 아이들을 대하는 방식이 바뀌어야 한다고 생각한다."
+        ],
+        "speaker2": [
+          "나는 40대 여성이다.",
+          "나는 베이비 시터다.",
+          "나는 등산을 좋아한다",
+          "나는 수박을 좋아한다.",
+          "나는 공포 영화를 싫어한다\n"
+        ]
+      }
+    }
+  ]
+}

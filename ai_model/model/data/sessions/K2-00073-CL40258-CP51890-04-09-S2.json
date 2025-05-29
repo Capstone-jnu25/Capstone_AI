@@ -1,0 +1,421 @@
+{
+  "FileInfo": {
+    "filename": "K2-00073-CL40258-CP51890-04-09-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "50202",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "자영업",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "50419",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00073"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "40258",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 교육 관련직에 종사한다",
+        "나는 맛집 여행을 자주 간다",
+        "나는 한식을 안 먹는다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "51890",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 미술품 감정사이다",
+        "나의 여자 형제는 간호사이다",
+        "나는 샤인머스캣을 싫어한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "04-09",
+    "topicType": "일과 직업>회사/아르바이트",
+    "topicTitle": "회의"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00073-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "40258",
+          "participantID": "50202",
+          "utterance": "안녕하세요 저는 40대 남성입니다",
+          "summary": "나는 40대 남성이다",
+          "date": "2022-11-04",
+          "time": "14:48:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51890",
+          "participantID": "50419",
+          "utterance": "안녕하세요 저는 50대 여성입니다",
+          "summary": "나는 50대 여성이다",
+          "date": "2022-11-04",
+          "time": "14:59:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40258",
+          "participantID": "50202",
+          "utterance": "반갑습니다 점심 식사는 드셨나요? 저는 한식을 잘 먹지 않아 오늘은 햄버거를 먹었어요",
+          "summary": "나는 한식을 안 먹는다",
+          "date": "2022-11-04",
+          "time": "15:38:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51890",
+          "participantID": "50419",
+          "utterance": "그러셨군요.. 저는 오늘 직원들이랑 한식을 먹었어요..미술품을 감정하는 직업을 가지고 있어요",
+          "summary": "나는 오늘 직원들과 한식을 먹었다. 나는 미술품 감정사이다",
+          "date": "2022-11-04",
+          "time": "15:46:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40258",
+          "participantID": "50202",
+          "utterance": "저는 교육 관련직에 종사하고  있습니다.",
+          "summary": "나는 교육 관련직에 종사하고 있다.",
+          "date": "2022-11-04",
+          "time": "16:31:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51890",
+          "participantID": "50419",
+          "utterance": "아 그러시군요.. 반갑습니다^^ ",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "16:32:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40258",
+          "participantID": "50202",
+          "utterance": "반갑습니다 맛집 좋아 하시나요? 저는 맛집 여행을 자주 다녀요",
+          "summary": "나는 맛집 여행을 자주 다닌다",
+          "date": "2022-11-04",
+          "time": "16:41:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51890",
+          "participantID": "50419",
+          "utterance": "그러시군요 저는 등산하는걸 좋아해요~  오늘 여동생이랑 등산가기로 했는데 여동생이 급하게 출근하는 바람에 못갔네요 여동생이 간호사거든요.. 호출을 많이 받네요",
+          "summary": "나는 등산을 좋아한다 나는 여동생과 등산 가기로 했는데 여동생이 급하게 출근해 못 갔다 나의 여자 형제는 간호사이다",
+          "date": "2022-11-04",
+          "time": "16:43:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40258",
+          "participantID": "50202",
+          "utterance": "간호사 너무 힘든 직업이죠 많이 챙겨 주시겠네요",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "17:07:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51890",
+          "participantID": "50419",
+          "utterance": "챙겨주려고 하고 있어요.. 선물로 샤인머스켓이 들어왔는데 전 싫어해서 여동생 주려구요",
+          "summary": "나는 샤인 머스켓을 싫어한다",
+          "date": "2022-11-04",
+          "time": "17:08:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40258",
+          "participantID": "50202",
+          "utterance": "맛있는 과일이네요 달달 한게 동생분이 좋아 하실 것 같아요",
+          "summary": "나는 샤인 머스켓이 맛있는 과일이라 동생이 좋아할 것 같다",
+          "date": "2022-11-04",
+          "time": "17:11:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51890",
+          "participantID": "50419",
+          "utterance": "다들 맛있다고 하는데 전 너무 단맛이 나서 싫더라구요..",
+          "summary": "나는 다들 맛있다 하는데 단맛이 나서 싫다",
+          "date": "2022-11-04",
+          "time": "17:12:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40258",
+          "participantID": "50202",
+          "utterance": "저도 차라리 포도를 더 좋아 한답니다",
+          "summary": "나는 포도를 샤인 머스캣보다 더 좋아한다",
+          "date": "2022-11-04",
+          "time": "17:15:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51890",
+          "participantID": "50419",
+          "utterance": "그러시군요~ 오늘 저녁 맛있게 드시고 감기조심하세요^^",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "17:16:55",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 남성이다",
+          "나는 한식을 안 먹는다",
+          "나는 교육 관련직에 종사하고 있다.",
+          "나는 맛집 여행을 자주 다닌다",
+          "나는 샤인 머스켓이 맛있는 과일이라 동생이 좋아할 것 같다",
+          "나는 포도를 샤인 머스캣보다 더 좋아한다"
+        ],
+        "speaker2": [
+          "나는 50대 여성이다",
+          "나는 오늘 직원들과 한식을 먹었다. 나는 미술품 감정사이다",
+          "나는 등산을 좋아한다",
+          "나는 여동생과 등산 가기로 했는데 여동생이 급하게 출근해 못 갔다",
+          "나의 여자 형제는 간호사이다",
+          "나는 샤인 머스켓을 싫어한다",
+          "나는 다들 맛있다 하는데 단맛이 나서 싫다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00073-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00073-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "40258",
+          "participantID": "50202",
+          "utterance": "하루 만에 다시 뵙네요 어제 마무리는 잘 하셨나요?",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "17:30:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51890",
+          "participantID": "50419",
+          "utterance": "네 요즘 전 다른일을 해볼까 생각중에 있어요",
+          "summary": "나는 요즘 다른 일을 해볼까 생각 중이다",
+          "date": "2022-11-04",
+          "time": "17:31:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40258",
+          "participantID": "50202",
+          "utterance": "어떤 일을 해볼지 생각 중이세요? 저는 오늘 아르바이트 면접을 보고왔어요",
+          "summary": "나는 오늘 아르바이트 면접을 보고 왔다",
+          "date": "2022-11-04",
+          "time": "17:32:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51890",
+          "participantID": "50419",
+          "utterance": "어떤 아르바이트인지 물어봐도 될까요? 전 머리쓰는일은 그만하고 싶어요",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "17:33:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40258",
+          "participantID": "50202",
+          "utterance": "편의점에 가서 면접을 보고 왔어요",
+          "summary": "나는 편의점에 가서 면접을 보고 왔다",
+          "date": "2022-11-04",
+          "time": "19:51:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51890",
+          "participantID": "50419",
+          "utterance": "아 그러셨어요.. 어떻게 되셨어요?",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "20:05:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40258",
+          "participantID": "50202",
+          "utterance": "아직 결과는 나오지 않았네요 집 가까운 곳이라 일 할수 있으면 좋겠네요",
+          "summary": "",
+          "date": "2022-11-05",
+          "time": "00:45:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51890",
+          "participantID": "50419",
+          "utterance": "좋은 결과가 있으셨으면 좋겠네요..",
+          "summary": "",
+          "date": "2022-11-05",
+          "time": "00:46:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40258",
+          "participantID": "50202",
+          "utterance": "네 그랬으면 좋겠어요 어떤 일을 하시나요",
+          "summary": "",
+          "date": "2022-11-05",
+          "time": "00:47:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51890",
+          "participantID": "50419",
+          "utterance": "저는 미술품을 감정하는 감정사일을 하고 있어요",
+          "summary": "나는 미술품 감정하는 감정사 일을 하고 있다",
+          "date": "2022-11-05",
+          "time": "00:48:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40258",
+          "participantID": "50202",
+          "utterance": "보통 일하시는 분들과 회의를 자주 하시겠네요",
+          "summary": "",
+          "date": "2022-11-05",
+          "time": "00:49:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51890",
+          "participantID": "50419",
+          "utterance": "네 그렇답니다.. 개인적으로 하는 일도 많구요.. 그런데 요즘은 다른일을 해보고 싶어요",
+          "summary": "",
+          "date": "2022-11-05",
+          "time": "00:50:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "40258",
+          "participantID": "50202",
+          "utterance": "다른 일 생각해 보신 건 있으신가요?",
+          "summary": "",
+          "date": "2022-11-05",
+          "time": "00:50:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "51890",
+          "participantID": "50419",
+          "utterance": "제가 하는일이 머리를 쓰는 일이다 보니 머리쓰지 않는 단순일을 하고 싶어요. 일이 생겨 이만 가볼게요. ",
+          "summary": "",
+          "date": "2022-11-05",
+          "time": "00:51:15",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 오늘 아르바이트 면접을 보고 왔다",
+          "나는 편의점에 가서 면접을 보고 왔다"
+        ],
+        "speaker2": [
+          "나는 요즘 다른 일을 해볼까 생각 중이다",
+          "나는 미술품 감정하는 감정사 일을 하고 있다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남성이다",
+          "나는 한식을 안 먹는다",
+          "나는 교육 관련직에 종사하고 있다.",
+          "나는 맛집 여행을 자주 다닌다",
+          "나는 샤인 머스켓이 맛있는 과일이라 동생이 좋아할 것 같다",
+          "나는 포도를 샤인 머스캣보다 더 좋아한다"
+        ],
+        "speaker2": [
+          "나는 50대 여성이다",
+          "나는 오늘 직원들과 한식을 먹었다. 나는 미술품 감정사이다",
+          "나는 등산을 좋아한다",
+          "나는 여동생과 등산 가기로 했는데 여동생이 급하게 출근해 못 갔다",
+          "나의 여자 형제는 간호사이다",
+          "나는 샤인 머스켓을 싫어한다",
+          "나는 다들 맛있다 하는데 단맛이 나서 싫다"
+        ]
+      }
+    }
+  ]
+}

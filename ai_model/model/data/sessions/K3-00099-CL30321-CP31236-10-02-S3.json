@@ -1,0 +1,669 @@
+{
+  "FileInfo": {
+    "filename": "K3-00099-CL30321-CP31236-10-02-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "2146",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "2046",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00099"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "30321",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 중학교 국어 교사이다.",
+        "나는 뉴질랜드에 가 보고 싶다.",
+        "나는 보라색을 좋아한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "31236",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 수의사이다.",
+        "나는 매일 괴롭다.",
+        "나는 탕수육을 즐겨 먹는다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "10-02",
+    "topicType": "여가와 오락>스포츠/레져",
+    "topicTitle": "야외 활동"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00099-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "중학교 국어교사로 일하는 30대 남자입니다.",
+          "summary": "나는 중학교 교사다. 나는 30대 남자다.",
+          "date": "2022-10-15",
+          "time": "14:23:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "저는 수의사로 일하는 30대 남자입니다.",
+          "summary": "나는 수의사이다. 나는 30대 남자이다.",
+          "date": "2022-10-15",
+          "time": "14:23:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "반갑습니다~ 저는 이제 곧 방학이네요~",
+          "summary": "나는 곧 방학이다.",
+          "date": "2022-10-15",
+          "time": "14:23:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "그러시구나~ 한결 편해지시겠어요~",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:24:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "맞아요~ 저는 이번에 뉴질랜드를 가 보고 싶네요.",
+          "summary": "나는 뉴질랜드를 가 보고 싶다.",
+          "date": "2022-10-15",
+          "time": "14:24:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "해외로 가실 생각이시구나~ 뉴질랜드 소고기가 유명하잖아요~",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:24:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "맞아요~ 가서 원 없이 먹고 오려고요~ 어디 놀러 안가요?",
+          "summary": "나는 소고기를 먹을 거다.",
+          "date": "2022-10-15",
+          "time": "14:24:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "저는 바빠서요.. 너무 바빠서 매일 괴롭네요..",
+          "summary": "나는 바빠다. 나는 매일 괴롭다.",
+          "date": "2022-10-15",
+          "time": "14:25:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "바쁘시군요. 수의사시면 반려동물은 있나요?",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:25:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "강아지 한 마리를 키우고 있어요~",
+          "summary": "나는 강아지 한 마리를 키우고 있다.",
+          "date": "2022-10-15",
+          "time": "14:25:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "그렇군요~ 그 강아지는 축복 받았네요~",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:25:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "강아지도 그렇게 생각한다면 기쁘겠네요~",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:25:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "저는 반려동물은 못 키우겠어요~ 자신이 없어요.",
+          "summary": "나는 반려동물 키울 자신이 없다.",
+          "date": "2022-10-15",
+          "time": "14:25:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "키울 자신이 없으면 안 키우는 게 맞죠~",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:25:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "저는 이만 수업준비 할게요~ 다음에 봐요.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:26:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "네. 열심히 하세요! 저는 이제 밥 먹으러 가네요~ 즐겨 먹는 탕수육 먹으려고요~ㅎㅎ 다음에 이야기해요~",
+          "summary": "나는 탕수육을 즐겨 먹는다. 나는 탕수육을 먹을 것이다.",
+          "date": "2022-10-15",
+          "time": "14:26:24",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 중학교 교사다. 나는 30대 남자다.",
+          "나는 곧 방학이다.",
+          "나는 뉴질랜드를 가 보고 싶다.",
+          "나는 소고기를 먹을 거다.",
+          "나는 반려동물 키울 자신이 없다."
+        ],
+        "speaker2": [
+          "나는 수의사이다. 나는 30대 남자이다.",
+          "나는 바빠다. 나는 매일 괴롭다.",
+          "나는 강아지 한 마리를 키우고 있다.",
+          "나는 탕수육을 즐겨 먹는다. 나는 탕수육을 먹을 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00099-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00099-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "3일이 지났네요~ 저번에 탕수육은 맛있게 드셨나요?",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:26:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "네. 직장 근처 중국집이 탕수육을 정말 잘해요~",
+          "summary": "나의 직장 근처 중국집의 탕수육이 맛있다.",
+          "date": "2022-10-15",
+          "time": "14:26:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "그렇군요~ㅎㅎ 저는 보통 급식이나 먹네요~",
+          "summary": "나는 보통 급식을 먹는다.",
+          "date": "2022-10-15",
+          "time": "14:26:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "요즘 급식도 잘 나오잖아요~",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:27:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "맞아요~ 저희때랑은 퀄리티가 다르긴 하죠~",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:27:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "맞습니다~ 요즘은 정말 호화롭던데~",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:27:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "가끔 특식으로 포도 푸딩이 나오는데 정말 좋아요~ 제가 보라색도 좋아하는데~ㅎㅎ.",
+          "summary": "나는 포도 푸딩이 좋다. 나는 보라색이 좋다.",
+          "date": "2022-10-15",
+          "time": "14:27:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "그러시구나~ㅎㅎ 특식하니까 제가 학교 다닐 때는 수요일이 특식이었네요~",
+          "summary": "나는 학생 때 수요일이 특식이었다.",
+          "date": "2022-10-15",
+          "time": "14:28:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "그렇군요~ 여기는 목요일이네요~ 야외활도은 좋아하세요?",
+          "summary": "나는 목요일이 특식이다.",
+          "date": "2022-10-15",
+          "time": "14:28:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "야외 활동 좋아하는데 요즘은 바빠서 못하네요~",
+          "summary": "나는 야외 활동을 좋아하지만 요즘 바빠서 못한다.",
+          "date": "2022-10-15",
+          "time": "14:28:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "많이 바쁘시군요~ 저는 테니스를 쳐요.",
+          "summary": "나는 테니스를 친다.",
+          "date": "2022-10-15",
+          "time": "14:28:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "테니스~ 중학교 때 방과후 활동으로 해봤었는데~ㅎㅎ.",
+          "summary": "나는 중학교 때 방과 후 활동으로 테니스를 했었다.",
+          "date": "2022-10-15",
+          "time": "14:28:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "학교 선생님들이랑 자주 치네요~ 저는 테니스 치러 가볼게요~",
+          "summary": "나는 테니스 치러 간다.",
+          "date": "2022-10-15",
+          "time": "14:29:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "좋은 취미 활동이네요~ 네! 열심히 하세요~",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:29:15",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 보통 급식을 먹는다.",
+          "나는 포도 푸딩이 좋다. 나는 보라색이 좋다.",
+          "나는 목요일이 특식이다.",
+          "나는 테니스를 친다.",
+          "나는 테니스 치러 간다."
+        ],
+        "speaker2": [
+          "나의 직장 근처 중국집의 탕수육이 맛있다.",
+          "나는 학생 때 수요일이 특식이었다.",
+          "나는 야외 활동을 좋아하지만 요즘 바빠서 못한다.",
+          "나는 중학교 때 방과 후 활동으로 테니스를 했었다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 중학교 교사다. 나는 30대 남자다.",
+          "나는 곧 방학이다.",
+          "나는 뉴질랜드를 가 보고 싶다.",
+          "나는 소고기를 먹을 거다.",
+          "나는 반려동물 키울 자신이 없다."
+        ],
+        "speaker2": [
+          "나는 수의사이다. 나는 30대 남자이다.",
+          "나는 바빠다. 나는 매일 괴롭다.",
+          "나는 강아지 한 마리를 키우고 있다.",
+          "나는 탕수육을 즐겨 먹는다. 나는 탕수육을 먹을 것이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00099-2",
+      "prevTimeInfo": {
+        "timeNum": "8",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "3-00099-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "8일이 지났어요. 테니스 치다가 조금 다쳤네요...",
+          "summary": "나는 다쳤다.",
+          "date": "2022-10-15",
+          "time": "14:29:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "아이고.. 조심히 하시지.. 어디를 다치셨나요?",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:29:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "팔꿈치 관절이 좀 안 좋아요. 실수를 했거든요.",
+          "summary": "나는 팔꿈치 관절이 아프다.",
+          "date": "2022-10-15",
+          "time": "14:29:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "아.. 그러면 빨리 병원에 가봐야죠! 병원은 가보셨어요?",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:30:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "네~ 병원에 가니까 큰일은 아니고 쉬면 된다고 하네요.",
+          "summary": "나는 병원에 다녀왔다.",
+          "date": "2022-10-15",
+          "time": "14:30:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "그렇다면 다행이네요~ 수업에도 지장이 없으신가요?",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:30:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "네~ 그 정도는 아니네요~ 이제 곧 방학이라서~",
+          "summary": "나는 많이 안 다쳤다.",
+          "date": "2022-10-15",
+          "time": "14:30:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "그거는 천만다행이네요~ 방학 때 푹 쉬세요~",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:30:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "쉬는것도 쉬는건데 뉴질랜드 가야죠~ㅎㅎ.",
+          "summary": "나는 뉴질랜드 갈 거다.",
+          "date": "2022-10-15",
+          "time": "14:31:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "아~ 뉴질랜드에 가보고 싶다고 하셨죠~ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:31:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "이미 비행기를 예매 했네요~",
+          "summary": "나는 비행기를 예매했다.",
+          "date": "2022-10-15",
+          "time": "14:31:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "그러시구나~ 근데 누구랑 가나요? 혼자 가시나요?",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:31:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "여친이랑 같이 가려고요. 혼자가면 심심하죠.",
+          "summary": "나는 여자 친구랑 여행 간다.",
+          "date": "2022-10-15",
+          "time": "14:31:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "확실히 그렇죠~ 연인이랑 해외 여행이라니~ 좋네요~",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:31:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "차근차근 준비를 미리 하려고요.",
+          "summary": "나는 준비를 미리 할 거다.",
+          "date": "2022-10-15",
+          "time": "14:31:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "맞아요~ 미리 준비하는 것이 제일 좋아요!",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:32:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30321",
+          "participantID": "2146",
+          "utterance": "그럼 이만 여행준비 하러 갈께요. 다음에 봐요.",
+          "summary": "나는 여행 준비하러 간다.",
+          "date": "2022-10-15",
+          "time": "14:32:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31236",
+          "participantID": "2046",
+          "utterance": "네. 알겠습니다~ 다음에 연락 주세요~",
+          "summary": "",
+          "date": "2022-10-15",
+          "time": "14:32:16",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 다쳤다.",
+          "나는 팔꿈치 관절이 아프다.",
+          "나는 병원에 다녀왔다.",
+          "나는 많이 안 다쳤다.",
+          "나는 뉴질랜드 갈 거다.",
+          "나는 비행기를 예매했다.",
+          "나는 여자 친구랑 여행 간다.",
+          "나는 준비를 미리 할 거다.",
+          "나는 여행 준비하러 간다."
+        ],
+        "speaker2": []
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 중학교 교사다. 나는 30대 남자다.",
+          "나는 곧 방학이다.",
+          "나는 뉴질랜드를 가 보고 싶다.",
+          "나는 소고기를 먹을 거다.",
+          "나는 반려동물 키울 자신이 없다.",
+          "나는 보통 급식을 먹는다.",
+          "나는 포도 푸딩이 좋다. 나는 보라색이 좋다.",
+          "나는 목요일이 특식이다.",
+          "나는 테니스를 친다.",
+          "나는 테니스 치러 간다."
+        ],
+        "speaker2": [
+          "나는 수의사이다. 나는 30대 남자이다.",
+          "나는 바빠다. 나는 매일 괴롭다.",
+          "나는 강아지 한 마리를 키우고 있다.",
+          "나는 탕수육을 즐겨 먹는다. 나는 탕수육을 먹을 것이다.",
+          "나의 직장 근처 중국집의 탕수육이 맛있다.",
+          "나는 학생 때 수요일이 특식이었다.",
+          "나는 야외 활동을 좋아하지만 요즘 바빠서 못한다.",
+          "나는 중학교 때 방과 후 활동으로 테니스를 했었다."
+        ]
+      }
+    }
+  ]
+}

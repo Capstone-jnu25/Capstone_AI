@@ -1,0 +1,819 @@
+{
+  "FileInfo": {
+    "filename": "K4-00085-CL61332-CP41034-09-06-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4422",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "50104",
+      "gender": "남성",
+      "age": "40대",
+      "occupation": "사무직",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00085"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "61332",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 60대 이상이다.",
+        "나는 중학교를 졸업했다",
+        "나는 CCM 음악을 좋아한다",
+        "나는 봄을 싫어한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "41034",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 일주일에 한두 번 걸어서 출퇴근한다",
+        "나는 주말에 쇼핑몰에 간다",
+        "나는 TV 교육 프로그램을 좋아한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "09-06",
+    "topicType": "개인 및 관계>반려동물",
+    "topicTitle": "반려동물 산책"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00085-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "안녕하세요.저는 60대 여성입니다",
+          "summary": "나는 60대 여자다.",
+          "date": "2022-11-11",
+          "time": "15:51:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "안녕하세요. 저는 40대 남성입니다.",
+          "summary": "나는 40대 남성이다.",
+          "date": "2022-11-11",
+          "time": "16:20:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "가을은 남자의 계절이라고 하는데 어떤계절을 좋아하세요?",
+          "summary": "나는 가을은 남자의 계절로 알고 있다.",
+          "date": "2022-11-11",
+          "time": "16:56:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "ㅎㅎ 저는 봄을 좋아해요. 따뜻한 봄날에 걷기 좋아서요. 저는 걷는걸 좋아해서 일주일에 한두번 걸어서 출퇴근해요",
+          "summary": "나는 봄을 좋아하고 일주일에 두 번 걸어서 출퇴근한다.",
+          "date": "2022-11-11",
+          "time": "23:04:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "예전엔 좋아했는데  봄날에 생긴 트라우마로 지금은 봄을 젤 싫어해요.",
+          "summary": "나는 봄을 싫어한다.",
+          "date": "2022-11-11",
+          "time": "23:16:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "그렇군요. 트라우마 극복하시길 바래요. 주말에 보통 뭐하세요? 저는 주로 쇼핑몰에 가요",
+          "summary": "나는 주말에 쇼핑몰에 간다.",
+          "date": "2022-11-12",
+          "time": "00:39:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "주말엔 ccm음악을 좋아해서 하루 종일 들으면서 쉬어요.",
+          "summary": "나는 CCM 음악을 즐겨 듣는다.",
+          "date": "2022-11-12",
+          "time": "09:19:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "좋네요 편안한 휴식이 되겠어요. 저는 TV 교육 프로그램을 좋아해서 자주봐요",
+          "summary": "나는 TV 교육프로그램을 좋아해 자주 본다.",
+          "date": "2022-11-12",
+          "time": "23:27:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "그렇군요.제가  중학교를 졸업하고 검정고시로 대학을 갔어요. 그래서 저두 교육프로그램에 관심이 많아요.",
+          "summary": "나는 검정고시로 대학을 갔다.",
+          "date": "2022-11-13",
+          "time": "00:03:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "그렇군요. 요즘은 특별한 취미가 있으신가요?",
+          "summary": "",
+          "date": "2022-11-13",
+          "time": "01:02:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "예전에는 운동을 싫어했는데  지금은 건강 생각해서  여러가지 운동을 하고 있어요. ",
+          "summary": "나는 여러 가지 운동을 한다.",
+          "date": "2022-11-13",
+          "time": "01:50:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "운동 좋죠. 저도 요즘 조금씩 하고 있어요",
+          "summary": "나는 운동을 조금씩 하고 있다.",
+          "date": "2022-11-13",
+          "time": "23:45:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "나이가 있으니 여기저기 많이 아파요.젊었을때 잘 관리  하시면 좋을거같아요.",
+          "summary": "나는 여기저기 많이 아프다.",
+          "date": "2022-11-14",
+          "time": "00:18:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "그쵸. 저도 요즘 무릎이 조금 아프네요. 원래 좀 안좋았었는데 나이가 먹어가면서 그냥 시큰거리더라구요.",
+          "summary": "나도 요즘 무릎이 시큰거리고 아프다.",
+          "date": "2022-11-14",
+          "time": "09:39:27",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 60대 여자다.",
+          "나는 가을은 남자의 계절로 알고 있다.",
+          "나는 봄을 싫어한다.",
+          "나는 CCM 음악을 즐겨 듣는다.",
+          "나는 검정고시로 대학을 갔다.",
+          "나는 여러 가지 운동을 한다.",
+          "나는 여기저기 많이 아프다."
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 봄을 좋아하고 일주일에 두 번 걸어서 출퇴근한다.",
+          "나는 주말에 쇼핑몰에 간다.",
+          "나는 TV 교육프로그램을 좋아해 자주 본다.",
+          "나는 운동을 조금씩 하고 있다.",
+          "나도 요즘 무릎이 시큰거리고 아프다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00085-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00085-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "하루만이네요.월욜이라 한창 바쁘셨겠네요.",
+          "summary": "",
+          "date": "2022-11-14",
+          "time": "12:14:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "네 ㅎㅎ 정신없이 바빴네요. 어제 아기가 새벽에 깨서 잠을 안자는 통에 2시간밖에 못잤더니 너무 졸리네요.",
+          "summary": "",
+          "date": "2022-11-14",
+          "time": "13:43:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "에고.정말 피곤 하시겠어요.아기 어릴때  서로 힘들어서 관계가 나빠지기도 하더라구요",
+          "summary": "",
+          "date": "2022-11-14",
+          "time": "14:12:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "네 그게 참 그런경우가 정말 많더라구요. 저희도 사소한 문제는 있는데 잘 풀어보려고 하고 있어요",
+          "summary": "",
+          "date": "2022-11-14",
+          "time": "15:36:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "살다보니까 남한테는 잘하면서 정작 식구들한텐 심한말도 잘하는거 같아요.",
+          "summary": "",
+          "date": "2022-11-14",
+          "time": "17:21:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "그게 그런 경우가 생각보다 많죠. 더 잘해야하는데 쉽지 않죠.",
+          "summary": "",
+          "date": "2022-11-14",
+          "time": "17:36:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "맞아요.뒤돌아보면 아이들에게 상처도 많이 주고 지금 생각하면 어른으로써 참 부끄러운거같아요. 부모가 되는것도 첨이라 참 시행착오가 많아요.부모 되기전  교육받는 학교가 있었으면 좋겠어요.",
+          "summary": "",
+          "date": "2022-11-14",
+          "time": "19:56:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "그렇죠. 전반적으로 어려운 것 같아요. 그나저나 반려동물 키우세요?",
+          "summary": "",
+          "date": "2022-11-14",
+          "time": "21:40:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "강아지 키우고 있어요.매일 산책하고 놀아줘야 하는데 맘처럼 잘 못하고 있어 미안하죠. ",
+          "summary": "나는 강아지를 키우고 있다.",
+          "date": "2022-11-14",
+          "time": "23:43:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "그렇군요. 강아지는 매일 산책을 해줘야 스트레스를 덜 받는다고 하더라구요. 저는 그게 자신없어서 못 키우겠어요. ",
+          "summary": "나는 강아지 키울 자신이 없다.",
+          "date": "2022-11-15",
+          "time": "09:41:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "네.깜깜한곳에서 혼자 있으니 강아지도 우울증 올거같아요.",
+          "summary": "나는 깜깜한 곳에서 혼자 있으면 강아지도 우울증이 올 것 같다.",
+          "date": "2022-11-15",
+          "time": "19:31:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "맞아요. 그래서 두마리 키우시는 분들도 많고 저녁에 잠깐이라도 꼭 산책하더라구요",
+          "summary": "",
+          "date": "2022-11-15",
+          "time": "22:06:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "네 .그래서 저두 고민하고 있긴해요.",
+          "summary": "나는 강아지 한 마리 더 키우는 걸 고민 중이다.",
+          "date": "2022-11-15",
+          "time": "22:37:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "어떤 부분을 고민하고 계신가요? 한 마리 더 입양하는 걸 고민하시는 건가요?",
+          "summary": "",
+          "date": "2022-11-16",
+          "time": "09:55:31",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 강아지를 키우고 있다.",
+          "나는 깜깜한 곳에서 혼자 있으면 강아지도 우울증이 올 것 같다.",
+          "나는 강아지 한 마리 더 키우는 걸 고민 중이다."
+        ],
+        "speaker2": [
+          "나는 강아지 키울 자신이 없다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 60대 여자다.",
+          "나는 가을은 남자의 계절로 알고 있다.",
+          "나는 봄을 싫어한다.",
+          "나는 CCM 음악을 즐겨 듣는다.",
+          "나는 검정고시로 대학을 갔다.",
+          "나는 여러 가지 운동을 한다.",
+          "나는 여기저기 많이 아프다."
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 봄을 좋아하고 일주일에 두 번 걸어서 출퇴근한다.",
+          "나는 주말에 쇼핑몰에 간다.",
+          "나는 TV 교육프로그램을 좋아해 자주 본다.",
+          "나는 운동을 조금씩 하고 있다.",
+          "나도 요즘 무릎이 시큰거리고 아프다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00085-2",
+      "prevTimeInfo": {
+        "timeNum": "35",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00085-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "35시간만이네요.어제는 푹 주무셨나요?",
+          "summary": "",
+          "date": "2022-11-16",
+          "time": "16:18:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "아이가 아파서 자주 깨서 푹 자진 못했어요",
+          "summary": "",
+          "date": "2022-11-16",
+          "time": "17:29:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "잠을 못주무시니 큰일이네요.전  강아지가  다리가 아프니까 자꾸 다른방가서 숨네요..",
+          "summary": "나는 강아지가 다리가 아파서 자꾸 다른 방에 가서 숨는다.",
+          "date": "2022-11-16",
+          "time": "18:25:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "네 그래서 오늘은 좀 일찍 자려고 하는데 가능할지 모르겠네요. 강아지 다리가 얼른 괜찮아져야 산책도 하고 그러는데 걱정이군요",
+          "summary": "",
+          "date": "2022-11-16",
+          "time": "21:34:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "강아지도 아픈모습을 주인한테 숨기고 싶어한대요. 애완동물은 안 좋아하세요?",
+          "summary": "나는 강아지가 아픈 모습을 주인한테 숨기고 싶어 한다고 들었다.",
+          "date": "2022-11-16",
+          "time": "22:16:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "아 그렇군요. 그건 몰랐네요. 어렸을때 키웠었는데 먼저 떠났을때의 상실감이 커서 그 뒤부터 안 키워요",
+          "summary": "나는 어릴 적 상실감 때문에 못 키운다.",
+          "date": "2022-11-16",
+          "time": "23:16:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "그맘 알거같아요.저도 그날이 올까바 걱정되요.",
+          "summary": "나는 강아지와 헤어지는 날이 올까 봐 걱정된다.",
+          "date": "2022-11-16",
+          "time": "23:35:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "네. 그래서 못 키우겠더라구요.",
+          "summary": "",
+          "date": "2022-11-16",
+          "time": "23:50:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "요즘은 반려동물 천만마리 시대인데 다들 책임감있는 자세가 부족한거 같기도 해요",
+          "summary": "나는 요즘 반려동물 천만 마리 시대인데 책임감 부족한 사람이 많다고 생각한다.",
+          "date": "2022-11-17",
+          "time": "00:11:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "맞아요. 우리나라는 뭐든지 급성장하는데 그런 의식들이 자리잡는데 오래 걸리는 것 같아요. ",
+          "summary": "나는 급성장에 비해 의식이 못 따라간다고 생각한다.",
+          "date": "2022-11-17",
+          "time": "09:31:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "그러게요.키우다 버리시는분도 많잖아요.같이 사는 식군데.",
+          "summary": "나는 키우다 버리는 사람이 많은 걸로 안다.",
+          "date": "2022-11-17",
+          "time": "09:48:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "그런 사람들 너무 많더라구요. 그저 호기심에 데려와서 키우다가 버리는 건 너무 무책임하죠",
+          "summary": "나는 의식 없이 버리는 사람이 무책임한 거 같다.",
+          "date": "2022-11-17",
+          "time": "11:15:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "버린 장소에서 계속 몇년 몇달을 계속  주인 기다려요.",
+          "summary": "나는 버려진 장소에서 계속 주인을 기다리는 걸로 안다.",
+          "date": "2022-11-17",
+          "time": "12:51:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "너무 슬픈일이네요. 정말 그런 사람들은 벌금을 세게 했으면 좋겠어요",
+          "summary": "나는 무책임한 사람한테 벌금 물었으면 좋겠다.",
+          "date": "2022-11-17",
+          "time": "12:54:17",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 강아지가 다리가 아파서 자꾸 다른 방에 가서 숨는다.",
+          "나는 강아지가 아픈 모습을 주인한테 숨기고 싶어 한다고 들었다.",
+          "나는 강아지와 헤어지는 날이 올까 봐 걱정된다.",
+          "나는 요즘 반려동물 천만 마리 시대인데 책임감 부족한 사람이 많다고 생각한다.",
+          "나는 키우다 버리는 사람이 많은 걸로 안다.",
+          "나는 버려진 장소에서 계속 주인을 기다리는 걸로 안다."
+        ],
+        "speaker2": [
+          "나는 어릴 적 상실감 때문에 못 키운다.",
+          "나는 급성장에 비해 의식이 못 따라간다고 생각한다.",
+          "나는 의식 없이 버리는 사람이 무책임한 거 같다.",
+          "나는 무책임한 사람한테 벌금 물었으면 좋겠다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 60대 여자다.",
+          "나는 가을은 남자의 계절로 알고 있다.",
+          "나는 봄을 싫어한다.",
+          "나는 CCM 음악을 즐겨 듣는다.",
+          "나는 검정고시로 대학을 갔다.",
+          "나는 여러 가지 운동을 한다.",
+          "나는 여기저기 많이 아프다.",
+          "나는 강아지를 키우고 있다.",
+          "나는 깜깜한 곳에서 혼자 있으면 강아지도 우울증이 올 것 같다.",
+          "나는 강아지 한 마리 더 키우는 걸 고민 중이다."
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 봄을 좋아하고 일주일에 두 번 걸어서 출퇴근한다.",
+          "나는 주말에 쇼핑몰에 간다.",
+          "나는 TV 교육프로그램을 좋아해 자주 본다.",
+          "나는 운동을 조금씩 하고 있다.",
+          "나도 요즘 무릎이 시큰거리고 아프다.",
+          "나는 강아지 키울 자신이 없다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00085-3",
+      "prevTimeInfo": {
+        "timeNum": "6",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00085-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "6일만이네요.우리 강아지 슬개골 수술했어요.",
+          "summary": "나는 강아지가 슬개골 수술을 했다.",
+          "date": "2022-11-17",
+          "time": "13:18:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "그렇군요. 회복은 잘 되고 있나요? 얼른 나아야 산책가는데 말이죠",
+          "summary": "",
+          "date": "2022-11-17",
+          "time": "13:37:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "그런데 나이가 있어서 그런지 잘 회복이 안되는거 같아서 슬퍼요",
+          "summary": "나는 강아지가 나이가 있어서 회복이 잘 안 되는 것 같다.",
+          "date": "2022-11-17",
+          "time": "13:41:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "그게 참 슬퍼요. 사람도 동물도 나이먹으면 건강관리 정말 잘해야해요",
+          "summary": "나는 슬퍼요. 나이 먹은 관리 잘해야 해요.",
+          "date": "2022-11-17",
+          "time": "13:41:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "그렇죠..우리 강아지도 눈만 보면 슬퍼질때가 있어요. 너무 사랑스럽죠",
+          "summary": "나는 우리 강아지가 너무 사랑스럽다.",
+          "date": "2022-11-17",
+          "time": "13:44:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "너무 슬프네요 눈만봐도 슬프다니. 강아지는 정말 너무 사랑스럽죠",
+          "summary": "나는 강아지가 사랑스럽다.",
+          "date": "2022-11-17",
+          "time": "14:02:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "세상에서 남편보다도  더 저를 사랑해줘요.",
+          "summary": "나는 강아지가 남편보다 나를 더 사랑해주는 것 같다.",
+          "date": "2022-11-17",
+          "time": "14:17:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "맹목적으로 잘 따르고 사랑을 주는 생명체죠",
+          "summary": "나는 강아지가 맹목적으로 사랑 주는 생명체라 느낀다.",
+          "date": "2022-11-17",
+          "time": "14:21:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "그쵸.전 강아지는 좋은데 고양이는 좀 무서워 했어요.",
+          "summary": "나는 고양이는 좀 무서워한다.",
+          "date": "2022-11-17",
+          "time": "14:24:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "그렇군요. 근데 고양이들도 개냥이들 있어요. 전 개인적으로 고양이를 엄청 좋아하거든요",
+          "summary": "나는 고양이를 엄청 좋아한다.",
+          "date": "2022-11-17",
+          "time": "14:24:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "전 등 세우면 움찔해서 잘 못 지나갔어요.근데 아들 여친이 코로나 걸려서 한번 맡긴적이 있었는데  새끼라 너무 귀여덥라구요.우리 강아진 크고 뚱뚱한데",
+          "summary": "나는 고양이가 등을 세우면 움찔해서 못 지나갔다. 나는 고양이 새끼는 귀엽다.",
+          "date": "2022-11-17",
+          "time": "14:27:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "ㅎㅎ 등 세워도 귀엽지 않나요? 물론 좀 사나운 녀석들도 있긴해요",
+          "summary": "나는 고양이 등 세워도 귀엽다.",
+          "date": "2022-11-17",
+          "time": "14:53:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "61332",
+          "participantID": "4422",
+          "utterance": "네 새로운면을 봤어요.애교도 너무 많구요 자꾸 생각나더라구요.",
+          "summary": "나는 고양이가 애교가 많다고 생각한다.",
+          "date": "2022-11-17",
+          "time": "15:03:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41034",
+          "participantID": "50104",
+          "utterance": "고양이는 대부분 독립적이어서 손이 좀 덜가긴해요 다만 털이 너무 빠져서 그게 좀 힘들더라구요",
+          "summary": "나는 고양이는 독립적이라 손이 덜 가지만 떨 때문에 힘들다.",
+          "date": "2022-11-17",
+          "time": "16:47:16",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 강아지가 슬개골 수술을 했다.",
+          "나는 강아지가 나이가 있어서 회복이 잘 안 되는 것 같다.",
+          "나는 우리 강아지가 너무 사랑스럽다.",
+          "나는 강아지가 남편보다 나를 더 사랑해주는 것 같다.",
+          "나는 고양이는 좀 무서워한다.",
+          "나는 고양이가 등을 세우면 움찔해서 못 지나갔다.",
+          "나는 고양이 새끼는 귀엽다.",
+          "나는 고양이가 애교가 많다고 생각한다."
+        ],
+        "speaker2": [
+          "나는 슬퍼요. 나이 먹은 관리 잘해야 해요.",
+          "나는 강아지가 사랑스럽다.",
+          "나는 강아지가 맹목적으로 사랑 주는 생명체라 느낀다.",
+          "나는 고양이를 엄청 좋아한다.",
+          "나는 고양이 등 세워도 귀엽다.",
+          "나는 고양이는 독립적이라 손이 덜 가지만 떨 때문에 힘들다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 60대 여자다.",
+          "나는 가을은 남자의 계절로 알고 있다.",
+          "나는 봄을 싫어한다.",
+          "나는 CCM 음악을 즐겨 듣는다.",
+          "나는 검정고시로 대학을 갔다.",
+          "나는 여러 가지 운동을 한다.",
+          "나는 여기저기 많이 아프다.",
+          "나는 강아지를 키우고 있다.",
+          "나는 깜깜한 곳에서 혼자 있으면 강아지도 우울증이 올 것 같다.",
+          "나는 강아지 한 마리 더 키우는 걸 고민 중이다.",
+          "나는 강아지가 다리가 아파서 자꾸 다른 방에 가서 숨는다.",
+          "나는 강아지가 아픈 모습을 주인한테 숨기고 싶어 한다고 들었다.",
+          "나는 강아지와 헤어지는 날이 올까 봐 걱정된다.",
+          "나는 요즘 반려동물 천만 마리 시대인데 책임감 부족한 사람이 많다고 생각한다.",
+          "나는 키우다 버리는 사람이 많은 걸로 안다.",
+          "나는 버려진 장소에서 계속 주인을 기다리는 걸로 안다."
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 봄을 좋아하고 일주일에 두 번 걸어서 출퇴근한다.",
+          "나는 주말에 쇼핑몰에 간다.",
+          "나는 TV 교육프로그램을 좋아해 자주 본다.",
+          "나는 운동을 조금씩 하고 있다.",
+          "나도 요즘 무릎이 시큰거리고 아프다.",
+          "나는 강아지 키울 자신이 없다.",
+          "나는 어릴 적 상실감 때문에 못 키운다.",
+          "나는 급성장에 비해 의식이 못 따라간다고 생각한다.",
+          "나는 의식 없이 버리는 사람이 무책임한 거 같다.",
+          "나는 무책임한 사람한테 벌금 물었으면 좋겠다."
+        ]
+      }
+    }
+  ]
+}

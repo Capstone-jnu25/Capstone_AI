@@ -1,0 +1,645 @@
+{
+  "FileInfo": {
+    "filename": "K3-00070-CL21500-CP20849-12-02-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0678",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0595",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00070"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "21500",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 아침에 운동한다.",
+        "나는 수의사이다.",
+        "나는 헬스를 가끔 한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "20849",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 요즘, 항상 감사하다.",
+        "나는 여행 안내원이다.",
+        "나는 신 음식을 좋아한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "12-02",
+    "topicType": "여가와 오락>여행",
+    "topicTitle": "여행지"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00070-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "만나서 반갑습니다. 저는 20대 여자입니다.",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-09-29",
+          "time": "13:51:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "네 반갑습니다~ 저는 20대 남자입니다!",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-09-29",
+          "time": "13:53:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "아침인데 뭐하고 계셨어요? 저는 운동하고 있었습니다.",
+          "summary": "나는 아침에 운동을 한다.",
+          "date": "2022-09-29",
+          "time": "13:53:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "아 저는 신 음식을 좋아해서 과일 좀 먹고 있었네요.",
+          "summary": "나는 신 음식을 좋아한다.",
+          "date": "2022-09-29",
+          "time": "13:53:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "아 아침으로 신 과일 드시면 속 안좋고 그러진 않으세요?",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:53:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "밥 먹고 후식이라서요 괜찮아요~ 무슨 운동하고 계셨어요?",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:53:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "아 그렇군요. 저는 빈속에 신 과일 먹으면 속이 좀 쓰리더라고요. 저는 산책이요.",
+          "summary": "나는 산책을 했다.",
+          "date": "2022-09-29",
+          "time": "13:53:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "아 빈속에는 좀 그럴 수 있죠. 산책좋네요. 매일 하세요?",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:54:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "네 매일 하고 있습니다. 산책은요. 아침마다요~ 제가 강아지를 키우거든요.",
+          "summary": "나는 매일 아침마다 산책을 한다. 나는 강아지를 키운다.",
+          "date": "2022-09-29",
+          "time": "13:54:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "아 그러시구나. 너무 좋은 습관이네요! 와 강아지요?",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:54:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "네. 매일 한번은 최소 시켜줘야되니까. 자고 일어나면 바로 한 번 정도 나가요.",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:54:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "그렇군요. 그럼 지금 일은 안 하고 계세요?",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:55:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "아 일은 수의사로 일하고 있어요. ㅎㅎ.",
+          "summary": "나는 수의사이다.",
+          "date": "2022-09-29",
+          "time": "13:55:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "오 수의사시구나. 대단하시네요!",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:55:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "그럼 저는 이만 가볼게요. 다음에 또 이야기 해요~",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:55:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "네 대화 즐거웠습니다. 다음에 봬요!",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:55:29",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 아침에 운동을 한다.",
+          "나는 산책을 했다.",
+          "나는 매일 아침마다 산책을 한다. 나는 강아지를 키운다.",
+          "나는 수의사이다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 신 음식을 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00070-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00070-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "하루 만이에요. 오늘 아침도 과일 드셨어요?",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:55:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "아 수의사님! 오늘은 제가 일정이 타이트해서 바로 나왔네요.",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:55:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "아 뭐 때문에 일정이 좀 타이트하세요?",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:56:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "제가 여행 안내원이라서요. 곧 출국을 할 예정이에요.",
+          "summary": "나는 여행 안내원이다.",
+          "date": "2022-09-29",
+          "time": "13:56:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "아 여행 안내원이시구나~ 출국 어디로 하시는데요?",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:56:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "네 맞습니다! 제 담당은 태국이에요.",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:56:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "아 태국이요~ 나쁘지 않은데요? 저도 여행지로 생각하고 있었거든요.",
+          "summary": "나는 태국을 여행지로 생각하고 있었다.",
+          "date": "2022-09-29",
+          "time": "13:56:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "아 그러세요? 태국이 서비스가 괜찮아서 힐링하기 좋아요! 여행지로 안성맞춤이죠!",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:57:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "그래요? 마시지도 좀 유명하다고 하더라고요.",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:57:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "네 맞아요~ 싼 가격에 고품격으로 진행되고 있어요.",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:57:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "나중에 한번 가보도록해야 겠어요. 그쪽은 여행사에서 일하는거에요?",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:57:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "네 맞아요. 여행사 소속 안내원이에요. 수의사님 관심 있으시면 견적 보내드릴게요.",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:58:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "감사합니다. 나중에 좀 괜찮은 상품 있으면 말씀해주세요.",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:58:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "네 알겠습니다~ 그럼 오늘도 강아지랑 산책 하신거죠?",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:58:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "네! 그럼 저도 이만 가보겠습니다.",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:58:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "아 네 좋은 하루 되세요~~!!",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:58:46",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 태국을 여행지로 생각하고 있었다."
+        ],
+        "speaker2": [
+          "나는 여행 안내원이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 아침에 운동을 한다.",
+          "나는 산책을 했다.",
+          "나는 매일 아침마다 산책을 한다. 나는 강아지를 키운다.",
+          "나는 수의사이다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 신 음식을 좋아한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00070-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00070-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "아 벌써 2일이나 지났나요? 저는 헬스장에 와있었어요.",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:58:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "수의사님! 저는 태국에서 연락 드리네요. 헬스장이요??",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:58:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "네. 저는 헬스를 가끔 하거든요. 일주일에 세번정도요.",
+          "summary": "나는 헬스를 가끔 한다.",
+          "date": "2022-09-29",
+          "time": "13:59:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "와 정말 운동을 자주 하시네요!",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "13:59:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "그러게요. 제가 좀 활동적인걸 좋아하거든요.",
+          "summary": "나는 활동적인 걸 좋아한다.",
+          "date": "2022-09-29",
+          "time": "13:59:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "아 그러시군요! 좋네요~ 저는 요즘 항상 감사해요~ 이렇게 수의사님이랑 대화하는 것도 감사하네요.",
+          "summary": "나는 요즘 항상 감사하다.",
+          "date": "2022-09-29",
+          "time": "13:59:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "왜 그래요? 엄청 좋으신 일이라도 있나봐요.",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "14:00:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "안내원 일도 즐겁고, 모든게 감사 투성이더라고요.",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "14:00:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "매일 감사하면서 살다니 저도 배워야 하는 자세겠어요.",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "14:00:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "저야말로 님의 운동 습관을 배워야겠는걸요?",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "14:00:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "ㅎㅎ 그래요. 제가 좀 건강한 삶을 살긴 하죠.",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "14:01:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "네 그러니까요. 그래서 일도 활기차게 하시나 봐요!",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "14:01:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "네! 제가 좀 활기찬 편입니다. ㅎㅎ.",
+          "summary": "나는 활기찬 편이다.",
+          "date": "2022-09-29",
+          "time": "14:01:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "너무 좋네요~ 저도 운동을 시작해 봐야겠어요!",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "14:02:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21500",
+          "participantID": "0678",
+          "utterance": "운동 열심히 하세요! 그럼 저는 이만 가볼게요. 다음에 얘기해요~",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "14:02:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "20849",
+          "participantID": "0595",
+          "utterance": "네 저도 가보도록 하죠! 대화 즐거웠습니다~",
+          "summary": "",
+          "date": "2022-09-29",
+          "time": "14:02:33",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 헬스를 가끔 한다.",
+          "나는 활동적인 걸 좋아한다.",
+          "나는 활기찬 편이다."
+        ],
+        "speaker2": [
+          "나는 요즘 항상 감사하다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 아침에 운동을 한다.",
+          "나는 산책을 했다.",
+          "나는 매일 아침마다 산책을 한다. 나는 강아지를 키운다.",
+          "나는 수의사이다.",
+          "나는 태국을 여행지로 생각하고 있었다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이다.",
+          "나는 신 음식을 좋아한다.",
+          "나는 여행 안내원이다."
+        ]
+      }
+    }
+  ]
+}

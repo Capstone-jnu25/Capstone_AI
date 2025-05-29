@@ -1,0 +1,787 @@
+{
+  "FileInfo": {
+    "filename": "K4-00035-CL90080-CP96476-10-04-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "31531",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "서비스직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "31166",
+      "gender": "남성",
+      "age": "60대 이상",
+      "occupation": "기능직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00035"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "90080",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 TV 시사 프로그램을 가끔 본다.",
+        "나는 러시아에 가보고 싶다.",
+        "나는 부모님께 죄책감이 든다.",
+        "나는 족발을 좋아한다.",
+        "나는 혈액형이 B형이다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "96476",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 60대 이상이다.",
+        "나는 레게 음악을 자주 듣는다.",
+        "나의 생일은 8월이다.",
+        "나는 다소 낙천적이다.",
+        "나는 신 음식을 안 먹는다.",
+        "나는 혈액형이 O형이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "10-04",
+    "topicType": "여가와 오락>스포츠/레져",
+    "topicTitle": "낚시"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00035-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "안녕하신가요? 저는 30대에 여자입니다.",
+          "summary": "나는 30대 여성이다.",
+          "date": "2022-11-25",
+          "time": "19:24:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "안녕하십니까. 저는 60대고 남성이에요.",
+          "summary": "나는 60대 남성이다.",
+          "date": "2022-11-25",
+          "time": "19:24:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "만나뵙게 되어 반갑습니다. 말씀 편하게 하셔도 돼요.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:25:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "아닙니다, 서로 존중해야죠. 뭐하고 계셨는지요?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:25:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "아, 저는 시사 프로그램을 가끔 봐서 그거 보고 있었네요.",
+          "summary": "나는 TV 시사 프로그램을 가끔 본다.",
+          "date": "2022-11-25",
+          "time": "19:25:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "교양있는 분이시군요. 저는 TV는 잘 안 봅니다.",
+          "summary": "나는 TV를 잘 안 본다.",
+          "date": "2022-11-25",
+          "time": "19:26:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "그러면 여가 시간엔 보통 뭘하시면 보내시나요?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:26:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "전 레게 음악을 자주 듣습니다. 젊을 적부터 좋아했죠.",
+          "summary": "나는 레게 음악을 자주 듣는다.",
+          "date": "2022-11-25",
+          "time": "19:26:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "와, 연세에 맞지 않게 아주 스타일 있으시네요...?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:27:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "하하, 그런 말 자주 듣습니다. 제가 O형이라 유행에 뒤처지는 건 싫어해요.",
+          "summary": "나는 O형이다. 나는 유행에 뒤처지는 걸 싫어한다.",
+          "date": "2022-11-25",
+          "time": "19:27:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "멋쟁이 신사분이셨네요. 저는 B형이라 유행엔 둔감해요.",
+          "summary": "나는 B형이다. 나는 유행에 둔감하다.",
+          "date": "2022-11-25",
+          "time": "19:27:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "좋게 말해줘서 고맙습니다, 아가씨. 오늘은 제가 일이 바쁜데...",
+          "summary": "나는 오늘 일이 바쁘다.",
+          "date": "2022-11-25",
+          "time": "19:27:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "아, 바쁜 분을 제가 붙잡아뒀군요! 그럼 다음에 봬요.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:28:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "그래요. 다음에 또 연락 주시면 고맙겠습니다.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:28:06",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나는 TV 시사 프로그램을 가끔 본다.",
+          "나는 B형이다. 나는 유행에 둔감하다."
+        ],
+        "speaker2": [
+          "나는 60대 남성이다.",
+          "나는 TV를 잘 안 본다.",
+          "나는 레게 음악을 자주 듣는다.",
+          "나는 O형이다. 나는 유행에 뒤처지는 걸 싫어한다.",
+          "나는 오늘 일이 바쁘다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00035-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00035-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "이틀만에 연락드리네요. 멋쟁이 신사분 계신가요?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:28:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "허허. 그렇게 부르기로 결정하신 겁니까? 쑥스럽네요.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:28:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "줄여서 멋신이라고 부를까요? 멋신님은 뭐하고 계셨나요?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:29:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "멋신...? 아 저는 낚싯대를 좀 사려고 하고 있었습니다.",
+          "summary": "나는 낚싯대를 사려한다.",
+          "date": "2022-11-25",
+          "time": "19:29:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "와, 낚시를 즐기시나 봐요? 저는 해본 적이 없어요.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:29:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "제가 낙천적이고 느긋한 성격이라 낚시를 좋아해요.",
+          "summary": "나는 낙천적이다. 나는 느긋하다. 나는 낚시를 좋아한다.",
+          "date": "2022-11-25",
+          "time": "19:29:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "유유자적하는 거군요. 그럼 바다낚시보단 강에서 하시겠네요?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:30:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "그런 편이죠. 바다 낚시는 아무래도 거치니까요.",
+          "summary": "나는 강에서 낚시를 한다.",
+          "date": "2022-11-25",
+          "time": "19:30:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "저도 한 번쯤 낚시를 해보고 싶네요. 재밌을 거 같아요.",
+          "summary": "나는 낚시를 해 보고 싶다.",
+          "date": "2022-11-25",
+          "time": "19:30:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "여성분들이 해도 재밌습니다. 그나저나 뭐하고 계셨나요?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:30:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "아... 여행 잡지를 보고 있었어요. 러시아에 가보고 싶네요.",
+          "summary": "나는 여행 잡지를 보고 있다. 나는 러시아에 가보고 싶다.",
+          "date": "2022-11-25",
+          "time": "19:31:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "그러면 다녀오시면 되지 않습니까? 성인이시니까요.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:32:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "사실 저희 부모님이 편찮으셔서, 혼자 가기엔 죄책감이 좀 들어요.",
+          "summary": "나는 부모님이 편찮으시다. 나는 부모님께 죄책감이 든다.",
+          "date": "2022-11-25",
+          "time": "19:32:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "아이고 저런. 그러면 참아야지 별수없군요... 저 연락이 와서 잠시만요.",
+          "summary": "나는 연락이 왔다.",
+          "date": "2022-11-25",
+          "time": "19:33:10",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 낚시를 해 보고 싶다.",
+          "나는 여행 잡지를 보고 있다. 나는 러시아에 가보고 싶다.",
+          "나는 부모님이 편찮으시다. 나는 부모님께 죄책감이 든다."
+        ],
+        "speaker2": [
+          "나는 낚싯대를 사려한다.",
+          "나는 낙천적이다. 나는 느긋하다. 나는 낚시를 좋아한다.",
+          "나는 강에서 낚시를 한다.",
+          "나는 연락이 왔다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나는 TV 시사 프로그램을 가끔 본다.",
+          "나는 B형이다. 나는 유행에 둔감하다."
+        ],
+        "speaker2": [
+          "나는 60대 남성이다.",
+          "나는 TV를 잘 안 본다.",
+          "나는 레게 음악을 자주 듣는다.",
+          "나는 O형이다. 나는 유행에 뒤처지는 걸 싫어한다.",
+          "나는 오늘 일이 바쁘다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00035-2",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00035-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "연락을 잘 받으셨을까요? 1시간이 지났는데요.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:33:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "아아, 미안합니다. 집사람 연락이라 통화가 길었네요.",
+          "summary": "나는 아내와 통화를 했다.",
+          "date": "2022-11-25",
+          "time": "19:34:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "사과하실 건 없어요. 그나저나 낚시는 요새도 다니시나요?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:34:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "그렇지요. 집 근처에 강이 있어서 그쪽에서 낚시를 합니다.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:34:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "그렇군요. 낚시를 하러 갈 때는 혼자서 가시고요?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:34:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "가끔 아내가 따라오긴 하는데, 낚시는 저 혼자서 합니다.",
+          "summary": "나의 아내는 가끔 낚시에 따라온다.",
+          "date": "2022-11-25",
+          "time": "19:34:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "강가에서 오붓하게 데이트를 하는 거군요? 낭만이 있네요.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:35:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "허허. 생각보다 강바람이 차서 그렇게 오붓한 그림은 아니지만요.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:35:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "에이... 제 낭만을 그렇게 깨버리시면 어떡해요...",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:35:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "아이고, 미안합니다. 남자친구는 낚시 안 좋아해요?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:35:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "남자친구가 아니라 남편이요ㅎㅎ 제 남편도 낚시 좋아하죠.",
+          "summary": "나의 남편은 낚시를 좋아한다.",
+          "date": "2022-11-25",
+          "time": "19:35:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "그러면 따라가면 될 텐데 왜 저를 부러워하나요?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:36:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "제 남편은 제가 따라오는 걸 싫어하거든요. 휴... 아, 양반은 못 되네. 남편 퇴근해서 이만 가볼게요.",
+          "summary": "나의 남편은 내가 낚시에 따라가는 것을 싫어한다.",
+          "date": "2022-11-25",
+          "time": "19:36:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "젊은 남자들이 종종 그런 경향이 있기도 하죠... 다녀오세요.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:36:44",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나의 남편은 낚시를 좋아한다.",
+          "나의 남편은 내가 낚시에 따라가는 것을 싫어한다."
+        ],
+        "speaker2": [
+          "나는 아내와 통화를 했다.",
+          "나의 아내는 가끔 낚시에 따라온다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나는 TV 시사 프로그램을 가끔 본다.",
+          "나는 B형이다. 나는 유행에 둔감하다.",
+          "나는 낚시를 해 보고 싶다.",
+          "나는 여행 잡지를 보고 있다. 나는 러시아에 가보고 싶다.",
+          "나는 부모님이 편찮으시다. 나는 부모님께 죄책감이 든다."
+        ],
+        "speaker2": [
+          "나는 60대 남성이다.",
+          "나는 TV를 잘 안 본다.",
+          "나는 레게 음악을 자주 듣는다.",
+          "나는 O형이다. 나는 유행에 뒤처지는 걸 싫어한다.",
+          "나는 오늘 일이 바쁘다.",
+          "나는 낚싯대를 사려한다.",
+          "나는 낙천적이다. 나는 느긋하다. 나는 낚시를 좋아한다.",
+          "나는 강에서 낚시를 한다.",
+          "나는 연락이 왔다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00035-3",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00035-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "어제는 바빠서 다시 연락을 못드렸었네요.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:36:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "안녕하신가요. 어제 하루 잘 보내셨는지요?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:37:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "네, 잘 보냈어요. 그러고 보니 선생님은 젊었을 때부터 낚시를 했나요?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:37:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "네, 저는 20대 때부터 낚시를 했었습니다. 오래 됐죠?",
+          "summary": "나는 20대 때부터 낚시를 했다.",
+          "date": "2022-11-25",
+          "time": "19:37:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "거의 낚시의 신이시겠네요. 40년 가까이 한 거잖아요?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:38:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "소싯적에는 실력이 꽤 괜찮았지만 지금은 그냥 한가하게 하는 거죠.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:38:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "선생님도 젊었을 때는 아내분이 따라오는 게 싫었나요?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:38:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "음... 바다 낚시를 갈 때는 그랬죠? 아무래도 위험한 곳을 가기도 하니까요.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:38:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "아... 안전 문제 때문도 있는 거군요. 무리해서 따라가진 말아야겠다.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:38:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "남편분도 남편분 나름의 생각이 있으실 겝니다.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:39:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "그래요. 조금 섭섭하지만 무리해서 따라가진 말아야겠어요.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:39:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "현명하세요. 아, 저 낚싯대 주문한 게 배송이 온다고 하네요.",
+          "summary": "나는 낚싯대가 곧 배송이 온다.",
+          "date": "2022-11-25",
+          "time": "19:39:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90080",
+          "participantID": "31531",
+          "utterance": "그럼 배송 받으시고 나중에 연락 주시겠어요?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:39:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "96476",
+          "participantID": "31166",
+          "utterance": "그렇게 하겠습니다. 그럼 나중에 연락을 드릴게요.",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "19:39:46",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [],
+        "speaker2": [
+          "나는 20대 때부터 낚시를 했다.",
+          "나는 낚싯대가 곧 배송이 온다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나는 TV 시사 프로그램을 가끔 본다.",
+          "나는 B형이다. 나는 유행에 둔감하다.",
+          "나는 낚시를 해 보고 싶다.",
+          "나는 여행 잡지를 보고 있다. 나는 러시아에 가보고 싶다.",
+          "나는 부모님이 편찮으시다. 나는 부모님께 죄책감이 든다.",
+          "나의 남편은 낚시를 좋아한다.",
+          "나의 남편은 내가 낚시에 따라가는 것을 싫어한다."
+        ],
+        "speaker2": [
+          "나는 60대 남성이다.",
+          "나는 TV를 잘 안 본다.",
+          "나는 레게 음악을 자주 듣는다.",
+          "나는 O형이다. 나는 유행에 뒤처지는 걸 싫어한다.",
+          "나는 오늘 일이 바쁘다.",
+          "나는 낚싯대를 사려한다.",
+          "나는 낙천적이다. 나는 느긋하다. 나는 낚시를 좋아한다.",
+          "나는 강에서 낚시를 한다.",
+          "나는 연락이 왔다.",
+          "나는 아내와 통화를 했다.",
+          "나의 아내는 가끔 낚시에 따라온다."
+        ]
+      }
+    }
+  ]
+}

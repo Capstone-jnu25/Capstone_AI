@@ -1,0 +1,783 @@
+{
+  "FileInfo": {
+    "filename": "K4-00096-CL21944-CP22444-09-09-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "2193",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "2152",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00096"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "21944",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 요즘, 가끔 질투가 난다.",
+        "나는 화학부 전공이다.",
+        "나는 검은색을 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22444",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 항상 적극적이다.",
+        "나는 도배공이다.",
+        "나는 추운 날씨를 싫어한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "09-09",
+    "topicType": "개인 및 관계>반려동물",
+    "topicTitle": "반려동물 미용"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00096-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "안녕하세요 저는 20대고요 여자랍니다^^ 잘부탁해요.",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-10-19",
+          "time": "23:27:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "처음뵙겠습니다 저는 20대 여자입니다 반가워요^^",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-10-19",
+          "time": "23:29:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "이런대화는 처음이시죠? 저도 처음이라 어색하네요 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:29:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "처도 어색하지만 선생님과 대화 나누면 잘통할거같아요!",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:30:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "좋아요! 실례가 안되시면 저희 말놓고 시작할까?",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:30:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "좋아 그럼 우리 오늘부터 친구하는거지? 나 진짜 적극적이야^^",
+          "summary": "나는 항상 적극적이다.",
+          "date": "2022-10-19",
+          "time": "23:30:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "흔쾌히 허락해주니 너무 좋군^^ 너는 학생이야?",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:30:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "나는 직장인이댜! 나는 도배공으로 일해 넌?",
+          "summary": "나는 도배공이다.",
+          "date": "2022-10-19",
+          "time": "23:31:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "그렇구나 나는 화학부 전공을 하고 있는 대학생이야~",
+          "summary": "나는 화학부 전공이다.",
+          "date": "2022-10-19",
+          "time": "23:31:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "앗진짜? 대학교생활재밌어? 나는 대학교를안다녔거든 ㅠㅠ.",
+          "summary": "나는 대학교를 안 다녔다.",
+          "date": "2022-10-19",
+          "time": "23:31:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "재미 없어~ 하나도! 근데 요즘 도배하면 돈 되게 많이 번다는데 맞는말이야?",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:31:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "뭐 그래봤자... 일용직이지..하하 친구는 꿈이뭐야?",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:32:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "하긴 여자가 하기에는 힘든 일이긴하겠다~ 나는 연구원이 꿈이야.",
+          "summary": "나의 꿈은 연구원이다.",
+          "date": "2022-10-19",
+          "time": "23:32:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "오 멋있다 나그럼 일좀하고 올게^^",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:33:03",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 화학부 전공이다.",
+          "나의 꿈은 연구원이다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 항상 적극적이다.",
+          "나는 도배공이다.",
+          "나는 대학교를 안 다녔다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00096-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00096-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "친구야 미안 3시간이나 기다렸구나 갑자기 과사에서 부르는 바람에 다녀왔어.",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:33:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "앗정말? 나는 이제 퇴근했다! 헤헤 오늘도 일하고이십만원벌었다!",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:33:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "와 진짜 대바이다 고생했다 친구야 맛있는거사먹어야지~",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:33:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "아니야 나 강아지 키우는데 우리애들 미용시켜줘야해ㅠㅠ.",
+          "summary": "나는 강아지 미용을 할 것이다.",
+          "date": "2022-10-19",
+          "time": "23:33:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "와너 강아지 키워? 어떤 종류 키우는데 부럽다..",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:34:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "나 포메라니안 두마리 키워^^ 사진보내줄까?",
+          "summary": "나는 포메라니안 두 마리를 키운다.",
+          "date": "2022-10-19",
+          "time": "23:34:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "웅! 완전 귀엽겠다... 내 남자친구도 강아지 키우거든 나만 없어 강아지.",
+          "summary": "나의 남자 친구는 강아지를 키운다.",
+          "date": "2022-10-19",
+          "time": "23:34:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "아진짜? 어떤견종 키우는데?",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:34:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "포메라이안키우는데 기집애를 키워서 그런가 남자친구만 좋아해~ 그래서 가끔 질투나.",
+          "summary": "나는 요즘, 가끔 질투가 난다.",
+          "date": "2022-10-19",
+          "time": "23:35:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "아진짜? 나도 암컷두마리인데..ㅎㅎ애도 내 남친엄청좋아해..",
+          "summary": "나의 강아지는 남자 친구를 좋아한다.",
+          "date": "2022-10-19",
+          "time": "23:35:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "근데 진짜 강아지들도 남자여자 따지긴한가봐 신기해.",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:35:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "맞아! 어릴때는 여자들좋아했는데 크더니 남친만 졸졸따라다녀..",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:36:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "아진짜? 근데 확실히 포메는 미용을 하고 안하고 차이가 엄청 큰거같아.",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:36:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "후 이제 집가서 강아지들 데리고 미용실가야겠어! 이따 연락할게^^",
+          "summary": "나는 강아지 미용실을 갈 것이다.",
+          "date": "2022-10-19",
+          "time": "23:36:22",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나의 남자 친구는 강아지를 키운다.",
+          "나는 요즘, 가끔 질투가 난다."
+        ],
+        "speaker2": [
+          "나는 강아지 미용을 할 것이다.",
+          "나는 포메라니안 두 마리를 키운다.",
+          "나의 강아지는 남자 친구를 좋아한다.",
+          "나는 강아지 미용실을 갈 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 화학부 전공이다.",
+          "나의 꿈은 연구원이다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 항상 적극적이다.",
+          "나는 도배공이다.",
+          "나는 대학교를 안 다녔다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00096-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00096-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "친구야 미용은 다 끝난거야? 두시간이면 끝날시간인가?",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:36:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "아니 이제 가! 후 두마리 데리고 다니기 힘들다 ㅠㅠ.",
+          "summary": "나는 두 마리를 케어하기 힘들다.",
+          "date": "2022-10-19",
+          "time": "23:37:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "뭐야 아직도 안갔어? 뭐하느라 안갔어!",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:37:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "예약 시간맞춰가느라고~ 친구는뭐하고있었어?",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:37:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "나는 너 연락기다리구있었지~ 근데 포메는 무슨색이야?",
+          "summary": "나는 연락을 기다리고 있었다.",
+          "date": "2022-10-19",
+          "time": "23:37:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "우리집 강아지는 오렌지한마리랑 검정색한마리! 귀엽지?",
+          "summary": "나의 강아지는 오렌지 한 마리와 검은색 한 마리가 있다.",
+          "date": "2022-10-19",
+          "time": "23:38:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "아그래? 역시 검정색 포메는 안이쁘지않아? 눈코입도 안보이던데.",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:38:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "어릴때는 귀엽웠다구...하하 그런맛에 귀여워!",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:38:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "미안 내가 검정색을 싫어해서 너무 개인적인 견해였지~",
+          "summary": "나는 검은색을 싫어한다.",
+          "date": "2022-10-19",
+          "time": "23:38:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "괜찮아 그럴수있지^^ 애네 포메는 가위컷해야해서 미용이 너무 비싸 ㅠ.",
+          "summary": "나의 강아지들은 미용이 비싸다.",
+          "date": "2022-10-19",
+          "time": "23:39:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "아진짜? 가위컷도 따로있구나 신기하다 나는 이런 용어 몰랐어.",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:39:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "클루퍼 증후군 때문에 가위컷해야해!",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:40:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "그럼 강아지들 미용잘시키고~ 다음에 사진보내줘^^",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:40:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "알겠어! 그럼 나 애들 미용하고 연락할게^^",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:40:32",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 연락을 기다리고 있었다.",
+          "나는 검은색을 싫어한다."
+        ],
+        "speaker2": [
+          "나는 두 마리를 케어하기 힘들다.",
+          "나의 강아지는 오렌지 한 마리와 검은색 한 마리가 있다.",
+          "나의 강아지들은 미용이 비싸다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 화학부 전공이다.",
+          "나의 꿈은 연구원이다.",
+          "나의 남자 친구는 강아지를 키운다.",
+          "나는 요즘, 가끔 질투가 난다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 항상 적극적이다.",
+          "나는 도배공이다.",
+          "나는 대학교를 안 다녔다.",
+          "나는 강아지 미용을 할 것이다.",
+          "나는 포메라니안 두 마리를 키운다.",
+          "나의 강아지는 남자 친구를 좋아한다.",
+          "나는 강아지 미용실을 갈 것이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00096-3",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "주"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00096-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "친구야 1주 일만인가? 너무 오랜만이지 뭐하고 지냈어?",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:40:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "오 오랜만이다! 친구야 오늘 왜이렇게 추워? ㅠㅠ.",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:40:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "그러니까 잠깐사이에 벌써 겨울로 바뀐거같아!",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:40:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "맞아 ㅠ 추운날씨 진짜 너무 싫어...",
+          "summary": "나는 추운 날씨를 싫어한다.",
+          "date": "2022-10-19",
+          "time": "23:41:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "너도 추운날씨 싫어하는구나! 나도 싫어해 ㅠㅠ.",
+          "summary": "나는 추운 날씨를 싫어한다.",
+          "date": "2022-10-19",
+          "time": "23:41:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "나 바로 롱패딩꺼냈잖아.... 무장하고 다녀야지!",
+          "summary": "나는 롱 패딩을 꺼냈다.",
+          "date": "2022-10-19",
+          "time": "23:41:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "롱패딩은 진짜 필수템이야~ 나도 꺼내야겠어.",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:41:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "맞아! 내복도 필수야...알지 히트텍?",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:41:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "와 당연하지.. 히트텍 사러가야겠는걸?",
+          "summary": "나는 히트텍을 살 것이다.",
+          "date": "2022-10-19",
+          "time": "23:42:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "친구야 @브랜드명1@ 히트텍 추천할게^^",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:42:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "나도 알지 그래도 곧 크리스마스다가오니까 설레지않아?",
+          "summary": "나는 크리스마스가 설렌다.",
+          "date": "2022-10-19",
+          "time": "23:42:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "맞아 너 크리스마스에 뭐할거야?",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:42:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21944",
+          "participantID": "2193",
+          "utterance": "객사가서 놀거야~ 이번크리스마스는 화이트이길 바라며^^ 나중에 또연락줄게!",
+          "summary": "나는 크리스마스 때 시내에서 놀 것이다.",
+          "date": "2022-10-19",
+          "time": "23:42:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22444",
+          "participantID": "2152",
+          "utterance": "오 그러군! 알겠어 미리크리스마스! 다음에 또 연락하자^^",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "23:43:15",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 추운 날씨를 싫어한다.",
+          "나는 히트텍을 살 것이다.",
+          "나는 크리스마스가 설렌다.",
+          "나는 크리스마스 때 시내에서 놀 것이다."
+        ],
+        "speaker2": [
+          "나는 추운 날씨를 싫어한다.",
+          "나는 롱 패딩을 꺼냈다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 화학부 전공이다.",
+          "나의 꿈은 연구원이다.",
+          "나의 남자 친구는 강아지를 키운다.",
+          "나는 요즘, 가끔 질투가 난다.",
+          "나는 연락을 기다리고 있었다.",
+          "나는 검은색을 싫어한다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 항상 적극적이다.",
+          "나는 도배공이다.",
+          "나는 대학교를 안 다녔다.",
+          "나는 강아지 미용을 할 것이다.",
+          "나는 포메라니안 두 마리를 키운다.",
+          "나의 강아지는 남자 친구를 좋아한다.",
+          "나는 강아지 미용실을 갈 것이다.",
+          "나는 두 마리를 케어하기 힘들다.",
+          "나의 강아지는 오렌지 한 마리와 검은색 한 마리가 있다.",
+          "나의 강아지들은 미용이 비싸다."
+        ]
+      }
+    }
+  ]
+}

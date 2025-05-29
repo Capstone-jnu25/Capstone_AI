@@ -1,0 +1,424 @@
+{
+  "FileInfo": {
+    "filename": "K2-00121-CL50309-CP22429-11-03-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3474",
+      "gender": "남성",
+      "age": "60대 이상",
+      "occupation": "서비스직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "3023",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00121"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "50309",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 50대이다.",
+        "나의 거주지는 용인이다",
+        "나는 역사/문화 여행을 자주 간다",
+        "나는 검정색을 싫어한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22429",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 남자 형제는 세무사이다",
+        "나는 종교학 전공이다",
+        "나는 양식을 안 먹는다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "11-03",
+    "topicType": "여가와 오락>게임",
+    "topicTitle": "전통/민속놀이"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00121-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "50309",
+          "participantID": "3474",
+          "utterance": "안녕하세요. 저는 50대 남성입니다",
+          "summary": "나는 50대 남성이다.",
+          "date": "2022-10-18",
+          "time": "18:54:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "안녕하세요 저는 20대 여성입니다.",
+          "summary": "나는 20대 여성이다",
+          "date": "2022-10-18",
+          "time": "19:14:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50309",
+          "participantID": "3474",
+          "utterance": "반갑습니다. 저는 용인에 살고 있습니다",
+          "summary": "나는 용인에 살고 있다.",
+          "date": "2022-10-18",
+          "time": "19:26:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "그러시군요 저는 종교학전공을 하였고 위로 오빠가 있고 세무사예요. 무슨일하시나요?",
+          "summary": "나는 종교학 전공이다. 나의 남자 형제는 세무사이다",
+          "date": "2022-10-18",
+          "time": "21:26:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50309",
+          "participantID": "3474",
+          "utterance": "예 저는 프리랜서이고요  IT컨설팅을 하고 있습니다. 쉬는 날은 무엇하시나요 저는 여행을 자주가는데 주로 역사/문화 여행을 합니다",
+          "summary": "나는 IT컨설팅 프리랜서이다. 나는 역사 문화 여행을 자주 한다.",
+          "date": "2022-10-19",
+          "time": "08:14:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "여행을 좋아하시는군요 요즘같은날씨에 단풍놀이가고좋겠네요 저는  쉬는날엔 맛집가는걸좋아해요.",
+          "summary": "나는 쉬는 날엔 맛집 가는 걸 좋아한다",
+          "date": "2022-10-19",
+          "time": "12:41:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50309",
+          "participantID": "3474",
+          "utterance": "예. 여행 좋아하는 사람에게 좋은 시즌이죠. 저는 검정색을 싫어해서 겨울 여행보다는 가을, 봄 여행이 좋습니다",
+          "summary": "나는 검은색을 싫어한다. 나는 가을봄 여행을 좋아한다.",
+          "date": "2022-10-19",
+          "time": "19:18:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "저도 가을 봄이 좋더라구요. 저는 양식을 안먹어서 오늘 지인과 식사약속에서 메뉴고르는데 조금 힘들었어요.",
+          "summary": "나는 가을, 봄을 좋아한다. 나는 양식을 안 먹는다.",
+          "date": "2022-10-19",
+          "time": "20:53:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50309",
+          "participantID": "3474",
+          "utterance": "아 양식을 싫어하시는군요. 저도 양식을 거의 안 먹습니다",
+          "summary": "나는 양식을 잘 안 먹는다.",
+          "date": "2022-10-19",
+          "time": "21:34:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "저는 양식을 먹으면 속이 안좋아질때가 많아 안먹게되더라구요 . ",
+          "summary": "",
+          "date": "2022-10-19",
+          "time": "22:27:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50309",
+          "participantID": "3474",
+          "utterance": "저도 양식을 먹으면 소화가 잘 안되더라고요. 느끼하기도 하고 맥주 같은 걸 같이 먹으면 좀 낫긴 하던데요..",
+          "summary": "나는 양식을 먹으면 소화가 잘 안 된다.",
+          "date": "2022-10-20",
+          "time": "08:05:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "맥주는 어디든같이먹으면 맛있죠 하하 이번주말에는 뭐하시나요 저는 곧 할로윈이라 행사하는곳에 가볼까해요.",
+          "summary": "나는 핼러윈이라 행사하는 곳에 가볼 예정이다.",
+          "date": "2022-10-20",
+          "time": "10:07:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50309",
+          "participantID": "3474",
+          "utterance": "저는 주말에는 주로 한강에서 자전거를 탑니다. 꼭 주말 아니더라도 하루에 한번은 갑니다",
+          "summary": "나는 주말에 자전거를 탄다.",
+          "date": "2022-10-20",
+          "time": "10:08:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "한강을 저는 안가봤네요다음에 기회가되면 가봐야겠어요. 일이있어 나왔는데 날씨가많이 추워요 감기조심하시고 다음에또 이야기해요. ",
+          "summary": "나는 한강을 가보지 않았다",
+          "date": "2022-10-20",
+          "time": "10:11:21",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 50대 남성이다.",
+          "나는 용인에 살고 있다.",
+          "나는 IT컨설팅 프리랜서이다.",
+          "나는 역사 문화 여행을 자주 한다.",
+          "나는 검은색을 싫어한다. 나는 가을봄 여행을 좋아한다.",
+          "나는 양식을 잘 안 먹는다.",
+          "나는 양식을 먹으면 소화가 잘 안 된다.",
+          "나는 주말에 자전거를 탄다."
+        ],
+        "speaker2": [
+          "나는 20대 여성이다",
+          "나는 종교학 전공이다. 나의 남자 형제는 세무사이다",
+          "나는 쉬는 날엔 맛집 가는 걸 좋아한다",
+          "나는 가을, 봄을 좋아한다. 나는 양식을 안 먹는다.",
+          "나는 핼러윈이라 행사하는 곳에 가볼 예정이다.",
+          "나는 한강을 가보지 않았다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00121-1",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00121-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "50309",
+          "participantID": "3474",
+          "utterance": "좀 쉬셨나요. 만난 지 4시간 지났군요",
+          "summary": "",
+          "date": "2022-10-20",
+          "time": "13:44:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "저는 잠시 외출을 했었어요 용인에 민속촌 혹시가보셨나요?  이번주말에 가볼까해요.",
+          "summary": "나는 이번 주말에 민속촌에 갈 예정이다",
+          "date": "2022-10-20",
+          "time": "18:09:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50309",
+          "participantID": "3474",
+          "utterance": "예. 저도 가을에 민속촌에 가보려고 합니다. 민속 공연을 상시 한다고 해서요. 함 보려고요.",
+          "summary": "나는 민속촌에 가보려고 한다.",
+          "date": "2022-10-22",
+          "time": "17:18:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "가보려고 인터넷에 찾아봤는데 볼거리도많고 재미있을것같아 기대되요",
+          "summary": "",
+          "date": "2022-10-22",
+          "time": "19:37:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50309",
+          "participantID": "3474",
+          "utterance": "민속촌에 가면 민속 놀이를 할 수 있는 곳도 있을 것 같은데요",
+          "summary": "나는 민속촌에 가면 민속놀이를 할 수 있을 것 같다.",
+          "date": "2022-10-23",
+          "time": "11:05:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "그렇군요 날씨가 더추워지기전에 가서 민속놀이도 해보고 구경해보고싶어요.",
+          "summary": "나는 민속촌에 가서 민속놀이도 해보고 구경해보고 싶어 한다",
+          "date": "2022-10-23",
+          "time": "13:39:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50309",
+          "participantID": "3474",
+          "utterance": "예. 겨울이면 못하니까요. 그런데  민속놀이 좀 아시나요?",
+          "summary": "",
+          "date": "2022-10-23",
+          "time": "13:41:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "아니요 저는 민속놀이를 해본적이없어요 지난명절에 가족들과모여 @민속놀이1@를 해봤는데 재미있었어요 다를 민속놀이도 경험해보고싶네요.",
+          "summary": "나는 민속놀이를 해본 적은 없다.",
+          "date": "2022-10-23",
+          "time": "13:57:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50309",
+          "participantID": "3474",
+          "utterance": "예. @민속놀이2@@민속놀이3@ 같은 것은 몇 명이서도 재미있게 할 수 있는 거라 해보면 좋을 것 같아요",
+          "summary": "",
+          "date": "2022-10-23",
+          "time": "16:30:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "예전 교과서에서 본것같네요 여러명이서 민속놀이하면 재미있을것같아요 요즘은 그렇게노는경우가없으니까 새로운놀이가 될것같네요.",
+          "summary": "",
+          "date": "2022-10-23",
+          "time": "18:04:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50309",
+          "participantID": "3474",
+          "utterance": "시작이 잘 안되는데 아이들하고도 몇 번 해보니 좋아하는 것 같더라고요 ",
+          "summary": "",
+          "date": "2022-10-23",
+          "time": "18:07:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "저도 가족들이 모였을때 민속놀이를 하니 어른 아이 함께 다같이 놀수도있고 즐겁더라구요.",
+          "summary": "",
+          "date": "2022-10-23",
+          "time": "18:35:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50309",
+          "participantID": "3474",
+          "utterance": "예. 생각해보면 옛날 했던 강강수월래나 줄다리기, 제기차기 같은 것이 다 나름 역사가 있는 것 같습니다",
+          "summary": "",
+          "date": "2022-10-23",
+          "time": "19:39:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22429",
+          "participantID": "3023",
+          "utterance": "맞아요 역사가있는 놀이지요 식사시간이되어서 저는 이만가볼께요 그럼이만.",
+          "summary": "",
+          "date": "2022-10-23",
+          "time": "19:56:50",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 민속촌에 가보려고 한다.",
+          "나는 민속촌에 가면 민속놀이를 할 수 있을 것 같다."
+        ],
+        "speaker2": [
+          "나는 이번 주말에 민속촌에 갈 예정이다",
+          "나는 민속촌에 가서 민속놀이도 해보고 구경해보고 싶어 한다",
+          "나는 민속놀이를 해본 적은 없다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 남성이다.",
+          "나는 용인에 살고 있다.",
+          "나는 IT컨설팅 프리랜서이다.",
+          "나는 역사 문화 여행을 자주 한다.",
+          "나는 검은색을 싫어한다. 나는 가을봄 여행을 좋아한다.",
+          "나는 양식을 잘 안 먹는다.",
+          "나는 양식을 먹으면 소화가 잘 안 된다.",
+          "나는 주말에 자전거를 탄다."
+        ],
+        "speaker2": [
+          "나는 20대 여성이다",
+          "나는 종교학 전공이다. 나의 남자 형제는 세무사이다",
+          "나는 쉬는 날엔 맛집 가는 걸 좋아한다",
+          "나는 가을, 봄을 좋아한다. 나는 양식을 안 먹는다.",
+          "나는 핼러윈이라 행사하는 곳에 가볼 예정이다.",
+          "나는 한강을 가보지 않았다"
+        ]
+      }
+    }
+  ]
+}

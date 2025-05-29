@@ -1,0 +1,838 @@
+{
+  "FileInfo": {
+    "filename": "K4-00014-CL67236-CP95201-08-06-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "20078",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "21179",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "주부",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00014"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "67236",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 등산을 가끔 한다.",
+        "나의 생일은 11월이다.",
+        "나는 전자 음악을 자주 듣는다.",
+        "나는 위인전기를 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "95201",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 TV 드라마를 자주 본다.",
+        "나는 몽골에 가봤다.",
+        "나는 생각하는 게 귀찮다.",
+        "나는 포도를 즐겨 먹는다.",
+        "나는 혈액형이 O형이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "08-06",
+    "topicType": "개인 및 관계>연애/결혼",
+    "topicTitle": "데이트"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00014-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "안녕하세요. 저는 20대 여성입니다. 반갑습니다.",
+          "summary": "나는 20대 여성이다.",
+          "date": "2022-11-19",
+          "time": "15:35:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "안녕하세요! 저는 50대 여성이에요~ 반가워요~^^",
+          "summary": "나는 50대 여성이다.",
+          "date": "2022-11-19",
+          "time": "15:36:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "반갑습니다. 뭐하세요? 저는 등산을 가끔해서 오늘 부모님이랑 등산 다녀왔어요.",
+          "summary": "나는 등산을 가끔 한다. 나는 부모님과 등산을 다녀왔다.",
+          "date": "2022-11-19",
+          "time": "15:36:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "저는 TV 드라마를 자주 봐서요~ 드라마 보던 중이었어요~ 부모님이랑 등산이라니 사이가 좋으신가 봐요~",
+          "summary": "나는 TV 드라마를 자주 본다. 나는 드라마를 보던 중이다.",
+          "date": "2022-11-19",
+          "time": "15:36:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "제가 외동이라 부모님이 해달라는 건 맞춰서 해드리는 편이에요. 취미가 뭐예요? 저는 전자 음악을 자주 들어요.",
+          "summary": "나는 외동이라 부모님이 해달라는 건 맞춰서 해드리는 편이다. 나는 전자 음악을 자주 듣는다.",
+          "date": "2022-11-19",
+          "time": "15:37:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "착한 딸이시네요~ 저는 여행가는게 취미에요~ 저는 몽골에도 가봤어요!",
+          "summary": "나는 여행 가는 것이 취미이다. 나는 몽골에 가봤다.",
+          "date": "2022-11-19",
+          "time": "15:38:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "몽골 멀지 않나요? 언젠가 가보고 싶긴 한데 엄두가 안 나요. 저는 11월이 생일이에요. 생일 언제세요?",
+          "summary": "나는 몽골에 언젠가 가보고 싶지만 엄두가 안 난다. 나의 생일은 11월이다.",
+          "date": "2022-11-19",
+          "time": "15:39:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "몽골이 아시아의 알프스라고 해서 다녀왔어요~ 멀긴 한데 나중에라도 꼭 가보세요^^ 제 생일은 12월이에요~",
+          "summary": "나는 몽골이 아시아의 알프스라고 해서 다녀왔다.",
+          "date": "2022-11-19",
+          "time": "15:39:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "저희 둘다 겨울이 생일이네요! 50대시면 일을 하고 계신가요? 전 대학생입니다!",
+          "summary": "나는 대학생이다.",
+          "date": "2022-11-19",
+          "time": "15:40:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "네~ 아직은 회사 다니고 있어요^^ 근데 요즘엔 일 할 때 말곤 생각하는게 귀찮아요.. 대학생이시면 전공은 어떻게 되세요?",
+          "summary": "나는 아직은 회사에 다니고 있다. 나는 요즘 일 할 때 말곤 생각하는 게 귀찮다.",
+          "date": "2022-11-19",
+          "time": "15:41:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "유아교육과 전공 중이에요! 어떤 일 하시는 지 여쭤봐도 돼요?",
+          "summary": "나는 유아교육과를 전공하고 있다.",
+          "date": "2022-11-19",
+          "time": "15:41:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "무역 일 하고 있어요~ 유아 교육과시라니 @이름1@을 많이 좋아하시나봐요~",
+          "summary": "나는 무역 일을 하고 있다.",
+          "date": "2022-11-19",
+          "time": "15:43:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "네! 저는 @이름1@만 보면 행복해요. 저 전화 좀 받으러 갈게요!",
+          "summary": "나는 @이름1@만 보면 행복하다. 나는 전화를 받으러 갈 것이다.",
+          "date": "2022-11-19",
+          "time": "15:43:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "네~ 전화 받고 나중에 연락주세요~^^",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "15:44:07",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다.",
+          "나는 등산을 가끔 한다. 나는 부모님과 등산을 다녀왔다.",
+          "나는 외동이라 부모님이 해달라는 건 맞춰서 해드리는 편이다. 나는 전자 음악을 자주 듣는다.",
+          "나는 몽골에 언젠가 가보고 싶지만 엄두가 안 난다. 나의 생일은 11월이다.",
+          "나는 대학생이다.",
+          "나는 유아교육과를 전공하고 있다.",
+          "나는 @이름1@만 보면 행복하다. 나는 전화를 받으러 갈 것이다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나는 TV 드라마를 자주 본다. 나는 드라마를 보던 중이다.",
+          "나는 여행 가는 것이 취미이다. 나는 몽골에 가봤다.",
+          "나는 몽골이 아시아의 알프스라고 해서 다녀왔다.",
+          "나는 아직은 회사에 다니고 있다. 나는 요즘 일 할 때 말곤 생각하는 게 귀찮다.",
+          "나는 무역 일을 하고 있다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00014-1",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00014-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "안녕하세요. 그동안 조금 바빴어요. 5일만이죠? 저 잊으신 건 아니죠? 하하.",
+          "summary": "나는 그동안 조금 바빴다.",
+          "date": "2022-11-19",
+          "time": "15:44:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "안녕하세요^^ 오랜만이에요~ 무슨 일로 바쁘셨어요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "15:45:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "학교 과제가 많았어요! 이제 조금 여유 생겨서 밀린 데이트 하려고요!",
+          "summary": "나는 그동안 학교 과제가 많았다. 나는 이제 조금 여유가 생겨서 밀린 데이트를 할 것이다.",
+          "date": "2022-11-19",
+          "time": "15:45:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "남자친구 있어요? 데이트라니 너무 부럽네요~",
+          "summary": "나는 데이트를 하는 사람이 너무 부럽다.",
+          "date": "2022-11-19",
+          "time": "15:45:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "네! 선생님은 결혼하셨어요? 결혼해도 데이트 하지 않나요?",
+          "summary": "나는 남자 친구가 있다.",
+          "date": "2022-11-19",
+          "time": "15:46:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "저는 비혼주의자라 결혼 안 했어요~ 데이트 했던게 언젠지 까마득하네요^^",
+          "summary": "나는 비혼 주의자라 결혼을 안 했다. 나는 데이트를 했던 게 언젠지 까마득하다.",
+          "date": "2022-11-19",
+          "time": "15:47:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "아 연애도 안 하고 계신가요? 마지막으로 데이트 했던 게 언제신데요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "15:47:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "네~ 마지막으로 데이트 한 지는 10년도 더 된 것 같아요^^;",
+          "summary": "나는 마지막으로 데이트를 한 지 10년도 더 됐다.",
+          "date": "2022-11-19",
+          "time": "15:49:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "그러면 전에 몽골 가보셨다고 했는데, 몽골 여행도 혼자 가신 건가요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "15:50:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "몽골 여행은 친구랑 같이 갔었어요~ 제가 혈액형이 O형인데 제 친구 중에 O형인 친구가 있어서 잘 맞는 친구가 있거든요~",
+          "summary": "나는 몽골 여행은 친구랑 같이 갔었다. 나는 혈액형이 O형이다. 나는 친구 중에 혈액형이 O형인 친구가 있어서 잘 맞는 친구가 있다.",
+          "date": "2022-11-19",
+          "time": "15:51:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "그렇군요. 하긴 여행은 친구랑 가도 재미있죠! 저는 오늘 남자친구랑 스케이트 타러 가기로 했어요.",
+          "summary": "나는 오늘 남자 친구와 스케이트를 타러 간다.",
+          "date": "2022-11-19",
+          "time": "15:52:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "스케이트 데이트 너무 낭만적이네요~ 그러고보니 부모님하고 등산도 자주 가시는 것 같았는데 이번주엔 등산은 안 가시나요?",
+          "summary": "나는 스케이트 데이트가 너무 낭만적이라고 생각한다.",
+          "date": "2022-11-19",
+          "time": "15:53:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "이번 주말에 남자친구랑 데이트 하기로 해서 등산 못 갈 거 같아요. 저 외출해볼게요!",
+          "summary": "나는 이번 주말에 남자 친구와 데이트를 할 예정이라 등산하러 못 갈 것 같다.",
+          "date": "2022-11-19",
+          "time": "15:53:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "아~ 그렇군요^^ 그럼 즐거운 시간 보내세요~",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "15:54:03",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 그동안 조금 바빴다.",
+          "나는 그동안 학교 과제가 많았다. 나는 이제 조금 여유가 생겨서 밀린 데이트를 할 것이다.",
+          "나는 남자 친구가 있다.",
+          "나는 오늘 남자 친구와 스케이트를 타러 간다.",
+          "나는 이번 주말에 남자 친구와 데이트를 할 예정이라 등산하러 못 갈 것 같다."
+        ],
+        "speaker2": [
+          "나는 데이트를 하는 사람이 너무 부럽다.",
+          "나는 비혼 주의자라 결혼을 안 했다. 나는 데이트를 했던 게 언젠지 까마득하다.",
+          "나는 마지막으로 데이트를 한 지 10년도 더 됐다.",
+          "나는 몽골 여행은 친구랑 같이 갔었다. 나는 혈액형이 O형이다. 나는 친구 중에 혈액형이 O형인 친구가 있어서 잘 맞는 친구가 있다.",
+          "나는 스케이트 데이트가 너무 낭만적이라고 생각한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다.",
+          "나는 등산을 가끔 한다. 나는 부모님과 등산을 다녀왔다.",
+          "나는 외동이라 부모님이 해달라는 건 맞춰서 해드리는 편이다. 나는 전자 음악을 자주 듣는다.",
+          "나는 몽골에 언젠가 가보고 싶지만 엄두가 안 난다. 나의 생일은 11월이다.",
+          "나는 대학생이다.",
+          "나는 유아교육과를 전공하고 있다.",
+          "나는 @이름1@만 보면 행복하다. 나는 전화를 받으러 갈 것이다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나는 TV 드라마를 자주 본다. 나는 드라마를 보던 중이다.",
+          "나는 여행 가는 것이 취미이다. 나는 몽골에 가봤다.",
+          "나는 몽골이 아시아의 알프스라고 해서 다녀왔다.",
+          "나는 아직은 회사에 다니고 있다. 나는 요즘 일 할 때 말곤 생각하는 게 귀찮다.",
+          "나는 무역 일을 하고 있다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00014-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "주"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00014-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "안녕하세요. 2주 만에 연락 드려요. 제가 기분이 별로여서 오랜만에 연락 드려요.",
+          "summary": "나는 기분이 별로여서 오랜만에 연락했다.",
+          "date": "2022-11-19",
+          "time": "15:54:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "안녕하세요~ 정말 오랜만이네요~ 근데 무슨 일 있어요? 왜 기분이 별로세요..?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "15:54:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "남자친구랑 데이트 하다가 싸웠어요.",
+          "summary": "나는 남자 친구와 데이트를 하다가 싸웠다.",
+          "date": "2022-11-19",
+          "time": "15:55:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "어쩌다 싸우셨어요? 저번에 스케이트 데이트 하신다고 하실 때만 해도 사이 좋으셨잖아요.",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "15:57:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "남자친구가 그날 잠들어서 데이트를 못 나왔어요. 전 약속 안 지키는 사람이 너무 싫어서 남자친구한테 실망이 커요.",
+          "summary": "나의 남자 친구는 나와 스케이트를 타기로 한 날 잠들어서 데이트를 못 나왔다. 나는 약속 안 지키는 사람이 너무 싫다. 나는 남자 친구에게 실망이 크다.",
+          "date": "2022-11-19",
+          "time": "15:57:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "어머.. 사과는 받은 거예요? 아무리 피곤해도 자느라 데이트를 못 나오면 저 같아도 너무 화날 것 같아요.",
+          "summary": "나는 상대방이 아무리 피곤해도 자느라 데이트를 못 나오면 너무 화가 날 것 같다.",
+          "date": "2022-11-19",
+          "time": "15:58:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "그러니까요. 불쾌해서 남자친구 연락 안 받고 있어요. 뭐하고 계셨어요? 드라마 보고 계셨나요?",
+          "summary": "나는 불쾌해서 남자 친구 연락을 안 받고 있다.",
+          "date": "2022-11-19",
+          "time": "15:59:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "제대로 사과 받을 때까지 용서해주지 마요..! 저는 날씨가 좋아서 산책 가려던 중이었어요.",
+          "summary": "나는 날씨가 좋아서 산책을 가려던 중이었다.",
+          "date": "2022-11-19",
+          "time": "15:59:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "그렇군요. 집 근처에 공원이 있나요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "16:00:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "네~ 집 근처에 근린 공원이 있어요! 기분이 별로면 산책은 어때요? 좋은 공기 마시면 기분도 나아질 거예요~",
+          "summary": "나의 집 근처에는 근린공원이 있다.",
+          "date": "2022-11-19",
+          "time": "16:00:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "저는 기분 나쁠 땐 아무것도 하기 싫어져요. 산책은 혼자 하세요?",
+          "summary": "나는 기분이 나쁠 땐 아무것도 하기 싫어진다.",
+          "date": "2022-11-19",
+          "time": "16:01:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "산책은 저 때 말 한 친구랑 하기로 했어요~ 그 친구가 저랑 같은 동네에 살고 있거든요^^",
+          "summary": "나는 산책은 같은 동네에 살고 있는 친구랑 같이 하기로 했다.",
+          "date": "2022-11-19",
+          "time": "16:02:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "와 너무 부럽네요. 저도 동네 친구 갖고 싶어요. 전 낮잠 좀 자러 가볼게요!",
+          "summary": "나는 동네 친구를 갖고 싶다.",
+          "date": "2022-11-19",
+          "time": "16:03:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "네~ 낮잠 주무시고 기분 푸세요~^^ 다음에 또 연락줘요~",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "16:04:02",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 기분이 별로여서 오랜만에 연락했다.",
+          "나는 남자 친구와 데이트를 하다가 싸웠다.",
+          "나의 남자 친구는 나와 스케이트를 타기로 한 날 잠들어서 데이트를 못 나왔다. 나는 약속 안 지키는 사람이 너무 싫다. 나는 남자 친구에게 실망이 크다.",
+          "나는 불쾌해서 남자 친구 연락을 안 받고 있다.",
+          "나는 기분이 나쁠 땐 아무것도 하기 싫어진다.",
+          "나는 동네 친구를 갖고 싶다."
+        ],
+        "speaker2": [
+          "나는 상대방이 아무리 피곤해도 자느라 데이트를 못 나오면 너무 화가 날 것 같다.",
+          "나는 날씨가 좋아서 산책을 가려던 중이었다.",
+          "나의 집 근처에는 근린공원이 있다.",
+          "나는 산책은 같은 동네에 살고 있는 친구랑 같이 하기로 했다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다.",
+          "나는 등산을 가끔 한다. 나는 부모님과 등산을 다녀왔다.",
+          "나는 외동이라 부모님이 해달라는 건 맞춰서 해드리는 편이다. 나는 전자 음악을 자주 듣는다.",
+          "나는 몽골에 언젠가 가보고 싶지만 엄두가 안 난다. 나의 생일은 11월이다.",
+          "나는 대학생이다.",
+          "나는 유아교육과를 전공하고 있다.",
+          "나는 @이름1@만 보면 행복하다. 나는 전화를 받으러 갈 것이다.",
+          "나는 그동안 조금 바빴다.",
+          "나는 그동안 학교 과제가 많았다. 나는 이제 조금 여유가 생겨서 밀린 데이트를 할 것이다.",
+          "나는 남자 친구가 있다.",
+          "나는 오늘 남자 친구와 스케이트를 타러 간다.",
+          "나는 이번 주말에 남자 친구와 데이트를 할 예정이라 등산하러 못 갈 것 같다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나는 TV 드라마를 자주 본다. 나는 드라마를 보던 중이다.",
+          "나는 여행 가는 것이 취미이다. 나는 몽골에 가봤다.",
+          "나는 몽골이 아시아의 알프스라고 해서 다녀왔다.",
+          "나는 아직은 회사에 다니고 있다. 나는 요즘 일 할 때 말곤 생각하는 게 귀찮다.",
+          "나는 무역 일을 하고 있다.",
+          "나는 데이트를 하는 사람이 너무 부럽다.",
+          "나는 비혼 주의자라 결혼을 안 했다. 나는 데이트를 했던 게 언젠지 까마득하다.",
+          "나는 마지막으로 데이트를 한 지 10년도 더 됐다.",
+          "나는 몽골 여행은 친구랑 같이 갔었다. 나는 혈액형이 O형이다. 나는 친구 중에 혈액형이 O형인 친구가 있어서 잘 맞는 친구가 있다.",
+          "나는 스케이트 데이트가 너무 낭만적이라고 생각한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00014-3",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "시간"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00014-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "안녕하세요. 낮잠 잤더니 3시간이나 지났네요. 아직 산책 중이세요?",
+          "summary": "나는 낮잠을 잤더니 3시간이나 지나 있었다.",
+          "date": "2022-11-19",
+          "time": "16:04:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "안녕하세요~ 이제 집에 들어와서 저녁 먹을 준비 하려구요~ 기분은 좀 풀렸어요?",
+          "summary": "나는 이제 집에 들어와서 저녁 먹을 준비를 하려던 중이다.",
+          "date": "2022-11-19",
+          "time": "16:05:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "네. 역시 잠을 자고 나니 기분이 괜찮아지네요. 저녁은 뭐 드시려고요?",
+          "summary": "나는 잠을 자고 나니 기분이 괜찮아졌다.",
+          "date": "2022-11-19",
+          "time": "16:06:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "맞아요~ 저도 스트레스 받을 때 푹 자면 기분 풀리더라구요~ 저녁은 순두부 찌개 먹으려구요^^ 저녁 메뉴 여쭤봐도 되요?",
+          "summary": "나는 스트레스받을 때 푹 자면 기분이 풀린다. 나는 저녁으로 순두부찌개를 먹을 생각이다.",
+          "date": "2022-11-19",
+          "time": "16:06:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "저는 부모님 와 봐야 알아요. 제가 외동이라 응석이 많은 거 같네요 하하.",
+          "summary": "나는 부모님이 집에 오셔야 저녁 메뉴를 알 수 있다. 나는 외동이라 응석이 많은 것 같다.",
+          "date": "2022-11-19",
+          "time": "16:07:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "아직 어려서 그래요~^^ 전에 전자 음악 자주 듣는다고 했었죠? 혹시 추천 음악 있을까요?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "16:07:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "저는 @이름@ 노래 많이 들어요. 프랑스 가수인데 아시나요?",
+          "summary": "나는 전자 음악을 들을 때 프랑스 가수 @이름@의 노래를 자주 듣는다.",
+          "date": "2022-11-19",
+          "time": "16:08:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "처음 들어보는 가수인데 한 번 찾아볼게요~! 저도 요즘 전자 음악에 관심이 좀 생겨서요~",
+          "summary": "나는 요즘 전자 음악에 관심이 좀 생겼다.",
+          "date": "2022-11-19",
+          "time": "16:09:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "굉장히 생각이 유연하신 분 같아요. 남의 고민도 잘 들어주시고요. 주위에 친구 많으시죠?",
+          "summary": "",
+          "date": "2022-11-19",
+          "time": "16:10:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "그렇게 말씀해 주셔서 기쁘네요~ 저는 친구 수가 많진 않지만 친구를 사귀면 깊게 사귀는 편이에요~",
+          "summary": "나는 친구 수가 많진 않지만 친구를 사귀면 깊게 사귀는 편이다.",
+          "date": "2022-11-19",
+          "time": "16:11:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "저는 두루두루 잘 지내는 편인데 엄청 친한 친구는 없어요. 가끔 친구들끼리 데이트 한다는 애들 보면 부러워요.",
+          "summary": "나는 두루두루 잘 지내는 편이지만 엄청 친한 친구는 없다. 나는 가끔 친구들끼리 데이트를 한다는 애들을 보면 부럽다.",
+          "date": "2022-11-19",
+          "time": "16:12:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "친구는 언제든 사귈 수 있어요~ 저도 지금 제일 친한 친구는 직장에서 만났답니다~",
+          "summary": "나는 친구는 언제든 사귈 수 있다고 생각한다.",
+          "date": "2022-11-19",
+          "time": "16:12:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "67236",
+          "participantID": "20078",
+          "utterance": "저도 좀 더 열린 자세로 살아야겠네요. 전 부모님 오셔서 저녁 먹으러 가볼게요! 식사 맛있게 하세요!",
+          "summary": "나는 좀 더 열린 자세로 살 것이다. 나는 부모님이 오셔서 저녁을 먹으러 갈 것이다.",
+          "date": "2022-11-19",
+          "time": "16:14:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95201",
+          "participantID": "21179",
+          "utterance": "네~ 저녁 맛있게 드세요^^ 저도 이제 순두부 찌개 끓이러 가야겠어요~~",
+          "summary": "나는 이제 순두부찌개를 끓이러 갈 것이다.",
+          "date": "2022-11-19",
+          "time": "16:14:55",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 낮잠을 잤더니 3시간이나 지나 있었다.",
+          "나는 잠을 자고 나니 기분이 괜찮아졌다.",
+          "나는 부모님이 집에 오셔야 저녁 메뉴를 알 수 있다. 나는 외동이라 응석이 많은 것 같다.",
+          "나는 전자 음악을 들을 때 프랑스 가수 @이름@의 노래를 자주 듣는다.",
+          "나는 두루두루 잘 지내는 편이지만 엄청 친한 친구는 없다. 나는 가끔 친구들끼리 데이트를 한다는 애들을 보면 부럽다.",
+          "나는 좀 더 열린 자세로 살 것이다. 나는 부모님이 오셔서 저녁을 먹으러 갈 것이다."
+        ],
+        "speaker2": [
+          "나는 이제 집에 들어와서 저녁 먹을 준비를 하려던 중이다.",
+          "나는 스트레스받을 때 푹 자면 기분이 풀린다. 나는 저녁으로 순두부찌개를 먹을 생각이다.",
+          "나는 요즘 전자 음악에 관심이 좀 생겼다.",
+          "나는 친구 수가 많진 않지만 친구를 사귀면 깊게 사귀는 편이다.",
+          "나는 친구는 언제든 사귈 수 있다고 생각한다.",
+          "나는 이제 순두부찌개를 끓이러 갈 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다.",
+          "나는 등산을 가끔 한다. 나는 부모님과 등산을 다녀왔다.",
+          "나는 외동이라 부모님이 해달라는 건 맞춰서 해드리는 편이다. 나는 전자 음악을 자주 듣는다.",
+          "나는 몽골에 언젠가 가보고 싶지만 엄두가 안 난다. 나의 생일은 11월이다.",
+          "나는 대학생이다.",
+          "나는 유아교육과를 전공하고 있다.",
+          "나는 @이름1@만 보면 행복하다. 나는 전화를 받으러 갈 것이다.",
+          "나는 그동안 조금 바빴다.",
+          "나는 그동안 학교 과제가 많았다. 나는 이제 조금 여유가 생겨서 밀린 데이트를 할 것이다.",
+          "나는 남자 친구가 있다.",
+          "나는 오늘 남자 친구와 스케이트를 타러 간다.",
+          "나는 이번 주말에 남자 친구와 데이트를 할 예정이라 등산하러 못 갈 것 같다.",
+          "나는 기분이 별로여서 오랜만에 연락했다.",
+          "나는 남자 친구와 데이트를 하다가 싸웠다.",
+          "나의 남자 친구는 나와 스케이트를 타기로 한 날 잠들어서 데이트를 못 나왔다. 나는 약속 안 지키는 사람이 너무 싫다. 나는 남자 친구에게 실망이 크다.",
+          "나는 불쾌해서 남자 친구 연락을 안 받고 있다.",
+          "나는 기분이 나쁠 땐 아무것도 하기 싫어진다.",
+          "나는 동네 친구를 갖고 싶다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나는 TV 드라마를 자주 본다. 나는 드라마를 보던 중이다.",
+          "나는 여행 가는 것이 취미이다. 나는 몽골에 가봤다.",
+          "나는 몽골이 아시아의 알프스라고 해서 다녀왔다.",
+          "나는 아직은 회사에 다니고 있다. 나는 요즘 일 할 때 말곤 생각하는 게 귀찮다.",
+          "나는 무역 일을 하고 있다.",
+          "나는 데이트를 하는 사람이 너무 부럽다.",
+          "나는 비혼 주의자라 결혼을 안 했다. 나는 데이트를 했던 게 언젠지 까마득하다.",
+          "나는 마지막으로 데이트를 한 지 10년도 더 됐다.",
+          "나는 몽골 여행은 친구랑 같이 갔었다. 나는 혈액형이 O형이다. 나는 친구 중에 혈액형이 O형인 친구가 있어서 잘 맞는 친구가 있다.",
+          "나는 스케이트 데이트가 너무 낭만적이라고 생각한다.",
+          "나는 상대방이 아무리 피곤해도 자느라 데이트를 못 나오면 너무 화가 날 것 같다.",
+          "나는 날씨가 좋아서 산책을 가려던 중이었다.",
+          "나의 집 근처에는 근린공원이 있다.",
+          "나는 산책은 같은 동네에 살고 있는 친구랑 같이 하기로 했다."
+        ]
+      }
+    }
+  ]
+}

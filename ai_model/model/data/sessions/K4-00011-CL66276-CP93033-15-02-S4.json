@@ -1,0 +1,786 @@
+{
+  "FileInfo": {
+    "filename": "K4-00011-CL66276-CP93033-15-02-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "30519",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "31031",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "사무직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00011"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "66276",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 봄을 좋아한다.",
+        "나의 생일은 2월이다.",
+        "나는 비올라 연주를 배우고 있다.",
+        "나는 단감을 즐겨 먹는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "93033",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나의 생일은 6월이다.",
+        "나는 스위스에 가봤다.",
+        "나는 자기계발서를 가끔 읽는다.",
+        "나는 비빔밥을 즐겨 먹는다.",
+        "나는 혈액형이 B형이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "15-02",
+    "topicType": "시사/사회>타국가이슈(해외)",
+    "topicTitle": "재해 및 재난"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00011-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "안녕하세요 저는 20대 남자입니다.",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-11-21",
+          "time": "12:47:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "안녕하세요. 저는 40대 여자에요.",
+          "summary": "나는 40대 여자이다.",
+          "date": "2022-11-21",
+          "time": "12:47:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "반가워요! 직업이 어떻게 되시나요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:47:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "저는 최근 직장에 취직해서 요즘 자기계발서를 가끔 읽어요.",
+          "summary": "나는 직장에 최근 취직했다. 나는 자기 계발서를 가끔 읽는다.",
+          "date": "2022-11-21",
+          "time": "12:47:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "그렇군요. 저는 대학생이에요! 저는 생일이 2월이라 봄을 좋아합니다. 어떤 계절을 좋아하세요?",
+          "summary": "나는 대학생이다. 나는 봄을 좋아한다. 나의 생일은 2월이다.",
+          "date": "2022-11-21",
+          "time": "12:47:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "제 생일은 6월인데 여름보다는 저는 가을이 좋은 것 같아요.",
+          "summary": "나의 생일은 6월이다. 나는 가을을 좋아한다.",
+          "date": "2022-11-21",
+          "time": "12:48:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "그러시군요! 그럼 혹시 취미가 있으신가요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:48:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "저는 보통 여행을 좋아하는 것 같아요. 최근에는 스위스에 다녀왔어요. 취미가 어떻게 되세요?",
+          "summary": "나는 여행을 즐긴다. 나는 스위스에 가봤다.",
+          "date": "2022-11-21",
+          "time": "12:48:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "저는 요즘 비올라 연주를 배우고 있어요! 혹시 음악 좋아하세요?",
+          "summary": "나는 비올라 연주를 배우고 있다.",
+          "date": "2022-11-21",
+          "time": "12:49:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "저는 혈액형이 B형이라서 그런지 힙합? 그쪽이 끌리는 것 같아요. 클래식 좋아하시는 거에요?",
+          "summary": "나는 혈액형이 B형이다. 나는 힙합 음악을 좋아한다.",
+          "date": "2022-11-21",
+          "time": "12:49:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "네! 저는 클래식을 좋아해서요 ㅎㅎ 시끄러운 음악은 싫어합니다.",
+          "summary": "나는 클래식 음악을 좋아한다. 나는 시끄러운 음악을 싫어한다.",
+          "date": "2022-11-21",
+          "time": "12:49:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "하하 저랑은 취향이 반대인가봐요!",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:50:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "그러게요! 저는 이제 수업 가야해서 다음에 또 연락드릴게요!",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:50:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "네 그러면 수업 잘들으시고 다음에 봐요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:50:27",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 대학생이다. 나는 봄을 좋아한다. 나의 생일은 2월이다.",
+          "나는 비올라 연주를 배우고 있다.",
+          "나는 클래식 음악을 좋아한다. 나는 시끄러운 음악을 싫어한다."
+        ],
+        "speaker2": [
+          "나는 40대 여자이다.",
+          "나는 직장에 최근 취직했다. 나는 자기 계발서를 가끔 읽는다.",
+          "나의 생일은 6월이다. 나는 가을을 좋아한다.",
+          "나는 여행을 즐긴다. 나는 스위스에 가봤다.",
+          "나는 혈액형이 B형이다. 나는 힙합 음악을 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00011-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00011-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "벌써 2일이 지났네요! 오늘도 자기계발서를 읽고 계신가요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:50:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "매일 읽으려고하는데, 사실 좀 실천하기가 어렵네요. 뭐하고 계세요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:50:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "그렇군요. 저는 지금 뉴스를 보고 있는데 난리네요 난리.",
+          "summary": "나는 뉴스를 본다.",
+          "date": "2022-11-21",
+          "time": "12:51:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "아 저도 봤어요. 일본에서 지진이 크게 났다고 하던데...",
+          "summary": "나는 최근 지진 관련 뉴스를 보았다.",
+          "date": "2022-11-21",
+          "time": "12:51:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "맞아요! 엄청 크게나서 재난선포를 했다고 하던데요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:51:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "사람도 많이 죽은 것 같던데, 일본 매년 재해가 끊이지 않네요...",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:52:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "지진이 이렇게 무서운지 오늘 알았어요... 근데 우리나라도 지진 위험성이 높다네요?",
+          "summary": "나는 지진이 무섭다.",
+          "date": "2022-11-21",
+          "time": "12:52:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "저도 어릴때 지진났을때 그냥 재밌었는데 세기가 세니까 무서워 보이더라구요.",
+          "summary": "나는 어릴 때 지진을 겪어봤다.",
+          "date": "2022-11-21",
+          "time": "12:52:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "맞아요. 그나저나 지진 때문에 쓰나미 경고도 선포 되었다고 하던데요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:53:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "아 그래요? 업친데 덮친격이네요. 많이 힘들겠어요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:53:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "그러게요... 근데 지진이 발생하면 원래 쓰나미가 오는건가요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:53:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "아무래도 주변 바다쪽도 흔들리니까 그러지 않을까 싶어요..",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:54:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "그렇군요... 저는 이제 과제를 해야 해서 다음에 또 연락드릴게요!",
+          "summary": "나는 과제를 해야 한다.",
+          "date": "2022-11-21",
+          "time": "12:54:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "네 그러면 다음에 또 연락하시죠~~",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:54:21",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 뉴스를 본다.",
+          "나는 지진이 무섭다.",
+          "나는 과제를 해야 한다."
+        ],
+        "speaker2": [
+          "나는 최근 지진 관련 뉴스를 보았다.",
+          "나는 어릴 때 지진을 겪어봤다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 대학생이다. 나는 봄을 좋아한다. 나의 생일은 2월이다.",
+          "나는 비올라 연주를 배우고 있다.",
+          "나는 클래식 음악을 좋아한다. 나는 시끄러운 음악을 싫어한다."
+        ],
+        "speaker2": [
+          "나는 40대 여자이다.",
+          "나는 직장에 최근 취직했다. 나는 자기 계발서를 가끔 읽는다.",
+          "나의 생일은 6월이다. 나는 가을을 좋아한다.",
+          "나는 여행을 즐긴다. 나는 스위스에 가봤다.",
+          "나는 혈액형이 B형이다. 나는 힙합 음악을 좋아한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00011-2",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00011-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "3일이 지났네요! 어떻게 지내고 계신가요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:54:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "네 요즘 TV에서 힙합프로그램을 해서 그거를 보고 있어요.",
+          "summary": "나는 힙합 프로그램을 본다.",
+          "date": "2022-11-21",
+          "time": "12:54:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "오! 40대이신데 엄청 신세대이신것 같아요!",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:54:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "하하 힙합한다고 신세대라기보다는 그냥 보면 마음이 시원해요!",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:55:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "그러시군요! 힙합은 언제부터 좋아하셨나요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:55:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "고등학교때 랩이라는걸 처음으로 들었는데 되게 멋있어 보였어요.",
+          "summary": "나는 고등학교 때 처음 랩을 들었다.",
+          "date": "2022-11-21",
+          "time": "12:55:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "그러시군요! 뭔가 시적인걸 좋아하시는 분 같네요!",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:55:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "맞아요. 가사를 쓰는게 다들 멋있어서 끌린것 같아요. 랩도 시끄러우세요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:56:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "저는 랩을 잘 못알아들어요 ㅎㅎ 그럼 직접 가사도 써보고 하셨나요?",
+          "summary": "나는 랩을 잘 못 알아듣는다.",
+          "date": "2022-11-21",
+          "time": "12:56:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "가사를 머리속으로만 생각해본적은 있어요.. 그냥 노래방가서 열심히 부르는 정도?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:56:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "그렇군요! 저는 클래식을 좋아해서 악기 다루는게 좋네요!",
+          "summary": "나는 악기 다루는 게 좋다.",
+          "date": "2022-11-21",
+          "time": "12:56:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "저번에 비올라 좋아하신다고 했는데, 다음에 그 얘기도 들려주세요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:57:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "네 그럼 다음에 제가 또 연락드릴게요!",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:57:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "네 그러면 우리 다음에 또 얘기해요~",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:57:27",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 랩을 잘 못 알아듣는다.",
+          "나는 악기 다루는 게 좋다."
+        ],
+        "speaker2": [
+          "나는 힙합 프로그램을 본다.",
+          "나는 고등학교 때 처음 랩을 들었다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 대학생이다. 나는 봄을 좋아한다. 나의 생일은 2월이다.",
+          "나는 비올라 연주를 배우고 있다.",
+          "나는 클래식 음악을 좋아한다. 나는 시끄러운 음악을 싫어한다.",
+          "나는 뉴스를 본다.",
+          "나는 지진이 무섭다.",
+          "나는 과제를 해야 한다."
+        ],
+        "speaker2": [
+          "나는 40대 여자이다.",
+          "나는 직장에 최근 취직했다. 나는 자기 계발서를 가끔 읽는다.",
+          "나의 생일은 6월이다. 나는 가을을 좋아한다.",
+          "나는 여행을 즐긴다. 나는 스위스에 가봤다.",
+          "나는 혈액형이 B형이다. 나는 힙합 음악을 좋아한다.",
+          "나는 최근 지진 관련 뉴스를 보았다.",
+          "나는 어릴 때 지진을 겪어봤다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00011-3",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "주"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00011-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "일주일만이네요! 잘지내고 계신가요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:57:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "전 잘 지내죠~ 별일 없으셨죠??",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:57:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "네 저는 비올라 연주를 요즘 열심히 배우고 있네요!",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:57:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "오~ 비올라가 궁금한데, 유명하지않은 악기인데 어떻게 좋아하게 되었어요?",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:58:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "저는 비올라 선율이 너무 마음에 들더라구요! 그래서 바로 찾아봤죠!",
+          "summary": "나는 비올라 선율이 좋다.",
+          "date": "2022-11-21",
+          "time": "12:58:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "아! 평소에 클래식을 들으시니까 그런게 또 들리시나보네요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:58:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "네 맞아요! 뭔가 감동적인 선율이였던것 같아요!",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:58:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "저랑은 다르게 뭔가 마음이 평화로우신 분인거 같네요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:59:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "하하하 그냥 클래식을 들으면 마음이 편안해지더라구요!",
+          "summary": "나는 클래식을 들으면 마음이 편해진다.",
+          "date": "2022-11-21",
+          "time": "12:59:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "저는 몇번들어봤는데, 약간 지루하고 졸리기도 했었는데...",
+          "summary": "나는 클래식을 들어본 적이 있다.",
+          "date": "2022-11-21",
+          "time": "12:59:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "대부분 다 그렇다고 하더라구요 ㅎㅎ 사람마다 취향이 다 다르죠!",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "12:59:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "그렇죠! 본인이 좋아하는 장르를 찾고 즐기면 되는 것 같아요~",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "13:00:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "66276",
+          "participantID": "30519",
+          "utterance": "네 저는 그럼 비올라 연주 하러 가볼게요!",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "13:00:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "93033",
+          "participantID": "31031",
+          "utterance": "그래요. 열심히 하셔서 좋은 연주하시길 바래요.",
+          "summary": "",
+          "date": "2022-11-21",
+          "time": "13:00:58",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 비올라 선율이 좋다.",
+          "나는 클래식을 들으면 마음이 편해진다."
+        ],
+        "speaker2": [
+          "나는 클래식을 들어본 적이 있다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 대학생이다. 나는 봄을 좋아한다. 나의 생일은 2월이다.",
+          "나는 비올라 연주를 배우고 있다.",
+          "나는 클래식 음악을 좋아한다. 나는 시끄러운 음악을 싫어한다.",
+          "나는 뉴스를 본다.",
+          "나는 지진이 무섭다.",
+          "나는 과제를 해야 한다.",
+          "나는 랩을 잘 못 알아듣는다.",
+          "나는 악기 다루는 게 좋다."
+        ],
+        "speaker2": [
+          "나는 40대 여자이다.",
+          "나는 직장에 최근 취직했다. 나는 자기 계발서를 가끔 읽는다.",
+          "나의 생일은 6월이다. 나는 가을을 좋아한다.",
+          "나는 여행을 즐긴다. 나는 스위스에 가봤다.",
+          "나는 혈액형이 B형이다. 나는 힙합 음악을 좋아한다.",
+          "나는 최근 지진 관련 뉴스를 보았다.",
+          "나는 어릴 때 지진을 겪어봤다.",
+          "나는 힙합 프로그램을 본다.",
+          "나는 고등학교 때 처음 랩을 들었다."
+        ]
+      }
+    }
+  ]
+}

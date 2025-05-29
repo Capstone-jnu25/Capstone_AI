@@ -1,0 +1,424 @@
+{
+  "FileInfo": {
+    "filename": "K2-00090-CL50380-CP31194-12-14-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "1385",
+      "gender": "남성",
+      "age": "40대",
+      "occupation": "사무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "3438",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00090"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "50380",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 50대이다.",
+        "나는 다소 고집이 세다",
+        "나의 가족은 1명이다",
+        "나는 단 음식을 좋아한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "31194",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 농구 선수이다",
+        "나는 매우 사교적이다",
+        "나는 와인을 싫어한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "12-14",
+    "topicType": "여가와 오락>여행",
+    "topicTitle": "수련회"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00090-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "50380",
+          "participantID": "1385",
+          "utterance": "안녕하세요. 저는 50대의 남성입니다. 만나서 반갑습니다.",
+          "summary": "나는 50대 남성이다",
+          "date": "2022-11-02",
+          "time": "19:20:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31194",
+          "participantID": "3438",
+          "utterance": "안녕하세요 저는 30대 남성입니다.",
+          "summary": "나는 30대 남성이다",
+          "date": "2022-11-02",
+          "time": "20:10:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50380",
+          "participantID": "1385",
+          "utterance": "반갑습니다. 저는 다소 고집이 센 성격이에요. 님은 어떠신 편이세요?",
+          "summary": "나는 다소 고집이 센 편이다",
+          "date": "2022-11-02",
+          "time": "20:36:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31194",
+          "participantID": "3438",
+          "utterance": "저도 고집이 있어요 저는 농구선수로 활동하고있어요",
+          "summary": "나는 고집이 있다. 나는 농구선수로 활동하고 있다",
+          "date": "2022-11-02",
+          "time": "23:16:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50380",
+          "participantID": "1385",
+          "utterance": "부럽네요. 저도 농구선수가 꿈이였는데요. 저의 가족은 저 혼자에요. 혹시 가족 구성원이 어떻게 되세요?",
+          "summary": "나는 농구선수가 꿈이었고 지금은 혼자 산다",
+          "date": "2022-11-02",
+          "time": "23:27:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31194",
+          "participantID": "3438",
+          "utterance": "저도 지금은 혼자살고있어요. 저는 매우 사교적인편이에요",
+          "summary": "나는 지금은 혼자 살고 있고, 매우 사교적인 편이다",
+          "date": "2022-11-03",
+          "time": "08:40:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50380",
+          "participantID": "1385",
+          "utterance": "그러시구나. 전 단 음식을 좋아하는데 님은 어떤 음식 좋아하세요?",
+          "summary": "나는 단 음식을 좋아한다",
+          "date": "2022-11-03",
+          "time": "15:23:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31194",
+          "participantID": "3438",
+          "utterance": "저는 가끔 술을마셔요. 그중에서는 와인은 싫어해요",
+          "summary": "나는 가끔 술을 마시고, 그중에서 와인은 싫어한다",
+          "date": "2022-11-03",
+          "time": "15:29:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50380",
+          "participantID": "1385",
+          "utterance": "저도 와인 도수가 높은 편이라 맥주를 주로 마셔요. 혹시 어떤 주류 좋아하세요?",
+          "summary": "나는 맥주를 주 로마 신다",
+          "date": "2022-11-03",
+          "time": "15:36:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31194",
+          "participantID": "3438",
+          "utterance": "저도 맥주를 좋아해요 @브랜드@같은 향들어가있는 맥주요",
+          "summary": "나는 맥주를 좋아하고, @브랜드@같은 향이 들어있는 것을 좋아한다",
+          "date": "2022-11-03",
+          "time": "16:04:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50380",
+          "participantID": "1385",
+          "utterance": "아 좋지요. 저도@브랜드@맥주 좋아해요. 미국에 다녀왔는데 정말 싸고 종류가 다양하더라고요. 사교적이시면 자주 모임에 나가시나요?",
+          "summary": "나는 @브랜드@맥주를 좋아한다",
+          "date": "2022-11-03",
+          "time": "17:39:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31194",
+          "participantID": "3438",
+          "utterance": "그런편이에요 근데 술을 잘하진 못해서 많이먹진 않아요",
+          "summary": "나는 술을 잘하진 못해서 많이 먹진 않는다",
+          "date": "2022-11-03",
+          "time": "19:05:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50380",
+          "participantID": "1385",
+          "utterance": "저도 사교모임은 좋아하는데 술은 잘 못해요. 저는 이만 자야할 것 같네요. 대화 즐거웠어요.",
+          "summary": "나는 사교모임은 좋아하는데 술은 잘 못한다",
+          "date": "2022-11-04",
+          "time": "00:36:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31194",
+          "participantID": "3438",
+          "utterance": "대화 즐거웠어요 다음에 다시 대화해요",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "09:22:36",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 50대 남성이다",
+          "나는 다소 고집이 센 편이다",
+          "나는 농구선수가 꿈이었고 지금은 혼자 산다",
+          "나는 단 음식을 좋아한다",
+          "나는 맥주를 주 로마 신다",
+          "나는 @브랜드@맥주를 좋아한다",
+          "나는 사교모임은 좋아하는데 술은 잘 못한다"
+        ],
+        "speaker2": [
+          "나는 30대 남성이다",
+          "나는 고집이 있다. 나는 농구선수로 활동하고 있다",
+          "나는 지금은 혼자 살고 있고, 매우 사교적인 편이다",
+          "나는 가끔 술을 마시고, 그중에서 와인은 싫어한다",
+          "나는 맥주를 좋아하고, @브랜드@같은 향이 들어있는 것을 좋아한다",
+          "나는 술을 잘하진 못해서 많이 먹진 않는다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00090-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00090-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "50380",
+          "participantID": "1385",
+          "utterance": "벌써 3일이 지났네요. 저는 2주후에 경주로 회사 수련회를 떠납니다. 농구선수로 활동하시는데 수련회 계획이 있으세요?",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "11:55:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31194",
+          "participantID": "3438",
+          "utterance": "제회사에서는 아직까지는 없네요 ",
+          "summary": "",
+          "date": "2022-11-04",
+          "time": "12:14:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50380",
+          "participantID": "1385",
+          "utterance": "예전에 가신 수련회나 워크샾중에 기억나는 거 있으세요?",
+          "summary": "",
+          "date": "2022-11-05",
+          "time": "00:11:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31194",
+          "participantID": "3438",
+          "utterance": "고등학생때 갔던 수학여행이 재미있었죠~ 제주도로 갔었어요",
+          "summary": "나는 고등학생 때 제주도로 갔던 수학여행이 재미있었다",
+          "date": "2022-11-05",
+          "time": "14:37:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50380",
+          "participantID": "1385",
+          "utterance": "제주도 부러운데요. 저때는 고등학교때 수안보 아니면 경주였던 기억이 납니다.",
+          "summary": "나는 고등학교 때 수안보와 경주가 기억난다",
+          "date": "2022-11-05",
+          "time": "14:38:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31194",
+          "participantID": "3438",
+          "utterance": "경주도 학교 필수코스중 하나였죠 매번 갈때마다 지겨웠어요",
+          "summary": "나는 학교 수학여행 필수코스가 경주였다",
+          "date": "2022-11-05",
+          "time": "14:41:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50380",
+          "participantID": "1385",
+          "utterance": "네 어릴때는 참 넓어 보였는데, 최근에 가보니 아주 좁게 느껴지더라고요. 친구들과 즐거웠던 기억이 나는군요.",
+          "summary": "나는 수련회 때 친구들과 즐거웠던 기억이 난다",
+          "date": "2022-11-05",
+          "time": "14:43:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31194",
+          "participantID": "3438",
+          "utterance": "맞아요 경주에도 나중에 놀러가봤는데 생각보다 작았어요",
+          "summary": "나는 경주에 나중에 놀러 갔었는데 생각보다 작았다",
+          "date": "2022-11-05",
+          "time": "22:04:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50380",
+          "participantID": "1385",
+          "utterance": "수련회 하면 뭐니뭐니해도 레크레이션이 즐거웠던 것 같네요,",
+          "summary": "나는 수련회 때 레크리에이션이 즐거웠다",
+          "date": "2022-11-05",
+          "time": "22:05:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31194",
+          "participantID": "3438",
+          "utterance": "그렇죠!! 레크레이션강사마다 스타일이 달랐지만 항상 재밌긴했어요",
+          "summary": "",
+          "date": "2022-11-05",
+          "time": "22:07:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50380",
+          "participantID": "1385",
+          "utterance": "우리 때는 굉장히 촌스러운 음악에 맞춰 율동일 많이 했어요. 아직도 기억이 난답니다.",
+          "summary": "",
+          "date": "2022-11-05",
+          "time": "22:07:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31194",
+          "participantID": "3438",
+          "utterance": "포크댄스라고 했었던것같네요 그것도 재미있었죠 처음엔 쑥스러워하지만요",
+          "summary": "나는 수학여행 때 포크댄스를 했다",
+          "date": "2022-11-06",
+          "time": "17:39:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50380",
+          "participantID": "1385",
+          "utterance": "맞아요. 이만 커피한잔 하러가야겠네요.",
+          "summary": "",
+          "date": "2022-11-06",
+          "time": "21:19:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31194",
+          "participantID": "3438",
+          "utterance": "네 대화즐거웠어요 다음에 대화해요",
+          "summary": "",
+          "date": "2022-11-07",
+          "time": "08:46:46",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 고등학교 때 수안보와 경주가 기억난다",
+          "나는 수련회 때 친구들과 즐거웠던 기억이 난다",
+          "나는 수련회 때 레크리에이션이 즐거웠다"
+        ],
+        "speaker2": [
+          "나는 고등학생 때 제주도로 갔던 수학여행이 재미있었다",
+          "나는 학교 수학여행 필수코스가 경주였다",
+          "나는 경주에 나중에 놀러 갔었는데 생각보다 작았다",
+          "나는 수학여행 때 포크댄스를 했다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 남성이다",
+          "나는 다소 고집이 센 편이다",
+          "나는 농구선수가 꿈이었고 지금은 혼자 산다",
+          "나는 단 음식을 좋아한다",
+          "나는 맥주를 주 로마 신다",
+          "나는 @브랜드@맥주를 좋아한다",
+          "나는 사교모임은 좋아하는데 술은 잘 못한다"
+        ],
+        "speaker2": [
+          "나는 30대 남성이다",
+          "나는 고집이 있다. 나는 농구선수로 활동하고 있다",
+          "나는 지금은 혼자 살고 있고, 매우 사교적인 편이다",
+          "나는 가끔 술을 마시고, 그중에서 와인은 싫어한다",
+          "나는 맥주를 좋아하고, @브랜드@같은 향이 들어있는 것을 좋아한다",
+          "나는 술을 잘하진 못해서 많이 먹진 않는다"
+        ]
+      }
+    }
+  ]
+}

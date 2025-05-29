@@ -1,0 +1,740 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-004380-AP600023-WZ000005-02_03_02-S2.json",
+        "sessionLevel": "2"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0012",
+            "gender": "여성",
+            "age": "20대",
+            "occupation": "사무직",
+            "bPlace": "대전/세종/충청/강원",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "응용통계학"
+        },
+        "speaker2": {
+            "participantID": "F0012",
+            "gender": "여성",
+            "age": "20대",
+            "occupation": "사무직",
+            "bPlace": "부산/대구/울산/경상",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "응용통계학"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "004380"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600023",
+            "personaFeatures": [
+                "나는 관광/감상의 지명에 대한 지식을 쌓고 있다.",
+                "나는 자전거를 좋아한다",
+                "나는 체험 여행을 좋아한다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000005",
+            "personaFeatures": [
+                "나는 지명에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_02",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "장소"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004380-1",
+            "sessionKeywords": [
+                "*알비냐노*,*알비냐노*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600023",
+                    "participantID": "E0012",
+                    "utterance": "안녕! 관광 지명에 대해 지식을 쌓던 중에 궁금한 점이 생겨서 물어보러 왔어!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 관광 지명에 대한 지식을 쌓고 있다.",
+                    "timestamp": 1695712898000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "그럼요! 저는 지명에 대해 잘 알고 있으니 무엇이든 편하게 물어보세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695712925000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600023",
+                    "participantID": "E0012",
+                    "utterance": "내가 이탈리아에 대한 TV 프로그램을 보던 중에 알비냐노에 대해서 더 자세히 알고 싶어졌어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695712989000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "알비냐노에 대해 궁금하신군요. 알비냐노는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있습니다.",
+                    "context": {
+                        "query": "알비냐노",
+                        "contents": [
+                            {
+                                "documentID": "920356",
+                                "documentTitle": "알비냐노",
+                                "content": [
+                                    "알비냐노()는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있다.",
+                                    "이곳의 주요 볼거리는 산타 마리아 디 쿠불테리아(Santa Maria di Cubulteria)의 바실리카, 롬바르드 건축물(8-9세기)과 아라고네세 성(Aragonese Castle)이다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false
+                        ]
+                    ],
+                    "summary": "알비냐노는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있다.",
+                    "timestamp": 1695713061000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600023",
+                    "participantID": "E0012",
+                    "utterance": "오 그렇구나. 혹시 주요 볼거리에 대해서도 추가적으로 알려줄 수 있어?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695713099000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "그럼요. 당연하죠. 알비냐노의 주요 볼거리는 산타 마리아 디 쿠불테리아(Santa Maria di Cubulteria)의 바실리카, 롬바르드 건축물(8-9세기)과 아라고네세 성(Aragonese Castle)이 있어요.",
+                    "context": {
+                        "query": "알비냐노",
+                        "contents": [
+                            {
+                                "documentID": "920356",
+                                "documentTitle": "알비냐노",
+                                "content": [
+                                    "알비냐노()는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있다.",
+                                    "이곳의 주요 볼거리는 산타 마리아 디 쿠불테리아(Santa Maria di Cubulteria)의 바실리카, 롬바르드 건축물(8-9세기)과 아라고네세 성(Aragonese Castle)이다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            true
+                        ]
+                    ],
+                    "summary": "알비냐노의 주요 볼거리는 산타 마리아 디 쿠불테리아(Santa Maria di Cubulteria)의 바실리카, 롬바르드 건축물(8-9세기)과 아라고네세 성(Aragonese Castle)이 있다.",
+                    "timestamp": 1695713127000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600023",
+                    "participantID": "E0012",
+                    "utterance": "오. 좋다. 알비냐노에 가면 건축물에 대해서 풍부한 경험을 할 수 있을 것 같아.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 건축물에 대해 풍부한 경험을 할 수 있다.",
+                    "timestamp": 1695713227000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "네 맞아요. 건축물에 대해 좋아하시나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695713252000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600023",
+                    "participantID": "E0012",
+                    "utterance": "응응 나는 자전거를 타고 여행다니는 것을 좋아해.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 자전거를 좋아한다.",
+                    "timestamp": 1695713300000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "아! 자전거 타시는 걸 좋아하시는 군요! 다음에는 어디로 자전거를 타고 여행가실 지 궁금하네요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695713345000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600023",
+                    "participantID": "E0012",
+                    "utterance": "요즘 바빠서 잘 못다니고 있지만, 요즘 날씨도 좋아지니깐 자전거 여행을 조만간 가지 않을까 싶어. 아직 여행지는 고민중이야!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695713393000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "제가 지명에 대해서 잘 알고 있으니깐, 지명에 대해서 궁금한 점이 생기시면 언제든 물어봐주세요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695713441000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600023",
+                    "participantID": "E0012",
+                    "utterance": "그래! 또 TV프로그램을 시청하다가 궁금한 지며이 생기면 물어보러 올게.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695713462000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "네, 편하게 또 저를 찾아주세요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695713482000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 관광 지명에 대한 지식을 쌓고 있다.",
+                    "나는 건축물에 대해 풍부한 경험을 할 수 있다.",
+                    "나는 자전거를 좋아한다."
+                ],
+                "wizard": [
+                    "알비냐노는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있다.",
+                    "알비냐노의 주요 볼거리는 산타 마리아 디 쿠불테리아(Santa Maria di Cubulteria)의 바실리카, 롬바르드 건축물(8-9세기)과 아라고네세 성(Aragonese Castle)이 있다."
+                ],
+                "dialogSummary": "질문자는 알비냐노에 대해 질문했고 챗봇은 알비냐노는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있다고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "004380-1",
+            "prevTimeInfo": {
+                "timeNum": "7",
+                "timeUnit": "시간"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004380-2",
+            "sessionKeywords": [
+                "*물우녀섬*,*물우녀섬*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600023",
+                    "participantID": "E0012",
+                    "utterance": "안녕. 또 왔어. 여행 프로그램을 보다가 또 궁금한 게 생겼거든.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695713835000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "안녕하세요! 아까 알비냐노에 대한 정보는 도움이 되셨나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695713886000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600023",
+                    "participantID": "E0012",
+                    "utterance": "7시간 전에 물어본 건데 기억을 하고 있네? 아까 답변이 도움이 도움이 돼서 또 물어볼라고 왔어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695713914000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "네! 편하게 물어봐주세요. 아까 도움이 되셨다니 다행입니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695713951000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600023",
+                    "participantID": "E0012",
+                    "utterance": "이번에는 물우녀섬에 대해 알고싶어. 물우녀섬에 대해 알려줄래?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695713982000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "네! 알겠습니다. 물우녀섬은 경기도 안산시 단원구 풍도동에 위치한 섬으로, 육도에서 남동쪽으로 3.5km 정도 떨어진 무인도입니다.",
+                    "context": {
+                        "query": "물우녀섬",
+                        "contents": [
+                            {
+                                "documentID": "934167",
+                                "documentTitle": "물우녀섬",
+                                "content": [
+                                    "물우녀섬은 경기도 안산시 단원구 풍도동에 위치한 섬으로, 육도에서 남동쪽으로 3.5km 정도 떨어진 무인도이다.",
+                                    "최대 고도는 10m이며, 총 면적은 0.5km2이다.",
+                                    "오히려 소재지보다는 충청남도 당진시에 더 가까이 있다.",
+                                    "지명 유래.",
+                                    "배가 다니는 물길 위에 솟아있는 바위섬(여→녀)이라는 데서 유래되었다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "물우녀섬은 경기도 안산시 단원구 풍도동에 위치한 섬으로, 육도에서 남동쪽으로 3.5km 정도 떨어진 무인도이다.",
+                    "timestamp": 1695714010000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600023",
+                    "participantID": "E0012",
+                    "utterance": "우와 이번에도 잘 알려주네. 물우녀섬은 국내에 있는 무인도구나.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695714060000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "네. 물우녀섬은 경기도에 있습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695714096000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600023",
+                    "participantID": "E0012",
+                    "utterance": "국내에도 여행다닐 곳이 많은 것 같아. 나는 체험 여행하는 것을 좋아해서 여행을 많이 다니는 편이거든.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 체험 여행을 좋아한다.",
+                    "timestamp": 1695714122000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "체험 여행을 하기에 국내에 다닐 곳이 정말 많죠.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695714186000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600023",
+                    "participantID": "E0012",
+                    "utterance": "맞아. 저번에는 패러글라이딩하러 아래쪽 지방에도 갔었어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695714210000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "정말 좋은 추억이었을 것 같아요! 저도 기회가 된다면 패러글라이딩을 경험해보고 싶네요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695714240000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600023",
+                    "participantID": "E0012",
+                    "utterance": "여행은 언제나 좋은 것 같아! 기회가 된다면 많이 다닐 수록 좋다고 생각해.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695714265000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "저도 그렇게 생각해요. 여행 계획을 세우시다가 궁금한 게 생기시면 무엇이든 물어봐주세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695714293000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 체험 여행을 좋아한다."
+                ],
+                "wizard": [
+                    "물우녀섬은 경기도 안산시 단원구 풍도동에 위치한 섬으로, 육도에서 남동쪽으로 3.5km 정도 떨어진 무인도이다."
+                ],
+                "dialogSummary": "질문자는 물우녀섬에 대해 질문하였고 챗봇은 물우녀섬은 경기도 안산시 단원구 풍도동에 위치한 섬으로, 육도에서 남동쪽으로 3.5km 정도 떨어진 무인도라고 하였다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광 지명에 대한 지식을 쌓고 있다.",
+                    "나는 건축물에 대해 풍부한 경험을 할 수 있다.",
+                    "나는 자전거를 좋아한다."
+                ],
+                "wizard": [
+                    "알비냐노는 이탈리아 캄파니아주의 카세르타도에 위치해있으며 나폴리로부터는 북쪽으로 45km 카세르타로부터는 북쪽으로 20km 거리에 있다.",
+                    "알비냐노의 주요 볼거리는 산타 마리아 디 쿠불테리아(Santa Maria di Cubulteria)의 바실리카, 롬바르드 건축물(8-9세기)과 아라고네세 성(Aragonese Castle)이 있다."
+                ]
+            }
+        }
+    ]
+}

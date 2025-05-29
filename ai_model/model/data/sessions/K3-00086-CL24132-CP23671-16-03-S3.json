@@ -1,0 +1,661 @@
+{
+  "FileInfo": {
+    "filename": "K3-00086-CL24132-CP23671-16-03-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0945",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0975",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00086"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "24132",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 맛집 여행을 좋아한다.",
+        "나는 고전연구회 동아리에 관심 없다.",
+        "나는 로맨스 영화를 가끔 본다.",
+        "나는 토익스피킹 자격증을 취득했다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "23671",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 아침에 산책한다.",
+        "나는 직업이 없다.",
+        "나는 달리기를 싫어한다.",
+        "나는 국내 주식에 관심이 많다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "16-03",
+    "topicType": "미용과 건강>미용",
+    "topicTitle": "외모"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00086-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "안녕하세요~ 저는 20대 여자입니다. 그쪽은 어떻게 되나요?",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-11-03",
+          "time": "00:17:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "와~ 이렇게 만나서 반가워요. 저는 20대 남자이고, 직업은 없습니다.",
+          "summary": "나는 20대 남자이고, 직업이 없다.",
+          "date": "2022-11-03",
+          "time": "00:17:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "대학교도 안다니고 있어요? 저는 지금 대학교 재학중입니다.",
+          "summary": "나는 대학교 재학 중이다.",
+          "date": "2022-11-03",
+          "time": "00:18:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "네, 졸업은 얼마전에 했고 지금은 그냥 백수일뿐입니다.",
+          "summary": "나는 그냥 백수이다.",
+          "date": "2022-11-03",
+          "time": "00:18:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "허허..집에 있으시면 뭐하면서 시간 보내시나요? 저는 로맨스 영화를 가끔 보곤해요.",
+          "summary": "나는 로맨스 영화를 가끔 본다.",
+          "date": "2022-11-03",
+          "time": "00:19:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "로맨스.. 쪽은 개인적으로 별로 안좋아해서.. 저는 산책하는 걸 좋아해서 아침에는 산책을 해요.",
+          "summary": "나는 아침에 산책을 한다.",
+          "date": "2022-11-03",
+          "time": "00:19:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "운동 하는 거 좋아하시나봐요? 걷는 거 좋아하시면 마라톤 같은 거 나가도 좋을 거 같아요 ㅋㅋ.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:20:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "괜찮죠. 근데 저는 달리기는 싫어해서 만약에 하면 걷기로만 완주할 것 같네요.",
+          "summary": "나는 달리기를 싫어한다.",
+          "date": "2022-11-03",
+          "time": "00:20:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "음~ 여행하는 것도 좋아하시나요? 저는 맛집 여행을 좋아해요. 맛있는 거 먹는게 제일 행복해요.",
+          "summary": "나는 맛집 여행을 좋아한다.",
+          "date": "2022-11-03",
+          "time": "00:21:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "맛집 여행 좋네요. 저는 집 멀리 나가는 건 별로 안 좋아해서 자주는 안가는 거 같아요.",
+          "summary": "나는 집에서 멀리 나가는 것을 안 좋아한다.",
+          "date": "2022-11-03",
+          "time": "00:22:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "앗, 그렇구나.. 해외 여행 같은 건 진짜 싫어하시겠네요? 그거랑은 또 다를려나..",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:23:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "해외 여행은 자주갈 수 없고 가도 1년에 한 두번 정도니까 괜찮습니다.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:23:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "생각해보니 그렇네요. 앗..친구가 전화가 오는데.. 자꾸 고전연구회 동아리 들어가자고 해서..힘드네요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:24:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "고전연구회 동아리라.. 뭔가 이름은 재미있을 것 같은데 별로 안들어 가고 싶으신가봐요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:24:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "저는 고전 연구회 동아리에 관심이 없어서요.. 일단 전화좀 받고 오겠습니다.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:25:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "네, 천천히 통화하고 오세요. 저는 인터넷으로 쇼핑이나 할러가볼게요.",
+          "summary": "나는 인터넷 쇼핑을 하러 간다.",
+          "date": "2022-11-03",
+          "time": "00:25:20",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 대학교 재학 중이다.",
+          "나는 로맨스 영화를 가끔 본다.",
+          "나는 맛집 여행을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이고, 직업이 없다.",
+          "나는 그냥 백수이다.",
+          "나는 아침에 산책을 한다.",
+          "나는 달리기를 싫어한다.",
+          "나는 집에서 멀리 나가는 것을 안 좋아한다.",
+          "나는 인터넷 쇼핑을 하러 간다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00086-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00086-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "으아~ 친구한테 1시간이나 시달리고 왔네요. 그쪽도 쇼핑 잘 하고 있었나요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:25:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "네! 이제 겨울이라서 두꺼운 옷 몇개 주문 했어요. 패딩은 좀 더 지나서 살거에요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:26:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "저도 쇼핑해야 하는데.. 오늘 저녁에 미용실 예약 해놨는데 나간김에 쇼핑도 하고 올까봐요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:27:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "오 머리 하러가시나봐요. 저도 머리 자를 때가 되긴 했는데 귀찮아서 안가고 있네요.",
+          "summary": "나는 머리 자를 때가 되었다.",
+          "date": "2022-11-03",
+          "time": "00:27:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "염색하고, 컷트 하려구요. 탈색하고 싶은데 머리가 많이 상해서 탈색은 안될 거 같아요.",
+          "summary": "나는 머리가 많이 상했다.",
+          "date": "2022-11-03",
+          "time": "00:28:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "염색하니까 생각난 건데, 저 옛날에 금발로 탈색했다가 전부다 안어울린다고 다른색하라고 그러더라구요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:29:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "저희 동얀인 피부 톤?에는 금발은 안어울린다고 하던데요? 이상할 수 밖에 없을 것 같네요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:29:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "네.. 안그래도 못생긴 얼굴이 한층 더 못생겨 졌다고 다들 놀려서..덮었습니다.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:30:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "하하 친구분들 장난이 심하시네요 ㅋㅋㅋ 평소에 외모 같은거 많이 신경쓰세요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:30:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "남자라서 화장이나 이런거에는 크게 관심은 없지만 피부는 좀 신경써서 관리하고 있어요.",
+          "summary": "나는 피부관리를 하고 있다.",
+          "date": "2022-11-03",
+          "time": "00:30:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "어떤 식으로 관리하시나요? 1일 1팩 같은 거 하시려나. 궁금하네요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:31:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "홈케어는 그렇게 하고 있고 피부 관리실도 다니고 있습니다.",
+          "summary": "나는 피부 관리실을 다니고 있다.",
+          "date": "2022-11-03",
+          "time": "00:31:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "헉 피부관리실 다니는 남자분 잘 못봤는데 대박이네요. 안비싼가요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:32:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "1회에 7만원 정도 하는 걸로 케어받고 있는데 5회권으로 끊어서 받고 있어요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:32:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "어우..비싸네요. 흠.. 저는 로맨스 영화 잠깐 보러 다녀올게요! 또 연락해요.",
+          "summary": "나는 로맨스 영화를 보러 간다.",
+          "date": "2022-11-03",
+          "time": "00:32:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "네~ 저는 직업이 없으니까.. 직업이나 알아보러 가볼게요. @브랜드명1@ 들어가야지..",
+          "summary": "나는 구직을 하러 갈 것이다.",
+          "date": "2022-11-03",
+          "time": "00:33:28",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 머리가 많이 상했다.",
+          "나는 로맨스 영화를 보러 간다."
+        ],
+        "speaker2": [
+          "나는 머리 자를 때가 되었다.",
+          "나는 피부관리를 하고 있다.",
+          "나는 피부 관리실을 다니고 있다.",
+          "나는 구직을 하러 갈 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 대학교 재학 중이다.",
+          "나는 로맨스 영화를 가끔 본다.",
+          "나는 맛집 여행을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이고, 직업이 없다.",
+          "나는 그냥 백수이다.",
+          "나는 아침에 산책을 한다.",
+          "나는 달리기를 싫어한다.",
+          "나는 집에서 멀리 나가는 것을 안 좋아한다.",
+          "나는 인터넷 쇼핑을 하러 간다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00086-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "3-00086-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "영화 다보고 왔어요! 2시간 정도 지났네요? 일자리는 잘 찾아 보셨나요?",
+          "summary": "나는 영화를 다 보고 왔다.",
+          "date": "2022-11-03",
+          "time": "00:34:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "아뇨 ㅋㅋ 제가 들어갈 수 있을만한 회사는 안보여서 암담합니다.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:34:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "조..조금만 천천히 알아보시죠! 근데 취업할 때는 면접을 봐야 하는게 부담스러워요.",
+          "summary": "나는 면접이 부담스럽다.",
+          "date": "2022-11-03",
+          "time": "00:34:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "근데 또 면접을 안보고 직원을 뽑을 수도 없고 여러모로 힘들죠.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:34:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "그러니까요.. 음 면접에 잘 붙는 꿀팁 같은 것도 있을까요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:35:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "일단 문열고 들어가는 순간에 가장 먼저 첫인상을 보게되니까 외모가 단정하다 던가 해야하지 않을까요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:35:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "잘생기고 예쁘지 않아도 단정하기만 하면 괜찮으려나요? 개인적으로 궁금해요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:36:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "저도 면접관이 되어 본적은 없어서 잘 모르겠지만 단정한 예쁨, 잘생김이면 무조건 합격 아닐까요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:36:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "경력이 아예 없는데 외모가 준수한 사람, 외모는 진짜 별로지만 경력이 아주 좋은사람 중에 누굴 뽑을까요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:36:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "음.. 경력이 아주 좋은 사람이 당장일에 투입될 수 있을 정도면 경력있는 사람을 뽑을 거 같아요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:37:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "그런가.. 저는 만약에 준수한 외모의 사람이 공유, @이름1@ 이정도면 무조건 그사람 뽑을 거 같은데.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:37:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "그런 사람이 실제에서는 잘 없지 않나.. 뭐.. 저라도 그 사람들 뽑을 거 같긴하네요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:38:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "일을 정 못하면 마케팅 부서 쪽으로 돌리고 거래 따낼 때 그사람을 보내면 될 거 같은데요?",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:38:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "그건 그렇네요.. 외모 지상주의라 슬프지만 공감이 돼서 할말이 없네요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:38:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "24132",
+          "participantID": "0945",
+          "utterance": "하핫, 저는 배고파서 밥 좀 먹으러 가볼게요. 오늘 대화 나눠서 즐거웠어요.",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:39:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "23671",
+          "participantID": "0975",
+          "utterance": "네! 나중에 또 기회되면 연락해요. 그리고 친구분이랑 고전연구회 동아리는 잘 해결하시구요. 안녕~!",
+          "summary": "",
+          "date": "2022-11-03",
+          "time": "00:39:26",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 영화를 다 보고 왔다.",
+          "나는 면접이 부담스럽다."
+        ],
+        "speaker2": []
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여자이다.",
+          "나는 대학교 재학 중이다.",
+          "나는 로맨스 영화를 가끔 본다.",
+          "나는 맛집 여행을 좋아한다.",
+          "나는 머리가 많이 상했다.",
+          "나는 로맨스 영화를 보러 간다."
+        ],
+        "speaker2": [
+          "나는 20대 남자이고, 직업이 없다.",
+          "나는 그냥 백수이다.",
+          "나는 아침에 산책을 한다.",
+          "나는 달리기를 싫어한다.",
+          "나는 집에서 멀리 나가는 것을 안 좋아한다.",
+          "나는 인터넷 쇼핑을 하러 간다.",
+          "나는 머리 자를 때가 되었다.",
+          "나는 피부관리를 하고 있다.",
+          "나는 피부 관리실을 다니고 있다.",
+          "나는 구직을 하러 갈 것이다."
+        ]
+      }
+    }
+  ]
+}

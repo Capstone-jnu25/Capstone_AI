@@ -1,0 +1,437 @@
+{
+  "FileInfo": {
+    "filename": "K2-00179-CL50463-CP35959-04-06-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4265",
+      "gender": "남성",
+      "age": "40대",
+      "occupation": "자영업",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "4347",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00179"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "50463",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 50대이다.",
+        "나는 공항 검역관이다",
+        "나는 TV 다큐멘터리를 싫어한다",
+        "나는 트로트 음악을 싫어한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "35959",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 동물에 관심 없다",
+        "나는 변리사이다",
+        "나는 프랑스에 가봤다",
+        "나는 혈액형이 AB형이다",
+        "나는 서늘한 날씨를 좋아한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "04-06",
+    "topicType": "일과 직업>회사/아르바이트",
+    "topicTitle": "업무"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00179-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "50463",
+          "participantID": "4265",
+          "utterance": "안녕하세요 저는 공항 검역관으로 일하는 50대 남성입니다",
+          "summary": "나는 공항 검역관으로 일하는 50대 남성이다",
+          "date": "2022-12-01",
+          "time": "18:19:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35959",
+          "participantID": "4347",
+          "utterance": "안녕하세요~ 저는 변리사를 하고 있는 30대 여성입니다",
+          "summary": "나는 30대 여성 변리사이다",
+          "date": "2022-12-01",
+          "time": "18:19:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50463",
+          "participantID": "4265",
+          "utterance": "반가워요 혹시 좋아하는 티비 프로 있으신가요 저는 tv다큐멘터리를 싫어하고 나머지 프로는 다 좋아합니다",
+          "summary": "나는 TV 다큐멘터리를 싫어하고 나머지 프로그램은 좋아한다",
+          "date": "2022-12-01",
+          "time": "18:20:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35959",
+          "participantID": "4347",
+          "utterance": "그렇군요~ 저는 따로 좋아하는 티비 프로는 없어요! 혹시 프랑스에 가본적 있으세요? 저는 프랑스에 가봤는데 너무 좋더라구요",
+          "summary": "나는 프랑스에 가봤는데 너무 좋았다",
+          "date": "2022-12-01",
+          "time": "18:21:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50463",
+          "participantID": "4265",
+          "utterance": "네 저는 프랑스를 정말 좋아하는 1인 입니다 샹송도 가끔 들어요  웬만한 음악 다 좋아하지만 트로트는 싫어합니다",
+          "summary": "나는 프랑스를 정말 좋아해서 샹송도 가끔 듣는다 나는 음악을 좋아하지만 트로트는 싫어한다",
+          "date": "2022-12-01",
+          "time": "18:55:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35959",
+          "participantID": "4347",
+          "utterance": "그렇군요! 아 혹시 혈액형은 어떻게 되세요? 저는 AB형이예요!",
+          "summary": "나는 ab형이다",
+          "date": "2022-12-01",
+          "time": "20:07:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50463",
+          "participantID": "4265",
+          "utterance": "저와 같으시네요 저도 혈액형이 ab형 입니다",
+          "summary": "나는 혈액형이 AB형이다",
+          "date": "2022-12-01",
+          "time": "20:22:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35959",
+          "participantID": "4347",
+          "utterance": "와 반갑네요! 혹시 동물은 키우세요? 저는 동물에 관심이 없는데 요즘 많이들 키우시더라구요!",
+          "summary": "나는 동물에 관심이 없다",
+          "date": "2022-12-01",
+          "time": "20:53:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50463",
+          "participantID": "4265",
+          "utterance": "저는 동물은 싫어합니다 털 날리는 거 감당 못하겠어요",
+          "summary": "나는 동물을 싫어한다",
+          "date": "2022-12-01",
+          "time": "20:55:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35959",
+          "participantID": "4347",
+          "utterance": "저두요~ 계절은 언제를 좋아하세요? 저는 서늘한 날씨를 좋아해서 가을을 좋아해요",
+          "summary": "나는 서늘한 날씨를 좋아해서 가을을 좋아한다",
+          "date": "2022-12-01",
+          "time": "21:11:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50463",
+          "participantID": "4265",
+          "utterance": "저도 봄,가을을 좋아합니다 가을하늘 예쁘지 않나요?",
+          "summary": "나는 봄, 가을을 좋아한다",
+          "date": "2022-12-01",
+          "time": "21:16:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35959",
+          "participantID": "4347",
+          "utterance": "가을 하늘 너무 파랗고 예쁘죠! 구름도 별로 없는 높은 하늘이 너무 좋아요~ 그런데 이제 슬슬 추워지네요",
+          "summary": "나는 가을 하늘이 파랗고 예쁘다",
+          "date": "2022-12-02",
+          "time": "00:02:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50463",
+          "participantID": "4265",
+          "utterance": "네 이제 계속 영하권인가봐요 아이들 패딩을 입혔는데도 따뜻해 보이질 않네요",
+          "summary": "나는 아이들에게 패딩을 입혔는데도 따뜻해 보이지 않는다",
+          "date": "2022-12-02",
+          "time": "08:29:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35959",
+          "participantID": "4347",
+          "utterance": "네 갑자기 추워져서 몸이 힘드네요~ 아 저는 일이있어서 다음에 또 대화해요!",
+          "summary": "나는 갑자기 추워져 몸이 힘들다",
+          "date": "2022-12-02",
+          "time": "11:23:24",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 공항 검역관으로 일하는 50대 남성이다",
+          "나는 TV 다큐멘터리를 싫어하고 나머지 프로그램은 좋아한다",
+          "나는 프랑스를 정말 좋아해서 샹송도 가끔 듣는다",
+          "나는 음악을 좋아하지만 트로트는 싫어한다",
+          "나는 혈액형이 AB형이다",
+          "나는 동물을 싫어한다",
+          "나는 봄, 가을을 좋아한다",
+          "나는 아이들에게 패딩을 입혔는데도 따뜻해 보이지 않는다"
+        ],
+        "speaker2": [
+          "나는 30대 여성 변리사이다",
+          "나는 프랑스에 가봤는데 너무 좋았다",
+          "나는 ab형이다",
+          "나는 동물에 관심이 없다",
+          "나는 서늘한 날씨를 좋아해서 가을을 좋아한다",
+          "나는 가을 하늘이 파랗고 예쁘다",
+          "나는 갑자기 추워져 몸이 힘들다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00179-1",
+      "prevTimeInfo": {
+        "timeNum": "34",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00179-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "50463",
+          "participantID": "4265",
+          "utterance": "34시간만이네요 어제는 별일 없으셨나요?",
+          "summary": "",
+          "date": "2022-12-02",
+          "time": "14:35:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35959",
+          "participantID": "4347",
+          "utterance": "네 저는 별일은 없었는데 회사를 그만두기로 해서 업무 인수인계로 바빴네요~ 검역관님은 잘 지내셨나요?",
+          "summary": "나는 회사를 그만두기로 했다",
+          "date": "2022-12-02",
+          "time": "14:37:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50463",
+          "participantID": "4265",
+          "utterance": "네 저는 다행히 별일 없이 잘 지냈어요 회사를 그만두시다니 무슨 이유가 있으실까요?",
+          "summary": "나는 별일 없이 잘 지냈다",
+          "date": "2022-12-02",
+          "time": "14:39:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35959",
+          "participantID": "4347",
+          "utterance": "제가 아이를 키우다보니 일과 병행하기가 힘들더라구요.. 업무가 너무 많아서 잠시 쉬려고 합니다. 님은 검역관이라고 하셨는데 업무는 만족하시나요?",
+          "summary": "나는 육아와 일을 병해 하기 힘들다",
+          "date": "2022-12-02",
+          "time": "14:40:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50463",
+          "participantID": "4265",
+          "utterance": "네 저는 만족하고 있어요 공항에서 근무하고 싶었는데 다행히 이쪽으로 배정받아 재미있게 일하고 있어요  아무래도 일과 육아 병행은 힘들죠 그래서 저희 와이프도 전업주부로 전향했더랬죠",
+          "summary": "나는 업무에 만족하고 있다. 공항에서 재미있게 일하고 있다 일과 육아 병행이 힘들어 나의 와이프도 전업주부로 전향했다",
+          "date": "2022-12-02",
+          "time": "14:43:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35959",
+          "participantID": "4347",
+          "utterance": "그렇군요~ 계속 일하고 싶었는데 현실을 쉽지 않네요.. 목표는 아이가 초등학교 들어가고 나면 다시 일하는건데 잘 될지 모르겠어요!",
+          "summary": "나는 아이가 초등학교 진학 하로 나면 다시 일하는 게 목표이다",
+          "date": "2022-12-02",
+          "time": "14:46:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50463",
+          "participantID": "4265",
+          "utterance": "대게 초등 저학년까지는 부모님이 옆에 계시더라고요",
+          "summary": "대부분 아이가 초등학교 저학년까지는 부모님이 옆에 계신다",
+          "date": "2022-12-02",
+          "time": "14:56:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35959",
+          "participantID": "4347",
+          "utterance": "그러게요~ 부모님이 가까이 계시면 좋을 텐데 아쉬워요! 님은 검역관이 되시기 전에 다른 일은 안하셨나요?",
+          "summary": "나는 부모님이 가까이 계시면 좋을 것 같다",
+          "date": "2022-12-02",
+          "time": "15:11:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50463",
+          "participantID": "4265",
+          "utterance": "저는 대학에서 조교로 일했었습니다 학교에서 후배들과 어울리는 걸 참 좋아했더랬죠",
+          "summary": "나는 대학에서 조교로 일한 적이 있는데 후배들과 어울리는 걸 좋아했다",
+          "date": "2022-12-02",
+          "time": "15:21:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35959",
+          "participantID": "4347",
+          "utterance": "그렇군요~ 조교는 주로 교수님의 업무를 보조하고 그런일을 하는 건가요?",
+          "summary": "나는 조교의 업무가 궁금하다",
+          "date": "2022-12-02",
+          "time": "16:01:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50463",
+          "participantID": "4265",
+          "utterance": "네 교수님 업무보조도 하고 학과생 관리등 전반 사무일도 같이 하죠",
+          "summary": "나는 교수님 업무보조, 학과생 관리 등 사무일도 같이 했다",
+          "date": "2022-12-02",
+          "time": "17:55:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35959",
+          "participantID": "4347",
+          "utterance": "그렇군요! 여러가지 업무를 많이 하네요~ 저는 변리사가 되기 전에 카페 아르바이트를 했는데 매우 재밌게 했던 기억이 있네요 ",
+          "summary": "나는 변리사가 되기 전에 카페에서 아르바이트를 했다",
+          "date": "2022-12-02",
+          "time": "18:57:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "50463",
+          "participantID": "4265",
+          "utterance": "저도 카페 아르바이트는 한번 해보고 팠는데 메뉴 외울 자신이 없어서 포기했었어요 ",
+          "summary": "나는 카페 아르바이트를 해보고 싶었지만 메뉴 외울 자신이 없어 포기했다",
+          "date": "2022-12-02",
+          "time": "20:02:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "35959",
+          "participantID": "4347",
+          "utterance": "메뉴가 많으면 정말 어렵죠~ 아 저는 일이 있어서 다음에 또 대화해요!",
+          "summary": "나는 메뉴가 많으면 정말 어렵다",
+          "date": "2022-12-03",
+          "time": "03:15:24",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 별일 없이 잘 지냈다",
+          "나는 업무에 만족하고 있다. 공항에서 재미있게 일하고 있다",
+          "일과 육아 병행이 힘들어 나의 와이프도 전업주부로 전향했다",
+          "대부분 아이가 초등학교 저학년까지는 부모님이 옆에 계신다",
+          "나는 대학에서 조교로 일한 적이 있는데 후배들과 어울리는 걸 좋아했다",
+          "나는 교수님 업무보조, 학과생 관리 등 사무일도 같이 했다",
+          "나는 카페 아르바이트를 해보고 싶었지만 메뉴 외울 자신이 없어 포기했다"
+        ],
+        "speaker2": [
+          "나는 회사를 그만두기로 했다",
+          "나는 육아와 일을 병해 하기 힘들다",
+          "나는 아이가 초등학교 진학 하로 나면 다시 일하는 게 목표이다",
+          "나는 부모님이 가까이 계시면 좋을 것 같다",
+          "나는 조교의 업무가 궁금하다",
+          "나는 변리사가 되기 전에 카페에서 아르바이트를 했다",
+          "나는 메뉴가 많으면 정말 어렵다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 공항 검역관으로 일하는 50대 남성이다",
+          "나는 TV 다큐멘터리를 싫어하고 나머지 프로그램은 좋아한다",
+          "나는 프랑스를 정말 좋아해서 샹송도 가끔 듣는다",
+          "나는 음악을 좋아하지만 트로트는 싫어한다",
+          "나는 혈액형이 AB형이다",
+          "나는 동물을 싫어한다",
+          "나는 봄, 가을을 좋아한다",
+          "나는 아이들에게 패딩을 입혔는데도 따뜻해 보이지 않는다"
+        ],
+        "speaker2": [
+          "나는 30대 여성 변리사이다",
+          "나는 프랑스에 가봤는데 너무 좋았다",
+          "나는 ab형이다",
+          "나는 동물에 관심이 없다",
+          "나는 서늘한 날씨를 좋아해서 가을을 좋아한다",
+          "나는 가을 하늘이 파랗고 예쁘다",
+          "나는 갑자기 추워져 몸이 힘들다"
+        ]
+      }
+    }
+  ]
+}

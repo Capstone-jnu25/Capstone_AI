@@ -1,0 +1,758 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-005420-AP600064-WZ000005-02_03_02-S2.json",
+        "sessionLevel": "2"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0012",
+            "gender": "여성",
+            "age": "20대",
+            "occupation": "사무직",
+            "bPlace": "대전/세종/충청/강원",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "응용통계학"
+        },
+        "speaker2": {
+            "participantID": "F0012",
+            "gender": "여성",
+            "age": "20대",
+            "occupation": "사무직",
+            "bPlace": "부산/대구/울산/경상",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "응용통계학"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "005420"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600064",
+            "personaFeatures": [
+                "나는 관광/감상의 지명에 관심이 많다.",
+                "나는 갈비를 좋아한다",
+                "나는 냉면을 즐겨 먹는다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000005",
+            "personaFeatures": [
+                "나는 지명에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_02",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "장소"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "005420-1",
+            "sessionKeywords": [
+                "*베틀재*,*베틀재*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600064",
+                    "participantID": "E0012",
+                    "utterance": "안녕! 추석 잘 보내고 있니?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695897445000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "네! 추석 잘 보내고 계신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695897463000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600064",
+                    "participantID": "E0012",
+                    "utterance": "응응 내가 갈비를 정말 좋아해. 근데 이번 추석때 갈비를 많이 먹을 수 있어서 행복한 것 같아 하하.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 갈비를 좋아한다.",
+                    "timestamp": 1695897499000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "우와! 정말 좋을 것 같아요! 갈비 저도 먹고싶네요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695897519000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600064",
+                    "participantID": "E0012",
+                    "utterance": "갈비 이야기 하니깐 이따가 좀 더 먹어야겠어. 갈비랑 냉면이랑 궁합이 맞아서 냉면도 같이 즐겨먹는 편인 것 같아.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 냉면을 즐겨 먹는다.",
+                    "timestamp": 1695897557000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "오! 정말 같이 먹으면 너무 맛있을 것 같네요! 저도 먹고싶어요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695897600000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600064",
+                    "participantID": "E0012",
+                    "utterance": "다음에 먹어봐! 정말 두개 같이 먹으면 맛있어! 아! 내가 요즘 관광의 지명에 관심이 많은데, 혹시 알려줄 수 있니?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 관광의 지명에 관심이 많다.",
+                    "timestamp": 1695897632000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "그럼요. 저는 지명에 대해 잘 알고있으니, 뭐든지 물어봐주세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695897650000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600064",
+                    "participantID": "E0012",
+                    "utterance": "좋아! 베틀재에 대해 알고싶어! 이 지명에 대해 알려줘!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695897680000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "베틀재는 충청북도 단양군 영춘면 동대리에 위치한 고개예요. 모양이 마치 베틀같다고 하여 베틀재라는 이름이 붙었어요.",
+                    "context": {
+                        "query": "베틀재",
+                        "contents": [
+                            {
+                                "documentID": "1075005",
+                                "documentTitle": "베틀재",
+                                "content": [
+                                    "베틀재는 충청북도 단양군 영춘면 동대리에 위치한 고개이다.",
+                                    "높이는 해발 660m이다.",
+                                    "지방도 제935호선이 이곳을 지난다.",
+                                    "모양이 마치 베틀같다고 하여 베틀재라는 이름이 붙었다.",
+                                    "충청북도와 경상북도, 강원도 삼도를 연결하는 고갯길이었으며, 고려 시대부터 이 고개를 이용해 소금이 이동했기 때문에 3대 염로(鹽路:소금길) 중 하나이기도 하다.",
+                                    "이 고개를 넘어가는 길을 흔히 의풍옛길이라고 불린다.",
+                                    "정감록에 나오는 십승지 중 한 곳으로 알려져 있다.",
+                                    "2009년 이 고갯길에 대한 전체적인 정비를 하면서 고개 길목에 베틀재 기념비를 세웠다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "베틀재는 충청북도 단양군 영춘면 동대리에 위치한 고개이다. 모양이 마치 베틀같다고 하여 베틀재라는 이름이 붙었다.",
+                    "timestamp": 1695897712000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600064",
+                    "participantID": "E0012",
+                    "utterance": "오! 모양이 베틀같다고 해서 붙은 이름이구나! 이름에 대한 속뜻을 알게 되면 너무 재미있는 것같아.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695897776000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "맞아요. 이름의 속뜻을 알면 기억에도 오래 남는 것 같아요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695897795000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600064",
+                    "participantID": "E0012",
+                    "utterance": "맞아. 나도 그렇게 생각해. 덕분에 이 지명에 대한 기억이 오래 남을 것 같네. 나중에 친구들한테 아는 척 좀 해야겠어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695897823000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "하하. 도움이 되었다니 다행이에요. 다음에도 궁금한 지명이 생기시면 물어봐주세요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695897841000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 갈비를 좋아한다.",
+                    "나는 냉면을 즐겨 먹는다.",
+                    "나는 관광의 지명에 관심이 많다."
+                ],
+                "wizard": [
+                    "베틀재는 충청북도 단양군 영춘면 동대리에 위치한 고개이다. 모양이 마치 베틀같다고 하여 베틀재라는 이름이 붙었다."
+                ],
+                "dialogSummary": "질문자는 베틀재에 대해 질문했고, 챗봇은 베틀재는 충청북도 단양군 영춘면 동대리에 위치한 고개이고, 모양이 마치 베틀같다고 하여 베틀재라는 이름이 붙었다고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "005420-1",
+            "prevTimeInfo": {
+                "timeNum": "7",
+                "timeUnit": "시간"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "005420-2",
+            "sessionKeywords": [
+                "*단바시*,*단바시*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600064",
+                    "participantID": "E0012",
+                    "utterance": "책을 읽다가 또 궁금한 지명이 생겨서 찾아왔어! 이번에도 잘 알려줄 수 있니?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695897872000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "그럼요! 제가 7시간 전에 도움드린 답변은 괜찮으셨나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695897893000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600064",
+                    "participantID": "E0012",
+                    "utterance": "응응! 그래서 이번에 또 찾아왔어! 하하. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695897905000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "이번에는 어떤 지명이 궁금하신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695897913000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600064",
+                    "participantID": "E0012",
+                    "utterance": "이번에는 단바시라는 지명에 대한 정보가 필요해!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695897925000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "단바시는 일본 효고현에 있는 시예요.",
+                    "context": {
+                        "query": "단바시",
+                        "contents": [
+                            {
+                                "documentID": "419353",
+                                "documentTitle": "단바시",
+                                "content": [
+                                    "단바시()는 일본 효고현에 있는 시이다.",
+                                    "2004년 11월 1일 옛 히카미 군의 6정(히카미 정, 가이바라 정, 아오가키 정, 가스가 정, 산난 정, 이치지마 정)이 합병해 신설되었다.",
+                                    "지리.",
+                                    "효고 현의 동부에 위치하고 세토 내해와 동해의 거의 중간부에 위치하는 산간에 있다.",
+                                    "가코 강 수계의 최상류, 유라 강 수계의 최상류에 위치해 홋카이도와 말단부를 제외하면 일본에서 제일 낮은 중앙 분수계가 있다.",
+                                    "자오선(동경 135 도선)이 지나는 마을이기도 하다.",
+                                    "문화, 경제적으로는 단바 시 이북은 기타킨키 권이 되지만 오사카 권으로서의 문화·경제적인 측면도 볼 수 있다.",
+                                    "높이 100m 전후의 분지로 전답이 펼쳐져 안개가 나오는 곳도 많다.",
+                                    "적설은 근래에는 연 몇 회정도이지만 옛 아오가키 정은 폭설 지대로 지정되어 있어 겨울에는 스터드리스 타이어 주행하는 차가 많아진다.",
+                                    "역사.",
+                                    "고대의 단바국 서단에 위치하는 히카미 군의 땅이다. 에도 시대에는 시역 가시하라 번, 미타 번, 쓰루마키 번의 영지와 하타모토령이 복잡하게 뒤얽혀 있었다.",
+                                    "1871년 도요오카 현에 통합되었고 1876년 효고 현에 속하게 되었다.",
+                                    "2004년 11월 1일 옛 히카미 군의 6정(히카미 정, 가이바라 정, 아오가키 정, 가스가 정, 산난 정, 이치지마 정)이 합병해 신설되었다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "단바시는 일본 효고현에 있는 시이다.",
+                    "timestamp": 1695897964000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600064",
+                    "participantID": "E0012",
+                    "utterance": "오! 일본에 있는 시구나. 일본에 대해서는 잘 몰라서 정말 새로운 정보야.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695898190000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "새로운 정보를 드릴 수 있게 되어서 정말 기쁘네요. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695898215000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600064",
+                    "participantID": "E0012",
+                    "utterance": "내년에 일본여행에 대해서 생각 중인데, 여행 계획 짜면서 더 알아봐야겠어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695898244000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "여행 계획 짜실 때, 궁금한 지명이 생기시면 언제든지 저를 찾아주세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695898265000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600064",
+                    "participantID": "E0012",
+                    "utterance": "좋아좋아. 너 정말 지명에 대해서 잘 알구나. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695898276000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "네! 알고있는 지명이 정말 많아요. 지명말고도 궁금한 점이 생기시면 물어봐주세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695898303000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600064",
+                    "participantID": "E0012",
+                    "utterance": "좋아좋아. 여행계획 짜다가 궁금한 점이 생기면 또 찾아올게. 일단 난 간식먹으러 가야겠다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695898331000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0012",
+                    "utterance": "네! 간식 맛있게 드세요! 다음에 궁금한 점이 생기면 또 찾으러 와주세요!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695898349000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [],
+                "wizard": [
+                    "단바시는 일본 효고현에 있는 시이다."
+                ],
+                "dialogSummary": "질문자는 단바시에 대해 질문했고, 챗봇은 단바시는 일본 효고현에 있는 시라고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 갈비를 좋아한다.",
+                    "나는 냉면을 즐겨 먹는다.",
+                    "나는 관광의 지명에 관심이 많다."
+                ],
+                "wizard": [
+                    "베틀재는 충청북도 단양군 영춘면 동대리에 위치한 고개이다. 모양이 마치 베틀같다고 하여 베틀재라는 이름이 붙었다."
+                ]
+            }
+        }
+    ]
+}

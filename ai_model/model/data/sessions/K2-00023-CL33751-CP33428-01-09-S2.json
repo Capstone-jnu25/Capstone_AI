@@ -1,0 +1,453 @@
+{
+  "FileInfo": {
+    "filename": "K2-00023-CL33751-CP33428-01-09-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0767",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "자영업",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0717",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00023"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "33751",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 언어학과를 전공했다.",
+        "나는 미장공이다.",
+        "나는 실내에서 스케이트 하는 것을 싫어한다.",
+        "나는 냉면을 안 먹는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "33428",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 새벽에 일어난다.",
+        "나는 연극 감독이다.",
+        "나는 실내에서 펜 싱하는 것을 싫어한다.",
+        "나는 짠 음식을 좋아한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "01-09",
+    "topicType": "식음료",
+    "topicTitle": "주류"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00023-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33751",
+          "participantID": "0767",
+          "utterance": "안녕하세요. 저는 30대 여자이고 미장공입니다.",
+          "summary": "나는 30대 여자이고 미장공이다.",
+          "date": "2022-10-08",
+          "time": "20:30:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33428",
+          "participantID": "0717",
+          "utterance": "안녕하세요. 저는 30대 남자이고 연극 감독입니다.",
+          "summary": "나는 30대 남자이고 연극 감독이다.",
+          "date": "2022-10-11",
+          "time": "02:52:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33751",
+          "participantID": "0767",
+          "utterance": "제가 지금은 시멘트를 바르고 있지만 언어학과를 전공했습니다.",
+          "summary": "나는 언어학과를 전공했다.",
+          "date": "2022-10-11",
+          "time": "02:52:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33428",
+          "participantID": "0717",
+          "utterance": "그러셨군요. 저는 일이 바빠서 요즘 새벽에 일어나요.",
+          "summary": "나는 새벽에 일어난다.",
+          "date": "2022-10-11",
+          "time": "02:52:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33751",
+          "participantID": "0767",
+          "utterance": "저도 새벽에 일어나요. 일이 새벽부터 있거든요!",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "02:53:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33428",
+          "participantID": "0717",
+          "utterance": "그렇구나.. 많이 바쁘신가보네요. 취미는 뭐예여?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "02:53:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33751",
+          "participantID": "0767",
+          "utterance": "저는 운동을 좋아하거든요. 근데 실내 스케이트 타는 건 재미가 없어서.. 못하겠더라구요.",
+          "summary": "나는 실내에서 스케이트 하는 것을 싫어한다.",
+          "date": "2022-10-11",
+          "time": "02:53:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33428",
+          "participantID": "0717",
+          "utterance": "오 저도 실내 운동 중 유일하게 펜싱 싫어해요..",
+          "summary": "나는 실내에서 펜 싱하는 것을 싫어한다.",
+          "date": "2022-10-11",
+          "time": "02:53:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33751",
+          "participantID": "0767",
+          "utterance": "아~ 그럼 혹시 좋아하는 음식은 있으세요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "02:54:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33428",
+          "participantID": "0717",
+          "utterance": "그렇군요. 저는 짠 음식이면 다 좋아요. 님은요?",
+          "summary": "나는 짠 음식을 좋아한다.",
+          "date": "2022-10-11",
+          "time": "02:54:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33751",
+          "participantID": "0767",
+          "utterance": "저는 짜고 자극적인 음식을 좋아하지 않아요.. 대표적으로 냉면.. 너무 간이 세서 안 먹어요.",
+          "summary": "나는 냉면을 안 먹는다.",
+          "date": "2022-10-11",
+          "time": "02:55:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33428",
+          "participantID": "0717",
+          "utterance": "아 그렇구나. ㅋㅋ 건강하시겠어요. 굳.",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "02:55:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33751",
+          "participantID": "0767",
+          "utterance": "비꼬는 건가요...?ㅋㅋㅋㅋㅋㅋ 건강하라는 의미가 아닌 거 같아요.",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "02:55:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33428",
+          "participantID": "0717",
+          "utterance": "ㅋㅋㅋ 들켰나요?? ㅋㅋ 장난이고 진짜 건강하실 듯.",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "02:55:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33751",
+          "participantID": "0767",
+          "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ감사해요. 저 일단 일 때문에 퇴근 후 연락드릴게요.",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "02:56:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33428",
+          "participantID": "0717",
+          "utterance": "네. 그럼 나중에 또 이야기해요~",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "02:56:03",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이고 미장공이다.",
+          "나는 언어학과를 전공했다.",
+          "나는 실내에서 스케이트 하는 것을 싫어한다.",
+          "나는 냉면을 안 먹는다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이고 연극 감독이다.",
+          "나는 새벽에 일어난다.",
+          "나는 실내에서 펜 싱하는 것을 싫어한다.",
+          "나는 짠 음식을 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00023-1",
+      "prevTimeInfo": {
+        "timeNum": "8",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00023-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33751",
+          "participantID": "0767",
+          "utterance": "어후 오늘도 알찬 하루였네요! 8 시간... 일하기 너무 힘드네요.",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "02:56:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33428",
+          "participantID": "0717",
+          "utterance": "네. 시간 빠르네요. 이제 뭐하시게요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "02:56:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33751",
+          "participantID": "0767",
+          "utterance": "오늘은 집에 가서 술이나 한 잔 하려구요.",
+          "summary": "나는 오늘 술을 마실 예정이다.",
+          "date": "2022-10-11",
+          "time": "02:56:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33428",
+          "participantID": "0717",
+          "utterance": "아하. ㅋㅋ 혼술하시는 건가요? 외롭겠다.",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "02:56:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33751",
+          "participantID": "0767",
+          "utterance": "ㅋㅋㅋ네, 혼술이죠. 마침 내일 일도 쉬겠다~",
+          "summary": "나는 혼술을 한다.",
+          "date": "2022-10-11",
+          "time": "02:57:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33428",
+          "participantID": "0717",
+          "utterance": "ㅋㅋㅋ 아 그럼 어떤 술 드시는 건데요.",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "02:57:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33751",
+          "participantID": "0767",
+          "utterance": "거나하게 취할 생각으로 위스키도 구매했어요!",
+          "summary": "나는 위스키를 구매했다.",
+          "date": "2022-10-11",
+          "time": "02:57:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33428",
+          "participantID": "0717",
+          "utterance": "그렇구나. 근데 왜 거나하게 취할 생각이세요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "02:57:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33751",
+          "participantID": "0767",
+          "utterance": "내일 일도 쉬니까 지친 하루를 달래야죠!",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "02:57:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33428",
+          "participantID": "0717",
+          "utterance": "그렇구나. ㅋㅋ 그래도 너무 많이 드시진 마세요~",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "03:00:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33751",
+          "participantID": "0767",
+          "utterance": "네 걱정해주셔서 감사해요! 님은 술 안드세요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "03:02:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33428",
+          "participantID": "0717",
+          "utterance": "네. ㅋㅋ 저는 1년에 2~3번 밖에 안 마셔요.",
+          "summary": "나는 술을 1 년에 2~3번 마신다.",
+          "date": "2022-10-11",
+          "time": "03:02:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33751",
+          "participantID": "0767",
+          "utterance": "와.. 진짜 술 없이 어떻게 사세요?",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "03:02:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33428",
+          "participantID": "0717",
+          "utterance": "ㅋㅋㅋ 다른 즐길 것들이 많답니다.",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "03:03:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33751",
+          "participantID": "0767",
+          "utterance": "이런 거 보면 저는 중독인가 봐요.. 일단 전 혼술하러 갈게요!",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "03:03:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "33428",
+          "participantID": "0717",
+          "utterance": "네. 앞으로 적당히 드시고 담에 봐요~",
+          "summary": "",
+          "date": "2022-10-11",
+          "time": "03:03:16",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 오늘 술을 마실 예정이다.",
+          "나는 혼술을 한다.",
+          "나는 위스키를 구매했다."
+        ],
+        "speaker2": [
+          "나는 술을 1 년에 2~3번 마신다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이고 미장공이다.",
+          "나는 언어학과를 전공했다.",
+          "나는 실내에서 스케이트 하는 것을 싫어한다.",
+          "나는 냉면을 안 먹는다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이고 연극 감독이다.",
+          "나는 새벽에 일어난다.",
+          "나는 실내에서 펜 싱하는 것을 싫어한다.",
+          "나는 짠 음식을 좋아한다."
+        ]
+      }
+    }
+  ]
+}

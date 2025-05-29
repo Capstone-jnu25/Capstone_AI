@@ -1,0 +1,412 @@
+{
+  "FileInfo": {
+    "filename": "K2-00035-CL03625-CP02192-03-02-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0089",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "기능직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0093",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00035"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "03625",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나의 자녀는 학생이다.",
+        "나는 줄넘기를 자주 한다.",
+        "나는 꿔바로우를 좋아한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "02192",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나의 가족은 2명이다.",
+        "나는 영어에 관심 있지만 배울 시간이 없다.",
+        "나는 순대국밥을 싫어한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "03-02",
+    "topicType": "교통",
+    "topicTitle": "대중교통"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00035-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03625",
+          "participantID": "0089",
+          "utterance": "안녕하세요 ㅎㅎ 40대 남성입니다.",
+          "summary": "나는 40대 남성이다.",
+          "date": "2022-08-10",
+          "time": "13:53:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02192",
+          "participantID": "0093",
+          "utterance": "안녕하세요! 저는 30대 남성입니다.",
+          "summary": "나는 30대 남성이다.",
+          "date": "2022-08-10",
+          "time": "13:53:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03625",
+          "participantID": "0089",
+          "utterance": "제 아들이 학교에서 키 1등입니다 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "13:54:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02192",
+          "participantID": "0093",
+          "utterance": "부럽네요! 요즘 애들은 키가 많이 큰거 같은데 이유가 뭘까요?",
+          "summary": "나는 요즘 @이름1@ 키가 많이 크다고 생각한다.",
+          "date": "2022-08-10",
+          "time": "13:54:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03625",
+          "participantID": "0089",
+          "utterance": "글세요.. 잘 먹고, 잘 운동해서 아닐까요? 저희 아들은 저 닮아서 줄넘기를 자주 합니다 ㅎㅎ.",
+          "summary": "나는 줄넘기를 자주 한다.",
+          "date": "2022-08-10",
+          "time": "13:55:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02192",
+          "participantID": "0093",
+          "utterance": "줄넘기를 하면 키가 커지나요? 궁금합니다.",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "13:56:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03625",
+          "participantID": "0089",
+          "utterance": "점프를 자주 하면, 성장판에 자극이 된다고 해요.",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "13:57:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02192",
+          "participantID": "0093",
+          "utterance": "확실히 도움이 되는 정보네요. 그렇다면 음식은 뭐가 좋을까요?",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "13:59:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03625",
+          "participantID": "0089",
+          "utterance": "음식은 뭐 단백질 칼슘이 풍부한 멸치나 계란이 좋아요 ㅎㅎ.",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "14:00:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02192",
+          "participantID": "0093",
+          "utterance": "그런 음식들이 건강에 도움되는 건 익히 들어본 것 같습니다!",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "14:01:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03625",
+          "participantID": "0089",
+          "utterance": "마침 점심 시간 되었는데, 자녀한테 권해 보시죠!",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "14:01:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02192",
+          "participantID": "0093",
+          "utterance": "자녀가 태어나면 꼭 먹여야겠습니다.",
+          "summary": "나는 아직 자식이 없다.",
+          "date": "2022-08-10",
+          "time": "14:01:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03625",
+          "participantID": "0089",
+          "utterance": "아, 아직 자식이 없으신가요?",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "14:02:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02192",
+          "participantID": "0093",
+          "utterance": "네네. 결혼한지 얼마 안 되서.. ㅎㅎ.",
+          "summary": "나는 결혼한 지 얼마 되지 않았다. 나의 가족은 2명이다.",
+          "date": "2022-08-10",
+          "time": "14:03:31",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 남성이다.",
+          "나는 줄넘기를 자주 한다."
+        ],
+        "speaker2": [
+          "나는 30대 남성이다.",
+          "나는 요즘 @이름1@ 키가 많이 크다고 생각한다.",
+          "나는 아직 자식이 없다.",
+          "나는 결혼한 지 얼마 되지 않았다. 나의 가족은 2명이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00035-1",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00035-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03625",
+          "participantID": "0089",
+          "utterance": "이제 곧 저녁시간인데, 뭐 드실건가요? 저는 좋아하는 꿔바로우 먹었습니다 ㅎㅎ.",
+          "summary": "나는 꿔바로우를 좋아한다.",
+          "date": "2022-08-10",
+          "time": "14:03:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02192",
+          "participantID": "0093",
+          "utterance": "저는 일단 대중교통 환승 찍고 맛집 찾으러 가는 길입니다 ㅎㅎ.",
+          "summary": "나는 대중교통을 이용했다.",
+          "date": "2022-08-10",
+          "time": "14:04:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03625",
+          "participantID": "0089",
+          "utterance": "아 가족들이랑 같이 가나요?",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "14:00:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02192",
+          "participantID": "0093",
+          "utterance": "아뇨. 혼자 갑니다. 오늘은 다른게 먹고싶네요.",
+          "summary": "나는 혼자 식당에 간다.",
+          "date": "2022-08-10",
+          "time": "14:06:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03625",
+          "participantID": "0089",
+          "utterance": "왜 혼자 가시나요?? 아내 분이랑 같이 가야죠.",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "14:07:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02192",
+          "participantID": "0093",
+          "utterance": "아내가 순대국밥을 엄청 좋아해요. 제가 항상 맞춰주었거든요.. 내가 순대국밥 싫어하는건 비밀이죠.",
+          "summary": "나의 아내는 순대국밥을 엄청 좋아한다. 나는 순대국밥을 싫어한다.",
+          "date": "2022-08-10",
+          "time": "14:07:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03625",
+          "participantID": "0089",
+          "utterance": "ㅜㅜ 아내를 정말 사랑하시는구나. 힘드시겠어요.",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "14:07:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02192",
+          "participantID": "0093",
+          "utterance": "ㅎㅎ 그래도 사랑이 있어서 괜찮습니다. 시간이 부족한 것만 빼고...",
+          "summary": "나는 아내를 사랑하지만 시간이 부족하다.",
+          "date": "2022-08-10",
+          "time": "14:12:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03625",
+          "participantID": "0089",
+          "utterance": "그렇죠.. 사랑하면 내 시간이 줄어들죠..",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "14:14:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02192",
+          "participantID": "0093",
+          "utterance": "ㅋㅋ 맞아요. 오늘도 공부해야 하는데, 다른거 먹으러 가느라 시간이 없네요.",
+          "summary": "나는 시간이 없다.",
+          "date": "2022-08-10",
+          "time": "14:14:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03625",
+          "participantID": "0089",
+          "utterance": "저도 오늘 공부해야 하는데, 깜빡하고 있었네요.",
+          "summary": "나는 공부를 하려고 한다.",
+          "date": "2022-08-10",
+          "time": "14:14:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02192",
+          "participantID": "0093",
+          "utterance": "어떤 공부 하시는데요?",
+          "summary": "",
+          "date": "2022-08-10",
+          "time": "14:14:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03625",
+          "participantID": "0089",
+          "utterance": "영어 공부를 최근에 시작해서 공부하고 있습니다!",
+          "summary": "나는 영어 공부를 최근 시작했다.",
+          "date": "2022-08-10",
+          "time": "14:14:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "02192",
+          "participantID": "0093",
+          "utterance": "저는 영어에 관심이 있지만, 배울 시간이 없어서 아쉽습니다 ㅠㅠ.",
+          "summary": "나는 영어에 관심이 있지만, 시간이 없다.",
+          "date": "2022-08-10",
+          "time": "14:13:41",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 꿔바로우를 좋아한다.",
+          "나는 공부를 하려고 한다.",
+          "나는 영어 공부를 최근 시작했다."
+        ],
+        "speaker2": [
+          "나는 대중교통을 이용했다.",
+          "나는 혼자 식당에 간다.",
+          "나의 아내는 순대국밥을 엄청 좋아한다. 나는 순대국밥을 싫어한다.",
+          "나는 아내를 사랑하지만 시간이 부족하다.",
+          "나는 시간이 없다.",
+          "나는 영어에 관심이 있지만, 시간이 없다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 남성이다.",
+          "나는 줄넘기를 자주 한다."
+        ],
+        "speaker2": [
+          "나는 30대 남성이다.",
+          "나는 요즘 @이름1@ 키가 많이 크다고 생각한다.",
+          "나는 아직 자식이 없다.",
+          "나는 결혼한 지 얼마 되지 않았다. 나의 가족은 2명이다."
+        ]
+      }
+    }
+  ]
+}

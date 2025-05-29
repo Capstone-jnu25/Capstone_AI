@@ -1,0 +1,600 @@
+{
+  "FileInfo": {
+    "filename": "K3-00034-CL21887-CP31029-18-11-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3482",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "4174",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "생산/노무직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00034"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "21887",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 어머니는 주부이다",
+        "나는 화가이다",
+        "나는 일렉기타 연주를 배우고 싶다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "31029",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 기계공학과를 전공했다",
+        "나는 항상 행복하다",
+        "나는 맛있는 음식을 먹으면 기분이 좋아진다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "18-11",
+    "topicType": "상거래 전반",
+    "topicTitle": "시장"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00034-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "안녕하세요. 저는 20대 여성이에요. 나이가 어떻게 되세요?",
+          "summary": "나는 20대 여성이다.",
+          "date": "2022-11-26",
+          "time": "22:58:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "저는 30대 남성이에요ㅎㅎ 항상행복하게지내는 해피남이랍니다^^",
+          "summary": "나는 30대 남성이다. 나는 항상 행복하다\n",
+          "date": "2022-11-27",
+          "time": "10:24:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "저는 화가에요. 그림그리는걸 좋아하거든요. 어떤거에 관심있으세요?",
+          "summary": "나는 직업이 화가다.",
+          "date": "2022-11-28",
+          "time": "08:46:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "저는 요즘 음식에관심이생겼어요 다이어트하느라 잘안먹었는데 다포기하고 맛있는음식을먹으니 기분이좋아지더라구요~ 좋아하시는 음식이 있으신가요?",
+          "summary": "나는 요즘 음식에 관심이 생겼다. 나는 맛있는 음식을 먹으면 기분이 좋아진다\n",
+          "date": "2022-11-28",
+          "time": "14:03:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "맛있는거 먹는재미로 사는거죠. 전 면요리를 좋아해요.",
+          "summary": "나는 면을 좋아한다.",
+          "date": "2022-11-29",
+          "time": "05:04:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "얇은면을좋아하시나요 굵은면을좋아하시나요? 저는 얇은면을좋아해요",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "09:49:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "저희 어머니가 주부라서 국수를 자주 해주시는데 소면으로 해주시는게 맛있더라구요.",
+          "summary": "나는 주부 어머니가 계시다.",
+          "date": "2022-11-30",
+          "time": "10:07:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "저도 멸치육수에우려낸 잔치국수를좋아해요~ 먹는상상만해도 기분이좋네요ㅎ",
+          "summary": "나는 잔치국수를 좋아한다.",
+          "date": "2022-11-30",
+          "time": "10:25:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "전 요즘 일렉기타 연주를 배우고싶더라구요.",
+          "summary": "나는 일렉기타 연주를 배우고 싶다.",
+          "date": "2022-11-30",
+          "time": "10:37:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "저는 악기연주하시는분들보면 멋지더라구요~ 쳐보신적있으신가요?",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "10:45:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "처본적은 없는데 이제 배우려고 알아보고있어요.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "10:49:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "다음에 배우게된다면 들려주세요ㅎㅎ 기대되네요~ 저는 기계공학과를전공해서 악기는 잘 못다룬답니다",
+          "summary": " 나는 기계공학과를 전공했다. 악기는 잘 못 다룬다.",
+          "date": "2022-11-30",
+          "time": "11:00:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "아하하 그럴 수 있겠네요.배우게되면 꼭 들려드릴게요.",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "15:38:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "네ㅎㅎ 저는 이만 밥먹으러가볼께요",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "18:11:02",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다.",
+          "나는 직업이 화가다.",
+          "나는 면을 좋아한다.",
+          "나는 주부 어머니가 계시다.",
+          "나는 일렉기타 연주를 배우고 싶다."
+        ],
+        "speaker2": [
+          "나는 30대 남성이다. 나는 항상 행복하다\n",
+          "나는 요즘 음식에 관심이 생겼다. 나는 맛있는 음식을 먹으면 기분이 좋아진다\n",
+          "나는 잔치국수를 좋아한다.",
+          "나는 기계공학과를 전공했다. 악기는 잘 못 다룬다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00034-1",
+      "prevTimeInfo": {
+        "timeNum": "46",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00034-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "46시간만이에요. 어제뵌거 같은데 시간이 참 빨라요. 뭐하고 계셨어요?",
+          "summary": "",
+          "date": "2022-12-01",
+          "time": "00:44:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "이틀간 시장에파는 잔치국수를사먹으러갔다왔어요~맛있더라구요ㅎㅎ",
+          "summary": "나는 이틀간 시장에 잔치국수를 먹으러 갔다.",
+          "date": "2022-12-01",
+          "time": "01:45:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "정말 맛있었겠네요. 장도 보셨겠네요? ",
+          "summary": "",
+          "date": "2022-12-01",
+          "time": "08:34:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "네ㅎㅎ시장 정육점에들러서 삼겹살을사왔어요",
+          "summary": "나는 시장 정육점에서 삼겹살을 사 왔다.",
+          "date": "2022-12-01",
+          "time": "10:19:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "시장은 마트보다 삼겹살이 싼가요?",
+          "summary": "",
+          "date": "2022-12-01",
+          "time": "16:14:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "할인행사중이던데 마트보다저렴한지는모르겠어요 일단고기는 상태가훌륭하네요ㅎㅎ",
+          "summary": "",
+          "date": "2022-12-01",
+          "time": "16:16:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "신선한 식품을 싸게파는군요. 저희 아파트에는 수요일마다 장이들어와요.",
+          "summary": "",
+          "date": "2022-12-01",
+          "time": "16:20:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "와~ 그런것도있나요? 시장까지안가셔도되니 편하시겠어요 저는 집에서 시장까지 도보로20분걸려요",
+          "summary": "나는 집에서 시장까지 도보로 20분 걸린다.",
+          "date": "2022-12-01",
+          "time": "16:22:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "그치만 당장필요한 물건은 바로 못사는게 단점이에요.",
+          "summary": "나는 당장 필요한 물건을 바로 구매하지 못한다.",
+          "date": "2022-12-01",
+          "time": "16:44:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "근처에 시장외에 마트는있으신가요?",
+          "summary": "",
+          "date": "2022-12-01",
+          "time": "16:58:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "마트는 있지만 걸어가기엔 쫌 멀고 무조건차타고가야해서 대형트 온라인주문을 하는 편이에요.",
+          "summary": "나는 마트가 멀어서 대형마트 온라인 주문을 자주 한다.",
+          "date": "2022-12-01",
+          "time": "20:12:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "아~ 그것도편하죠ㅎㅎ 대형마트는 이상하게 가게되면 제가생각한것보다 더고르게되요 시장은 생각한것만 딱 사오는데말이죠",
+          "summary": "",
+          "date": "2022-12-02",
+          "time": "00:32:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "맞아요. 묶음으로 파니까 품목이 몇개 안되느데도 십만원 훌쩍 넘어요. 요즘은 20 만원은 있어야 장볼수있는거 같아요.",
+          "summary": "나는 20만 원으로 장을 본다.",
+          "date": "2022-12-02",
+          "time": "05:09:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "저는 이만 일이있어가볼께요~다음에또이야기해요",
+          "summary": "",
+          "date": "2022-12-02",
+          "time": "10:18:56",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 당장 필요한 물건을 바로 구매하지 못한다.",
+          "나는 마트가 멀어서 대형마트 온라인 주문을 자주 한다.",
+          "나는 20만 원으로 장을 본다."
+        ],
+        "speaker2": [
+          "나는 이틀간 시장에 잔치국수를 먹으러 갔다.",
+          "나는 시장 정육점에서 삼겹살을 사 왔다.",
+          "나는 집에서 시장까지 도보로 20분 걸린다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다.",
+          "나는 직업이 화가다.",
+          "나는 면을 좋아한다.",
+          "나는 주부 어머니가 계시다.",
+          "나는 일렉기타 연주를 배우고 싶다."
+        ],
+        "speaker2": [
+          "나는 30대 남성이다. 나는 항상 행복하다\n",
+          "나는 요즘 음식에 관심이 생겼다. 나는 맛있는 음식을 먹으면 기분이 좋아진다\n",
+          "나는 잔치국수를 좋아한다.",
+          "나는 기계공학과를 전공했다. 악기는 잘 못 다룬다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00034-2",
+      "prevTimeInfo": {
+        "timeNum": "7",
+        "timeUnit": "주"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00034-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "7주가 지났네요. 그동안 뭐하고 지내셨어요?",
+          "summary": "",
+          "date": "2022-12-03",
+          "time": "00:50:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "거의두달만이네요ㅎ 이번에 부모님이 김장하신다고 시장에서 고춧가루좀가져다달라시네요~",
+          "summary": "",
+          "date": "2022-12-03",
+          "time": "00:56:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "시장에 고춧가루 빻아주는곳이 있나봐요. 방앗간도 사라지는추세더라고요.",
+          "summary": "",
+          "date": "2022-12-03",
+          "time": "08:11:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "네 아직 방앗간이있는데 거기에 참기름이나 고춧가루를 가끔 빻거나 짜러가세요 방앗간에 맛있는떡집이있는데 떡좋아하시나요?",
+          "summary": "",
+          "date": "2022-12-03",
+          "time": "09:30:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "떡좋아하죠. 떡도 맛있나요? 전 얼마전 동네마트에 떡 샀다가 상해서 속상했어요.",
+          "summary": "나는 떡을 좋아한다.",
+          "date": "2022-12-04",
+          "time": "09:02:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "헉 상한떡은어떻게하셨어요? 다시갖고가셨나요?",
+          "summary": "",
+          "date": "2022-12-04",
+          "time": "14:00:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "상했다고 갖고가니 환불해주더라구요. 그치만 찝찝한. 기분은 어쩔수없죠.",
+          "summary": "나는 상한 떡을 환불받았다.",
+          "date": "2022-12-04",
+          "time": "16:25:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "그래도 환불해주니 다행이에요 아무래도 시장은 대형마트보다 개인이관리하시니 환경이열악하기는해요",
+          "summary": "",
+          "date": "2022-12-04",
+          "time": "17:30:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "그래도 시장이 에누리도 되고 저렴하죠? 전 시장가까웠던 곳에 있다가 이사오니 시장없어서 불편하더라구요.",
+          "summary": "나는 주변에 시장이 없어서 불편하다.",
+          "date": "2022-12-05",
+          "time": "00:33:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "네 시장은 인심이좋아서 서비스도더주고 그런장점이있기는해요ㅎㅎ 그리고 시장걷다보면 맛있는냄새도나고 분식도있고 소소한행복도있는것같아요",
+          "summary": "",
+          "date": "2022-12-05",
+          "time": "09:32:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "신도시쪽은 시장형성이 안되있어서 아쉬워요.",
+          "summary": "",
+          "date": "2022-12-05",
+          "time": "09:39:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "동네마트보다는 시장이좀더 괜찮은것같아요 시장안가신지는 얼마나되셨나요?",
+          "summary": "나는 동네 마트보다 시장이 좀 더 괜찮은 것 같다.",
+          "date": "2022-12-05",
+          "time": "09:53:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "21887",
+          "participantID": "3482",
+          "utterance": "거의 3개월정도 된것 같아요. 엄마네 갈때 한번씩 가니까요. 이번에 또 들러야겠어요.",
+          "summary": "나는 3개월 전에 시장을 가봤다.",
+          "date": "2022-12-05",
+          "time": "09:55:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "31029",
+          "participantID": "4174",
+          "utterance": "오래되셨네요~ 저는 약속이있어 이만가볼께요",
+          "summary": "",
+          "date": "2022-12-05",
+          "time": "09:56:05",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 떡을 좋아한다.",
+          "나는 상한 떡을 환불받았다.",
+          "나는 주변에 시장이 없어서 불편하다.",
+          "나는 3개월 전에 시장을 가봤다."
+        ],
+        "speaker2": [
+          "나는 동네 마트보다 시장이 좀 더 괜찮은 것 같다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 여성이다.",
+          "나는 직업이 화가다.",
+          "나는 면을 좋아한다.",
+          "나는 주부 어머니가 계시다.",
+          "나는 일렉기타 연주를 배우고 싶다.",
+          "나는 당장 필요한 물건을 바로 구매하지 못한다.",
+          "나는 마트가 멀어서 대형마트 온라인 주문을 자주 한다.",
+          "나는 20만 원으로 장을 본다."
+        ],
+        "speaker2": [
+          "나는 30대 남성이다. 나는 항상 행복하다\n",
+          "나는 요즘 음식에 관심이 생겼다. 나는 맛있는 음식을 먹으면 기분이 좋아진다\n",
+          "나는 잔치국수를 좋아한다.",
+          "나는 기계공학과를 전공했다. 악기는 잘 못 다룬다.",
+          "나는 이틀간 시장에 잔치국수를 먹으러 갔다.",
+          "나는 시장 정육점에서 삼겹살을 사 왔다.",
+          "나는 집에서 시장까지 도보로 20분 걸린다."
+        ]
+      }
+    }
+  ]
+}

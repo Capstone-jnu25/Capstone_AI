@@ -1,0 +1,934 @@
+{
+  "FileInfo": {
+    "filename": "K4-00021-CL04887-CP05114-04-13-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0057",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "주부",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0067",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "자영업",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00021"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "04887",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나의 가족은 1명이다.",
+        "나는 방송 영상 편집 기사이다.",
+        "나는 뭐든지 열심히 한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "05114",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나의 여자 형제는 간호사이다.",
+        "나는 김치찌개를 안 먹는다.",
+        "나는 힐링 여행을 자주 간다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "04-13",
+    "topicType": "일과 직업>회사/아르바이트",
+    "topicTitle": "출퇴근"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "4-00021-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "안녕하세요~ 저는 50대 여성입니다~",
+          "summary": "나는 50대 여성이다.",
+          "date": "2022-09-05",
+          "time": "16:00:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "네 안녕하세요~ ^^ 저도 50대 여성이에요~",
+          "summary": "나는 50대 여성이다.",
+          "date": "2022-09-05",
+          "time": "16:00:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "오 반갑습니다~ ㅎ뭐하고 계세요?",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:10:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "저 지금 일하고 있어요 ㅎㅎ 쉬는시간이에요.",
+          "summary": "나는 쉬는 시간이다.",
+          "date": "2022-09-05",
+          "time": "16:10:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "아 그래요? ^^ 무슨일 하고 계세요~?",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:10:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "저 화장품회사에서 아르바이트해요~ ㅎ.",
+          "summary": "나는 화장품 회사 아르바이트다.",
+          "date": "2022-09-05",
+          "time": "16:11:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "아 그러시구나~ ㅎㅎ 회사랑 가까워요?",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:14:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "아니요~ㅜㅜ 거리가 좀 있어요~",
+          "summary": "나는 회사랑 거리가 있다.",
+          "date": "2022-09-05",
+          "time": "16:14:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "아~ 그럼 차로 출퇴근하시겠네요~",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:15:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "아니요.. 자차는 없구~ 출퇴근차량이있어서 그걸로 해요.",
+          "summary": "나는 출퇴근 차량으로 출퇴근한다.",
+          "date": "2022-09-05",
+          "time": "16:15:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "아 그러시구나~ 좀 많이 번거로우시겠어요~",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:15:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "네.. 그쪽도 일하고 계신가요~?ㅎㅎ.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:15:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "네 ㅎㅎ 저는 방송 영상 편집 기사에요~",
+          "summary": "나는 방송영상편집 기사이다.",
+          "date": "2022-09-05",
+          "time": "16:16:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "이야~ 배우신분이셨네요 ~ㅎㅎ 멋있어요~",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:16:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "앗..아닙니다.. ㅋㅋ 쑥스러워요.",
+          "summary": "나는 쑥스럽다.",
+          "date": "2022-09-05",
+          "time": "16:16:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "ㅎㅎ 저 이제 일 들어가봐야해요~",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:16:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "아 네네 오늘 고생하시고~ 다음에 봐요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:16:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "네~ 알겠습니다 ㅎ 고생하세요~",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:17:04",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다.",
+          "나는 방송영상편집 기사이다.",
+          "나는 쑥스럽다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나는 쉬는 시간이다.",
+          "나는 화장품 회사 아르바이트다.",
+          "나는 회사랑 거리가 있다.",
+          "나는 출퇴근 차량으로 출퇴근한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00021-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "4-00021-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "안녕하세요~ ㅎ 좋은아침이에요 어제 하루 잘보내셨어요?",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:17:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "네 잘보냈어요~ ㅎ 오늘 일 나가세요~?",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:17:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "아니요 ~ 저도 오늘은 쉬는날이에요 ~",
+          "summary": "나는 오늘 쉬는날이다.",
+          "date": "2022-09-05",
+          "time": "16:17:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "아 그렇구나 ㅎ 저도 쉬는날이에요 그쪽은 출퇴근 어떻게해요?",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:17:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "저는 주로 재택근무 많이해요 ~ 컴퓨터로 편집하는거라서 ~",
+          "summary": "나는 재택근무를 많이 한다.",
+          "date": "2022-09-05",
+          "time": "16:18:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "우와 부럽다..재택근무라니..ㅜㅜ.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:18:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "딱히 그렇지도 않아요~ 맨날 하다가눕고싶고.. 딴짓하고싶고..",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:18:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "아 하긴 그건또 그렇겠네요 ㅎ 그럼 재택만 하시는거에요?",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:18:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "아니요~ 필요할때는 자차로 출퇴근하죠~ ㅎ.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:18:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "아 그러시구나 ㅎㅎ 오늘은 뭐하세요?",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:19:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "저는~ 남편이랑 최근에 운동시작해서요~ 운동좀 하려고요.",
+          "summary": "나는 남편과 최근에 운동을 시작했다.",
+          "date": "2022-09-05",
+          "time": "16:20:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "오~ ㅎㅎ 좋은취미네요~ 자식들은 뭐해요~?",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:20:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "아 저희는 자식안낳고 살아요~ㅎㅎ 딩크족이에요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:21:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "헉.. 진짜요? 그럼 남편이랑 결혼해서 사는거에요?",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:21:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "네 ㅎㅎ 저희가족은 남편하나입니다! ㅎ.",
+          "summary": "나의 가족은 1명이다.",
+          "date": "2022-09-05",
+          "time": "16:21:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "우와.. 결혼하고 막 애낳았을땐 부러웠을거에요..저 남편 밥좀 차려주고 올게요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:22:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "아 네네 ㅎ 저도 밥먹고올게요~ 다음에 봐요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:22:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "네 ~ ㅎㅎ 식사 맛있게하세요~ ^^",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:22:49",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 오늘 쉬는날이다.",
+          "나는 재택근무를 많이 한다.",
+          "나는 남편과 최근에 운동을 시작했다.",
+          "나의 가족은 1명이다."
+        ],
+        "speaker2": []
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다.",
+          "나는 방송영상편집 기사이다.",
+          "나는 쑥스럽다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나는 쉬는 시간이다.",
+          "나는 화장품 회사 아르바이트다.",
+          "나는 회사랑 거리가 있다.",
+          "나는 출퇴근 차량으로 출퇴근한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00021-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "4-00021-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "아까 식사잘하셨어요? ㅎ 아우 저는 남편이랑 또 메뉴로 갈등했어요 ㅋ.",
+          "summary": "나는 남편과 음식메뉴로 길 등이 있었다.",
+          "date": "2022-09-05",
+          "time": "16:25:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "아 그래요?ㅎㅎ 왜요 무슨 갈등이요?",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:25:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "아 저는 부대찌개먹고싶은데 남편은 치킨먹고싶어해서요 ㅋㅋ.",
+          "summary": "나는 부대찌개가 먹고싶고 남편은 치킨이 먹고싶다.",
+          "date": "2022-09-05",
+          "time": "16:30:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "아ㅋㅋㅋ 저도 가끔 그래요~ 저는 김치찌개를 안먹거든요~",
+          "summary": "나는 김치찌개를 안 먹는다.",
+          "date": "2022-09-05",
+          "time": "16:30:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "아~ ㅎㅎ 안드시는 음식이면 좀 그렇죠..",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:30:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "ㅎㅎ 형제분은 있으신가요? 저는 여동생한명 있는데.",
+          "summary": "나는 여동생이 있다.",
+          "date": "2022-09-05",
+          "time": "16:30:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "아 저는 위로 오빠한명 있어요~ ㅎㅎ.",
+          "summary": "나는 오빠한명이 있다.",
+          "date": "2022-09-05",
+          "time": "16:30:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "아~ ㅎㅎ 오빠 있으시구나~ 부럽다 ㅎ 오빠는 뭐하는분이세요?",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:30:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "저희 오빠는 수영강사로 일해요~",
+          "summary": "나의 오빠는 수영강 사이다.",
+          "date": "2022-09-05",
+          "time": "16:30:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "우와.. 알고보니 운동집안 이었네요~ ㅎㅎ.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:30:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "ㅋㅋㅋ오빠가 수영강사인데 수영은 오히려 제가 더 잘해요.",
+          "summary": "나는 오빠보다 수영을 잘한다.",
+          "date": "2022-09-05",
+          "time": "16:30:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "헉.. 진짜요?ㅋㅋ 못하시는게 뭐에요 도대체.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:30:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "아.. 저는 뭐든지 열심히하는편이에요.. ㅋㅋ여동생분은 뭐해요?",
+          "summary": "나는 뭐든지 열심히 한다.",
+          "date": "2022-09-05",
+          "time": "16:31:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "대단하시네..제 여동생은 지금 간호사에요 ㅎ.",
+          "summary": "나의 여동생은 간호사이다.",
+          "date": "2022-09-05",
+          "time": "16:31:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "와우~ 널스널스~ 간호사~멋있어요 ㅎ.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:31:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "ㅎㅎ 감사합니다~ 동생한테 전화왔네요 마침 ㅎ 잠시만요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:32:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "네네 통화하세요~ 저두 이제 좀 약속이있어서 다음에 봐요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:32:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "아 네네 ㅎ 그래요~ 다음에봐요~",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:32:52",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 남편과 음식메뉴로 길 등이 있었다.",
+          "나는 부대찌개가 먹고싶고 남편은 치킨이 먹고싶다.",
+          "나는 오빠한명이 있다.",
+          "나의 오빠는 수영강 사이다.",
+          "나는 오빠보다 수영을 잘한다.",
+          "나는 뭐든지 열심히 한다."
+        ],
+        "speaker2": [
+          "나는 김치찌개를 안 먹는다.",
+          "나는 여동생이 있다.",
+          "나의 여동생은 간호사이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다.",
+          "나는 방송영상편집 기사이다.",
+          "나는 쑥스럽다.",
+          "나는 오늘 쉬는날이다.",
+          "나는 재택근무를 많이 한다.",
+          "나는 남편과 최근에 운동을 시작했다.",
+          "나의 가족은 1명이다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나는 쉬는 시간이다.",
+          "나는 화장품 회사 아르바이트다.",
+          "나는 회사랑 거리가 있다.",
+          "나는 출퇴근 차량으로 출퇴근한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00021-3",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "17",
+      "numberOfTurns": "8",
+      "sessionID": "4-00021-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "똑똑~ 계세요~ ㅎㅎ 어제는 날이 좋았는데.. 오늘은 날이 좀 꾸리꾸리하네요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:33:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "네~ ㅎㅎ 그러게요 오늘 날씨가 좀 별로네요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:34:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "어제 동생분한테 왜 연락왔어요~?",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:34:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "아 저희 몇일뒤에 힐링여행 가거든요 ㅎ 동생이랑 자주가요.",
+          "summary": "나는 힐링여행을 자주 간다.",
+          "date": "2022-09-05",
+          "time": "16:34:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "우와.. 짱 부럽다~ 힐링여행이라니 ㅜㅜ.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:35:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "다음에 기회되면 같이 한번가요~ ㅎ.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:35:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "우와 정말요?ㅎㅎ 저야 좋죠~ 힐링여행 한번도 안가봤는데.",
+          "summary": "나는 힐링여행을 한 번도 안 갔다.",
+          "date": "2022-09-05",
+          "time": "16:35:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "그래요..?ㅎㅎ 막 거창하게 돈많이쓰지않고 딱 힐링만 하는거에요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:36:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "오.. 뭔가 신선하다~ ㅎ 재밌겠다 빨리가고싶네요. 언제가요~?",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:36:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "이틀뒤에 출발해요 ㅎㅎ 거의 당일치기아니면 1박2일로 가요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:36:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "오~ 좋네요~ 딱 깔끔하게 다녀오시네요 ㅎ.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:37:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "네 ㅎㅎ 너무 길면 이것저것 다 신경써야되서 힐링이 안되요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:37:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "그렇구나~ ㅎ 다음에는 꼭 같이갈게요~ 불러주세요 ㅎ.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:37:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "네네 ㅎ 어 날이 점점 흐려지네요 비올것같은데요?",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:38:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "어머 그러네요? 빨래 안으로 들여야겠어요.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:38:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05114",
+          "participantID": "0067",
+          "utterance": "저도 빨래 들여놓고 집안일좀 해야겠어요 ㅎ.",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:38:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "04887",
+          "participantID": "0057",
+          "utterance": "네 그래요~ ㅎ 그럼 오늘 좋은하루 보내세요!",
+          "summary": "",
+          "date": "2022-09-05",
+          "time": "16:38:59",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 힐링여행을 한 번도 안 갔다."
+        ],
+        "speaker2": [
+          "나는 힐링여행을 자주 간다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 50대 여성이다.",
+          "나는 방송영상편집 기사이다.",
+          "나는 쑥스럽다.",
+          "나는 오늘 쉬는날이다.",
+          "나는 재택근무를 많이 한다.",
+          "나는 남편과 최근에 운동을 시작했다.",
+          "나의 가족은 1명이다.",
+          "나는 남편과 음식메뉴로 길 등이 있었다.",
+          "나는 부대찌개가 먹고싶고 남편은 치킨이 먹고싶다.",
+          "나는 오빠한명이 있다.",
+          "나의 오빠는 수영강 사이다.",
+          "나는 오빠보다 수영을 잘한다.",
+          "나는 뭐든지 열심히 한다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나는 쉬는 시간이다.",
+          "나는 화장품 회사 아르바이트다.",
+          "나는 회사랑 거리가 있다.",
+          "나는 출퇴근 차량으로 출퇴근한다.",
+          "나는 김치찌개를 안 먹는다.",
+          "나는 여동생이 있다.",
+          "나의 여동생은 간호사이다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1116 @@
+{
+  "FileInfo": {
+    "filename": "K4-00023-CL03871-CP05006-16-11-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "24148",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "25372",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "사무직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "중졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00023"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "03871",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나의 가족은 4명이다.",
+        "나는 된장찌개를 좋아한다.",
+        "나는 요즘, 자주 괴롭다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "05006",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나의 거주지는 서울이다.",
+        "나는 낫토를 좋아한다.",
+        "나는 매우 부지런하다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "16-11",
+    "topicType": "미용과 건강>미용",
+    "topicTitle": "메이크업"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "20",
+      "numberOfTurns": "10",
+      "sessionID": "4-00023-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "반가워요. 저는 40대 여자입니다.",
+          "summary": "나는 40대 여성이다.",
+          "date": "2022-09-15",
+          "time": "12:08:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "안녕하세요. 저는 서울에 거주하는 50대 여성입니다.",
+          "summary": "나는 서울에 거주하는 50대 여성이다.",
+          "date": "2022-09-15",
+          "time": "12:08:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "저의 가족은 4명인데 저포함 다들 된장찌개를 좋아해서 저녁으로 된장찌개를 하는 중입니다. 저녁 드셨어요?",
+          "summary": "나의 가족은 4명인데 나를 포함해서 다 된장찌개를 좋아한다.",
+          "date": "2022-09-15",
+          "time": "12:08:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "저도 된장 찌개를 좋아해요~ 낫토도 좋아하고 청국장도 좋아해요. 오늘은 낫토를 먹었답니다.",
+          "summary": "나는 된장찌개와 낫토, 청국장을 좋아한다. 나는 오늘 낫토를 먹었다.",
+          "date": "2022-09-15",
+          "time": "12:09:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "낫토 완전 맛있잖아요. 김치랑 같이 비벼 드셔도 맛있어요.",
+          "summary": "나는 낫토랑 김치랑 비벼먹는 것도 맛있다.",
+          "date": "2022-09-15",
+          "time": "12:09:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "완전 맛있어요~ 저는 김치랑 같이 먹는건 싫어해요. 김치를 잘 못먹어서요.",
+          "summary": "나는 낫토를 김치랑 같이 먹는 것을 싫어한다. 나는 김치를 잘 못 먹는다.",
+          "date": "2022-09-15",
+          "time": "12:09:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "그러시군요. 혹시 직업은 어떻게 되시나요?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:09:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "저는 가내수공업을 하고 있어요. 제가 매우 부지런한 편인데 저랑 잘 맞는것 같아요.",
+          "summary": "나는 가내 수공업을 하고 있다. 나는 매우 부지런하다.",
+          "date": "2022-09-15",
+          "time": "12:10:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "그러시군요. 부지런하다니 부러워요. 저는 게으른 편이라서 그런 저를 보면 요즘, 자주 괴로워요.",
+          "summary": "나는 게으른 편이라서 그런 나를 보면 요즘, 자주 괴롭다.",
+          "date": "2022-09-15",
+          "time": "12:10:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "알고보면 엄청 부지런하실것 같아요~ 완벽주의자이신거 아닌가요?",
+          "summary": "나는 상대방이 알고 보면 엄청 부지런할 것 같다.",
+          "date": "2022-09-15",
+          "time": "12:10:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "완벽주의자 였으면 소원이 없겠네요. 그냥 게으르답니다.",
+          "summary": "나는 완벽주의자이고 싶지만 그냥 게으르다.",
+          "date": "2022-09-15",
+          "time": "12:11:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "보통 완벽 주의자들이 겸손하더라고요~",
+          "summary": "나는 완벽주의자들이 보통 겸손하다고 생각한다.",
+          "date": "2022-09-15",
+          "time": "12:11:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "하하하. 지금도 일을 하고 계신가요?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:11:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "네. 저는 일하다가 손이 아파서 잠깐 쉬고 있어요.",
+          "summary": "나는 손이 아파서 잠깐 쉬고 있다.",
+          "date": "2022-09-15",
+          "time": "12:11:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "일을 많이 하시면 손이 아프시죠? 힘내세요.",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:11:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "너무 아파요.. 한번씩 울고 싶을때도 있어요..",
+          "summary": "나는 너무 아파서 한 번씩 울고 싶을 때도 있다.",
+          "date": "2022-09-15",
+          "time": "12:11:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "그 정도라니. 병원 한번 가서 진찰 받으셔야 하는거 아닌가요?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:11:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "그러게요. 오늘은 병원에 한 번 가야 겠어요!",
+          "summary": "나는 오늘 병원에 가야겠다.",
+          "date": "2022-09-15",
+          "time": "12:12:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "잘 생각 하셨어요! 저는 이만 저녁준비 마저 하고 올게요.",
+          "summary": "나는 저녁 준비를 마저 할 것이다.",
+          "date": "2022-09-15",
+          "time": "12:12:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "네!그럼 저는 이제 병원에 다녀 올게요!",
+          "summary": "나는 병원에 다녀올 것이다.",
+          "date": "2022-09-15",
+          "time": "12:12:28",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다.",
+          "나의 가족은 4명인데 나를 포함해서 다 된장찌개를 좋아한다.",
+          "나는 낫토랑 김치랑 비벼먹는 것도 맛있다.",
+          "나는 게으른 편이라서 그런 나를 보면 요즘, 자주 괴롭다.",
+          "나는 완벽주의자이고 싶지만 그냥 게으르다.",
+          "나는 저녁 준비를 마저 할 것이다."
+        ],
+        "speaker2": [
+          "나는 서울에 거주하는 50대 여성이다.",
+          "나는 된장찌개와 낫토, 청국장을 좋아한다. 나는 오늘 낫토를 먹었다.",
+          "나는 낫토를 김치랑 같이 먹는 것을 싫어한다. 나는 김치를 잘 못 먹는다.",
+          "나는 가내 수공업을 하고 있다. 나는 매우 부지런하다.",
+          "나는 상대방이 알고 보면 엄청 부지런할 것 같다.",
+          "나는 완벽주의자들이 보통 겸손하다고 생각한다.",
+          "나는 손이 아파서 잠깐 쉬고 있다.",
+          "나는 너무 아파서 한 번씩 울고 싶을 때도 있다.",
+          "나는 오늘 병원에 가야겠다.",
+          "나는 병원에 다녀올 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00023-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "20",
+      "numberOfTurns": "10",
+      "sessionID": "4-00023-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "오늘은 출근하는 날이라서 일찍 나왔어요. 일 중이세요?",
+          "summary": "나는 출근하는 날이라서 일찍 나왔다.",
+          "date": "2022-09-15",
+          "time": "12:12:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "그러시군요~ 저는 오늘 쉬고 있어요. 무슨 일을 하세요?",
+          "summary": "나는 오늘 쉬고 있다.",
+          "date": "2022-09-15",
+          "time": "12:12:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "저는 메이크업 아티스트 입니다. 메이크업 좋아하세요?",
+          "summary": "나는 메이크업 아티스트이다.",
+          "date": "2022-09-15",
+          "time": "12:13:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "어머나! 정말 멋진 직업을 가지고 계시네요. 저는 거의 메이크업을 하지 않아요..",
+          "summary": "나는 메이크업을 거의 하지 않는다.",
+          "date": "2022-09-15",
+          "time": "12:13:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "왜 메이크업을 별로 하지 않으세요?",
+          "summary": "나는 상대방이 왜 메이크업을 안 하는지 궁금하다.",
+          "date": "2022-09-15",
+          "time": "12:13:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "제가 어디 나갈 일이 없어서요. 그래도 메이크업을 좋아해요!",
+          "summary": "나는 어디 나갈 일이 없다. 나는 메이크업을 좋아한다.",
+          "date": "2022-09-15",
+          "time": "12:13:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "그렇군요. 혹시 메이크업은 잘 하시나요?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:13:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "저는 잘하고 싶은데 딸들이 똥손이라고 놀리네요.",
+          "summary": "나는 메이크업을 잘하고 싶다. 나는 딸들이 똥 손이라고 놀린다.",
+          "date": "2022-09-15",
+          "time": "12:14:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "딸분들이 짖궂으시네요. 저는 연예인 메이크업을 담당하는데 연예인들 피부가 참 좋아요.",
+          "summary": "나는 연예인들 메이크업을 담당한다.",
+          "date": "2022-09-15",
+          "time": "12:14:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "연예인을 많이 보시겠네요! 연예인들은 피부과도 많이 다니겠죠?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:14:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "네. 피부과를 안다니는 연예인은 보지 못했어요.",
+          "summary": "나는 피부과를 안 다니는 연예인은 보지 못했다.",
+          "date": "2022-09-15",
+          "time": "12:14:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "맞아요. 어떤 남자 연예인은 한달에 피부과에 300을 쓴다고 하더라고요.",
+          "summary": "나는 어떤 남자 연예인은 피부과에 한 달에 300을 쓴다고 말했다.",
+          "date": "2022-09-15",
+          "time": "12:14:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "많이쓰네요. 저는 메이크업에 자부심이 있는데 한번 받으러 와보실래요?",
+          "summary": "나는 메이크업에 자부심이 있다.",
+          "date": "2022-09-15",
+          "time": "12:15:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "감사합니다. 저도 받으면 10년은 젊어 보일 수 있나요?",
+          "summary": "나는 메이크업을 받으면 10년은 젊어 보일 수 있는지 궁금하다.",
+          "date": "2022-09-15",
+          "time": "12:15:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "물론이죠. 장점을 부각시키고 단점은 숨기는게 메이크업이거든요.",
+          "summary": "나는 장점을 부각하고 단점을 숨기는 게 메이크업이라고 생각한다.",
+          "date": "2022-09-15",
+          "time": "12:16:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "멋진 손을 가지고 계시네요~ 저도 장점만 부각되고 싶어요.",
+          "summary": "나는 장점만 부각되고 싶다.",
+          "date": "2022-09-15",
+          "time": "12:16:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "얼마든지 가능한 일이죠. 저 안바쁠때 한번 들려주세요.",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:16:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "알겠습니다~ 꼭 들리게요. 그럼 저는 재활을 하러 갈게요.",
+          "summary": "나는 재활을 하러 갈 것이다.",
+          "date": "2022-09-15",
+          "time": "12:16:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "아 재활 잘 하시기를 바랄게요! 그럼 다음에 봬요.",
+          "summary": "나는 상대방이 재활을 잘하기를 바란다.",
+          "date": "2022-09-15",
+          "time": "12:16:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "네. 감사합니다. 좋은 하루 보내세요~다음에 연락해요.",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:17:02",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 출근하는 날이라서 일찍 나왔다.",
+          "나는 메이크업 아티스트이다.",
+          "나는 상대방이 왜 메이크업을 안 하는지 궁금하다.",
+          "나는 연예인들 메이크업을 담당한다.",
+          "나는 피부과를 안 다니는 연예인은 보지 못했다.",
+          "나는 메이크업에 자부심이 있다.",
+          "나는 장점을 부각하고 단점을 숨기는 게 메이크업이라고 생각한다.",
+          "나는 상대방이 재활을 잘하기를 바란다."
+        ],
+        "speaker2": [
+          "나는 오늘 쉬고 있다.",
+          "나는 메이크업을 거의 하지 않는다.",
+          "나는 어디 나갈 일이 없다. 나는 메이크업을 좋아한다.",
+          "나는 메이크업을 잘하고 싶다. 나는 딸들이 똥 손이라고 놀린다.",
+          "나는 어떤 남자 연예인은 피부과에 한 달에 300을 쓴다고 말했다.",
+          "나는 메이크업을 받으면 10년은 젊어 보일 수 있는지 궁금하다.",
+          "나는 장점만 부각되고 싶다.",
+          "나는 재활을 하러 갈 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다.",
+          "나의 가족은 4명인데 나를 포함해서 다 된장찌개를 좋아한다.",
+          "나는 낫토랑 김치랑 비벼먹는 것도 맛있다.",
+          "나는 게으른 편이라서 그런 나를 보면 요즘, 자주 괴롭다.",
+          "나는 완벽주의자이고 싶지만 그냥 게으르다.",
+          "나는 저녁 준비를 마저 할 것이다."
+        ],
+        "speaker2": [
+          "나는 서울에 거주하는 50대 여성이다.",
+          "나는 된장찌개와 낫토, 청국장을 좋아한다. 나는 오늘 낫토를 먹었다.",
+          "나는 낫토를 김치랑 같이 먹는 것을 싫어한다. 나는 김치를 잘 못 먹는다.",
+          "나는 가내 수공업을 하고 있다. 나는 매우 부지런하다.",
+          "나는 상대방이 알고 보면 엄청 부지런할 것 같다.",
+          "나는 완벽주의자들이 보통 겸손하다고 생각한다.",
+          "나는 손이 아파서 잠깐 쉬고 있다.",
+          "나는 너무 아파서 한 번씩 울고 싶을 때도 있다.",
+          "나는 오늘 병원에 가야겠다.",
+          "나는 병원에 다녀올 것이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00023-2",
+      "prevTimeInfo": {
+        "timeNum": "7",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "20",
+      "numberOfTurns": "10",
+      "sessionID": "4-00023-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "오랜만에 연락 드리네요. 그 동안 너무 바빴어요. 잘 지내셨나요?",
+          "summary": "나는 그동안 너무 바빴다.",
+          "date": "2022-09-15",
+          "time": "12:17:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "많이 바쁘셨나요? 저는 이제 오늘부터 일을 할 수 있어요.",
+          "summary": "나는 오늘부터 일을 할 수 있다.",
+          "date": "2022-09-15",
+          "time": "12:17:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "다행입니다. 손은 다 나으신거 확실한가요?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:17:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "많이 나았어요. 일을 아예하지 않을수 없어서 오늘부터 조금씩 하려고요.",
+          "summary": "나는 오늘부터 일을 조금씩 할 것이다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "그래도 조심해서 일 하세요. 식사는 하셨나요?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "네. 오늘은 청국장을 먹었어요. 식사는 하셨나요~?",
+          "summary": "나는 오늘 청국장을 먹었다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "메주 음식을 좋아하시나 보군요. 전에 낫토를 먹었다고 한적이 있던거같은데요...",
+          "summary": "나는 상대방이 메주 음식을 좋아하는 거 같다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "네.메주도 좋고 콩으로 만든 음식을 다 좋아하는것 같아요.",
+          "summary": "나는 콩으로 만든 음식을 다 좋아한다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "그러시군요. 저도 메주 음식을 좋아해요. 밥 드시고 커피도 한잔 하시나요?",
+          "summary": "나는 메주 음식을 좋아한다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "커피 한 잔 하러 가야겠네요. 오늘 커피 한 잔 하셨어요?",
+          "summary": "나는 커피를 한 잔 하러 갈 것이다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "저도 밥 먹고 커피 한잔 하려구요. 커피 먹고싶네요.",
+          "summary": "나는 밥 먹고 커피 한잔 할 것이다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "아메리카노를 좋아하시나요? 라떼를 좋아하시나요?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "네. 저는 얼죽아 입니다. 라뗴를 좋아하세요?",
+          "summary": "나는 얼죽아다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "얼죽아가 뭔가요? 제가 요즘 말을 잘 몰라요.",
+          "summary": "나는 요즘 말을 잘 모른다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "얼어죽어도 아이스 아메리카노 라는 요즘 말이더라구요.",
+          "summary": "나는 얼죽아에 대해 알려줬다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "그렇군요. 뜻이 참 재미있네요. 저는 얼죽라라고 하면 될까요?",
+          "summary": "나는 얼죽아의 뜻이 참 재밌다고 생각한다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "그럼 아이스 라떼만 드시는건가요? 라떼가 맛있긴 하죠.",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "그런데 왜 얼죽아를 고집하시는 건가요?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "입가심으로는 아이스 아메리카노가 최고인거같아서요. 저는 이만 일 좀 하고올게요.",
+          "summary": "나는 입가심으로는 아이스 아메리카노가 최고다. 나는 일 할 것이다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "그렇군요~ 그럼 다음에 또 연락하기로 해요!",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 그동안 너무 바빴다.",
+          "나는 상대방이 메주 음식을 좋아하는 거 같다.",
+          "나는 메주 음식을 좋아한다.",
+          "나는 밥 먹고 커피 한잔 할 것이다.",
+          "나는 얼죽아다.",
+          "나는 얼죽아에 대해 알려줬다.",
+          "나는 입가심으로는 아이스 아메리카노가 최고다. 나는 일 할 것이다."
+        ],
+        "speaker2": [
+          "나는 오늘부터 일을 할 수 있다.",
+          "나는 오늘부터 일을 조금씩 할 것이다.",
+          "나는 오늘 청국장을 먹었다.",
+          "나는 콩으로 만든 음식을 다 좋아한다.",
+          "나는 커피를 한 잔 하러 갈 것이다.",
+          "나는 요즘 말을 잘 모른다.",
+          "나는 얼죽아의 뜻이 참 재밌다고 생각한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다.",
+          "나의 가족은 4명인데 나를 포함해서 다 된장찌개를 좋아한다.",
+          "나는 낫토랑 김치랑 비벼먹는 것도 맛있다.",
+          "나는 게으른 편이라서 그런 나를 보면 요즘, 자주 괴롭다.",
+          "나는 완벽주의자이고 싶지만 그냥 게으르다.",
+          "나는 저녁 준비를 마저 할 것이다.",
+          "나는 출근하는 날이라서 일찍 나왔다.",
+          "나는 메이크업 아티스트이다.",
+          "나는 상대방이 왜 메이크업을 안 하는지 궁금하다.",
+          "나는 연예인들 메이크업을 담당한다.",
+          "나는 피부과를 안 다니는 연예인은 보지 못했다.",
+          "나는 메이크업에 자부심이 있다.",
+          "나는 장점을 부각하고 단점을 숨기는 게 메이크업이라고 생각한다.",
+          "나는 상대방이 재활을 잘하기를 바란다."
+        ],
+        "speaker2": [
+          "나는 서울에 거주하는 50대 여성이다.",
+          "나는 된장찌개와 낫토, 청국장을 좋아한다. 나는 오늘 낫토를 먹었다.",
+          "나는 낫토를 김치랑 같이 먹는 것을 싫어한다. 나는 김치를 잘 못 먹는다.",
+          "나는 가내 수공업을 하고 있다. 나는 매우 부지런하다.",
+          "나는 상대방이 알고 보면 엄청 부지런할 것 같다.",
+          "나는 완벽주의자들이 보통 겸손하다고 생각한다.",
+          "나는 손이 아파서 잠깐 쉬고 있다.",
+          "나는 너무 아파서 한 번씩 울고 싶을 때도 있다.",
+          "나는 오늘 병원에 가야겠다.",
+          "나는 병원에 다녀올 것이다.",
+          "나는 오늘 쉬고 있다.",
+          "나는 메이크업을 거의 하지 않는다.",
+          "나는 어디 나갈 일이 없다. 나는 메이크업을 좋아한다.",
+          "나는 메이크업을 잘하고 싶다. 나는 딸들이 똥 손이라고 놀린다.",
+          "나는 어떤 남자 연예인은 피부과에 한 달에 300을 쓴다고 말했다.",
+          "나는 메이크업을 받으면 10년은 젊어 보일 수 있는지 궁금하다.",
+          "나는 장점만 부각되고 싶다.",
+          "나는 재활을 하러 갈 것이다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00023-3",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "20",
+      "numberOfTurns": "10",
+      "sessionID": "4-00023-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "오늘 주말입니다. 하지만 저는 일 하러 가네요. 일 쉬시죠?",
+          "summary": "나는 주말이지만 일을 한다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "너무 피곤하신것 같아요. 차타고 가고 계시는건 아닌것 같은데 맞나요?",
+          "summary": "나는 상대방이 너무 피곤한 것 같다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "맞아요. 정말 피곤하네요. 오늘 심지어 출장이에요. 차 타고 가요.",
+          "summary": "나는 차 타고 출장을 간다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "그렇군요. 출장은 어디로 가시나요? 저는 오늘 극 소량만 작업했어요.",
+          "summary": "나는 오늘 극소량만 작업을 했다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "부산으로 내려가요. knn으로 출장 간답니다.",
+          "summary": "나는 부산으로 출장 간다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "거기는 무슨 일로 가시는건가요? 방송국에 출연 하시나요?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "아니요. 아나운서들이 뭘 한다고해서 불려 왔어요.",
+          "summary": "나는 아나운서들 화장하러 간다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "그러시군요. 아나운서들 메이크업을 해주시나 봐요.",
+          "summary": "나는 상대방이 아나운서의 메이크업을 해준다고 생각한다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "맞아요. 차타고 내려가는데 너무 오래걸려서 지금은 휴게소에 잠시 왔어요.",
+          "summary": "나는 지금 휴게소에 잠시 왔다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "교통비는 따로 받으시는거 맞으신거죠?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "당연하죠. 출장비는 다 회사에 청구한답니다.",
+          "summary": "나는 출장비를 회사에 청구한다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "다행이네요. 너무 피곤하시겠지만 저는 참 재미있어 보여요.",
+          "summary": "나는 상대방이 피곤하겠지만 재미있어 보인다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "왜 재밌어 보이나요? 정말 궁금해서 여쭤봅니다.",
+          "summary": "나는 왜 재밌어 보이는지 궁금하다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "네. 저도 가끔은 여기 저기 돌아다니면서 일을 하고 싶거든요.",
+          "summary": "나는 가끔은 여기저기 돌아다니면서 일을 하고 싶다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "출장은 따로 없으신가요? 있지 않으세요?",
+          "summary": "나는 상대방이 출장이 없는지 궁금하다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "저는 집에서 가내수공업을 하니까 출장이 따로 없어요.",
+          "summary": "나는 출장이 따로 없다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "그러시군요. 그냥 나가서 일은 못하시는거죠?",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "네. 가서 하면 짐이 너무 많아서 보부상 처럼 보일거에요. 저는 이만 치료 받으러 갈게요.",
+          "summary": "나는 치료받으러 갈 것이다.",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "03871",
+          "participantID": "24148",
+          "utterance": "치료 잘 받고 오세요! 완쾌를 기원합니다.",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "05006",
+          "participantID": "25372",
+          "utterance": "감사합니다~ 즐거은 대화였어요. 오늘도 일 잘하시고 이만 여기까지 연락할게요.",
+          "summary": "",
+          "date": "2022-09-15",
+          "time": "12:27:38",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 주말이지만 일을 한다.",
+          "나는 차 타고 출장을 간다.",
+          "나는 부산으로 출장 간다.",
+          "나는 아나운서들 화장하러 간다.",
+          "나는 지금 휴게소에 잠시 왔다.",
+          "나는 출장비를 회사에 청구한다.",
+          "나는 왜 재밌어 보이는지 궁금하다.",
+          "나는 상대방이 출장이 없는지 궁금하다."
+        ],
+        "speaker2": [
+          "나는 상대방이 너무 피곤한 것 같다.",
+          "나는 오늘 극소량만 작업을 했다.",
+          "나는 상대방이 아나운서의 메이크업을 해준다고 생각한다.",
+          "나는 상대방이 피곤하겠지만 재미있어 보인다.",
+          "나는 가끔은 여기저기 돌아다니면서 일을 하고 싶다.",
+          "나는 출장이 따로 없다.",
+          "나는 치료받으러 갈 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다.",
+          "나의 가족은 4명인데 나를 포함해서 다 된장찌개를 좋아한다.",
+          "나는 낫토랑 김치랑 비벼먹는 것도 맛있다.",
+          "나는 게으른 편이라서 그런 나를 보면 요즘, 자주 괴롭다.",
+          "나는 완벽주의자이고 싶지만 그냥 게으르다.",
+          "나는 저녁 준비를 마저 할 것이다.",
+          "나는 출근하는 날이라서 일찍 나왔다.",
+          "나는 메이크업 아티스트이다.",
+          "나는 상대방이 왜 메이크업을 안 하는지 궁금하다.",
+          "나는 연예인들 메이크업을 담당한다.",
+          "나는 피부과를 안 다니는 연예인은 보지 못했다.",
+          "나는 메이크업에 자부심이 있다.",
+          "나는 장점을 부각하고 단점을 숨기는 게 메이크업이라고 생각한다.",
+          "나는 상대방이 재활을 잘하기를 바란다.",
+          "나는 그동안 너무 바빴다.",
+          "나는 상대방이 메주 음식을 좋아하는 거 같다.",
+          "나는 메주 음식을 좋아한다.",
+          "나는 밥 먹고 커피 한잔 할 것이다.",
+          "나는 얼죽아다.",
+          "나는 얼죽아에 대해 알려줬다.",
+          "나는 입가심으로는 아이스 아메리카노가 최고다. 나는 일 할 것이다."
+        ],
+        "speaker2": [
+          "나는 서울에 거주하는 50대 여성이다.",
+          "나는 된장찌개와 낫토, 청국장을 좋아한다. 나는 오늘 낫토를 먹었다.",
+          "나는 낫토를 김치랑 같이 먹는 것을 싫어한다. 나는 김치를 잘 못 먹는다.",
+          "나는 가내 수공업을 하고 있다. 나는 매우 부지런하다.",
+          "나는 상대방이 알고 보면 엄청 부지런할 것 같다.",
+          "나는 완벽주의자들이 보통 겸손하다고 생각한다.",
+          "나는 손이 아파서 잠깐 쉬고 있다.",
+          "나는 너무 아파서 한 번씩 울고 싶을 때도 있다.",
+          "나는 오늘 병원에 가야겠다.",
+          "나는 병원에 다녀올 것이다.",
+          "나는 오늘 쉬고 있다.",
+          "나는 메이크업을 거의 하지 않는다.",
+          "나는 어디 나갈 일이 없다. 나는 메이크업을 좋아한다.",
+          "나는 메이크업을 잘하고 싶다. 나는 딸들이 똥 손이라고 놀린다.",
+          "나는 어떤 남자 연예인은 피부과에 한 달에 300을 쓴다고 말했다.",
+          "나는 메이크업을 받으면 10년은 젊어 보일 수 있는지 궁금하다.",
+          "나는 장점만 부각되고 싶다.",
+          "나는 재활을 하러 갈 것이다.",
+          "나는 오늘부터 일을 할 수 있다.",
+          "나는 오늘부터 일을 조금씩 할 것이다.",
+          "나는 오늘 청국장을 먹었다.",
+          "나는 콩으로 만든 음식을 다 좋아한다.",
+          "나는 커피를 한 잔 하러 갈 것이다.",
+          "나는 요즘 말을 잘 모른다.",
+          "나는 얼죽아의 뜻이 참 재밌다고 생각한다."
+        ]
+      }
+    }
+  ]
+}

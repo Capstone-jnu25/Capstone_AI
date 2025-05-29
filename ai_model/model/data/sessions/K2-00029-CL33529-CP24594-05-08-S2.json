@@ -1,0 +1,424 @@
+{
+  "FileInfo": {
+    "filename": "K2-00029-CL33529-CP24594-05-08-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "1790",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "주부",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "1801",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00029"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "33529",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 중국어를 좋아한다.",
+        "나는 자영업을 한다.",
+        "나는 가끔 걱정스럽다.",
+        "나는 배를 안 먹는다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "24594",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 요즘, 가끔 기쁘다.",
+        "나는 인류학이 부전공이다.",
+        "나는 클라이밍을 싫어한다.",
+        "나는 신 음식을 즐겨 먹는다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "05-08",
+    "topicType": "일과 직업>군대",
+    "topicTitle": "편지"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00029-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33529",
+          "participantID": "1790",
+          "utterance": "안녕하세요 저는 자영업을 하고있는 30대 여자입니다.",
+          "summary": "나는 30대 여자이다. 나는 자영업을 한다.",
+          "date": "2022-10-18",
+          "time": "17:16:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24594",
+          "participantID": "1801",
+          "utterance": "반갑습니다~ 저는 20대 여자입니다!",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-10-18",
+          "time": "17:16:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33529",
+          "participantID": "1790",
+          "utterance": "저는 중국어를 좋아해서 중국에 분점을 내는게 목표입니다! 님은 목표같은게 있나요?",
+          "summary": "나는 중국어를 좋아한다. 나는 중국에 분점을 내는 것이 목표이다.",
+          "date": "2022-10-18",
+          "time": "17:16:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24594",
+          "participantID": "1801",
+          "utterance": "과탑이요! ㅎㅎ 제가 인류학이 부전공이거든요! 이번학기에 성적이 잘나와서 요즘 기뻐요 ㅎㅎ.",
+          "summary": "나는 인류학이 부전공이다. 나는 요즘, 가끔 기쁘다. 나의 목표는 과탑이다.",
+          "date": "2022-10-18",
+          "time": "17:17:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33529",
+          "participantID": "1790",
+          "utterance": "오 정말 멋지네요 ㅋㅋ 전 분점이 잘 안될까봐 가끔 걱정스러워요 ㅋㅋ 아 님은 요새 뭐하고 지내요?",
+          "summary": "나는 가끔 걱정스럽다.",
+          "date": "2022-10-18",
+          "time": "17:17:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24594",
+          "participantID": "1801",
+          "utterance": "음 저는 취미활동 만들려고 이것저것 해보고있어요!",
+          "summary": "나는 취미활동을 찾고 있다.",
+          "date": "2022-10-18",
+          "time": "17:17:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33529",
+          "participantID": "1790",
+          "utterance": "오 그럼 뭘 해보고 있으세요?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "17:17:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24594",
+          "participantID": "1801",
+          "utterance": "최근에는 클라이밍 해봤는데 너무 힘들어서 싫더라고요ㅠ 님은 운동 좋아해요?",
+          "summary": "나는 클라이밍을 해봤다. 나는 클라이밍을 싫어한다.",
+          "date": "2022-10-18",
+          "time": "17:18:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33529",
+          "participantID": "1790",
+          "utterance": "저는 클라이밍 좋아해요! 운동량이 엄청나던데요? ㅋㅋ 하고나면 배고프더라구요.",
+          "summary": "나는 클라이밍을 좋아한다.",
+          "date": "2022-10-18",
+          "time": "17:18:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24594",
+          "participantID": "1801",
+          "utterance": "맞아요.. ㅋㅋㅋ 아 님은 좋아하는 음식이 뭐에요?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "17:18:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33529",
+          "participantID": "1790",
+          "utterance": "네 ㅋㅋ 과일중 배를 안먹고 다른 음식은 다 좋아해요! 가리는 음식만 있어요 ㅋㅋ.",
+          "summary": "나는 배를 안 먹는다.",
+          "date": "2022-10-18",
+          "time": "17:18:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24594",
+          "participantID": "1801",
+          "utterance": "정말요? 어떤거요? 저는 신 음식을 즐겨 먹어요!",
+          "summary": "나는 신 음식을 즐겨 먹는다.",
+          "date": "2022-10-18",
+          "time": "17:19:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33529",
+          "participantID": "1790",
+          "utterance": "어우 생각만 해도 침이 나오네요 ㅋㅋ 아 저 할 일이 있어서 나중에 연락드릴게요~!",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "17:19:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24594",
+          "participantID": "1801",
+          "utterance": "그렇구나 ㅎㅎ 네 저도 공부할게 있어서 나중에 다시 연락드릴께요!",
+          "summary": "나는 공부를 할 것이다.",
+          "date": "2022-10-18",
+          "time": "17:19:35",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다. 나는 자영업을 한다.",
+          "나는 중국어를 좋아한다. 나는 중국에 분점을 내는 것이 목표이다.",
+          "나는 가끔 걱정스럽다.",
+          "나는 클라이밍을 좋아한다.",
+          "나는 배를 안 먹는다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 인류학이 부전공이다. 나는 요즘, 가끔 기쁘다. 나의 목표는 과탑이다.",
+          "나는 취미활동을 찾고 있다.",
+          "나는 클라이밍을 해봤다. 나는 클라이밍을 싫어한다.",
+          "나는 신 음식을 즐겨 먹는다.",
+          "나는 공부를 할 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00029-1",
+      "prevTimeInfo": {
+        "timeNum": "4",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00029-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "33529",
+          "participantID": "1790",
+          "utterance": "공부는 다 끝나셨나요? 힘드셨겠어요 ㅠ.",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "17:19:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24594",
+          "participantID": "1801",
+          "utterance": "네!ㅎㅎ 목표한만큼 다 해서 지금은 쉬고있어요! 님은 뭐하셨어요?",
+          "summary": "나는 쉬고 있다.",
+          "date": "2022-10-18",
+          "time": "17:20:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33529",
+          "participantID": "1790",
+          "utterance": "저는 아는 동생 편지 써주고 있었어요! 님은 군대간 지인한테 편지 써보셨어요?",
+          "summary": "나는 편지를 쓰고 있다.",
+          "date": "2022-10-18",
+          "time": "17:20:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24594",
+          "participantID": "1801",
+          "utterance": "네~! 제 동기가 군대에 있어서 편지 보낸적 있어요!",
+          "summary": "나는 편지를 보낸 적 있다.",
+          "date": "2022-10-18",
+          "time": "17:20:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33529",
+          "participantID": "1790",
+          "utterance": "오 편지를 자주 보내셨나요?",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "17:20:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24594",
+          "participantID": "1801",
+          "utterance": "그렇죠? 주위에 군대간 사람이 많거든요 ㅋㅋ.",
+          "summary": "나의 주위에는 군대 간 사람이 많다.",
+          "date": "2022-10-18",
+          "time": "17:20:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33529",
+          "participantID": "1790",
+          "utterance": "저는 주위에 군대 간 사람이 많이 없어서 이번이 처음 편지거든요 ㅋㅋ.",
+          "summary": "나는 군대에 편지를 처음 보내본다.",
+          "date": "2022-10-18",
+          "time": "17:21:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24594",
+          "participantID": "1801",
+          "utterance": "정말요? 그럼 어떻게 보내시는지는 알아요?!",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "17:21:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33529",
+          "participantID": "1790",
+          "utterance": "아뇨 ㅋㅋ 그냥 모르고 쓰기만 하고 있어요!",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "17:21:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24594",
+          "participantID": "1801",
+          "utterance": "요즘에는 인터넷으로도 편지 보낼 수 있어요! 인터넷을 이용하는건 어때요?",
+          "summary": "나는 인터넷으로 편지를 보낼 수 있는 것을 알고 있다.",
+          "date": "2022-10-18",
+          "time": "17:21:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33529",
+          "participantID": "1790",
+          "utterance": "헉 요새는 무조건 인터넷으로 보내나요? 처음 알았어요.",
+          "summary": "나는 인터넷 편지를 처음 알았다.",
+          "date": "2022-10-18",
+          "time": "17:21:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24594",
+          "participantID": "1801",
+          "utterance": "무조건은 아니고 더 편리하더라고요! ㅎㅎ 추천합니다.",
+          "summary": "나는 인터넷 편지를 추천한다.",
+          "date": "2022-10-18",
+          "time": "17:22:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "33529",
+          "participantID": "1790",
+          "utterance": "저도 그럼 온라인으로 바꿔써야겠어요 감사합니다!",
+          "summary": "나는 인터넷 편지를 쓸 것이다.",
+          "date": "2022-10-18",
+          "time": "17:22:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "24594",
+          "participantID": "1801",
+          "utterance": "네 ㅎㅎ 혹시나 작성하시다가 모르는거 있으면 물어봐요!",
+          "summary": "",
+          "date": "2022-10-18",
+          "time": "17:22:24",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 편지를 쓰고 있다.",
+          "나는 군대에 편지를 처음 보내본다.",
+          "나는 인터넷 편지를 처음 알았다.",
+          "나는 인터넷 편지를 쓸 것이다."
+        ],
+        "speaker2": [
+          "나는 쉬고 있다.",
+          "나는 편지를 보낸 적 있다.",
+          "나의 주위에는 군대 간 사람이 많다.",
+          "나는 인터넷으로 편지를 보낼 수 있는 것을 알고 있다.",
+          "나는 인터넷 편지를 추천한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다. 나는 자영업을 한다.",
+          "나는 중국어를 좋아한다. 나는 중국에 분점을 내는 것이 목표이다.",
+          "나는 가끔 걱정스럽다.",
+          "나는 클라이밍을 좋아한다.",
+          "나는 배를 안 먹는다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나는 인류학이 부전공이다. 나는 요즘, 가끔 기쁘다. 나의 목표는 과탑이다.",
+          "나는 취미활동을 찾고 있다.",
+          "나는 클라이밍을 해봤다. 나는 클라이밍을 싫어한다.",
+          "나는 신 음식을 즐겨 먹는다.",
+          "나는 공부를 할 것이다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,632 @@
+{
+  "FileInfo": {
+    "filename": "K3-00028-CL20205-CP22682-17-10-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0631",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0584",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00028"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "20205",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 동료와 잘 어울린다.",
+        "나는 한국어능력시험 자격증을 준비한다.",
+        "나는 스포츠 TV를 자주 본다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22682",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 여자 형제는 상담전문가이다.",
+        "나는 사진을 찍는 것을 좋아한다.",
+        "나는 포도를 좋아한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "17-10",
+    "topicType": "미용과 건강>건강",
+    "topicTitle": "물리치료"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00028-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "반가워요. 저는 20대 남자입니다... 그쪽은요?",
+          "summary": "나는 20대 남자이다.",
+          "date": "2022-10-04",
+          "time": "15:18:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "방가쓰~ 저는 20대 여자에요. 요로시쿠.",
+          "summary": "나는 20대 여자이다.",
+          "date": "2022-10-04",
+          "time": "15:19:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "그렇군요...! 어떤 일 하시는 분인가요? 요로시쿠?",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:19:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "저는 언니랑 같이 상담쪽 일 하고 있어요.",
+          "summary": "나의 여자 형제는 상담전문가이다.",
+          "date": "2022-10-04",
+          "time": "15:19:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "그렇군요. 저는 직장인입니다 ㅎㅎ. 동료랑 잘 다녀요 ㅎㅎ...",
+          "summary": "나는 동료와 잘 어울린다. 나는 직장이다.",
+          "date": "2022-10-04",
+          "time": "15:19:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "오 그래요? 저는 회사같은건 힘들어서 못다니겠던데.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:19:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "저는 잘 맞는거같아요. 그러면 좋아하시는거 있나요?",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:20:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "저는 사진 찍는거 좋아해요.ㅎ 님은 좋아하는거 있어요?",
+          "summary": "나는 사진 찍는 것을 좋아한다.",
+          "date": "2022-10-04",
+          "time": "15:20:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "그런거 괜찮네요 ㅎㅎ. 저는 스포츠 좋아해요. 자주보고 ㅎㅎ.",
+          "summary": "나는 스포츠 tv를 좋아한다.",
+          "date": "2022-10-04",
+          "time": "15:20:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "오~ 그렇구나.ㅎㅎ 운동남이에요? 멋지네요.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:20:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "넵! 그래도 운동은 좀 합니다! 요즘 그래서 바나나만 먹네요...",
+          "summary": "나는 바나나를 자주 먹는다.",
+          "date": "2022-10-04",
+          "time": "15:20:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "저는 포도 좋아하는데.ㅋㅋ 바나나는 별로더라구요.",
+          "summary": "나는 포도를 좋아한다.",
+          "date": "2022-10-04",
+          "time": "15:20:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "그쵸? ㅋㅋ. 저도 그래요. 그러면 또 봐요!",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:20:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "그래요~ 그럼 다음에 또 봐요. 안녕히 계세용~",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:21:16",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 동료와 잘 어울린다. 나는 직장이다.",
+          "나는 스포츠 tv를 좋아한다.",
+          "나는 바나나를 자주 먹는다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나의 여자 형제는 상담전문가이다.",
+          "나는 사진 찍는 것을 좋아한다.",
+          "나는 포도를 좋아한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00028-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00028-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "사흘만입니다. 님~ 그동안 잘 있었어요?",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:21:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "넹. 저는 잘 지냈어요.ㅎ 님도 잘 지내셨죠?",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:21:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "저는 다쳐서 요즘 물리치료를 받고 있어요.",
+          "summary": "나는 부상을 입었다.",
+          "date": "2022-10-04",
+          "time": "15:21:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "아 그래요? 전에 말한 운동하다가 다쳤나요?",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:21:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "바로 아신다 ㅋㅋ. 운동하다가 너무 무리했네요 ㅋㅋ.",
+          "summary": "나는 무리를 했다.",
+          "date": "2022-10-04",
+          "time": "15:21:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "전에 운동 좋아한다시길래...ㅎ 무슨 운동 하다가 그랬어요...?ㄷㄷ.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:21:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "벤치 하는데 손목이 다 나갔어요 ㅋㅋ... 완전 아프네요.",
+          "summary": "나는 손목을 다쳤다.",
+          "date": "2022-10-04",
+          "time": "15:22:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "아 헬스하셨구나. 조심해서 하세용...ㄷㄷ.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:22:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "님은 운동좀 하세요?",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:22:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "아뇨.ㅎ 전 완전 집순이라 몸 전체가 물컹해요.",
+          "summary": "나는 운동을 안 한다.",
+          "date": "2022-10-04",
+          "time": "15:22:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "그러시구나. 그러면 운동 좀 하시면 좋겠다~",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:22:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "ㅎㅎ. 그럴까요? 님이 알려주실래요?",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:23:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "그럼요~ 다음에 좀 물어보고 그러세요~",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:23:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "그래요.ㅋㅋ 모르는거 있으면 물어볼게요. 다음에 또 봐요~",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:23:19",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 부상을 입었다.",
+          "나는 무리를 했다.",
+          "나는 손목을 다쳤다."
+        ],
+        "speaker2": [
+          "나는 운동을 안 한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 동료와 잘 어울린다. 나는 직장이다.",
+          "나는 스포츠 tv를 좋아한다.",
+          "나는 바나나를 자주 먹는다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나의 여자 형제는 상담전문가이다.",
+          "나는 사진 찍는 것을 좋아한다.",
+          "나는 포도를 좋아한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00028-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "18",
+      "numberOfTurns": "9",
+      "sessionID": "3-00028-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "이틀만입니다 ㅋㅋ. 요즘 뭐 하시고 있었어요?",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:23:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "저는 님이 추천해줘서 헬스장 끊었어요.ㅋㅋ 집 밑에요!",
+          "summary": "나는 헬스장을 등록했다.",
+          "date": "2022-10-04",
+          "time": "15:24:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "진짜요? 오~ 실행력 쩐다~ 바로 하시네 ㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:24:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "그쵸?ㅋㅋ 제가 또 한다하면 하거든요~",
+          "summary": "나는 행동력이 있다.",
+          "date": "2022-10-04",
+          "time": "15:24:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "오~ 한다면 하는 타입~ 그러면 운동도 잘 하시겠다~",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:24:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "ㅋㅋㅋ. 이제부터 잘 해봐야죠! 노력중이에요~",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:24:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "여성분들은 힙 운동이 그렇게 중요하다하니 일단 스쿼트 부터해요~",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:25:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "네.ㅋㅋ 그러려구요. 스쿼트 하면 또 힙업 짱이라던데.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:25:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "네 ㅋㅋ.스쿼트만 해도 여성분들은 운동 거의 다했죠~",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:25:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "ㅎㅎ. 여자들도 막 스쿼트 100키로 하는거 보고 멋지더라구요.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:25:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "헉 ㅋㅋ. 저도 딱 그정도인데 ㅋㅋ... 부끄럽네요 ㅋㅋ...",
+          "summary": "나는 가끔 부끄럽다.",
+          "date": "2022-10-04",
+          "time": "15:25:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "남자랑 여자랑 근육량 차이는 상체에서 나오고 하체는 원래 큰 차이 없대용.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:26:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "그래도요~ 운동 한지 좀 되면 체중 2배는 해야하는데 ㅠㅠ.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:26:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "운동 몇년차이신데요?ㅎㅎ 궁금하다.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:26:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "저는 반년쯤 됐어요. 완전 멸치라서 ㅎㅎ... 벌크업중입니다.",
+          "summary": "나는 벌크업 중이다.",
+          "date": "2022-10-04",
+          "time": "15:26:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "그 여자 헬스 유튜버분들은 몇년 했을걸요.ㅋㅋ.",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:26:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20205",
+          "participantID": "0631",
+          "utterance": "그러면 다음에 또 얘기나눠요! 또 물어보시구요!",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:26:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22682",
+          "participantID": "0584",
+          "utterance": "그래요~ 그럼 다음에 또 봐요.ㅎ 연락 할게요~",
+          "summary": "",
+          "date": "2022-10-04",
+          "time": "15:26:50",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 가끔 부끄럽다.",
+          "나는 벌크업 중이다."
+        ],
+        "speaker2": [
+          "나는 헬스장을 등록했다.",
+          "나는 행동력이 있다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남자이다.",
+          "나는 동료와 잘 어울린다. 나는 직장이다.",
+          "나는 스포츠 tv를 좋아한다.",
+          "나는 바나나를 자주 먹는다.",
+          "나는 부상을 입었다.",
+          "나는 무리를 했다.",
+          "나는 손목을 다쳤다."
+        ],
+        "speaker2": [
+          "나는 20대 여자이다.",
+          "나의 여자 형제는 상담전문가이다.",
+          "나는 사진 찍는 것을 좋아한다.",
+          "나는 포도를 좋아한다.",
+          "나는 운동을 안 한다."
+        ]
+      }
+    }
+  ]
+}

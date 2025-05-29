@@ -1,0 +1,430 @@
+{
+  "FileInfo": {
+    "filename": "K2-00114-CL26469-CP43545-12-09-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "50188",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "서비스직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "4805",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "관리직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00114"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "26469",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 백화점 판매원이다",
+        "나는 물건을 자주 잃어버린다",
+        "나는 영어에 관심 있지만 배울 시간이 없다",
+        "나는 혈액형이 AB형이다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "43545",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 언어치료사이다",
+        "나는 아침에 산책한다",
+        "나는 트로트 음악을 자주 듣는다",
+        "나는 수필을 싫어한다",
+        "나는 다소 털털하다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "12-09",
+    "topicType": "여가와 오락>여행",
+    "topicTitle": "캠핑/글램핑"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00114-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "26469",
+          "participantID": "50188",
+          "utterance": "안녕하세요 저는 백화점 판매원으로 일하고있는 20대 여성입니다",
+          "summary": "나는 백화점 판매원 20대 여성이다",
+          "date": "2022-11-25",
+          "time": "11:24:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "43545",
+          "participantID": "4805",
+          "utterance": "안녕하세요 저는 언어치료사 40대 남성입니다",
+          "summary": "나는 언어치료사로 일하는 40대 남성이다",
+          "date": "2022-11-25",
+          "time": "11:25:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26469",
+          "participantID": "50188",
+          "utterance": "언어치료사 라니 멋있는 직업이네요! @이름@님은 요즘 관심사가 어떻게 되시나요",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "11:31:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "43545",
+          "participantID": "4805",
+          "utterance": "저는 운동에 관심이 있어서 아침마다 산책을해요~ 운동 좋아하시나요?",
+          "summary": "나는 운동에 관심이 있어서 아침마다 산책을 한다",
+          "date": "2022-11-25",
+          "time": "11:32:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26469",
+          "participantID": "50188",
+          "utterance": "저는 운동보다는 영어에 관심이 있어요 하지만 배울시간이 없네요",
+          "summary": "나는 영어에 관심 있지만 배울 시간이 없다",
+          "date": "2022-11-25",
+          "time": "11:32:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "43545",
+          "participantID": "4805",
+          "utterance": "혹시 음악은 좋아하세요? 저는 트로트 음악을 자주 들어요",
+          "summary": "나는 트로트 음악을 자주 듣는다",
+          "date": "2022-11-25",
+          "time": "11:36:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26469",
+          "participantID": "50188",
+          "utterance": "트로트음악을 좋아하시는군요! 저는 발라드를 좋아하는편이에요 왠지 @이름@님은 혈액형이 o형이 이실것같아요 저는 ab형이거든요",
+          "summary": "나는 발라드를 좋아하고 ab형이다",
+          "date": "2022-11-25",
+          "time": "11:40:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "43545",
+          "participantID": "4805",
+          "utterance": "저는 ab형이에요 ㅎㅎ 혹시 책은 좋아하세요? 저는 수필은 싫어해요",
+          "summary": "나는 ab형이고 수필을 싫어한다",
+          "date": "2022-11-25",
+          "time": "11:42:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26469",
+          "participantID": "50188",
+          "utterance": "책 좋아했는데 제가 물건을 자주 잃어버리는 편이라 책도 자주 잃어버려서 더 사지않고 있어요ㅠㅠ",
+          "summary": "나는 물건을 자주 잃어버린다",
+          "date": "2022-11-25",
+          "time": "13:19:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "43545",
+          "participantID": "4805",
+          "utterance": "성격은 어떠신가요~ 저는 털털한편이에요 ",
+          "summary": "나는 성격이 털털한 편이다",
+          "date": "2022-11-25",
+          "time": "13:19:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26469",
+          "participantID": "50188",
+          "utterance": "저는 아무래도 백화점에서 일하고 있다보니 사교성이 좋은 편인것같아요",
+          "summary": "나는 사교성이 좋다",
+          "date": "2022-11-25",
+          "time": "13:22:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "43545",
+          "participantID": "4805",
+          "utterance": "그럼 지인들도 많으시고 모임도 많으시겠네요~",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "13:22:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26469",
+          "participantID": "50188",
+          "utterance": "주말마다 모임에 참석하고 있어요! @이름@님도 친구가 많으실것같아요",
+          "summary": "나는 주말마다 모임에 참석한다",
+          "date": "2022-11-25",
+          "time": "13:23:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "43545",
+          "participantID": "4805",
+          "utterance": "저는 그리 많지는 않아요~ 저는 약속이 있어 먼저 나가볼게요",
+          "summary": "나는 약속이 있어서 나간다",
+          "date": "2022-11-25",
+          "time": "13:24:17",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 백화점 판매원 20대 여성이다",
+          "나는 영어에 관심 있지만 배울 시간이 없다",
+          "나는 발라드를 좋아하고 ab형이다",
+          "나는 물건을 자주 잃어버린다",
+          "나는 사교성이 좋다",
+          "나는 주말마다 모임에 참석한다"
+        ],
+        "speaker2": [
+          "나는 언어치료사로 일하는 40대 남성이다",
+          "나는 운동에 관심이 있어서 아침마다 산책을 한다",
+          "나는 트로트 음악을 자주 듣는다",
+          "나는 ab형이고 수필을 싫어한다",
+          "나는 성격이 털털한 편이다",
+          "나는 약속이 있어서 나간다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00114-1",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00114-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "26469",
+          "participantID": "50188",
+          "utterance": "와 벌써 한달이 지났네요 잘 지내셨어요? 5주가 금방가죠?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "14:36:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "43545",
+          "participantID": "4805",
+          "utterance": "진짜 시간이 빠르네요~ 저는 주말에 글램핑 예약을 해서 놀러가요",
+          "summary": "나는 주말에 글램핑 예약을 해서 놀러 간다",
+          "date": "2022-11-25",
+          "time": "14:37:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26469",
+          "participantID": "50188",
+          "utterance": "엇 저도 친구들과 캠핑을 가기로했어요 글램핑음 어디로가시나요?",
+          "summary": "나는 친구들과 캠핑을 가기로 했다",
+          "date": "2022-11-25",
+          "time": "14:38:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "43545",
+          "participantID": "4805",
+          "utterance": "저는 가까운 가평으로 다녀오려구요~ 멀리는 너무 힘들것 같아서요 ",
+          "summary": "나는 가까운 가평으로 글램핑을 간다",
+          "date": "2022-11-25",
+          "time": "14:40:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26469",
+          "participantID": "50188",
+          "utterance": "저도 가평좋아해요! 근데 캠핑가려고 사 둔 램프가 없어져버렸네요 제가 물건을 자주 잃어버리다보니 한번씩 이렇더라구요",
+          "summary": "나는 물건을 자주 잃어버린다",
+          "date": "2022-11-25",
+          "time": "14:42:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "43545",
+          "participantID": "4805",
+          "utterance": "앗 그러면 다시 재 구매하셔야되나요? 저도 캠핑하고 싶은데 용품이 없네요",
+          "summary": "나는 캠핑을 하고 싶은데 용품이 없다",
+          "date": "2022-11-25",
+          "time": "14:51:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26469",
+          "participantID": "50188",
+          "utterance": "안그래도 인터넷에서 최저가 찾아보고 구매하려고해요 요즘엔 캠핑박람회도 많이 하던데 가보신적 있으세요?",
+          "summary": "나는 인터넷 최저가를 검색한다",
+          "date": "2022-11-25",
+          "time": "15:11:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "43545",
+          "participantID": "4805",
+          "utterance": "아뇨 그런데는 따로 안가봤네요 요새는 발라드중에 어떤거 들으세요?",
+          "summary": "나는 캠핑 박람회는 가보지 않았다",
+          "date": "2022-11-25",
+          "time": "15:21:43",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26469",
+          "participantID": "50188",
+          "utterance": "저는 발라드면 다 좋아해요 캠핑갔을때 블루투스 스피커를 연결해서 들으면 너무 분위기좋더라구요",
+          "summary": "나는 발라드를 좋아한다",
+          "date": "2022-11-25",
+          "time": "15:38:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "43545",
+          "participantID": "4805",
+          "utterance": "블루투스 스피커로 듣게 되면 다른 분들한테 피해를 주는거 아닌가요..ㅎㅎ ",
+          "summary": "나는 캠핑에서 블루투스 스피커로 들으면 피해를 준다고 생각한다",
+          "date": "2022-11-25",
+          "time": "15:45:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26469",
+          "participantID": "50188",
+          "utterance": "최대한 피해 안가게 잘 틀어놓고있죠^^ @이름@님은 운동 잘하고 계신가요?",
+          "summary": "",
+          "date": "2022-11-25",
+          "time": "15:56:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "43545",
+          "participantID": "4805",
+          "utterance": "저는 요새 헬스장에 다니고 있어요~ 요새도 주말마다 모임 나가시나요? 사교성이 좋은거 부럽네요",
+          "summary": "나는 요즘 헬스장에 다닌다",
+          "date": "2022-11-25",
+          "time": "16:00:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "26469",
+          "participantID": "50188",
+          "utterance": "네 주말마다 모임에서 캠핑을 가고있답니다 님도 주말에 글램핑 잘 다녀오세요",
+          "summary": "나는 주말마다 모임에서 캠핑을 간다",
+          "date": "2022-11-25",
+          "time": "16:02:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "43545",
+          "participantID": "4805",
+          "utterance": "네네 감사합니다 저는 일이 바빠서 먼저 나가볼게요 ",
+          "summary": "나는 일이 바빠서 가봐야 한다",
+          "date": "2022-11-25",
+          "time": "16:02:32",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 친구들과 캠핑을 가기로 했다",
+          "나는 물건을 자주 잃어버린다",
+          "나는 인터넷 최저가를 검색한다",
+          "나는 발라드를 좋아한다",
+          "나는 주말마다 모임에서 캠핑을 간다"
+        ],
+        "speaker2": [
+          "나는 주말에 글램핑 예약을 해서 놀러 간다",
+          "나는 가까운 가평으로 글램핑을 간다",
+          "나는 캠핑을 하고 싶은데 용품이 없다",
+          "나는 캠핑 박람회는 가보지 않았다",
+          "나는 캠핑에서 블루투스 스피커로 들으면 피해를 준다고 생각한다",
+          "나는 요즘 헬스장에 다닌다",
+          "나는 일이 바빠서 가봐야 한다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 백화점 판매원 20대 여성이다",
+          "나는 영어에 관심 있지만 배울 시간이 없다",
+          "나는 발라드를 좋아하고 ab형이다",
+          "나는 물건을 자주 잃어버린다",
+          "나는 사교성이 좋다",
+          "나는 주말마다 모임에 참석한다"
+        ],
+        "speaker2": [
+          "나는 언어치료사로 일하는 40대 남성이다",
+          "나는 운동에 관심이 있어서 아침마다 산책을 한다",
+          "나는 트로트 음악을 자주 듣는다",
+          "나는 ab형이고 수필을 싫어한다",
+          "나는 성격이 털털한 편이다",
+          "나는 약속이 있어서 나간다"
+        ]
+      }
+    }
+  ]
+}

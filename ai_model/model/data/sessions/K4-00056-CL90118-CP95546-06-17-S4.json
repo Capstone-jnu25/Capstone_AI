@@ -1,0 +1,794 @@
+{
+  "FileInfo": {
+    "filename": "K4-00056-CL90118-CP95546-06-17-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "20061",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "21179",
+      "gender": "여성",
+      "age": "50대",
+      "occupation": "주부",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00056"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "90118",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 초록색을 좋아한다.",
+        "나의 생일은 11월이다.",
+        "나는 매일 외롭다.",
+        "나는 된장찌개를 안 먹는다.",
+        "나는 혈액형이 AB형이다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "95546",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 오전에 커피를 마신다.",
+        "나의 생일은 11월이다.",
+        "나는 매우 상냥하다.",
+        "나는 물고기 한 마리를 키운다.",
+        "나는 혈액형이 A형이다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "06-17",
+    "topicType": "교육",
+    "topicTitle": "대학원"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00056-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "반가워요. 저는 30대 여자예요.",
+          "summary": "나는 30대 여성이다.",
+          "date": "2022-11-22",
+          "time": "11:41:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "안녕하세요. 저는 50대 여자예요.",
+          "summary": "나는 50대 여성이다.",
+          "date": "2022-11-22",
+          "time": "11:41:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "저는 11월이 생일이고 혈액형은 AB형이에요.",
+          "summary": "나의 생일은 11월이다. 나는 혈액형이 AB형이다.",
+          "date": "2022-11-22",
+          "time": "11:41:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "저는 생일이 11월이고 혈액형은 A형이에요.",
+          "summary": "나의 생일은 11월이다. 나는 혈액형이 A형이다.",
+          "date": "2022-11-22",
+          "time": "11:42:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "저랑 생일이 같아서 더 반갑네요. 요즘 매일 외로웠거든요.",
+          "summary": "나는 매일 외롭다.",
+          "date": "2022-11-22",
+          "time": "11:42:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "그러셨구나. 선생님은 어떤 스타일이세요?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:42:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "저요? 음, 숫기없는 스타일 아닐까요.",
+          "summary": "나는 숫기가 없다.",
+          "date": "2022-11-22",
+          "time": "11:43:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "그러시구나. 저는 매우 상냥해요.",
+          "summary": "나는 매우 상냥하다.",
+          "date": "2022-11-22",
+          "time": "11:43:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "부럽네요. 취미는 어떻게 되세요?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:44:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "저는 커피 마시는 게 취미에요. 저는 오전에 커피를 마셔요.",
+          "summary": "나는 커피 마시는 게 취미이다. 나는 오전에 커피를 마신다.",
+          "date": "2022-11-22",
+          "time": "11:44:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "저는 수영이 취미예요. 초록색을 좋아해서 수영복도 초록색으로 샀어요.",
+          "summary": "나는 수영이 취미이다. 나는 초록색을 좋아한다. 나는 초록색 수영복을 샀다.",
+          "date": "2022-11-22",
+          "time": "11:45:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "그거 참 멋지네요. 좋아하는 색 옷을 입으면 수영도 잘 될 것 같아요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:46:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "맞아요. 저는 이만 들어가볼게요. 대화 즐거웠어요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:46:41",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "그럼 저도 이만 가볼게요. 다음에 또 봐요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:46:51",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나의 생일은 11월이다. 나는 혈액형이 AB형이다.",
+          "나는 매일 외롭다.",
+          "나는 숫기가 없다.",
+          "나는 수영이 취미이다. 나는 초록색을 좋아한다. 나는 초록색 수영복을 샀다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나의 생일은 11월이다. 나는 혈액형이 A형이다.",
+          "나는 매우 상냥하다.",
+          "나는 커피 마시는 게 취미이다. 나는 오전에 커피를 마신다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00056-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00056-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "사흘만이네요. 오늘도 커피 드셨나요?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:47:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "네. 오전에 커피를 내려 마셨죠.",
+          "summary": "나는 오전에 커피를 내려 마셨다.",
+          "date": "2022-11-22",
+          "time": "11:47:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "잘하셨어요. 전 요즘 고민이 하나 있어요.",
+          "summary": "나는 고민이 있다.",
+          "date": "2022-11-22",
+          "time": "11:47:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "무슨 고민인가요? 제가 들어드릴게요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:48:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "대학을 졸업한 지 꽤 됐는데 요즘 대학원에 가면 어떨까 하는 생각이 들어요.",
+          "summary": "나는 대학을 졸업한 지 오래됐다. 나는 대학원에 가고 싶다.",
+          "date": "2022-11-22",
+          "time": "11:48:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "그것도 좋은 것 같은데요? 대학원에서 공부하면 좋죠.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:49:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "그러려면 지금 직장을 그만둬야 해서요. 더 공부하고 싶긴 한데, 그래서 고민이에요.",
+          "summary": "나는 지금 직장을 그만둬야 한다. 나는 대학원에서 더 공부하고 싶다.",
+          "date": "2022-11-22",
+          "time": "11:49:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "경제적으로 어려운게 아니라면 도전해봐도 좋을 것 같아요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:50:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "전 경제적인 이유보다 시간때문에 걱정이에요. 몇 년을 다녀야 할 텐데 말이에요.",
+          "summary": "나는 시간적 여유가 없다.",
+          "date": "2022-11-22",
+          "time": "11:50:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "그러시구나. 오래 배우시고 논문도 쓰시며 사는 것도 나쁘지 않을것 같아요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:51:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "저도 그러고 싶네요. 좀 더 고민해봐야겠어요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:51:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "네. 알겠어요. 어떻게 하실건지 말해주세요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:52:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "네. 그럼 이만 들어가볼게요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:52:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "그럼 저도 이만 가볼게요. 다음에 또 봐요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:52:42",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 고민이 있다.",
+          "나는 대학을 졸업한 지 오래됐다. 나는 대학원에 가고 싶다.",
+          "나는 지금 직장을 그만둬야 한다. 나는 대학원에서 더 공부하고 싶다.",
+          "나는 시간적 여유가 없다."
+        ],
+        "speaker2": [
+          "나는 오전에 커피를 내려 마셨다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나의 생일은 11월이다. 나는 혈액형이 AB형이다.",
+          "나는 매일 외롭다.",
+          "나는 숫기가 없다.",
+          "나는 수영이 취미이다. 나는 초록색을 좋아한다. 나는 초록색 수영복을 샀다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나의 생일은 11월이다. 나는 혈액형이 A형이다.",
+          "나는 매우 상냥하다.",
+          "나는 커피 마시는 게 취미이다. 나는 오전에 커피를 마신다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00056-2",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "주"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00056-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "오랜만이네요. 저는 대학원에 가기로 결정했어요.",
+          "summary": "나는 대학원에 진학할 예정이다.",
+          "date": "2022-11-22",
+          "time": "11:53:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "그러셨구나. 정말 좋은 선택이세요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:53:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "네. 힘들겠지만 그래도 제가 하고 싶어서 결정한 일이니 힘내려고요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:54:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "네. 그러고보니 무슨 전공을 배우시려구요?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:54:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "화학이요. 졸업한 지 오래 됐는데 다 까먹었을지도 모르겠어요.",
+          "summary": "나는 화학 전공을 배울 예정이다. 나는 졸업한 지 오래 됐다.",
+          "date": "2022-11-22",
+          "time": "11:55:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "그러시구나. 저는 가정교육과를 전공했어요.",
+          "summary": "나는 가정교육과를 전공했다.",
+          "date": "2022-11-22",
+          "time": "11:56:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "그러시구나. 그럼 선생님이신가요?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:57:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "네. 저는 지금 가정선생님이에요.",
+          "summary": "나는 가정선생님이다.",
+          "date": "2022-11-22",
+          "time": "11:57:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "멋지네요~ 상냥한 선생님을 둬서 학생들은 좋겠어요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:58:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "ㅎㅎ감사해요. 칭찬을 들으니 쑥스럽네요.",
+          "summary": "나는 쑥스럽다.",
+          "date": "2022-11-22",
+          "time": "11:58:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "에이, 진실을 말했을 뿐인데요?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "11:59:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "네. 그렇긴 하죠. 저도 알고는 있어요.",
+          "summary": "나는 사실을 알고 있다.",
+          "date": "2022-11-22",
+          "time": "12:00:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "ㅎㅎ그래요. 그럼 저는 이만 가볼게요. 다음에 봬요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "12:00:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "그럼 저도 이만 가볼게요. 다음에 봐요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "12:00:24",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 대학원에 진학할 예정이다.",
+          "나는 화학 전공을 배울 예정이다. 나는 졸업한 지 오래 됐다."
+        ],
+        "speaker2": [
+          "나는 가정교육과를 전공했다.",
+          "나는 가정선생님이다.",
+          "나는 쑥스럽다.",
+          "나는 사실을 알고 있다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나의 생일은 11월이다. 나는 혈액형이 AB형이다.",
+          "나는 매일 외롭다.",
+          "나는 숫기가 없다.",
+          "나는 수영이 취미이다. 나는 초록색을 좋아한다. 나는 초록색 수영복을 샀다.",
+          "나는 고민이 있다.",
+          "나는 대학을 졸업한 지 오래됐다. 나는 대학원에 가고 싶다.",
+          "나는 지금 직장을 그만둬야 한다. 나는 대학원에서 더 공부하고 싶다.",
+          "나는 시간적 여유가 없다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나의 생일은 11월이다. 나는 혈액형이 A형이다.",
+          "나는 매우 상냥하다.",
+          "나는 커피 마시는 게 취미이다. 나는 오전에 커피를 마신다.",
+          "나는 오전에 커피를 내려 마셨다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00056-3",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "일"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00056-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "어젠 잘 들어가셨어요? 저는 수영을 하러 왔어요.",
+          "summary": "나는 수영을 할 예정이다.",
+          "date": "2022-11-22",
+          "time": "12:00:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "네. 수영이요? 물에서 수영하면 상쾌하겠네요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "12:01:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "제가 좋아하는 초록색 수영복도 입어서 기분이 좋아요.",
+          "summary": "나는 초록색을 좋아한다. 나는 초록색 수영복을 입었다. 나는 기분이 좋다.",
+          "date": "2022-11-22",
+          "time": "12:01:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "기분 좋으시겠다. 수영장에 친구들도 많나요?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "12:02:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "아뇨. 수영하느라 바빠서 친구들을 사귀진 못 했네요.",
+          "summary": "나는 수영을 하느라 친구들을 사귀지 못 했다.",
+          "date": "2022-11-22",
+          "time": "12:03:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "그러시구나. 같이 수영복 이야기도 하면 좋을텐데요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "12:03:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "그러게요. 어쩔 수 없죠, 뭐. 선생님도 수영 같이 하실래요?",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "12:04:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "저는 됐어요. 제가 수영을 못해서요.",
+          "summary": "나는 수영을 못한다.",
+          "date": "2022-11-22",
+          "time": "12:04:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "저도 처음엔 못 했어요. 지금은 잘 하게 됐지만요.",
+          "summary": "나는 처음에 수영을 못 했다. 나는 수영을 잘한다.",
+          "date": "2022-11-22",
+          "time": "12:05:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "그러시구나. 근데 별로 흥미가 없어요.",
+          "summary": "나는 수영에 흥미가 없다.",
+          "date": "2022-11-22",
+          "time": "12:05:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "그러면 어쩔 수 없죠. 아쉽네요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "12:06:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "ㅎㅎ뭐 어때요. 각자 좋아하는 걸 이야기하면 되죠.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "12:06:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "90118",
+          "participantID": "20061",
+          "utterance": "저는 이만 들어가볼게요. 다음에 봬요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "12:06:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "95546",
+          "participantID": "21179",
+          "utterance": "그럼 저도 이만 가볼게요. 다음에 봐요.",
+          "summary": "",
+          "date": "2022-11-22",
+          "time": "12:06:54",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 수영을 할 예정이다.",
+          "나는 초록색을 좋아한다. 나는 초록색 수영복을 입었다. 나는 기분이 좋다.",
+          "나는 수영을 하느라 친구들을 사귀지 못 했다.",
+          "나는 처음에 수영을 못 했다. 나는 수영을 잘한다."
+        ],
+        "speaker2": [
+          "나는 수영을 못한다.",
+          "나는 수영에 흥미가 없다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여성이다.",
+          "나의 생일은 11월이다. 나는 혈액형이 AB형이다.",
+          "나는 매일 외롭다.",
+          "나는 숫기가 없다.",
+          "나는 수영이 취미이다. 나는 초록색을 좋아한다. 나는 초록색 수영복을 샀다.",
+          "나는 고민이 있다.",
+          "나는 대학을 졸업한 지 오래됐다. 나는 대학원에 가고 싶다.",
+          "나는 지금 직장을 그만둬야 한다. 나는 대학원에서 더 공부하고 싶다.",
+          "나는 시간적 여유가 없다.",
+          "나는 대학원에 진학할 예정이다.",
+          "나는 화학 전공을 배울 예정이다. 나는 졸업한 지 오래 됐다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나의 생일은 11월이다. 나는 혈액형이 A형이다.",
+          "나는 매우 상냥하다.",
+          "나는 커피 마시는 게 취미이다. 나는 오전에 커피를 마신다.",
+          "나는 오전에 커피를 내려 마셨다.",
+          "나는 가정교육과를 전공했다.",
+          "나는 가정선생님이다.",
+          "나는 쑥스럽다.",
+          "나는 사실을 알고 있다."
+        ]
+      }
+    }
+  ]
+}

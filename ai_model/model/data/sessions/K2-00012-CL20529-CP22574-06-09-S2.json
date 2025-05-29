@@ -1,0 +1,455 @@
+{
+  "FileInfo": {
+    "filename": "K2-00012-CL20529-CP22574-06-09-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "25568",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "기능직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대학원졸"
+    },
+    "speaker2": {
+      "participantID": "26338",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "무직",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00012"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "20529",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 다른 사람을 잘 배려한다.",
+        "나는 합창단 동아리에 관심 있다.",
+        "나는 스마트폰을 리뷰하는 것을 좋아한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22574",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 라쿤 두 마리를 키운다.",
+        "나는 조향사이다.",
+        "나는 배를 즐겨 먹는다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "06-09",
+    "topicType": "교육",
+    "topicTitle": "전공"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00012-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20529",
+          "participantID": "25568",
+          "utterance": "안녕하세요! 인천사는 20대 입니다 ~~^^",
+          "summary": "나는 인천 사는 20대이다.",
+          "date": "2022-09-07",
+          "time": "17:36:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22574",
+          "participantID": "26338",
+          "utterance": "저는 김포에 사는 20대 입니다 ㅎㅎ.",
+          "summary": "나는 김포사는 20대이다.",
+          "date": "2022-09-07",
+          "time": "17:37:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20529",
+          "participantID": "25568",
+          "utterance": "오~~혹시 남자분이신가요? 저는 남자입니다.",
+          "summary": "나는 남자이다.",
+          "date": "2022-09-07",
+          "time": "17:37:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22574",
+          "participantID": "26338",
+          "utterance": "아 저는 여자예요 ㅎㅎ 만나서 반갑습니다!",
+          "summary": "나는 여자이다.",
+          "date": "2022-09-07",
+          "time": "17:37:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20529",
+          "participantID": "25568",
+          "utterance": "아! 반갑습니당 저는 대학생입니다 다른 사람을 잘 배려하고요^^",
+          "summary": "나는 대학생이다. 사람을 잘 배려한다.",
+          "date": "2022-09-07",
+          "time": "17:37:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22574",
+          "participantID": "26338",
+          "utterance": "ㅋㅋㅋㅋ 그래요? 저는 조향사입니다.",
+          "summary": "나는 조향사이다.",
+          "date": "2022-09-07",
+          "time": "17:37:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20529",
+          "participantID": "25568",
+          "utterance": "하하 그냥 저의 가장 큰 장점을 말하고 싶었어요.",
+          "summary": "",
+          "date": "2022-09-07",
+          "time": "17:38:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22574",
+          "participantID": "26338",
+          "utterance": "저희 집 라쿤 두마리 있는데 이 친구들도 배려를 참 잘해요^^",
+          "summary": "나는 라쿤 두 마리를 키운다.",
+          "date": "2022-09-07",
+          "time": "17:38:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20529",
+          "participantID": "25568",
+          "utterance": "저랑 닮았네요^^ㅋㅋㅋ라쿤 키우시나봐요!",
+          "summary": "",
+          "date": "2022-09-07",
+          "time": "17:38:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22574",
+          "participantID": "26338",
+          "utterance": "제가 배라도 먹고 있으면 뺐어먹고 그래요..ㅋㅋ.",
+          "summary": "",
+          "date": "2022-09-07",
+          "time": "17:39:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20529",
+          "participantID": "25568",
+          "utterance": "앜ㅋㅋㅋㅋ귀엽네요ㅋㅋㅋㅋ저희집 강아지도 그러거든요.",
+          "summary": "",
+          "date": "2022-09-07",
+          "time": "17:39:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22574",
+          "participantID": "26338",
+          "utterance": "ㅋㅋ 동물들이 귀엽네요 ㅎㅎ 대학생이면 동아리는 뭐 들어요?",
+          "summary": "",
+          "date": "2022-09-07",
+          "time": "17:40:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20529",
+          "participantID": "25568",
+          "utterance": "아직 들어가진 않았는데 합창단 동아리에 관심 있어요!",
+          "summary": "나는 합창단 동아리에 관심 있다.",
+          "date": "2022-09-07",
+          "time": "17:40:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22574",
+          "participantID": "26338",
+          "utterance": "오~ 노래 잘하시나봐요! 저는 음치인데..",
+          "summary": "나는 음치이다.",
+          "date": "2022-09-07",
+          "time": "17:40:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20529",
+          "participantID": "25568",
+          "utterance": "그냥 다른 사람 귀 배려 할정도의 실력^-^ㅎㅎ.",
+          "summary": "",
+          "date": "2022-09-07",
+          "time": "17:40:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22574",
+          "participantID": "26338",
+          "utterance": "ㅋㅋㅋㅋ 자만이 심하시네요 ㅋㅋ 좋은 하루 보내세요~",
+          "summary": "",
+          "date": "2022-09-07",
+          "time": "17:40:43",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 인천 사는 20대이다.",
+          "나는 남자이다.",
+          "나는 대학생이다. 사람을 잘 배려한다.",
+          "나는 합창단 동아리에 관심 있다."
+        ],
+        "speaker2": [
+          "나는 김포사는 20대이다.",
+          "나는 여자이다.",
+          "나는 조향사이다.",
+          "나는 라쿤 두 마리를 키운다.",
+          "나는 음치이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00012-1",
+      "prevTimeInfo": {
+        "timeNum": "3",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00012-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20529",
+          "participantID": "25568",
+          "utterance": "선생님! 내일 주말인데 뭐 하시나요~~~~",
+          "summary": "",
+          "date": "2022-09-07",
+          "time": "17:41:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22574",
+          "participantID": "26338",
+          "utterance": "저는 오늘 저녁에 친구들을 만나기로 했어요!",
+          "summary": "나는 저녁에 친구를 만나기로 했다.",
+          "date": "2022-09-07",
+          "time": "17:41:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20529",
+          "participantID": "25568",
+          "utterance": "저는 과 친구들 만나서 카페가서 수다 떨기로 했어요!",
+          "summary": "나는 과 친구들과 카페에서 수다를 떨기로 했다.",
+          "date": "2022-09-07",
+          "time": "17:42:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22574",
+          "participantID": "26338",
+          "utterance": "아 정말요? 과는 어떻게 되시는 데요?",
+          "summary": "",
+          "date": "2022-09-07",
+          "time": "17:42:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20529",
+          "participantID": "25568",
+          "utterance": "아 전자공학부예요~~ 전자기기 좋아해서 자연스럽게 들어 갔어요!",
+          "summary": "나는 전자 공학부이다. 나는 전자기기를 좋아한다.",
+          "date": "2022-09-07",
+          "time": "17:42:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22574",
+          "participantID": "26338",
+          "utterance": "아하~ 친구들과 만나면 보통 어떤 이야기를 나누세요?",
+          "summary": "",
+          "date": "2022-09-07",
+          "time": "17:42:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20529",
+          "participantID": "25568",
+          "utterance": "제가 스마트폰 리뷰하는 것을 좋아하거든요!ㅋㅋㅋ친구가 아이폰 관심있다길래 설명해주려고요.",
+          "summary": "나는 스마트폰 리뷰하는 것을 좋아한다.",
+          "date": "2022-09-07",
+          "time": "17:43:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22574",
+          "participantID": "26338",
+          "utterance": "그러시구나~ 그런 것도 다 아시고 대단하시네요!",
+          "summary": "",
+          "date": "2022-09-07",
+          "time": "17:43:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20529",
+          "participantID": "25568",
+          "utterance": "좋아하는거랑 전공이랑 비슷하다보니까 좋더라구요!!! 의욕도 생기구!!",
+          "summary": "",
+          "date": "2022-09-07",
+          "time": "17:43:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22574",
+          "participantID": "26338",
+          "utterance": "저는 교육과를 나왔는데 조향사를 하고 있어요 ㅋㅋ.",
+          "summary": "나는 교육과를 나왔다.",
+          "date": "2022-09-07",
+          "time": "17:43:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20529",
+          "participantID": "25568",
+          "utterance": "진짜 전공이랑 전혀 다른 일을 하시네요!? 어쩌다가요?",
+          "summary": "",
+          "date": "2022-09-07",
+          "time": "17:44:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22574",
+          "participantID": "26338",
+          "utterance": "맞아요ㅠ 제가 향에 민감해서 찾다보니 이렇게 됐네요..",
+          "summary": "나는 향에 민감하다.",
+          "date": "2022-09-07",
+          "time": "17:44:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20529",
+          "participantID": "25568",
+          "utterance": "아 그래서 신경쓰다보니까 더 관심이 생기셨구나!!?",
+          "summary": "",
+          "date": "2022-09-07",
+          "time": "17:44:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22574",
+          "participantID": "26338",
+          "utterance": "네네 ㅎㅎ 그래서 찾은 직업이 조향사에요!",
+          "summary": "",
+          "date": "2022-09-07",
+          "time": "17:44:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20529",
+          "participantID": "25568",
+          "utterance": "멋지시네요! 나중에 좋은 향 추천 하나 해주세요ㅎㅎ.",
+          "summary": "",
+          "date": "2022-09-07",
+          "time": "17:45:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22574",
+          "participantID": "26338",
+          "utterance": "좋아요~ 사람에게 맞는 향이 있거든요! 나중에 추천해드릴게요~",
+          "summary": "",
+          "date": "2022-09-07",
+          "time": "17:45:01",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 과 친구들과 카페에서 수다를 떨기로 했다.",
+          "나는 전자 공학부이다. 나는 전자기기를 좋아한다.",
+          "나는 스마트폰 리뷰하는 것을 좋아한다."
+        ],
+        "speaker2": [
+          "나는 저녁에 친구를 만나기로 했다.",
+          "나는 교육과를 나왔다.",
+          "나는 향에 민감하다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 인천 사는 20대이다.",
+          "나는 남자이다.",
+          "나는 대학생이다. 사람을 잘 배려한다.",
+          "나는 합창단 동아리에 관심 있다."
+        ],
+        "speaker2": [
+          "나는 김포사는 20대이다.",
+          "나는 여자이다.",
+          "나는 조향사이다.",
+          "나는 라쿤 두 마리를 키운다.",
+          "나는 음치이다."
+        ]
+      }
+    }
+  ]
+}

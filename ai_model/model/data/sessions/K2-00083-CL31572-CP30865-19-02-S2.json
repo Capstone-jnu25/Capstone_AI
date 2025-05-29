@@ -1,0 +1,469 @@
+{
+  "FileInfo": {
+    "filename": "K2-00083-CL31572-CP30865-19-02-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0123",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "무직",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "0288",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00083"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "31572",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 유치원 교사이다.",
+        "나는 공항에 가는 것을 싫어한다.",
+        "나는 사과를 싫어한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "30865",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 방송 영상 편집기사이다.",
+        "나는 수영을 가끔 한다.",
+        "나는 맥주를 싫어한다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "19-02",
+    "topicType": "예술문화 생활>방송/연예",
+    "topicTitle": "드라마"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00083-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31572",
+          "participantID": "0123",
+          "utterance": "안녕하세요. 저는 30대 여자입니다.",
+          "summary": "나는 30대 여자이다.",
+          "date": "2022-09-24",
+          "time": "21:05:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30865",
+          "participantID": "0288",
+          "utterance": "안녕하세요. 저는 30대 남자입니다.",
+          "summary": "나는 30대 남자이다.",
+          "date": "2022-09-24",
+          "time": "21:05:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31572",
+          "participantID": "0123",
+          "utterance": "반가워요 ~ 하 이미 퇴근했는데 계속 학부모들한테 연락이 오네요. 핸드폰 끄고 싶어요.",
+          "summary": "나는 이미 퇴근했는데 학부모들한테 계속 연락이 와서 핸드폰을 끄고 싶다.",
+          "date": "2022-09-24",
+          "time": "21:06:05",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30865",
+          "participantID": "0288",
+          "utterance": "반갑습니다. 혹시 직업이 어떻게 되세요? 요즘엔 퇴근 후에 연락 하는 건 직장 내 괴롭힘 아닌가요?",
+          "summary": "",
+          "date": "2022-09-24",
+          "time": "21:06:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31572",
+          "participantID": "0123",
+          "utterance": "저는 유치원 교사입니다. 퇴근하면 거래처나 회사에서 연락 잘 안 오는 게 정상인 게 맞죠?",
+          "summary": "나는 유치원 교사이다. 나는 퇴근 후 거래처나 회사에서 연락이 안 오는 게 정상이라고 생각한다.",
+          "date": "2022-09-24",
+          "time": "21:07:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30865",
+          "participantID": "0288",
+          "utterance": "연락 안 오는게 맞죠. 저는 그래서 퇴근하면 핸드폰 꺼버려요ㅎㅎ 저도 방송 영상 편집기사라 퇴근해도 연락이 자주 오는 편이거든요.",
+          "summary": "나는 퇴근하면 핸드폰을 꺼버린다. 나는 방송 영상 편집기 사라 퇴근 후 연락이 자주 오는 편이다.",
+          "date": "2022-09-24",
+          "time": "21:08:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31572",
+          "participantID": "0123",
+          "utterance": "하 친구들이랑 밀린 연락도 해야 되는데 제가 왜 핸드폰을 끄고 학부모 연락을 피해야 하는지 모르겠어요.",
+          "summary": "나는 친구들과 밀린 연락을 해야 되는데 내가 왜 핸드폰을 끄고 학부모 연락을 피해야 하는지 모르겠다.",
+          "date": "2022-09-24",
+          "time": "21:08:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30865",
+          "participantID": "0288",
+          "utterance": "그러니까요. 법으로 퇴근 후엔 연락 못 하게 했으면 좋겠어요.",
+          "summary": "나는 퇴근 후엔 연락 못 하게 법으로 지정되었으면 좋겠다고 생각한다.",
+          "date": "2022-09-24",
+          "time": "21:09:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31572",
+          "participantID": "0123",
+          "utterance": "맞아요. 프랑스에선 퇴근 후에 연락하면 고소할 수 있는 법이 있대요. 우리나라도 법 만들어지면 저 당장 신고할 거예요.",
+          "summary": "나는 프랑스에는 퇴근 후 연락을 하면 고소할 수 있는 법이 있다고 알고 있다. 나는 퇴근 후 연락하면 고소할 수 있는 법이 생기면 당장 신고하고 싶다.",
+          "date": "2022-09-24",
+          "time": "21:09:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30865",
+          "participantID": "0288",
+          "utterance": "정말요? 역시 프랑스가 선진국은 선진국인가 봐요. 저녁은 드셨어요?",
+          "summary": "나는 퇴근 후에 연락하면 고소할 수 있는 법이 있는 프랑스가 선진국이라고 생각한다.",
+          "date": "2022-09-24",
+          "time": "21:10:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31572",
+          "participantID": "0123",
+          "utterance": "아직 안 먹었어요. 엄마가 다이어트 하라고 사과 잘라주셨는데 전 사과를 싫어해서 그냥 저녁 굶으려고요. 밥 드셨어요?",
+          "summary": "나는 아직 저녁을 안 먹었다. 나는 엄마 다이어트하라고 사과를 잘라주셨지만 안 먹고 굶을 것이다. 나는 사과를 싫어한다.",
+          "date": "2022-09-24",
+          "time": "21:11:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30865",
+          "participantID": "0288",
+          "utterance": "저는 치킨 먹으려고요. 근데 저는 맥주를 싫어하는데 친구는 치킨엔 맥주라고 무조건 맥주를 주문해버려서 짜증나네요.",
+          "summary": "나는 저녁으로 치킨을 먹을 것이다. 나는 맥주를 싫어한다. 나는 친구가 치킨엔 맥주라고 맥주를 주문한 것이 짜증 난다.",
+          "date": "2022-09-24",
+          "time": "21:12:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31572",
+          "participantID": "0123",
+          "utterance": "친구 분이랑 저녁 같이 드시는 거예요? 치킨 다 먹고 계산할 때 맥주 값은 빼고 계산하세요 ~",
+          "summary": "",
+          "date": "2022-09-24",
+          "time": "21:12:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30865",
+          "participantID": "0288",
+          "utterance": "솔직히 그러고 싶은데 그럼 좀 쪼잔해 보이지 않을까요?",
+          "summary": "",
+          "date": "2022-09-24",
+          "time": "21:13:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31572",
+          "participantID": "0123",
+          "utterance": "친구 사이여도 계산은 정확히 해야 한다고 생각합니다 하하. 친구분이랑 좋은 시간 보내세요 ~ 또 연락 드릴게요.",
+          "summary": "나는 친구 사이여도 계산은 정확히 해야 한다고 생각한다.",
+          "date": "2022-09-24",
+          "time": "21:13:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30865",
+          "participantID": "0288",
+          "utterance": "그럼 그래야겠네요ㅎㅎ 배고프실텐데 뭐라도 챙겨 드세요. 다음에 또 얘기 나눠요 ~",
+          "summary": "",
+          "date": "2022-09-24",
+          "time": "21:14:29",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 이미 퇴근했는데 학부모들한테 계속 연락이 와서 핸드폰을 끄고 싶다.",
+          "나는 유치원 교사이다. 나는 퇴근 후 거래처나 회사에서 연락이 안 오는 게 정상이라고 생각한다.",
+          "나는 친구들과 밀린 연락을 해야 되는데 내가 왜 핸드폰을 끄고 학부모 연락을 피해야 하는지 모르겠다.",
+          "나는 프랑스에는 퇴근 후 연락을 하면 고소할 수 있는 법이 있다고 알고 있다. 나는 퇴근 후 연락하면 고소할 수 있는 법이 생기면 당장 신고하고 싶다.",
+          "나는 아직 저녁을 안 먹었다. 나는 엄마 다이어트하라고 사과를 잘라주셨지만 안 먹고 굶을 것이다. 나는 사과를 싫어한다.",
+          "나는 친구 사이여도 계산은 정확히 해야 한다고 생각한다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이다.",
+          "나는 퇴근하면 핸드폰을 꺼버린다. 나는 방송 영상 편집기 사라 퇴근 후 연락이 자주 오는 편이다.",
+          "나는 퇴근 후엔 연락 못 하게 법으로 지정되었으면 좋겠다고 생각한다.",
+          "나는 퇴근 후에 연락하면 고소할 수 있는 법이 있는 프랑스가 선진국이라고 생각한다.",
+          "나는 저녁으로 치킨을 먹을 것이다. 나는 맥주를 싫어한다. 나는 친구가 치킨엔 맥주라고 맥주를 주문한 것이 짜증 난다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00083-1",
+      "prevTimeInfo": {
+        "timeNum": "9",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "16",
+      "numberOfTurns": "8",
+      "sessionID": "2-00083-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "31572",
+          "participantID": "0123",
+          "utterance": "안녕하세요. 9일 간 잘 지내고 계셨어요?",
+          "summary": "",
+          "date": "2022-09-24",
+          "time": "21:14:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30865",
+          "participantID": "0288",
+          "utterance": "안녕하세요. 저는 주말이라 수영하러 가고 있었어요. 저는 수영을 가끔 하거든요. 잘 지내셨어요?",
+          "summary": "나는 주말이라 수영을 하러 가고 있었다. 나는 수영을 가끔 한다.",
+          "date": "2022-09-24",
+          "time": "21:15:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31572",
+          "participantID": "0123",
+          "utterance": "부지런하시네요 ~ 전 잘 지내고 있었는데 지금 공항 가야 돼서 기분 별로예요.",
+          "summary": "나는 잘 지내고 있었으나 지금 공항에 가야 돼서 기분이 별로다.",
+          "date": "2022-09-24",
+          "time": "21:15:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30865",
+          "participantID": "0288",
+          "utterance": "공항엔 무슨 일로 가시는 거예요? 저는 공항은 여행갈 때만 가서 공항가면 기분이 좋거든요.",
+          "summary": "나는 공항엔 여행 갈 때만 가서 공항에 가면 기분이 좋다.",
+          "date": "2022-09-24",
+          "time": "21:16:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31572",
+          "participantID": "0123",
+          "utterance": "저희 언니 태우러 공항 가야 돼요 ~ 저희 언니가 제주도에 살고 있어서 서울에 종종 오는데 매번 자기 태우러 오래요.",
+          "summary": "나는 언니를 태우러 공항에 가야 한다. 나의 언니는 제주도에 살고 있으며 서울에 종종 올 때마다 자기를 태우러 오라고 한다.",
+          "date": "2022-09-24",
+          "time": "21:16:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30865",
+          "participantID": "0288",
+          "utterance": "댁이 공항이랑 가까우세요? 매번 데리러 가려면 귀찮으실 것 같네요.",
+          "summary": "나는 매번 언니를 데리러 가는 상대방이 귀찮을 것 같다고 생각한다.",
+          "date": "2022-09-24",
+          "time": "21:17:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31572",
+          "participantID": "0123",
+          "utterance": "저 성북구에 살아서 김포공항이랑 은근 거리 있어요. 언니 때문에 공항에 가는 거 아주 싫어요.",
+          "summary": "나는 서울 성북구에 거주 중이라 김포공항까지 은근 거리가 있다. 나는 언니 때문에 공항에 가는 것을 싫어한다.",
+          "date": "2022-09-24",
+          "time": "21:17:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30865",
+          "participantID": "0288",
+          "utterance": "저라면 언니분 혼자 오시라고 할 것 같은데 되게 착하시네요ㅎㅎ;",
+          "summary": "나는 매번 언니를 데리러 가는 상대방이 되게 착하다고 생각한다.",
+          "date": "2022-09-24",
+          "time": "21:18:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31572",
+          "participantID": "0123",
+          "utterance": "저희 엄마가 언니를 끔찍히 아끼시거든요. 그냥 집에서 누워서 드라마 정주행이나 하고 싶네요.",
+          "summary": "나의 엄마는 언니를 끔찍이 아낀다. 나는 그냥 집에서 누워서 드라마 정주행을 하고 싶다.",
+          "date": "2022-09-24",
+          "time": "21:18:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30865",
+          "participantID": "0288",
+          "utterance": "힘드시겠어요. 요즘 보고 계신 드라마 있으세요? 저는 수리남이라는 드라마 얼마 전에 재밌게 봤어요.",
+          "summary": "나는 드라마 <수리남>을 얼마 전에 재밌게 봤다.",
+          "date": "2022-09-24",
+          "time": "21:19:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31572",
+          "participantID": "0123",
+          "utterance": "저는 최근에 나온 드라마는 안 보구요. 옛날에 재미있게 봤던 드라마 다시 보는 걸 좋아해요. 요즘 가을 동화 다시 보고 있어요.",
+          "summary": "나는 최근에 나온 드라마는 안 본다. 나는 옛날에 재미있게 봤던 드라마를 다시 보는 것을 좋아한다. 나는 요즘 드라마 가을 동화를 다시 보고 있다.",
+          "date": "2022-09-24",
+          "time": "21:19:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30865",
+          "participantID": "0288",
+          "utterance": "가을 동화가 @이름1@이 나왔던 드라마 맞나요? 저는 드라마는 장르물만 봐서요ㅎㅎ.",
+          "summary": "나는 드라마는 장르물만 본다.",
+          "date": "2022-09-24",
+          "time": "21:20:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31572",
+          "participantID": "0123",
+          "utterance": "네 @이름1@, @이름2@, @이름3@ 나온 드라마요. 저는 드라마는 로맨스만 봐요 하하.",
+          "summary": "나는 드라마는 로맨스 장르만 본다.",
+          "date": "2022-09-24",
+          "time": "21:20:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30865",
+          "participantID": "0288",
+          "utterance": "저랑은 드라마 취향이 정 반대시네요ㅎㅎ 언니분 오시면 오늘 뭐 하기로 하셨어요?",
+          "summary": "나는 상대방의 드라마 취향이 나랑은 정 반대라고 생각한다.",
+          "date": "2022-09-24",
+          "time": "21:21:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "31572",
+          "participantID": "0123",
+          "utterance": "전 언니만 태우러 갔다가 집 가서 바로 드라마 다시 볼 거예요. 전 언니랑 안 친해서 언니 스케줄은 모르겠네요. 또 연락할게요 ~",
+          "summary": "나는 언니만 태우러 공항에 갔다가 집 가서 바로 드라마를 다시 볼 것이다. 나는 언니랑 안 친해서 언니의 스케줄을 모른다.",
+          "date": "2022-09-24",
+          "time": "21:22:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "30865",
+          "participantID": "0288",
+          "utterance": "그러시군요. 그럼 드라마 재밌게 보시고 즐거운 주말 되세요.",
+          "summary": "",
+          "date": "2022-09-24",
+          "time": "21:22:48",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 잘 지내고 있었으나 지금 공항에 가야 돼서 기분이 별로다.",
+          "나는 언니를 태우러 공항에 가야 한다. 나의 언니는 제주도에 살고 있으며 서울에 종종 올 때마다 자기를 태우러 오라고 한다.",
+          "나는 서울 성북구에 거주 중이라 김포공항까지 은근 거리가 있다. 나는 언니 때문에 공항에 가는 것을 싫어한다.",
+          "나의 엄마는 언니를 끔찍이 아낀다. 나는 그냥 집에서 누워서 드라마 정주행을 하고 싶다.",
+          "나는 최근에 나온 드라마는 안 본다. 나는 옛날에 재미있게 봤던 드라마를 다시 보는 것을 좋아한다. 나는 요즘 드라마 가을 동화를 다시 보고 있다.",
+          "나는 드라마는 로맨스 장르만 본다.",
+          "나는 언니만 태우러 공항에 갔다가 집 가서 바로 드라마를 다시 볼 것이다. 나는 언니랑 안 친해서 언니의 스케줄을 모른다."
+        ],
+        "speaker2": [
+          "나는 주말이라 수영을 하러 가고 있었다. 나는 수영을 가끔 한다.",
+          "나는 공항엔 여행 갈 때만 가서 공항에 가면 기분이 좋다.",
+          "나는 매번 언니를 데리러 가는 상대방이 귀찮을 것 같다고 생각한다.",
+          "나는 매번 언니를 데리러 가는 상대방이 되게 착하다고 생각한다.",
+          "나는 드라마 <수리남>을 얼마 전에 재밌게 봤다.",
+          "나는 드라마는 장르물만 본다.",
+          "나는 상대방의 드라마 취향이 나랑은 정 반대라고 생각한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 여자이다.",
+          "나는 이미 퇴근했는데 학부모들한테 계속 연락이 와서 핸드폰을 끄고 싶다.",
+          "나는 유치원 교사이다. 나는 퇴근 후 거래처나 회사에서 연락이 안 오는 게 정상이라고 생각한다.",
+          "나는 친구들과 밀린 연락을 해야 되는데 내가 왜 핸드폰을 끄고 학부모 연락을 피해야 하는지 모르겠다.",
+          "나는 프랑스에는 퇴근 후 연락을 하면 고소할 수 있는 법이 있다고 알고 있다. 나는 퇴근 후 연락하면 고소할 수 있는 법이 생기면 당장 신고하고 싶다.",
+          "나는 아직 저녁을 안 먹었다. 나는 엄마 다이어트하라고 사과를 잘라주셨지만 안 먹고 굶을 것이다. 나는 사과를 싫어한다.",
+          "나는 친구 사이여도 계산은 정확히 해야 한다고 생각한다."
+        ],
+        "speaker2": [
+          "나는 30대 남자이다.",
+          "나는 퇴근하면 핸드폰을 꺼버린다. 나는 방송 영상 편집기 사라 퇴근 후 연락이 자주 오는 편이다.",
+          "나는 퇴근 후엔 연락 못 하게 법으로 지정되었으면 좋겠다고 생각한다.",
+          "나는 퇴근 후에 연락하면 고소할 수 있는 법이 있는 프랑스가 선진국이라고 생각한다.",
+          "나는 저녁으로 치킨을 먹을 것이다. 나는 맥주를 싫어한다. 나는 친구가 치킨엔 맥주라고 맥주를 주문한 것이 짜증 난다."
+        ]
+      }
+    }
+  ]
+}

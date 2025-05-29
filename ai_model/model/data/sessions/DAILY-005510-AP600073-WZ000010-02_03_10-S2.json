@@ -1,0 +1,829 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-005510-AP600073-WZ000010-02_03_10-S2.json",
+        "sessionLevel": "2"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0010",
+            "gender": "여성",
+            "age": "40대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "요리"
+        },
+        "speaker2": {
+            "participantID": "F0010",
+            "gender": "남성",
+            "age": "50대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "천문학"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "005510"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600073",
+            "personaFeatures": [
+                "나는 관광/감상의 놀이에 대한 교육을 받고 있다.",
+                "나는 가끔 기쁘다",
+                "나는 피아노를 배우고 싶다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000010",
+            "personaFeatures": [
+                "나는 놀이에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_10",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "기타"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "005510-1",
+            "sessionKeywords": [
+                "*티볼리 공원*,*티볼리 공원*의 놀이"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600073",
+                    "participantID": "E0010",
+                    "utterance": "내가 어릴적에 읽은 동화책중에 인어공주를 제일 좋아했어",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695908707000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000010",
+                    "participantID": "F0010",
+                    "utterance": "안녕하세요? 인어공주 동화를 좋아하셨군요? 아름답고 슬픈 동화지요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695908738000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600073",
+                    "participantID": "E0010",
+                    "utterance": "그 인어공주가 너무 슬퍼서 그렇게 이야기를 만든 안데르센아저씨가 밉다는 생각까지 했었지",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695908766000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000010",
+                    "participantID": "F0010",
+                    "utterance": "안데르센 작가는 아름답고 슬픈 동화로 유명한 덴마크 출신의 작가입니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695908820000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600073",
+                    "participantID": "E0010",
+                    "utterance": "덴마크에 티볼리 공원이라고 있다면서? 내가 감상의 놀이에 대한 교육을 받고 있는데 들어봤니?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 관광 놀이에 대한 교육을 받고 있다",
+                    "timestamp": 1695908852000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000010",
+                    "participantID": "F0010",
+                    "utterance": "코펜하겐 중앙역 건너편에 위치해 있는 어른들을 위한 공원이며 덴마크에서 가장 큰 놀이공원이며, 세계에서 가장 오래된 테마 파크 중 하나로, 월트 디즈니가 디즈니 랜드를 설계할 때 영감을 받은 곳으로도 알려져 있습니다.",
+                    "context": {
+                        "query": "티볼리 공원",
+                        "contents": [
+                            {
+                                "documentID": "377531",
+                                "documentTitle": "티볼리 공원",
+                                "content": [
+                                    "티볼리 공원()은 덴마크 코펜하겐에 위치한 놀이공원이다.",
+                                    "코펜하겐 중앙역 건너편에 위치해 있는 어른들을 위한 공원이며 덴마크에서 가장 큰 놀이공원이다.",
+                                    "1843년 8월 15일에 도시의 해자 바깥에 개장해 도시가 팽창하면서 도심에 위치하게 됬다.",
+                                    "세계에서 가장 오래된 테마 파크 중 하나로, 월트 디즈니가 디즈니 랜드를 설계할 때 영감을 받은 곳으로도 알려졌다.",
+                                    "공원 안에는 갖가지 문화 시설, 야외 음악당, 극장, 놀이기구가 있다.",
+                                    "가장 유명한 놀이기구 중 하나는 1914년에 생긴 목재 롤러코스터로, 지금도 직원이 탑승해서 브레이크를 작동시킨다.",
+                                    "밤에는 수천개의 조명에 한번에 불이 들어와 장관을 이룬다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            true,
+                            false,
+                            true,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "코펜하겐 중앙역 건너편에 위치해 있는 어른들을 위한 공원이며 덴마크에서 가장 큰 놀이공원이며, 세계에서 가장 오래된 테마 파크 중 하나로, 월트 디즈니가 디즈니 랜드를 설계할 때 영감을 받은 곳으로도 알려져 있다",
+                    "timestamp": 1695908898000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600073",
+                    "participantID": "E0010",
+                    "utterance": "그러게 가장 오래된 테마파크라니.. 멋진곳인곳같다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695908936000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000010",
+                    "participantID": "F0010",
+                    "utterance": "가장 유명한 놀이기구 중 하나는 1914년에 생긴 목재 롤러코스터로, 지금도 직원이 탑승해서 브레이크를 작동합니다.",
+                    "context": {
+                        "query": "티볼리 공원",
+                        "contents": [
+                            {
+                                "documentID": "377531",
+                                "documentTitle": "티볼리 공원",
+                                "content": [
+                                    "티볼리 공원()은 덴마크 코펜하겐에 위치한 놀이공원이다.",
+                                    "코펜하겐 중앙역 건너편에 위치해 있는 어른들을 위한 공원이며 덴마크에서 가장 큰 놀이공원이다.",
+                                    "1843년 8월 15일에 도시의 해자 바깥에 개장해 도시가 팽창하면서 도심에 위치하게 됬다.",
+                                    "세계에서 가장 오래된 테마 파크 중 하나로, 월트 디즈니가 디즈니 랜드를 설계할 때 영감을 받은 곳으로도 알려졌다.",
+                                    "공원 안에는 갖가지 문화 시설, 야외 음악당, 극장, 놀이기구가 있다.",
+                                    "가장 유명한 놀이기구 중 하나는 1914년에 생긴 목재 롤러코스터로, 지금도 직원이 탑승해서 브레이크를 작동시킨다.",
+                                    "밤에는 수천개의 조명에 한번에 불이 들어와 장관을 이룬다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false
+                        ]
+                    ],
+                    "summary": "가장 유명한 놀이기구 중 하나는 1914년에 생긴 목재 롤러코스터로, 지금도 직원이 탑승해서 브레이크를 작동한다",
+                    "timestamp": 1695908968000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600073",
+                    "participantID": "E0010",
+                    "utterance": "우와. 신기한곳이네 직원이 탑승해서 브레이크를 작동하다니. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909005000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000010",
+                    "participantID": "F0010",
+                    "utterance": "밤에는 수천개의 조명에 한번에 불이 들어와 장관을 이루기도 합니다.",
+                    "context": {
+                        "query": "티볼리 공원",
+                        "contents": [
+                            {
+                                "documentID": "377531",
+                                "documentTitle": "티볼리 공원",
+                                "content": [
+                                    "티볼리 공원()은 덴마크 코펜하겐에 위치한 놀이공원이다.",
+                                    "코펜하겐 중앙역 건너편에 위치해 있는 어른들을 위한 공원이며 덴마크에서 가장 큰 놀이공원이다.",
+                                    "1843년 8월 15일에 도시의 해자 바깥에 개장해 도시가 팽창하면서 도심에 위치하게 됬다.",
+                                    "세계에서 가장 오래된 테마 파크 중 하나로, 월트 디즈니가 디즈니 랜드를 설계할 때 영감을 받은 곳으로도 알려졌다.",
+                                    "공원 안에는 갖가지 문화 시설, 야외 음악당, 극장, 놀이기구가 있다.",
+                                    "가장 유명한 놀이기구 중 하나는 1914년에 생긴 목재 롤러코스터로, 지금도 직원이 탑승해서 브레이크를 작동시킨다.",
+                                    "밤에는 수천개의 조명에 한번에 불이 들어와 장관을 이룬다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true
+                        ]
+                    ],
+                    "summary": "밤에는 수천개의 조명에 한번에 불이 들어와 장관을 이루기도 한다",
+                    "timestamp": 1695909024000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600073",
+                    "participantID": "E0010",
+                    "utterance": "우와!! 정말 장관이겠는걸? 난 가끔 기뻐!.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 가끔 기쁘다",
+                    "timestamp": 1695909081000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000010",
+                    "participantID": "F0010",
+                    "utterance": "네, 아름다운 장관을 보게된다면, 모두가 기뻐할 것입니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909102000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600073",
+                    "participantID": "E0010",
+                    "utterance": "별보러 잠시 나갔다 와야겠어 마침 달도 크게 떴다고 하더라구",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909141000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000010",
+                    "participantID": "F0010",
+                    "utterance": "오늘밤은 이동성 고기압의 영향으로 구름이 없기에, 달과 별구경하기 좋을밤입니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909176000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 관광 놀이에 대한 교육을 받고 있다",
+                    "나는 가끔 기쁘다"
+                ],
+                "wizard": [
+                    "코펜하겐 중앙역 건너편에 위치해 있는 어른들을 위한 공원이며 덴마크에서 가장 큰 놀이공원이며, 세계에서 가장 오래된 테마 파크 중 하나로, 월트 디즈니가 디즈니 랜드를 설계할 때 영감을 받은 곳으로도 알려져 있다",
+                    "가장 유명한 놀이기구 중 하나는 1914년에 생긴 목재 롤러코스터로, 지금도 직원이 탑승해서 브레이크를 작동한다",
+                    "밤에는 수천개의 조명에 한번에 불이 들어와 장관을 이루기도 한다"
+                ],
+                "dialogSummary": "질문자는 티볼리 공원에 대해서 질문했고 챗봇은 코펜하겐 중앙역 건너편에 위치해 있는 어른들을 위한 공원이며 덴마크에서 가장 큰 놀이공원이며, 세계에서 가장 오래된 테마 파크 중 하나로, 월트 디즈니가 디즈니 랜드를 설계할 때 영감을 받은 곳으로도 알려져있다, 가장 유명한 놀이기구 중 하나는 1914년에 생긴 목재 롤러코스터로, 지금도 직원이 탑승해서 브레이크를 작동한다, 밤에는 수천개의 조명에 한번에 불이 들어와 장관을 이루기도 한다라고 대답했다"
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "005510-1",
+            "prevTimeInfo": {
+                "timeNum": "4",
+                "timeUnit": "주"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "005510-2",
+            "sessionKeywords": [
+                "*이코마역*,*이코마역*의 놀이"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600073",
+                    "participantID": "E0010",
+                    "utterance": "너는 혹시 피아노 칠 줄 알아?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909267000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000010",
+                    "participantID": "F0010",
+                    "utterance": "안녕하세요? 4주일만에 오셨네요? 저는피아노를 칠 줄 모르지만, 피아노 음악을 찾아 들려줄 수는 있습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909369000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600073",
+                    "participantID": "E0010",
+                    "utterance": "내가 요새 피아노를 배우고 싶더라 피아노를 못치거든",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 피아노를 배우고 싶다",
+                    "timestamp": 1695909396000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000010",
+                    "participantID": "F0010",
+                    "utterance": "아 그러시군요? 피아노는 아름다운 악기입니다. 열심히 노력해서, 피아노 연주를 들려주세요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909464000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600073",
+                    "participantID": "E0010",
+                    "utterance": "응! 그런날이 올지 모르지만. 공부하면서 듣는 피아노는 참 좋더라구",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909516000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000010",
+                    "participantID": "F0010",
+                    "utterance": "음악을 들으면서, 공부하는 방법이 효과가 있는 사람들이 있다는 합니다만, 공부에 더 집중하는게 좋을것 같습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909635000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600073",
+                    "participantID": "E0010",
+                    "utterance": "공부하다가 이코마역에 대해서 나왔거든 알려줘",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909647000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000010",
+                    "participantID": "F0010",
+                    "utterance": "이코마역()은 일본 나라현 이코마시에 있는 긴키 닛폰 철도의 철도역으로 동일 지점에 있는 이코마코사쿠 선의 도리이마에 역과 환승역이 됩니다.",
+                    "context": {
+                        "query": "이코마역",
+                        "contents": [
+                            {
+                                "documentID": "927172",
+                                "documentTitle": "이코마역",
+                                "content": [
+                                    "이코마역()은 일본 나라현 이코마시에 있는 긴키 닛폰 철도의 철도역이다.",
+                                    "동일 지점에 있는 이코마코사쿠 선의 도리이마에 역과 환승역이 된다.",
+                                    "역 구조.",
+                                    "섬식 승강장 3면 6선의 승강장이 있는 지상역이며, 교상역사를 가진다.",
+                                    "게이한나 선, 나라 선, 이코마 선에 승강장을 각각 1면씩 사용한다.",
+                                    "교상역사는 동서 쌍방향으로 설치되고 있지만, 서역사는 이코마 선 승강장에 직접 연결되지 않았다.",
+                                    "역 동쪽 끝에 개찰 내 지하 연락 통로가 설치되어 있다.",
+                                    "게이한나 선과 다른 2선은 개찰구·중앙 개찰구 모두 나라 선·이코마 선용(녹색)과 게이한나선 용(황녹색)의 개찰구가 따로 있다.",
+                                    "서쪽·중앙·지하에 환승용 개찰구가 있다.",
+                                    "역세권 정보.",
+                                    "남쪽은 옛부터 다카라야마 절의 참배길로서 발달됨.",
+                                    "음식과 관련된 가게가 집중되었다.",
+                                    "북쪽은 재개발도상에 있다.",
+                                    "북구.",
+                                    "주변에 상업 시설과 주택 단지들이 잘 형성되었다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "이코마역()은 일본 나라현 이코마시에 있는 긴키 닛폰 철도의 철도역으로 동일 지점에 있는 이코마코사쿠 선의 도리이마에 역과 환승역이 된다",
+                    "timestamp": 1695909712000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600073",
+                    "participantID": "E0010",
+                    "utterance": "환승역이니 좀 클 수도 있겠다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909779000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000010",
+                    "participantID": "F0010",
+                    "utterance": "교상역사는 동서 쌍방향으로 설치되고 있으며, 서역사는 이코마 선 승강장에 직접 연결되지 않지만, 역 동쪽 끝에 개찰 내 지하 연락 통로가 설치되어 있습니다.",
+                    "context": {
+                        "query": "이코마역",
+                        "contents": [
+                            {
+                                "documentID": "927172",
+                                "documentTitle": "이코마역",
+                                "content": [
+                                    "이코마역()은 일본 나라현 이코마시에 있는 긴키 닛폰 철도의 철도역이다.",
+                                    "동일 지점에 있는 이코마코사쿠 선의 도리이마에 역과 환승역이 된다.",
+                                    "역 구조.",
+                                    "섬식 승강장 3면 6선의 승강장이 있는 지상역이며, 교상역사를 가진다.",
+                                    "게이한나 선, 나라 선, 이코마 선에 승강장을 각각 1면씩 사용한다.",
+                                    "교상역사는 동서 쌍방향으로 설치되고 있지만, 서역사는 이코마 선 승강장에 직접 연결되지 않았다.",
+                                    "역 동쪽 끝에 개찰 내 지하 연락 통로가 설치되어 있다.",
+                                    "게이한나 선과 다른 2선은 개찰구·중앙 개찰구 모두 나라 선·이코마 선용(녹색)과 게이한나선 용(황녹색)의 개찰구가 따로 있다.",
+                                    "서쪽·중앙·지하에 환승용 개찰구가 있다.",
+                                    "역세권 정보.",
+                                    "남쪽은 옛부터 다카라야마 절의 참배길로서 발달됨.",
+                                    "음식과 관련된 가게가 집중되었다.",
+                                    "북쪽은 재개발도상에 있다.",
+                                    "북구.",
+                                    "주변에 상업 시설과 주택 단지들이 잘 형성되었다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "교상역사는 동서 쌍방향으로 설치되고 있으며, 서역사는 이코마 선 승강장에 직접 연결되지 않았다. 역 동쪽 끝에 개찰 내 지하 연락 통로가 설치되어 있다",
+                    "timestamp": 1695909846000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600073",
+                    "participantID": "E0010",
+                    "utterance": "역시 많은정보를 알려주는 너구나!",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909885000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000010",
+                    "participantID": "F0010",
+                    "utterance": "찾는 정보를 드리게 되어, 기쁘게 생각합니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909901000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600073",
+                    "participantID": "E0010",
+                    "utterance": "내가 모르는것이 있음 언제든지 알려줄 수 있지?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909942000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000010",
+                    "participantID": "F0010",
+                    "utterance": "네, 언제든지 저를 찾아주시면, 저도 기쁩니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695909966000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 피아노를 배우고 싶다"
+                ],
+                "wizard": [
+                    "이코마역()은 일본 나라현 이코마시에 있는 긴키 닛폰 철도의 철도역으로 동일 지점에 있는 이코마코사쿠 선의 도리이마에 역과 환승역이 된다",
+                    "교상역사는 동서 쌍방향으로 설치되고 있으며, 서역사는 이코마 선 승강장에 직접 연결되지 않았다. 역 동쪽 끝에 개찰 내 지하 연락 통로가 설치되어 있다"
+                ],
+                "dialogSummary": "질문자는 이코마역에 대해서 질문하였고 챗봇은 이코마역은 일본 나라현 이코마시에 있는 긴키 닛폰 철도의 철도역으로 동일 지점에 있는 이코마코사쿠 선의 도리이마에 역과 환승역이 된다고 하고, 교상역사는 동서 쌍방향으로 설치되고 있으며, 서역사는 이코마 선 승강장에 직접 연결되지 않았다. 역 동쪽 끝에 개찰 내 지하 연락 통로가 설치되어 있다고 대답하였다"
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광 놀이에 대한 교육을 받고 있다",
+                    "나는 가끔 기쁘다"
+                ],
+                "wizard": [
+                    "코펜하겐 중앙역 건너편에 위치해 있는 어른들을 위한 공원이며 덴마크에서 가장 큰 놀이공원이며, 세계에서 가장 오래된 테마 파크 중 하나로, 월트 디즈니가 디즈니 랜드를 설계할 때 영감을 받은 곳으로도 알려져 있다",
+                    "가장 유명한 놀이기구 중 하나는 1914년에 생긴 목재 롤러코스터로, 지금도 직원이 탑승해서 브레이크를 작동한다",
+                    "밤에는 수천개의 조명에 한번에 불이 들어와 장관을 이루기도 한다"
+                ]
+            }
+        }
+    ]
+}

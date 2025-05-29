@@ -1,0 +1,431 @@
+{
+  "FileInfo": {
+    "filename": "K2-00148-CL34927-CP40868-05-08-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4605",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "4296",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "기능직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00148"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "34927",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 30대이다.",
+        "나는 디스코 음악을 자주 듣는다",
+        "나는 안경사이다",
+        "나는 핀란드에 가봤다",
+        "나는 항상 감사하다",
+        "나는 김치찌개를 안 먹는다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "40868",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 물리치료사이다",
+        "나는 달리기를 자주 한다",
+        "나는 초록색을 싫어한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "05-08",
+    "topicType": "일과 직업>군대",
+    "topicTitle": "편지"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00148-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "34927",
+          "participantID": "4605",
+          "utterance": "안녕하세요! 저는 잠실 사는 30대 여자에요.",
+          "summary": "나는 잠실 사는 30대 여성이다.",
+          "date": "2022-11-16",
+          "time": "10:17:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40868",
+          "participantID": "4296",
+          "utterance": "안녕하세요. 저는 40대 남성입니다. 저는 물리치료사로 일하고 있는데 직업이 어떻게 되세요?",
+          "summary": "나는 40대 남자이고 물리치료사다.",
+          "date": "2022-11-16",
+          "time": "10:18:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34927",
+          "participantID": "4605",
+          "utterance": "물리치료사면 돈 많이 버시겠어요! 저는 안경사에요.",
+          "summary": "나는 안경사이다.",
+          "date": "2022-11-16",
+          "time": "10:19:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40868",
+          "participantID": "4296",
+          "utterance": "안경사란 직업도 너무 멋지네요~저는 취미로 달리기를 자주 하는데 운동좋아하세요?",
+          "summary": "나의 취미로 달리기를 자주 한다.",
+          "date": "2022-11-16",
+          "time": "10:19:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34927",
+          "participantID": "4605",
+          "utterance": "운동 좋아하지 않는데 이제 체력이 후달려서 생존을 위해 헬스장에 가네요... 그래도 어디 크게 아픈 곳 없음에 항상 감사한 마음이에요.",
+          "summary": "나는 운동을 좋아하지는 않지만 헬스장에 간다.",
+          "date": "2022-11-16",
+          "time": "10:20:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40868",
+          "participantID": "4296",
+          "utterance": "맞아요. 살다보니 건강이 최고인 것 같아요. 저는 보라색을 좋아하고 초록색을 싫어하는데 좋아하는 색 있으세요?",
+          "summary": "나는 보라색을 좋아하고 초록색을 싫어한다.",
+          "date": "2022-11-16",
+          "time": "10:21:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34927",
+          "participantID": "4605",
+          "utterance": "저는 흰색 좋아해요. 전에 핀란드 여행을 갔는데 눈으로 뒤덮힌 풍경이 예뻐서 그때부터 흰색을 좋아하게 됐어요. 뭐 안드시는 음식이나 요리 있으실까요?",
+          "summary": "나는 흰색을 좋아한다.",
+          "date": "2022-11-16",
+          "time": "10:23:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40868",
+          "participantID": "4296",
+          "utterance": "저는 편식을 많이 안하는 편이긴 한데 과메기는 안 좋아해요. 저는 매운 음식을 좋아한답니다. 어떤 음식 좋아하세요?",
+          "summary": "나는 매운 음식을 좋아하고 과메기는 싫어한다.",
+          "date": "2022-11-16",
+          "time": "10:23:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34927",
+          "participantID": "4605",
+          "utterance": "과메기는 저도 별로더라구요.  저는 찌개 좋아하는데 된장찌개는 좋지만 김치찌개는 안 먹어요. 남들은 그 둘이 뭔차이냐고 하대요.",
+          "summary": "나는 과메기가 별로이다. 나는 된장찌개는 좋아하지만 김치찌개는 안 먹는다.",
+          "date": "2022-11-16",
+          "time": "10:24:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40868",
+          "participantID": "4296",
+          "utterance": "확실히 다르죠 ㅎ 된장이랑 김치는 그래도 뭐라도 입에 맞는 음식 맛있게 드시면 좋은 것 같아요~ 확실히 과메기는 호불호가 심한 음식인 것 같아요. 저는 특히 짬뽕을 좋아해요",
+          "summary": " 나는 짬뽕을 좋아한다.",
+          "date": "2022-11-16",
+          "time": "10:26:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34927",
+          "participantID": "4605",
+          "utterance": "짬뽕 저도 좋아해요! 짬뽕은 싫어하는 사람 없을 것 같아요",
+          "summary": "나는 짬뽕을 좋아한다.",
+          "date": "2022-11-16",
+          "time": "10:28:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40868",
+          "participantID": "4296",
+          "utterance": "맞아요. 특히 짬뽕과 탕수육의 조합은 최고라고 생각해요. 오늘 점심은 짬뽕을 먹어야겠어요",
+          "summary": "나는 오늘 점심에 짬뽕을 먹을 생각이다.",
+          "date": "2022-11-16",
+          "time": "10:29:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34927",
+          "participantID": "4605",
+          "utterance": "저는 연어 포케 먹으러 가려고 해요. 포케집이 새로 생겼더라구요.",
+          "summary": "나는 연어 포케를 먹으러 간다.",
+          "date": "2022-11-16",
+          "time": "10:29:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40868",
+          "participantID": "4296",
+          "utterance": "너무 맛있을 것 같은데요. 저는 일이 생겨서 나가봐야 할 것 같아요. 다음에 또 이야기 나눠요~",
+          "summary": "",
+          "date": "2022-11-16",
+          "time": "10:31:11",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 잠실 사는 30대 여성이다.",
+          "나는 안경사이다.",
+          "나는 운동을 좋아하지는 않지만 헬스장에 간다.",
+          "나는 흰색을 좋아한다.",
+          "나는 과메기가 별로이다.",
+          "나는 된장찌개는 좋아하지만 김치찌개는 안 먹는다.",
+          "나는 짬뽕을 좋아한다.",
+          "나는 연어 포케를 먹으러 간다."
+        ],
+        "speaker2": [
+          "나는 40대 남자이고 물리치료사다.",
+          "나의 취미로 달리기를 자주 한다.",
+          "나는 보라색을 좋아하고 초록색을 싫어한다.",
+          "나는 매운 음식을 좋아하고 과메기는 싫어한다.",
+          "나는 짬뽕을 좋아한다.",
+          "나는 오늘 점심에 짬뽕을 먹을 생각이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00148-1",
+      "prevTimeInfo": {
+        "timeNum": "30",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00148-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "34927",
+          "participantID": "4605",
+          "utterance": "엊그제 짬뽕은 잘 드셨나요?ㅎㅎ30시간만에 연락드려요!",
+          "summary": "",
+          "date": "2022-11-16",
+          "time": "10:35:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40868",
+          "participantID": "4296",
+          "utterance": "네네^^ 매운 짬뽕 먹었는데 엄청 맛있게 먹었어요. 연어 포케 드셨나요?",
+          "summary": "나는 며칠 전 매운 짬뽕을 먹었다.",
+          "date": "2022-11-16",
+          "time": "10:38:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34927",
+          "participantID": "4605",
+          "utterance": "네 존맛탱이었어요 건강식이고 좋아요. 뉴스 보셨어요? 뭔가 다시 전쟁날 것 같은 기세더라고요...",
+          "summary": "나는 연어 포케가 건강식이랑 좋다",
+          "date": "2022-11-16",
+          "time": "10:41:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40868",
+          "participantID": "4296",
+          "utterance": "조용조용히 살고 싶은데 뉴스만 보면 속이 시끄럽더라고요. 요즘 그래서 군대도 비상인 것 같아요. ",
+          "summary": "",
+          "date": "2022-11-16",
+          "time": "10:43:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34927",
+          "participantID": "4605",
+          "utterance": "어후 그래도 40대시니 징집당할 일은 없으시겠어요.",
+          "summary": "",
+          "date": "2022-11-16",
+          "time": "10:44:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40868",
+          "participantID": "4296",
+          "utterance": "다행이 저는 다 끝나서 상관은 없는데 예전에 군대 갔다 온 생각하면 참 암울하네요. ",
+          "summary": "나는 제대한 지 오래되었다.",
+          "date": "2022-11-16",
+          "time": "10:45:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34927",
+          "participantID": "4605",
+          "utterance": "그쵸 대한민국 남자분들 정말 대단해요 존경합니다... 저 핀란드 갔을 때 보니까 핀란드도 군복무가 의무인 나라여서 놀랐어요.",
+          "summary": "나는 대한민국 남자들 대단하고 존경한다.",
+          "date": "2022-11-16",
+          "time": "10:51:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40868",
+          "participantID": "4296",
+          "utterance": "그래요? 저도 지금 님 이야기 듣고 놀랬네요. 저는 군대에 있을 때 여자친구가 있었는데 그때 편지가 오면 그렇게 좋더라고요. 위문 편지 써보신 적 있으세요?",
+          "summary": "나는 군 생활할 당시 여자 친구가 있었다.",
+          "date": "2022-11-16",
+          "time": "10:53:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34927",
+          "participantID": "4605",
+          "utterance": "네 딱한번요. 사촌오빠 군대 가 있을 때 엄마가 하도 쓰라고 닥달해서 써서 보냈거든요? 근데 답장 없어서 마상이었어요.",
+          "summary": "나는 사촌오빠 군대에 있을 때 편지를 쓴 적 있다",
+          "date": "2022-11-16",
+          "time": "10:55:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40868",
+          "participantID": "4296",
+          "utterance": "사촌오빠가 센스가 없었네요. 저는 그때 군대에서 여자친구 편지만 기다렸던 것 같아요.  그 여자친구가 지금은 아내랍니다^^",
+          "summary": "나는 군 생활할 때 여자 친구 편지가 오기만을 기다렸다. 나는 군 생활할 때 여자 친구와 제대 후 결혼했다.",
+          "date": "2022-11-16",
+          "time": "10:56:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34927",
+          "participantID": "4605",
+          "utterance": "오 대박이에요! 여친이 군대까지 기다려 준거에요? 우와",
+          "summary": "",
+          "date": "2022-11-16",
+          "time": "10:56:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40868",
+          "participantID": "4296",
+          "utterance": "네 저도 주변에서 다들 헤어지고 그러면 내 차례도 오겠지 오겠지 불안했는데 끝까지 기다려준 여친에게 저도 끝까지 의리를 지켰어요!",
+          "summary": "나의 여자 친구는 의리 있는 사람이다.",
+          "date": "2022-11-16",
+          "time": "10:59:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34927",
+          "participantID": "4605",
+          "utterance": "아내분께 경의를 표합니다 헤어지는 게 보통인데 존경합니다!",
+          "summary": "",
+          "date": "2022-11-16",
+          "time": "11:08:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "40868",
+          "participantID": "4296",
+          "utterance": "저도 저의 와이프가 너무 존경 스럽네요! 저는 달리기 하러 가봐야할 것 같아요. 대화 즐거웠어요",
+          "summary": "나는 내 아내를 존경한다.",
+          "date": "2022-11-16",
+          "time": "11:10:55",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 연어 포케가 건강식이랑 좋다",
+          "나는 대한민국 남자들 대단하고 존경한다.",
+          "나는 사촌오빠 군대에 있을 때 편지를 쓴 적 있다"
+        ],
+        "speaker2": [
+          "나는 며칠 전 매운 짬뽕을 먹었다.",
+          "나는 제대한 지 오래되었다.",
+          "나는 군 생활할 당시 여자 친구가 있었다.",
+          "나는 군 생활할 때 여자 친구 편지가 오기만을 기다렸다.",
+          "나는 군 생활할 때 여자 친구와 제대 후 결혼했다.",
+          "나의 여자 친구는 의리 있는 사람이다.",
+          "나는 내 아내를 존경한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 잠실 사는 30대 여성이다.",
+          "나는 안경사이다.",
+          "나는 운동을 좋아하지는 않지만 헬스장에 간다.",
+          "나는 흰색을 좋아한다.",
+          "나는 과메기가 별로이다.",
+          "나는 된장찌개는 좋아하지만 김치찌개는 안 먹는다.",
+          "나는 짬뽕을 좋아한다.",
+          "나는 연어 포케를 먹으러 간다."
+        ],
+        "speaker2": [
+          "나는 40대 남자이고 물리치료사다.",
+          "나의 취미로 달리기를 자주 한다.",
+          "나는 보라색을 좋아하고 초록색을 싫어한다.",
+          "나는 매운 음식을 좋아하고 과메기는 싫어한다.",
+          "나는 짬뽕을 좋아한다.",
+          "나는 오늘 점심에 짬뽕을 먹을 생각이다."
+        ]
+      }
+    }
+  ]
+}

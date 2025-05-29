@@ -1,0 +1,427 @@
+{
+  "FileInfo": {
+    "filename": "K2-00021-CL41494-CP41056-10-05-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4058",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "3971",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "서비스직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00021"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "41494",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 40대이다.",
+        "나는 콜센터 상담원이다",
+        "나는 걷기를 가끔 한다",
+        "나는 TV 시사 프로그램을 자주 본다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "41056",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 40대이다.",
+        "나는 한의사이다",
+        "나는 시를 가끔 읽는다",
+        "나는 맥주를 좋아한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "10-05",
+    "topicType": "여가와 오락>스포츠/레져",
+    "topicTitle": "올림픽"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "15",
+      "numberOfTurns": "7",
+      "sessionID": "2-00021-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "안녕하세요 저는 40대 여성입니다.",
+          "summary": "나는 40대 여성이다.",
+          "date": "2022-10-31",
+          "time": "15:21:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41056",
+          "participantID": "3971",
+          "utterance": "안녕하세요 저는 40대 남성입니다.",
+          "summary": "나는 40대 남성이다.",
+          "date": "2022-11-01",
+          "time": "15:39:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "네 반갑습니다 직업이 어떻게 되세요? 저는 콜센터 상담원 입니다",
+          "summary": "나는 콜센터 상담원이다.",
+          "date": "2022-11-02",
+          "time": "18:09:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41056",
+          "participantID": "3971",
+          "utterance": "네 저는 시를 가끔 읽는걸 좋아하는 한의사 입니다.",
+          "summary": "나는 가끔 시를 읽는다. 나는 한의사이다.",
+          "date": "2022-11-07",
+          "time": "16:38:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "지금 뭐하고 계세요? 저는 tv 시사프로그램을 보고있어요. 자주보는 편이에요",
+          "summary": "나는 tv 시사프로그램을 자주 본다.",
+          "date": "2022-11-07",
+          "time": "16:58:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41056",
+          "participantID": "3971",
+          "utterance": "저는 가볍게 혼자 맥주를 마시고 있어요. 맥주를 정말 좋아하거든요",
+          "summary": "나는 가볍게 혼자 맥주를 마시고 있다. 나는 맥주를 정말 좋아한다.",
+          "date": "2022-11-08",
+          "time": "14:50:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "더운날씨에 맥주한잔마시면 피로가 싹 풀리죠. 운동 하시는 거 있으세요? 전 걷기를 가끔 합니다",
+          "summary": "나는 걷기를 가끔 한다.",
+          "date": "2022-11-08",
+          "time": "16:21:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41056",
+          "participantID": "3971",
+          "utterance": "저도 가끔 동네 뒷산으로 산책을 나가는걸 좋아합니다.",
+          "summary": "나는 가끔 동네 뒷산으로 산책 나가는 걸 좋아한다.",
+          "date": "2022-11-08",
+          "time": "16:23:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "주변에 산이 있으면 참 좋겠어요.",
+          "summary": "",
+          "date": "2022-11-08",
+          "time": "16:34:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41056",
+          "participantID": "3971",
+          "utterance": "네 그래서 저는 산으로 놀러나왔어요",
+          "summary": "나는 산으로 놀러 나왔다.",
+          "date": "2022-11-10",
+          "time": "13:20:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "어느 산인지 여쭤봐도 될까요?",
+          "summary": "",
+          "date": "2022-11-10",
+          "time": "13:39:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41056",
+          "participantID": "3971",
+          "utterance": "산 이름은 모르겠고 포천있는데로 왔네요",
+          "summary": "",
+          "date": "2022-11-10",
+          "time": "15:41:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "포천 이동갈비 맛있는데 드셨나요 ?",
+          "summary": "",
+          "date": "2022-11-10",
+          "time": "17:33:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41056",
+          "participantID": "3971",
+          "utterance": "아니요 포천 이동갈비는 뭔가요?",
+          "summary": "",
+          "date": "2022-11-10",
+          "time": "20:32:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "포천에서 파는 유명한 갈비에요 포천 이동 지역에서 판매하는!",
+          "summary": "",
+          "date": "2022-11-10",
+          "time": "20:52:08",
+          "terminate": "false"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다.",
+          "나는 콜센터 상담원이다.",
+          "나는 tv 시사프로그램을 자주 본다.",
+          "나는 걷기를 가끔 한다."
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 가끔 시를 읽는다. 나는 한의사이다.",
+          "나는 가볍게 혼자 맥주를 마시고 있다. 나는 맥주를 정말 좋아한다.",
+          "나는 가끔 동네 뒷산으로 산책 나가는 걸 좋아한다.",
+          "나는 산으로 놀러 나왔다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00021-1",
+      "prevTimeInfo": {
+        "timeNum": "40",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00021-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "안녕하세요 한의사님 40시간만이네요 잘 지내셨나요?",
+          "summary": "",
+          "date": "2022-11-11",
+          "time": "09:03:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41056",
+          "participantID": "3971",
+          "utterance": "안녕하세요! 저는 잘 지냈습니다. 어떻게 지내셨나요?",
+          "summary": "",
+          "date": "2022-11-11",
+          "time": "12:45:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "저는 회사 집 반복하며 지냈습니다 @이름@님은요 ?",
+          "summary": "나는 회사 집 반복하며 지냈다.",
+          "date": "2022-11-11",
+          "time": "13:14:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41056",
+          "participantID": "3971",
+          "utterance": "저도 회사 집 반복하며 지냈네요. 오늘 날씨가 참 봄날씨 같네요",
+          "summary": "나는 회사 집 반복하면서 지냈다. 나는 오늘 날씨가 참 봄 날씨 같다.",
+          "date": "2022-11-11",
+          "time": "13:42:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "맞아요 갑자기 날씨가 포근해졌는데 주말부터 다시 쌀쌀해진다고 하더라구요. 그런데 저희 다음 올림픽이 언젠지 아세요?",
+          "summary": "",
+          "date": "2022-11-11",
+          "time": "16:38:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41056",
+          "participantID": "3971",
+          "utterance": "다음이 33회 프랑스 파리 올림픽이라고 하네요! 2024년입니다.",
+          "summary": "",
+          "date": "2022-11-11",
+          "time": "21:39:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "올해는 월드컴보고 이년뒤에 올림픽 보면 되겠어요",
+          "summary": "나는 올해 월드컵 보고 2년 뒤 올림픽을 볼 예정이다.",
+          "date": "2022-11-13",
+          "time": "01:38:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41056",
+          "participantID": "3971",
+          "utterance": "네 월드컵이 진짜 코앞이네요. 월드컵도 챙겨 보시나요?",
+          "summary": "",
+          "date": "2022-11-13",
+          "time": "16:47:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "원래는 챙겨봤는데 저번 월드컵 부터는 잘 안 보는 것 같아요",
+          "summary": "나는 저번 월드컵부터 잘 안 보게 되었다.",
+          "date": "2022-11-13",
+          "time": "19:41:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41056",
+          "participantID": "3971",
+          "utterance": "저도 항상 챙겨보지는 않아요. 하지만 올림픽 개막식은 꼭 찾아서 보네요",
+          "summary": "나는 항상 월드컵을 챙겨보지 않는다. 나는 올림픽 개막식은 꼭 찾아서 본다.",
+          "date": "2022-11-13",
+          "time": "22:10:06",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "오 맞아요! 저도 올림픽 개막식은 꼭 찾아서 봐요! 볼거리가 많죠",
+          "summary": "나는 올림픽 개막식을 찾아본다.",
+          "date": "2022-11-14",
+          "time": "11:30:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41056",
+          "participantID": "3971",
+          "utterance": "네 중국과 영국의 개막식이 인상 깊었네요!",
+          "summary": "나는 중국과 영국의 올림픽 개막식이 인상 깊었다.",
+          "date": "2022-11-14",
+          "time": "14:05:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "41494",
+          "participantID": "4058",
+          "utterance": "혹시 어떤 부분이 인상깊으셨나요?",
+          "summary": "",
+          "date": "2022-11-14",
+          "time": "15:50:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "41056",
+          "participantID": "3971",
+          "utterance": "중국의 개막식은 특유의 웅장한 연출이었고, 영국은 자국의 대중문화를 잘 녹여냈다고 생각해요.",
+          "summary": "나는 중국의 올림픽 개막식은 특유의 웅장한 연출이, 영국의 올림픽은 자국의 대중문화를 잘 녹여냈다고 생각한다.",
+          "date": "2022-11-15",
+          "time": "10:56:38",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 회사 집 반복하며 지냈다.",
+          "나는 올해 월드컵 보고 2년 뒤 올림픽을 볼 예정이다.",
+          "나는 저번 월드컵부터 잘 안 보게 되었다.",
+          "나는 올림픽 개막식을 찾아본다."
+        ],
+        "speaker2": [
+          "나는 회사 집 반복하면서 지냈다. 나는 오늘 날씨가 참 봄 날씨 같다.",
+          "나는 항상 월드컵을 챙겨보지 않는다. 나는 올림픽 개막식은 꼭 찾아서 본다.",
+          "나는 중국과 영국의 올림픽 개막식이 인상 깊었다.",
+          "나는 중국의 올림픽 개막식은 특유의 웅장한 연출이, 영국의 올림픽은 자국의 대중문화를 잘 녹여냈다고 생각한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 40대 여성이다.",
+          "나는 콜센터 상담원이다.",
+          "나는 tv 시사프로그램을 자주 본다.",
+          "나는 걷기를 가끔 한다."
+        ],
+        "speaker2": [
+          "나는 40대 남성이다.",
+          "나는 가끔 시를 읽는다. 나는 한의사이다.",
+          "나는 가볍게 혼자 맥주를 마시고 있다. 나는 맥주를 정말 좋아한다.",
+          "나는 가끔 동네 뒷산으로 산책 나가는 걸 좋아한다.",
+          "나는 산으로 놀러 나왔다."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "FileInfo": {
+    "filename": "K2-00147-CL20674-CP22680-10-03-S2.json",
+    "sessionLevel": "2"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "0213",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "판매직",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "고졸"
+    },
+    "speaker2": {
+      "participantID": "0239",
+      "gender": "여성",
+      "age": "20대",
+      "occupation": "학생",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "고졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "2-00147"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "20674",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나의 거주지는 인천이다.",
+        "나는 주말에 캠핑을 간다.",
+        "나는 핸드폰 게임을 자주 한다."
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "22680",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나의 가족은 3명이다.",
+        "나는 일본어에 관심 있지만 배울 시간이 없다.",
+        "나는 공포 영화를 자주 본다."
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "10-03",
+    "topicType": "여가와 오락>스포츠/레져",
+    "topicTitle": "캠핑"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00147-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20674",
+          "participantID": "0213",
+          "utterance": "안녕하세요. 저는 인천 사는 20대 남자에요. 반가워요.",
+          "summary": "나는 남자이다. 나는 20대이다. 나의 거주지는 인천이다.",
+          "date": "2022-09-22",
+          "time": "14:49:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22680",
+          "participantID": "0239",
+          "utterance": "네. 반가워요. 저는 서울 사는 20대 여자에요.",
+          "summary": "나는 여자이다. 나는 20대이다. 나의 거주지는 서울이다.",
+          "date": "2022-09-22",
+          "time": "14:49:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20674",
+          "participantID": "0213",
+          "utterance": "그쪽은 대학생이에요? 저는 학생이거든요.",
+          "summary": "나는 학생이다.",
+          "date": "2022-09-22",
+          "time": "14:49:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22680",
+          "participantID": "0239",
+          "utterance": "네. 맞아요. 저도 대학생이에요.학기 시작이라 바쁘네요.",
+          "summary": "나는 학생이다.",
+          "date": "2022-09-22",
+          "time": "14:50:00",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20674",
+          "participantID": "0213",
+          "utterance": "맞아요. 제가 주말에 여기 저기 자주 다니는데 학교 가느라 바빠서 힘드네요.",
+          "summary": "나는 주말에 자주 나간다.",
+          "date": "2022-09-22",
+          "time": "14:50:07",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22680",
+          "participantID": "0239",
+          "utterance": "저는 가족 3명 다 내향적이라 집에서 영화보는 걸 좋아해서 주말마다 영화봐요.",
+          "summary": "나의 가족은 3명이다. 나는 주말마다 영화를 본다.",
+          "date": "2022-09-22",
+          "time": "14:50:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20674",
+          "participantID": "0213",
+          "utterance": "오 그럼 취미가 영화보는거에요? 저는 핸드폰 게임이 취미라 자주 해요.",
+          "summary": "나는 핸드폰 게임을 자주 한다.",
+          "date": "2022-09-22",
+          "time": "14:50:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22680",
+          "participantID": "0239",
+          "utterance": "네. 특히 일본 영화랑 공포 영화를 좋아해서 자주 봐요.",
+          "summary": "나는 일본 영화를 좋아한다. 나는 공포 영화를 자주 본다.",
+          "date": "2022-09-22",
+          "time": "14:50:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20674",
+          "participantID": "0213",
+          "utterance": "일본 애니메이션이 재밌긴 하죠. 저도 좋아해요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "14:50:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22680",
+          "participantID": "0239",
+          "utterance": "그래서 일본어에 관심이 있는데 배울 시간이 없어서 배우진 못하고 있어요.",
+          "summary": "나는 일본어에 관심 있지만 배울 시간이 없다.",
+          "date": "2022-09-22",
+          "time": "14:50:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20674",
+          "participantID": "0213",
+          "utterance": "원래 언어를 배운 다는게 쉽지는 않죠.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "14:50:49",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22680",
+          "participantID": "0239",
+          "utterance": "맞아요. 어렵더라구요. 전 이제 저녁 먹으려구요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "14:50:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20674",
+          "participantID": "0213",
+          "utterance": "저녁 시간이네요. 벌써. 저도 밥 먹어야겠어요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "14:50:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22680",
+          "participantID": "0239",
+          "utterance": "네. 그쪽도 식사 맛있게 하세요~",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "14:50:57",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 남자이다. 나는 20대이다. 나의 거주지는 인천이다.",
+          "나는 학생이다.",
+          "나는 주말에 자주 나간다.",
+          "나는 핸드폰 게임을 자주 한다."
+        ],
+        "speaker2": [
+          "나는 여자이다. 나는 20대이다. 나의 거주지는 서울이다.",
+          "나는 학생이다.",
+          "나의 가족은 3명이다. 나는 주말마다 영화를 본다.",
+          "나는 일본 영화를 좋아한다. 나는 공포 영화를 자주 본다.",
+          "나는 일본어에 관심 있지만 배울 시간이 없다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "2-00147-1",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "2-00147-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "20674",
+          "participantID": "0213",
+          "utterance": "식사는 잘 하셨나요? 밥 먹고 치우니 1시간이 금방이네요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "14:51:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22680",
+          "participantID": "0239",
+          "utterance": "네. 좀전에 다 먹고 설거지 하려구요 이제.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "14:51:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20674",
+          "participantID": "0213",
+          "utterance": "저희 가족은 설거지 당번이 요일별로 정해져 있어요.",
+          "summary": "우리 가족은 설거지 당번이 정해져 있다.",
+          "date": "2022-09-22",
+          "time": "14:51:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22680",
+          "participantID": "0239",
+          "utterance": "저희는 그냥 그때그때 여유있는 사람이 해요.",
+          "summary": "우리 집은 여유 있는 사람이 설거지를 한다.",
+          "date": "2022-09-22",
+          "time": "14:51:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20674",
+          "participantID": "0213",
+          "utterance": "이제 주말인데 뭐하실거에요? 전 캠핑 가려구요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "14:51:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22680",
+          "participantID": "0239",
+          "utterance": "캠핑 좋아하시나봐요. 전 집에서 쉬려구요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "14:51:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20674",
+          "participantID": "0213",
+          "utterance": "네 좋아하죠. 주말에 캠핑을 자주 가거든요.",
+          "summary": "나는 주말에 캠핑을 간다.",
+          "date": "2022-09-22",
+          "time": "14:51:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22680",
+          "participantID": "0239",
+          "utterance": "저는 어디 나가는 것도 짐 챙기는 것도 싫어해요.",
+          "summary": "나는 나가는 것을 싫어한다.",
+          "date": "2022-09-22",
+          "time": "14:51:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20674",
+          "participantID": "0213",
+          "utterance": "저는 엄청 좋아해요. 스트레스가 풀리는 기분이거든요.",
+          "summary": "나는 외출하면 스트레스가 풀린다.",
+          "date": "2022-09-22",
+          "time": "14:51:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22680",
+          "participantID": "0239",
+          "utterance": "그렇군요. 저는 나갔다 오면 힘이 다 빠지더라구요.",
+          "summary": "나는 나갔다 오면 힘이 빠진다.",
+          "date": "2022-09-22",
+          "time": "14:51:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20674",
+          "participantID": "0213",
+          "utterance": "사람마다 다른거죠! 전 오히려 힘이 나더라구요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "14:51:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22680",
+          "participantID": "0239",
+          "utterance": "전 이제 설거지를 해야겠어요. 더 미루면 안할 거 같거든요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "14:51:54",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "20674",
+          "participantID": "0213",
+          "utterance": "저도 이제 짐 챙기려구요. 그럼 화이팅 하세요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "14:51:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "22680",
+          "participantID": "0239",
+          "utterance": "네. 그쪽도 잘 다녀오세요. 대화 즐거웠어요.",
+          "summary": "",
+          "date": "2022-09-22",
+          "time": "14:52:00",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "우리 가족은 설거지 당번이 정해져 있다.",
+          "나는 주말에 캠핑을 간다.",
+          "나는 외출하면 스트레스가 풀린다."
+        ],
+        "speaker2": [
+          "우리 집은 여유 있는 사람이 설거지를 한다.",
+          "나는 나가는 것을 싫어한다.",
+          "나는 나갔다 오면 힘이 빠진다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 남자이다. 나는 20대이다. 나의 거주지는 인천이다.",
+          "나는 학생이다.",
+          "나는 주말에 자주 나간다.",
+          "나는 핸드폰 게임을 자주 한다."
+        ],
+        "speaker2": [
+          "나는 여자이다. 나는 20대이다. 나의 거주지는 서울이다.",
+          "나는 학생이다.",
+          "나의 가족은 3명이다. 나는 주말마다 영화를 본다.",
+          "나는 일본 영화를 좋아한다. 나는 공포 영화를 자주 본다.",
+          "나는 일본어에 관심 있지만 배울 시간이 없다."
+        ]
+      }
+    }
+  ]
+}

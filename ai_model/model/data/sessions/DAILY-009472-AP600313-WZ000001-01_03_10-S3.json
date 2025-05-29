@@ -1,0 +1,2797 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-009472-AP600313-WZ000001-01_03_10-S3.json",
+        "sessionLevel": "3"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0019",
+            "gender": "남성",
+            "age": "40대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": null
+        },
+        "speaker2": {
+            "participantID": "F0019",
+            "gender": "남성",
+            "age": "40대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": null
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "009472"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600313",
+            "personaFeatures": [
+                "나는 예술/디자인/방송에 대한 이해를 높이고 있다.",
+                "나는 과학 현상이나 원리에 대해 이야기하는 것을 좋아한다",
+                "나는 중식을 즐겨 먹는다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000001",
+            "personaFeatures": [
+                "나는 예술/디자인/방송에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "01_03_10",
+        "largeCategory": "직업",
+        "mediumCategory": "예술/디자인/방송",
+        "smallCategory": "기타"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "009472-1",
+            "sessionKeywords": [
+                "예술/디자인/방송 내에서의 *라이노 (마블 코믹스)*,*라이노 (마블 코믹스)*"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "음 궁금한 것이 있는데  물어봐도 되려나",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696302315000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "그럼요 어떤것이 궁금하신가요 ?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696302336000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "내가 예술 디자인 방송에 대한 이해를 높이고 있는데  혹시  마블코믹스에 대해 알어?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 예술 디자인 방송에 대한 이해를 높이고 있다",
+                    "timestamp": 1696302436000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "네 마블코믹스에 대해 잘알고 있습니다 어떤게 궁금하신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696302462000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "마블코믹스에 나오는 빌런준에 라이노에 대해 알려줘",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696302515000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "라이노(Rhino, 본명: 알렉세이 미하일로비치 시체비치, Aleksei Mikhailovich Sytsevich)는 마블 코믹스에서 출간한 만화책에 등장하는 슈퍼빌런 공상 캐릭터입니다.",
+                    "context": {
+                        "query": "라이노",
+                        "contents": [
+                            {
+                                "documentID": "1079554",
+                                "documentTitle": "라이노 (마블 코믹스)",
+                                "content": [
+                                    "라이노(Rhino, 본명: 알렉세이 미하일로비치 시체비치, Aleksei Mikhailovich Sytsevich)는 마블 코믹스에서 출간한 만화책에 등장하는 슈퍼빌런 공상 캐릭터이다.",
+                                    "공동 작가 스탠 리와 존 로미타가 창작했으며, 1966년 10월 \"어메이징 스파이더맨\" #41에서 처음으로 등장한다.",
+                                    "실버 에이지 시대에 처음으로 나온 후, 라이노는 마블의 작품으로 비디오 게임, 애니메이션 TV 프로그램, 그리고 트레이딩 카드 같은 상품에서도 출연하였다.",
+                                    "라이노의 첫 영화속 데뷔는 2014년에 개봉하는 어메이징 스파이더맨 2을 통해서 출연하며, 폴 지어마티가 연기를 하였다."
+                                ]
+                            },
+                            {
+                                "documentID": "353210",
+                                "documentTitle": "Unknown Pleasures",
+                                "content": [
+                                    "《Unknown Pleasures》은 영국 록 밴드 조이 디비전의 첫 번째 정규 음반이다.",
+                                    "커버.",
+                                    "이 앨범은 커버 디자인으로도 유명한데, 이 앨범의 커버 디자인은 피터 새빌이 맡았다.",
+                                    "캠브리지 천문학 대백과사전에 실린 PSR B1919+21이란 이름으로 명명된 초신성의 방출선 스펙트럼을 그대로 차용한 것이다.",
+                                    "이 이미지는 스티븐 모리스가 제안했다.",
+                                    "이 디자인은 당시 산만했던 포스트 펑크 음반 커버 디자인을 혁파한 작품으로 주목받았으며, 미니멀 디자인의 혁신을 불러일으켰다고 한다.",
+                                    "원래 LP에는 라벨에 LP 정보나 사이드 1이나 사이드 2 같은 전통적인 사이드 표기를 수록하지 않았다.",
+                                    "대신 안쪽 슬리브에 트랙 정보와 크레딧이 수록되어 있었다.",
+                                    "재발매.",
+                                    "Unknown Pleasures은 2007년, 워너 산하 레이블인 라이노에서 Closer와 Still과 함께 리마스터링된 본 앨범과 실황 공연 녹음 CD를 포함한 2CD 콜렉터스 에디션으로 재발매되었다.",
+                                    "트랙 목록.",
+                                    "모든 곡들은 조이 디비전이 썼다."
+                                ]
+                            },
+                            {
+                                "documentID": "1047121",
+                                "documentTitle": "마이크 로리",
+                                "content": [
+                                    "조너선 마이클 로리 주니어(Jonathan Michael Loree Junior, 1984년 9월 14일 ~ )은 중화 직업봉구 대연맹 푸방 가디언스의 투수이다.",
+                                    "대만 프로야구 시절.",
+                                    "라미고 몽키스에서 활동하였을 적에, 2012년 아시아 시리즈에서 삼성 라이온즈를 상대로 3안타만 허용하고 완봉승을 거두어 큰 주목을 받았다.",
+                                    "한국 프로야구 시절.",
+                                    "2013년 KT 위즈에 입단하여 2014년 7월 23일 삼성 라이온즈를 상대로 7이닝 동안 10피안타에도 무사사구로 1실점만 기록하는 등 큰 활약을 보였으나, 2014 시즌 후 구단 자체의 테스트에서 충족시키지 못해 보류선수 명단에서 제외되었다.",
+                                    "대만 프로야구 복귀.",
+                                    "이후 EDA 라이노스와 계약했다."
+                                ]
+                            },
+                            {
+                                "documentID": "1054561",
+                                "documentTitle": "더 와이엇 패밀리",
+                                "content": [
+                                    "와이어트 패밀리(Wyatt Family)는 맨처음 2013년 1월 9일날 WWE NXT에서 건너왔다",
+                                    "그 당시 태그팀 상대는 미들 카터 요시 타츠 &amp; 퍼시 왓슨이라는 상대를 했다.",
+                                    "2013년 6월 5일 WWE NXT에서 WWE NXT 태그팀 챔피언이 되었다.",
+                                    "그리고 2013년 7월 8일 WWE Raw에서 크리스천의 경기가 끝나고 에릭 로완, 브레이 와이어트, 루크 하퍼랑 같이 케인을 폭행을 하면서 등장을 했다.",
+                                    "다소 호러틱한 기믹으로 등장을 한다.",
+                                    "그리고 2013년 7월 18일 WWE NXT중에서 WWE NXT 태그팀 챔피언을 잃게 된다.",
+                                    "2013년 7월 ~ 8월까지는 케인이랑 대립을 하다가 끝내 와이어트가 이기게 된다.",
+                                    "브라운 스트로우먼이 새로운 멤버로 영입되었다.",
+                                    "(로완이 흰색 양가면을 쓰고 있었느데 스트로우먼은 검은색 양가면을 쓴다.)",
+                                    "로완이 복귀하면서 4인조 체제로 개편된다.",
+                                    "브라어운 스트로우먼이 혼자 WWE Raw 소속이 되면서 탈퇴를 하게 된다.",
+                                    "대립 중이던 랜디 오턴이 새로운 멤버로 합류한다.",
+                                    "그리고 2016년 12월 에서 히스 슬레이터 &amp; 라이노와 상대로 붙어 스맥다운 태그팀 챔피언쉽 매치에 승리하여 생애 처음으로 챔피언벨트를 갖게되었고 12월 27일 진행되었던 WWE 스맥다운에서 아메리칸 알파에게 경기를 내주면서 벨트마저 잃게되었다.",
+                                    "2017년 루크 하퍼가 먼저 탈퇴하고 랜디 오턴마저 탈퇴하면서 사실상 2차 해체를 맞이했고 에릭 로완이 부상에서 돌아오면서 2인조로 재결성하게 되는가 싶더니 와이어트가 2017년 4월 10일 RAW로 가버리면서 해체를 맞이한다."
+                                ]
+                            },
+                            {
+                                "documentID": "1106906",
+                                "documentTitle": "앤드루 시스코",
+                                "content": [
+                                    "앤드루 프랭크 시스코(Andrew Frank Sisco , 1983년 1월 13일 ~ )는 미국 출신의 야구 선수이자 전 대만 프로 야구 중신 브라더스의 투수이다.",
+                                    "미국 프로야구 시절.",
+                                    "2001년 시카고 컵스에 입단하여 프로 생활을 시작하지만 줄곧 마이너 리그에만 머물다 2004년 룰5 드래프트에서 캔자스시티 로열스에 지명된 후 2005년 메이저 리그에 진출했다.",
+                                    "2007년에는 시카고 화이트삭스에서 활약하였다.",
+                                    "이후 마이너리그를 전전했다.",
+                                    "대만 프로야구 시절.",
+                                    "2013년부터 1년 6개월 동안 대만 프로 야구에 진출하여 EDA 라이노스에서 활약했다.",
+                                    "2013년에는 리그 방어율 1위로 최우수 방어율 선수상을 차지하였다.",
+                                    "한국 프로야구 시절.",
+                                    "KT 위즈 시절.",
+                                    "2014년 여름부터 한국 프로 야구에 진출하여 KT 위즈 창단 2호 용병으로 활약하게 되었다.",
+                                    "연봉은 월 8만 달러로 1년 2개월 동안 112만달러로 밝혀졌다.",
+                                    "역대 한국 프로 야구 선수 중 최장신이다.",
+                                    "2015 시즌 승리 없이 6패 2홀드로 부진하여, 결국 5월 28일 퇴출되어 2015년 외국인 선수 3호 퇴출 선수가 되었다.",
+                                    "대만 프로야구 복귀.",
+                                    "방출 이후 대만에서 활약했던 EDA 라이노스에 재입단했다.",
+                                    "KT 위즈는 그의 대체 선수로 댄 블랙을 영입하였다."
+                                ]
+                            },
+                            {
+                                "documentID": "1049671",
+                                "documentTitle": "쉬성밍",
+                                "content": [
+                                    "쉬성밍(, 1958년 9월 11일~2013년 8월 24일)은 대만의 야구인이다.",
+                                    "하카계 출신이며, 가오슝 현에서 태어났다.",
+                                    "중국 문화 대학을 졸업하였으며, 너클볼을 던지는 투수였다.",
+                                    "1988년을 끝으로 은퇴한 후 대만으로 돌아가 웨이취안 드래건스와 EDA 라이노스에서 감독을 역임하였다.",
+                                    "선수 경력.",
+                                    "한국화장품 실업야구단에서 타이완 출신으로 영입되었으며 등번호 21번을 달고 활동했다.",
+                                    "사망.",
+                                    "2013년 8월 24일 그는 야구 경기가 종료된 후 산책하다 심근 경색으로 쓰러졌다.",
+                                    "이후 타이베이 시립 병원으로 옮겨졌지만 끝내 사망하고 말았다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "라이노(Rhino, 본명: 알렉세이 미하일로비치 시체비치, Aleksei Mikhailovich Sytsevich)는 마블 코믹스에서 출간한 만화책에 등장하는 슈퍼빌런 공상 캐릭터이다.",
+                    "timestamp": 1696302533000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "그럼 라이노가 영화에도 출현한적이 있니?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696302625000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "라이노의 첫 영화속 데뷔는 2014년에 개봉하는 어메이징 스파이더맨 2을 통해서 출연하며, 폴 지어마티가 연기를 하였습니다.",
+                    "context": {
+                        "query": "라이노",
+                        "contents": [
+                            {
+                                "documentID": "1079554",
+                                "documentTitle": "라이노 (마블 코믹스)",
+                                "content": [
+                                    "라이노(Rhino, 본명: 알렉세이 미하일로비치 시체비치, Aleksei Mikhailovich Sytsevich)는 마블 코믹스에서 출간한 만화책에 등장하는 슈퍼빌런 공상 캐릭터이다.",
+                                    "공동 작가 스탠 리와 존 로미타가 창작했으며, 1966년 10월 \"어메이징 스파이더맨\" #41에서 처음으로 등장한다.",
+                                    "실버 에이지 시대에 처음으로 나온 후, 라이노는 마블의 작품으로 비디오 게임, 애니메이션 TV 프로그램, 그리고 트레이딩 카드 같은 상품에서도 출연하였다.",
+                                    "라이노의 첫 영화속 데뷔는 2014년에 개봉하는 어메이징 스파이더맨 2을 통해서 출연하며, 폴 지어마티가 연기를 하였다."
+                                ]
+                            },
+                            {
+                                "documentID": "353210",
+                                "documentTitle": "Unknown Pleasures",
+                                "content": [
+                                    "《Unknown Pleasures》은 영국 록 밴드 조이 디비전의 첫 번째 정규 음반이다.",
+                                    "커버.",
+                                    "이 앨범은 커버 디자인으로도 유명한데, 이 앨범의 커버 디자인은 피터 새빌이 맡았다.",
+                                    "캠브리지 천문학 대백과사전에 실린 PSR B1919+21이란 이름으로 명명된 초신성의 방출선 스펙트럼을 그대로 차용한 것이다.",
+                                    "이 이미지는 스티븐 모리스가 제안했다.",
+                                    "이 디자인은 당시 산만했던 포스트 펑크 음반 커버 디자인을 혁파한 작품으로 주목받았으며, 미니멀 디자인의 혁신을 불러일으켰다고 한다.",
+                                    "원래 LP에는 라벨에 LP 정보나 사이드 1이나 사이드 2 같은 전통적인 사이드 표기를 수록하지 않았다.",
+                                    "대신 안쪽 슬리브에 트랙 정보와 크레딧이 수록되어 있었다.",
+                                    "재발매.",
+                                    "Unknown Pleasures은 2007년, 워너 산하 레이블인 라이노에서 Closer와 Still과 함께 리마스터링된 본 앨범과 실황 공연 녹음 CD를 포함한 2CD 콜렉터스 에디션으로 재발매되었다.",
+                                    "트랙 목록.",
+                                    "모든 곡들은 조이 디비전이 썼다."
+                                ]
+                            },
+                            {
+                                "documentID": "1047121",
+                                "documentTitle": "마이크 로리",
+                                "content": [
+                                    "조너선 마이클 로리 주니어(Jonathan Michael Loree Junior, 1984년 9월 14일 ~ )은 중화 직업봉구 대연맹 푸방 가디언스의 투수이다.",
+                                    "대만 프로야구 시절.",
+                                    "라미고 몽키스에서 활동하였을 적에, 2012년 아시아 시리즈에서 삼성 라이온즈를 상대로 3안타만 허용하고 완봉승을 거두어 큰 주목을 받았다.",
+                                    "한국 프로야구 시절.",
+                                    "2013년 KT 위즈에 입단하여 2014년 7월 23일 삼성 라이온즈를 상대로 7이닝 동안 10피안타에도 무사사구로 1실점만 기록하는 등 큰 활약을 보였으나, 2014 시즌 후 구단 자체의 테스트에서 충족시키지 못해 보류선수 명단에서 제외되었다.",
+                                    "대만 프로야구 복귀.",
+                                    "이후 EDA 라이노스와 계약했다."
+                                ]
+                            },
+                            {
+                                "documentID": "1054561",
+                                "documentTitle": "더 와이엇 패밀리",
+                                "content": [
+                                    "와이어트 패밀리(Wyatt Family)는 맨처음 2013년 1월 9일날 WWE NXT에서 건너왔다",
+                                    "그 당시 태그팀 상대는 미들 카터 요시 타츠 &amp; 퍼시 왓슨이라는 상대를 했다.",
+                                    "2013년 6월 5일 WWE NXT에서 WWE NXT 태그팀 챔피언이 되었다.",
+                                    "그리고 2013년 7월 8일 WWE Raw에서 크리스천의 경기가 끝나고 에릭 로완, 브레이 와이어트, 루크 하퍼랑 같이 케인을 폭행을 하면서 등장을 했다.",
+                                    "다소 호러틱한 기믹으로 등장을 한다.",
+                                    "그리고 2013년 7월 18일 WWE NXT중에서 WWE NXT 태그팀 챔피언을 잃게 된다.",
+                                    "2013년 7월 ~ 8월까지는 케인이랑 대립을 하다가 끝내 와이어트가 이기게 된다.",
+                                    "브라운 스트로우먼이 새로운 멤버로 영입되었다.",
+                                    "(로완이 흰색 양가면을 쓰고 있었느데 스트로우먼은 검은색 양가면을 쓴다.)",
+                                    "로완이 복귀하면서 4인조 체제로 개편된다.",
+                                    "브라어운 스트로우먼이 혼자 WWE Raw 소속이 되면서 탈퇴를 하게 된다.",
+                                    "대립 중이던 랜디 오턴이 새로운 멤버로 합류한다.",
+                                    "그리고 2016년 12월 에서 히스 슬레이터 &amp; 라이노와 상대로 붙어 스맥다운 태그팀 챔피언쉽 매치에 승리하여 생애 처음으로 챔피언벨트를 갖게되었고 12월 27일 진행되었던 WWE 스맥다운에서 아메리칸 알파에게 경기를 내주면서 벨트마저 잃게되었다.",
+                                    "2017년 루크 하퍼가 먼저 탈퇴하고 랜디 오턴마저 탈퇴하면서 사실상 2차 해체를 맞이했고 에릭 로완이 부상에서 돌아오면서 2인조로 재결성하게 되는가 싶더니 와이어트가 2017년 4월 10일 RAW로 가버리면서 해체를 맞이한다."
+                                ]
+                            },
+                            {
+                                "documentID": "1106906",
+                                "documentTitle": "앤드루 시스코",
+                                "content": [
+                                    "앤드루 프랭크 시스코(Andrew Frank Sisco , 1983년 1월 13일 ~ )는 미국 출신의 야구 선수이자 전 대만 프로 야구 중신 브라더스의 투수이다.",
+                                    "미국 프로야구 시절.",
+                                    "2001년 시카고 컵스에 입단하여 프로 생활을 시작하지만 줄곧 마이너 리그에만 머물다 2004년 룰5 드래프트에서 캔자스시티 로열스에 지명된 후 2005년 메이저 리그에 진출했다.",
+                                    "2007년에는 시카고 화이트삭스에서 활약하였다.",
+                                    "이후 마이너리그를 전전했다.",
+                                    "대만 프로야구 시절.",
+                                    "2013년부터 1년 6개월 동안 대만 프로 야구에 진출하여 EDA 라이노스에서 활약했다.",
+                                    "2013년에는 리그 방어율 1위로 최우수 방어율 선수상을 차지하였다.",
+                                    "한국 프로야구 시절.",
+                                    "KT 위즈 시절.",
+                                    "2014년 여름부터 한국 프로 야구에 진출하여 KT 위즈 창단 2호 용병으로 활약하게 되었다.",
+                                    "연봉은 월 8만 달러로 1년 2개월 동안 112만달러로 밝혀졌다.",
+                                    "역대 한국 프로 야구 선수 중 최장신이다.",
+                                    "2015 시즌 승리 없이 6패 2홀드로 부진하여, 결국 5월 28일 퇴출되어 2015년 외국인 선수 3호 퇴출 선수가 되었다.",
+                                    "대만 프로야구 복귀.",
+                                    "방출 이후 대만에서 활약했던 EDA 라이노스에 재입단했다.",
+                                    "KT 위즈는 그의 대체 선수로 댄 블랙을 영입하였다."
+                                ]
+                            },
+                            {
+                                "documentID": "1049671",
+                                "documentTitle": "쉬성밍",
+                                "content": [
+                                    "쉬성밍(, 1958년 9월 11일~2013년 8월 24일)은 대만의 야구인이다.",
+                                    "하카계 출신이며, 가오슝 현에서 태어났다.",
+                                    "중국 문화 대학을 졸업하였으며, 너클볼을 던지는 투수였다.",
+                                    "1988년을 끝으로 은퇴한 후 대만으로 돌아가 웨이취안 드래건스와 EDA 라이노스에서 감독을 역임하였다.",
+                                    "선수 경력.",
+                                    "한국화장품 실업야구단에서 타이완 출신으로 영입되었으며 등번호 21번을 달고 활동했다.",
+                                    "사망.",
+                                    "2013년 8월 24일 그는 야구 경기가 종료된 후 산책하다 심근 경색으로 쓰러졌다.",
+                                    "이후 타이베이 시립 병원으로 옮겨졌지만 끝내 사망하고 말았다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            true
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "라이노의 첫 영화속 데뷔는 2014년에 개봉하는 어메이징 스파이더맨 2을 통해서 출연하며, 폴 지어마티가 연기를 하였다.",
+                    "timestamp": 1696302717000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "어메이징 스파이더맨2에 나왔었구나 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696302773000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "네 어메이징 스파이더맨에서 영화로 처음 데뷔 했습니다 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696302799000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "나는 그런 마블시리즈 같 걸 보고  과학현상이나 원리에 대해 이야기하는걸 좋아해",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 과학현상이나 원리에 대해 이야기하는걸 좋아한다",
+                    "timestamp": 1696302856000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "저도 과학현상이나 원리에 대해 잘알고있습니다 .",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696302874000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "아 그래? 그럼 다음에 또 물어보러 올께",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696302888000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "네 그럼 나중에 또 물어보러 와 주세요 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696302900000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 예술 디자인 방송에 대한 이해를 높이고 있다",
+                    "나는 과학현상이나 원리에 대해 이야기하는걸 좋아한다"
+                ],
+                "wizard": [
+                    "라이노(Rhino, 본명: 알렉세이 미하일로비치 시체비치, Aleksei Mikhailovich Sytsevich)는 마블 코믹스에서 출간한 만화책에 등장하는 슈퍼빌런 공상 캐릭터이다.",
+                    "라이노의 첫 영화속 데뷔는 2014년에 개봉하는 어메이징 스파이더맨 2을 통해서 출연하며, 폴 지어마티가 연기를 하였다."
+                ],
+                "dialogSummary": "질문자는 라이노에 대해 질문했고 챗봇은 \"라이노(Rhino, 본명: 알렉세이 미하일로비치 시체비치, Aleksei Mikhailovich Sytsevich)는 마블 코믹스에서 출간한 만화책에 등장하는 슈퍼빌런 공상 캐릭터입니다.\"\"라이노의 첫 영화속 데뷔는 2014년에 개봉하는 어메이징 스파이더맨 2을 통해서 출연하며, 폴 지어마티가 연기를 하였습니다.\" 라고 답변했다"
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "009472-1",
+            "prevTimeInfo": {
+                "timeNum": "7",
+                "timeUnit": "시간"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "009472-2",
+            "sessionKeywords": [
+                "예술/디자인/방송 내에서의 *Over The Rainbow (레인보우의 음반)*,*Over The Rainbow (레인보우의 음반)*"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "안녕 궁금한게 있어서 다시왔어 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696303020000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "아까 라이노에 대해서는 도움이 되셨나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696303044000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "7시간전에 물어본걸 기억하고 있네? 덕분에 도움이 많이 됐어",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696303069000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "도움이 되셨다니 정말 다행입니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696303112000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "이번엔 레인보우 음반에 대해서 알려줘 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696303136000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "《Over the Rainbow》는 대한민국의 걸 그룹 레인보우가 일본에서 발표한 정규 음반입니다.",
+                    "context": {
+                        "query": "레인보우",
+                        "contents": [
+                            {
+                                "documentID": "402370",
+                                "documentTitle": "레인보우 (대한민국의 음악 그룹)",
+                                "content": [
+                                    "레인보우()는 대한민국의 7인조 걸 그룹이다.",
+                                    "2009년 11월 12일 EP 앨범 \"Gossip Girl\"을 발매하고 11월 14일 《쇼! 음악중심》에서 데뷔했다.",
+                                    "그룹명 레인보우는 \"일곱가지 색의 무지개처럼 일곱명의 멤버마다 다양하고 개성있는 모습을 보여주는 걸 그룹이 되겠다\"는 의미를 담고있다.",
+                                    "2016년 11월 12일 7년만에 계약만료로 해체하게 되면서 멤버들이 당시 소속사였던 DSP 미디어를 떠나게 되었다.",
+                                    "2019년 10월 24일 해체 3년만에 재결합하였다.",
+                                    "활동 내용.",
+                                    "2009: Gossip Girl, Not Your Girl.",
+                                    "2009년 11월 4일 DSP 미디어는 레인보우를 처음으로 언론에 공개했다.",
+                                    "레인보우가 데뷔하기까지 4년여의 준비 기간이 걸렸으며, 이 기간 중에 7명으로 구성된다는 소문이 퍼지면서 붙게 된 레인보우라는 별명을 그룹명으로 확정한다.",
+                                    "6일에는 타이틀 곡 〈Gossip Girl〉의 티저를, 12일에는 데뷔 앨범 \"Gossip Girl\"과 뮤직비디오를 공개하고, 14일 《쇼! 음악중심》에서 데뷔 무대를 가졌다.",
+                                    "데뷔곡 \"Gossip Girl\"은 에어모니터에서 조사한 주간 방송차트에서 203회의 방송횟수로 2위에 올랐고 주간 라디오 방송차트에서는 1위를 하기도 했다.",
+                                    "2010년 1월 15일에는 SS501의 곡 \"U R MAN\"의 답가 \"Not Your Girl\"로 후속곡 활동을 시작했고 2월 7일 데뷔 활동을 마무리한다.",
+                                    "2010년: A, Mach.",
+                                    "2010년 8월 10일 첫 번째 디지털 싱글 〈A〉의 티저 영상을, 12일에 음원과 뮤직비디오를 공개하고, 13일에 뮤직뱅크를 통해 본격적인 활동을 시작한다.",
+                                    "작곡가 스윗튠(한재호, 김승수)의 곡으로, 힙합비트에 락적인 느낌을 가미한 스윗튠(Sweetune) 특유의 곡으로 많은 화제를 모았다.",
+                                    "그리고, 오랫동안 각종 차트 상위권에 머물렀고, 음원사이트 멜론에서는 주간 차트 8위에 올랐다.",
+                                    "활동 도중 방송통신심의위원회의 '선정성 주의 권고'에 따라 방송사의 권유를 받고 '배꼽춤' 안무를 수정한다.",
+                                    "9월 11일 MBC 쇼 음악중심부터는 수정된 안무로 무대에 오르게 되었다.",
+                                    "\"A\"활동 시에 출시한 스마트폰 애플리케이션은 12일 동안 전체 다운로드 건수 6700건을 올려 높은 성적을 기록한다.",
+                                    "10월 18일 두 번째 디지털 싱글 앨범 《Mach》의 재킷을 공개하고, 20일 음원을 공개한다.",
+                                    "21일 Mnet 엠 카운트다운을 통해 타이틀곡 〈Mach〉를 선보인다.",
+                                    "전작인 〈A〉와는 정 반대로, 노출이 없는 긴 의상을 입었으나 몸에 달라붙는 디자인으로 고급스러운 섹시미를 발산하였다.",
+                                    "A와 마찬가지로 스윗튠의 곡으로, 강렬한 비트를 삽입하여 락적인 느낌을 주었다.",
+                                    "오랫동안 각종 차트 상위권에 머물렀으나, 지상파 무대에서 수상을 하지는 못했다.",
+                                    "11월 13일에는 MBC 쇼 음악중심 무대를 끝으로 활동을 마무리한다.",
+                                    "2010년 12월 31일에 있었던 가요대제전에서 그룹 처음으로 연말 시상식에 참가하게 된다.",
+                                    "레인보우는 이 무대에서 〈A〉의 발라드 버전과 의자를 이용한 안무를 통해 섹시미를 발산하였다.",
+                                    "2011: \"So女\"와 일본 데뷔.",
+                                    "레인보우는 2011년 4월 7일 두 번째 EP 음반 《SO 女》를 발매하고 다이시 댄스가 작곡한 타이틀 곡 〈TO ME (내게로..)〉로 컴백하였으며, 데뷔 최초 멜론 실시간 차트 1위, 주간 음원 차트 5위에 오르는 등 음원 사이트에서 꽤 좋은 반응을 얻었고 엠카운트다운 1위후보에 올라 3위를 기록했다.",
+                                    "6월에는 리패키지 앨범 《Sweet Dream》을 발매해 활동을 하였다.",
+                                    "당일 오리콘 차트 3위에 올랐다.",
+                                    "이 곡 역시 일본의 작곡가 다이시 댄스의 곡이며, TO ME에 이어서 꽤 좋은 반응을 보였지만 활동 중 멤버 김지숙의 모친상이라는 안타까운 사건으로 지숙을 제외한 6인조로 활동을 끝마쳐야만 했다.",
+                                    "《SO 女》의 뮤직비디오에는 김소정 연습생이 출연했다.",
+                                    "2012: 첫번째 유닛 레인보우 픽시 결성 및 일본 활동.",
+                                    "레인보우 멤버 중 오승아, 김지숙, 조현영이 그룹 활동에서는 보여주지 못했던 발랄하고 귀여운 컨셉의 유닛 그룹 레인보우 픽시를 결성하고 2012년 1월 12일 첫 싱글 《Hoi Hoi(호이 호이)》를 발매, 타이틀곡인 〈Hoi Hoi(호이 호이)〉로 1월 14일 엠 카운트다운을 통해 컴백해서 활동하였다.",
+                                    "하지만 이는 애프터스쿨의 유닛인 오렌지캬라멜이 큰 성공을 거둔 것을 옆에서 본 DSP 미디어에서 레인보우에게 애프터스쿨을 따라하기 위해 만든 유닛이었다.",
+                                    "레인보우 픽시 유닛활동 이후 레인보우는 긴 공백기를 가졌다.",
+                                    "2012년 4월에는 일본에 진출해서 활동하기도 했으며 오직 일본에서만 발표한 싱글 〈ガナガナGO!(코나 코나 고!)〉로 활동했다.",
+                                    "2013: Rainbow Syndrome Part.1,2. 레인보우는 1년 8개월만의 공백 끝에 2013년 2월 13일 정규1집 《Rainbow Syndrome Part.1》을 발매하고 타이틀곡 〈Tell Me Tell Me〉로 2013년 2월 14일 엠카운트다운을 통해 컴백했다.",
+                                    "초반에는 타이틀곡은 괜찮지만 너무 평범하다는 등의 의견이 많았지만, 음원차트 역주행을 하여 발매 약 한달 뒤인 3월 16일 뮤직뱅크 K-Chart 3위를 기록하였다.",
+                                    "이는 당시 레인보우 데뷔 이후 공중파 음악방송 최고순위였다.",
+                                    "2013년 6월 4일 미니앨범(EP) 《Rainbow Syndrome Part.2》를 발매하고 타이틀곡 〈Sunshine〉으로 컴백했다.",
+                                    "레인보우 데뷔 이후 최초의 시즌송이며, &lt;Sunshine&gt;은 중간의 후렴구 부분의 \"Go Jerry Go Jerry Go Jerry\"라는 가사가 \"겉절이\"로 들린다는 이유로 일명 \"겉절이송\"이라고도 알려졌다.",
+                                    "이 인기를 몰아 레인보우는 〈Sunshine〉으로 SBS 인기가요에서 데뷔 이래 최초로 공중파 음악방송 1위 후보에 올랐으나 씨스타(1위)와 애프터스쿨(2위)에 밀려 3위를 기록했다.",
+                                    "이 당시의 상황은 당대 걸 그룹 TOP3인 원더걸스, 카라, 소녀시대가 아무도 활동하지 않는 완벽한 빈집털이 상황이었다.",
+                                    "다만 카라는 같은 소속사의 걸 그룹인 레인보우에게 음악방송 1위를 시켜주기 위해 DSP 미디어에서 고의로 활동을 시키지 않았으며 원더걸스는 미국에 진출한 상태였다.",
+                                    "2014: 두번째 유닛 레인보우 블랙 결성.",
+                                    "2014년 1월 2일 걸그룹 섹시 대전속에서 고우리, 오승아, 김재경, 조현영으로 구성된 4인조 두 번째 유닛 그룹 레인보우 블랙을 발표, 유튜브 등을 통한 티저영상의 공개를 거쳐 2014년 1월 20일 EP 《RB BLAXX》를 발표하였다.",
+                                    "이후 같은 날 서울특별시 종로구 광화문 올레스퀘어에서 컴백 쇼케이스 공연을 열었으며 2014년 1월 21일 SBS MTV의 《더 쇼: 올 어바웃 케이팝》을 통하여 타이틀 곡 〈Cha Cha〉의 첫 방송무대를 선보였다.",
+                                    "그리고 공중파에서는 다리를 드는 안무를 수정했으며, 이후 2014년 2월 2일 SBS 인기가요 순위에서 1위 후보에 올랐으며 2위를 기록했다.",
+                                    "이는 레인보우 활동을 합쳐 역사상 음악방송 최고순위를 기록한 것이다.",
+                                    "레인보우 블랙 유닛활동 이후 레인보우는 두 번째 긴 공백기를 가졌다.",
+                                    "2015: \"INNOCENT\".",
+                                    "개인활동에 주력하던 도중 1월 21일 \"레인보우 드디어 컴백\"이라는 문구를 든 고우리, 조현영, 김지숙의 사진이 공개되면서 오랜만의 컴백을 확정했고, 2015년 2월 23일 레인보우는 1년 7개월만의 공백 끝에 미니 3집 앨범《INNOCENT》를 발매하고 '안아주세~이요'가 인상적인 중독성 있는 타이틀곡〈Black Swan〉으로 컴백하였으나 멜론 진입순위 68위로 저조한 순위를 기록하고, 3일만에 차트아웃되는 레인보우 역사상 최악의 음원순위를 기록하게 된다.",
+                                    "바로 전 완전체 앨범 타이틀곡인〈SUNSHINE〉당시에만 해도 멜론 진입 8위였던것을 보면 얼마나 음원순위가 저조했는지 알 수 있다.",
+                                    "소속사의 타이틀곡 선정과 그로 인한 음원성적 저조로 인하여 2주 만에 활동을 중단하였다.",
+                                    "레인보우는 블랙스완 활동 이후 연기, 예능, 리포터 등 개인활동에 주력하였다.",
+                                    "2016: \"PRISM\" 그리고 해체.",
+                                    "1월 28일 4번째 미니앨범의 타이틀곡을 맞추는 퍼즐형식의 티저가 공개되면서 2월 15일 미니 4집 PRISM을 발매와 함께 타이틀곡 〈Whoo〉로 컴백을 확정하였다.",
+                                    "2월 1일부터 멤버별 컴백 기념 v앱을 열였다.",
+                                    "2월 4일 DSP측에서 레인보우 컴백 컨셉으로 멤버들 마다 색깔이 있는데 빨강 김재경, 주황 고우리, 노랑 조현영, 초록 김지숙, 파랑 노을, 남색 오승아, 보라 정윤혜 라고 밝혔다.",
+                                    "2월 15일 낮 12시 미니 4집 PRISM을 발매와 함께 타이틀곡 〈Whoo〉를 쇼케이스를 통해 최초공개하였다.",
+                                    "그 이후 16일 더 쇼, 17일 쇼챔피언, 18일 엠카운트다운, 19일 뮤직뱅크, 20일 음악중심, 21일 인기가요를 통해 컴백 무대를 가졌고 그와 함께 뜨거운 반응을 얻었다.",
+                                    "5주에 활동 기간을 갖고 난 뒤 활동을 마무리 하였다.",
+                                    "그 후 10월 28일, DSP미디어 측에서 계약 만료를 알렸다.",
+                                    "11월 12일 계약 만료이며, 11월 11일에는 단체로 방콕으로 마지막 이별여행을 떠났다.",
+                                    "이별여행을 다녀온 이후 팀은 공식적으로 해체되었으며 멤버 전원이 DSP 미디어를 퇴사했다.",
+                                    "김재경과 오승아와 조현영 고우리는 퇴사한 당일 소속사를 이적하여 연기자로 직업을 변경했다.",
+                                    "김지숙은 퇴사한 후 소속사 없이 지내다가 2017년 2월에 디모스트엔터테인먼트로 입사했으며 2018년에 노을은 에이픽엔터에 입사했다.",
+                                    "2019년 기준으로 정윤혜는 소속사가 없는 상태이다.",
+                                    "2020년 멤버 전원이 배우로 데뷔를 완료했다.",
+                                    "레인보우 멤버 중 비주얼이 가장 우수한 오승아가 배역을 잘 받는 편이다.",
+                                    "2019: 재결합.",
+                                    "10월 24일 해체 3년만에 재결합하였다.",
+                                    "데뷔 10주년 기념으로 데뷔 날짜인 11월 14일 새앨범을 발매하였다."
+                                ]
+                            },
+                            {
+                                "documentID": "935091",
+                                "documentTitle": "레인보우 아일랜드 (음악제)",
+                                "content": [
+                                    "캠핑을 기반으로 한 레인보우 아일랜드 뮤직&amp;캠핑 페스티벌(Rainbow Island Music &amp; Camping Festival)은 2011년 7월 공연기획사 VU ENT의 주관으로 경기도 가평군 남이섬에서 처음 개최되었다.",
+                                    "2011년부터 2015년까지 매년 초 여름 남이섬에서 개최되었으며, 2016년부터는 관객이 늘어남에 따라 편의 공간과 캠핑,아웃도어 페스티벌에 더욱 적합한 장소인 경기도 가평군 의 자라섬으로 장소를 옮겨 개최되었다.",
+                                    "도심에서 벗어나 자연 속에서 즐기는 공연과 캠핑뿐 아니라 관객과 아티스트가 함께하는 다양한 레크레이션 프로그램, 버스킹, 플리마켓, 가든라운지등을 통해 페스티벌 참여자들에게 1박2일의 자연과 함께하는 즐거운 도시일탈의 경험을 제공하고 있다.",
+                                    "개요.",
+                                    "레인보우 아일랜드 뮤직 &amp; 캠핑 페스티벌 (Rainbow Island Music &amp; Camping Festival)은 대한민국의 음악 페스티벌이며 음악과 캠핑이 결합된 새로운 형태의 뮤직 페스티벌이다.",
+                                    "제작.",
+                                    "- 주최/주관 : VU ENT 연혁.",
+                                    "1회 - 레인보우 아일랜드 뮤직&amp;캠핑 페스티벌(장소-경기도 가평군 남이섬): 2011년 7월 2일 ~ 7월 3일 2회 - 레인보우 아일랜드 뮤직&amp;캠핑 페스티벌(장소-경기도 가평군 남이섬): 2012년 6월 9일 ~ 6월 10일 3회 - 레인보우 아일랜드 뮤직&amp;캠핑 페스티벌(장소-경기도 가평군 남이섬): 2013년 6월 7일 ~ 6월 9일 4회 - 레인보우 아일랜드 뮤직&amp;캠핑 페스티벌(장소-경기도 가평군 남이섬): 2014년 5월 31일 ~ 6월 1일 5회 - 레인보우 아일랜드 뮤직&amp;캠핑 페스티벌(장소-경기도 가평군 남이섬): 2015년 6월 20일 ~ 6월 21일 6회 - 레인보우 아일랜드 뮤직&amp;캠핑 페스티벌(장소-경기도 가평군 자라섬): 2016년 6월 18일 ~ 6월 19일"
+                                ]
+                            },
+                            {
+                                "documentID": "1040746",
+                                "documentTitle": "레인보우 블랙",
+                                "content": [
+                                    "레인보우 블랙(RAINBOW BLAXX)은 대한민국의 걸 그룹 레인보우의 4인조 유닛 그룹이다.",
+                                    "2016년 11월 12일, 레인보우가 해체하면서 자연스럽게 해체되었다.",
+                                    "활동.",
+                                    "2014년 1월 20일 EP 음반 《RB BLAXX》을 발매하였다.",
+                                    "레인보우 픽시가 비교적 저조한 성적을 거두면서 레인보우의 유닛 그룹에 대한 기대감이 많이 떨어졌지만, 레인보우 블랙은 음원 성적에서 완전체의 레인보우 못지 않은 저력을 보였다.",
+                                    "심지어 레인보우 전체 역사상 2번째 1위 후보를 기록하면서 큰 관심을 보였다."
+                                ]
+                            },
+                            {
+                                "documentID": "13909",
+                                "documentTitle": "녹색전차 해모수",
+                                "content": [
+                                    "《녹색전차 해모수》는 KBS에서 기획하여 제작한 26부작 TV 만화영화 시리즈이다.",
+                                    "대한민국 최초의 TV만화 3D 애니메이션 작품이다.",
+                                    "1997년 12월 12일에 첫 화가 방영되었으며 제작에는 대원동화와 금강기획이 참여했다.",
+                                    "일본으로 수출되어 NHK에서 &lt;무지개전기 이리스, 虹の戦記イリス&gt;라는 제목으로 방영되었다.",
+                                    "국내에서 이 작품의 흥행 참패에 영향으로 3D 애니메이션은 아직 시기 상조이다는 제작 기술을 역행하는 흐름이 국내 TV만화 산업 분야에서 한동안 존재하게 된다.",
+                                    "줄거리.",
+                                    "우주에서 푸르고 아름다운 모습을 가진 행성 테라.",
+                                    "그러나 7년간의 장기간 전쟁으로 인해서 푸르던 별은 폐허와 죽음의 별로 변해가면서 멸망하게 될 위기에 처하게 된다.",
+                                    "전쟁이 일어나면서 부모를 잃은 고아들이 속출하고 여러 가지 이변까지 생기게 되었지만 살아남은 사람들을 중심으로 테라를 복원하려는 움직임이 보였다.",
+                                    "테라의 저명한 과학자 헤링 박사의 손자인 릭은 전쟁고아들을 보살피고 있는 소년이다.",
+                                    "집세를 내지 못해서 고아원이 집주인에 의해 철거될 위기에 처하자 동생들을 살리기 위해 온갖 일거리에도 뛰어들게 된 릭이었지만 그 정도로는 생계를 책임지기도 힘들 정도였다.",
+                                    "그러던 중 '썬 크리스탈' 을 찾아온 자에게 1천만 크로네의 현상금을 주겠다는 포스터가 붙여진 모습을 보면서 동생들을 살리기 위해 릭은 보조 로봇 굿포, 고아이지만 활기한 성격의 로토와 모험을 떠나게 된다.",
+                                    "그러던중 모래바람으로 인해서 전함 안에 들어가게 되었다가 우연히 쓰러져있는 예쁜 소녀를 접하게 되고 동시에 홀로그램에 나타난 한 남자의 형상을 보게 되는데...  등장인물.",
+                                    "성우는 한국 원판 / 일본 더빙판 순 고아원에서 생활하였던 어린소년이었지만 릭 일행이 여행을 떠나게 되자 해모수에 몰래 타게 되어 같이 여행길에 나서게 되었다.",
+                                    "고아였지만 웃음을 잃지 않는 활발한 성격에, 말썽기질이 짙은 성격으로 릭, 굿포와 함께 여행을 떠나게 된다.",
+                                    "릭을 친형처럼 따랐으며 나중에 보라를 만난 후에는 보라를 친누나처럼 따르기도 했다.",
+                                    "위기상황이나 일행들의 분위기기 좋지 않을 때 기분을 전환시켜주는 역할도 한다.",
+                                    "정체를 알 수 없는 금발의 현상범 사냥꾼으로 릭 일행이 위기에 처했을 때 어쩌다 나타나 이들을 구해준다.",
+                                    "하지만 사실 그녀는 차코박사와 긴밀한 관계를 맺고 있으며 자신이 인조인간이라는 것이 밝혀지게 되자 괴로움을 느끼게 된다.",
+                                    "나중에 가서는 네로와 장렬히 싸우다가 로봇 카론과 함께 자폭을 하게 된다.",
+                                    "이것이 결국 테라를 구하게 되는 지대한 공헌으로 남았으며 릭 일행에게는 잊을 수 없는 은인(恩人)으로도 남게 되었다.",
+                                    "헤링 박사와 함께 일했던 테라의 저명한 과학자로 보라의 할아버지이기도 하다.",
+                                    "한때는 헤링 박사와 함께 테라를 구해내기 위한 연구를 함께 하였으나 7개의 크리스탈에 대한 존재를 알게 되자 헤링박사를 배신하게 되어 세계를 지배할 야욕을 꿈꾸게 된다.",
+                                    "헤링박사가 제조한 로봇 '페트론'에 맞설 로봇 '마라'를 제조하여 직접 조종하면서 릭과 싸우기도 했으나 배신자 네로에 의해 폭사(爆死)되었다.",
+                                    "그러나 그때 죽은 차코 박사는 사실상 차코 박사가 만든 휴머노이드였으며 진짜 차코박사는 테라 프로그램을 발동시킬 UFO안에서 릭과 보라에 의해 모습을 드러내게 되었다.",
+                                    "네로가 자신을 갖고 이용하였다는 사실에 분노를 느끼며 광선으로 죽게 하였으며 보라에게 자신을 살릴 것을 요구했지만 보라는 결국 갈등 끝에 테라를 구할 목적으로 크리스탈을 넣게 된다.",
+                                    "차코박사의 부하로 있는 인물이었지만 사실은 외계에서 밀파된 인간의 모습을 한 외계인이었다.",
+                                    "차코박사 부하로 있을 때는 차코박사의 지시를 따르기도 했지만 나중에 차코박사가 헤링박사가 만들었던 로봇인 '페트론'에 맞설 로봇 '마라'를 제조하게 되자 이를 계기로 본색을 드러내며 세계정복 및 지배라는 야욕을 꿈꾸게 되어 결국 차코박사를 배신하고 결국에는 차코박사를 죽게 만들었다.",
+                                    "차코박사를 배신하고 독자적인 행동을 취하며 릭 일행과 싸우게 되었으나 인간모습으로 있는 차코박사에 의해 사라지게 된다.",
+                                    "한때 헤링박사와 보라의 부모님을 살해했던 인물이기도 하다.",
+                                    "테라의 저명한 과학자이자 릭의 할아버지로 테라에 위기가 닥치게 되자 7개의 크리스탈을 모으면 테라를 구할 수 있다는 사명을 걸고 녹색전차 해모수와 페트론을 개발하게 된다.",
+                                    "하지만 함께 일했던 차코 박사가 배신을 하게 되어 결국 네로에 의해 살해되었다.",
+                                    "선크리스탈을 차지하기 위해 중간에 나타나는 도적단.",
+                                    "릭과 네로 양쪽상에선 모두 적으로 인식하고 있지만 사실 성공한 사례는 거의 없다.",
+                                    "원래는 수많은 부하들을 이끌고 다니는 도적단이었지만 이후에는 두목과 부하 2명밖에 없는 도적단으로 전락하였다.",
+                                    "이후에는 고아원에 가서 고아들의 보모가 되어 아이들을 보살핀다.",
+                                    "릭의 아버지이자 헤링박사의 아들로 원래는 사망한 것으로 알려져있지만, 헤링박사가 피신시킬 목적으로 일부러 그렇게 설정했던 것뿐이며 전쟁으로 인해 몸이 약해져 건강을 회복하기 위해 아들인 릭에게는 비밀로 한 채 페트론을 개발하기 위해 아무도 없는 곳에서 비밀연구를 해 왔었다.",
+                                    "릭의 어머니로 남편인 라일과 사망한 것으로 알려져있으나 헤링박사가 피신시킬 목적하에 그렇게 해 두었던 것이다.",
+                                    "남편과 함께 비밀리에 페트론 개발연구에 참여하였다.",
+                                    "그 외 인물들.",
+                                    "고아원 집주인  성우 : 이종구  릭과 로토가 있는 고아원의 집주인.",
+                                    "1화부터 등장하여 고아원이 집세를 내지 않았다는 이유로 철거를 강행하려다가 릭의 해모수에 걸려서 무산되기도 하였다.",
+                                    "다만 성격상 급하지만 3일간이나 3개월의 여유를 주는 것으로 봐서는 약간의 인정스런 면도 있는 듯하다.",
+                                    "고아원 아이들  테라의 7년 전쟁 때 부모를 잃으며 고아가 된 아이들.",
+                                    "릭, 로토와 함께 지내고 있으며 집주인의 위협에도 굴하지 않는 성격을 보인다.",
+                                    "오후의 태양단 부두목  오후의 태양단을 이끄는 부두목으로 옛날 헤링 박사와 차코 박사의 연구실을 본거지로 삼고 있다가 릭에 의해 혼이 나게 된다.",
+                                    "미카  로봇도시의 인간 거주지에 사는 소녀이자 촌장의 손녀.",
+                                    "로봇괴물에 의해서 아버지를 여의며 릭이 로봇괴물을 물리칠 것을 원하고 있다.",
+                                    "로봇도시 인간 거주지 촌장  성우 : 설영범 로봇도시 인간 거주지에 사는 노인이자 촌장이며 미카의 할아버지.",
+                                    "릭 일행을 반갑게 맞아주며 로봇도시에 대한 얘기를 해준다.",
+                                    "수  겨울로 변한 아프리카 마을에 사는 소녀.",
+                                    "샤먼 사제를 따르고 있지만 그가 설인으로 위장하여 마을의 식량을 훔쳤던 것을 보고 충격을 받으며 릭 일행을 돕는다.",
+                                    "샤먼 사제  겨울로 변한 아프리카 마을의 사제.",
+                                    "사실은 사제이면서 마을 사람들의 식량을 몰래 훔쳤던 인물이기도 하다.",
+                                    "씽 릭 일행이 만났던 고아원 리더로 있는 소년.",
+                                    "고아원을 짓기위해 해모수를 훔치며 팔려고 하였으나 차코 박사의 농간에 넘어간다.",
+                                    "산장 노인  성우 : 강구한  레테우 호수가에서 만난 노인.",
+                                    "무뚝뚝해보이는 성격이었으나 사실은 아들과 며느리를 전쟁 때 잃었던 아픔을 가지고 있다.",
+                                    "베스  성우 : 최문자  릭 일행과 마주하게 된 소녀.",
+                                    "서커스를 하는 아버지를 기다리고 있으며 릭에게 아버지에게로 데려가달라고 한 적이 있다.",
+                                    "준  성우 : 故 김일(1966 ~ 2018) 화산도시에서 릭 일행과 만났던 청년.",
+                                    "보라를 어린시절 자신의 소꿉친구였던 에릴이라는 소녀로 착각한다.",
+                                    "후에 화산 정상에서 크리스탈을 찾았다가 용암으로 추락하여 사망한다.",
+                                    "이 작품 최초이자 유일한 사망자.",
+                                    "에릴  준의 소꿉친구로 있던 소녀.",
+                                    "화산폭발 때 준과 피난하던 중 화산 용암으로 추락하였다.",
+                                    "알  고대도시에서 릭 일행과 만났던 소년.",
+                                    "물 문제로 로토와 다투다가 릭 일행에게 고대도시에 대해서 설명해준다.",
+                                    "등장병기.",
+                                    "해모수 (일본판은 이리스) 헤링 박사가 개발하였던 탱크형의 녹색전차.",
+                                    "초창기에는 헤링 박사가 운전하였던 적이 있었으며 헤링 박사가 사망한 이후에는 릭과 굿포가 운전을 맡고있다.",
+                                    "전투보다는 탐사능력에 강한 편으로 전투력에서는 약하다는 단점이 있다.",
+                                    "해모수라는 이름은 고구려의 동명성왕(주몽)의 아버지인 '해모수'를 본따왔다.",
+                                    "일본어 더빙판에서는 이리스(イリス)로 개명되었다.",
+                                    "패트론 (일본판은 패트로크로스) 헤링 박사가 고안하여 라일 부부가 개발해내었던 전투 로봇.",
+                                    "전투력이 약한 해모수의 단점을 보완하여 만든 로봇으로 전투력을 중심으로 하고 있으며 해저기지에서 대기하다가 해모수의 신호에 따라서 출격한다.",
+                                    "릭이 조종한다.",
+                                    "카론 (일본판은 발키리) 메리 헌터가 조종하는 로봇.",
+                                    "메리 헌터의 명령에 따르고 있으며 메리 헌터의 부름에 따라 자동적으로 움직이기도 한다.",
+                                    "후에 메리 헌터가 릭을 구할 목적으로 함께 자폭하게 된다.",
+                                    "뭉트 (일본판은 미드가르드) 네로가 조종하는 로봇.",
+                                    "마라 (일본판은 펜리르) 차코 박사가 패트론에 대항하기 위해 개발하였던 로봇.",
+                                    "본래 헤링 박사의 고안 내용 일부를 인용하여 패트론과 유사하게 제작한 로봇으로 전투력에서는 패트론을 능가한다.",
+                                    "처음에는 차코 박사가 조종하였다가 나중에 네로가 조종하였다.",
+                                    "크리스탈.",
+                                    "실제 7가지 색깔을 가진 무지개 색을 본딴 크리스탈이며 테라를 구해낼 수 있는 아이템이다.",
+                                    "각 크리스탈에는 이름이 붙여져있다.",
+                                    "크리스탈이 발견된 지역과 위치.",
+                                    "사타니 크리스탈을 제외한 나머지 6개 크리스탈의 지구를 합치면 CENTER(중앙)가 되며 여기에 사타니 크리스탈이 있다는 것을 알 수 있다.",
+                                    "용어 설명.",
+                                    "레인보우 시스템.",
+                                    "본래 외계에서 온 고철 우주선이었으며 헤링 박사와 차코 박사가 테라를 구할 목적으로 발견하게 되었다.",
+                                    "오랫동안 모래 속에 파묻혀있어서 그 존재가 가려졌으나 헤링 박사가 추락하였을 때 모래가 씻겨지면서 그 존재가 드러났다.",
+                                    "네로의 말로는 과학이 발달한 행성에서 만든 것이라고 하였으며 헤링 박사는 이 고철 우주선이 테라를 구할 수 있는 마지막 희망이라고 말하였다.",
+                                    "안에는 7개 크리스탈을 작동할 수 있는 장치가 있으며 보라색 사타니 크리스탈은 레인보우 시스템의 비밀열쇠 역할을 하고 있기 때문에 별도로 중앙부에 숨겨져 있다.",
+                                    "헤링 박사가 사망하기 전에 릭과 보라만이 다룰 수 있도록 해모수에 비밀암호를 설정하였다.",
+                                    "불아이 산.",
+                                    "차코 박사의 전진 기지로 외나무의 모습으로 있으며 처음에 보라가 네로에 의해서 기억을 잃었을 때 릭에게 불아이 산으로 데려다달라고 말한 적이 있었다.",
+                                    "나중에 보라가 차코 박사에게로 갔을 때 보라를 구하기 위해 릭 일행이 직접 가기도 하였다.",
+                                    "테라.",
+                                    "주인공들이 사는 행성으로 모태는 실제의 지구를 본딴 것으로 알려졌다.",
+                                    "본래는 푸르고 아름다운 별로 알려졌으나 7년간의 장기 전쟁 이후 폐허가 되면서 푸른별의 이미지를 잃게 되었다.",
+                                    "휴머노이드.",
+                                    "차코 박사가 만든 인간 복제형의 존재.",
+                                    "사실 차코 박사 본인도 병을 앓는 바람에 자신의 모습을 본딴 휴머노이드를 복제하여 대역을 시켰다.",
+                                    "주제가.",
+                                    "일본판"
+                                ]
+                            },
+                            {
+                                "documentID": "1540791",
+                                "documentTitle": "내 사랑에 노련한 사람이 어딨나요",
+                                "content": [
+                                    "《내 사랑에 노련한 사람이 어딨나요》는 대한민국의 밴드 장기하와 얼굴들의 네 번째 정규앨범이다.",
+                                    "이전 세 앨범과 마찬가지로 리더 장기하가 전곡을 작곡, 작사, 편곡했다.",
+                                    "사랑에 대한 총 열 가지 곡을 수록했고, 장기하는 여러 인터뷰를 통해 음반이 산울림과 비틀즈에 큰 영향을 받았음을 공언했다.",
+                                    "타이틀 곡은 〈ㅋ〉과 〈빠지기는 빠지더라〉로 결정되었다.",
+                                    "아울러 수록곡 〈ㅋ〉, 〈빠지기는 빠지더라〉, 〈가장 아름다운 노래〉는 뮤직비디오로 제작되었다.",
+                                    "타이틀 곡은 \"멤버들이 듣는 음악이 옛날 음악이거나 요즘 음악이지만 인기가 없는 것들\"이라 소용이 없을 것으로 판단해, 밴드 내부에서 투표도 했지만 기각하고 주변 사람들에게 들려주고 정했다.",
+                                    "음반 발표 1시간 전인 6월 15일 오후 11시부터 밴드는 팬들과 함께 하는 네이버 V앱 라이브를 진행하며 컴백 카운트다운에 돌입했고, 하루 뒤인 16일 《내사노사》는 각종 음원사이트를 통해 발표되었다.",
+                                    "《내 사랑에 노련한 사람이 어딨나요》는 평단의 호평을 받았다.",
+                                    "밴드는 6월 18일 저녁 8시 자라섬에서 열린  레인보우 아일랜드 뮤직 &amp; 캠핑에서 전곡을 처음 공연했고, 2016년 10월부터 전국투어 날로 먹는 장얼의 제2탄 날로 먹는 내사노사 투어를 진행했다.",
+                                    "배경.",
+                                    "2014년 10월, 장기하와 얼굴들은 세 번째 정규 음반 《사람의 마음》를 발표했다.",
+                                    "2015년 11월, 장기하는 화보 촬영 뒤 가진 인터뷰에서 \"올 한해는 새 앨범에 들어갈 노래들을 만들었다\"며 \"수록곡은 모두 정해졌다. 너무 늦지 않게 발매할 것\"이라고 음반에 대해 언급했다.",
+                                    "같은 해 밴드는 11월 대구를 시작으로 총 12회의 전국클럽투어 '날로 먹는 장얼'과 서울 블루스퀘어 삼성카드홀에서 진행된 연말콘서트 '계속해보겠습니다'를 통해 팬들과 만남을 가졌다.",
+                                    "2016년 5월 10일 결성 8주년을 기념해 공연 '장하다생일얼'이 개최되었다.",
+                                    "서교동에 위치한 클럽 에반스라운지에 열린 공연에서 장기하는 첫 공연 때와 똑같은 셋리스트와 분위기로 준비했다고 말하면서, 이날 〈빠지기는 빠지더라〉와 〈가장 아름다운 노래〉를 깜짝 공개했다.",
+                                    "녹음.",
+                                    "2016년 《배철수의 음악캠프》에 스페셜 DJ로 출연할 당시 장기하는 근황 관련 질문에 \"그냥 쉬었다. 이번주부터 멤버들이랑 모여 4집을 이제 만들어보자고 발동을 걸었다. 다음주부터 본격적으로 작업을 하려고 하고 있다\"고 답하면서 녹음 시기를 들려줬다.",
+                                    "같은 해 4월 29일 개장한 플랫폼 창동 61 레드박스 개장 페스티벌에서는 \"4집 녹음을 마쳤다. 믹싱이 끝나면 곧 만날 수 있을 것\"이라며 앨범 소식을 전했다.",
+                                    "장기하와 프로듀싱을 함께한 멤버 하세가와는 \"결과적으로 4집 노래를 다 들었을 때 '아, 1집에 가까운 느낌으로 하면 되겠구나'란 생각을 하게 됐다\", \"잘 보이게 할려면 여러 가지를 없애야 한다. 보통 '어떻게 화려하게 만들까'라고 생각하는데 난 여러 가지를 없애면 가장 보여주고 싶은게 보일 것 같았다. 음을 두껍게 하지 않게 하고 최소한으로 하려고 했다. 그러다보니 1집이랑 비슷한 느낌이 나더라\"고 했다.",
+                                    "멤버 정중엽은 \"1집 같은 경우는 장비도 없었을 뿐더러 사운드에 욕심낼 수 없었다\", \" 4집은 미니멀한데 구현하고 싶은 사운드를 최선을 다해 담았다. 악기 질감은 지금까지 앨범 중 가장 좋다고 생각한다\"고 했다.",
+                                    "《보그》 인터뷰에서 밝히기로는 하세가와는 \"연주하기는 더 어려워졌다. 그런데 듣는 사람은 모를 거다. (...) 지금까지 수없이 많은 밴드 마스터링했던 분이 이걸 기타로 쳤냐고 놀라며 신시사이저라고 생각했다더라. 그 말을 듣는데 사실 기분이 아주 좋았다.\"",
+                                    "했으며, 장기하는 \"이렇게 할 거면 프로그래밍 쓰지 뭐하러 실제 밴드 연주를 녹음했냐는 말을 듣고 싶었다. 하지만 손으로 연주하는 것과 기계로 찍어내는 소리는 다를 수밖에 없다. 밴드계에도 없고 일렉트로닉계에도 없는 소리를 내는 거다.\"라고 말을 거들었다.",
+                                    "보컬에 대하여 장기하는 \"목소리 자체는 예전이 훨씬 어렸을 거다. 말투가 투박해서 목소리도 투박하게 느껴졌을 수 있다. 라이브를 하면 할수록 능숙해지는 면이 있는데 그런 부분을 경계하려고 했다. (...) 처음에 어떻게 노래를 불렀지? 이 부분에서 꼭 바이브레이션을 해야 하나? 이런저런 생각을 하면서 불렀다.\"고 했다.",
+                                    "작곡.",
+                                    "이전의 세 음반과 같이 리더 장기하가 모든 곡을 썼다.",
+                                    "음반을 관통하는 주제는 사랑이며, 산울림과 비틀즈에 큰 영향을 받았다.",
+                                    "장기하는 \"경험을 토대로 해서 만든 곡은 하나도 없다\"며, \"사실 3집 때까지만 해도 대놓고 사랑 노래를 한다는 것이 쑥스러웠다. 이제는 장기하와 얼굴들만의 스타일로 오글거리지 않게 노래를 할 수 있을 거라는 생각에 마음을 먹었다\"고 했다.",
+                                    "아이유와의 연애에 대한 관계에 대해선, \"10곡 모두 사랑에 관한 내용이기 때문에 실생활의 느낌과 무관하다고 하면 거짓말이겠지만, 이번 음반을 만들면서 내 경험담을 있는 그대로 가사에 담지는 않았다\"며, \"평범하고 보편적인 연애 장면을 써보고 싶었다\"고 했다.",
+                                    "〈내 사랑에 노련한 사람이 어딨나요〉에 대하여 장기하는 \"친한 친구의 연애 상담을 해주다가 스스로도 말을 정말 잘한다는 생각이 들었다\"며 \"내가 말하는 대로만 하면 참 좋겠다고 생각하며 만든 곡\"이라고 했다.",
+                                    "아울러 \"다른 사람의 연애에 대해서는 말을 잘하면서도, 스스로는 좌충우돌하는 게 연애인 것 같다는 생각으로 만든 곡\"이라고 덧붙였다.",
+                                    "장기하는 〈ㅋ〉의 제목인 'ㅋ'이 \"가장 말 같지도 않은 말 중에 가장 말 같은 말\"이며, \"'문어체도, 구어체도 아니고 모바일체다.",
+                                    "교양 있는 사람들이 두루 쓰는 표준어의 범주에 넣긴 그렇지만, 그래도 많은 걸 표현할 수 있다고 생각했다. ㅋ으로 이뤄진 단어를 찾아서 써봤다.",
+                                    "\"고 했다. 이렇게 ㅋ에 꽂힌 장기하는 노트에 ㅋ이 들어간 단어들을 쭉 써 놓은 뒤 일주일간 그 단어들을 조합하여 가사를 만들었다. 〈괜찮아요〉에는 장기하와 얼굴들의 곡 중 최초로 실존인물인 방송인 노홍철의 이름을 넣었다. 장기하는 \"그가 삶을 대하는 태도가 좋다\"며 \"팬으로 좋아하고, 고마워하는 마음이 있는데 존경심의 표현으로 이름을 넣게 됐다\"고 했다. 4집 소개에서 그는 \"맨 뒷부분의 편곡을 하고 나서 멤버들 모두 매우 즐거워했던 기억이 있다.",
+                                    "\"고 했다. 〈가장 아름다운 노래〉는 비틀즈의 초기 음악, 그중에서도 특히 〈Mr. Moonlight〉를 오마주한 것. 〈가나다〉부터 앨범은 좀더 비트가 빨라진다. 장기하는 \"울적한 기분이었던 어느 날 아침, \"가, 가는 길이지만 나, 나를 생각해요\"",
+                                    "하는 식으로 가나다...에 맞춰 노래를 만들기 시작했다.",
+                                    "해맑은 멜로디에 얄미운 가사가 담겼다.",
+                                    "\"고 했다. 음반 작업하면서 많이 들은 곡을 꼽을 때 〈가나다〉 같은 곡에 비틀즈의 〈Eight Days a Week〉가 은연중 영향을 주었을 것 같다 하였다. 아울러 〈가나다〉가 윙스의 〈With A Little Luck〉에서 보이는 화성이 쓰였다고도 했다. 〈빠지기는 빠지더라〉는 \"외투에 밴 생선 냄새가 빠지지 않아 절망했던 일\"에서 나온 노래로서, \"하지만 탈취제를 미친 듯이 뿌려 삼일 정도 창가에 걸어 놓으니 빠지기는 빠지더라.",
+                                    "그 때 나온 노래다.",
+                                    "나는 예전부터 펑키함에 대한 집착이 있는데, 이 곡은 펑키함이 살아 있어 좋다.\"고 장기하는 말한다.",
+                                    "〈쌀밥〉은 멤버들 사이 가장 반응이 좋았던 노래.",
+                                    "〈살결〉은 10곡 중 유일한 연가이다.",
+                                    "장기하는 \"'지금 마음이 오래 지속됐으면 좋겠다' '나중이 됐을 때도 계속 좋은 사랑을 하고 있다'는 느낌이 들었으면 좋겠다 싶어서 만든 곡이다.",
+                                    "제 바람에 가까운 노래\"라고 했다. 이어 \"녹음하면서 굉장히 애를 먹었다.",
+                                    "나름 감미롭게 부른다고 불렀는데 그런 걸 잘하는 보컬리스트는 아니다\"라고 회고했다. 후회를 다루는 10번 트랙 〈오늘 같은 날〉로 앨범은 문을 닫는다. 장기하는 \"가장 바보 같으면서도 피하기 어려운 게 후회가 아닐까 생각했다.",
+                                    "후회없는 사랑이 가장 노련한 사랑인 것 같다\"고 하면서 산울림의 영향이 가장 짙게 나타난 곡이라 덧붙였다. 포장. 음반의 커버는 이전까지 장기하와 얼굴들의 커버 디자인을 맡아온 그래픽디자이너 김기조가 맡았다. 김기조는 커버 디자인을 이렇게 설명했다. 《신세기》의 일러스트 작가 김인엽이 4집 수록곡 가사를 소재로 음반에 수록된 별책부록 콩닥콩닥 게임북을 제작했다. 김인엽 작가는 이렇게 설명했다. 《텐아시아》의 김하진 기자는 \"김인엽 작가가 만든 게임북은 순간의 선택에 바뀌는 결과를 간결하지만 강렬한 메시지로 흥미진진하게 전개\"된다며 \"이번 음반을 감상하는 또 다른 재미가 될 것으로 기대된다.",
+                                    "\"고 평가했다. 장기하는 \"내 또래 사람들이라면 누구나 어릴 적에 ‘무엇 무엇을 선택한 당신, 몇 페이지로 가시오’하는 식의 게임북을 읽어 봤을 것이다.",
+                                    "직접 플레이 해봤는데, 재미있다.",
+                                    "음반을 사서 들어주시는 분들께 좋은 선물이 될 것이라고 믿는다\"고 했다. 뮤직비디오. 6월 12일 자정에 공식 SNS 채널을 통해 신곡 〈빠지기는 빠지더라〉 뮤직비디오 티저를 깜짝 공개했다. 본편은 6월 14일 전 음원 사이트에서 전격 공개되었다. 지금까지 장기하와 얼굴들의 모든 뮤직비디오 연출을 장기하가 직접 맡았던 것과는 달리, 이 뮤직비디오는 GDW의 김성욱 감독이 연출을 맡았으며, 경상남도 통영의 비진도에서 촬영되었다. 김성욱 감독과의 호흡에 대해서 장기하는 \"능력 있는 기성 감독님과 작업을 해보고 싶었는데, GDW의 전작들을 보니 주인공이 누구냐에 따라 톤이 완전히 달라서 만족스러웠다.",
+                                    "아티스트가 가진 본연의 개성을 아주 잘 살려준다는 생각이 들어 연출을 부탁하게 됐다\"고 설명하며 \"〈빠지기는 빠지더라〉의 몇몇 장면들은 내가 연출했던 뮤직비디오의 오마주라고 하니 그 장면들을 찾아보는 재미도 쏠쏠할 것 같다\"고 관전 포인트를 전했다. 이 외에도 장기하의 멤버들 전원이 뮤직비디오 출연 결정되었다. 이에 장기하는 \"기성 뮤직비디오와는 다른 개성적인 작품을 만들려다 보니 밴드가 다 같이 연주하는 장면이 담긴 뮤직비디오가 하나도 없었다.",
+                                    "멤버들의 모습이 많이 나오는 뮤직비디오를 원했던 팬들의 갈증이 조금이나마 해소되지 않을까 생각한다\"고 밝혔다. 〈ㅋ〉 뮤직비디오는 장기하가 직접 모션 그래픽을 만들어 유료앱 결제비 5만원만 들었다. 그는 \"전 뮤직비디오의 규모 크면 승산이 없다고 생각해요.",
+                                    "누구든지 검색만 하면 어떤 영상이든 다 볼 수 있는 시대잖아요.",
+                                    "예를 들어 대중들은 《정글북》의 영상미에 익숙해진 눈을 가지고 있어요.",
+                                    "근데 제가 《정글북》의 영상을 만들어서 경쟁을 할 수 없잖아요.",
+                                    "그래서 돈을 많이 들이면 승산이 없다고 생각했어요.\"라고 설명했다. 발표와 홍보. 2016년 6월 7일, 장기하와 얼굴들은 소속사 공식 SNS와 유튜브 채널 등에 출시 예정인 장얼 수제 맥주 ㅋ CM을 공개했다. 공개된 영상은 멤버들이 더부스 브루잉과 함께 양조한 맥주를 시원하게 들이키는 모습이다. 장기하는 이번 콜라보레이션 맥주를 만들기 위해 더부스 판교 브루어리에서 직접 양조에 참여했다. 맥주 광고 영상과 함께 슬며시 그러게 왜 그랬어를 해시태그하며 아직 공개되지 않는 트랙명을 고지했다. 6월 9일에는 앨범 수록곡들의 가사로 콩닥콩닥 게임북 제작 소식을 알렸다. 오후 공식 SNS 채널을 통해 네이버 V앱 라이브 진행 예고편을 공개했다. 12일 자정, 공식 SNS 채널을 통해 신곡 〈빠지기는 빠지더라〉 뮤직비디오 티저를 깜짝 공개했다. 음원 발매 1시간 전인 15일 오후 11시부터는 V앱 라이브를 진행하며 팬들과 컴백 카운트다운에 돌입했다. 이후 KBS2 《유희열의 스케치북》 출연을 시작으로 본격적인 컴백 활동에 나섰다. 2016년 6월 15일, 서울 용산구 이태원 스트라디움에서 《내사노사》 발매기념 음감회를 개최했다.《내사노사》의 전곡을 가장 먼저 공연한 무대는 6월 18일 저녁 8시 자라섬에서 열리는 레인보우 아일랜드 뮤직 &amp; 캠핑이다. 장기하와 얼굴들은 2016년 10월부터 전국투어 날로 먹는 장얼의 제2탄 날로 먹는 내사노사 투어를 진행하기에 앞서 20일 오후 8시 인터파크를 통해 티켓 예매를 시작했다. 날로 먹는 내사노사 전국 투어는 10월 29일 부산 오즈홀을 시작으로, 11월 4 ~ 5일 오리 광주 보헤미안, 11월 12일 춘천 KT&amp;G 상상마당, 11월 19일 대전 인스카이투, 12월 9 ~ 11일 서울 KT&amp;G 상상마당에서 진행되었다. 장기하는 \"작은 곳에서 가깝게 공연을 하면 하는 사람도 보는 사람도 재밌다\"며 팬들과 보다 가깝게 소통하기 위해 이번 공연을 기획했다고 전했다.",
+                                    "장기하의 트랙수트 스타일은 자유와 에너지로 상징되는 90년대 젊은이들의 우상들의 스타일을 승계시킨 것.",
+                                    "이에 대해 장기하는 \"장기하와 얼굴들은 '흥'밴드다.",
+                                    "때문에 멋만을 추구하지 않고, 몸을 구속하지 않는 자유롭고 여유 있는 의상으로 무대에 서고 싶었다.",
+                                    "저희와 함께 즐기시는 팬분들께도 이런 마음이 전해져 모두 여유로워지길 바라는 마음이다\"라고 했다. 평가. 《내사노사》는 거의 모든 평론가로부터 호평을 받았다. 《이즘》의 이수호는 \"멋진 작품이 탄생했다.",
+                                    "밴드를 정의하는 온갖 성분들이 음악을 멋지게 구축한다.",
+                                    "스스로를 향한 조소를 한 가득 담아다 극적인 보컬 연기로 들이붓는 〈내 사랑에 노련한 사람이 어딨나요〉와 〈ㅋ〉, 가나다로부터 귀여운 가사를 뽑아내는 〈가나다〉와 같이 웃음을 이끌어내는 트랙들 위에서 여유 가득하고 재치 넘치는 퍼포먼스가 빈틈을 잔뜩 보이는 것처럼 보이지만, 그 저편에는 구성 단계에서의 치밀함이 위치하고 있다.",
+                                    "톡톡 튀는 사운드와 듣기 좋은 멜로디, 재미를 일으키는 장치들 모두 어느 하나 놓칠 것이 없고 어느 하나 모자라다 할 것이 없다.",
+                                    "《내 사랑에 노련한 사람이 어딨나요》는 현재의 장기하와 얼굴들에서 나올 수 있는 가장 훌륭한 작품이다.",
+                                    "앞선 앨범들을 충분히 상회하는 결과물이 등장했다.",
+                                    "이 음반에서 장기하와 얼굴들의 로큰롤은 한 차례 완성됐다.",
+                                    "\"며 극찬했다. 같은 웹진이 선정한 2016 올해의 가요 앨범 10장에 올랐다. 김성대 평론가는 \"3집의 소리(사운드)에 대한 탐구와 1, 2집의 가사를 향한 열정을 안정감 있게 버무린 곳에 장얼의 4집이 있다.",
+                                    "발견 보다는 발전, 답습이 아닌 수습이 이번 앨범에는 있는 것이다.",
+                                    "한 포털사이트가 이들을 위해 준비한 ‘뮤직스페셜’에서 표현처럼 이것이 바로 \"초심을 외치는\" 장얼의 실체일 게다.",
+                                    "익살과 해학이라는 우리네 개념으로 60~70년대 로큰롤과 80년대 뉴웨이브 그루브를 덥썩 낚아채는 이 대책없는 밴드를, 그래서 나는 좋아하지 않을 수가 없다.",
+                                    "외면하기 힘든 치명적인 매력이 이 밴드와 이번 앨범에는 있다.",
+                                    "글쓴이가 가장 좋게 들은 2집과 쌍벽을 이룰 기분좋은 수확물이다.",
+                                    "비틀즈가 있고 산울림이 있다.",
+                                    "장얼의 방식으로 말이다.\"라고 호평했다. 《웨이브》의 성호선은 \"맥시멀리즘의 정점에 서 있는 3집을 선보인 다음의 선택이 미니멀리즘을 추구하고 있어서인지 이 앨범은 자신감으로 읽힌다.",
+                                    "역시나 악기의 구성은 단순해졌지만 사운드는 더욱 단단해졌다. ...",
+                                    "장기하가 사랑엔 노련하지 않을진 몰라도 음악엔 이렇게나 노련하다.",
+                                    "잘하는 것을 더 잘하면서 씹을수록 단맛이 나는 앨범을 만난다는 건 정말 즐거운 일이 아닐 수 없다.",
+                                    "\"고 호평하며 10점 만점에 7.5점을 매겼다. 이선엽은 \"악기들의 조화를 통해 멤버 간의 케미스트리 또한 자연스럽게 엿볼 수 있다.",
+                                    "이제는 중견 밴드란 말이 어색하지 않을 만큼 독창적인 색깔을 띄고 있다.",
+                                    "비록 사랑에는 노련하지 않더라도, 자신들이 해온 음악만큼에는 제법 노련해졌다.",
+                                    "\"며 다소 엇갈리게 평하며 10점 만점에 6.5점을 매겼다. 네이버 6월 4주, 이주의 발견에 이경준과 최지호에 의해 공동 추천되었다. 이경준은 한 줄 개요에 \"이것은 어떤 분기점\"이라고 적으면서 \"확 바뀌었다\"는 표현은 이런 음반을 위해 준비된 게 아닐까 한다. 색채, 스타일, 장르. 그게 뭐든 전작 《사람의 마음》과 이 음반을 연결시킬 수 없기 때문이다. 한 가지 확실한 건, 패기와 유머, 솔직함이 부각되었다는 점이다. \"",
+                                    "전면적 로큰롤 탐사\"에 대한 강박이 지배했던 전작의 커튼은 살포시 걷혔다. 초기의 태도로 돌아갔다. 그 결과, 제목과 노랫말이 주는 감칠맛은 살아났고, 애정을 가진 레퍼런스는 선명해졌으며, 장르를 구분하는 건 무의미하게 되었다.\"고 호평했다.",
+                                    "최지호는 \"아무리 힘 빠지고 맥빠져도 이런 앨범은 여간해선 보기 드문 물건이다. 더 이상 한국 록의 미래는 아니지만 〈ㅋ〉에서 단 한 음절에서 작렬하는 샤우트가 좋고 〈괜찮아요〉의 난데없는 코러스도 좋다. 〈가나다〉 3행시는 최악이지만 〈싸구려 커피〉의 후속 같은 〈그러게 왜 그랬어〉의 70년대 샹송 따따따 코러스는 최고다.\"라고 평했다."
+                                ]
+                            },
+                            {
+                                "documentID": "1102065",
+                                "documentTitle": "레인보우 스트리트",
+                                "content": [
+                                    "《김형준의 레인보우 스트리트》는 대한민국의 방송국 기독교방송의 라디오 채널 CBS 음악FM에서 매일 밤 12시부터 새벽 2시까지 방송되는 프로그램이다.",
+                                    "수도권 초단파 93.9MHz, 부산광역시 초단파 102.1MHz, 서부산 초단파 105.3MHz, 대구광역시 전지역, 경산, 구미, 칠곡, 성주, 고령 등 경북 일부지역에서는 초단파 97.1MHz이지만, 지방의 경우 CBS 인터넷 라디오인 레인보우와 스마트폰의 레인보우 앱으로 들을 수 있다.",
+                                    "역사.",
+                                    "2014년 CBS 라디오 봄 개편에 의해 신설됐으며 초창기 때는 매일 다른 진행자가 각각 다른 느낌의 음악을 방송하였으나, 2015년 CBS 가을 개편 이후부터 CBS 라디오 김형준 PD가 단독 진행하여 방송시간이 종전 새벽 2시에서 밤 12시로 옮겼으며, 이 시간에 방송됐던 《올 댓 재즈》와 방송 시간을 서로 맞바꿨다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "《Over the Rainbow》는 대한민국의 걸 그룹 레인보우가 일본에서 발표한 정규 음반이다.",
+                    "timestamp": 1696303316000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "아 레인보우가 7인조 걸그룹이구나 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696303338000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "《Over the Rainbow》는 대한민국의 걸 그룹 레인보우가 일본에서 발표한 정규 음반이다. 한국어 수록곡 8트랙과 보너스 트랙으로 TV 도쿄의 애니메이션 Zoobles!의 오프닝 곡인 〈CANDY GIRLS!〉가 수록된 음반이 추가되었습니다.",
+                    "context": {
+                        "query": "레인보우",
+                        "contents": [
+                            {
+                                "documentID": "402370",
+                                "documentTitle": "레인보우 (대한민국의 음악 그룹)",
+                                "content": [
+                                    "레인보우()는 대한민국의 7인조 걸 그룹이다.",
+                                    "2009년 11월 12일 EP 앨범 \"Gossip Girl\"을 발매하고 11월 14일 《쇼! 음악중심》에서 데뷔했다.",
+                                    "그룹명 레인보우는 \"일곱가지 색의 무지개처럼 일곱명의 멤버마다 다양하고 개성있는 모습을 보여주는 걸 그룹이 되겠다\"는 의미를 담고있다.",
+                                    "2016년 11월 12일 7년만에 계약만료로 해체하게 되면서 멤버들이 당시 소속사였던 DSP 미디어를 떠나게 되었다.",
+                                    "2019년 10월 24일 해체 3년만에 재결합하였다.",
+                                    "활동 내용.",
+                                    "2009: Gossip Girl, Not Your Girl.",
+                                    "2009년 11월 4일 DSP 미디어는 레인보우를 처음으로 언론에 공개했다.",
+                                    "레인보우가 데뷔하기까지 4년여의 준비 기간이 걸렸으며, 이 기간 중에 7명으로 구성된다는 소문이 퍼지면서 붙게 된 레인보우라는 별명을 그룹명으로 확정한다.",
+                                    "6일에는 타이틀 곡 〈Gossip Girl〉의 티저를, 12일에는 데뷔 앨범 \"Gossip Girl\"과 뮤직비디오를 공개하고, 14일 《쇼! 음악중심》에서 데뷔 무대를 가졌다.",
+                                    "데뷔곡 \"Gossip Girl\"은 에어모니터에서 조사한 주간 방송차트에서 203회의 방송횟수로 2위에 올랐고 주간 라디오 방송차트에서는 1위를 하기도 했다.",
+                                    "2010년 1월 15일에는 SS501의 곡 \"U R MAN\"의 답가 \"Not Your Girl\"로 후속곡 활동을 시작했고 2월 7일 데뷔 활동을 마무리한다.",
+                                    "2010년: A, Mach.",
+                                    "2010년 8월 10일 첫 번째 디지털 싱글 〈A〉의 티저 영상을, 12일에 음원과 뮤직비디오를 공개하고, 13일에 뮤직뱅크를 통해 본격적인 활동을 시작한다.",
+                                    "작곡가 스윗튠(한재호, 김승수)의 곡으로, 힙합비트에 락적인 느낌을 가미한 스윗튠(Sweetune) 특유의 곡으로 많은 화제를 모았다.",
+                                    "그리고, 오랫동안 각종 차트 상위권에 머물렀고, 음원사이트 멜론에서는 주간 차트 8위에 올랐다.",
+                                    "활동 도중 방송통신심의위원회의 '선정성 주의 권고'에 따라 방송사의 권유를 받고 '배꼽춤' 안무를 수정한다.",
+                                    "9월 11일 MBC 쇼 음악중심부터는 수정된 안무로 무대에 오르게 되었다.",
+                                    "\"A\"활동 시에 출시한 스마트폰 애플리케이션은 12일 동안 전체 다운로드 건수 6700건을 올려 높은 성적을 기록한다.",
+                                    "10월 18일 두 번째 디지털 싱글 앨범 《Mach》의 재킷을 공개하고, 20일 음원을 공개한다.",
+                                    "21일 Mnet 엠 카운트다운을 통해 타이틀곡 〈Mach〉를 선보인다.",
+                                    "전작인 〈A〉와는 정 반대로, 노출이 없는 긴 의상을 입었으나 몸에 달라붙는 디자인으로 고급스러운 섹시미를 발산하였다.",
+                                    "A와 마찬가지로 스윗튠의 곡으로, 강렬한 비트를 삽입하여 락적인 느낌을 주었다.",
+                                    "오랫동안 각종 차트 상위권에 머물렀으나, 지상파 무대에서 수상을 하지는 못했다.",
+                                    "11월 13일에는 MBC 쇼 음악중심 무대를 끝으로 활동을 마무리한다.",
+                                    "2010년 12월 31일에 있었던 가요대제전에서 그룹 처음으로 연말 시상식에 참가하게 된다.",
+                                    "레인보우는 이 무대에서 〈A〉의 발라드 버전과 의자를 이용한 안무를 통해 섹시미를 발산하였다.",
+                                    "2011: \"So女\"와 일본 데뷔.",
+                                    "레인보우는 2011년 4월 7일 두 번째 EP 음반 《SO 女》를 발매하고 다이시 댄스가 작곡한 타이틀 곡 〈TO ME (내게로..)〉로 컴백하였으며, 데뷔 최초 멜론 실시간 차트 1위, 주간 음원 차트 5위에 오르는 등 음원 사이트에서 꽤 좋은 반응을 얻었고 엠카운트다운 1위후보에 올라 3위를 기록했다.",
+                                    "6월에는 리패키지 앨범 《Sweet Dream》을 발매해 활동을 하였다.",
+                                    "당일 오리콘 차트 3위에 올랐다.",
+                                    "이 곡 역시 일본의 작곡가 다이시 댄스의 곡이며, TO ME에 이어서 꽤 좋은 반응을 보였지만 활동 중 멤버 김지숙의 모친상이라는 안타까운 사건으로 지숙을 제외한 6인조로 활동을 끝마쳐야만 했다.",
+                                    "《SO 女》의 뮤직비디오에는 김소정 연습생이 출연했다.",
+                                    "2012: 첫번째 유닛 레인보우 픽시 결성 및 일본 활동.",
+                                    "레인보우 멤버 중 오승아, 김지숙, 조현영이 그룹 활동에서는 보여주지 못했던 발랄하고 귀여운 컨셉의 유닛 그룹 레인보우 픽시를 결성하고 2012년 1월 12일 첫 싱글 《Hoi Hoi(호이 호이)》를 발매, 타이틀곡인 〈Hoi Hoi(호이 호이)〉로 1월 14일 엠 카운트다운을 통해 컴백해서 활동하였다.",
+                                    "하지만 이는 애프터스쿨의 유닛인 오렌지캬라멜이 큰 성공을 거둔 것을 옆에서 본 DSP 미디어에서 레인보우에게 애프터스쿨을 따라하기 위해 만든 유닛이었다.",
+                                    "레인보우 픽시 유닛활동 이후 레인보우는 긴 공백기를 가졌다.",
+                                    "2012년 4월에는 일본에 진출해서 활동하기도 했으며 오직 일본에서만 발표한 싱글 〈ガナガナGO!(코나 코나 고!)〉로 활동했다.",
+                                    "2013: Rainbow Syndrome Part.1,2. 레인보우는 1년 8개월만의 공백 끝에 2013년 2월 13일 정규1집 《Rainbow Syndrome Part.1》을 발매하고 타이틀곡 〈Tell Me Tell Me〉로 2013년 2월 14일 엠카운트다운을 통해 컴백했다.",
+                                    "초반에는 타이틀곡은 괜찮지만 너무 평범하다는 등의 의견이 많았지만, 음원차트 역주행을 하여 발매 약 한달 뒤인 3월 16일 뮤직뱅크 K-Chart 3위를 기록하였다.",
+                                    "이는 당시 레인보우 데뷔 이후 공중파 음악방송 최고순위였다.",
+                                    "2013년 6월 4일 미니앨범(EP) 《Rainbow Syndrome Part.2》를 발매하고 타이틀곡 〈Sunshine〉으로 컴백했다.",
+                                    "레인보우 데뷔 이후 최초의 시즌송이며, &lt;Sunshine&gt;은 중간의 후렴구 부분의 \"Go Jerry Go Jerry Go Jerry\"라는 가사가 \"겉절이\"로 들린다는 이유로 일명 \"겉절이송\"이라고도 알려졌다.",
+                                    "이 인기를 몰아 레인보우는 〈Sunshine〉으로 SBS 인기가요에서 데뷔 이래 최초로 공중파 음악방송 1위 후보에 올랐으나 씨스타(1위)와 애프터스쿨(2위)에 밀려 3위를 기록했다.",
+                                    "이 당시의 상황은 당대 걸 그룹 TOP3인 원더걸스, 카라, 소녀시대가 아무도 활동하지 않는 완벽한 빈집털이 상황이었다.",
+                                    "다만 카라는 같은 소속사의 걸 그룹인 레인보우에게 음악방송 1위를 시켜주기 위해 DSP 미디어에서 고의로 활동을 시키지 않았으며 원더걸스는 미국에 진출한 상태였다.",
+                                    "2014: 두번째 유닛 레인보우 블랙 결성.",
+                                    "2014년 1월 2일 걸그룹 섹시 대전속에서 고우리, 오승아, 김재경, 조현영으로 구성된 4인조 두 번째 유닛 그룹 레인보우 블랙을 발표, 유튜브 등을 통한 티저영상의 공개를 거쳐 2014년 1월 20일 EP 《RB BLAXX》를 발표하였다.",
+                                    "이후 같은 날 서울특별시 종로구 광화문 올레스퀘어에서 컴백 쇼케이스 공연을 열었으며 2014년 1월 21일 SBS MTV의 《더 쇼: 올 어바웃 케이팝》을 통하여 타이틀 곡 〈Cha Cha〉의 첫 방송무대를 선보였다.",
+                                    "그리고 공중파에서는 다리를 드는 안무를 수정했으며, 이후 2014년 2월 2일 SBS 인기가요 순위에서 1위 후보에 올랐으며 2위를 기록했다.",
+                                    "이는 레인보우 활동을 합쳐 역사상 음악방송 최고순위를 기록한 것이다.",
+                                    "레인보우 블랙 유닛활동 이후 레인보우는 두 번째 긴 공백기를 가졌다.",
+                                    "2015: \"INNOCENT\".",
+                                    "개인활동에 주력하던 도중 1월 21일 \"레인보우 드디어 컴백\"이라는 문구를 든 고우리, 조현영, 김지숙의 사진이 공개되면서 오랜만의 컴백을 확정했고, 2015년 2월 23일 레인보우는 1년 7개월만의 공백 끝에 미니 3집 앨범《INNOCENT》를 발매하고 '안아주세~이요'가 인상적인 중독성 있는 타이틀곡〈Black Swan〉으로 컴백하였으나 멜론 진입순위 68위로 저조한 순위를 기록하고, 3일만에 차트아웃되는 레인보우 역사상 최악의 음원순위를 기록하게 된다.",
+                                    "바로 전 완전체 앨범 타이틀곡인〈SUNSHINE〉당시에만 해도 멜론 진입 8위였던것을 보면 얼마나 음원순위가 저조했는지 알 수 있다.",
+                                    "소속사의 타이틀곡 선정과 그로 인한 음원성적 저조로 인하여 2주 만에 활동을 중단하였다.",
+                                    "레인보우는 블랙스완 활동 이후 연기, 예능, 리포터 등 개인활동에 주력하였다.",
+                                    "2016: \"PRISM\" 그리고 해체.",
+                                    "1월 28일 4번째 미니앨범의 타이틀곡을 맞추는 퍼즐형식의 티저가 공개되면서 2월 15일 미니 4집 PRISM을 발매와 함께 타이틀곡 〈Whoo〉로 컴백을 확정하였다.",
+                                    "2월 1일부터 멤버별 컴백 기념 v앱을 열였다.",
+                                    "2월 4일 DSP측에서 레인보우 컴백 컨셉으로 멤버들 마다 색깔이 있는데 빨강 김재경, 주황 고우리, 노랑 조현영, 초록 김지숙, 파랑 노을, 남색 오승아, 보라 정윤혜 라고 밝혔다.",
+                                    "2월 15일 낮 12시 미니 4집 PRISM을 발매와 함께 타이틀곡 〈Whoo〉를 쇼케이스를 통해 최초공개하였다.",
+                                    "그 이후 16일 더 쇼, 17일 쇼챔피언, 18일 엠카운트다운, 19일 뮤직뱅크, 20일 음악중심, 21일 인기가요를 통해 컴백 무대를 가졌고 그와 함께 뜨거운 반응을 얻었다.",
+                                    "5주에 활동 기간을 갖고 난 뒤 활동을 마무리 하였다.",
+                                    "그 후 10월 28일, DSP미디어 측에서 계약 만료를 알렸다.",
+                                    "11월 12일 계약 만료이며, 11월 11일에는 단체로 방콕으로 마지막 이별여행을 떠났다.",
+                                    "이별여행을 다녀온 이후 팀은 공식적으로 해체되었으며 멤버 전원이 DSP 미디어를 퇴사했다.",
+                                    "김재경과 오승아와 조현영 고우리는 퇴사한 당일 소속사를 이적하여 연기자로 직업을 변경했다.",
+                                    "김지숙은 퇴사한 후 소속사 없이 지내다가 2017년 2월에 디모스트엔터테인먼트로 입사했으며 2018년에 노을은 에이픽엔터에 입사했다.",
+                                    "2019년 기준으로 정윤혜는 소속사가 없는 상태이다.",
+                                    "2020년 멤버 전원이 배우로 데뷔를 완료했다.",
+                                    "레인보우 멤버 중 비주얼이 가장 우수한 오승아가 배역을 잘 받는 편이다.",
+                                    "2019: 재결합.",
+                                    "10월 24일 해체 3년만에 재결합하였다.",
+                                    "데뷔 10주년 기념으로 데뷔 날짜인 11월 14일 새앨범을 발매하였다."
+                                ]
+                            },
+                            {
+                                "documentID": "1102065",
+                                "documentTitle": "레인보우 스트리트",
+                                "content": [
+                                    "《김형준의 레인보우 스트리트》는 대한민국의 방송국 기독교방송의 라디오 채널 CBS 음악FM에서 매일 밤 12시부터 새벽 2시까지 방송되는 프로그램이다.",
+                                    "수도권 초단파 93.9MHz, 부산광역시 초단파 102.1MHz, 서부산 초단파 105.3MHz, 대구광역시 전지역, 경산, 구미, 칠곡, 성주, 고령 등 경북 일부지역에서는 초단파 97.1MHz이지만, 지방의 경우 CBS 인터넷 라디오인 레인보우와 스마트폰의 레인보우 앱으로 들을 수 있다.",
+                                    "역사.",
+                                    "2014년 CBS 라디오 봄 개편에 의해 신설됐으며 초창기 때는 매일 다른 진행자가 각각 다른 느낌의 음악을 방송하였으나, 2015년 CBS 가을 개편 이후부터 CBS 라디오 김형준 PD가 단독 진행하여 방송시간이 종전 새벽 2시에서 밤 12시로 옮겼으며, 이 시간에 방송됐던 《올 댓 재즈》와 방송 시간을 서로 맞바꿨다."
+                                ]
+                            },
+                            {
+                                "documentID": "935091",
+                                "documentTitle": "레인보우 아일랜드 (음악제)",
+                                "content": [
+                                    "캠핑을 기반으로 한 레인보우 아일랜드 뮤직&amp;캠핑 페스티벌(Rainbow Island Music &amp; Camping Festival)은 2011년 7월 공연기획사 VU ENT의 주관으로 경기도 가평군 남이섬에서 처음 개최되었다.",
+                                    "2011년부터 2015년까지 매년 초 여름 남이섬에서 개최되었으며, 2016년부터는 관객이 늘어남에 따라 편의 공간과 캠핑,아웃도어 페스티벌에 더욱 적합한 장소인 경기도 가평군 의 자라섬으로 장소를 옮겨 개최되었다.",
+                                    "도심에서 벗어나 자연 속에서 즐기는 공연과 캠핑뿐 아니라 관객과 아티스트가 함께하는 다양한 레크레이션 프로그램, 버스킹, 플리마켓, 가든라운지등을 통해 페스티벌 참여자들에게 1박2일의 자연과 함께하는 즐거운 도시일탈의 경험을 제공하고 있다.",
+                                    "개요.",
+                                    "레인보우 아일랜드 뮤직 &amp; 캠핑 페스티벌 (Rainbow Island Music &amp; Camping Festival)은 대한민국의 음악 페스티벌이며 음악과 캠핑이 결합된 새로운 형태의 뮤직 페스티벌이다.",
+                                    "제작.",
+                                    "- 주최/주관 : VU ENT 연혁.",
+                                    "1회 - 레인보우 아일랜드 뮤직&amp;캠핑 페스티벌(장소-경기도 가평군 남이섬): 2011년 7월 2일 ~ 7월 3일 2회 - 레인보우 아일랜드 뮤직&amp;캠핑 페스티벌(장소-경기도 가평군 남이섬): 2012년 6월 9일 ~ 6월 10일 3회 - 레인보우 아일랜드 뮤직&amp;캠핑 페스티벌(장소-경기도 가평군 남이섬): 2013년 6월 7일 ~ 6월 9일 4회 - 레인보우 아일랜드 뮤직&amp;캠핑 페스티벌(장소-경기도 가평군 남이섬): 2014년 5월 31일 ~ 6월 1일 5회 - 레인보우 아일랜드 뮤직&amp;캠핑 페스티벌(장소-경기도 가평군 남이섬): 2015년 6월 20일 ~ 6월 21일 6회 - 레인보우 아일랜드 뮤직&amp;캠핑 페스티벌(장소-경기도 가평군 자라섬): 2016년 6월 18일 ~ 6월 19일"
+                                ]
+                            },
+                            {
+                                "documentID": "1040746",
+                                "documentTitle": "레인보우 블랙",
+                                "content": [
+                                    "레인보우 블랙(RAINBOW BLAXX)은 대한민국의 걸 그룹 레인보우의 4인조 유닛 그룹이다.",
+                                    "2016년 11월 12일, 레인보우가 해체하면서 자연스럽게 해체되었다.",
+                                    "활동.",
+                                    "2014년 1월 20일 EP 음반 《RB BLAXX》을 발매하였다.",
+                                    "레인보우 픽시가 비교적 저조한 성적을 거두면서 레인보우의 유닛 그룹에 대한 기대감이 많이 떨어졌지만, 레인보우 블랙은 음원 성적에서 완전체의 레인보우 못지 않은 저력을 보였다.",
+                                    "심지어 레인보우 전체 역사상 2번째 1위 후보를 기록하면서 큰 관심을 보였다."
+                                ]
+                            },
+                            {
+                                "documentID": "13909",
+                                "documentTitle": "녹색전차 해모수",
+                                "content": [
+                                    "《녹색전차 해모수》는 KBS에서 기획하여 제작한 26부작 TV 만화영화 시리즈이다.",
+                                    "대한민국 최초의 TV만화 3D 애니메이션 작품이다.",
+                                    "1997년 12월 12일에 첫 화가 방영되었으며 제작에는 대원동화와 금강기획이 참여했다.",
+                                    "일본으로 수출되어 NHK에서 &lt;무지개전기 이리스, 虹の戦記イリス&gt;라는 제목으로 방영되었다.",
+                                    "국내에서 이 작품의 흥행 참패에 영향으로 3D 애니메이션은 아직 시기 상조이다는 제작 기술을 역행하는 흐름이 국내 TV만화 산업 분야에서 한동안 존재하게 된다.",
+                                    "줄거리.",
+                                    "우주에서 푸르고 아름다운 모습을 가진 행성 테라.",
+                                    "그러나 7년간의 장기간 전쟁으로 인해서 푸르던 별은 폐허와 죽음의 별로 변해가면서 멸망하게 될 위기에 처하게 된다.",
+                                    "전쟁이 일어나면서 부모를 잃은 고아들이 속출하고 여러 가지 이변까지 생기게 되었지만 살아남은 사람들을 중심으로 테라를 복원하려는 움직임이 보였다.",
+                                    "테라의 저명한 과학자 헤링 박사의 손자인 릭은 전쟁고아들을 보살피고 있는 소년이다.",
+                                    "집세를 내지 못해서 고아원이 집주인에 의해 철거될 위기에 처하자 동생들을 살리기 위해 온갖 일거리에도 뛰어들게 된 릭이었지만 그 정도로는 생계를 책임지기도 힘들 정도였다.",
+                                    "그러던 중 '썬 크리스탈' 을 찾아온 자에게 1천만 크로네의 현상금을 주겠다는 포스터가 붙여진 모습을 보면서 동생들을 살리기 위해 릭은 보조 로봇 굿포, 고아이지만 활기한 성격의 로토와 모험을 떠나게 된다.",
+                                    "그러던중 모래바람으로 인해서 전함 안에 들어가게 되었다가 우연히 쓰러져있는 예쁜 소녀를 접하게 되고 동시에 홀로그램에 나타난 한 남자의 형상을 보게 되는데...  등장인물.",
+                                    "성우는 한국 원판 / 일본 더빙판 순 고아원에서 생활하였던 어린소년이었지만 릭 일행이 여행을 떠나게 되자 해모수에 몰래 타게 되어 같이 여행길에 나서게 되었다.",
+                                    "고아였지만 웃음을 잃지 않는 활발한 성격에, 말썽기질이 짙은 성격으로 릭, 굿포와 함께 여행을 떠나게 된다.",
+                                    "릭을 친형처럼 따랐으며 나중에 보라를 만난 후에는 보라를 친누나처럼 따르기도 했다.",
+                                    "위기상황이나 일행들의 분위기기 좋지 않을 때 기분을 전환시켜주는 역할도 한다.",
+                                    "정체를 알 수 없는 금발의 현상범 사냥꾼으로 릭 일행이 위기에 처했을 때 어쩌다 나타나 이들을 구해준다.",
+                                    "하지만 사실 그녀는 차코박사와 긴밀한 관계를 맺고 있으며 자신이 인조인간이라는 것이 밝혀지게 되자 괴로움을 느끼게 된다.",
+                                    "나중에 가서는 네로와 장렬히 싸우다가 로봇 카론과 함께 자폭을 하게 된다.",
+                                    "이것이 결국 테라를 구하게 되는 지대한 공헌으로 남았으며 릭 일행에게는 잊을 수 없는 은인(恩人)으로도 남게 되었다.",
+                                    "헤링 박사와 함께 일했던 테라의 저명한 과학자로 보라의 할아버지이기도 하다.",
+                                    "한때는 헤링 박사와 함께 테라를 구해내기 위한 연구를 함께 하였으나 7개의 크리스탈에 대한 존재를 알게 되자 헤링박사를 배신하게 되어 세계를 지배할 야욕을 꿈꾸게 된다.",
+                                    "헤링박사가 제조한 로봇 '페트론'에 맞설 로봇 '마라'를 제조하여 직접 조종하면서 릭과 싸우기도 했으나 배신자 네로에 의해 폭사(爆死)되었다.",
+                                    "그러나 그때 죽은 차코 박사는 사실상 차코 박사가 만든 휴머노이드였으며 진짜 차코박사는 테라 프로그램을 발동시킬 UFO안에서 릭과 보라에 의해 모습을 드러내게 되었다.",
+                                    "네로가 자신을 갖고 이용하였다는 사실에 분노를 느끼며 광선으로 죽게 하였으며 보라에게 자신을 살릴 것을 요구했지만 보라는 결국 갈등 끝에 테라를 구할 목적으로 크리스탈을 넣게 된다.",
+                                    "차코박사의 부하로 있는 인물이었지만 사실은 외계에서 밀파된 인간의 모습을 한 외계인이었다.",
+                                    "차코박사 부하로 있을 때는 차코박사의 지시를 따르기도 했지만 나중에 차코박사가 헤링박사가 만들었던 로봇인 '페트론'에 맞설 로봇 '마라'를 제조하게 되자 이를 계기로 본색을 드러내며 세계정복 및 지배라는 야욕을 꿈꾸게 되어 결국 차코박사를 배신하고 결국에는 차코박사를 죽게 만들었다.",
+                                    "차코박사를 배신하고 독자적인 행동을 취하며 릭 일행과 싸우게 되었으나 인간모습으로 있는 차코박사에 의해 사라지게 된다.",
+                                    "한때 헤링박사와 보라의 부모님을 살해했던 인물이기도 하다.",
+                                    "테라의 저명한 과학자이자 릭의 할아버지로 테라에 위기가 닥치게 되자 7개의 크리스탈을 모으면 테라를 구할 수 있다는 사명을 걸고 녹색전차 해모수와 페트론을 개발하게 된다.",
+                                    "하지만 함께 일했던 차코 박사가 배신을 하게 되어 결국 네로에 의해 살해되었다.",
+                                    "선크리스탈을 차지하기 위해 중간에 나타나는 도적단.",
+                                    "릭과 네로 양쪽상에선 모두 적으로 인식하고 있지만 사실 성공한 사례는 거의 없다.",
+                                    "원래는 수많은 부하들을 이끌고 다니는 도적단이었지만 이후에는 두목과 부하 2명밖에 없는 도적단으로 전락하였다.",
+                                    "이후에는 고아원에 가서 고아들의 보모가 되어 아이들을 보살핀다.",
+                                    "릭의 아버지이자 헤링박사의 아들로 원래는 사망한 것으로 알려져있지만, 헤링박사가 피신시킬 목적으로 일부러 그렇게 설정했던 것뿐이며 전쟁으로 인해 몸이 약해져 건강을 회복하기 위해 아들인 릭에게는 비밀로 한 채 페트론을 개발하기 위해 아무도 없는 곳에서 비밀연구를 해 왔었다.",
+                                    "릭의 어머니로 남편인 라일과 사망한 것으로 알려져있으나 헤링박사가 피신시킬 목적하에 그렇게 해 두었던 것이다.",
+                                    "남편과 함께 비밀리에 페트론 개발연구에 참여하였다.",
+                                    "그 외 인물들.",
+                                    "고아원 집주인  성우 : 이종구  릭과 로토가 있는 고아원의 집주인.",
+                                    "1화부터 등장하여 고아원이 집세를 내지 않았다는 이유로 철거를 강행하려다가 릭의 해모수에 걸려서 무산되기도 하였다.",
+                                    "다만 성격상 급하지만 3일간이나 3개월의 여유를 주는 것으로 봐서는 약간의 인정스런 면도 있는 듯하다.",
+                                    "고아원 아이들  테라의 7년 전쟁 때 부모를 잃으며 고아가 된 아이들.",
+                                    "릭, 로토와 함께 지내고 있으며 집주인의 위협에도 굴하지 않는 성격을 보인다.",
+                                    "오후의 태양단 부두목  오후의 태양단을 이끄는 부두목으로 옛날 헤링 박사와 차코 박사의 연구실을 본거지로 삼고 있다가 릭에 의해 혼이 나게 된다.",
+                                    "미카  로봇도시의 인간 거주지에 사는 소녀이자 촌장의 손녀.",
+                                    "로봇괴물에 의해서 아버지를 여의며 릭이 로봇괴물을 물리칠 것을 원하고 있다.",
+                                    "로봇도시 인간 거주지 촌장  성우 : 설영범 로봇도시 인간 거주지에 사는 노인이자 촌장이며 미카의 할아버지.",
+                                    "릭 일행을 반갑게 맞아주며 로봇도시에 대한 얘기를 해준다.",
+                                    "수  겨울로 변한 아프리카 마을에 사는 소녀.",
+                                    "샤먼 사제를 따르고 있지만 그가 설인으로 위장하여 마을의 식량을 훔쳤던 것을 보고 충격을 받으며 릭 일행을 돕는다.",
+                                    "샤먼 사제  겨울로 변한 아프리카 마을의 사제.",
+                                    "사실은 사제이면서 마을 사람들의 식량을 몰래 훔쳤던 인물이기도 하다.",
+                                    "씽 릭 일행이 만났던 고아원 리더로 있는 소년.",
+                                    "고아원을 짓기위해 해모수를 훔치며 팔려고 하였으나 차코 박사의 농간에 넘어간다.",
+                                    "산장 노인  성우 : 강구한  레테우 호수가에서 만난 노인.",
+                                    "무뚝뚝해보이는 성격이었으나 사실은 아들과 며느리를 전쟁 때 잃었던 아픔을 가지고 있다.",
+                                    "베스  성우 : 최문자  릭 일행과 마주하게 된 소녀.",
+                                    "서커스를 하는 아버지를 기다리고 있으며 릭에게 아버지에게로 데려가달라고 한 적이 있다.",
+                                    "준  성우 : 故 김일(1966 ~ 2018) 화산도시에서 릭 일행과 만났던 청년.",
+                                    "보라를 어린시절 자신의 소꿉친구였던 에릴이라는 소녀로 착각한다.",
+                                    "후에 화산 정상에서 크리스탈을 찾았다가 용암으로 추락하여 사망한다.",
+                                    "이 작품 최초이자 유일한 사망자.",
+                                    "에릴  준의 소꿉친구로 있던 소녀.",
+                                    "화산폭발 때 준과 피난하던 중 화산 용암으로 추락하였다.",
+                                    "알  고대도시에서 릭 일행과 만났던 소년.",
+                                    "물 문제로 로토와 다투다가 릭 일행에게 고대도시에 대해서 설명해준다.",
+                                    "등장병기.",
+                                    "해모수 (일본판은 이리스) 헤링 박사가 개발하였던 탱크형의 녹색전차.",
+                                    "초창기에는 헤링 박사가 운전하였던 적이 있었으며 헤링 박사가 사망한 이후에는 릭과 굿포가 운전을 맡고있다.",
+                                    "전투보다는 탐사능력에 강한 편으로 전투력에서는 약하다는 단점이 있다.",
+                                    "해모수라는 이름은 고구려의 동명성왕(주몽)의 아버지인 '해모수'를 본따왔다.",
+                                    "일본어 더빙판에서는 이리스(イリス)로 개명되었다.",
+                                    "패트론 (일본판은 패트로크로스) 헤링 박사가 고안하여 라일 부부가 개발해내었던 전투 로봇.",
+                                    "전투력이 약한 해모수의 단점을 보완하여 만든 로봇으로 전투력을 중심으로 하고 있으며 해저기지에서 대기하다가 해모수의 신호에 따라서 출격한다.",
+                                    "릭이 조종한다.",
+                                    "카론 (일본판은 발키리) 메리 헌터가 조종하는 로봇.",
+                                    "메리 헌터의 명령에 따르고 있으며 메리 헌터의 부름에 따라 자동적으로 움직이기도 한다.",
+                                    "후에 메리 헌터가 릭을 구할 목적으로 함께 자폭하게 된다.",
+                                    "뭉트 (일본판은 미드가르드) 네로가 조종하는 로봇.",
+                                    "마라 (일본판은 펜리르) 차코 박사가 패트론에 대항하기 위해 개발하였던 로봇.",
+                                    "본래 헤링 박사의 고안 내용 일부를 인용하여 패트론과 유사하게 제작한 로봇으로 전투력에서는 패트론을 능가한다.",
+                                    "처음에는 차코 박사가 조종하였다가 나중에 네로가 조종하였다.",
+                                    "크리스탈.",
+                                    "실제 7가지 색깔을 가진 무지개 색을 본딴 크리스탈이며 테라를 구해낼 수 있는 아이템이다.",
+                                    "각 크리스탈에는 이름이 붙여져있다.",
+                                    "크리스탈이 발견된 지역과 위치.",
+                                    "사타니 크리스탈을 제외한 나머지 6개 크리스탈의 지구를 합치면 CENTER(중앙)가 되며 여기에 사타니 크리스탈이 있다는 것을 알 수 있다.",
+                                    "용어 설명.",
+                                    "레인보우 시스템.",
+                                    "본래 외계에서 온 고철 우주선이었으며 헤링 박사와 차코 박사가 테라를 구할 목적으로 발견하게 되었다.",
+                                    "오랫동안 모래 속에 파묻혀있어서 그 존재가 가려졌으나 헤링 박사가 추락하였을 때 모래가 씻겨지면서 그 존재가 드러났다.",
+                                    "네로의 말로는 과학이 발달한 행성에서 만든 것이라고 하였으며 헤링 박사는 이 고철 우주선이 테라를 구할 수 있는 마지막 희망이라고 말하였다.",
+                                    "안에는 7개 크리스탈을 작동할 수 있는 장치가 있으며 보라색 사타니 크리스탈은 레인보우 시스템의 비밀열쇠 역할을 하고 있기 때문에 별도로 중앙부에 숨겨져 있다.",
+                                    "헤링 박사가 사망하기 전에 릭과 보라만이 다룰 수 있도록 해모수에 비밀암호를 설정하였다.",
+                                    "불아이 산.",
+                                    "차코 박사의 전진 기지로 외나무의 모습으로 있으며 처음에 보라가 네로에 의해서 기억을 잃었을 때 릭에게 불아이 산으로 데려다달라고 말한 적이 있었다.",
+                                    "나중에 보라가 차코 박사에게로 갔을 때 보라를 구하기 위해 릭 일행이 직접 가기도 하였다.",
+                                    "테라.",
+                                    "주인공들이 사는 행성으로 모태는 실제의 지구를 본딴 것으로 알려졌다.",
+                                    "본래는 푸르고 아름다운 별로 알려졌으나 7년간의 장기 전쟁 이후 폐허가 되면서 푸른별의 이미지를 잃게 되었다.",
+                                    "휴머노이드.",
+                                    "차코 박사가 만든 인간 복제형의 존재.",
+                                    "사실 차코 박사 본인도 병을 앓는 바람에 자신의 모습을 본딴 휴머노이드를 복제하여 대역을 시켰다.",
+                                    "주제가.",
+                                    "일본판"
+                                ]
+                            },
+                            {
+                                "documentID": "1540791",
+                                "documentTitle": "내 사랑에 노련한 사람이 어딨나요",
+                                "content": [
+                                    "《내 사랑에 노련한 사람이 어딨나요》는 대한민국의 밴드 장기하와 얼굴들의 네 번째 정규앨범이다.",
+                                    "이전 세 앨범과 마찬가지로 리더 장기하가 전곡을 작곡, 작사, 편곡했다.",
+                                    "사랑에 대한 총 열 가지 곡을 수록했고, 장기하는 여러 인터뷰를 통해 음반이 산울림과 비틀즈에 큰 영향을 받았음을 공언했다.",
+                                    "타이틀 곡은 〈ㅋ〉과 〈빠지기는 빠지더라〉로 결정되었다.",
+                                    "아울러 수록곡 〈ㅋ〉, 〈빠지기는 빠지더라〉, 〈가장 아름다운 노래〉는 뮤직비디오로 제작되었다.",
+                                    "타이틀 곡은 \"멤버들이 듣는 음악이 옛날 음악이거나 요즘 음악이지만 인기가 없는 것들\"이라 소용이 없을 것으로 판단해, 밴드 내부에서 투표도 했지만 기각하고 주변 사람들에게 들려주고 정했다.",
+                                    "음반 발표 1시간 전인 6월 15일 오후 11시부터 밴드는 팬들과 함께 하는 네이버 V앱 라이브를 진행하며 컴백 카운트다운에 돌입했고, 하루 뒤인 16일 《내사노사》는 각종 음원사이트를 통해 발표되었다.",
+                                    "《내 사랑에 노련한 사람이 어딨나요》는 평단의 호평을 받았다.",
+                                    "밴드는 6월 18일 저녁 8시 자라섬에서 열린  레인보우 아일랜드 뮤직 &amp; 캠핑에서 전곡을 처음 공연했고, 2016년 10월부터 전국투어 날로 먹는 장얼의 제2탄 날로 먹는 내사노사 투어를 진행했다.",
+                                    "배경.",
+                                    "2014년 10월, 장기하와 얼굴들은 세 번째 정규 음반 《사람의 마음》를 발표했다.",
+                                    "2015년 11월, 장기하는 화보 촬영 뒤 가진 인터뷰에서 \"올 한해는 새 앨범에 들어갈 노래들을 만들었다\"며 \"수록곡은 모두 정해졌다. 너무 늦지 않게 발매할 것\"이라고 음반에 대해 언급했다.",
+                                    "같은 해 밴드는 11월 대구를 시작으로 총 12회의 전국클럽투어 '날로 먹는 장얼'과 서울 블루스퀘어 삼성카드홀에서 진행된 연말콘서트 '계속해보겠습니다'를 통해 팬들과 만남을 가졌다.",
+                                    "2016년 5월 10일 결성 8주년을 기념해 공연 '장하다생일얼'이 개최되었다.",
+                                    "서교동에 위치한 클럽 에반스라운지에 열린 공연에서 장기하는 첫 공연 때와 똑같은 셋리스트와 분위기로 준비했다고 말하면서, 이날 〈빠지기는 빠지더라〉와 〈가장 아름다운 노래〉를 깜짝 공개했다.",
+                                    "녹음.",
+                                    "2016년 《배철수의 음악캠프》에 스페셜 DJ로 출연할 당시 장기하는 근황 관련 질문에 \"그냥 쉬었다. 이번주부터 멤버들이랑 모여 4집을 이제 만들어보자고 발동을 걸었다. 다음주부터 본격적으로 작업을 하려고 하고 있다\"고 답하면서 녹음 시기를 들려줬다.",
+                                    "같은 해 4월 29일 개장한 플랫폼 창동 61 레드박스 개장 페스티벌에서는 \"4집 녹음을 마쳤다. 믹싱이 끝나면 곧 만날 수 있을 것\"이라며 앨범 소식을 전했다.",
+                                    "장기하와 프로듀싱을 함께한 멤버 하세가와는 \"결과적으로 4집 노래를 다 들었을 때 '아, 1집에 가까운 느낌으로 하면 되겠구나'란 생각을 하게 됐다\", \"잘 보이게 할려면 여러 가지를 없애야 한다. 보통 '어떻게 화려하게 만들까'라고 생각하는데 난 여러 가지를 없애면 가장 보여주고 싶은게 보일 것 같았다. 음을 두껍게 하지 않게 하고 최소한으로 하려고 했다. 그러다보니 1집이랑 비슷한 느낌이 나더라\"고 했다.",
+                                    "멤버 정중엽은 \"1집 같은 경우는 장비도 없었을 뿐더러 사운드에 욕심낼 수 없었다\", \" 4집은 미니멀한데 구현하고 싶은 사운드를 최선을 다해 담았다. 악기 질감은 지금까지 앨범 중 가장 좋다고 생각한다\"고 했다.",
+                                    "《보그》 인터뷰에서 밝히기로는 하세가와는 \"연주하기는 더 어려워졌다. 그런데 듣는 사람은 모를 거다. (...) 지금까지 수없이 많은 밴드 마스터링했던 분이 이걸 기타로 쳤냐고 놀라며 신시사이저라고 생각했다더라. 그 말을 듣는데 사실 기분이 아주 좋았다.\"",
+                                    "했으며, 장기하는 \"이렇게 할 거면 프로그래밍 쓰지 뭐하러 실제 밴드 연주를 녹음했냐는 말을 듣고 싶었다. 하지만 손으로 연주하는 것과 기계로 찍어내는 소리는 다를 수밖에 없다. 밴드계에도 없고 일렉트로닉계에도 없는 소리를 내는 거다.\"라고 말을 거들었다.",
+                                    "보컬에 대하여 장기하는 \"목소리 자체는 예전이 훨씬 어렸을 거다. 말투가 투박해서 목소리도 투박하게 느껴졌을 수 있다. 라이브를 하면 할수록 능숙해지는 면이 있는데 그런 부분을 경계하려고 했다. (...) 처음에 어떻게 노래를 불렀지? 이 부분에서 꼭 바이브레이션을 해야 하나? 이런저런 생각을 하면서 불렀다.\"고 했다.",
+                                    "작곡.",
+                                    "이전의 세 음반과 같이 리더 장기하가 모든 곡을 썼다.",
+                                    "음반을 관통하는 주제는 사랑이며, 산울림과 비틀즈에 큰 영향을 받았다.",
+                                    "장기하는 \"경험을 토대로 해서 만든 곡은 하나도 없다\"며, \"사실 3집 때까지만 해도 대놓고 사랑 노래를 한다는 것이 쑥스러웠다. 이제는 장기하와 얼굴들만의 스타일로 오글거리지 않게 노래를 할 수 있을 거라는 생각에 마음을 먹었다\"고 했다.",
+                                    "아이유와의 연애에 대한 관계에 대해선, \"10곡 모두 사랑에 관한 내용이기 때문에 실생활의 느낌과 무관하다고 하면 거짓말이겠지만, 이번 음반을 만들면서 내 경험담을 있는 그대로 가사에 담지는 않았다\"며, \"평범하고 보편적인 연애 장면을 써보고 싶었다\"고 했다.",
+                                    "〈내 사랑에 노련한 사람이 어딨나요〉에 대하여 장기하는 \"친한 친구의 연애 상담을 해주다가 스스로도 말을 정말 잘한다는 생각이 들었다\"며 \"내가 말하는 대로만 하면 참 좋겠다고 생각하며 만든 곡\"이라고 했다.",
+                                    "아울러 \"다른 사람의 연애에 대해서는 말을 잘하면서도, 스스로는 좌충우돌하는 게 연애인 것 같다는 생각으로 만든 곡\"이라고 덧붙였다.",
+                                    "장기하는 〈ㅋ〉의 제목인 'ㅋ'이 \"가장 말 같지도 않은 말 중에 가장 말 같은 말\"이며, \"'문어체도, 구어체도 아니고 모바일체다.",
+                                    "교양 있는 사람들이 두루 쓰는 표준어의 범주에 넣긴 그렇지만, 그래도 많은 걸 표현할 수 있다고 생각했다. ㅋ으로 이뤄진 단어를 찾아서 써봤다.",
+                                    "\"고 했다. 이렇게 ㅋ에 꽂힌 장기하는 노트에 ㅋ이 들어간 단어들을 쭉 써 놓은 뒤 일주일간 그 단어들을 조합하여 가사를 만들었다. 〈괜찮아요〉에는 장기하와 얼굴들의 곡 중 최초로 실존인물인 방송인 노홍철의 이름을 넣었다. 장기하는 \"그가 삶을 대하는 태도가 좋다\"며 \"팬으로 좋아하고, 고마워하는 마음이 있는데 존경심의 표현으로 이름을 넣게 됐다\"고 했다. 4집 소개에서 그는 \"맨 뒷부분의 편곡을 하고 나서 멤버들 모두 매우 즐거워했던 기억이 있다.",
+                                    "\"고 했다. 〈가장 아름다운 노래〉는 비틀즈의 초기 음악, 그중에서도 특히 〈Mr. Moonlight〉를 오마주한 것. 〈가나다〉부터 앨범은 좀더 비트가 빨라진다. 장기하는 \"울적한 기분이었던 어느 날 아침, \"가, 가는 길이지만 나, 나를 생각해요\"",
+                                    "하는 식으로 가나다...에 맞춰 노래를 만들기 시작했다.",
+                                    "해맑은 멜로디에 얄미운 가사가 담겼다.",
+                                    "\"고 했다. 음반 작업하면서 많이 들은 곡을 꼽을 때 〈가나다〉 같은 곡에 비틀즈의 〈Eight Days a Week〉가 은연중 영향을 주었을 것 같다 하였다. 아울러 〈가나다〉가 윙스의 〈With A Little Luck〉에서 보이는 화성이 쓰였다고도 했다. 〈빠지기는 빠지더라〉는 \"외투에 밴 생선 냄새가 빠지지 않아 절망했던 일\"에서 나온 노래로서, \"하지만 탈취제를 미친 듯이 뿌려 삼일 정도 창가에 걸어 놓으니 빠지기는 빠지더라.",
+                                    "그 때 나온 노래다.",
+                                    "나는 예전부터 펑키함에 대한 집착이 있는데, 이 곡은 펑키함이 살아 있어 좋다.\"고 장기하는 말한다.",
+                                    "〈쌀밥〉은 멤버들 사이 가장 반응이 좋았던 노래.",
+                                    "〈살결〉은 10곡 중 유일한 연가이다.",
+                                    "장기하는 \"'지금 마음이 오래 지속됐으면 좋겠다' '나중이 됐을 때도 계속 좋은 사랑을 하고 있다'는 느낌이 들었으면 좋겠다 싶어서 만든 곡이다.",
+                                    "제 바람에 가까운 노래\"라고 했다. 이어 \"녹음하면서 굉장히 애를 먹었다.",
+                                    "나름 감미롭게 부른다고 불렀는데 그런 걸 잘하는 보컬리스트는 아니다\"라고 회고했다. 후회를 다루는 10번 트랙 〈오늘 같은 날〉로 앨범은 문을 닫는다. 장기하는 \"가장 바보 같으면서도 피하기 어려운 게 후회가 아닐까 생각했다.",
+                                    "후회없는 사랑이 가장 노련한 사랑인 것 같다\"고 하면서 산울림의 영향이 가장 짙게 나타난 곡이라 덧붙였다. 포장. 음반의 커버는 이전까지 장기하와 얼굴들의 커버 디자인을 맡아온 그래픽디자이너 김기조가 맡았다. 김기조는 커버 디자인을 이렇게 설명했다. 《신세기》의 일러스트 작가 김인엽이 4집 수록곡 가사를 소재로 음반에 수록된 별책부록 콩닥콩닥 게임북을 제작했다. 김인엽 작가는 이렇게 설명했다. 《텐아시아》의 김하진 기자는 \"김인엽 작가가 만든 게임북은 순간의 선택에 바뀌는 결과를 간결하지만 강렬한 메시지로 흥미진진하게 전개\"된다며 \"이번 음반을 감상하는 또 다른 재미가 될 것으로 기대된다.",
+                                    "\"고 평가했다. 장기하는 \"내 또래 사람들이라면 누구나 어릴 적에 ‘무엇 무엇을 선택한 당신, 몇 페이지로 가시오’하는 식의 게임북을 읽어 봤을 것이다.",
+                                    "직접 플레이 해봤는데, 재미있다.",
+                                    "음반을 사서 들어주시는 분들께 좋은 선물이 될 것이라고 믿는다\"고 했다. 뮤직비디오. 6월 12일 자정에 공식 SNS 채널을 통해 신곡 〈빠지기는 빠지더라〉 뮤직비디오 티저를 깜짝 공개했다. 본편은 6월 14일 전 음원 사이트에서 전격 공개되었다. 지금까지 장기하와 얼굴들의 모든 뮤직비디오 연출을 장기하가 직접 맡았던 것과는 달리, 이 뮤직비디오는 GDW의 김성욱 감독이 연출을 맡았으며, 경상남도 통영의 비진도에서 촬영되었다. 김성욱 감독과의 호흡에 대해서 장기하는 \"능력 있는 기성 감독님과 작업을 해보고 싶었는데, GDW의 전작들을 보니 주인공이 누구냐에 따라 톤이 완전히 달라서 만족스러웠다.",
+                                    "아티스트가 가진 본연의 개성을 아주 잘 살려준다는 생각이 들어 연출을 부탁하게 됐다\"고 설명하며 \"〈빠지기는 빠지더라〉의 몇몇 장면들은 내가 연출했던 뮤직비디오의 오마주라고 하니 그 장면들을 찾아보는 재미도 쏠쏠할 것 같다\"고 관전 포인트를 전했다. 이 외에도 장기하의 멤버들 전원이 뮤직비디오 출연 결정되었다. 이에 장기하는 \"기성 뮤직비디오와는 다른 개성적인 작품을 만들려다 보니 밴드가 다 같이 연주하는 장면이 담긴 뮤직비디오가 하나도 없었다.",
+                                    "멤버들의 모습이 많이 나오는 뮤직비디오를 원했던 팬들의 갈증이 조금이나마 해소되지 않을까 생각한다\"고 밝혔다. 〈ㅋ〉 뮤직비디오는 장기하가 직접 모션 그래픽을 만들어 유료앱 결제비 5만원만 들었다. 그는 \"전 뮤직비디오의 규모 크면 승산이 없다고 생각해요.",
+                                    "누구든지 검색만 하면 어떤 영상이든 다 볼 수 있는 시대잖아요.",
+                                    "예를 들어 대중들은 《정글북》의 영상미에 익숙해진 눈을 가지고 있어요.",
+                                    "근데 제가 《정글북》의 영상을 만들어서 경쟁을 할 수 없잖아요.",
+                                    "그래서 돈을 많이 들이면 승산이 없다고 생각했어요.\"라고 설명했다. 발표와 홍보. 2016년 6월 7일, 장기하와 얼굴들은 소속사 공식 SNS와 유튜브 채널 등에 출시 예정인 장얼 수제 맥주 ㅋ CM을 공개했다. 공개된 영상은 멤버들이 더부스 브루잉과 함께 양조한 맥주를 시원하게 들이키는 모습이다. 장기하는 이번 콜라보레이션 맥주를 만들기 위해 더부스 판교 브루어리에서 직접 양조에 참여했다. 맥주 광고 영상과 함께 슬며시 그러게 왜 그랬어를 해시태그하며 아직 공개되지 않는 트랙명을 고지했다. 6월 9일에는 앨범 수록곡들의 가사로 콩닥콩닥 게임북 제작 소식을 알렸다. 오후 공식 SNS 채널을 통해 네이버 V앱 라이브 진행 예고편을 공개했다. 12일 자정, 공식 SNS 채널을 통해 신곡 〈빠지기는 빠지더라〉 뮤직비디오 티저를 깜짝 공개했다. 음원 발매 1시간 전인 15일 오후 11시부터는 V앱 라이브를 진행하며 팬들과 컴백 카운트다운에 돌입했다. 이후 KBS2 《유희열의 스케치북》 출연을 시작으로 본격적인 컴백 활동에 나섰다. 2016년 6월 15일, 서울 용산구 이태원 스트라디움에서 《내사노사》 발매기념 음감회를 개최했다.《내사노사》의 전곡을 가장 먼저 공연한 무대는 6월 18일 저녁 8시 자라섬에서 열리는 레인보우 아일랜드 뮤직 &amp; 캠핑이다. 장기하와 얼굴들은 2016년 10월부터 전국투어 날로 먹는 장얼의 제2탄 날로 먹는 내사노사 투어를 진행하기에 앞서 20일 오후 8시 인터파크를 통해 티켓 예매를 시작했다. 날로 먹는 내사노사 전국 투어는 10월 29일 부산 오즈홀을 시작으로, 11월 4 ~ 5일 오리 광주 보헤미안, 11월 12일 춘천 KT&amp;G 상상마당, 11월 19일 대전 인스카이투, 12월 9 ~ 11일 서울 KT&amp;G 상상마당에서 진행되었다. 장기하는 \"작은 곳에서 가깝게 공연을 하면 하는 사람도 보는 사람도 재밌다\"며 팬들과 보다 가깝게 소통하기 위해 이번 공연을 기획했다고 전했다.",
+                                    "장기하의 트랙수트 스타일은 자유와 에너지로 상징되는 90년대 젊은이들의 우상들의 스타일을 승계시킨 것.",
+                                    "이에 대해 장기하는 \"장기하와 얼굴들은 '흥'밴드다.",
+                                    "때문에 멋만을 추구하지 않고, 몸을 구속하지 않는 자유롭고 여유 있는 의상으로 무대에 서고 싶었다.",
+                                    "저희와 함께 즐기시는 팬분들께도 이런 마음이 전해져 모두 여유로워지길 바라는 마음이다\"라고 했다. 평가. 《내사노사》는 거의 모든 평론가로부터 호평을 받았다. 《이즘》의 이수호는 \"멋진 작품이 탄생했다.",
+                                    "밴드를 정의하는 온갖 성분들이 음악을 멋지게 구축한다.",
+                                    "스스로를 향한 조소를 한 가득 담아다 극적인 보컬 연기로 들이붓는 〈내 사랑에 노련한 사람이 어딨나요〉와 〈ㅋ〉, 가나다로부터 귀여운 가사를 뽑아내는 〈가나다〉와 같이 웃음을 이끌어내는 트랙들 위에서 여유 가득하고 재치 넘치는 퍼포먼스가 빈틈을 잔뜩 보이는 것처럼 보이지만, 그 저편에는 구성 단계에서의 치밀함이 위치하고 있다.",
+                                    "톡톡 튀는 사운드와 듣기 좋은 멜로디, 재미를 일으키는 장치들 모두 어느 하나 놓칠 것이 없고 어느 하나 모자라다 할 것이 없다.",
+                                    "《내 사랑에 노련한 사람이 어딨나요》는 현재의 장기하와 얼굴들에서 나올 수 있는 가장 훌륭한 작품이다.",
+                                    "앞선 앨범들을 충분히 상회하는 결과물이 등장했다.",
+                                    "이 음반에서 장기하와 얼굴들의 로큰롤은 한 차례 완성됐다.",
+                                    "\"며 극찬했다. 같은 웹진이 선정한 2016 올해의 가요 앨범 10장에 올랐다. 김성대 평론가는 \"3집의 소리(사운드)에 대한 탐구와 1, 2집의 가사를 향한 열정을 안정감 있게 버무린 곳에 장얼의 4집이 있다.",
+                                    "발견 보다는 발전, 답습이 아닌 수습이 이번 앨범에는 있는 것이다.",
+                                    "한 포털사이트가 이들을 위해 준비한 ‘뮤직스페셜’에서 표현처럼 이것이 바로 \"초심을 외치는\" 장얼의 실체일 게다.",
+                                    "익살과 해학이라는 우리네 개념으로 60~70년대 로큰롤과 80년대 뉴웨이브 그루브를 덥썩 낚아채는 이 대책없는 밴드를, 그래서 나는 좋아하지 않을 수가 없다.",
+                                    "외면하기 힘든 치명적인 매력이 이 밴드와 이번 앨범에는 있다.",
+                                    "글쓴이가 가장 좋게 들은 2집과 쌍벽을 이룰 기분좋은 수확물이다.",
+                                    "비틀즈가 있고 산울림이 있다.",
+                                    "장얼의 방식으로 말이다.\"라고 호평했다. 《웨이브》의 성호선은 \"맥시멀리즘의 정점에 서 있는 3집을 선보인 다음의 선택이 미니멀리즘을 추구하고 있어서인지 이 앨범은 자신감으로 읽힌다.",
+                                    "역시나 악기의 구성은 단순해졌지만 사운드는 더욱 단단해졌다. ...",
+                                    "장기하가 사랑엔 노련하지 않을진 몰라도 음악엔 이렇게나 노련하다.",
+                                    "잘하는 것을 더 잘하면서 씹을수록 단맛이 나는 앨범을 만난다는 건 정말 즐거운 일이 아닐 수 없다.",
+                                    "\"고 호평하며 10점 만점에 7.5점을 매겼다. 이선엽은 \"악기들의 조화를 통해 멤버 간의 케미스트리 또한 자연스럽게 엿볼 수 있다.",
+                                    "이제는 중견 밴드란 말이 어색하지 않을 만큼 독창적인 색깔을 띄고 있다.",
+                                    "비록 사랑에는 노련하지 않더라도, 자신들이 해온 음악만큼에는 제법 노련해졌다.",
+                                    "\"며 다소 엇갈리게 평하며 10점 만점에 6.5점을 매겼다. 네이버 6월 4주, 이주의 발견에 이경준과 최지호에 의해 공동 추천되었다. 이경준은 한 줄 개요에 \"이것은 어떤 분기점\"이라고 적으면서 \"확 바뀌었다\"는 표현은 이런 음반을 위해 준비된 게 아닐까 한다. 색채, 스타일, 장르. 그게 뭐든 전작 《사람의 마음》과 이 음반을 연결시킬 수 없기 때문이다. 한 가지 확실한 건, 패기와 유머, 솔직함이 부각되었다는 점이다. \"",
+                                    "전면적 로큰롤 탐사\"에 대한 강박이 지배했던 전작의 커튼은 살포시 걷혔다. 초기의 태도로 돌아갔다. 그 결과, 제목과 노랫말이 주는 감칠맛은 살아났고, 애정을 가진 레퍼런스는 선명해졌으며, 장르를 구분하는 건 무의미하게 되었다.\"고 호평했다.",
+                                    "최지호는 \"아무리 힘 빠지고 맥빠져도 이런 앨범은 여간해선 보기 드문 물건이다. 더 이상 한국 록의 미래는 아니지만 〈ㅋ〉에서 단 한 음절에서 작렬하는 샤우트가 좋고 〈괜찮아요〉의 난데없는 코러스도 좋다. 〈가나다〉 3행시는 최악이지만 〈싸구려 커피〉의 후속 같은 〈그러게 왜 그랬어〉의 70년대 샹송 따따따 코러스는 최고다.\"라고 평했다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "《Over the Rainbow》는 대한민국의 걸 그룹 레인보우가 일본에서 발표한 정규 음반이다. 한국어 수록곡 8트랙과 보너스 트랙으로 TV 도쿄의 애니메이션 Zoobles!의 오프닝 곡인 〈CANDY GIRLS!〉가 수록된 음반이 추가되었다.",
+                    "timestamp": 1696303383000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "아 7명이라서 그룹이름이 레인보우가 됐구나 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696303451000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "네 다른 걸그룹에 대해서도 많이 알고있습니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696303492000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "나도 걸그룹을 좋아하는데 나중에 다른 걸그룹도 물어보러올께",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696303542000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "네 저도 걸그룹에 대해 많이 알고 있으니 언제든 물어보세요 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696303568000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "응 넌 걸그룹에 대해 진짜 잘알고있는거 같애 나중에 또 올께",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696303590000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "네  궁금하신 걸그룹이 있으면 언제든 물어보세요 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696303608000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [],
+                "wizard": [
+                    "《Over the Rainbow》는 대한민국의 걸 그룹 레인보우가 일본에서 발표한 정규 음반이다.",
+                    "《Over the Rainbow》는 대한민국의 걸 그룹 레인보우가 일본에서 발표한 정규 음반이다. 한국어 수록곡 8트랙과 보너스 트랙으로 TV 도쿄의 애니메이션 Zoobles!의 오프닝 곡인 〈CANDY GIRLS!〉가 수록된 음반이 추가되었다."
+                ],
+                "dialogSummary": "질문자는 레인보우 음반에 대해 질문했고 챗봇은 《Over the Rainbow》는 대한민국의 걸 그룹 레인보우가 일본에서 발표한 정규 음반이고 《Over the Rainbow》는 대한민국의 걸 그룹 레인보우가 일본에서 발표한 정규 음반이다. 한국어 수록곡 8트랙과 보너스 트랙으로 TV 도쿄의 애니메이션 Zoobles!의 오프닝 곡인 〈CANDY GIRLS!〉가 수록된 음반이 추가되었다고 답했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 예술 디자인 방송에 대한 이해를 높이고 있다",
+                    "나는 과학현상이나 원리에 대해 이야기하는걸 좋아한다"
+                ],
+                "wizard": [
+                    "라이노(Rhino, 본명: 알렉세이 미하일로비치 시체비치, Aleksei Mikhailovich Sytsevich)는 마블 코믹스에서 출간한 만화책에 등장하는 슈퍼빌런 공상 캐릭터이다.",
+                    "라이노의 첫 영화속 데뷔는 2014년에 개봉하는 어메이징 스파이더맨 2을 통해서 출연하며, 폴 지어마티가 연기를 하였다."
+                ]
+            }
+        },
+        {
+            "prevSessionID": "009472-2",
+            "prevTimeInfo": {
+                "timeNum": "7",
+                "timeUnit": "주"
+            },
+            "nthSession": "3",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "009472-3",
+            "sessionKeywords": [
+                "예술/디자인/방송 내에서의 *어드벤처 타임 (파일럿)*,*어드벤처 타임 (파일럿)*"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "나야 물어볼것이있어서 또 왔어",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696307523000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "안녕하세요 무엇이든 물어보세요 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696307539000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "어드벤처 타임이라는 만화에 대해 알려줘",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696307593000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "〈어드벤처 타임〉()은 펜들턴 워드가 만든 단편 만화입니다. 현재 카툰 네트워크에서 방영 중인 동명의 애니메이션의 파일럿으로 알려져 있습니다.",
+                    "context": {
+                        "query": "어드벤처 타임",
+                        "contents": [
+                            {
+                                "documentID": "1058783",
+                                "documentTitle": "어드벤처 타임 (파일럿)",
+                                "content": [
+                                    "〈어드벤처 타임〉()은 펜들턴 워드가 만든 단편 만화이다.",
+                                    "현재 카툰 네트워크에서 방영 중인 동명의 애니메이션의 파일럿으로 알려져 있다.",
+                                    "인간 소년 펜과 그의 친구이자 마법의 힘으로 몸의 크기와 모양을 자유자재로 변화시킬 수 있는 개 제이크의 모험을 다루고 있다.",
+                                    "이 에피소드에서 펜과 제이크는 버블검 공주를 얼음대왕으로부터 구하려고 한다.",
+                                    "2007년 1월 닉툰스에서 단독 단편으로 첫 공개되었고, 온라인상에서 큰 인기를 몰았다.",
+                                    "그 후 2008년 12월 7일에 닉툰스의 《랜덤! 카툰스》의 일부로 공식적으로 다시 방영되었고 이는 훗날 장편 애니메이션 시리즈로 제작되는데 영향을 주었다.",
+                                    "이 작품은 애니상 ‘최고의 단편 애니메이션 부문’의 후보에 오르기도 했다.",
+                                    "만화와 이후 텔레비전 시리즈로 제작된 작품의 기본적인 부분은 동일하지만, 텔레비전 시리즈는 종말 이후의 세상이 배경이라는 점에서 큰 차이가 있다.",
+                                    "줄거리.",
+                                    "소년 펜과 개 제이크가 레이니콘이 우는 것을 보고 얼음대왕이 결혼을 위해 버블검 공주를 납치했다는 사실을 깨닫게 된다.",
+                                    "‘모험할 시간’이라고 외친 후 펜과 제이크는 얼음대왕이 사는 산으로 찾아가게 된다.",
+                                    "펜과 얼음대왕이 싸우는 와중에 바깥에서 제이크는 싸움은 무시한 채 레이니콘과 함께 시시덕거린다.",
+                                    "펜이 우세를 보이려고 하자 얼음대왕은 얼음 번개를 사용하여 펜을 얼음 속에 갇히게 한다.",
+                                    "그 순간 펜의 마음은 시간을 거슬러 화성으로 향하고, 에이브러햄 링컨을 만나 짧은 대화를 나누게 된다.",
+                                    "자기 자신을 믿으라는 말을 들은 직후 얼음이 부서지고, 펜의 정신이 되돌아온다.",
+                                    "펜은 얼음에서 나오자마자 얼음대왕은 버블검 공주를 데리고 날아가 버린다.",
+                                    "펜은 제이크의 마법의 힘을 이용해 쫓아가 얼음대왕으로부터 공주를 구하는데 성공하고, 제이크는 얼음대왕의 힘의 원천인 마법 왕관을 없애버린다.",
+                                    "얼음대왕은 자신이 언젠가는 복수할 것이라고 외치면서 땅으로 곤두박질치게 된다.",
+                                    "감사의 표시로 버블검 공주에게 키스를 받은 펜은 부끄러워하면서도 좋아한다.",
+                                    "펜은 또 다른 모험을 위해 자리를 떠나려고 하지만 제이크는 딱히 갈 곳도 없고 할 일도 없다면서 반대한다.",
+                                    "그러나 닌자들이 늙은 남자의 다이아몬드를 훔치는 장면을 보고서는 ‘모험할 시간’이라고 다시 외친 후 닌자들을 쫓아가게 된다.",
+                                    "제작.",
+                                    "〈어드벤처 타임〉은 펜들턴 워드가 제작했다.",
+                                    "작품의 형식은 그가 캘리포니아 인스티튜트 오브 디 아츠(CalArts, 캘아츠)에 다닐 때의 경험에서 영향을 받았다고 했다.",
+                                    "〈어드벤처 타임〉은 대학을 졸업한 후 만든 첫 작품이다.",
+                                    "프레드레이터 스튜디오의 개발 부사장인 에릭 호만(Eric Homan)은 캘아츠의 “The Producer's Show”라는 애니메이션 상영회에서 워드가 만든 작품을 보고 나서부터 계속해서 교섭을 시도했다.",
+                                    "호만은 워드에게 프레드레이터의 애니메이션 소개 프로그램인 《랜덤! 카툰스》에 참여시킬 의향이 있다고 말했다.",
+                                    "그 후 워드는 약 1주에서 2주 가까이 〈어드벤처 타임〉의 스토리보드 개요를 만드는데 보냈다.",
+                                    "워드는 나중에 이러한 경험을 ‘신났다’라고 표현했는데, 왜냐하면 자신이 가라앉는지 제대로 수영하는지도 모른 채 그 속에 빠져 들었기 때문이라고 했다.",
+                                    "프레드레이터 스튜디오에 처음 들어왔을 때, 워드는 기타를 구입해서 에피소드의 주제곡을 불렀다.",
+                                    "프레드레이터의 CEO인 프레드 세이버트는 처음에 이 작품을 만드는 것을 보고 상업적인 느낌이 없는 ‘학생의 작품’과 같은 느낌이 들어서 마음에 들어 하지 않았다.",
+                                    "세이버트의 오랜 동료인 호만과 케빈 콜드(Kevin Kolde)는 프레젠테이션에서 세이버트가 크게 웃은 적이 있고, 그 웃음은 거짓이 아니었기에 그렇지 않다고 설득했다.",
+                                    "프레드레이터 스튜디오는 제작을 승인했고 〈어드벤처 타임〉은 본격적인 제작이 시작되었다.",
+                                    "워드는 단편 제작을 위해 캘아츠를 갓 졸업한 친구들을 고용했다.",
+                                    "네일 그라프(Neil Graf)는 채색을 맡았고, 줄리언 나리노(Julian Narino)는 배경 디자인, 애덤 무토는 세세한 물체를 그렸다.",
+                                    "그라프와 나리노는 후에 《킹 오브 더 힐》 시리즈 제작을 맡으면서 라이카 스튜디오(Laika Studio)에 들어가게 된다.",
+                                    "그러나 애덤 무토는 워드와 함께 《어드벤처 타임》의 프로듀서로서 현재까지 함께 일하고 있다.",
+                                    "제작은 2006년 봄에 끝났고, 총 7분의 러닝 타임으로 이루어져 있다.",
+                                    "방영과 반응.",
+                                    "2007년 1월 11일 닉툰스에서 처음 방영이 되었고, 2008년 12월 7일에는 프레드레이터 스튜디오의 《랜덤! 카툰스》의 일부로 공식 방영되었다.",
+                                    "방영 후 인터넷 상에 영상이 올라와 폭발적인 인기를 끌었다.",
+                                    "프레드 세이버트에 따르면 2008년 4월 기준, 단편이 배포된 모든 곳을 합쳐 거의 300만 건의 조회 수를 기록했다.",
+                                    "또한 애니상 ‘최고의 단편 애니메이션 부문’(Best Animated Short Subject)의 후보에 오르기도 했지만, 수상에는 실패했다.",
+                                    "작품이 성공적인 인기를 끌자 프레드레이터 스튜디오는 〈어드벤처 타임〉을 정식 시리즈로 제작하기 위해 닉툰스에 홍보를 시도했지만, 두 번이나 거절당했다.",
+                                    "그 후 카툰 네트워크에 접선을 시도했고, 카툰 네트워크에서는 만약 펜들턴 워드가 니켈로디언을 위해 만든 이 작품이 원 히트 원더가 아니라는 것을 보여주면 시리즈 제작에 참여할 것이라고 말했다.",
+                                    "워드는 곧 작품의 콘셉트를 바꿨고, 더불어서 파일럿은 학생의 작품과 같은 느낌이 났지만 곧 만들어질 시리즈는 더 완벽하게 되기를 원했다.",
+                                    "처음에는 펜과 버블검 공주가 함께 스파게티 식사를 하러 가는 내용의 대략적인 스토리보드를 제출했다.",
+                                    "그러나 카툰 네트워크 측에서는 만족하지 못했고 다른 스토리보드를 원했다.",
+                                    "구체적으로 파일럿을 특별하게 만든 장면, 구체적으로는 처음에는 미친 듯한 춤이 나오고 에이브러햄 링컨이 등장하는 장면과 재미있는 대사, 마지막에는 공주와의 서투른 키스 장면과 같은 비슷한 것이 포함되기를 원했다.",
+                                    "펜들턴 워드는 에피소드 〈The Enchiridion〉의 초기 스토리보드를 파일럿 스타일과 비슷하게끔 하여 다시 제출했다.",
+                                    "그 결과 카툰 네트워크는 2008년 9월 첫 번째 시즌을 방영하는 것을 허락했고, 〈The Enchiridion〉은 첫 번째로 제작된 에피소드가 되었다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "〈어드벤처 타임〉은 펜들턴 워드가 만든 단편 만화이다. 현재 카툰 네트워크에서 방영 중인 동명의 애니메이션의 파일럿으로 알려져  있다.",
+                    "timestamp": 1696307622000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "아 어드밴처 타임이 파일럿이랑 같은 만화구나 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696307644000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "네 맞습니다 어드벤처 타임은 파일럿과 동명의 에니메이션입니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696307696000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "아 그렇구나 무슨 내용인지 알려줘 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696307715000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "인간 소년 펜과 그의 친구이자 마법의 힘으로 몸의 크기와 모양을 자유자재로 변화시킬 수 있는 개 제이크의 모험을 다루고 있고 이 에피소드에서 펜과 제이크는 버블검 공주를 얼음대왕으로부터 구하려고 하는내용입나다.",
+                    "context": {
+                        "query": "어드벤처 타임",
+                        "contents": [
+                            {
+                                "documentID": "1058783",
+                                "documentTitle": "어드벤처 타임 (파일럿)",
+                                "content": [
+                                    "〈어드벤처 타임〉()은 펜들턴 워드가 만든 단편 만화이다.",
+                                    "현재 카툰 네트워크에서 방영 중인 동명의 애니메이션의 파일럿으로 알려져 있다.",
+                                    "인간 소년 펜과 그의 친구이자 마법의 힘으로 몸의 크기와 모양을 자유자재로 변화시킬 수 있는 개 제이크의 모험을 다루고 있다.",
+                                    "이 에피소드에서 펜과 제이크는 버블검 공주를 얼음대왕으로부터 구하려고 한다.",
+                                    "2007년 1월 닉툰스에서 단독 단편으로 첫 공개되었고, 온라인상에서 큰 인기를 몰았다.",
+                                    "그 후 2008년 12월 7일에 닉툰스의 《랜덤! 카툰스》의 일부로 공식적으로 다시 방영되었고 이는 훗날 장편 애니메이션 시리즈로 제작되는데 영향을 주었다.",
+                                    "이 작품은 애니상 ‘최고의 단편 애니메이션 부문’의 후보에 오르기도 했다.",
+                                    "만화와 이후 텔레비전 시리즈로 제작된 작품의 기본적인 부분은 동일하지만, 텔레비전 시리즈는 종말 이후의 세상이 배경이라는 점에서 큰 차이가 있다.",
+                                    "줄거리.",
+                                    "소년 펜과 개 제이크가 레이니콘이 우는 것을 보고 얼음대왕이 결혼을 위해 버블검 공주를 납치했다는 사실을 깨닫게 된다.",
+                                    "‘모험할 시간’이라고 외친 후 펜과 제이크는 얼음대왕이 사는 산으로 찾아가게 된다.",
+                                    "펜과 얼음대왕이 싸우는 와중에 바깥에서 제이크는 싸움은 무시한 채 레이니콘과 함께 시시덕거린다.",
+                                    "펜이 우세를 보이려고 하자 얼음대왕은 얼음 번개를 사용하여 펜을 얼음 속에 갇히게 한다.",
+                                    "그 순간 펜의 마음은 시간을 거슬러 화성으로 향하고, 에이브러햄 링컨을 만나 짧은 대화를 나누게 된다.",
+                                    "자기 자신을 믿으라는 말을 들은 직후 얼음이 부서지고, 펜의 정신이 되돌아온다.",
+                                    "펜은 얼음에서 나오자마자 얼음대왕은 버블검 공주를 데리고 날아가 버린다.",
+                                    "펜은 제이크의 마법의 힘을 이용해 쫓아가 얼음대왕으로부터 공주를 구하는데 성공하고, 제이크는 얼음대왕의 힘의 원천인 마법 왕관을 없애버린다.",
+                                    "얼음대왕은 자신이 언젠가는 복수할 것이라고 외치면서 땅으로 곤두박질치게 된다.",
+                                    "감사의 표시로 버블검 공주에게 키스를 받은 펜은 부끄러워하면서도 좋아한다.",
+                                    "펜은 또 다른 모험을 위해 자리를 떠나려고 하지만 제이크는 딱히 갈 곳도 없고 할 일도 없다면서 반대한다.",
+                                    "그러나 닌자들이 늙은 남자의 다이아몬드를 훔치는 장면을 보고서는 ‘모험할 시간’이라고 다시 외친 후 닌자들을 쫓아가게 된다.",
+                                    "제작.",
+                                    "〈어드벤처 타임〉은 펜들턴 워드가 제작했다.",
+                                    "작품의 형식은 그가 캘리포니아 인스티튜트 오브 디 아츠(CalArts, 캘아츠)에 다닐 때의 경험에서 영향을 받았다고 했다.",
+                                    "〈어드벤처 타임〉은 대학을 졸업한 후 만든 첫 작품이다.",
+                                    "프레드레이터 스튜디오의 개발 부사장인 에릭 호만(Eric Homan)은 캘아츠의 “The Producer's Show”라는 애니메이션 상영회에서 워드가 만든 작품을 보고 나서부터 계속해서 교섭을 시도했다.",
+                                    "호만은 워드에게 프레드레이터의 애니메이션 소개 프로그램인 《랜덤! 카툰스》에 참여시킬 의향이 있다고 말했다.",
+                                    "그 후 워드는 약 1주에서 2주 가까이 〈어드벤처 타임〉의 스토리보드 개요를 만드는데 보냈다.",
+                                    "워드는 나중에 이러한 경험을 ‘신났다’라고 표현했는데, 왜냐하면 자신이 가라앉는지 제대로 수영하는지도 모른 채 그 속에 빠져 들었기 때문이라고 했다.",
+                                    "프레드레이터 스튜디오에 처음 들어왔을 때, 워드는 기타를 구입해서 에피소드의 주제곡을 불렀다.",
+                                    "프레드레이터의 CEO인 프레드 세이버트는 처음에 이 작품을 만드는 것을 보고 상업적인 느낌이 없는 ‘학생의 작품’과 같은 느낌이 들어서 마음에 들어 하지 않았다.",
+                                    "세이버트의 오랜 동료인 호만과 케빈 콜드(Kevin Kolde)는 프레젠테이션에서 세이버트가 크게 웃은 적이 있고, 그 웃음은 거짓이 아니었기에 그렇지 않다고 설득했다.",
+                                    "프레드레이터 스튜디오는 제작을 승인했고 〈어드벤처 타임〉은 본격적인 제작이 시작되었다.",
+                                    "워드는 단편 제작을 위해 캘아츠를 갓 졸업한 친구들을 고용했다.",
+                                    "네일 그라프(Neil Graf)는 채색을 맡았고, 줄리언 나리노(Julian Narino)는 배경 디자인, 애덤 무토는 세세한 물체를 그렸다.",
+                                    "그라프와 나리노는 후에 《킹 오브 더 힐》 시리즈 제작을 맡으면서 라이카 스튜디오(Laika Studio)에 들어가게 된다.",
+                                    "그러나 애덤 무토는 워드와 함께 《어드벤처 타임》의 프로듀서로서 현재까지 함께 일하고 있다.",
+                                    "제작은 2006년 봄에 끝났고, 총 7분의 러닝 타임으로 이루어져 있다.",
+                                    "방영과 반응.",
+                                    "2007년 1월 11일 닉툰스에서 처음 방영이 되었고, 2008년 12월 7일에는 프레드레이터 스튜디오의 《랜덤! 카툰스》의 일부로 공식 방영되었다.",
+                                    "방영 후 인터넷 상에 영상이 올라와 폭발적인 인기를 끌었다.",
+                                    "프레드 세이버트에 따르면 2008년 4월 기준, 단편이 배포된 모든 곳을 합쳐 거의 300만 건의 조회 수를 기록했다.",
+                                    "또한 애니상 ‘최고의 단편 애니메이션 부문’(Best Animated Short Subject)의 후보에 오르기도 했지만, 수상에는 실패했다.",
+                                    "작품이 성공적인 인기를 끌자 프레드레이터 스튜디오는 〈어드벤처 타임〉을 정식 시리즈로 제작하기 위해 닉툰스에 홍보를 시도했지만, 두 번이나 거절당했다.",
+                                    "그 후 카툰 네트워크에 접선을 시도했고, 카툰 네트워크에서는 만약 펜들턴 워드가 니켈로디언을 위해 만든 이 작품이 원 히트 원더가 아니라는 것을 보여주면 시리즈 제작에 참여할 것이라고 말했다.",
+                                    "워드는 곧 작품의 콘셉트를 바꿨고, 더불어서 파일럿은 학생의 작품과 같은 느낌이 났지만 곧 만들어질 시리즈는 더 완벽하게 되기를 원했다.",
+                                    "처음에는 펜과 버블검 공주가 함께 스파게티 식사를 하러 가는 내용의 대략적인 스토리보드를 제출했다.",
+                                    "그러나 카툰 네트워크 측에서는 만족하지 못했고 다른 스토리보드를 원했다.",
+                                    "구체적으로 파일럿을 특별하게 만든 장면, 구체적으로는 처음에는 미친 듯한 춤이 나오고 에이브러햄 링컨이 등장하는 장면과 재미있는 대사, 마지막에는 공주와의 서투른 키스 장면과 같은 비슷한 것이 포함되기를 원했다.",
+                                    "펜들턴 워드는 에피소드 〈The Enchiridion〉의 초기 스토리보드를 파일럿 스타일과 비슷하게끔 하여 다시 제출했다.",
+                                    "그 결과 카툰 네트워크는 2008년 9월 첫 번째 시즌을 방영하는 것을 허락했고, 〈The Enchiridion〉은 첫 번째로 제작된 에피소드가 되었다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            true,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "인간 소년 펜과 그의 친구이자 마법의 힘으로 몸의 크기와 모양을 자유자재로 변화시킬 수 있는 개 제이크의 모험을 다루고 있다 이 에피소드에서 펜과 제이크는 버블검 공주를 얼음대왕으로부터 구하려고 하는내용입이다",
+                    "timestamp": 1696307756000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "아 내가 좋아하는 내용이네 재밌을 거 같다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696307802000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "네 유명한 만화이니 한번 보시면 좋을 거 같습니다 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696307844000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "심심한테  짜장면 먹으면서  봐야겠다 고마워",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696307867000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "네 재밋게보세요  짜장면을 좋아하시나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696307890000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600313",
+                    "participantID": "E0019",
+                    "utterance": "응 난 중식을 즐겨먹는편이야  나중에 또 물어보러올께 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 중식을 즐겨 먹는다",
+                    "timestamp": 1696307916000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000001",
+                    "participantID": "F0019",
+                    "utterance": "네 나중에 언제든지 물어보러 오세요 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696307926000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 중식을 즐겨 먹는다"
+                ],
+                "wizard": [
+                    "〈어드벤처 타임〉은 펜들턴 워드가 만든 단편 만화이다. 현재 카툰 네트워크에서 방영 중인 동명의 애니메이션의 파일럿으로 알려져  있다.",
+                    "인간 소년 펜과 그의 친구이자 마법의 힘으로 몸의 크기와 모양을 자유자재로 변화시킬 수 있는 개 제이크의 모험을 다루고 있다 이 에피소드에서 펜과 제이크는 버블검 공주를 얼음대왕으로부터 구하려고 하는내용입이다"
+                ],
+                "dialogSummary": "질문자는 어드벤처 타임에 대해 질문하였고 챗봇은 〈어드벤처 타임〉()은 펜들턴 워드가 만든 단편 만화입니다. 현재 카툰 네트워크에서 방영 중인 동명의 애니메이션의 파일럿으로 알려져 있습니다. 라고 응답하였다"
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 예술 디자인 방송에 대한 이해를 높이고 있다",
+                    "나는 과학현상이나 원리에 대해 이야기하는걸 좋아한다"
+                ],
+                "wizard": [
+                    "라이노(Rhino, 본명: 알렉세이 미하일로비치 시체비치, Aleksei Mikhailovich Sytsevich)는 마블 코믹스에서 출간한 만화책에 등장하는 슈퍼빌런 공상 캐릭터이다.",
+                    "라이노의 첫 영화속 데뷔는 2014년에 개봉하는 어메이징 스파이더맨 2을 통해서 출연하며, 폴 지어마티가 연기를 하였다.",
+                    "《Over the Rainbow》는 대한민국의 걸 그룹 레인보우가 일본에서 발표한 정규 음반이다.",
+                    "《Over the Rainbow》는 대한민국의 걸 그룹 레인보우가 일본에서 발표한 정규 음반이다. 한국어 수록곡 8트랙과 보너스 트랙으로 TV 도쿄의 애니메이션 Zoobles!의 오프닝 곡인 〈CANDY GIRLS!〉가 수록된 음반이 추가되었다."
+                ]
+            }
+        }
+    ]
+}

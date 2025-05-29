@@ -1,0 +1,628 @@
+{
+  "FileInfo": {
+    "filename": "K3-00015-CL30496-CP52020-12-12-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "3507",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "전문직",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "대전/세종/충청/강원",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "3843",
+      "gender": "여성",
+      "age": "40대",
+      "occupation": "주부",
+      "bPlace": "부산/대구/울산/경상",
+      "gPlace": "부산/대구/울산/경상",
+      "rPlace": "부산/대구/울산/경상",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00015"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "30496",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 정치외교학과를 전공했다",
+        "나는 자주 외롭다",
+        "나는 드럼 연주를 가끔 한다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "52020",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 50대이다.",
+        "나는 교수이다",
+        "나는 수영을 좋아한다",
+        "나는 무화과를 싫어한다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "12-12",
+    "topicType": "여가와 오락>여행",
+    "topicTitle": "패키지"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00015-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "안녕하세요. 저는 30대 남성입니다.",
+          "summary": "나는 30대 남성이다",
+          "date": "2022-10-26",
+          "time": "11:33:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "안녕하세요. 저는 50대 여성입니다.",
+          "summary": "나는 50대 여성이다.",
+          "date": "2022-10-26",
+          "time": "11:33:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "저는 정치외교학과를 전공했어요.",
+          "summary": "나는 정치외교학과를 전공했다.",
+          "date": "2022-10-26",
+          "time": "11:34:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "아 그러시구나. 저는 교수에요.",
+          "summary": "나는 교수이다.",
+          "date": "2022-10-26",
+          "time": "11:41:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "멋진 직업이네요. 제 취미는 드럼연주인데 요즘은 가끔 해요. 취미가 있나요?",
+          "summary": "나는 드럼 연주를 가끔 한다",
+          "date": "2022-10-26",
+          "time": "11:41:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "저는 수영을 좋아해서 수영이 취미에요.",
+          "summary": "나는 수영을 좋아하고 취미이다.",
+          "date": "2022-10-26",
+          "time": "11:43:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "수영 재밌겠네요. 저도 한번 배워보고 싶었어요",
+          "summary": "나는 수영을 배워보고 싶다.",
+          "date": "2022-10-26",
+          "time": "11:44:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "꼭 해보세요. 요즘 무화과가 많이 나오던데 좋아하세요?",
+          "summary": "나는 요즘 무화과가 많이 나오는 것 같다.",
+          "date": "2022-10-26",
+          "time": "11:49:27",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "무화과를 따로 먹어본 기억은 없는데요",
+          "summary": "나는 무화과를 먹어본 기억이 없다.",
+          "date": "2022-10-26",
+          "time": "11:50:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "아 그러시구나. 저는 어릴때 많이 먹어봤는데 지금은 무화과가 싫더라구요.",
+          "summary": "나는 어릴 적엔 많이 먹었는데 지금은 무화과를 싫어한다",
+          "date": "2022-10-26",
+          "time": "11:56:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "그렇군요. 저는 날씨가 추워져서 그런지 요즘 자주 외롭다는 생각이 들어요",
+          "summary": "나는 외롭다는 생각이 든다.",
+          "date": "2022-10-26",
+          "time": "11:57:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "가을은 남자의 계절이라더니 가을 타시나 보네요.",
+          "summary": "나는 가을은 남자의 계절인 것 같다.",
+          "date": "2022-10-26",
+          "time": "12:03:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "그런가봐요. 드럼치면서 마음을 좀 달래야겠네요",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "12:04:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "악기연주가 마음을 달래기에 좋죠. 저는 연주는 못하니 음악이나 들어야겠어요. 가볼께요.",
+          "summary": "나는 악기 연주는 못하니 음악을 들어 마음을 달래야겠다.",
+          "date": "2022-10-26",
+          "time": "12:09:40",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 남성이다",
+          "나는 정치외교학과를 전공했다.",
+          "나는 드럼 연주를 가끔 한다",
+          "나는 수영을 배워보고 싶다.",
+          "나는 무화과를 먹어본 기억이 없다.",
+          "나는 외롭다는 생각이 든다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나는 교수이다.",
+          "나는 수영을 좋아하고 취미이다.",
+          "나는 요즘 무화과가 많이 나오는 것 같다.",
+          "나는 어릴 적엔 많이 먹었는데 지금은 무화과를 싫어한다",
+          "나는 가을은 남자의 계절인 것 같다.",
+          "나는 악기 연주는 못하니 음악을 들어 마음을 달래야겠다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00015-1",
+      "prevTimeInfo": {
+        "timeNum": "5",
+        "timeUnit": "시간"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00015-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "5시간이 지났네요. 일만 하니까 너무 여행가고싶어요",
+          "summary": "나는 여행이 가고 싶다",
+          "date": "2022-10-26",
+          "time": "12:15:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "연차가 남았으면 휴가내고 다녀오시는 것도 괜찮을 것 같아요.",
+          "summary": "나는 연차가 남았으면 휴가 내고 다녀오는 것도 좋겠다.",
+          "date": "2022-10-26",
+          "time": "12:21:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "그래야겠어요. 너무 바빠서 여행계획 세울 시간이 없어서 패키지로 다녀올까해요",
+          "summary": "나는 여행 계획을 세울 시간이 없어서 패키지로 갈려고 한다.",
+          "date": "2022-10-26",
+          "time": "12:22:24",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "패키지 여행도 괜찮을 것 같아요.",
+          "summary": "나는 패키지도 괜찮을 것 같다.",
+          "date": "2022-10-26",
+          "time": "12:26:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "마음같아서는 해외가고 싶은데 시간이 없어서 국내로 가려구요",
+          "summary": "나는 시간이 없어서 국내로 간다.",
+          "date": "2022-10-26",
+          "time": "12:29:15",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "국내도 좋은 곳 많으니 괜찮은 패키지로 알아보세요.",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "12:43:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "그래야겠어요. 패키지 여행은 종류가 참 많아서 선택하기 좋아요",
+          "summary": "나는 패키지여행이 종류가 많아서 선택하기 좋다.",
+          "date": "2022-10-26",
+          "time": "15:54:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "좀 많이 오래전이긴 하지만 패키지여행을 간적이 있는데 좋더라구요.",
+          "summary": "나는 오래전이지만 패키지여행을 갔는데 좋았다.",
+          "date": "2022-10-26",
+          "time": "17:17:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "저는 패키지는 해외만 가봐서 국내는 이번에 처음 이용해봐요",
+          "summary": "나는 국내 패키지여행은 이번이 처음이다.",
+          "date": "2022-10-26",
+          "time": "17:22:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "오 그렇군요. 해외 패키지 여행 어디 가보셨어요?",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "17:34:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "저는 태국이요. 방콕이랑 파타야 코스였어요",
+          "summary": "나는 태국, 방콕, 파타야 코스를 가봤다.",
+          "date": "2022-10-26",
+          "time": "17:49:25",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "와. 많이 다녀오셨네요. 국내는 어디로 가실 계획이세요?",
+          "summary": "",
+          "date": "2022-10-26",
+          "time": "21:26:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "강원도를 계획하고 있어요. 좀더 알아봐야겠어요",
+          "summary": "나는 강원도 여행을 계획하고 있다.",
+          "date": "2022-10-26",
+          "time": "21:35:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "꼼꼼히 잘 알아보고 결정하세요. 그리고 전 이만 강의가 있어서 교수로 복귀를 해봐야 할 듯 하네요 ㅎ",
+          "summary": "나는 강의가 있다",
+          "date": "2022-10-26",
+          "time": "22:25:05",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 여행이 가고 싶다",
+          "나는 여행 계획을 세울 시간이 없어서 패키지로 갈려고 한다.",
+          "나는 시간이 없어서 국내로 간다.",
+          "나는 패키지여행이 종류가 많아서 선택하기 좋다.",
+          "나는 국내 패키지여행은 이번이 처음이다.",
+          "나는 태국, 방콕, 파타야 코스를 가봤다.",
+          "나는 강원도 여행을 계획하고 있다."
+        ],
+        "speaker2": [
+          "나는 연차가 남았으면 휴가 내고 다녀오는 것도 좋겠다.",
+          "나는 패키지도 괜찮을 것 같다.",
+          "나는 오래전이지만 패키지여행을 갔는데 좋았다.",
+          "나는 강의가 있다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 남성이다",
+          "나는 정치외교학과를 전공했다.",
+          "나는 드럼 연주를 가끔 한다",
+          "나는 수영을 배워보고 싶다.",
+          "나는 무화과를 먹어본 기억이 없다.",
+          "나는 외롭다는 생각이 든다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나는 교수이다.",
+          "나는 수영을 좋아하고 취미이다.",
+          "나는 요즘 무화과가 많이 나오는 것 같다.",
+          "나는 어릴 적엔 많이 먹었는데 지금은 무화과를 싫어한다",
+          "나는 가을은 남자의 계절인 것 같다.",
+          "나는 악기 연주는 못하니 음악을 들어 마음을 달래야겠다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00015-2",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00015-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "벌써 이틀이나 지났네요. 잘 지냈나요?",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "09:39:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "네 대학교 강의 하면서 잘 지냈어요 저도 여행 좀 가볼까 하구요",
+          "summary": "나는 여행을 가볼까 한다.",
+          "date": "2022-10-27",
+          "time": "12:27:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "오 어디로 가실거에요? 저는 지난번 얘기했던 강원도 확정지었어요",
+          "summary": "나는 여행지를 강원도로 확정했다.",
+          "date": "2022-10-27",
+          "time": "17:28:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "저는 서울로 갈려고 계획 중이에요.",
+          "summary": "나는 서울로 가려고 계획 중이다.",
+          "date": "2022-10-27",
+          "time": "22:01:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "오 서울도 패키지로 여행컨셉 잡아서 가면 재밌을것 같은데요?",
+          "summary": "",
+          "date": "2022-10-27",
+          "time": "22:06:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "그죠. 아이도 있어서 역사적으로 수도였던 서울을 패키지로 여행가면 설명도 들을 수 있으니까 교육적으로 좋을 것 같아요. ",
+          "summary": "나는 아이가 있어 서울로 패키지를 가면 교육적으로 좋을 것 같다.",
+          "date": "2022-10-28",
+          "time": "09:21:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "좋네요. 역사 패키지로 경복궁과 인사동, 종로쪽 투어라던가  괜찮네요",
+          "summary": "나는 경복궁과 인사동, 종로 쪽 패키지 투어는 괜찮다고 생각한다.",
+          "date": "2022-10-28",
+          "time": "10:03:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "오.좋네요.경복궁은 여러번 가도 매번 좋더라구요.",
+          "summary": "나는 경복궁은 여러 번 가도 매번 좋다.",
+          "date": "2022-10-28",
+          "time": "16:02:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "저도 나중에 가봐야겠어요. 저는 강원도 패키지로는 속초와 강릉, 양양 세군데 묶어서 가는 투어로 하려구요",
+          "summary": "나는 강원도 패키지로 속초와 강릉, 양양 세 군데 묶어서 가는 투어로 하려고 한다.",
+          "date": "2022-10-28",
+          "time": "16:04:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "부럽네요. 저는 강원도를 한번도 못가봤어오.",
+          "summary": "나는 강원도를 한 번도 못 가봤다.",
+          "date": "2022-10-28",
+          "time": "16:06:10",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "앗 그래요? 강원도는 특히나 산길이나 보니 거리가 꽤 있어서 패키지로 가면 이동이 편해요",
+          "summary": "나는 강원도는 산길이라 거리가 있어서 패키지로 가는 게 이동이 편하다고 생각한다.",
+          "date": "2022-10-28",
+          "time": "16:08:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "아~그렇군요. 강원도 가게 되면 참고할께요.",
+          "summary": "나는 강원도를 가게 되면 참고하겠다.",
+          "date": "2022-10-28",
+          "time": "20:06:34",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "30496",
+          "participantID": "3507",
+          "utterance": "네 저도 패키지 상품 찾다보니 재밌어서 더 찾아보고싶네요",
+          "summary": "나는 패키지 상품 찾는 게 재밌어서 다 찾아보고 싶다.",
+          "date": "2022-10-28",
+          "time": "20:55:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "52020",
+          "participantID": "3843",
+          "utterance": "더 알아보시고 알찬 여행 다녀오세요.  저는 좋아하는 수영을 하러 가려구요. 다음에 대화해요!",
+          "summary": "",
+          "date": "2022-10-28",
+          "time": "21:48:54",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 여행지를 강원도로 확정했다.",
+          "나는 경복궁과 인사동, 종로 쪽 패키지 투어는 괜찮다고 생각한다.",
+          "나는 강원도 패키지로 속초와 강릉, 양양 세 군데 묶어서 가는 투어로 하려고 한다.",
+          "나는 강원도는 산길이라 거리가 있어서 패키지로 가는 게 이동이 편하다고 생각한다.",
+          "나는 패키지 상품 찾는 게 재밌어서 다 찾아보고 싶다."
+        ],
+        "speaker2": [
+          "나는 여행을 가볼까 한다.",
+          "나는 서울로 가려고 계획 중이다.",
+          "나는 아이가 있어 서울로 패키지를 가면 교육적으로 좋을 것 같다.",
+          "나는 경복궁은 여러 번 가도 매번 좋다.",
+          "나는 강원도를 한 번도 못 가봤다.",
+          "나는 강원도를 가게 되면 참고하겠다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 남성이다",
+          "나는 정치외교학과를 전공했다.",
+          "나는 드럼 연주를 가끔 한다",
+          "나는 수영을 배워보고 싶다.",
+          "나는 무화과를 먹어본 기억이 없다.",
+          "나는 외롭다는 생각이 든다.",
+          "나는 여행이 가고 싶다",
+          "나는 여행 계획을 세울 시간이 없어서 패키지로 갈려고 한다.",
+          "나는 시간이 없어서 국내로 간다.",
+          "나는 패키지여행이 종류가 많아서 선택하기 좋다.",
+          "나는 국내 패키지여행은 이번이 처음이다.",
+          "나는 태국, 방콕, 파타야 코스를 가봤다.",
+          "나는 강원도 여행을 계획하고 있다."
+        ],
+        "speaker2": [
+          "나는 50대 여성이다.",
+          "나는 교수이다.",
+          "나는 수영을 좋아하고 취미이다.",
+          "나는 요즘 무화과가 많이 나오는 것 같다.",
+          "나는 어릴 적엔 많이 먹었는데 지금은 무화과를 싫어한다",
+          "나는 가을은 남자의 계절인 것 같다.",
+          "나는 악기 연주는 못하니 음악을 들어 마음을 달래야겠다.",
+          "나는 연차가 남았으면 휴가 내고 다녀오는 것도 좋겠다.",
+          "나는 패키지도 괜찮을 것 같다.",
+          "나는 오래전이지만 패키지여행을 갔는데 좋았다.",
+          "나는 강의가 있다"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "FileInfo": {
+    "filename": "K4-00055-CL34612-CP25640-10-02-S4.json",
+    "sessionLevel": "4"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4285",
+      "gender": "남성",
+      "age": "40대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "서울/경기/인천",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "3848",
+      "gender": "남성",
+      "age": "20대",
+      "occupation": "사무직",
+      "bPlace": "광주/전라/제주",
+      "gPlace": "광주/전라/제주",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "대졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "4-00055"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "34612",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 30대이다.",
+        "나는 자녀가 없다",
+        "나는 농구 감독이다",
+        "나는 아침에 산책한다",
+        "나는 항상 평온하다",
+        "나는 토마토파스타를 즐겨 먹는다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "25640",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나는 대학생이다",
+        "나는 캐나다로 유학을 간다",
+        "나의 여자 형제는 학생이다",
+        "나의 거주지는 서울이다",
+        "나는 요즘, 모든 게 귀찮다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "10-02",
+    "topicType": "여가와 오락>스포츠/레져",
+    "topicTitle": "야외 활동"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00055-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "안녕하세요. 반갑습니다. 저는 30대 남성입니다",
+          "summary": "나는 30대 남성이다.\n",
+          "date": "2022-11-29",
+          "time": "08:57:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "안녕하세요. 서울 살고 있는 20대 남자 대학생입니다.",
+          "summary": "나는 서울 살고 있는 20대 남자 대학생이다",
+          "date": "2022-11-29",
+          "time": "08:58:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "반갑습니다. 대학생이시군요. 저는 농구 감독입니다. 농구 좋아하시나요?",
+          "summary": "나는 농구 감독이다.",
+          "date": "2022-11-29",
+          "time": "08:58:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "네 농구 좋아해요. 하지만 요즘 모든게 귀찮아서 농구도 잘 안하게 되더라구요",
+          "summary": "나는 농구를 좋아하지만 요즘 모든 게 귀찮아서 농구도 잘 안 한다",
+          "date": "2022-11-29",
+          "time": "08:59:47",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "그럴 때가 있죠. 저는 아침에 산책을 하는데 그러면 항상 평온한 기분이 들더라고요. ",
+          "summary": "나는 아침에 산책을 한다. 나는 항상 평온한 기분이 든다.",
+          "date": "2022-11-29",
+          "time": "09:01:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "제가 누나가 한명있는데 아직 학생인데도 아침에 산책을 하더라구요",
+          "summary": "나는 누나가 한 명 있는데 아직 학생인데도 아침에 산책을 한다",
+          "date": "2022-11-29",
+          "time": "09:02:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "아침 산책 좋죠. 음식은 뭐 좋아하시나요? 저는 토마토파스타를 즐겨 먹고 있어요",
+          "summary": "나는 토마토 파스타를 즐겨 먹는다.",
+          "date": "2022-11-29",
+          "time": "09:03:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "저는 치킨을 좋아해요. 곧 캐나다로 유학을 가는데 거기도 맛있는 치킨이 있었으면 좋겠어요",
+          "summary": "나는 치킨을 좋아한다. 나는 캐나다로 유학을 갈 예정이다",
+          "date": "2022-11-29",
+          "time": "09:04:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "유학을 가시는군요. 결혼은 아직이시죠? 저는 결혼은 했는데 아직 자녀는 없어요",
+          "summary": "나는 결혼은 했지만 자녀가 아직 없다.",
+          "date": "2022-11-29",
+          "time": "09:05:58",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "네 아직 결혼은 안했습니다. 대학생이라서 아직 결혼은 머나먼 이야기네요",
+          "summary": "나는 아직 미혼이다 나는 대학생이라 결혼은 머나먼 이야기이다.",
+          "date": "2022-11-29",
+          "time": "09:07:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "네 그러실 것 같아요. 대학생이면 취업 준비로 바쁘시겠어요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "09:08:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "아뇨 지금은 캐나다 유학준비중이라서 취업은 아직 생각 안해봤어요..",
+          "summary": "나는 캐나다 유학 준비 중이라서 취업은 아직 생각 안 해봤다",
+          "date": "2022-11-29",
+          "time": "09:25:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "유학 가는거 부럽네요. 저도 꼭 하고 싶은 것이었거든요",
+          "summary": "나는 유학에 꼭 가고 싶었다.",
+          "date": "2022-11-29",
+          "time": "09:35:01",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "지금이라두 준비해보세요! 저는 수업이 있어서 나중에 다시 오겠습니다.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "09:41:26",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 30대 남성이다.\n",
+          "나는 농구 감독이다.",
+          "나는 아침에 산책을 한다. 나는 항상 평온한 기분이 든다.",
+          "나는 토마토 파스타를 즐겨 먹는다.",
+          "나는 결혼은 했지만 자녀가 아직 없다.",
+          "나는 유학에 꼭 가고 싶었다."
+        ],
+        "speaker2": [
+          "나는 서울 살고 있는 20대 남자 대학생이다",
+          "나는 농구를 좋아하지만 요즘 모든 게 귀찮아서 농구도 잘 안 한다",
+          "나는 누나가 한 명 있는데 아직 학생인데도 아침에 산책을 한다",
+          "나는 치킨을 좋아한다. 나는 캐나다로 유학을 갈 예정이다",
+          "나는 아직 미혼이다 나는 대학생이라 결혼은 머나먼 이야기이다.",
+          "나는 캐나다 유학 준비 중이라서 취업은 아직 생각 안 해봤다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "4-00055-1",
+      "prevTimeInfo": {
+        "timeNum": "2",
+        "timeUnit": "일"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00055-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "이틀만에 뵙네요. 잘 지내셨죠? 캐나다 유학은 준비 잘 하시는거죠?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "09:47:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "네 그럼요 이번 주말에는 캠핑을 가기로 해서 캠핑 준비중입니다.",
+          "summary": "나는 주말에 캠핑을 가기로 해서 캠핑 준비 중이다",
+          "date": "2022-11-29",
+          "time": "09:48:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "날씨가 추워졌는데 캠핑 준비 어떻게 하시나요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "09:49:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "글램핑으로 가려구요. 야외활동이니까 더 따뜻하게 입어야죠",
+          "summary": "나는 글램핑으로 가려고 한다",
+          "date": "2022-11-29",
+          "time": "09:50:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "글램핑 좋을 것 같네요. 저는 추위에 약해서 겨울에는 야외 활동은 힘들더라구요",
+          "summary": "나는 추위에 약해서 겨울에 야외 활동은 힘들다.",
+          "date": "2022-11-29",
+          "time": "09:51:17",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "제가 그래서 추운걸 싫어하는데 캐나다에 가게 됐네요..",
+          "summary": "나는 추운 걸 싫어하는데 캐나다에 가게 됐다",
+          "date": "2022-11-29",
+          "time": "09:56:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "그러시군요. 그래도 글램핑은 따뜻할 거 같긴 해요. 겨울에도 야외활동 해야 하는데, 뭘 해야 좋을지 모르겠어요",
+          "summary": "나는 겨울에 야외활동을 뭘 해야 할지 모르겠다.",
+          "date": "2022-11-29",
+          "time": "09:57:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "자전거를 타보세요. 더워서 오히려 옷을 벗더라구요",
+          "summary": "나는 야외활동으로 자전거를 추천한다",
+          "date": "2022-11-29",
+          "time": "10:00:38",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "자전거도 좋네요. 살도 빼고 운동도 하고",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "10:01:45",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "자전거가 꽤 괜찮은 운동입니다. 비싸서 입문이 좀 힘들긴 하지만요",
+          "summary": "나는 비싸서 입문이 좀 힘들지만 자전거가 꽤 괜찮은 운동이라 생각한다.",
+          "date": "2022-11-29",
+          "time": "10:04:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "가격대가 많이 비싼가봐요. 저는 10만원대를 생각했는데.. 얼마나 드나요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "10:13:02",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "40~50 만원 정도해야 적당한 걸로 찾으실거에요..",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "10:18:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "정말 비싸네요. 요즘에는 야외활동도 정말 돈 없이 힘들군요",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "10:34:51",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "맞아요.. 저는 수업이 있어서 먼저 나가보겠습니다.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "10:57:14",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 추위에 약해서 겨울에 야외 활동은 힘들다.",
+          "나는 겨울에 야외활동을 뭘 해야 할지 모르겠다."
+        ],
+        "speaker2": [
+          "나는 주말에 캠핑을 가기로 해서 캠핑 준비 중이다",
+          "나는 글램핑으로 가려고 한다",
+          "나는 추운 걸 싫어하는데 캐나다에 가게 됐다",
+          "나는 야외활동으로 자전거를 추천한다",
+          "나는 비싸서 입문이 좀 힘들지만 자전거가 꽤 괜찮은 운동이라 생각한다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 남성이다.\n",
+          "나는 농구 감독이다.",
+          "나는 아침에 산책을 한다. 나는 항상 평온한 기분이 든다.",
+          "나는 토마토 파스타를 즐겨 먹는다.",
+          "나는 결혼은 했지만 자녀가 아직 없다.",
+          "나는 유학에 꼭 가고 싶었다."
+        ],
+        "speaker2": [
+          "나는 서울 살고 있는 20대 남자 대학생이다",
+          "나는 농구를 좋아하지만 요즘 모든 게 귀찮아서 농구도 잘 안 한다",
+          "나는 누나가 한 명 있는데 아직 학생인데도 아침에 산책을 한다",
+          "나는 치킨을 좋아한다. 나는 캐나다로 유학을 갈 예정이다",
+          "나는 아직 미혼이다 나는 대학생이라 결혼은 머나먼 이야기이다.",
+          "나는 캐나다 유학 준비 중이라서 취업은 아직 생각 안 해봤다"
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00055-2",
+      "prevTimeInfo": {
+        "timeNum": "6",
+        "timeUnit": "일"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00055-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "일주일만에 뵙네요. 잘 지내셨죠?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "11:10:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "네~ 글림핑 잘 다녀 왔습니다. 역시 밖에서 구워먹는 고기가 제일 맛있네요",
+          "summary": "나는 글림 핑 하면서 밖에서 구워 먹는 고기가 제일 맛있다",
+          "date": "2022-11-29",
+          "time": "11:14:12",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "밖에서 구워먹는 고기 너무 맛있었겠어요",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "11:17:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "역시 고기랑 라면은 야외 활동 후에 먹는게 제일 맛있어요 ㅋㅋ",
+          "summary": "나는 고기랑 라면은 야외 활동 후에 먹는 게 제일 맛있다",
+          "date": "2022-11-29",
+          "time": "11:18:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "맞습니다. 그것이 바로 야외활동의 묘미죠",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "11:27:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "캐나다 유학 가기전에 이런 저런 활동을 많이 해야겠어요",
+          "summary": "나는 캐나다 유학 가기 전에 이런저런 활동을 많이 해야겠다",
+          "date": "2022-11-29",
+          "time": "11:27:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "유학 가기 전에 우리나라의 모습들을 많이 담아가시면 좋겠네요",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "11:28:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "가서 얼마나 있을지는 모르겠는데 캐나다는 추워서 야외활동은 많이 안할거 같아요",
+          "summary": "나는 캐나다는 추워서 야외활동은 많이 안 할 거 같다",
+          "date": "2022-11-29",
+          "time": "11:29:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "그럴수도 있겠네요. 저는 해외에 가보면 그래도 우리나라가 제일이다 싶어요. 야외활동하기도 좋고요",
+          "summary": "나는 해외에 나가보면 우리나라가 좋다.",
+          "date": "2022-11-29",
+          "time": "11:36:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "역시 한국사람이라서 그런지 한국이 최고에요..",
+          "summary": "나는 한국사람이라서 그런지 한국이 최고다",
+          "date": "2022-11-29",
+          "time": "11:44:53",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "맞아요 ㅎㅎ 한국은 그래도 겨울에 밖에서 야외활동 하면서 맛있는 먹거리도 즐길 수 있잖아요. 붕어빵, 고구마 같은 것도요",
+          "summary": "나는 한국에서 야외 활동하며 먹을거리를 즐길 수 있어서 좋다.",
+          "date": "2022-11-29",
+          "time": "11:45:28",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "붕어빵..! 정말 맛있을거 같아요.. 고구마는 김치랑 해서 딱 먹으면 엄청 따듯해지죠",
+          "summary": "나는 붕어빵과 고구마가 정말 맛있을 거 같다",
+          "date": "2022-11-29",
+          "time": "11:46:42",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "그쵸. 겨울이 기다려지는 이유이기도 해요",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "11:48:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "그래도 야외활동 하기에는 추워요.. 저는 일이 있어서 먼저 가보겠습니다.",
+          "summary": "나는 그래도 야외 활동하기에는 춥다",
+          "date": "2022-11-29",
+          "time": "11:49:33",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 해외에 나가보면 우리나라가 좋다.",
+          "나는 한국에서 야외 활동하며 먹을거리를 즐길 수 있어서 좋다."
+        ],
+        "speaker2": [
+          "나는 글림 핑 하면서 밖에서 구워 먹는 고기가 제일 맛있다",
+          "나는 고기랑 라면은 야외 활동 후에 먹는 게 제일 맛있다",
+          "나는 캐나다 유학 가기 전에 이런저런 활동을 많이 해야겠다",
+          "나는 캐나다는 추워서 야외활동은 많이 안 할 거 같다",
+          "나는 한국사람이라서 그런지 한국이 최고다",
+          "나는 붕어빵과 고구마가 정말 맛있을 거 같다",
+          "나는 그래도 야외 활동하기에는 춥다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 남성이다.\n",
+          "나는 농구 감독이다.",
+          "나는 아침에 산책을 한다. 나는 항상 평온한 기분이 든다.",
+          "나는 토마토 파스타를 즐겨 먹는다.",
+          "나는 결혼은 했지만 자녀가 아직 없다.",
+          "나는 유학에 꼭 가고 싶었다.",
+          "나는 추위에 약해서 겨울에 야외 활동은 힘들다.",
+          "나는 겨울에 야외활동을 뭘 해야 할지 모르겠다."
+        ],
+        "speaker2": [
+          "나는 서울 살고 있는 20대 남자 대학생이다",
+          "나는 농구를 좋아하지만 요즘 모든 게 귀찮아서 농구도 잘 안 한다",
+          "나는 누나가 한 명 있는데 아직 학생인데도 아침에 산책을 한다",
+          "나는 치킨을 좋아한다. 나는 캐나다로 유학을 갈 예정이다",
+          "나는 아직 미혼이다 나는 대학생이라 결혼은 머나먼 이야기이다.",
+          "나는 캐나다 유학 준비 중이라서 취업은 아직 생각 안 해봤다",
+          "나는 주말에 캠핑을 가기로 해서 캠핑 준비 중이다",
+          "나는 글램핑으로 가려고 한다",
+          "나는 추운 걸 싫어하는데 캐나다에 가게 됐다",
+          "나는 야외활동으로 자전거를 추천한다",
+          "나는 비싸서 입문이 좀 힘들지만 자전거가 꽤 괜찮은 운동이라 생각한다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "4-00055-3",
+      "prevTimeInfo": {
+        "timeNum": "1",
+        "timeUnit": "주"
+      },
+      "nthSession": "4",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "4-00055-4",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "일주일만에 뵙네요. 잘 지내셨죠?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "11:52:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "네 잘지내셨나요? 저는 캐나다로 유학 갈날이 얼마 안남아서 친구들이랑 놀러가려구요",
+          "summary": "나는 캐나다로 유학 살날이 얼마 안 남아서 친구들이랑 놀러 가려고 한다",
+          "date": "2022-11-29",
+          "time": "11:54:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "친구들과의 여행 즐겁겠어요. 젊을 때는 친구들과 야외활동 하는거 너무 즐겁죠",
+          "summary": "나는 친구들과의 여행이 즐거울 거 같다.",
+          "date": "2022-11-29",
+          "time": "11:55:13",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "얼마 안남아서 지금이라도 많이 다니려구요",
+          "summary": "나는 유학 갈 날이 얼마 안 남아서 지금이라도 많이 다니려고 한다",
+          "date": "2022-11-29",
+          "time": "11:57:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "네 많이 다니세요. 요즘 우리나라에는 캠핑장도 많아서 야외활동하기 좋더라고요",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "11:57:26",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "맞아요. 샤워장도 있고 그냥 몸만가서 놀기만하면 되더라구요",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "11:58:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "네 그래서 다른 장비가 필요 없더라고요. 근데 또 캠핑 장비 욕심은 끝이 없다고 하더라고요",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "11:59:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "캠핑보면 장비가 엄청 많더라구요.. 저 같아도 그렇게 살거 같아요.",
+          "summary": "나는 캠핑 보면 장비가 엄청 많은데 나 같아도 그렇게 살 거 같다",
+          "date": "2022-11-29",
+          "time": "12:00:16",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "네 사면 살수록 욕심이 난다고 하더라고요 저는 그래서 시작도 못하고 있어요",
+          "summary": "나는 장비를 살 수록 욕심이 날까 봐 시작을 못하고 있다.",
+          "date": "2022-11-29",
+          "time": "12:01:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "저도 몇개 찜해놓은것만 있고 사지는 못하고 있어요 ㅋㅋ",
+          "summary": "나는 몇 개 찜해놓은 것만 있고 사지는 못하고 있다",
+          "date": "2022-11-29",
+          "time": "13:28:36",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "그러시군요 ㅎ 아무래도 시작을 하면 멈출 수 없을 것 같더라고요 저도 그래서 무서워서 못사고 있어요",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "13:30:11",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "사실 아직 대학생이고 유학을 가기때문에 못사는것두 있어요..",
+          "summary": "나는 아직 대학생이고 유학을 가기 때문에 못 사는 것도 있다",
+          "date": "2022-11-29",
+          "time": "13:30:44",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "34612",
+          "participantID": "4285",
+          "utterance": "그러시겠어요. 사놓고 유학을 가기는 어려우니가요",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "13:33:22",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "25640",
+          "participantID": "3848",
+          "utterance": "맞아요.. 저는 이제 그만 가볼께요. 대화 즐거웠습니다.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "13:34:11",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 친구들과의 여행이 즐거울 거 같다.",
+          "나는 장비를 살 수록 욕심이 날까 봐 시작을 못하고 있다."
+        ],
+        "speaker2": [
+          "나는 캐나다로 유학 살날이 얼마 안 남아서 친구들이랑 놀러 가려고 한다",
+          "나는 유학 갈 날이 얼마 안 남아서 지금이라도 많이 다니려고 한다",
+          "나는 캠핑 보면 장비가 엄청 많은데 나 같아도 그렇게 살 거 같다",
+          "나는 몇 개 찜해놓은 것만 있고 사지는 못하고 있다",
+          "나는 아직 대학생이고 유학을 가기 때문에 못 사는 것도 있다"
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 30대 남성이다.\n",
+          "나는 농구 감독이다.",
+          "나는 아침에 산책을 한다. 나는 항상 평온한 기분이 든다.",
+          "나는 토마토 파스타를 즐겨 먹는다.",
+          "나는 결혼은 했지만 자녀가 아직 없다.",
+          "나는 유학에 꼭 가고 싶었다.",
+          "나는 추위에 약해서 겨울에 야외 활동은 힘들다.",
+          "나는 겨울에 야외활동을 뭘 해야 할지 모르겠다.",
+          "나는 해외에 나가보면 우리나라가 좋다.",
+          "나는 한국에서 야외 활동하며 먹을거리를 즐길 수 있어서 좋다."
+        ],
+        "speaker2": [
+          "나는 서울 살고 있는 20대 남자 대학생이다",
+          "나는 농구를 좋아하지만 요즘 모든 게 귀찮아서 농구도 잘 안 한다",
+          "나는 누나가 한 명 있는데 아직 학생인데도 아침에 산책을 한다",
+          "나는 치킨을 좋아한다. 나는 캐나다로 유학을 갈 예정이다",
+          "나는 아직 미혼이다 나는 대학생이라 결혼은 머나먼 이야기이다.",
+          "나는 캐나다 유학 준비 중이라서 취업은 아직 생각 안 해봤다",
+          "나는 주말에 캠핑을 가기로 해서 캠핑 준비 중이다",
+          "나는 글램핑으로 가려고 한다",
+          "나는 추운 걸 싫어하는데 캐나다에 가게 됐다",
+          "나는 야외활동으로 자전거를 추천한다",
+          "나는 비싸서 입문이 좀 힘들지만 자전거가 꽤 괜찮은 운동이라 생각한다.",
+          "나는 글림 핑 하면서 밖에서 구워 먹는 고기가 제일 맛있다",
+          "나는 고기랑 라면은 야외 활동 후에 먹는 게 제일 맛있다",
+          "나는 캐나다 유학 가기 전에 이런저런 활동을 많이 해야겠다",
+          "나는 캐나다는 추워서 야외활동은 많이 안 할 거 같다",
+          "나는 한국사람이라서 그런지 한국이 최고다",
+          "나는 붕어빵과 고구마가 정말 맛있을 거 같다",
+          "나는 그래도 야외 활동하기에는 춥다"
+        ]
+      }
+    }
+  ]
+}

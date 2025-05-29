@@ -1,0 +1,922 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-004854-AP600057-WZ000005-02_03_02-S2.json",
+        "sessionLevel": "2"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0010",
+            "gender": "여성",
+            "age": "40대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "요리"
+        },
+        "speaker2": {
+            "participantID": "F0010",
+            "gender": "남성",
+            "age": "50대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "천문학"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "004854"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600057",
+            "personaFeatures": [
+                "나는 관광/감상의 지명에 대한 교육을 받고 있다.",
+                "나는 역사/문화 여행을 좋아한다",
+                "나는 PC게임을 매일 한다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000005",
+            "personaFeatures": [
+                "나는 지명에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "02_03_02",
+        "largeCategory": "취미",
+        "mediumCategory": "관광/감상",
+        "smallCategory": "장소"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004854-1",
+            "sessionKeywords": [
+                "*위천면*,*위천면*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600057",
+                    "participantID": "E0010",
+                    "utterance": "안녕? 책을 읽다가 관광지명에 대해서  궁금한게 생겼거든 ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695903046000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "네 안녕하세요~ 저는 지명에 대해 잘아는 챗봇이니 물어보세요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695906464000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600057",
+                    "participantID": "E0010",
+                    "utterance": "응 관광지명에 대해서 공부하고 있는데 위천면이라는 곳이 나와서 그곳에  대해서 알려줘",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 관광지명에 대해서 공부하고 있다",
+                    "timestamp": 1695906500000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "위천면은 거창군의 서북쪽에 위치하고 있는 해발 280m의 분지이며, 원학골의 중심이다. 거창의 대표관광지인 수승대관광지, 금원산 자연휴양림 등이 소재하고 있으며, 거창국제연극제 등이 열리는 수려한 관광자원이 풍부하며 예부터 충효의 고장으로 서원, 정자, 고가 등의 문화유산이 풍부한 고장입니다",
+                    "context": {
+                        "query": "위천면",
+                        "contents": [
+                            {
+                                "documentID": "377608",
+                                "documentTitle": "위천면",
+                                "content": [
+                                    "위천면(渭川面)은 대한민국 경상남도 거창군의 면이다.",
+                                    "거창군의 서북쪽에 위치하고 있는 해발 280m의 분지이며, 원학골의 중심이다.",
+                                    "거창의 대표관광지인 수승대관광지, 금원산 자연휴양림 등이 소재하고 있으며, 거창국제연극제 등이 열리는 수려한 관광자원이 풍부하며 예부터 충효의 고장으로 서원, 정자, 고가 등의 문화유산이 풍부한 고장이다.",
+                                    "연혁.",
+                                    "통일신라시대에는 남내와 여선현에 속했으며, 고려시대에는 감음현에 속하였고 조선시대 1471년 태종 17년에는 안음현, 1767년 영조 43년에는 안의현에, 1895년 고종 32년에는 안의군에 속하였으며 일제시대 1914년 3월 행정구역 조정으로 안의군에 속했던 고현면과 북하면을 합하여 가운데 흐르는 냇물의 이름을 따서 위천면으로 개칭하고 거창군에 편입되어 현재에 이르고있다."
+                                ]
+                            },
+                            {
+                                "documentID": "377605",
+                                "documentTitle": "북상면",
+                                "content": [
+                                    "북상면(北上面)는 대한민국 경상남도 거창군의 면이다.",
+                                    "경상남도 최서북단에 위치하며 거창읍으로부터 마리면과 위천면을 경유하여 18km의 거리에 위치하고 있다.",
+                                    "일부 지역이 덕유산 국립공원 구역에 속해 깊은 계곡과 맑은 물 등 거창군의 대표적인 유원지로 북쪽의 전라북도 무주군, 서쪽의 함양군과 호음산을 경계로 고제면과 위천면을 접하고 있다."
+                                ]
+                            },
+                            {
+                                "documentID": "377604",
+                                "documentTitle": "마리면",
+                                "content": [
+                                    "마리면(馬利面)는 대한민국 경상남도 거창군의 면이다.",
+                                    "거창군의 서쪽 끝에 위치하여 함양군 안의면과 서남경계, 동쪽으로는 거창읍, 북쪽으로 위천면과 접하고 있으며, 북쪽으로는 덕유대간, 동쪽으로는 취우령, 서남쪽으로는 기백산으로 둘러 쌓인 해발 230m의 산간 소분지이다.",
+                                    "동서로 국도 제3호선과 남북으로 국도 제37호선이 지나는 중심부로 관광동맥이 합류하는 교통 요충지이며, 논농사 중심인 중산간 평야로서 한우사육, 딸기, 수박 등의 시설하우스 작물 재배로 소득을 증대하고 있다.",
+                                    "연혁.",
+                                    "통일신라시대에 마리현을 이안현으로 바꾸어 천령군(함양)에 편입, 1390년 고려시대 공양왕 2년 가음현(안의)에 편입되었으며, 1895년 조선 고종 32년 제현을 군으로 바꾸면서 본면의 북부를 동리면 남부를 남리면으로 나누었다.",
+                                    "1914년 안의군 동리면과 남리면을 합하여 마리면으로 칭하고 거창군에 편입되었다.",
+                                    "1982년 2월 15일 행정구역 개편으로 거창읍 송정리 일부가 마리면 하고리에 편입되었으며, 1989년 1월 30일 현 청사를 신축하였다."
+                                ]
+                            },
+                            {
+                                "documentID": "29207",
+                                "documentTitle": "거창 당산리 당송",
+                                "content": [
+                                    "거창 당산리 당송은 경상남도 거창군 위천면 당송리에 있는 한 그루의 소나무이다.",
+                                    "대한민국의 천연기념물 제410호로 지정되어 있다.",
+                                    "개요.",
+                                    "거창 당산리 당송은 나이가 600년 정도로 추정되며 높이가 14.3m, 둘레는 4.10m이다.",
+                                    "나무껍질은 거북등과 같이 갈라져 있으며, 밑동 부분에는 도끼자국이 남아있고, 남쪽의 가지 하나가 죽었으나 전체적으로 아름다운 모양을 유지하고 있는 소나무이다.",
+                                    "거창 당산리 당송은 나라에 큰 일이 있을 때마다 “웅-웅-웅”소리를 내어 미리 알려준다고 하는데 이처럼 신령스럽다하여 영송(靈松)이라 부르기도 하며, 국권을 빼앗긴 일(1910), 광복(1945) 및 한국전쟁(1950) 때에는 몇 달 전부터 밤마다 울었다는 이야기가 전해진다.",
+                                    "마을에서는 매년 정월 대보름마다 이 나무에 제사를 지내고 있으며, 주민 전체가 모임을 만들어 특별히 보호하고 있다.",
+                                    "거창 당산리 당송은 민속적·생물학적 자료로서의 가치가 높아 천연기념물로 지정하여 보호하고 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            true,
+                            true,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "거창군의 서북쪽에 위치하고 있는 해발 280m의 분지이며, 원학골의 중심이다. 거창의 대표관광지인 수승대관광지, 금원산 자연휴양림 등이 소재하고 있으며, 거창국제연극제 등이 열리는 수려한 관광자원이 풍부하며 예부터 충효의 고장으로 서원, 정자, 고가 등의 문화유산이 풍부한 고장이다",
+                    "timestamp": 1695906528000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600057",
+                    "participantID": "E0010",
+                    "utterance": "역사여행도 좋아하는데 역사적 의미도 있을까?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 역사여행을 좋아한다",
+                    "timestamp": 1695906614000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "통일신라시대에는 남내와 여선현에 속했으며, 고려시대에는 감음현에 속하였고 조선시대 1471년 태종 17년에는 안음현, 1767년 영조 43년에는 안의현에, 1895년 고종 32년에는 안의군에 속하였으며 일제시대 1914년 3월 행정구역 조정으로 안의군에 속했던 고현면과 북하면을 합하여 가운데 흐르는 냇물의 이름을 따서 위천면으로 개칭하고 거창군에 편입되어 현재에 이르고있습니다",
+                    "context": {
+                        "query": "위천면",
+                        "contents": [
+                            {
+                                "documentID": "377608",
+                                "documentTitle": "위천면",
+                                "content": [
+                                    "위천면(渭川面)은 대한민국 경상남도 거창군의 면이다.",
+                                    "거창군의 서북쪽에 위치하고 있는 해발 280m의 분지이며, 원학골의 중심이다.",
+                                    "거창의 대표관광지인 수승대관광지, 금원산 자연휴양림 등이 소재하고 있으며, 거창국제연극제 등이 열리는 수려한 관광자원이 풍부하며 예부터 충효의 고장으로 서원, 정자, 고가 등의 문화유산이 풍부한 고장이다.",
+                                    "연혁.",
+                                    "통일신라시대에는 남내와 여선현에 속했으며, 고려시대에는 감음현에 속하였고 조선시대 1471년 태종 17년에는 안음현, 1767년 영조 43년에는 안의현에, 1895년 고종 32년에는 안의군에 속하였으며 일제시대 1914년 3월 행정구역 조정으로 안의군에 속했던 고현면과 북하면을 합하여 가운데 흐르는 냇물의 이름을 따서 위천면으로 개칭하고 거창군에 편입되어 현재에 이르고있다."
+                                ]
+                            },
+                            {
+                                "documentID": "377605",
+                                "documentTitle": "북상면",
+                                "content": [
+                                    "북상면(北上面)는 대한민국 경상남도 거창군의 면이다.",
+                                    "경상남도 최서북단에 위치하며 거창읍으로부터 마리면과 위천면을 경유하여 18km의 거리에 위치하고 있다.",
+                                    "일부 지역이 덕유산 국립공원 구역에 속해 깊은 계곡과 맑은 물 등 거창군의 대표적인 유원지로 북쪽의 전라북도 무주군, 서쪽의 함양군과 호음산을 경계로 고제면과 위천면을 접하고 있다."
+                                ]
+                            },
+                            {
+                                "documentID": "377604",
+                                "documentTitle": "마리면",
+                                "content": [
+                                    "마리면(馬利面)는 대한민국 경상남도 거창군의 면이다.",
+                                    "거창군의 서쪽 끝에 위치하여 함양군 안의면과 서남경계, 동쪽으로는 거창읍, 북쪽으로 위천면과 접하고 있으며, 북쪽으로는 덕유대간, 동쪽으로는 취우령, 서남쪽으로는 기백산으로 둘러 쌓인 해발 230m의 산간 소분지이다.",
+                                    "동서로 국도 제3호선과 남북으로 국도 제37호선이 지나는 중심부로 관광동맥이 합류하는 교통 요충지이며, 논농사 중심인 중산간 평야로서 한우사육, 딸기, 수박 등의 시설하우스 작물 재배로 소득을 증대하고 있다.",
+                                    "연혁.",
+                                    "통일신라시대에 마리현을 이안현으로 바꾸어 천령군(함양)에 편입, 1390년 고려시대 공양왕 2년 가음현(안의)에 편입되었으며, 1895년 조선 고종 32년 제현을 군으로 바꾸면서 본면의 북부를 동리면 남부를 남리면으로 나누었다.",
+                                    "1914년 안의군 동리면과 남리면을 합하여 마리면으로 칭하고 거창군에 편입되었다.",
+                                    "1982년 2월 15일 행정구역 개편으로 거창읍 송정리 일부가 마리면 하고리에 편입되었으며, 1989년 1월 30일 현 청사를 신축하였다."
+                                ]
+                            },
+                            {
+                                "documentID": "29207",
+                                "documentTitle": "거창 당산리 당송",
+                                "content": [
+                                    "거창 당산리 당송은 경상남도 거창군 위천면 당송리에 있는 한 그루의 소나무이다.",
+                                    "대한민국의 천연기념물 제410호로 지정되어 있다.",
+                                    "개요.",
+                                    "거창 당산리 당송은 나이가 600년 정도로 추정되며 높이가 14.3m, 둘레는 4.10m이다.",
+                                    "나무껍질은 거북등과 같이 갈라져 있으며, 밑동 부분에는 도끼자국이 남아있고, 남쪽의 가지 하나가 죽었으나 전체적으로 아름다운 모양을 유지하고 있는 소나무이다.",
+                                    "거창 당산리 당송은 나라에 큰 일이 있을 때마다 “웅-웅-웅”소리를 내어 미리 알려준다고 하는데 이처럼 신령스럽다하여 영송(靈松)이라 부르기도 하며, 국권을 빼앗긴 일(1910), 광복(1945) 및 한국전쟁(1950) 때에는 몇 달 전부터 밤마다 울었다는 이야기가 전해진다.",
+                                    "마을에서는 매년 정월 대보름마다 이 나무에 제사를 지내고 있으며, 주민 전체가 모임을 만들어 특별히 보호하고 있다.",
+                                    "거창 당산리 당송은 민속적·생물학적 자료로서의 가치가 높아 천연기념물로 지정하여 보호하고 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            true
+                        ],
+                        [
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "통일신라시대에는 남내와 여선현에 속했으며, 고려시대에는 감음현에 속하였고 조선시대 1471년 태종 17년에는 안음현, 1767년 영조 43년에는 안의현에, 1895년 고종 32년에는 안의군에 속하였으며 일제시대 1914년 3월 행정구역 조정으로 안의군에 속했던 고현면과 북하면을 합하여 가운데 흐르는 냇물의 이름을 따서 위천면으로 개칭하고 거창군에 편입되어 현재에 이르고있다",
+                    "timestamp": 1695906630000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600057",
+                    "participantID": "E0010",
+                    "utterance": "면이라서 작은 지역인줄 알았는데 통일신라시대부터 역사가 있었네",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695906810000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "네~ 통일신라시대부터니 역사가 긴편이네요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695906953000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600057",
+                    "participantID": "E0010",
+                    "utterance": "그곳에 자연휴양림도 있다니 가서 쉬면 좋겠다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695906984000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "관광자원이 풍부한 곳이니 편안히 쉬다 오실수 있을것 같습니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695907001000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600057",
+                    "participantID": "E0010",
+                    "utterance": "난 PC게임을 매일 하는데 거기 인터넷 안되는거 아니야?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 PC게임을 매일 한다",
+                    "timestamp": 1695907015000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "대한민국에 인터넷이 안되는곳은 거의 없는것같습니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695907029000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600057",
+                    "participantID": "E0010",
+                    "utterance": "그렇겠지? 하지만 하루정도는 자연을 만끽해도 괜찮긴 하겠다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695907044000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "네! 하루만이라도 자연을 만끽하시는것도 좋은 방법인것 같습니다",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695907064000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 관광지명에 대해서 공부하고 있다",
+                    "나는 역사여행을 좋아한다",
+                    "나는 PC게임을 매일 한다"
+                ],
+                "wizard": [
+                    "거창군의 서북쪽에 위치하고 있는 해발 280m의 분지이며, 원학골의 중심이다. 거창의 대표관광지인 수승대관광지, 금원산 자연휴양림 등이 소재하고 있으며, 거창국제연극제 등이 열리는 수려한 관광자원이 풍부하며 예부터 충효의 고장으로 서원, 정자, 고가 등의 문화유산이 풍부한 고장이다",
+                    "통일신라시대에는 남내와 여선현에 속했으며, 고려시대에는 감음현에 속하였고 조선시대 1471년 태종 17년에는 안음현, 1767년 영조 43년에는 안의현에, 1895년 고종 32년에는 안의군에 속하였으며 일제시대 1914년 3월 행정구역 조정으로 안의군에 속했던 고현면과 북하면을 합하여 가운데 흐르는 냇물의 이름을 따서 위천면으로 개칭하고 거창군에 편입되어 현재에 이르고있다"
+                ],
+                "dialogSummary": "질문자는 위천면에 대해서 질문했고 챗봇은 위천면은 거창군의 서북쪽에 위치하고 있는 해발 280m의 분지이며, 원학골의 중심이다. 거창의 대표관광지인 수승대관광지, 금원산 자연휴양림 등이 소재하고 있으며, 거창국제연극제 등이 열리는 수려한 관광자원이 풍부하며 예부터 충효의 고장으로 서원, 정자, 고가 등의 문화유산이 풍부한 고장이라고 대답했다"
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "004854-1",
+            "prevTimeInfo": {
+                "timeNum": "7",
+                "timeUnit": "주"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "004854-2",
+            "sessionKeywords": [
+                "*욀뤼데니즈*,*욀뤼데니즈*의 지명"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600057",
+                    "participantID": "E0010",
+                    "utterance": "내가 관광지명에 대해서 지난번에 공부하고 있다고 했지?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695907128000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "네. 7주일만입니다. 관광지명에 대해서 많은 공부를 하셨나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695907153000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600057",
+                    "participantID": "E0010",
+                    "utterance": "응 하다가 이번엔 외국지명 공부까지 넘어왔지모야. ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695907167000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "외국 관광지지명까지 공부하시는군요",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695907199000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600057",
+                    "participantID": "E0010",
+                    "utterance": "응 그래서 말인데 욀뤼데니즈 라고 알아?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695907240000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "욀뤼데니즈() 혹은 올루데니즈는 터키 물라 주에 있는 작은 휴양지 마을로 터키 남서 해안에 있으며 에게해를 마주하고 있습니다",
+                    "context": {
+                        "query": "욀뤼데니즈",
+                        "contents": [
+                            {
+                                "documentID": "372743",
+                                "documentTitle": "욀뤼데니즈",
+                                "content": [
+                                    "욀뤼데니즈() 혹은 올루데니즈는 터키 물라 주에 있는 작은 휴양지 마을이다.",
+                                    "터키 남서 해안에 있으며 에게해를 마주하고 있다.",
+                                    "바로 남쪽에는 가파른 경사의 해발 1,969m, 바바다 산이 위치 해 있다.",
+                                    "페티예 남쪽 14km에 위치해있으며 산간 리조트 마을인 히사뢰뉘(Hisarönü)와 인접해있다.",
+                                    "관광.",
+                                    "욀뤼데니즈의 해안은 블루 라군(blue lagoon)이라고 불리는 아름다운 석호로 대표된다.",
+                                    "이곳은 터키의 국가자연보호지역이며 건물을 짓는 것이 엄격히 금지되어 있다.",
+                                    "해안에는 많은 휴양지가 밀집하여 있으며, 여름에는 많은 관광객들이 몰린다.",
+                                    "성 니콜라스 섬(, )을 비롯하여 근처의 해안을 배로 여행하는 보트투어와 바바다 산 정상에서 시작하여 해안을 감상할 수 있는 패러글라이딩 등의 레포츠를 즐길 수 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "욀뤼데니즈 혹은 올루데니즈는 터키 물라 주에 있는 작은 휴양지 마을로 터키 남서 해안에 있으며 에게해를 마주하고 있다",
+                    "timestamp": 1695907332000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600057",
+                    "participantID": "E0010",
+                    "utterance": "작은 휴양지? 너무 멋진곳일꺼같다~",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695907381000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "욀뤼데니즈의 해안은 블루 라군(blue lagoon)이라고 불리는 아름다운 석호로 대표합니다",
+                    "context": {
+                        "query": "욀뤼데니즈",
+                        "contents": [
+                            {
+                                "documentID": "372743",
+                                "documentTitle": "욀뤼데니즈",
+                                "content": [
+                                    "욀뤼데니즈() 혹은 올루데니즈는 터키 물라 주에 있는 작은 휴양지 마을이다.",
+                                    "터키 남서 해안에 있으며 에게해를 마주하고 있다.",
+                                    "바로 남쪽에는 가파른 경사의 해발 1,969m, 바바다 산이 위치 해 있다.",
+                                    "페티예 남쪽 14km에 위치해있으며 산간 리조트 마을인 히사뢰뉘(Hisarönü)와 인접해있다.",
+                                    "관광.",
+                                    "욀뤼데니즈의 해안은 블루 라군(blue lagoon)이라고 불리는 아름다운 석호로 대표된다.",
+                                    "이곳은 터키의 국가자연보호지역이며 건물을 짓는 것이 엄격히 금지되어 있다.",
+                                    "해안에는 많은 휴양지가 밀집하여 있으며, 여름에는 많은 관광객들이 몰린다.",
+                                    "성 니콜라스 섬(, )을 비롯하여 근처의 해안을 배로 여행하는 보트투어와 바바다 산 정상에서 시작하여 해안을 감상할 수 있는 패러글라이딩 등의 레포츠를 즐길 수 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "욀뤼데니즈의 해안은 블루 라군(blue lagoon)이라고 불리는 아름다운 석호로 대표한다",
+                    "timestamp": 1695907442000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600057",
+                    "participantID": "E0010",
+                    "utterance": "블루라군? 아름다운 석호! 낭만적인군 그치만 여름엔 관광객도 많겠어~",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695907472000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "해안에는 많은 휴양지가 밀집하여 있으며, 여름에는 많은 관광객들이 몰립니다",
+                    "context": {
+                        "query": "욀뤼데니즈",
+                        "contents": [
+                            {
+                                "documentID": "372743",
+                                "documentTitle": "욀뤼데니즈",
+                                "content": [
+                                    "욀뤼데니즈() 혹은 올루데니즈는 터키 물라 주에 있는 작은 휴양지 마을이다.",
+                                    "터키 남서 해안에 있으며 에게해를 마주하고 있다.",
+                                    "바로 남쪽에는 가파른 경사의 해발 1,969m, 바바다 산이 위치 해 있다.",
+                                    "페티예 남쪽 14km에 위치해있으며 산간 리조트 마을인 히사뢰뉘(Hisarönü)와 인접해있다.",
+                                    "관광.",
+                                    "욀뤼데니즈의 해안은 블루 라군(blue lagoon)이라고 불리는 아름다운 석호로 대표된다.",
+                                    "이곳은 터키의 국가자연보호지역이며 건물을 짓는 것이 엄격히 금지되어 있다.",
+                                    "해안에는 많은 휴양지가 밀집하여 있으며, 여름에는 많은 관광객들이 몰린다.",
+                                    "성 니콜라스 섬(, )을 비롯하여 근처의 해안을 배로 여행하는 보트투어와 바바다 산 정상에서 시작하여 해안을 감상할 수 있는 패러글라이딩 등의 레포츠를 즐길 수 있다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false
+                        ]
+                    ],
+                    "summary": "해안에는 많은 휴양지가 밀집하여 있으며, 여름에는 많은 관광객들이 몰린다",
+                    "timestamp": 1695907509000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600057",
+                    "participantID": "E0010",
+                    "utterance": "난 사람많은 곳은 딱 질색이야",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 사람 많은 곳은 싫어한다",
+                    "timestamp": 1695907521000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "여름을 피해서 다른 계절에 방문하시면 좋을것 같습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695907554000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600057",
+                    "participantID": "E0010",
+                    "utterance": "아냐 에어컨 틀고 집에서 PC게임이나 해야겠어",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695907575000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000005",
+                    "participantID": "F0010",
+                    "utterance": "네, 좋은 시간 되시기 바랍니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1695907612000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 사람 많은 곳은 싫어한다"
+                ],
+                "wizard": [
+                    "욀뤼데니즈 혹은 올루데니즈는 터키 물라 주에 있는 작은 휴양지 마을로 터키 남서 해안에 있으며 에게해를 마주하고 있다",
+                    "욀뤼데니즈의 해안은 블루 라군(blue lagoon)이라고 불리는 아름다운 석호로 대표한다",
+                    "해안에는 많은 휴양지가 밀집하여 있으며, 여름에는 많은 관광객들이 몰린다"
+                ],
+                "dialogSummary": "질문자는 알뤼데니즈에 대해서 질문하였고 챗봇은 욀뤼데니즈 혹은 올루데니즈는 터키 물라 주에 있는 작은 휴양지 마을로 터키 남서 해안에 있으며 에게해를 마주하고 있고, 욀뤼데니즈의 해안은 블루 라군(blue lagoon)이라고 불리는 아름다운 석호로 대표한다, 해안에는 많은 휴양지가 밀집하여 있으며, 여름에는 많은 관광객들이 몰린다고 대답하였다"
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 관광지명에 대해서 공부하고 있다",
+                    "나는 역사여행을 좋아한다",
+                    "나는 PC게임을 매일 한다"
+                ],
+                "wizard": [
+                    "거창군의 서북쪽에 위치하고 있는 해발 280m의 분지이며, 원학골의 중심이다. 거창의 대표관광지인 수승대관광지, 금원산 자연휴양림 등이 소재하고 있으며, 거창국제연극제 등이 열리는 수려한 관광자원이 풍부하며 예부터 충효의 고장으로 서원, 정자, 고가 등의 문화유산이 풍부한 고장이다",
+                    "통일신라시대에는 남내와 여선현에 속했으며, 고려시대에는 감음현에 속하였고 조선시대 1471년 태종 17년에는 안음현, 1767년 영조 43년에는 안의현에, 1895년 고종 32년에는 안의군에 속하였으며 일제시대 1914년 3월 행정구역 조정으로 안의군에 속했던 고현면과 북하면을 합하여 가운데 흐르는 냇물의 이름을 따서 위천면으로 개칭하고 거창군에 편입되어 현재에 이르고있다"
+                ]
+            }
+        }
+    ]
+}

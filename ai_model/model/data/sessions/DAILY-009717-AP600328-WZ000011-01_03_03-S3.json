@@ -1,0 +1,1289 @@
+{
+    "FileInfo": {
+        "filename": "DAILY-009717-AP600328-WZ000011-01_03_03-S3.json",
+        "sessionLevel": "3"
+    },
+    "participantsInfo": {
+        "numberOfParticipants": "2",
+        "speaker1": {
+            "participantID": "E0025",
+            "gender": "여성",
+            "age": "40대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "관광학과"
+        },
+        "speaker2": {
+            "participantID": "F0025",
+            "gender": "남성",
+            "age": "40대",
+            "occupation": "사무직",
+            "bPlace": "서울/경기/인천",
+            "gPlace": "서울/경기/인천",
+            "rPlace": "서울/경기/인천",
+            "educationLevel": "대졸",
+            "major": "관광학과"
+        }
+    },
+    "multisessionInfo": {
+        "multisessionID": "009717"
+    },
+    "personaInfo": {
+        "apprenticeInfo": {
+            "personaID": "AP600328",
+            "personaFeatures": [
+                "나는 예술/디자인/방송의 개념에 대한 교육을 받고 있다.",
+                "나는 TV 음악 프로그램을 자주 본다",
+                "나는 도마뱀을 키우고 싶다"
+            ],
+            "speakerType": "speaker1"
+        },
+        "wizardInfo": {
+            "personaID": "WZ000011",
+            "personaFeatures": [
+                "나는 개념에 대해 잘 아는 챗봇이다."
+            ],
+            "speakerType": "speaker2"
+        }
+    },
+    "topicInfo": {
+        "topicID": "01_03_03",
+        "largeCategory": "직업",
+        "mediumCategory": "예술/디자인/방송",
+        "smallCategory": "개념"
+    },
+    "sessionInfo": [
+        {
+            "prevSessionID": "",
+            "prevTimeInfo": {
+                "timeNum": null,
+                "timeUnit": null
+            },
+            "nthSession": "1",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "009717-1",
+            "sessionKeywords": [
+                "*인벤션*,*인벤션*의 개념"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "안녕~ 오랜만이야~ 잘지내고 있어?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696313309000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "안녕하세요. 오랜만 입니다. 잘지내고 계셨어요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696313342000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "응 난 요즘 교육을 들으면서 지내.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696313385000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "아 그러시군요. 어떤 교육을 들으세요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696313406000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "나는 예술/디자인/방송의 개념에 대한 교육을 받고 있어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 예술/디자인/방송의 개념에 대한 교육을 받고 있다.",
+                    "timestamp": 1696313429000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "아 그러시구나. 혹시 궁금한거 있으신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696313476000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "어. 나 인벤션에 대해서 알려줄래?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696313499000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "인벤션(Invention)이란 악곡의 형식으로, 다성음악으로 된 즉흥곡이고 '발명', '창의'를 뜻하는 라틴어 inven­tio에서 비롯한 것입니다.",
+                    "context": {
+                        "query": "인벤션",
+                        "contents": [
+                            {
+                                "documentID": "329655",
+                                "documentTitle": "인벤션",
+                                "content": [
+                                    "인벤션(Invention)이란 악곡의 형식으로, 다성음악으로 된 즉흥곡이다.",
+                                    "'발명', '창의'를 뜻하는 라틴어 inven­tio에서 비롯한 것이다.",
+                                    "보통 바흐의 《인벤션과 신포니아》(1723)을 가리킨다.",
+                                    "바흐는 2성부의 열다섯 곡을 《인벤션》, 3성부의 열다섯 곡을 《신포니아(Sinfonia)》라는 이름 붙였으나, 오늘날에는 이 30곡 모두를 아울러 《인벤션》이라 부른다.",
+                                    "이 곡들은 모방 대위법에 따라 쓴 작품이다.",
+                                    "바흐 자신의 표제가 나타내듯이, 이것은 연주의 교본인 동시에 좋은 악상(인벤티오)을 훌륭하게 전개하는 것도 가르친다.",
+                                    "특징.",
+                                    "모방 양식이 채택된 기악곡으로, 짧은 제시부와 약간 긴 전개부로 구성되어, 일부 곡에서는 짧은 재현부에 의해 닫힌다.",
+                                    "푸가와 교향곡과 달리 주제의 응답에 딸림조를 필요하지 않는다.",
+                                    "바흐의 인벤션에서는 제시부에 전조를 포함해, 장조 작품은 딸림조로, 단조 작품에서는 나란한조로 이동하여, 종종 전조하고 새 요소를 포함하기 때문에, 거기에 소나타 형식의 맹아를 보는 의견도 있다."
+                                ]
+                            },
+                            {
+                                "documentID": "829749",
+                                "documentTitle": "마더스 오브 인벤션",
+                                "content": [
+                                    "마더스 오브 인벤션(The Mothers of Invention)은 캘리포니아 출신 미국의 록 밴드였다.",
+                                    "1964년에 만들어진 그들의 작품은 소닉 실험, 혁신적인 앨범 아트, 그리고 정교한 라이브 쇼의 사용으로 특징지어진다.",
+                                    "원래 소울 자이언츠라고 불리는 리듬 앤 블루스 밴드의 첫 라인업에는 레이 콜린스, 데이비드 코로나도, 레이 헌트, 로이 에스트라다, 지미 칼 블랙이 포함되었다.",
+                                    "프랭크 자파는 이 밴드의 원조 색소폰 연주자/리더인 콜린스와 코로나도의 싸움에 이어 기타리스트를 맡아달라는 요청을 받았다.",
+                                    "자파는 그들이 자신의 원작을 공연할 것을 주장했고, 1964년 어머니의 날에 그들의 이름을 마더스로 바꾸었다.",
+                                    "음반사 간부들은 이름을 바꾸라고 요구했고, 그래서 \"필수적으로\" 자파는 나중에 \"우리는 발명품의 어머니가 되었다\"고 말했다.",
+                                    "초기 투쟁 후에, 마더스는 상당한 대중적인 상업적 성공을 거두었다.",
+                                    "이 밴드는 1960년대 후반 캘리포니아의 언더그라운드 음악 무대에서 처음 연주되는 인기를 얻었다.",
+                                    "자파의 지휘 아래, 그것은 레이블의 다양화 계획의 일환으로 재즈 레이블인 버브 레코드와 계약되었다.",
+                                    "버브는 1966년에 자파, 콜린스, 블랙, 에스트라다, 엘리엇 잉버를 포함한 라인업을 특징으로 하는 마더스 오브 인벤션의 데뷔 더블 음반 《Freak Out!》을 발매했고, 돈 프레스톤은 곧 밴드에 합류했다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "인벤션(Invention)이란 악곡의 형식으로, 다성음악으로 된 즉흥곡이고 '발명', '창의'를 뜻하는 라틴어 inven­tio에서 비롯한 것이다.",
+                    "timestamp": 1696313559000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "아하 인벤션이 그런 뜻이구나~",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696313581000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "보통 바흐의 《인벤션과 신포니아》(1723)을 가리키며 바흐는 2성부의 열다섯 곡을 《인벤션》, 3성부의 열다섯 곡을 《신포니아(Sinfonia)》라는 이름 붙였으나, 오늘날에는 이 30곡 모두를 아울러 《인벤션》이라 부릅니다.",
+                    "context": {
+                        "query": "인벤션",
+                        "contents": [
+                            {
+                                "documentID": "329655",
+                                "documentTitle": "인벤션",
+                                "content": [
+                                    "인벤션(Invention)이란 악곡의 형식으로, 다성음악으로 된 즉흥곡이다.",
+                                    "'발명', '창의'를 뜻하는 라틴어 inven­tio에서 비롯한 것이다.",
+                                    "보통 바흐의 《인벤션과 신포니아》(1723)을 가리킨다.",
+                                    "바흐는 2성부의 열다섯 곡을 《인벤션》, 3성부의 열다섯 곡을 《신포니아(Sinfonia)》라는 이름 붙였으나, 오늘날에는 이 30곡 모두를 아울러 《인벤션》이라 부른다.",
+                                    "이 곡들은 모방 대위법에 따라 쓴 작품이다.",
+                                    "바흐 자신의 표제가 나타내듯이, 이것은 연주의 교본인 동시에 좋은 악상(인벤티오)을 훌륭하게 전개하는 것도 가르친다.",
+                                    "특징.",
+                                    "모방 양식이 채택된 기악곡으로, 짧은 제시부와 약간 긴 전개부로 구성되어, 일부 곡에서는 짧은 재현부에 의해 닫힌다.",
+                                    "푸가와 교향곡과 달리 주제의 응답에 딸림조를 필요하지 않는다.",
+                                    "바흐의 인벤션에서는 제시부에 전조를 포함해, 장조 작품은 딸림조로, 단조 작품에서는 나란한조로 이동하여, 종종 전조하고 새 요소를 포함하기 때문에, 거기에 소나타 형식의 맹아를 보는 의견도 있다."
+                                ]
+                            },
+                            {
+                                "documentID": "829749",
+                                "documentTitle": "마더스 오브 인벤션",
+                                "content": [
+                                    "마더스 오브 인벤션(The Mothers of Invention)은 캘리포니아 출신 미국의 록 밴드였다.",
+                                    "1964년에 만들어진 그들의 작품은 소닉 실험, 혁신적인 앨범 아트, 그리고 정교한 라이브 쇼의 사용으로 특징지어진다.",
+                                    "원래 소울 자이언츠라고 불리는 리듬 앤 블루스 밴드의 첫 라인업에는 레이 콜린스, 데이비드 코로나도, 레이 헌트, 로이 에스트라다, 지미 칼 블랙이 포함되었다.",
+                                    "프랭크 자파는 이 밴드의 원조 색소폰 연주자/리더인 콜린스와 코로나도의 싸움에 이어 기타리스트를 맡아달라는 요청을 받았다.",
+                                    "자파는 그들이 자신의 원작을 공연할 것을 주장했고, 1964년 어머니의 날에 그들의 이름을 마더스로 바꾸었다.",
+                                    "음반사 간부들은 이름을 바꾸라고 요구했고, 그래서 \"필수적으로\" 자파는 나중에 \"우리는 발명품의 어머니가 되었다\"고 말했다.",
+                                    "초기 투쟁 후에, 마더스는 상당한 대중적인 상업적 성공을 거두었다.",
+                                    "이 밴드는 1960년대 후반 캘리포니아의 언더그라운드 음악 무대에서 처음 연주되는 인기를 얻었다.",
+                                    "자파의 지휘 아래, 그것은 레이블의 다양화 계획의 일환으로 재즈 레이블인 버브 레코드와 계약되었다.",
+                                    "버브는 1966년에 자파, 콜린스, 블랙, 에스트라다, 엘리엇 잉버를 포함한 라인업을 특징으로 하는 마더스 오브 인벤션의 데뷔 더블 음반 《Freak Out!》을 발매했고, 돈 프레스톤은 곧 밴드에 합류했다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            true,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "보통 바흐의 《인벤션과 신포니아》(1723)을 가리키며 바흐는 2성부의 열다섯 곡을 《인벤션》, 3성부의 열다섯 곡을 《신포니아(Sinfonia)》라는 이름 붙였으나, 오늘날에는 이 30곡 모두를 아울러 《인벤션》이라 부른다.",
+                    "timestamp": 1696313614000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "아 그렇구나~ 궁금한게 해결됐네~ 잘 알려줘서 고마워",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696313669000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "바흐의 곡들도 한번 들어보세요. 좋은 음악 입니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696313696000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "그래 그거 좋은 생각이다. 꼭 들어볼께.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696313719000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "네. 음악 들으면서 좋은시간 보내세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696313751000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 예술/디자인/방송의 개념에 대한 교육을 받고 있다."
+                ],
+                "wizard": [
+                    "인벤션(Invention)이란 악곡의 형식으로, 다성음악으로 된 즉흥곡이고 '발명', '창의'를 뜻하는 라틴어 inven­tio에서 비롯한 것이다.",
+                    "보통 바흐의 《인벤션과 신포니아》(1723)을 가리키며 바흐는 2성부의 열다섯 곡을 《인벤션》, 3성부의 열다섯 곡을 《신포니아(Sinfonia)》라는 이름 붙였으나, 오늘날에는 이 30곡 모두를 아울러 《인벤션》이라 부른다."
+                ],
+                "dialogSummary": "질문자는 인벤션에 대해서 질문했고 챗봇은 인벤션(Invention)이란 악곡의 형식으로, 다성음악으로 된 즉흥곡이고 '발명', '창의'를 뜻하는 라틴어 inven­tio에서 비롯한 것이다.보통 바흐의 《인벤션과 신포니아》(1723)을 가리키며 바흐는 2성부의 열다섯 곡을 《인벤션》, 3성부의 열다섯 곡을 《신포니아(Sinfonia)》라는 이름 붙였으나, 오늘날에는 이 30곡 모두를 아울러 《인벤션》이라 부른다고 답변했다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [],
+                "wizard": []
+            }
+        },
+        {
+            "prevSessionID": "009717-1",
+            "prevTimeInfo": {
+                "timeNum": "1",
+                "timeUnit": "시간"
+            },
+            "nthSession": "2",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "009717-2",
+            "sessionKeywords": [
+                "*먼데이 나이트 워스*,*먼데이 나이트 워스*의 개념"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "어머 벌써 1시간이 지났네~ ",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696313951000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "시간이 금방 가네요. 벌써 1시간이 지났습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696313968000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "그러게 TV보고 있으니 시간이 금방가네~",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696314002000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "아 TV보고 있으셨어요? 어떤 프로그램을 보시나요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696314046000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "나는 TV 음악 프로그램을 자주 보고 있어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 TV 음악 프로그램을 자주 본다.",
+                    "timestamp": 1696314065000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "아 음악 프로그램을 좋아하시는군요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696314511000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "응 근데 TV보다 먼데이 나이트 워스라는 걸 들었는데 이게 뭔지 알려줄래?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696314583000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "먼데이 나이트 워스(), 혹은 월요일 밤의 전쟁은 1995년 9월 4일부터 2001년 3월 26일까지 미국의 프로레슬링 프로그램의 시청률 경쟁을 가리키고  WWF의 《먼데이 나이트 로우》와 WCW의 《먼데이 나이트로》가 매주 월요일 밤 같은 시간대에 시청률을 겨뤘습니다.",
+                    "context": {
+                        "query": "먼데이 나이트 워스",
+                        "contents": [
+                            {
+                                "documentID": "1083009",
+                                "documentTitle": "먼데이 나이트 워스",
+                                "content": [
+                                    "먼데이 나이트 워스(), 혹은 월요일 밤의 전쟁은 1995년 9월 4일부터 2001년 3월 26일까지 미국의 프로레슬링 프로그램의 시청률 경쟁을 가리킨다.",
+                                    "WWF의 《먼데이 나이트 로우》와 WCW의 《먼데이 나이트로》가 매주 월요일 밤 같은 시간대에 시청률을 겨뤘다.",
+                                    "2대 단체 사이의 경쟁은 단체간에 많은 레슬러의 해고 등이 반복되었다.",
+                                    "이 싸움은 WCW의 소멸에 의해 종료되었다.",
+                                    "2010년 임팩트 레슬링이 월요일 밤으로 이동하면서 9년만에 다시 먼데이 나이트 워스가 재현되지만 일방적으로 WWE가 승리하였고 2010년 5월 《임팩트 레슬링》은 목요일 밤으로 방영 시간을 옮긴다.",
+                                    "발단.",
+                                    "먼데이 나이트 워스는 1988년 미국의 방송 재벌이던 테드 터너가 NWA 산하의 브랜드인 WCW를 인수하면서 시작되었다.",
+                                    "이전까지 WCW는 현재의 RAW 등과 같이 일개 TV 쇼에 지나지 않았으나 이 시점에서 WCW는 일개 브랜드에서 레슬링 단체가 되었고 1993년에는 완전히 NWA와 결별해 독립된 레슬링 단체가 된다.",
+                                    "1994년에는 에릭 비숍을 부사장으로 영입하면서 자극적이고 선정적인 스토리와 테드 터너의 막대한 자금력을 앞세워 이전까지 레슬링 업계 1위 단체이던 WWF를 압박했고 대량의 선수들을 WCW로 끌어오면서 상업적으로 WWF를 압도하기 시작하였다.",
+                                    "이 때부터 레슬링 업계는 WWF와 WCW의 양강 구도가 형성되었고 WWF의 RAW와 WCW의 WCW 먼데이 나이트로의 방송 시간이 겹치는 월요일 저녁을 일컬어 월요일 밤의 전쟁이라 부르게 된다.",
+                                    "WCW의 약진.",
+                                    "WCW는 1996년부터 WWF와의 시청률 경쟁에서 앞서나가기 시작하였고 막강한 자금력으로 헐크 호건, 케빈 내시, 스캇 홀 등의 유명 선수들을 빼앗아 갔다.",
+                                    "또한 이전까지 어린이와 청소년 계층을 중심으로 한 전연령 등급을 대상으로 했던 레슬링 프로그램을 성인 계층을 대상으로 올려잡았고 이를 위해 자극적이고도 흥미로운 스토리를 내세워 많은 상업적 성과를 올렸고 관람객들로부터 큰 호응을 받았다.",
+                                    "반면 WWF는 여러 선수들을 빼앗겨 관중들을 자극할 만한 유명 인사가 부족한 지경에 이르렀고 WCW의 조치로 인해 변해가는 레슬링 트렌드를 쉽게 따라가지 못하면서 시청률 경쟁에서 무려 84주 간 밀리는 등 기나긴 쇠퇴기를 겪게 된다.",
+                                    "특히 1997년에는 거의 유일하게 남아있던 기존의 유명 선수였던 브렛 하트까지 WCW로 이적하게 되면서 WWF의 열세는 극에 달했고, 위기의식을 느낀 WWF의 소유주 빈스 맥마흔은 몬트리올 스크류잡이라는 사건까지 일으키면서 WWF의 열세는 확연해지는 듯 보였다.",
+                                    "WWF의 반격.",
+                                    "WCW와의 경쟁에서 밀려나던 WWF는 차츰 WCW와 마찬가지로 기존의 방식에서 자극적이고 선정적인 스토리라인을 통한 경쟁 구도를 따라가기 시작했다.",
+                                    "여기에 빼앗긴 유명 선수들을 대신하기 위해 스톤 콜드 스티브 오스틴이나 드웨인 존슨 등의 걸출한 선수들을 키워내기 시작하였고 여기에 이전까지는 해설자나 각본가로서만 개입하던 사업주 빈스 맥마흔이 직접 스토리라인에 개입하여 선수들과의 대립 구도를 형성하면서 차츰 인기를 되찾아가기 시작하였다.",
+                                    "이러한 신선한 구도로 인해 프로레슬링 시청의 주요 연령층은 이전의 저연령층에서 성인층으로 확연하게 이동하게 되었고, 레슬링 자체의 시청률도 크게 치솟으면서 레슬링 산업은 전례 없는 호황을 맞게 된다.",
+                                    "WCW의 쇠퇴.",
+                                    "이러한 발전에도 불구하고 두 단체 간의 경쟁은 여전히 WCW가 앞서 있었으며 1998년까지도 시청률 경쟁에서는 WCW가 앞서 있었다.",
+                                    "그러나 WCW는 오랜 우위와 성공에 취한 듯 nWo를 비롯한 기존의 유명 선수층으로 짜여진 스토리라인만을 반복하였고 이에 진부함을 느낀 시청자들이 차츰 WWF로 관심을 돌리면서 1998년 4월에는 84주만에 WWF에 시청률을 추월당하게 되었다.",
+                                    "이후 두 단체 간의 경쟁은 서로 앞서기를 반복하며 대등한 경쟁을 벌이기 시작했으나, WWF가 지속적으로 변화하는 다채로운 스토리라인을 구상하는 것과 대조적으로 WCW의 방침은 여전히 변하지 않았다.",
+                                    "결국 1999년 1월 4일 WCW 먼데이 나이트로에서 케빈 내시와 헐크 호건의 경기에서 호건의 손가락 찌르기 한 번에 내시가 쓰러져 패하는 황당무계하고도 악명높은 경기가 방송된 이후 WWF는 완벽하게 경쟁에서 우위를 가져가게 되었고, WCW는 더 이상 상대가 되지 못 하게 되었다.",
+                                    "결말.",
+                                    "2001년 WCW의 모기업이 부진을 거듭하는 WCW를 매각하였고 WWF가 이를 인수하면서 월요일 밤의 전쟁은 종결되었다.",
+                                    "이후 대부분의 WCW 출신 선수들은 WWF로 흡수되었으나, 대부분 이전만큼의 대우를 받지 못하다가 방출되었다.",
+                                    "새로운 전쟁의 시작.",
+                                    "2019년 올 엘리트 레슬링이 창설되면서 과거 WCW 먼데이 나이트로를 방영한 TNT에서 10월 2일부터 매주 수요일 밤 8시부터 2시간동안 AEW 다이너마이트를 방영하게 되었고, 같은 시기에 WWE가 NXT를 USA 네트워크에 편성하기로 하면서 진정한 2차 시청률 경쟁이 시작된다.",
+                                    "웬즈데이 나잇 워스가 열리게 된 것이다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "먼데이 나이트 워스(), 혹은 월요일 밤의 전쟁은 1995년 9월 4일부터 2001년 3월 26일까지 미국의 프로레슬링 프로그램의 시청률 경쟁을 가리키고 WWF의 《먼데이 나이트 로우》와 WCW의 《먼데이 나이트로》가 매주 월요일 밤 같은 시간대에 시청률을 겨뤘다.",
+                    "timestamp": 1696314622000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "아하 먼데이 나이트 워스가 그런 뜻이구나.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696314643000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "2010년 임팩트 레슬링이 월요일 밤으로 이동하면서 9년만에 다시 먼데이 나이트 워스가 재현되지만 일방적으로 WWE가 승리하였고 2010년 5월 《임팩트 레슬링》은 목요일 밤으로 방영 시간을 옮겼습니다.",
+                    "context": {
+                        "query": "먼데이 나이트 워스",
+                        "contents": [
+                            {
+                                "documentID": "1083009",
+                                "documentTitle": "먼데이 나이트 워스",
+                                "content": [
+                                    "먼데이 나이트 워스(), 혹은 월요일 밤의 전쟁은 1995년 9월 4일부터 2001년 3월 26일까지 미국의 프로레슬링 프로그램의 시청률 경쟁을 가리킨다.",
+                                    "WWF의 《먼데이 나이트 로우》와 WCW의 《먼데이 나이트로》가 매주 월요일 밤 같은 시간대에 시청률을 겨뤘다.",
+                                    "2대 단체 사이의 경쟁은 단체간에 많은 레슬러의 해고 등이 반복되었다.",
+                                    "이 싸움은 WCW의 소멸에 의해 종료되었다.",
+                                    "2010년 임팩트 레슬링이 월요일 밤으로 이동하면서 9년만에 다시 먼데이 나이트 워스가 재현되지만 일방적으로 WWE가 승리하였고 2010년 5월 《임팩트 레슬링》은 목요일 밤으로 방영 시간을 옮긴다.",
+                                    "발단.",
+                                    "먼데이 나이트 워스는 1988년 미국의 방송 재벌이던 테드 터너가 NWA 산하의 브랜드인 WCW를 인수하면서 시작되었다.",
+                                    "이전까지 WCW는 현재의 RAW 등과 같이 일개 TV 쇼에 지나지 않았으나 이 시점에서 WCW는 일개 브랜드에서 레슬링 단체가 되었고 1993년에는 완전히 NWA와 결별해 독립된 레슬링 단체가 된다.",
+                                    "1994년에는 에릭 비숍을 부사장으로 영입하면서 자극적이고 선정적인 스토리와 테드 터너의 막대한 자금력을 앞세워 이전까지 레슬링 업계 1위 단체이던 WWF를 압박했고 대량의 선수들을 WCW로 끌어오면서 상업적으로 WWF를 압도하기 시작하였다.",
+                                    "이 때부터 레슬링 업계는 WWF와 WCW의 양강 구도가 형성되었고 WWF의 RAW와 WCW의 WCW 먼데이 나이트로의 방송 시간이 겹치는 월요일 저녁을 일컬어 월요일 밤의 전쟁이라 부르게 된다.",
+                                    "WCW의 약진.",
+                                    "WCW는 1996년부터 WWF와의 시청률 경쟁에서 앞서나가기 시작하였고 막강한 자금력으로 헐크 호건, 케빈 내시, 스캇 홀 등의 유명 선수들을 빼앗아 갔다.",
+                                    "또한 이전까지 어린이와 청소년 계층을 중심으로 한 전연령 등급을 대상으로 했던 레슬링 프로그램을 성인 계층을 대상으로 올려잡았고 이를 위해 자극적이고도 흥미로운 스토리를 내세워 많은 상업적 성과를 올렸고 관람객들로부터 큰 호응을 받았다.",
+                                    "반면 WWF는 여러 선수들을 빼앗겨 관중들을 자극할 만한 유명 인사가 부족한 지경에 이르렀고 WCW의 조치로 인해 변해가는 레슬링 트렌드를 쉽게 따라가지 못하면서 시청률 경쟁에서 무려 84주 간 밀리는 등 기나긴 쇠퇴기를 겪게 된다.",
+                                    "특히 1997년에는 거의 유일하게 남아있던 기존의 유명 선수였던 브렛 하트까지 WCW로 이적하게 되면서 WWF의 열세는 극에 달했고, 위기의식을 느낀 WWF의 소유주 빈스 맥마흔은 몬트리올 스크류잡이라는 사건까지 일으키면서 WWF의 열세는 확연해지는 듯 보였다.",
+                                    "WWF의 반격.",
+                                    "WCW와의 경쟁에서 밀려나던 WWF는 차츰 WCW와 마찬가지로 기존의 방식에서 자극적이고 선정적인 스토리라인을 통한 경쟁 구도를 따라가기 시작했다.",
+                                    "여기에 빼앗긴 유명 선수들을 대신하기 위해 스톤 콜드 스티브 오스틴이나 드웨인 존슨 등의 걸출한 선수들을 키워내기 시작하였고 여기에 이전까지는 해설자나 각본가로서만 개입하던 사업주 빈스 맥마흔이 직접 스토리라인에 개입하여 선수들과의 대립 구도를 형성하면서 차츰 인기를 되찾아가기 시작하였다.",
+                                    "이러한 신선한 구도로 인해 프로레슬링 시청의 주요 연령층은 이전의 저연령층에서 성인층으로 확연하게 이동하게 되었고, 레슬링 자체의 시청률도 크게 치솟으면서 레슬링 산업은 전례 없는 호황을 맞게 된다.",
+                                    "WCW의 쇠퇴.",
+                                    "이러한 발전에도 불구하고 두 단체 간의 경쟁은 여전히 WCW가 앞서 있었으며 1998년까지도 시청률 경쟁에서는 WCW가 앞서 있었다.",
+                                    "그러나 WCW는 오랜 우위와 성공에 취한 듯 nWo를 비롯한 기존의 유명 선수층으로 짜여진 스토리라인만을 반복하였고 이에 진부함을 느낀 시청자들이 차츰 WWF로 관심을 돌리면서 1998년 4월에는 84주만에 WWF에 시청률을 추월당하게 되었다.",
+                                    "이후 두 단체 간의 경쟁은 서로 앞서기를 반복하며 대등한 경쟁을 벌이기 시작했으나, WWF가 지속적으로 변화하는 다채로운 스토리라인을 구상하는 것과 대조적으로 WCW의 방침은 여전히 변하지 않았다.",
+                                    "결국 1999년 1월 4일 WCW 먼데이 나이트로에서 케빈 내시와 헐크 호건의 경기에서 호건의 손가락 찌르기 한 번에 내시가 쓰러져 패하는 황당무계하고도 악명높은 경기가 방송된 이후 WWF는 완벽하게 경쟁에서 우위를 가져가게 되었고, WCW는 더 이상 상대가 되지 못 하게 되었다.",
+                                    "결말.",
+                                    "2001년 WCW의 모기업이 부진을 거듭하는 WCW를 매각하였고 WWF가 이를 인수하면서 월요일 밤의 전쟁은 종결되었다.",
+                                    "이후 대부분의 WCW 출신 선수들은 WWF로 흡수되었으나, 대부분 이전만큼의 대우를 받지 못하다가 방출되었다.",
+                                    "새로운 전쟁의 시작.",
+                                    "2019년 올 엘리트 레슬링이 창설되면서 과거 WCW 먼데이 나이트로를 방영한 TNT에서 10월 2일부터 매주 수요일 밤 8시부터 2시간동안 AEW 다이너마이트를 방영하게 되었고, 같은 시기에 WWE가 NXT를 USA 네트워크에 편성하기로 하면서 진정한 2차 시청률 경쟁이 시작된다.",
+                                    "웬즈데이 나잇 워스가 열리게 된 것이다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "2010년 임팩트 레슬링이 월요일 밤으로 이동하면서 9년만에 다시 먼데이 나이트 워스가 재현되지만 일방적으로 WWE가 승리하였고 2010년 5월 《임팩트 레슬링》은 목요일 밤으로 방영 시간을 옮겼다.",
+                    "timestamp": 1696314671000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "아 그랬구나. 재미있는 정보다. 고마워~",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696314696000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "고맙기는요. 궁금한게 있으시면 언제든지 물어보세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696314732000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "응 그래~ 다음에 또 대화하자~",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696314838000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "네. 오늘도 좋은하루 되세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696314857000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 TV 음악 프로그램을 자주 본다."
+                ],
+                "wizard": [
+                    "먼데이 나이트 워스(), 혹은 월요일 밤의 전쟁은 1995년 9월 4일부터 2001년 3월 26일까지 미국의 프로레슬링 프로그램의 시청률 경쟁을 가리키고 WWF의 《먼데이 나이트 로우》와 WCW의 《먼데이 나이트로》가 매주 월요일 밤 같은 시간대에 시청률을 겨뤘다.",
+                    "2010년 임팩트 레슬링이 월요일 밤으로 이동하면서 9년만에 다시 먼데이 나이트 워스가 재현되지만 일방적으로 WWE가 승리하였고 2010년 5월 《임팩트 레슬링》은 목요일 밤으로 방영 시간을 옮겼다."
+                ],
+                "dialogSummary": "질문자는 먼데이 나이트 워스에 대해 질문하였고 챗봇은 먼데이 나이트 워스(), 혹은 월요일 밤의 전쟁은 1995년 9월 4일부터 2001년 3월 26일까지 미국의 프로레슬링 프로그램의 시청률 경쟁을 가리키고 WWF의 《먼데이 나이트 로우》와 WCW의 《먼데이 나이트로》가 매주 월요일 밤 같은 시간대에 시청률을 겨뤘다고 하였다. 2010년 임팩트 레슬링이 월요일 밤으로 이동하면서 9년만에 다시 먼데이 나이트 워스가 재현되지만 일방적으로 WWE가 승리하였고 2010년 5월 《임팩트 레슬링》은 목요일 밤으로 방영 시간을 옮겼다고 하였다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 예술/디자인/방송의 개념에 대한 교육을 받고 있다."
+                ],
+                "wizard": [
+                    "인벤션(Invention)이란 악곡의 형식으로, 다성음악으로 된 즉흥곡이고 '발명', '창의'를 뜻하는 라틴어 inven­tio에서 비롯한 것이다.",
+                    "보통 바흐의 《인벤션과 신포니아》(1723)을 가리키며 바흐는 2성부의 열다섯 곡을 《인벤션》, 3성부의 열다섯 곡을 《신포니아(Sinfonia)》라는 이름 붙였으나, 오늘날에는 이 30곡 모두를 아울러 《인벤션》이라 부른다."
+                ]
+            }
+        },
+        {
+            "prevSessionID": "009717-2",
+            "prevTimeInfo": {
+                "timeNum": "4",
+                "timeUnit": "주"
+            },
+            "nthSession": "3",
+            "numberOfUtterances": "14",
+            "numberOfTurns": "7",
+            "sessionID": "009717-3",
+            "sessionKeywords": [
+                "*레인보우 스트리트*,*레인보우 스트리트*의 개념"
+            ],
+            "dialog": [
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "안녕~ 4주일이 지났어. 시간 빠르네~",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696314970000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "안녕하세요. 벌써 4주일이 지났네요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696314984000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "내가 요즘 고민 되는게 있어.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696315108000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "고민이요? 무슨 고민이신가요?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696315120000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "나는 도마뱀을 키우고 싶은데 잘 키울 수 있을까 ?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "나는 도마뱀을 키우고 싶다.",
+                    "timestamp": 1696315141000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "아 도마뱀을 좋아하시는군요. 도마뱀 키우는 사람들의 경험을 들어보시고 생각해 보시는게 좋을 듯 합니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696315237000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "그래. 경험자 얘기를 들어보고 결정해야겠다. 그런데 엄마가 요즘 즐겨듣는 라디오 방송이 있는데 무슨 프로그램인지 궁금하네. 레인보우 스트리트라고 알고있니?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696315331000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "《김형준의 레인보우 스트리트》는 대한민국의 방송국 기독교방송의 라디오 채널 CBS 음악FM에서 매일 밤 12시부터 새벽 2시까지 방송되는 프로그램입니다.",
+                    "context": {
+                        "query": "레인보우 스트리트",
+                        "contents": [
+                            {
+                                "documentID": "1102065",
+                                "documentTitle": "레인보우 스트리트",
+                                "content": [
+                                    "《김형준의 레인보우 스트리트》는 대한민국의 방송국 기독교방송의 라디오 채널 CBS 음악FM에서 매일 밤 12시부터 새벽 2시까지 방송되는 프로그램이다.",
+                                    "수도권 초단파 93.9MHz, 부산광역시 초단파 102.1MHz, 서부산 초단파 105.3MHz, 대구광역시 전지역, 경산, 구미, 칠곡, 성주, 고령 등 경북 일부지역에서는 초단파 97.1MHz이지만, 지방의 경우 CBS 인터넷 라디오인 레인보우와 스마트폰의 레인보우 앱으로 들을 수 있다.",
+                                    "역사.",
+                                    "2014년 CBS 라디오 봄 개편에 의해 신설됐으며 초창기 때는 매일 다른 진행자가 각각 다른 느낌의 음악을 방송하였으나, 2015년 CBS 가을 개편 이후부터 CBS 라디오 김형준 PD가 단독 진행하여 방송시간이 종전 새벽 2시에서 밤 12시로 옮겼으며, 이 시간에 방송됐던 《올 댓 재즈》와 방송 시간을 서로 맞바꿨다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            true,
+                            false,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "《김형준의 레인보우 스트리트》는 대한민국의 방송국 기독교방송의 라디오 채널 CBS 음악FM에서 매일 밤 12시부터 새벽 2시까지 방송되는 프로그램이다.",
+                    "timestamp": 1696315427000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "아 기독교방송이구나. 주파수 알려줄래?",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696315455000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "수도권 초단파 93.9MHz, 부산광역시 초단파 102.1MHz, 서부산 초단파 105.3MHz, 대구광역시 전지역, 경산, 구미, 칠곡, 성주, 고령 등 경북 일부지역에서는 초단파 97.1MHz이지만, 지방의 경우 CBS 인터넷 라디오인 레인보우와 스마트폰의 레인보우 앱으로 들을 수 있습니다.",
+                    "context": {
+                        "query": "레인보우 스트리트",
+                        "contents": [
+                            {
+                                "documentID": "1102065",
+                                "documentTitle": "레인보우 스트리트",
+                                "content": [
+                                    "《김형준의 레인보우 스트리트》는 대한민국의 방송국 기독교방송의 라디오 채널 CBS 음악FM에서 매일 밤 12시부터 새벽 2시까지 방송되는 프로그램이다.",
+                                    "수도권 초단파 93.9MHz, 부산광역시 초단파 102.1MHz, 서부산 초단파 105.3MHz, 대구광역시 전지역, 경산, 구미, 칠곡, 성주, 고령 등 경북 일부지역에서는 초단파 97.1MHz이지만, 지방의 경우 CBS 인터넷 라디오인 레인보우와 스마트폰의 레인보우 앱으로 들을 수 있다.",
+                                    "역사.",
+                                    "2014년 CBS 라디오 봄 개편에 의해 신설됐으며 초창기 때는 매일 다른 진행자가 각각 다른 느낌의 음악을 방송하였으나, 2015년 CBS 가을 개편 이후부터 CBS 라디오 김형준 PD가 단독 진행하여 방송시간이 종전 새벽 2시에서 밤 12시로 옮겼으며, 이 시간에 방송됐던 《올 댓 재즈》와 방송 시간을 서로 맞바꿨다."
+                                ]
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        [
+                            false,
+                            true,
+                            false,
+                            false
+                        ]
+                    ],
+                    "summary": "수도권 초단파 93.9MHz, 부산광역시 초단파 102.1MHz, 서부산 초단파 105.3MHz, 대구광역시 전지역, 경산, 구미, 칠곡, 성주, 고령 등 경북 일부지역에서는 초단파 97.1MHz이지만, 지방의 경우 CBS 인터넷 라디오인 레인보우와 스마트폰의 레인보우 앱으로 들을 수 있다.",
+                    "timestamp": 1696315480000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "응 고마워~ 나도 한번 들어보려고.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696315494000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "어머니께서 즐겨듣는 라디오 방송이니 한번 들어보시면 좋을 것 같습니다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696315535000
+                },
+                {
+                    "speaker": "speaker1",
+                    "personaID": "AP600328",
+                    "participantID": "E0025",
+                    "utterance": "응 맞아. 그 시간대 들을 만한게 없었는데 나도 들어봐야겠다.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696315575000
+                },
+                {
+                    "speaker": "speaker2",
+                    "personaID": "WZ000011",
+                    "participantID": "F0025",
+                    "utterance": "네. 또 궁금한게 있으시면 언제든지 물어보세요.",
+                    "context": {
+                        "query": null,
+                        "contents": [
+                            {
+                                "documentID": null,
+                                "documentTitle": null,
+                                "content": []
+                            }
+                        ]
+                    },
+                    "selectedContents": [
+                        []
+                    ],
+                    "summary": "",
+                    "timestamp": 1696315601000
+                }
+            ],
+            "sessionSummary": {
+                "apprentice": [
+                    "나는 도마뱀을 키우고 싶다."
+                ],
+                "wizard": [
+                    "《김형준의 레인보우 스트리트》는 대한민국의 방송국 기독교방송의 라디오 채널 CBS 음악FM에서 매일 밤 12시부터 새벽 2시까지 방송되는 프로그램이다.",
+                    "수도권 초단파 93.9MHz, 부산광역시 초단파 102.1MHz, 서부산 초단파 105.3MHz, 대구광역시 전지역, 경산, 구미, 칠곡, 성주, 고령 등 경북 일부지역에서는 초단파 97.1MHz이지만, 지방의 경우 CBS 인터넷 라디오인 레인보우와 스마트폰의 레인보우 앱으로 들을 수 있다."
+                ],
+                "dialogSummary": "질문자는 레인보우 스트리트에 대해 질문하였고 챗봇은 《김형준의 레인보우 스트리트》는 대한민국의 방송국 기독교방송의 라디오 채널 CBS 음악FM에서 매일 밤 12시부터 새벽 2시까지 방송되는 프로그램이라고 답변하였다."
+            },
+            "prevAggregatedSummary": {
+                "apprentice": [
+                    "나는 예술/디자인/방송의 개념에 대한 교육을 받고 있다.",
+                    "나는 TV 음악 프로그램을 자주 본다."
+                ],
+                "wizard": [
+                    "인벤션(Invention)이란 악곡의 형식으로, 다성음악으로 된 즉흥곡이고 '발명', '창의'를 뜻하는 라틴어 inven­tio에서 비롯한 것이다.",
+                    "보통 바흐의 《인벤션과 신포니아》(1723)을 가리키며 바흐는 2성부의 열다섯 곡을 《인벤션》, 3성부의 열다섯 곡을 《신포니아(Sinfonia)》라는 이름 붙였으나, 오늘날에는 이 30곡 모두를 아울러 《인벤션》이라 부른다.",
+                    "먼데이 나이트 워스(), 혹은 월요일 밤의 전쟁은 1995년 9월 4일부터 2001년 3월 26일까지 미국의 프로레슬링 프로그램의 시청률 경쟁을 가리키고 WWF의 《먼데이 나이트 로우》와 WCW의 《먼데이 나이트로》가 매주 월요일 밤 같은 시간대에 시청률을 겨뤘다.",
+                    "2010년 임팩트 레슬링이 월요일 밤으로 이동하면서 9년만에 다시 먼데이 나이트 워스가 재현되지만 일방적으로 WWE가 승리하였고 2010년 5월 《임팩트 레슬링》은 목요일 밤으로 방영 시간을 옮겼다."
+                ]
+            }
+        }
+    ]
+}

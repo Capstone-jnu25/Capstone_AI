@@ -1,0 +1,632 @@
+{
+  "FileInfo": {
+    "filename": "K3-00021-CL25209-CP26196-01-01-S3.json",
+    "sessionLevel": "3"
+  },
+  "participantsInfo": {
+    "numberOfParticipants": "2",
+    "speaker1": {
+      "participantID": "4475",
+      "gender": "남성",
+      "age": "30대",
+      "occupation": "자영업",
+      "bPlace": "대전/세종/충청/강원",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "광주/전라/제주",
+      "educationLevel": "대졸"
+    },
+    "speaker2": {
+      "participantID": "4690",
+      "gender": "여성",
+      "age": "30대",
+      "occupation": "사무직",
+      "bPlace": "서울/경기/인천",
+      "gPlace": "대전/세종/충청/강원",
+      "rPlace": "서울/경기/인천",
+      "educationLevel": "대학원졸"
+    }
+  },
+  "multisessionInfo": {
+    "multisessionID": "3-00021"
+  },
+  "personaInfo": {
+    "clInfo": {
+      "personaID": "25209",
+      "personaFeatures": [
+        "나는 남자이다.",
+        "나는 20대이다.",
+        "나의 거주지는 수원이다",
+        "나는 변리사이다",
+        "나는 클래식 음악을 좋아한다",
+        "나는 정보처리기사 자격증을 준비한다",
+        "나는 오후에 복권을 산다"
+      ],
+      "speakerType": "speaker1"
+    },
+    "cpInfo": {
+      "personaID": "26196",
+      "personaFeatures": [
+        "나는 여자이다.",
+        "나는 20대이다.",
+        "나는 대학생이다",
+        "나는 영어영문학 전공이다",
+        "나는 친구와 자주 만난다",
+        "나는 카페모카를 자주 마신다",
+        "나는 물건을 자주 잃어버린다"
+      ],
+      "speakerType": "speaker2"
+    }
+  },
+  "topicInfo": {
+    "topicID": "01-01",
+    "topicType": "식음료",
+    "topicTitle": "식사"
+  },
+  "sessionInfo": [
+    {
+      "prevSessionID": null,
+      "prevTimeInfo": {
+        "timeNum": null,
+        "timeUnit": null
+      },
+      "nthSession": "1",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00021-1",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "안녕하세요 저는 20대 남성입니다.",
+          "summary": "나는 20대 남성이다.",
+          "date": "2022-11-28",
+          "time": "09:52:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "안녕하세요. 저는 20대 여성입니다.",
+          "summary": "나는 20대 여성이다.",
+          "date": "2022-11-28",
+          "time": "10:01:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "네 저는 수원에 살고 있어요. 변리사로 일합니다.",
+          "summary": "나는 수원에서 살고 있다. 나는 변리사다.",
+          "date": "2022-11-28",
+          "time": "10:03:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "저는 영어영문학을 전공하고 있는 대학생이에요. 변리사면 특허관련 법률 상담해주시는 것이죠?",
+          "summary": "나는 영어영문학을 전공하는 대학생이다.",
+          "date": "2022-11-28",
+          "time": "10:07:19",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "네 맞아요. 이제 막 취업한 초년생 입니다.  그래서 자기개발을 위해 정보처리기사 자격증도 준비하고 있어요",
+          "summary": "나는 사회 초년생이다. 나는 정보처리기사 자격증을 준비 중이다.",
+          "date": "2022-11-28",
+          "time": "10:11:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "멋져요. 저도 영어영문 전공하고 있지만 다른 기술도 준비해야지 싶어요. 커피 좋아하시나요? 전 카페모카를 자주 마셔요.",
+          "summary": "나는 전공 외 다른 기술도 준비해야지 싶다. 나는 카페모카를 자주 마신다.",
+          "date": "2022-11-28",
+          "time": "10:40:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "커피 좋아해요. 커피 마시면 클래식 음악을 듣습니다. 저는 클래식 음악을 좋아해요.",
+          "summary": "나는 클래식 음악을 좋아한다. 나는 커피를 좋아한다.",
+          "date": "2022-11-28",
+          "time": "13:38:08",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "커피와 클래식 음악 궁합도 좋네요.  전 친구와 자주 만나서 카페 투어를 다니네요. 노래 선곡 좋은 곳이 픽 일순위에요.",
+          "summary": " 나는 친구와 자주 만나서 카페 투어를 다닌다.",
+          "date": "2022-11-28",
+          "time": "13:39:55",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "선곡 좋은 카페는 만족스럽죠. 저도 항상 하는 루틴이 있는데 오후에는 복권을 사요",
+          "summary": "나는 오후에 복권을 산다.",
+          "date": "2022-11-28",
+          "time": "16:36:04",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "주기적으로 복권을 사는 거에요? 좋은 소식이 있기를 바래봅니다. 전 물건을 자주 잃어버려서 복권 사기도 겁나요.",
+          "summary": " 나는 물건을 자주 잃어버린다.",
+          "date": "2022-11-28",
+          "time": "21:57:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "네 당첨을 바라는 건 아니지만, 복권을 사면 기분이 좋아지는게 있어요.",
+          "summary": "나는 복권을 사면 기분이 좋아진다.",
+          "date": "2022-11-28",
+          "time": "22:40:52",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "어떤 기분인지 알 것 같아요. 전 아직 사보지는 않았어요. 약간 돈이 아깝다는 생각이 들어서요.",
+          "summary": "나는 복권을 사면 돈이 아깝다는 생각이 든다.",
+          "date": "2022-11-28",
+          "time": "22:51:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "많이는 사지 않고 딱 다섯장만 사요. 기분 전환이 되거든요. 저는 그럼 이만 자러 가보겠습니다.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "00:14:21",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "다섯장이면 만원이네요. 커피 두잔 값은 되겠어요. 하하 아직은 커피가 더 좋네요. 저도 이만 자러 갈게요.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "09:08:01",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 20대 남성이다.",
+          "나는 수원에서 살고 있다. 나는 변리사다.",
+          "나는 사회 초년생이다.",
+          "나는 정보처리기사 자격증을 준비 중이다.",
+          "나는 클래식 음악을 좋아한다. 나는 커피를 좋아한다.",
+          "나는 오후에 복권을 산다.",
+          "나는 복권을 사면 기분이 좋아진다."
+        ],
+        "speaker2": [
+          "나는 20대 여성이다.",
+          "나는 영어영문학을 전공하는 대학생이다.",
+          "나는 전공 외 다른 기술도 준비해야지 싶다.",
+          "나는 카페모카를 자주 마신다.",
+          "나는 친구와 자주 만나서 카페 투어를 다닌다.",
+          "나는 물건을 자주 잃어버린다.",
+          "나는 복권을 사면 돈이 아깝다는 생각이 든다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [],
+        "speaker2": []
+      }
+    },
+    {
+      "prevSessionID": "3-00021-1",
+      "prevTimeInfo": {
+        "timeNum": "7",
+        "timeUnit": "주"
+      },
+      "nthSession": "2",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00021-2",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "너무 오랜만이네요. 7주나 지났어요.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "11:22:40",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "7주가 금방 지나갔네요. 회사 다니시면 식사는 어떻게 하세요?",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "11:23:20",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "저희 회사는 구내식당이 없어서, 회사 밖에서 사먹어요. 그래서 매번 고민이 되죠",
+          "summary": "나는 점심을 매번 회사 밖에서 먹는다.",
+          "date": "2022-11-29",
+          "time": "11:29:32",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "저만 고민하는게 아니군요. 점심식사는 학교 식당을 많이 이용하긴 하는데 매번 먹으면 질려서 밖으로 나가게 되네요.",
+          "summary": "나는 점심에 학교 식당을 많이 이용한다.",
+          "date": "2022-11-29",
+          "time": "11:43:56",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "학교식당은 그래도 메뉴가 다양한 편이죠? 저희 회사 근처는 백반집이 없어요. 저는 백반을 좋아해요",
+          "summary": " 나는 백반을 좋아한다.",
+          "date": "2022-11-29",
+          "time": "11:45:30",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "백반이 가장 좋죠. 매일 먹기에는요. 저는 생선백반이 제일 좋아요. 식사 배달도 많이 하시나요? 배달료가 비싸서 점점 덜 시키게 되는 것 같아요.",
+          "summary": "나는 생선 백반이 제일 좋다. 나는 배달료가 비싸 덜 시키게 된다.",
+          "date": "2022-11-29",
+          "time": "13:31:09",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "가끔 패스트푸드는 배달을 해요. 저도 배달비가 부담이라 자주는 못합니다.",
+          "summary": "나는 배달비가 부담되어서 배달을 자주 시켜 먹진 못한다.",
+          "date": "2022-11-29",
+          "time": "15:49:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "식사비도 최근 많이 올랐는데 배달비까지 더해지면 3만원은 족히 되는거죠? 요리가 다시 유행을 할 것 같아요.",
+          "summary": " 나는 요리가 다시 유행할 것 같다.",
+          "date": "2022-11-29",
+          "time": "16:05:29",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "집에서 요리는 좀 하세요? 저는 요리를 좋아해서 주말에 한 번씩 해봐요",
+          "summary": "나는 요리를 좋아한다.",
+          "date": "2022-11-29",
+          "time": "16:18:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "요리 잘하고 싶어요. 자취해서 겨우겨우 하는데 엄마 밥이 그리울 때가 많아요.",
+          "summary": "나는 요리를 잘하고 싶다.",
+          "date": "2022-11-29",
+          "time": "16:20:39",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "부모님 집에서 많은 반찬에 식사를 하는 게 가장 좋죠. 혼자 식사는 좀 외롭기도 하고요",
+          "summary": "나는 혼자 식사하면 외롭다고 느낀다.",
+          "date": "2022-11-29",
+          "time": "16:25:14",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "이번주에 엄마보러 가는데 맛있는거 해달라고 하려고요. 고기반찬!",
+          "summary": "나는 이번 주에 엄마를 보러 간다.",
+          "date": "2022-11-29",
+          "time": "16:26:57",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "고기반찬 꼭 먹고 오세요. 저는 식사 약속이 있어서 먼저 가보겠습니다.",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "16:38:03",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "네 맛있게 식사하고 오세요. 저도 이만 가볼게요. ",
+          "summary": "",
+          "date": "2022-11-29",
+          "time": "17:03:48",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 점심을 매번 회사 밖에서 먹는다.",
+          "나는 백반을 좋아한다.",
+          "나는 배달비가 부담되어서 배달을 자주 시켜 먹진 못한다.",
+          "나는 요리를 좋아한다.",
+          "나는 혼자 식사하면 외롭다고 느낀다."
+        ],
+        "speaker2": [
+          "나는 점심에 학교 식당을 많이 이용한다.",
+          "나는 생선 백반이 제일 좋다.",
+          "나는 배달료가 비싸 덜 시키게 된다.",
+          "나는 요리가 다시 유행할 것 같다.",
+          "나는 요리를 잘하고 싶다.",
+          "나는 이번 주에 엄마를 보러 간다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남성이다.",
+          "나는 수원에서 살고 있다. 나는 변리사다.",
+          "나는 사회 초년생이다.",
+          "나는 정보처리기사 자격증을 준비 중이다.",
+          "나는 클래식 음악을 좋아한다. 나는 커피를 좋아한다.",
+          "나는 오후에 복권을 산다.",
+          "나는 복권을 사면 기분이 좋아진다."
+        ],
+        "speaker2": [
+          "나는 20대 여성이다.",
+          "나는 영어영문학을 전공하는 대학생이다.",
+          "나는 전공 외 다른 기술도 준비해야지 싶다.",
+          "나는 카페모카를 자주 마신다.",
+          "나는 친구와 자주 만나서 카페 투어를 다닌다.",
+          "나는 물건을 자주 잃어버린다.",
+          "나는 복권을 사면 돈이 아깝다는 생각이 든다."
+        ]
+      }
+    },
+    {
+      "prevSessionID": "3-00021-2",
+      "prevTimeInfo": {
+        "timeNum": "9",
+        "timeUnit": "시간"
+      },
+      "nthSession": "3",
+      "numberOfUtterances": "14",
+      "numberOfTurns": "7",
+      "sessionID": "3-00021-3",
+      "dialog": [
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "저는 아까 전에 클래식 음악 좀 듣고 왔습니다~9시간만이네요. ",
+          "summary": "나는 클래식 음악을 들었다.",
+          "date": "2022-11-30",
+          "time": "20:24:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "9시간만에 만나네요. 음악 들을 때 뭐하세요? 눈 감고 감상? 차 한 잔? 식사?",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "20:31:31",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "보통 식사 준비를 할 때 많이 틀어놓아요~ 기분이 좋거든요.",
+          "summary": "나는 식사 준비할 때 클래식 음악을 틀어놓는다.",
+          "date": "2022-11-30",
+          "time": "22:25:18",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "노래 들으면서 요리하는거 저도 좋아해요! 전 주로 K-POP을 들어요. 클래식을 들으면서 요리면 양식이었을 것 같아요!",
+          "summary": "나는 K-POP 노래를 들으며 요리하는 걸 좋아한다.",
+          "date": "2022-11-30",
+          "time": "22:27:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "아쉽지만! 양식은 아니네요. 한식 위주 이지만 그래도 맛있게 먹습니다 ",
+          "summary": "",
+          "date": "2022-11-30",
+          "time": "23:16:35",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "요리 잘하시면 점심 식사로 도시락 싸가시는것도 가능하겠어요.",
+          "summary": "",
+          "date": "2022-12-01",
+          "time": "08:32:59",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "제가 하는 요리는 거의 술안주거든요 ㅎㅎ 그래서 점심 도시락으로는 좀 어렵네요",
+          "summary": "나는 술안주 요리를 주로 만든다.",
+          "date": "2022-12-01",
+          "time": "10:16:33",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "식사 하실 때 약주 하시는군요! 그럼 확실히 안주 위주로 요리를 하게 되죠. ",
+          "summary": "",
+          "date": "2022-12-01",
+          "time": "12:53:48",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "네 맞아요. 오늘 식사는 어떤걸 드셨나요?",
+          "summary": "",
+          "date": "2022-12-01",
+          "time": "14:10:23",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "오늘은 특별하게 네팔 전문 식당에 가봤어요. 난이랑 커리 시켜서 맛있게 먹었어요.",
+          "summary": "나는 네팔 전문 식당에서 난과 카레를 먹었다.",
+          "date": "2022-12-01",
+          "time": "16:44:46",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "아 네팔 음식도 난이랑 커리가 있군요! 저도 얼마전에 인도 음식점에서 커리를 먹었어요",
+          "summary": "",
+          "date": "2022-12-01",
+          "time": "17:00:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "저도 처음엔 인도식당인 줄 알았더니 네팔 음식점이었어요. 처음에는 생각보다 커리양이 작아서 놀랐더랬죠. 먹다보니 금방 배불러졌어요.",
+          "summary": "나는 인도식당인 줄 알았는데 네팔 음식점이었다. 나는 카레 양이 생각보다 작아서 놀랐는데, 금방 배불러졌다.",
+          "date": "2022-12-01",
+          "time": "17:19:37",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker1",
+          "personaID": "25209",
+          "participantID": "4475",
+          "utterance": "네 난이 작아 보여도 꽤 양이 되더라고요. 저는 커리에 밥 비벼 먹는걸 더 좋아해요",
+          "summary": "나는 카레에 밥 비벼 먹는 걸 더 좋아한다.",
+          "date": "2022-12-01",
+          "time": "17:22:50",
+          "terminate": "false"
+        },
+        {
+          "speaker": "speaker2",
+          "personaID": "26196",
+          "participantID": "4690",
+          "utterance": "다음에 커리 집에 식사하러 가게 되면 밥하고 먹어봐야겠어요. 전 다시 수업들으러 가볼게요.",
+          "summary": "나는 다음에 카레 집에 가면 밥하고 먹을 것이다.",
+          "date": "2022-12-01",
+          "time": "17:23:41",
+          "terminate": "true"
+        }
+      ],
+      "sessionPersonaSummary": {
+        "speaker1": [
+          "나는 클래식 음악을 들었다.",
+          "나는 식사 준비할 때 클래식 음악을 틀어놓는다.",
+          "나는 술안주 요리를 주로 만든다.",
+          "나는 카레에 밥 비벼 먹는 걸 더 좋아한다."
+        ],
+        "speaker2": [
+          "나는 K-POP 노래를 들으며 요리하는 걸 좋아한다.",
+          "나는 네팔 전문 식당에서 난과 카레를 먹었다.",
+          "나는 인도식당인 줄 알았는데 네팔 음식점이었다. 나는 카레 양이 생각보다 작아서 놀랐는데, 금방 배불러졌다.",
+          "나는 다음에 카레 집에 가면 밥하고 먹을 것이다."
+        ]
+      },
+      "prevAggregatedpersonaSummary": {
+        "speaker1": [
+          "나는 20대 남성이다.",
+          "나는 수원에서 살고 있다. 나는 변리사다.",
+          "나는 사회 초년생이다.",
+          "나는 정보처리기사 자격증을 준비 중이다.",
+          "나는 클래식 음악을 좋아한다. 나는 커피를 좋아한다.",
+          "나는 오후에 복권을 산다.",
+          "나는 복권을 사면 기분이 좋아진다.",
+          "나는 점심을 매번 회사 밖에서 먹는다.",
+          "나는 백반을 좋아한다.",
+          "나는 배달비가 부담되어서 배달을 자주 시켜 먹진 못한다.",
+          "나는 요리를 좋아한다.",
+          "나는 혼자 식사하면 외롭다고 느낀다."
+        ],
+        "speaker2": [
+          "나는 20대 여성이다.",
+          "나는 영어영문학을 전공하는 대학생이다.",
+          "나는 전공 외 다른 기술도 준비해야지 싶다.",
+          "나는 카페모카를 자주 마신다.",
+          "나는 친구와 자주 만나서 카페 투어를 다닌다.",
+          "나는 물건을 자주 잃어버린다.",
+          "나는 복권을 사면 돈이 아깝다는 생각이 든다.",
+          "나는 점심에 학교 식당을 많이 이용한다.",
+          "나는 생선 백반이 제일 좋다.",
+          "나는 배달료가 비싸 덜 시키게 된다.",
+          "나는 요리가 다시 유행할 것 같다.",
+          "나는 요리를 잘하고 싶다.",
+          "나는 이번 주에 엄마를 보러 간다."
+        ]
+      }
+    }
+  ]
+}
