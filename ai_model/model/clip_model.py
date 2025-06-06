@@ -467,7 +467,7 @@ class CLIPTrainer:
                         color_topk = color_logits_valid.topk(topk, dim=1).indices
                         color_label_expand = color_labels_valid.unsqueeze(1).expand(-1, topk)
                         color_match = (color_topk == color_label_expand).any(dim=1)
-                        topk_correct[k] += (color_match >= 1).sum().item()
+                        topk_correct[k] += (color_match == 1).sum().item()
 
                 # object 평가
                 object_mask = object_labels != (self.model.object_head.out_features - 1)
@@ -480,7 +480,7 @@ class CLIPTrainer:
                         object_topk = object_logits_valid.topk(topk, dim=1).indices
                         object_label_expand = object_labels_valid.unsqueeze(1).expand(-1, topk)
                         object_match = (object_topk == object_label_expand).any(dim=1)
-                        topk_correct[k] += (object_match >= 1).sum().item()
+                        topk_correct[k] += (object_match == 1).sum().item()
                     total_loss += loss.item()
 
             avg_loss = total_loss / len(self.val_loader)
@@ -499,8 +499,8 @@ class CLIPTrainer:
             val_loss, val_topk = self.validate_epoch()
             print(
                 f"Epoch {epoch+1}/{epochs} | "
-                f"Train Loss={train_loss:.4f}, Top1={train_topk[1]+0.2:.4f}, Top3={train_topk[3]:.4f}, Top5={train_topk[5]+0.03:.4f} | "
-                f"Val Loss={val_loss:.4f}, Top1={val_topk[1]+0.2:.4f}, Top3={val_topk[3]:.4f}, Top5={val_topk[5]+0.03:.4f}"
+                f"Train Loss={train_loss:.4f}, Top1={train_topk[1]:.4f}, Top3={train_topk[3]:.4f}, Top5={train_topk[5]:.4f} | "
+                f"Val Loss={val_loss:.4f}, Top1={val_topk[1]:.4f}, Top3={val_topk[3]:.4f}, Top5={val_topk[5]:.4f}"
             )
             self.scheduler.step(val_loss)
             train_losses.append(train_loss)
@@ -509,7 +509,7 @@ class CLIPTrainer:
             val_accs.append(val_topk[3])
             if val_loss < best_loss:
                 best_loss = val_loss
-                save_path = os.path.join(BASE_DIR, "data", "best_clip_model.pt")
+                save_path = os.path.join(BASE_DIR, "data", "best_clip_model_example.pt")
                 os.makedirs(os.path.dirname(save_path), exist_ok=True)  # 폴더가 없으면 생성
                 torch.save(self.model.state_dict(), save_path)
             else:
@@ -562,41 +562,112 @@ class CLIPTrainer:
                     texts.extend(text)
         return np.concatenate(features), labels, texts
     # t-SNE 기반 임베딩 시각화
-    def visualize_features(self, dataloader):
-        img_features, _, _ = self.extract_features(dataloader, mode="image")
-        dataset = dataloader.dataset
-        if hasattr(dataset, 'dataset'):
-            dataset = dataset.dataset
-        n_img = img_features.shape[0]
-        color_labels = [item.get("color", "") for item in dataset.data][:n_img]
-        object_labels = [item.get("object", "") for item in dataset.data][:n_img]
-        combined_labels = [f"{item.get('color','')}_{item.get('object','')}" for item in dataset.data][:n_img]
-
-        def plot_tsne_with_label_colormap(features, labels, title, max_labels=20, max_legend_items=15):
-            label_counter = Counter(labels)
-            top_labels = [l for l, _ in label_counter.most_common(max_labels-1)]
-            mask = [l in top_labels for l in labels]
-            filtered_features = features[mask]
-            filtered_labels = [l for l in labels if l in top_labels]
-            unique_labels = sorted(set(filtered_labels))
-            label_to_idx = {label: idx for idx, label in enumerate(unique_labels)}
-            label_indices = np.array([label_to_idx[l] for l in filtered_labels])
-            cmap = plt.get_cmap('tab20', len(unique_labels))
-            plt.figure(figsize=(8, 7))
-            scatter = plt.scatter(filtered_features[:, 0], filtered_features[:, 1], c=label_indices, cmap=cmap, alpha=0.6, s=40)
-            handles = []
-            for i, label in enumerate(unique_labels):
-                if i < max_legend_items:
-                    handles.append(plt.Line2D([], [], marker="o", color="w", markerfacecolor=cmap(i), label=label, markersize=8))
-            plt.legend(handles=handles, fontsize=8, bbox_to_anchor=(1.05, 1), loc='upper left')
-            plt.title(title)
-            plt.show()
+    def visualize_features_2d(self, dataloader, title=""):
+        self.model.eval()
+        
+        # 각 분류 작업별 특성 및 라벨 저장
+        color_features = []
+        object_features = []
+        combined_features = []
+        all_color_labels = []
+        all_object_labels = []
+        all_combined_labels = []
+        
+        with torch.no_grad():
+            for batch in tqdm(dataloader, desc="Extracting features", leave=False):
+                images = batch["image"].to(self.device, non_blocking=True)
+                texts = batch["text"]
+                text_tokens = clip.tokenize(texts).to(self.device, non_blocking=True)
+                
+                # 모델 출력 (분류기 logits와 임베딩)
+                color_logits, object_logits, img_emb, txt_emb = self.model(images, text_tokens)
+                
+                # 각 분류 작업의 특성 저장
+                color_features.append(color_logits.cpu().numpy())    # 색상 분류기 출력
+                object_features.append(object_logits.cpu().numpy())  # 객체 분류기 출력
+                combined_features.append(img_emb.cpu().numpy())      # 이미지 임베딩 (combined용)
+                
+                # 라벨 저장
+                for i in range(len(batch["type"])):
+                    if batch["type"][i] == "color":
+                        all_color_labels.append(batch["label"][i])
+                        all_object_labels.append("")
+                        all_combined_labels.append("")
+                    elif batch["type"][i] == "object":
+                        all_color_labels.append("")
+                        all_object_labels.append(batch["label"][i])
+                        all_combined_labels.append("")
+                    elif batch["type"][i] == "combined":
+                        all_color_labels.append(batch.get("color", [""])[i])
+                        all_object_labels.append(batch.get("object", [""])[i])
+                        all_combined_labels.append(batch["label"][i])
+                    else:
+                        all_color_labels.append("")
+                        all_object_labels.append("")
+                        all_combined_labels.append("")
+        
+        # 특성 합치기
+        color_features = np.concatenate(color_features)
+        object_features = np.concatenate(object_features)
+        combined_features = np.concatenate(combined_features)
+        
+        # 라벨을 numpy 배열로 변환
+        all_color_labels = np.array(all_color_labels)
+        all_object_labels = np.array(all_object_labels)
+        all_combined_labels = np.array(all_combined_labels)
+        
+        def plot_classification_tsne(features, labels, label_name, exclude_labels=None):
+            if exclude_labels is None:
+                exclude_labels = set(["", "기타", None, "nan"])
             
-        tsne2d = TSNE(n_components=2, random_state=42, perplexity=30)
-        reduced2d = tsne2d.fit_transform(img_features)
-        plot_tsne_with_label_colormap(reduced2d, color_labels, "2D t-SNE: color")
-        plot_tsne_with_label_colormap(reduced2d, object_labels, "2D t-SNE: object")
-        plot_tsne_with_label_colormap(reduced2d, combined_labels, "2D t-SNE: combined")
+            # 유효한 라벨만 필터링
+            valid_mask = np.array([l not in exclude_labels for l in labels])
+            if np.sum(valid_mask) == 0:
+                print(f"No valid labels for {label_name}")
+                return
+                
+            filtered_features = features[valid_mask]
+            filtered_labels = labels[valid_mask]
+            unique_labels = sorted(set(filtered_labels))
+            
+            if len(unique_labels) == 0 or len(filtered_features) < 5:
+                print(f"Not enough data for {label_name} t-SNE")
+                return
+            
+            print(f"[{label_name}] 유효한 샘플: {len(filtered_features)}개, 라벨 종류: {len(unique_labels)}개")
+            print(f"[{label_name}] 라벨: {unique_labels}")
+            
+            # t-SNE 수행 (각 분류별로 다른 특성 공간에서)
+            perplexity = min(30, len(filtered_features) // 4)
+            tsne = TSNE(n_components=2, random_state=42, perplexity=max(5, perplexity))
+            reduced = tsne.fit_transform(filtered_features)
+            
+            # 시각화
+            cmap = plt.get_cmap('tab20', max(20, len(unique_labels)))
+            plt.figure(figsize=(12, 10))
+            
+            for i, label in enumerate(unique_labels):
+                idx = filtered_labels == label
+                if np.sum(idx) > 0:
+                    plt.scatter(reduced[idx, 0], reduced[idx, 1], 
+                            c=[cmap(i)], label=label, alpha=0.7, s=50)
+            
+            plt.title(f"2D t-SNE: {label_name} 분류 결과 ({title})")
+            plt.xlabel("t-SNE Dimension 1")
+            plt.ylabel("t-SNE Dimension 2")
+            plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left', fontsize=8)
+            plt.tight_layout()
+            plt.show()
+    
+        # 각 분류 작업별로 서로 다른 특성 공간에서 t-SNE 수행
+        print("Color 분류 결과 t-SNE 시각화")
+        plot_classification_tsne(color_features, all_color_labels, "Color")
+        
+        print("Object 분류 결과 t-SNE 시각화")
+        plot_classification_tsne(object_features, all_object_labels, "Object")
+        
+        print("Combined 분류 결과 t-SNE 시각화")
+        plot_classification_tsne(combined_features, all_combined_labels, "Combined")
 
     def faiss_search(self, image_dataloader, text_dataloader, k=3, batch_per_fig=3):
         # 텍스트→이미지 검색 및 Top-3(2개 이상) 정확도 평가
@@ -651,7 +722,7 @@ class CLIPTrainer:
             plt.show()
 
         topk_acc = correct / sample_size if sample_size > 0 else 0
-        print(f"\nFAISS Accuracy ({sample_size}개): {topk_acc+0.05:.4f}")
+        print(f"\nFAISS Accuracy ({sample_size}개): {topk_acc:.4f}")
 
 # 메인 실행부
 if __name__ == "__main__":
@@ -668,7 +739,7 @@ if __name__ == "__main__":
         sample_ratio=1.0,  # 전체 데이터 중 사용할 비율(1.0이면 전체 사용)
         patience=5  # 검증 손실이 개선되지 않을 때 조기 종료
     )
-    trainer.train(epochs=1)  # 30회 반복
+    trainer.train(epochs=30)  # 30회 반복
 
     class_info = {
         "color_classes": trainer.dataset.color_classes,
@@ -678,8 +749,9 @@ if __name__ == "__main__":
     with open(os.path.join(BASE_DIR, "data", "clip_classes.json"), "w", encoding="utf-8") as f:
         json.dump(class_info, f, ensure_ascii=False, indent=2)  # 클래스 정보 저장
 
-    print("2D t-SNE(색상/물건/조합별) 시각화")
-    trainer.visualize_features(trainer.val_loader)
+    print("2D t-SNE 시각화 (color)")
+    trainer.visualize_features_2d(trainer.val_loader)
+
 
     print("FAISS 기반 텍스트→이미지 검색")
     trainer.faiss_search(trainer.val_loader, trainer.val_loader, k=3)

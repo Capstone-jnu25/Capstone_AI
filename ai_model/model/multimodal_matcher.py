@@ -1,28 +1,28 @@
 import os
+import sys
 import torch
 import numpy as np
-import requests
+import json
 import logging
-from fastapi import FastAPI
-from pydantic import BaseModel
+from fastapi import FastAPI, UploadFile, File, Form, HTTPException
 from typing import List, Optional
-from contextlib import asynccontextmanager
 from PIL import Image
 from .keyword_extractor import StopwordAwareTFIDF
 from .clip_model import CLIPTrainer
 import faiss
-from sklearn.feature_extraction.text import TfidfVectorizer
 
 app = FastAPI()
 
-# ----- 설정 -----
+# ----- 설정 및 모델 로드 -----
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MODEL_PATH = os.path.join(BASE_DIR, "data", "best_clip_model.pt")
 TFIDF_MODEL_PATH = os.path.join(BASE_DIR, "data", "tfidf_model.joblib")
-BACKEND_API_URL = "http://13.124.71.212:8080/api/lost-board"  # 실제 백엔드 API 주소
+TEMP_DIR = "/tmp"
 
-# ----- 키워드 추출기 및 모델 로드 -----
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
 keyword_extractor = StopwordAwareTFIDF()
 keyword_extractor.load_model(TFIDF_MODEL_PATH)
 
@@ -38,152 +38,173 @@ trainer = CLIPTrainer(
 trainer.model.load_state_dict(torch.load(MODEL_PATH, map_location=DEVICE))
 trainer.model.eval()
 
-# ----- 입력/출력 데이터 모델 -----
-class PostRequest(BaseModel):
-    id: int
-    title: str = ""
-    content: str = ""
-    image_path: Optional[str] = None
+# ----- 임베딩 유틸리티 -----
+def process_image(image_path: str):
+    image = Image.open(image_path).convert("RGB")
+    image_tensor = trainer.dataset.preprocess(image).unsqueeze(0).to(DEVICE)
+    with torch.no_grad():
+        img_emb = trainer.model.clip.encode_image(image_tensor)
+        img_emb = img_emb / img_emb.norm(dim=-1, keepdim=True)
+    return img_emb.cpu().numpy()[0]
 
-class RecommendResponse(BaseModel):
-    recommended_ids: List[int]
-    keywords: List[str]
-
-# ----- 게시글 데이터 API에서 받아오기 -----
-def fetch_posts_from_api(api_url):
-    try:
-        response = requests.get(api_url, timeout=5)
-        response.raise_for_status()
-        return response.json()
-    except Exception as e:
-        print(f"API 요청 실패: {e}")
-        return []
-
-def build_post_embeddings(posts, text_query_emb=None):
-    """
-    posts: 게시글 리스트
-    text_query_emb: 텍스트 쿼리 임베딩(numpy array), 텍스트로 이미지 검색 시 사용
-    """
-    embeddings = []
-    ids = []
-    keywords_list = []
-    text_corpus = []
-    for post in posts:
-        text = (post.get("title", "") or "") + " " + (post.get("content", "") or "")
-        keywords = keyword_extractor.extract_keywords(text)
-        keywords_list.append(keywords)
-        text_corpus.append(text)
-        image_path = post.get("image_path", "")
-        if image_path and not os.path.isabs(image_path):
-            image_path = os.path.join(BASE_DIR, image_path)
-        if image_path and os.path.exists(image_path):
-            image = Image.open(image_path).convert("RGB")
-            image_tensor = trainer.dataset.preprocess(image).unsqueeze(0).to(DEVICE)
-            with torch.no_grad():
-                img_emb = trainer.model.clip.encode_image(image_tensor)
-                img_emb = img_emb / img_emb.norm(dim=-1, keepdim=True)
-            img_emb_np = img_emb.cpu().numpy()[0]
-            embeddings.append(img_emb_np)
-            ids.append(post["id"])
-        else:
-            embeddings.append(None)
-            ids.append(post["id"])
-    return embeddings, ids, keywords_list, text_corpus
+def process_text(text: str):
+    with torch.no_grad():
+        text_token = trainer.model.clip.tokenize([text]).to(DEVICE)
+        text_emb = trainer.model.clip.encode_text(text_token)
+        text_emb = text_emb / text_emb.norm(dim=-1, keepdim=True)
+    return text_emb.cpu().numpy()[0]
 
 def create_faiss_index(embeddings):
-    if not embeddings:
+    if not embeddings or len(embeddings) == 0:
         return None
     embs = np.stack(embeddings).astype('float32')
     index = faiss.IndexFlatIP(embs.shape[1])
     index.add(embs)
     return index
 
-# ----- 서버 시작 시 FAISS 인덱스 사전 계산 -----
-faiss_index = None
-db_ids = []
+async def save_temp_file(file: UploadFile) -> str:
+    temp_path = os.path.join(TEMP_DIR, file.filename)
+    with open(temp_path, "wb") as f:
+        content = await file.read()
+        f.write(content)
+    return temp_path
 
-@asynccontextmanager
-async def lifespan(app: FastAPI):
-    global faiss_index, db_ids, keyword_extractor, trainer
-    # Startup: 서버 시작 시 FAISS 인덱스 미리 빌드
-    posts = fetch_posts_from_api(BACKEND_API_URL)
-    embeddings, ids, keyword_extractor, trainer = build_post_embeddings(posts)
-    faiss_index = create_faiss_index(embeddings)
-    db_ids = ids
-    logging.info(f"FAISS 인덱스 빌드 완료: {len(db_ids)}개 게시글")
-    yield
-    # (필요하다면 종료시 리소스 정리 코드 추가)
+def cleanup_temp_files(file_paths):
+    for path in file_paths:
+        if path and os.path.exists(path):
+            try:
+                os.remove(path)
+            except Exception as e:
+                logger.error(f"임시 파일 삭제 오류: {str(e)}")
 
-app = FastAPI(lifespan=lifespan)
+def search_similar(query_emb, index, ids, top_k=3):
+    if index is None or query_emb is None:
+        return []
+    query_emb = query_emb.reshape(1, -1).astype('float32')
+    k = min(top_k, index.ntotal)
+    if k == 0:
+        return []
+    D, I = index.search(query_emb, k)
+    return [ids[i] for i in I[0]]
 
-# ----- 추천 API -----
-@app.post("/ai/recommend", response_model=RecommendResponse)
-def ai_recommend(post: PostRequest):
-    # 1. 백엔드 API에서 게시글 데이터 받아오기
-    posts_db = fetch_posts_from_api(BACKEND_API_URL)
+# ----- API -----
+@app.post("/ai/recommend")
+async def multimodal_recommend(
+    newPost: Optional[str] = Form(None),
+    newImage: Optional[UploadFile] = File(None),
+    existingPosts: str = Form(...),
+    existingImages: List[UploadFile] = File(...)
+):
+    """
+    1) 새 게시글 기반 추천 (텍스트+선택적 이미지)
+    2) 이미지 기반 추천 (이미지 단독)
+    """
+    temp_files = []
+    try:
+        # 1. 기존 게시글 데이터 파싱
+        existing_posts = json.loads(existingPosts)
+        existing_post_ids = [post["postId"] for post in existing_posts]
+        existing_keywords = [post.get("keywords", []) for post in existing_posts]
 
-    # 2. 키워드 추출
-    text = (post.title or "") + " " + (post.content or "")
-    keywords = keyword_extractor.extract_keywords(text)
+        # 2. 기존 이미지 임베딩
+        existing_img_embeddings, existing_img_paths = [], []
+        for img_file in existingImages:
+            temp_path = await save_temp_file(img_file)
+            temp_files.append(temp_path)
+            existing_img_paths.append(temp_path)
+            emb = process_image(temp_path)
+            existing_img_embeddings.append(emb)
 
-    # 3. 전체 게시글 임베딩/키워드 준비
-    embeddings, ids, keywords_list, text_corpus = build_post_embeddings(posts_db)
+        # 3. 기존 키워드 임베딩
+        existing_text_embeddings = []
+        for keywords in existing_keywords:
+            if isinstance(keywords, list):
+                text = " ".join(keywords)
+            else:
+                text = str(keywords)
+            emb = process_text(text)
+            existing_text_embeddings.append(emb)
 
-    # 4. 입력 이미지 임베딩 추출
-    if post.image_path:
-        image_path = post.image_path
-        if not os.path.isabs(image_path):
-            image_path = os.path.join(BASE_DIR, image_path)
-        if os.path.exists(image_path):
-            image = Image.open(image_path).convert("RGB")
-            image_tensor = trainer.dataset.preprocess(image).unsqueeze(0).to(DEVICE)
-            with torch.no_grad():
-                query_emb = trainer.model.clip.encode_image(image_tensor)
-                query_emb = query_emb / query_emb.norm(dim=-1, keepdim=True)
-            query_emb_np = query_emb.cpu().numpy()[0].astype('float32').reshape(1, -1)
+        # 4. FAISS 인덱스 생성
+        img_index = create_faiss_index(existing_img_embeddings)
+        text_index = create_faiss_index(existing_text_embeddings)
 
-            # 5. FAISS 인덱스 생성 (임베딩이 있는 게시글만)
-            valid_indices = [i for i, emb in enumerate(embeddings) if emb is not None]
-            if not valid_indices:
-                return RecommendResponse(recommended_ids=[], keywords=keywords)
-            db_embs = np.stack([embeddings[i] for i in valid_indices]).astype('float32')
-            db_ids = [ids[i] for i in valid_indices]
+        # 5. 모드 판별 및 쿼리 임베딩 생성
+        recommended_ids = []
+        extracted_keywords = []
 
-            index = faiss.IndexFlatIP(db_embs.shape[1])
-            index.add(db_embs)
-            D, I = index.search(query_emb_np, min(4, len(db_ids)))
-            top_idx = I[0][1:4] if len(db_ids) > 1 else I[0][:1]
-            recommended_ids = [db_ids[i] for i in top_idx]
-            return RecommendResponse(recommended_ids=recommended_ids, keywords=keywords)
+        # ----- [1] 새 게시글 기반 추천 -----
+        if newPost and not newImage:
+            post_data = json.loads(newPost)
+            text = f"{post_data.get('title', '')} {post_data.get('contents', '')}"
+            extracted_keywords = keyword_extractor.extract_keywords(text)
+            new_text_emb = process_text(" ".join(extracted_keywords))
+
+            # 기존 이미지가 하나도 없고, 기존 텍스트 임베딩이 있을 때
+            if img_index is None and text_index is not None:
+                recommended_ids = search_similar(new_text_emb, text_index, existing_post_ids)
+            # 기존 이미지가 있으면 기존 코드대로 텍스트-이미지 유사도
+            elif img_index is not None:
+                recommended_ids = search_similar(new_text_emb, img_index, existing_post_ids)
+            else:
+                recommended_ids = []
+
+        # ----- [1-2] 새 게시글 + 이미지 기반 추천 -----
+        elif newPost and newImage:
+            post_data = json.loads(newPost)
+            text = f"{post_data.get('title', '')} {post_data.get('contents', '')}"
+            extracted_keywords = keyword_extractor.extract_keywords(text)
+            text_query = " ".join(extracted_keywords) if extracted_keywords else text
+            text_emb = process_text(text_query)
+
+            new_img_path = await save_temp_file(newImage)
+            temp_files.append(new_img_path)
+            img_emb = process_image(new_img_path)
+
+            # 1) 새 이미지 ↔ 기존 이미지
+            img_img_ids = search_similar(img_emb, img_index, existing_post_ids)
+            # 2) 새 텍스트 ↔ 기존 이미지
+            text_img_ids = search_similar(text_emb, img_index, existing_post_ids)
+            # 3) 새 이미지 ↔ 기존 텍스트
+            img_text_ids = search_similar(img_emb, text_index, existing_post_ids)
+
+            # 결과 통합 (우선순위: img_img > text_img > img_text)
+            all_ids = []
+            for id_list in [img_img_ids, text_img_ids, img_text_ids]:
+                for pid in id_list:
+                    if pid not in all_ids:
+                        all_ids.append(pid)
+            recommended_ids = all_ids[:3]
+
+        # ----- [2] 이미지 기반 추천 -----
+        elif newImage:
+            new_img_path = await save_temp_file(newImage)
+            temp_files.append(new_img_path)
+            img_emb = process_image(new_img_path)
+
+            # 1) 새 이미지 ↔ 기존 이미지
+            img_img_ids = search_similar(img_emb, img_index, existing_post_ids)
+            # 2) 새 이미지 ↔ 기존 텍스트
+            img_text_ids = search_similar(img_emb, text_index, existing_post_ids)
+
+            # 결과 통합 (우선순위: img_img > img_text)
+            all_ids = []
+            for id_list in [img_img_ids, img_text_ids]:
+                for pid in id_list:
+                    if pid not in all_ids:
+                        all_ids.append(pid)
+            recommended_ids = all_ids[:3]
+
         else:
-            # 이미지 경로가 있지만 파일이 없으면 텍스트로 이미지 검색 -> 6번으로 이동
-            pass
+            raise HTTPException(400, "텍스트나 이미지 중 하나는 필수입니다.")
 
-    # 6. 이미지가 없거나 임베딩 불가 시: 텍스트로 이미지 검색 (CLIP 텍스트 인코더 활용)
-    # 텍스트 쿼리 임베딩 추출
-    if keywords:
-        # 키워드들을 언더스코어로 연결 (예: 빨간_지갑)
-        keyword_query = " ".join(keywords)
-    else:
-        keyword_query = text  # 키워드가 없으면 전체 텍스트 사용
-
-    with torch.no_grad():
-        text_token = trainer.model.clip.tokenize([keyword_query]).to(DEVICE)
-        text_emb = trainer.model.clip.encode_text(text_token)
-        text_emb = text_emb / text_emb.norm(dim=-1, keepdim=True)
-        text_emb_np = text_emb.cpu().numpy().astype('float32')
-
-    # 이미지 임베딩이 있는 게시글만 대상으로 FAISS 검색
-    valid_indices = [i for i, emb in enumerate(embeddings) if emb is not None]
-    if not valid_indices:
-        return RecommendResponse(recommended_ids=[], keywords=keywords)
-    db_embs = np.stack([embeddings[i] for i in valid_indices]).astype('float32')
-    db_ids = [ids[i] for i in valid_indices]
-
-    index = faiss.IndexFlatIP(db_embs.shape[1])
-    index.add(db_embs)
-    D, I = index.search(text_emb_np, min(4, len(db_ids)))
-    top_idx = I[0][:3]
-    recommended_ids = [db_ids[i] for i in top_idx]
-    return RecommendResponse(recommended_ids=recommended_ids, keywords=keywords)
+        return {
+            "recommended_ids": recommended_ids,
+            "keywords": extracted_keywords
+        }
+    except Exception as e:
+        logger.error(f"추천 처리 실패: {str(e)}")
+        raise HTTPException(500, f"추천 처리 중 오류 발생: {str(e)}")
+    finally:
+        cleanup_temp_files(temp_files)
 
